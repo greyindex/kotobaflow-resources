@@ -1,0 +1,993 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 177.558,
+ "listening_review": "pending",
+ "source_chapter": 60,
+ "turns": [
+  {
+   "turn_id": "C60-D002",
+   "turn_index": 0,
+   "speaker": "ハサン",
+   "source_text": "公民館は8人で12,000円。でも二人は時間が合いませんね。",
+   "sentence_ids": [
+    "C60-D002-S01",
+    "C60-D002-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 7.187,
+   "duration_sec": 7.187
+  },
+  {
+   "turn_id": "C60-D003",
+   "turn_index": 1,
+   "speaker": "林梅",
+   "source_text": "ええ。私も川西市在住ですが、緑町勤務なので資格はあります。二人も資格の問題ではありません。",
+   "sentence_ids": [
+    "C60-D003-S01",
+    "C60-D003-S02",
+    "C60-D003-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 7.537,
+   "end_sec": 15.597,
+   "duration_sec": 8.06
+  },
+  {
+   "turn_id": "C60-D008",
+   "turn_index": 2,
+   "speaker": "ハサン",
+   "source_text": "オンラインの特典は確認中ですね。なければ予算を2,000円超えます。私は会社に支払いの許可を聞きます。",
+   "sentence_ids": [
+    "C60-D008-S01",
+    "C60-D008-S02",
+    "C60-D008-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 15.947,
+   "end_sec": 23.527,
+   "duration_sec": 7.58
+  },
+  {
+   "turn_id": "C60-D009",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "私が初回資格を確認します。質問はともかく、優先順位は全員が続けられること、次に予算です。",
+   "sentence_ids": [
+    "C60-D009-S01",
+    "C60-D009-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 23.877,
+   "end_sec": 32.462,
+   "duration_sec": 8.585
+  },
+  {
+   "turn_id": "C60-D010",
+   "turn_index": 4,
+   "speaker": "ハサン",
+   "source_text": "大野さんは直接聞ける講座に限ると言っていました。オンラインが無理なら、どうしますか。",
+   "sentence_ids": [
+    "C60-D010-S01",
+    "C60-D010-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 32.812,
+   "end_sec": 39.592,
+   "duration_sec": 6.78
+  },
+  {
+   "turn_id": "C60-D011",
+   "turn_index": 5,
+   "speaker": "林梅",
+   "source_text": "6人で公民館なら9,000円。二人が図書館を使い、教材を二冊追加しても総額10,000円です。",
+   "sentence_ids": [
+    "C60-D011-S01",
+    "C60-D011-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.942,
+   "end_sec": 47.645,
+   "duration_sec": 7.703
+  },
+  {
+   "turn_id": "C60-D016",
+   "turn_index": 6,
+   "speaker": "ハサン",
+   "source_text": "6,000円残りますね。ただ、二人の同意なしには決められません。教材の供給は大丈夫ですか。",
+   "sentence_ids": [
+    "C60-D016-S01",
+    "C60-D016-S02",
+    "C60-D016-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.995,
+   "end_sec": 54.599,
+   "duration_sec": 6.604
+  },
+  {
+   "turn_id": "C60-D017",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "在庫も私が聞きます。なければ別の本を使えるか二人と相談します。14日までに確認して全員に連絡します。まだ申し込みません。",
+   "sentence_ids": [
+    "C60-D017-S01",
+    "C60-D017-S02",
+    "C60-D017-S03",
+    "C60-D017-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 54.949,
+   "end_sec": 65.415,
+   "duration_sec": 10.466
+  },
+  {
+   "turn_id": "C60-D101",
+   "turn_index": 8,
+   "speaker": "ハサン",
+   "source_text": "別件ですが、衣料室の体験会用の小物は購入しますか。予算は別ですね。",
+   "sentence_ids": [
+    "C60-D101-S01",
+    "C60-D101-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 66.315,
+   "end_sec": 72.592,
+   "duration_sec": 6.277
+  },
+  {
+   "turn_id": "C60-D102",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "はい。個人の家計から出すので、懐具合を考えて一人分1,000円までです。住宅ローンもあり、あり金を使う余裕はありません。",
+   "sentence_ids": [
+    "C60-D102-S01",
+    "C60-D102-S02",
+    "C60-D102-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 72.942,
+   "end_sec": 83.393,
+   "duration_sec": 10.451
+  },
+  {
+   "turn_id": "C60-D103",
+   "turn_index": 10,
+   "speaker": "ハサン",
+   "source_text": "駅前の露店に物産展の品が並んでいました。大安売りと書いてありますが、特売の価格は消費税抜きです。",
+   "sentence_ids": [
+    "C60-D103-S01",
+    "C60-D103-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 83.743,
+   "end_sec": 90.997,
+   "duration_sec": 7.254
+  },
+  {
+   "turn_id": "C60-D104",
+   "turn_index": 11,
+   "speaker": "林梅",
+   "source_text": "値引き後の金額に税を含めるんですね。代金の支払いに商品券は使えますか。",
+   "sentence_ids": [
+    "C60-D104-S01",
+    "C60-D104-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 91.347,
+   "end_sec": 97.328,
+   "duration_sec": 5.981
+  },
+  {
+   "turn_id": "C60-D105",
+   "turn_index": 12,
+   "speaker": "ハサン",
+   "source_text": "店で聞きましょう。見たのは銀色のメタリックアクセサリーで、銀製ではありません。金属製でも材料は違います。",
+   "sentence_ids": [
+    "C60-D105-S01",
+    "C60-D105-S02",
+    "C60-D105-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.678,
+   "end_sec": 105.62,
+   "duration_sec": 7.942
+  },
+  {
+   "turn_id": "C60-D106",
+   "turn_index": 13,
+   "speaker": "林梅",
+   "source_text": "銅の輪を使ったネックレスですか。私は金色よりその色が好きです。でもピアスは穴を開けていないので使えません。",
+   "sentence_ids": [
+    "C60-D106-S01",
+    "C60-D106-S02",
+    "C60-D106-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 105.97,
+   "end_sec": 114.609,
+   "duration_sec": 8.639
+  },
+  {
+   "turn_id": "C60-D107",
+   "turn_index": 14,
+   "speaker": "ハサン",
+   "source_text": "それなら、耳に穴がなくても使えるネックレスを借りるほうが得かもしれません。毎回買うと出費も馬鹿にならないし、飾りを求めたらきりがないです。",
+   "sentence_ids": [
+    "C60-D107-S01",
+    "C60-D107-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 114.959,
+   "end_sec": 125.968,
+   "duration_sec": 11.009
+  },
+  {
+   "turn_id": "C60-D108",
+   "turn_index": 15,
+   "speaker": "林梅",
+   "source_text": "そうですね。特別な優待より再利用を考えます。贅沢な物は二の次です。安さにつられてよけいに買えば損ですから。",
+   "sentence_ids": [
+    "C60-D108-S01",
+    "C60-D108-S02",
+    "C60-D108-S03",
+    "C60-D108-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 126.318,
+   "end_sec": 135.532,
+   "duration_sec": 9.214
+  },
+  {
+   "turn_id": "C60-D109",
+   "turn_index": 16,
+   "speaker": "ハサン",
+   "source_text": "では、借りられるだけ借りて、不足分だけ買いましょう。選ぶ時間はたっぷりあります。",
+   "sentence_ids": [
+    "C60-D109-S01",
+    "C60-D109-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 135.882,
+   "end_sec": 141.493,
+   "duration_sec": 5.611
+  },
+  {
+   "turn_id": "C60-D110",
+   "turn_index": 17,
+   "speaker": "ハサン",
+   "source_text": "勘定は小銭で払いたいので、札しか使えないと困ります。百円玉も使えるか聞きますね。",
+   "sentence_ids": [
+    "C60-D110-S01",
+    "C60-D110-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 141.843,
+   "end_sec": 149.576,
+   "duration_sec": 7.733
+  },
+  {
+   "turn_id": "C60-D111",
+   "turn_index": 18,
+   "speaker": "林梅",
+   "source_text": "お願いします。交通カードなら残高を見てからチャージします。買えるだけ買うのではなく、必要な物を決めておきたいです。",
+   "sentence_ids": [
+    "C60-D111-S01",
+    "C60-D111-S02",
+    "C60-D111-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 149.926,
+   "end_sec": 158.066,
+   "duration_sec": 8.14
+  },
+  {
+   "turn_id": "C60-D112",
+   "turn_index": 19,
+   "speaker": "ハサン",
+   "source_text": "経済的な事情は人によって違いますしね。準備に時間を費やすばかりか、小物の代金が生活費にまで食い込んでは困ります。",
+   "sentence_ids": [
+    "C60-D112-S01",
+    "C60-D112-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 158.416,
+   "end_sec": 167.412,
+   "duration_sec": 8.996
+  },
+  {
+   "turn_id": "C60-D113",
+   "turn_index": 20,
+   "speaker": "林梅",
+   "source_text": "はい。借金なしで参加できることが大事です。見栄のためにお金を使うのはやめましょう。二人とも、持っている物を先に調べましょう。",
+   "sentence_ids": [
+    "C60-D113-S01",
+    "C60-D113-S02",
+    "C60-D113-S03",
+    "C60-D113-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 167.762,
+   "end_sec": 177.552,
+   "duration_sec": 9.79
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C60-D002-S01",
+   "unit_id": "C60-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "公民館は8人で12,000円。",
+   "start_sec": 0.0,
+   "end_sec": 3.996,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D002-S02",
+   "unit_id": "C60-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "でも二人は時間が合いませんね。",
+   "start_sec": 4.146,
+   "end_sec": 7.187,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D003-S01",
+   "unit_id": "C60-D003",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "ええ。",
+   "start_sec": 7.537,
+   "end_sec": 8.332,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D003-S02",
+   "unit_id": "C60-D003",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "私も川西市在住ですが、緑町勤務なので資格はあります。",
+   "start_sec": 8.482,
+   "end_sec": 13.008,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D003-S03",
+   "unit_id": "C60-D003",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "二人も資格の問題ではありません。",
+   "start_sec": 13.158,
+   "end_sec": 15.597,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D008-S01",
+   "unit_id": "C60-D008",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "オンラインの特典は確認中ですね。",
+   "start_sec": 15.947,
+   "end_sec": 18.475,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D008-S02",
+   "unit_id": "C60-D008",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "なければ予算を2,000円超えます。",
+   "start_sec": 18.625,
+   "end_sec": 20.855,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D008-S03",
+   "unit_id": "C60-D008",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "私は会社に支払いの許可を聞きます。",
+   "start_sec": 21.005,
+   "end_sec": 23.527,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D009-S01",
+   "unit_id": "C60-D009",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "私が初回資格を確認します。",
+   "start_sec": 23.877,
+   "end_sec": 26.283,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D009-S02",
+   "unit_id": "C60-D009",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "質問はともかく、優先順位は全員が続けられること、次に予算です。",
+   "start_sec": 26.433,
+   "end_sec": 32.462,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D010-S01",
+   "unit_id": "C60-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "大野さんは直接聞ける講座に限ると言っていました。",
+   "start_sec": 32.812,
+   "end_sec": 36.924,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D010-S02",
+   "unit_id": "C60-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "オンラインが無理なら、どうしますか。",
+   "start_sec": 37.074,
+   "end_sec": 39.592,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D011-S01",
+   "unit_id": "C60-D011",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "6人で公民館なら9,000円。",
+   "start_sec": 39.942,
+   "end_sec": 42.454,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D011-S02",
+   "unit_id": "C60-D011",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "二人が図書館を使い、教材を二冊追加しても総額10,000円です。",
+   "start_sec": 42.604,
+   "end_sec": 47.645,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D016-S01",
+   "unit_id": "C60-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "6,000円残りますね。",
+   "start_sec": 47.995,
+   "end_sec": 49.783,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D016-S02",
+   "unit_id": "C60-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "ただ、二人の同意なしには決められません。",
+   "start_sec": 49.933,
+   "end_sec": 52.632,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D016-S03",
+   "unit_id": "C60-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "教材の供給は大丈夫ですか。",
+   "start_sec": 52.782,
+   "end_sec": 54.599,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D017-S01",
+   "unit_id": "C60-D017",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "在庫も私が聞きます。",
+   "start_sec": 54.949,
+   "end_sec": 56.887,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D017-S02",
+   "unit_id": "C60-D017",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "なければ別の本を使えるか二人と相談します。",
+   "start_sec": 57.037,
+   "end_sec": 60.455,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D017-S03",
+   "unit_id": "C60-D017",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "14日までに確認して全員に連絡します。",
+   "start_sec": 60.605,
+   "end_sec": 63.747,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D017-S04",
+   "unit_id": "C60-D017",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "まだ申し込みません。",
+   "start_sec": 63.897,
+   "end_sec": 65.415,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D101-S01",
+   "unit_id": "C60-D101",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "別件ですが、衣料室の体験会用の小物は購入しますか。",
+   "start_sec": 66.315,
+   "end_sec": 70.994,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D101-S02",
+   "unit_id": "C60-D101",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "予算は別ですね。",
+   "start_sec": 71.144,
+   "end_sec": 72.592,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D102-S01",
+   "unit_id": "C60-D102",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "はい。",
+   "start_sec": 72.942,
+   "end_sec": 73.847,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D102-S02",
+   "unit_id": "C60-D102",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "個人の家計から出すので、懐具合を考えて一人分1,000円までです。",
+   "start_sec": 73.997,
+   "end_sec": 79.374,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D102-S03",
+   "unit_id": "C60-D102",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "住宅ローンもあり、あり金を使う余裕はありません。",
+   "start_sec": 79.524,
+   "end_sec": 83.393,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D103-S01",
+   "unit_id": "C60-D103",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "駅前の露店に物産展の品が並んでいました。",
+   "start_sec": 83.743,
+   "end_sec": 86.73,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D103-S02",
+   "unit_id": "C60-D103",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "大安売りと書いてありますが、特売の価格は消費税抜きです。",
+   "start_sec": 86.88,
+   "end_sec": 90.997,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D104-S01",
+   "unit_id": "C60-D104",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "値引き後の金額に税を含めるんですね。",
+   "start_sec": 91.347,
+   "end_sec": 94.432,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D104-S02",
+   "unit_id": "C60-D104",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "代金の支払いに商品券は使えますか。",
+   "start_sec": 94.582,
+   "end_sec": 97.328,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D105-S01",
+   "unit_id": "C60-D105",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "店で聞きましょう。",
+   "start_sec": 97.678,
+   "end_sec": 98.932,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D105-S02",
+   "unit_id": "C60-D105",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "見たのは銀色のメタリックアクセサリーで、銀製ではありません。",
+   "start_sec": 99.082,
+   "end_sec": 103.223,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D105-S03",
+   "unit_id": "C60-D105",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "金属製でも材料は違います。",
+   "start_sec": 103.373,
+   "end_sec": 105.62,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D106-S01",
+   "unit_id": "C60-D106",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "銅の輪を使ったネックレスですか。",
+   "start_sec": 105.97,
+   "end_sec": 108.501,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D106-S02",
+   "unit_id": "C60-D106",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "私は金色よりその色が好きです。",
+   "start_sec": 108.651,
+   "end_sec": 111.437,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D106-S03",
+   "unit_id": "C60-D106",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "でもピアスは穴を開けていないので使えません。",
+   "start_sec": 111.587,
+   "end_sec": 114.609,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D107-S01",
+   "unit_id": "C60-D107",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "それなら、耳に穴がなくても使えるネックレスを借りるほうが得かもしれません。",
+   "start_sec": 114.959,
+   "end_sec": 120.706,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D107-S02",
+   "unit_id": "C60-D107",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "毎回買うと出費も馬鹿にならないし、飾りを求めたらきりがないです。",
+   "start_sec": 120.856,
+   "end_sec": 125.968,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D108-S01",
+   "unit_id": "C60-D108",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "そうですね。",
+   "start_sec": 126.318,
+   "end_sec": 127.388,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D108-S02",
+   "unit_id": "C60-D108",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "特別な優待より再利用を考えます。",
+   "start_sec": 127.538,
+   "end_sec": 130.394,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D108-S03",
+   "unit_id": "C60-D108",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "贅沢な物は二の次です。",
+   "start_sec": 130.544,
+   "end_sec": 132.736,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D108-S04",
+   "unit_id": "C60-D108",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "安さにつられてよけいに買えば損ですから。",
+   "start_sec": 132.886,
+   "end_sec": 135.532,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D109-S01",
+   "unit_id": "C60-D109",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "では、借りられるだけ借りて、不足分だけ買いましょう。",
+   "start_sec": 135.882,
+   "end_sec": 139.779,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D109-S02",
+   "unit_id": "C60-D109",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "選ぶ時間はたっぷりあります。",
+   "start_sec": 139.929,
+   "end_sec": 141.493,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D110-S01",
+   "unit_id": "C60-D110",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "勘定は小銭で払いたいので、札しか使えないと困ります。",
+   "start_sec": 141.843,
+   "end_sec": 146.725,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D110-S02",
+   "unit_id": "C60-D110",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "百円玉も使えるか聞きますね。",
+   "start_sec": 146.875,
+   "end_sec": 149.576,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D111-S01",
+   "unit_id": "C60-D111",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "お願いします。",
+   "start_sec": 149.926,
+   "end_sec": 151.007,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D111-S02",
+   "unit_id": "C60-D111",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "交通カードなら残高を見てからチャージします。",
+   "start_sec": 151.157,
+   "end_sec": 154.069,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D111-S03",
+   "unit_id": "C60-D111",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "買えるだけ買うのではなく、必要な物を決めておきたいです。",
+   "start_sec": 154.219,
+   "end_sec": 158.066,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D112-S01",
+   "unit_id": "C60-D112",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "経済的な事情は人によって違いますしね。",
+   "start_sec": 158.416,
+   "end_sec": 161.654,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D112-S02",
+   "unit_id": "C60-D112",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "準備に時間を費やすばかりか、小物の代金が生活費にまで食い込んでは困ります。",
+   "start_sec": 161.804,
+   "end_sec": 167.412,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D113-S01",
+   "unit_id": "C60-D113",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "はい。",
+   "start_sec": 167.762,
+   "end_sec": 168.472,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D113-S02",
+   "unit_id": "C60-D113",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "借金なしで参加できることが大事です。",
+   "start_sec": 168.622,
+   "end_sec": 171.538,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D113-S03",
+   "unit_id": "C60-D113",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "見栄のためにお金を使うのはやめましょう。",
+   "start_sec": 171.688,
+   "end_sec": 174.566,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C60-D113-S04",
+   "unit_id": "C60-D113",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "二人とも、持っている物を先に調べましょう。",
+   "start_sec": 174.716,
+   "end_sec": 177.552,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

@@ -1,0 +1,6823 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_02",
+  "entries": [
+    {
+      "textbook_uid": "cfv-75305ece1700cb6a",
+      "index": 961,
+      "word": "探す",
+      "reading_hiragana": "さがす",
+      "context_meaning_zh": "寻找",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "寻找",
+          "meaning_ja": "必要な物や人がどこにあるか、見つけようとする。",
+          "example_ja": "駅で友達を探しています。",
+          "example_zh": "我正在车站找朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鍵を探す",
+          "zh": "找钥匙"
+        }
+      ],
+      "usage_note_zh": "「場所で探す」「物を探す」の形で、見つける前の行動を表す。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "寻找包的动作不承诺已找到，包を标直接宾语，词典五段他动词。",
+        "dictionary_sequences": [
+          1593670
+        ],
+        "identity": {
+          "word": "探す",
+          "reading_hiragana": "さがす",
+          "meaning": "寻找"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-39e3a9dc83f68248",
+      "index": 962,
+      "word": "選ぶ",
+      "reading_hiragana": "えらぶ",
+      "context_meaning_zh": "选择",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "选择",
+          "meaning_ja": "いくつかの中から、よいと思うものを一つ決める。",
+          "example_ja": "店で青いかばんを選びました。",
+          "example_zh": "我在店里选了蓝色的包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "好きな色を選ぶ",
+          "zh": "选择喜欢的颜色"
+        }
+      ],
+      "usage_note_zh": "选择的对象用助词「を」标记。「選ぶ」强调从候选中作决定；决定后可说「選んだ」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "友人选择的包，省略选择者而保留被选物，词典明确标他动五段。",
+        "dictionary_sequences": [
+          1588730
+        ],
+        "identity": {
+          "word": "選ぶ",
+          "reading_hiragana": "えらぶ",
+          "meaning": "选择"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-694edadf6bef0af0",
+      "index": 963,
+      "word": "使う",
+      "reading_hiragana": "つかう",
+      "context_meaning_zh": "使用",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "使用",
+          "meaning_ja": "道具や方法を目的に合わせて役立てる。",
+          "example_ja": "このカードを使ってください。",
+          "example_zh": "请使用这张卡。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本語を使う",
+          "zh": "使用日语"
+        }
+      ],
+      "usage_note_zh": "「道具を使う」のほか、「時間を使う」「言葉を使う」とも言う。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句子省略具体物品，但每日使用的对象在语境中可恢复；该动词仍是五段他动词。",
+        "dictionary_sequences": [
+          1305990
+        ],
+        "identity": {
+          "word": "使う",
+          "reading_hiragana": "つかう",
+          "meaning": "使用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2fe88e711dbd2f2e",
+      "index": 964,
+      "word": "持つ",
+      "reading_hiragana": "もつ",
+      "context_meaning_zh": "拿着、持有",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拿着、持有",
+          "meaning_ja": "手や腕で物を持った状態にする。また、物や考えを自分のものとして保つ。",
+          "example_ja": "大きな箱を両手で持ちました。",
+          "example_zh": "我用双手拿着一个大箱子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "荷物を持つ",
+          "zh": "拿行李"
+        }
+      ],
+      "usage_note_zh": "物を手に持つ意味。抽象的な「考えを持つ」などは別義として読む。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "小袋を持つ是手持/携带义，宾语明确；教材说明区分抽象持有义。",
+        "dictionary_sequences": [
+          1315720
+        ],
+        "identity": {
+          "word": "持つ",
+          "reading_hiragana": "もつ",
+          "meaning": "拿着、持有"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6f48b6bd09bd78fe",
+      "index": 965,
+      "word": "住む",
+      "reading_hiragana": "すむ",
+      "context_meaning_zh": "居住",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "居住",
+          "meaning_ja": "人がある場所を自分の生活の場として日々過ごす。",
+          "example_ja": "姉は大阪に住んでいます。",
+          "example_zh": "姐姐住在大阪。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "町に住む",
+          "zh": "住在城镇里"
+        }
+      ],
+      "usage_note_zh": "居住地通常用「に」表示；「で」は住む場所で行う活動を表す。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "住む为五段自动词，句中住在附近以に标示所在地点，ている表达持续居住状态。",
+        "dictionary_sequences": [
+          1334040
+        ],
+        "identity": {
+          "word": "住む",
+          "reading_hiragana": "すむ",
+          "meaning": "居住"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3a71be3f8ac9e3eb",
+      "index": 966,
+      "word": "着る",
+      "reading_hiragana": "きる",
+      "context_meaning_zh": "穿上衣",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "穿上衣",
+          "meaning_ja": "服を体に着ける。主に上半身の衣服に使う。",
+          "example_ja": "今日は白いシャツを着ます。",
+          "example_zh": "今天穿白衬衫。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "上着を着る",
+          "zh": "穿外套"
+        }
+      ],
+      "usage_note_zh": "服を着るときは「を」、身に着けている状態は「を着ている」。靴・帽子には通常使わない。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "穿着藏青衬衫，衣物为穿着对象；一段他动词取衣服义。",
+        "dictionary_sequences": [
+          1423000
+        ],
+        "identity": {
+          "word": "着る",
+          "reading_hiragana": "きる",
+          "meaning": "穿上衣"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b1d54ea4bdb576de",
+      "index": 967,
+      "word": "かぶる",
+      "reading_hiragana": "かぶる",
+      "context_meaning_zh": "戴帽子",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "戴帽子",
+          "meaning_ja": "帽子などを頭にのせて身に着ける。",
+          "example_ja": "外へ出る前に帽子をかぶります。",
+          "example_zh": "出门前戴上帽子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "帽子をかぶる",
+          "zh": "戴帽子"
+        }
+      ],
+      "usage_note_zh": "頭に着ける物に使う。眼鏡は「かける」、服は「着る」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句明确为「帽子をかぶる」，对应词典戴在头上的他动义；五段动词，宾语为所戴物。",
+        "dictionary_sequences": [
+          1484330
+        ],
+        "identity": {
+          "word": "かぶる",
+          "reading_hiragana": "かぶる",
+          "meaning": "戴帽子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4a8c1bd4b41d3d1e",
+      "index": 968,
+      "word": "かける",
+      "reading_hiragana": "かける",
+      "context_meaning_zh": "戴眼镜",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "戴眼镜",
+          "meaning_ja": "物を上からつるす。また、眼鏡を耳と鼻に掛けて身に着ける。",
+          "example_ja": "祖父は本を読む時、眼鏡をかけます。",
+          "example_zh": "祖父读书时戴眼镜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "眼鏡をかける",
+          "zh": "戴眼镜"
+        }
+      ],
+      "usage_note_zh": "本课表示把眼镜戴在脸上，搭配「眼鏡をかける」。同一词形也可表示打电话或悬挂物品，具体意思由宾语和语境判断。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此条例句明确为戴眼镜，眼镜是かける的直接对象；保留该义的一段他动用法。",
+        "dictionary_sequences": [
+          1207610,
+          1244720,
+          1253920,
+          1444840,
+          1570710,
+          2208960,
+          2872558
+        ],
+        "identity": {
+          "word": "かける",
+          "reading_hiragana": "かける",
+          "meaning": "戴眼镜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9c0ee13b2c844bfc",
+      "index": 969,
+      "word": "名前",
+      "reading_hiragana": "なまえ",
+      "context_meaning_zh": "名字",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "名字",
+          "meaning_ja": "人や物をほかのものと区別するために付けた呼び方。",
+          "example_ja": "この犬の名前はポチです。",
+          "example_zh": "这只狗的名字叫小波。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "名前を書く",
+          "zh": "写名字"
+        }
+      ],
+      "usage_note_zh": "「名前」通常指一个人的完整称呼，可能包括姓和名；「名字」多指姓氏。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表格中填写名字，词典支持普通名词name；中文“名字”不应窄化成姓氏。",
+        "dictionary_sequences": [
+          1531710
+        ],
+        "identity": {
+          "word": "名前",
+          "reading_hiragana": "なまえ",
+          "meaning": "名字"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-159a84bc8c4ec239",
+      "index": 970,
+      "word": "特徴",
+      "reading_hiragana": "とくちょう",
+      "context_meaning_zh": "特征",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "特征",
+          "meaning_ja": "ほかのものと見分ける手掛かりになる、目立った性質。",
+          "example_ja": "この鳥の特徴は長いくちばしです。",
+          "example_zh": "这种鸟的特征是长长的喙。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "特徴を説明する",
+          "zh": "说明特征"
+        }
+      ],
+      "usage_note_zh": "人・物・生き物などの目立つ性質を指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "物品特点用于确认失主，取特征义；名前物后结构为普通名词搭配。",
+        "dictionary_sequences": [
+          1455170
+        ],
+        "identity": {
+          "word": "特徴",
+          "reading_hiragana": "とくちょう",
+          "meaning": "特征"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9179a441313b7192",
+      "index": 971,
+      "word": "形",
+      "reading_hiragana": "かたち",
+      "context_meaning_zh": "形状",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "形状",
+          "meaning_ja": "物の外側の形や、目で見て分かる輪郭。",
+          "example_ja": "雲が動物の形に見えます。",
+          "example_zh": "云看起来像动物的形状。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "丸い形",
+          "zh": "圆形"
+        }
+      ],
+      "usage_note_zh": "図形・輪郭の意味。人や物の外見全体を指す「姿」とは異なる。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "两个包的形相似，当前词义为物体外形；与面容、形式等同词义项区分。",
+        "dictionary_sequences": [
+          1250220
+        ],
+        "identity": {
+          "word": "形",
+          "reading_hiragana": "かたち",
+          "meaning": "形状"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d1b92dfaff0311b1",
+      "index": 972,
+      "word": "色",
+      "reading_hiragana": "いろ",
+      "context_meaning_zh": "颜色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "颜色",
+          "meaning_ja": "光を受けた物が目に見せる性質の一つ。",
+          "example_ja": "この花は色がとてもきれいです。",
+          "example_zh": "这朵花的颜色很漂亮。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "色を塗る",
+          "zh": "涂颜色"
+        }
+      ],
+      "usage_note_zh": "色そのものにも、絵の具などの色材にも使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处询问颜色、形状及标记等外观线索，取颜色义；词典其余引申义不适用。",
+        "dictionary_sequences": [
+          1357600
+        ],
+        "identity": {
+          "word": "色",
+          "reading_hiragana": "いろ",
+          "meaning": "颜色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b6f763ba3baae531",
+      "index": 973,
+      "word": "丸い",
+      "reading_hiragana": "まるい",
+      "context_meaning_zh": "圆的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "圆的",
+          "meaning_ja": "円のように、角がなくなめらかな形をしている。",
+          "example_ja": "テーブルの上に丸い皿があります。",
+          "example_zh": "桌上有一个圆盘子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "丸い皿",
+          "zh": "圆盘子"
+        }
+      ],
+      "usage_note_zh": "物の形を表す。円形の形状という意味で、数量の「丸」とは用法が違う。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "い形容词表示钱包呈圆形，词典round义及物体形状例句一致。",
+        "dictionary_sequences": [
+          1604230
+        ],
+        "identity": {
+          "word": "丸い",
+          "reading_hiragana": "まるい",
+          "meaning": "圆的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cd6e318173661de7",
+      "index": 974,
+      "word": "細い",
+      "reading_hiragana": "ほそい",
+      "context_meaning_zh": "细的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "细的",
+          "meaning_ja": "幅が小さく、横に広がっていない。",
+          "example_ja": "この道は細いので気をつけてください。",
+          "example_zh": "这条路很窄，请小心。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "細い道",
+          "zh": "狭窄的道路"
+        }
+      ],
+      "usage_note_zh": "線状の物なら「細い糸」、道や通路なら幅が狭いことを表す。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "“细而短”描述物体宽度和粗细，符合细いい形容词义；辞书另列的方言俚义不适用于本句。",
+        "dictionary_sequences": [
+          1295510
+        ],
+        "identity": {
+          "word": "細い",
+          "reading_hiragana": "ほそい",
+          "meaning": "细的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d53a56bec8625090",
+      "index": 975,
+      "word": "太い",
+      "reading_hiragana": "ふとい",
+      "context_meaning_zh": "粗的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "粗的",
+          "meaning_ja": "幅や周りの太さが大きい。",
+          "example_ja": "父は太い腕をしています。",
+          "example_zh": "父亲有一双粗壮的手臂。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "太い木",
+          "zh": "粗大的树"
+        }
+      ],
+      "usage_note_zh": "可描述物体的直径或身体部位的周长，如粗大的树干、手臂；形容声音时可表示低沉而有力。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "笔的粗细属性对应词典thick义；深沉嗓音和大胆无耻等义均与当前例句无关。",
+        "dictionary_sequences": [
+          1408180
+        ],
+        "identity": {
+          "word": "太い",
+          "reading_hiragana": "ふとい",
+          "meaning": "粗的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7da53b518e8f2775",
+      "index": 976,
+      "word": "長い",
+      "reading_hiragana": "ながい",
+      "context_meaning_zh": "长的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "长的",
+          "meaning_ja": "端から端までの距離が大きい。時間の続く期間にも使う。",
+          "example_ja": "この橋はとても長いです。",
+          "example_zh": "这座桥很长。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "長い髪",
+          "zh": "长发"
+        }
+      ],
+      "usage_note_zh": "物理的な長さのほか、「長い時間」のように時間にも使う。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "笔的长度较长，描述物理尺度的い形容词；「です」为句末礼貌形式，不是词项敬语。",
+        "dictionary_sequences": [
+          1429750
+        ],
+        "identity": {
+          "word": "長い",
+          "reading_hiragana": "ながい",
+          "meaning": "长的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-825aaf195af6168c",
+      "index": 977,
+      "word": "短い",
+      "reading_hiragana": "みじかい",
+      "context_meaning_zh": "短的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "短的",
+          "meaning_ja": "端から端までの距離が小さい。時間の続く期間にも使う。",
+          "example_ja": "駅から家までの道は短いです。",
+          "example_zh": "从车站到家的路很短。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "短い時間",
+          "zh": "短时间"
+        }
+      ],
+      "usage_note_zh": "物理的な長さのほか、時間の短さも表す。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "对比物件细而短，短い描述空间长度，词典列い形容词。",
+        "dictionary_sequences": [
+          1418620
+        ],
+        "identity": {
+          "word": "短い",
+          "reading_hiragana": "みじかい",
+          "meaning": "短的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1d16ac8fe54181ed",
+      "index": 978,
+      "word": "似る",
+      "reading_hiragana": "にる",
+      "context_meaning_zh": "相像",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相像",
+          "meaning_ja": "二つの物事に共通するところがあり、よく似た状態である。",
+          "example_ja": "この二つの絵は色がよく似ています。",
+          "example_zh": "这两幅画的颜色很相似。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "母に似る",
+          "zh": "像母亲"
+        }
+      ],
+      "usage_note_zh": "「人に似る」のように、似ている相手に「に」を使う。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "两只包形状相似，似る是一段自动态；相似对象由が标记。",
+        "dictionary_sequences": [
+          1314600
+        ],
+        "identity": {
+          "word": "似る",
+          "reading_hiragana": "にる",
+          "meaning": "相像"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-da0e541a08972d38",
+      "index": 979,
+      "word": "持ち主",
+      "reading_hiragana": "もちぬし",
+      "context_meaning_zh": "物主",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "物主",
+          "meaning_ja": "物を所有している人。",
+          "example_ja": "落とし物の持ち主が受付に来ました。",
+          "example_zh": "失物的主人来到接待处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "持ち主を探す",
+          "zh": "寻找物主"
+        }
+      ],
+      "usage_note_zh": "「物の持ち主」の形で所有者を表す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "持ち主表示所有者，例句说该人尚未到来。",
+        "dictionary_sequences": [
+          1605230
+        ],
+        "identity": {
+          "word": "持ち主",
+          "reading_hiragana": "もちぬし",
+          "meaning": "物主"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-464e6e61759df6d7",
+      "index": 980,
+      "word": "目印",
+      "reading_hiragana": "めじるし",
+      "context_meaning_zh": "识别标志",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "识别标志",
+          "meaning_ja": "見つけやすくするために、目立つ物や特徴を手掛かりとして示したもの。",
+          "example_ja": "赤いリボンを目印にしてください。",
+          "example_zh": "请以红丝带作为标志。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "目印を付ける",
+          "zh": "做上标记"
+        }
+      ],
+      "usage_note_zh": "物そのものではなく、場所や人を見分ける手掛かりを指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "目印是帮助辨认地点或对象的标志；本例询问是否有可据以识别的线索。",
+        "dictionary_sequences": [
+          1535300
+        ],
+        "identity": {
+          "word": "目印",
+          "reading_hiragana": "めじるし",
+          "meaning": "识别标志"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-80113df4feb2ccb5",
+      "index": 981,
+      "word": "模様",
+      "reading_hiragana": "もよう",
+      "context_meaning_zh": "花纹",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "花纹",
+          "meaning_ja": "布や紙などの表面に描かれたり織られたりした形や絵。",
+          "example_ja": "この布には花の模様があります。",
+          "example_zh": "这块布上有花纹。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "花の模様",
+          "zh": "花纹"
+        }
+      ],
+      "usage_note_zh": "表面に繰り返し現れる図柄を指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指条纹图案和水玉圆点图案，取表面装饰纹样义；词典也收事态等其他名词义。",
+        "dictionary_sequences": [
+          1533720
+        ],
+        "identity": {
+          "word": "模様",
+          "reading_hiragana": "もよう",
+          "meaning": "花纹"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2f1c57c5b783e499",
+      "index": 982,
+      "word": "しま",
+      "reading_hiragana": "しま",
+      "context_meaning_zh": "条纹",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "条纹",
+          "meaning_ja": "布などに現れる、細長い線が並んだ模様。",
+          "example_ja": "しまのシャツを着た人が入口にいます。",
+          "example_zh": "入口处有个穿条纹衬衫的人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "しまの服",
+          "zh": "条纹衣服"
+        }
+      ],
+      "usage_note_zh": "ここでは「縞模様」の略としての縞。動物の縞にも使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处しま由模様限定为条纹图案，采用縞义而非同音的岛或其他词条；词典也列名词及连体名词用法。",
+        "dictionary_sequences": [
+          1321670
+        ],
+        "identity": {
+          "word": "しま",
+          "reading_hiragana": "しま",
+          "meaning": "条纹"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-135adc2b574762ec",
+      "index": 983,
+      "word": "水玉",
+      "reading_hiragana": "みずたま",
+      "context_meaning_zh": "圆点花纹",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "圆点花纹",
+          "meaning_ja": "水のしずくのような丸い点を並べた模様。",
+          "example_ja": "水玉の傘を買いました。",
+          "example_zh": "我买了一把圆点图案的伞。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "水玉模様",
+          "zh": "圆点花纹"
+        }
+      ],
+      "usage_note_zh": "柄についての語。水に浮かぶ玉そのものを指す場合もある。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「水玉の模様」中水玉是图案名词，由助词の连接中心名词。",
+        "dictionary_sequences": [
+          1371410
+        ],
+        "identity": {
+          "word": "水玉",
+          "reading_hiragana": "みずたま",
+          "meaning": "圆点花纹"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e769d091f4018d6c",
+      "index": 984,
+      "word": "四角い",
+      "reading_hiragana": "しかくい",
+      "context_meaning_zh": "方的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "方的",
+          "meaning_ja": "四つの角があり、向かい合う辺がそれぞれ平行な形をしている。",
+          "example_ja": "四角い窓から海が見えます。",
+          "example_zh": "从方形窗户可以看见大海。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "四角い箱",
+          "zh": "方盒子"
+        }
+      ],
+      "usage_note_zh": "名詞「四角」は形そのものを指し、「四角い」は物の性質を表す。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "表示四角形状的性质，例中修饰かばん；词典确认い形容词，与名词四角区分。",
+        "dictionary_sequences": [
+          1307100
+        ],
+        "identity": {
+          "word": "四角い",
+          "reading_hiragana": "しかくい",
+          "meaning": "方的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-160d609f6b4b851a",
+      "index": 985,
+      "word": "透明",
+      "reading_hiragana": "とうめい",
+      "context_meaning_zh": "透明",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "透明",
+          "meaning_ja": "光を通すため、向こう側がはっきり見える状態。",
+          "example_ja": "透明なガラスのコップを使っています。",
+          "example_zh": "我在用透明玻璃杯。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "透明な水",
+          "zh": "透明的水"
+        }
+      ],
+      "usage_note_zh": "名詞の前では「透明な」、文末では「透明だ／です」とする。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "透明な袋是ナ形容词修饰语；词典还列名词和no修饰用法，当前例句不需扩展为其它类别。",
+        "dictionary_sequences": [
+          1450590
+        ],
+        "identity": {
+          "word": "透明",
+          "reading_hiragana": "とうめい",
+          "meaning": "透明"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1d1ca64d1a435b50",
+      "index": 986,
+      "word": "紺色",
+      "reading_hiragana": "こんいろ",
+      "context_meaning_zh": "藏青色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "藏青色",
+          "meaning_ja": "濃い青に少し赤みが加わった色。",
+          "example_ja": "紺色のかばんを電車に忘れました。",
+          "example_zh": "我把藏青色的包忘在电车上了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "紺色の制服",
+          "zh": "藏青色制服"
+        }
+      ],
+      "usage_note_zh": "色名として使う。「紺の服」のように「紺」だけでも言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "紺色表示紫调暗蓝，可用の修饰包；词典列名词和无形容词，不应错归为な形容词。",
+        "dictionary_sequences": [
+          1290600
+        ],
+        "identity": {
+          "word": "紺色",
+          "reading_hiragana": "こんいろ",
+          "meaning": "藏青色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3b27a38b259963ea",
+      "index": 987,
+      "word": "身長",
+      "reading_hiragana": "しんちょう",
+      "context_meaning_zh": "身高",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "身高",
+          "meaning_ja": "人がまっすぐ立ったとき、足元から頭の上までの高さ。",
+          "example_ja": "健康診断で身長を測りました。",
+          "example_zh": "我在体检时量了身高。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "身長を測る",
+          "zh": "量身高"
+        }
+      ],
+      "usage_note_zh": "「身長」は人の高さを表す。建物などの高さには普通「高さ」を使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "询问是否需要报身高，指人的高度数值；问句不使身長成为敬语词。",
+        "dictionary_sequences": [
+          1365770
+        ],
+        "identity": {
+          "word": "身長",
+          "reading_hiragana": "しんちょう",
+          "meaning": "身高"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c0657e3711a94121",
+      "index": 988,
+      "word": "髪",
+      "reading_hiragana": "かみ",
+      "context_meaning_zh": "头发",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "头发",
+          "meaning_ja": "人の頭に生えている毛。",
+          "example_ja": "髪を短く切りました。",
+          "example_zh": "我把头发剪短了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "髪を洗う",
+          "zh": "洗头发"
+        }
+      ],
+      "usage_note_zh": "「髪」统称头上生长的毛发；需要强调一根或一缕时常说「髪の毛」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "统称头上生长的头发；短发这一陈述使用集体名词髪，而强调单根可说髪の毛。",
+        "dictionary_sequences": [
+          1477950
+        ],
+        "identity": {
+          "word": "髪",
+          "reading_hiragana": "かみ",
+          "meaning": "头发"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7299f0ab50c83d2d",
+      "index": 989,
+      "word": "眼鏡",
+      "reading_hiragana": "めがね",
+      "context_meaning_zh": "眼镜",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "眼镜",
+          "meaning_ja": "目の見え方を補うため、目の前に掛ける道具。",
+          "example_ja": "眼鏡をかけたまま寝てしまいました。",
+          "example_zh": "我戴着眼镜睡着了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "眼鏡を外す",
+          "zh": "摘下眼镜"
+        }
+      ],
+      "usage_note_zh": "「眼鏡をかける／外す」と言う。通常は複数のレンズを一組として扱う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中「眼鏡をかける」指视力辅助器具；词典另列判断力及戏称义，与当前释义和例句无关。",
+        "dictionary_sequences": [
+          1577670
+        ],
+        "identity": {
+          "word": "眼鏡",
+          "reading_hiragana": "めがね",
+          "meaning": "眼镜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-50fc9b54935ebc14",
+      "index": 990,
+      "word": "席",
+      "reading_hiragana": "せき",
+      "context_meaning_zh": "座位",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "座位",
+          "meaning_ja": "座ってよい場所。また、集まりの中で人が座る位置。",
+          "example_ja": "私の席は窓の近くです。",
+          "example_zh": "我的座位在窗边。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "席に座る",
+          "zh": "入座"
+        }
+      ],
+      "usage_note_zh": "椅子だけでなく、会場で割り当てられた場所にも使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "席在此指昨日分配到的座位及其号码，词典亦有会场位置或职位义；お願いします是请求句式。",
+        "dictionary_sequences": [
+          1382250
+        ],
+        "identity": {
+          "word": "席",
+          "reading_hiragana": "せき",
+          "meaning": "座位"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a6923202ebd063e3",
+      "index": 991,
+      "word": "受付",
+      "reading_hiragana": "うけつけ",
+      "context_meaning_zh": "接待处",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "接待处",
+          "meaning_ja": "店や施設で、案内や申し込みなどを受け付ける場所や仕事。",
+          "example_ja": "受付で名前を書いてください。",
+          "example_zh": "请在接待处写下姓名。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "受付で聞く",
+          "zh": "在接待处询问"
+        }
+      ],
+      "usage_note_zh": "「受付」既可指接待、办理手续的地点，也可指接收申请或咨询的工作；具体含义看上下文。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "在大学接待处工作，地点兼窗口义清楚；不将词典另列的受理业务动词义并入本条。",
+        "dictionary_sequences": [
+          1588060
+        ],
+        "identity": {
+          "word": "受付",
+          "reading_hiragana": "うけつけ",
+          "meaning": "接待处"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-94b392f4b454465b",
+      "index": 992,
+      "word": "落とし物",
+      "reading_hiragana": "おとしもの",
+      "context_meaning_zh": "遗失物",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "遗失物",
+          "meaning_ja": "人がどこかに置き忘れたり、落としたりした物。",
+          "example_ja": "駅の受付に落とし物を届けました。",
+          "example_zh": "我把捡到的失物交到了车站接待处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "落とし物を届ける",
+          "zh": "上交失物"
+        }
+      ],
+      "usage_note_zh": "落とした本人ではなく、なくした物を指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "会议后座位下的物品是被遗落的东西，匹配辞书遗失物名词义。",
+        "dictionary_sequences": [
+          1589250
+        ],
+        "identity": {
+          "word": "落とし物",
+          "reading_hiragana": "おとしもの",
+          "meaning": "遗失物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eb9d90a2a9b7a8f1",
+      "index": 993,
+      "word": "絵",
+      "reading_hiragana": "え",
+      "context_meaning_zh": "画、图画",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "画、图画",
+          "meaning_ja": "紙や布などに描いた、見たり楽しんだりするための絵。",
+          "example_ja": "妹は花の絵を壁に飾りました。",
+          "example_zh": "妹妹把一幅花的画挂在墙上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "絵を描く",
+          "zh": "画画"
+        }
+      ],
+      "usage_note_zh": "「絵」指绘画或图画，可搭配「絵を描く」「絵を見る」；照片一般称为「写真」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「この絵も面白い」指绘画作品；辞书序号对应图画义而非其他同音义。",
+        "dictionary_sequences": [
+          1202270
+        ],
+        "identity": {
+          "word": "絵",
+          "reading_hiragana": "え",
+          "meaning": "画、图画"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-16553f24ef300315",
+      "index": 994,
+      "word": "甥",
+      "reading_hiragana": "おい",
+      "context_meaning_zh": "侄子、外甥",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "侄子、外甥",
+          "meaning_ja": "自分または他人の兄弟姉妹のうち、男性の子。",
+          "example_ja": "週末に甥と公園で遊びました。",
+          "example_zh": "周末我和侄子在公园玩了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "甥が生まれる",
+          "zh": "外甥出生"
+        }
+      ],
+      "usage_note_zh": "話し手の性別や、父方・母方を問わず、兄弟姉妹の息子を指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "日语甥指兄弟姐妹的儿子，不区分中文侄子与外甥或父母亲系；本课具体是哥哥的儿子。",
+        "dictionary_sequences": [
+          1179140
+        ],
+        "identity": {
+          "word": "甥",
+          "reading_hiragana": "おい",
+          "meaning": "侄子、外甥"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8c9b591d0647a755",
+      "index": 995,
+      "word": "顔",
+      "reading_hiragana": "かお",
+      "context_meaning_zh": "脸",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "脸",
+          "meaning_ja": "頭の前面にある部分。目・鼻・口などがあるところ。",
+          "example_ja": "妹は私の顔を見て笑いました。",
+          "example_zh": "妹妹看着我的脸笑了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "顔を洗う",
+          "zh": "洗脸"
+        }
+      ],
+      "usage_note_zh": "顔全体を指す。人を見分ける顔つき、表情の意味にもなる。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处指人的脸部整体，教材释义也涵盖面容和表情，词典多义均属名词。",
+        "dictionary_sequences": [
+          1217730
+        ],
+        "identity": {
+          "word": "顔",
+          "reading_hiragana": "かお",
+          "meaning": "脸"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8ba79cdc2978bf65",
+      "index": 996,
+      "word": "年",
+      "reading_hiragana": "とし",
+      "context_meaning_zh": "年龄、岁月",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "年龄、岁月",
+          "meaning_ja": "生まれてから過ごした時間。また、一年を指すこともある。",
+          "example_ja": "祖父は年を重ねても元気です。",
+          "example_zh": "祖父年岁渐长仍然很健康。"
+        },
+        {
+          "meaning_zh": "岁月；一年",
+          "meaning_ja": "時間が過ぎて、新しい一年になること。",
+          "example_ja": "年が明けて、町に初詣の人が集まりました。",
+          "example_zh": "新年到来后，人们聚集到镇上的神社初诣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "年を取る",
+          "zh": "上年纪"
+        }
+      ],
+      "usage_note_zh": "「年」可表示年龄或岁月流逝。「年を取る」表示上年纪，「年が過ぎる」表示时间过去；表示具体年龄也常用「年齢」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "年相同及年岁流逝体现年龄与年份两义；均为时间/年龄名词。",
+        "dictionary_sequences": [
+          1468060
+        ],
+        "identity": {
+          "word": "年",
+          "reading_hiragana": "とし",
+          "meaning": "年龄、岁月"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5aba14a402a0193b",
+      "index": 997,
+      "word": "物",
+      "reading_hiragana": "もの",
+      "context_meaning_zh": "东西",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "东西",
+          "meaning_ja": "形のあるもの。人ではなく、手に取ったり使ったりできる対象。",
+          "example_ja": "机の上に大切な物を置かないでください。",
+          "example_zh": "请不要把重要物品放在桌上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "物を大切にする",
+          "zh": "爱惜物品"
+        }
+      ],
+      "usage_note_zh": "具体的な物を広く指す語。「こと」は出来事や内容など形のない事柄に使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "持ち主の名前と物の特徴并列，物指具体物件及其特征。",
+        "dictionary_sequences": [
+          1502390
+        ],
+        "identity": {
+          "word": "物",
+          "reading_hiragana": "もの",
+          "meaning": "东西"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dfffec4248934ae9",
+      "index": 998,
+      "word": "外国",
+      "reading_hiragana": "がいこく",
+      "context_meaning_zh": "外国",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "外国",
+          "meaning_ja": "自分がいる国とは別の国。",
+          "example_ja": "初めて外国へ旅行しました。",
+          "example_zh": "我第一次出国旅行了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "外国の文化",
+          "zh": "外国文化"
+        }
+      ],
+      "usage_note_zh": "「外国」は国や場所、「外国人」は人を指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示本国以外的国家，会议中谈国外生活；词典adj-no标记是名词连体用法。",
+        "dictionary_sequences": [
+          1203620
+        ],
+        "identity": {
+          "word": "外国",
+          "reading_hiragana": "がいこく",
+          "meaning": "外国"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e52dcf1de9212ec6",
+      "index": 999,
+      "word": "髭",
+      "reading_hiragana": "ひげ",
+      "context_meaning_zh": "胡子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "胡子",
+          "meaning_ja": "口の上やあごなどに生える毛。",
+          "example_ja": "彼は髭をきれいにそりました。",
+          "example_zh": "他把胡子刮得很干净。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "髭をそる",
+          "zh": "刮胡子"
+        }
+      ],
+      "usage_note_zh": "顔に生える毛の総称。ひらがなの「ひげ」も一般的に使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「髭があります」指人物有胡子，词典第一义为人须；猫须及烛台图表影线同形义不适用于此例。",
+        "dictionary_sequences": [
+          1601810
+        ],
+        "identity": {
+          "word": "髭",
+          "reading_hiragana": "ひげ",
+          "meaning": "胡子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fac6f907cae8f0ed",
+      "index": 1000,
+      "word": "あなた",
+      "reading_hiragana": "あなた",
+      "context_meaning_zh": "你",
+      "pos_ja": "代名詞・人称",
+      "pos_zh": "代词・人称",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "你",
+          "meaning_ja": "聞き手を指す言葉。ただし、名前や役職で呼ぶほうが自然な場面も多い。",
+          "example_ja": "あなたの席はこちらです。",
+          "example_zh": "您的座位在这边。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "あなたの名前",
+          "zh": "你的名字"
+        }
+      ],
+      "usage_note_zh": "语法上可用「あなた」指听话人，但日常对话中常用对方的姓名加「さん」称呼。直接说「あなた」有时会显得生硬或疏远。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句直接以あなた询问听话人喜好；词典第二人称义匹配，但当前语境不足以标为亲密称呼。",
+        "dictionary_sequences": [
+          1223615
+        ],
+        "identity": {
+          "word": "あなた",
+          "reading_hiragana": "あなた",
+          "meaning": "你"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b2cb3248d8495ed7",
+      "index": 1001,
+      "word": "お母さん",
+      "reading_hiragana": "おかあさん",
+      "context_meaning_zh": "母亲",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・尊敬语・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "母亲",
+          "meaning_ja": "母親を親しみや敬意を込めて呼ぶ言葉。",
+          "example_ja": "お母さん、駅まで車で送ってください。",
+          "example_zh": "妈妈，请开车送我到车站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "お母さんに聞く",
+          "zh": "问妈妈"
+        }
+      ],
+      "usage_note_zh": "称呼自己的母亲或尊称别人的母亲时可用「お母さん」。向别人介绍自己的母亲时通常说「母」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "honorific"
+        ],
+        "usage": [
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「お母さん」は母亲称谓，词典标有敬意用法；样例兼有家庭直接呼唤和提及他人母亲，敬意与亲昵场景并存。",
+        "dictionary_sequences": [
+          1002650
+        ],
+        "identity": {
+          "word": "お母さん",
+          "reading_hiragana": "おかあさん",
+          "meaning": "母亲"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4b2b08c70b99b229",
+      "index": 1002,
+      "word": "おじいさん",
+      "reading_hiragana": "おじいさん",
+      "context_meaning_zh": "祖父、爷爷",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "祖父、爷爷",
+          "meaning_ja": "祖父を親しみや敬意を込めて呼ぶ言葉。",
+          "example_ja": "おじいさんは毎朝庭を歩きます。",
+          "example_zh": "爷爷每天早晨在院子里散步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "おじいさんと話す",
+          "zh": "和爷爷说话"
+        }
+      ],
+      "usage_note_zh": "自分や他人の祖父への呼び方。見知らぬ高齢男性への呼びかけにもなるが、相手によっては失礼になりうる。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句把座位让给被称作祖父或老年男性的人；匹配词典名词义，关系不明不足以标亲昵或敬语。",
+        "dictionary_sequences": [
+          1002320
+        ],
+        "identity": {
+          "word": "おじいさん",
+          "reading_hiragana": "おじいさん",
+          "meaning": "祖父、爷爷"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ff6281c7f5884636",
+      "index": 1003,
+      "word": "兄さん",
+      "reading_hiragana": "にいさん",
+      "context_meaning_zh": "哥哥",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・尊敬语",
+      "senses": [
+        {
+          "meaning_zh": "哥哥",
+          "meaning_ja": "兄を親しみや敬意を込めて呼ぶ言葉。",
+          "example_ja": "兄さんは今、家にいますか。",
+          "example_zh": "哥哥现在在家吗？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "兄さんを呼ぶ",
+          "zh": "叫哥哥"
+        }
+      ],
+      "usage_note_zh": "在家中称呼哥哥时可用「兄さん」。向别人提到自己的哥哥时通常说「兄」；提到对方的哥哥常说「お兄さん」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "honorific"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「兄さん」可称自己的兄长或较亲近地称呼年轻男性；带さん的称谓有敬称色彩，具体亲疏取决于说话关系。",
+        "dictionary_sequences": [
+          1249910
+        ],
+        "identity": {
+          "word": "兄さん",
+          "reading_hiragana": "にいさん",
+          "meaning": "哥哥"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0d5e543e1230a0a8",
+      "index": 1004,
+      "word": "姉さん",
+      "reading_hiragana": "ねえさん",
+      "context_meaning_zh": "姐姐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・尊敬语",
+      "senses": [
+        {
+          "meaning_zh": "姐姐",
+          "meaning_ja": "姉を親しみや敬意を込めて呼ぶ言葉。",
+          "example_ja": "姉さん、荷物を持ちましょうか。",
+          "example_zh": "姐姐，我帮你拿行李吧？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "姉さんに頼む",
+          "zh": "拜托姐姐"
+        }
+      ],
+      "usage_note_zh": "在家中称呼姐姐时可用「姉さん」。向别人提到自己的姐姐时通常说「姉」；提到对方的姐姐常说「お姉さん」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "honorific"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课用お姉さん称呼对方的姐姐；家族称谓可含敬称语用，但词形姉さん并非普遍正式语体。",
+        "dictionary_sequences": [
+          1307640
+        ],
+        "identity": {
+          "word": "姉さん",
+          "reading_hiragana": "ねえさん",
+          "meaning": "姐姐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d739fe5acaccddc1",
+      "index": 1005,
+      "word": "お父さん",
+      "reading_hiragana": "おとうさん",
+      "context_meaning_zh": "父亲",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・尊敬语",
+      "senses": [
+        {
+          "meaning_zh": "父亲",
+          "meaning_ja": "父親を親しみや敬意を込めて呼ぶ言葉。",
+          "example_ja": "お父さんは何時に帰りますか。",
+          "example_zh": "爸爸几点回来？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "お父さんに相談する",
+          "zh": "和爸爸商量"
+        }
+      ],
+      "usage_note_zh": "自分の父を呼ぶ形。第三者に自分の父のことを話すときは通常「父」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "honorific"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「お父さん」是称呼父亲的敬称形式，例句询问对方父亲；敬意来自词汇称谓，不由句尾构成。",
+        "dictionary_sequences": [
+          1002590
+        ],
+        "identity": {
+          "word": "お父さん",
+          "reading_hiragana": "おとうさん",
+          "meaning": "父亲"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d088f03d7a46f14a",
+      "index": 1006,
+      "word": "彼女",
+      "reading_hiragana": "かのじょ",
+      "context_meaning_zh": "她（第三人称）",
+      "pos_ja": "名詞・代名詞・人称",
+      "pos_zh": "名词・代词・人称",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "她（第三人称）",
+          "meaning_ja": "話題にしている女性を指す言葉。",
+          "example_ja": "彼女は隣の町に住んでいます。",
+          "example_zh": "她住在邻镇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "彼女の名前",
+          "zh": "她的名字"
+        }
+      ],
+      "usage_note_zh": "本课中用作指代女性的第三人称代词；在其他语境中也可指女朋友，须按上下文区分。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "noun",
+          "pronoun"
+        ],
+        "subtypes": [
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此课「彼女」指女性第三人称代词；语境是她谈丈夫做饭，并非女友义，词典也区分代词与女朋友名词。",
+        "dictionary_sequences": [
+          1483150
+        ],
+        "identity": {
+          "word": "彼女",
+          "reading_hiragana": "かのじょ",
+          "meaning": "她（第三人称）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aa2b821f96ffc7a3",
+      "index": 1007,
+      "word": "わたしたち",
+      "reading_hiragana": "わたしたち",
+      "context_meaning_zh": "我们",
+      "pos_ja": "代名詞・人称",
+      "pos_zh": "代词・人称",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "我们",
+          "meaning_ja": "話し手を含む複数の人を指す言葉。",
+          "example_ja": "わたしたちは同じ学校で勉強しています。",
+          "example_zh": "我们在同一所学校学习。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "わたしたちの家",
+          "zh": "我们的家"
+        }
+      ],
+      "usage_note_zh": "「わたしたち」表示包含说话者在内的多人；具体还包括哪些人由上下文决定。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该词指包含说话者在内的复数人称，例句中作主语。",
+        "dictionary_sequences": [
+          1311300
+        ],
+        "identity": {
+          "word": "わたしたち",
+          "reading_hiragana": "わたしたち",
+          "meaning": "我们"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c20478e85c8bb99",
+      "index": 1008,
+      "word": "友人",
+      "reading_hiragana": "ゆうじん",
+      "context_meaning_zh": "友人、朋友",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "友人、朋友",
+          "meaning_ja": "親しい関係にあり、互いに付き合いのある人。",
+          "example_ja": "友人から旅行の写真が届きました。",
+          "example_zh": "朋友寄来了旅行照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "友人と会う",
+          "zh": "和朋友见面"
+        }
+      ],
+      "usage_note_zh": "「友人」は「友達」より少し改まった響きがある。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "友人挑选的包中指朋友；较友達稍改まった，但可用于礼貌介绍。",
+        "dictionary_sequences": [
+          1540150
+        ],
+        "identity": {
+          "word": "友人",
+          "reading_hiragana": "ゆうじん",
+          "meaning": "友人、朋友"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c456d0b7b40ac169",
+      "index": 1009,
+      "word": "赤い",
+      "reading_hiragana": "あかい",
+      "context_meaning_zh": "红的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "红的",
+          "meaning_ja": "血や熟したトマトのような色をしている。",
+          "example_ja": "赤い花が窓のそばに咲いています。",
+          "example_zh": "窗边开着红色的花。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "赤い花",
+          "zh": "红花"
+        }
+      ],
+      "usage_note_zh": "表示物体或事物呈红色；形容脸色时，也可能表达害羞、激动或身体不适等状态，需结合情境理解。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "赤い是い形容词，例句修饰服装颜色；词典另列政治“红色”引申义与此处无关。",
+        "dictionary_sequences": [
+          1383240
+        ],
+        "identity": {
+          "word": "赤い",
+          "reading_hiragana": "あかい",
+          "meaning": "红的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0c20d891f05bf5da",
+      "index": 1010,
+      "word": "語",
+      "reading_hiragana": "ご",
+      "context_meaning_zh": "...语",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "...语",
+          "meaning_ja": "前の言葉が表す国・地域・民族などの言語であることを示す。",
+          "example_ja": "彼はフランス語を勉強しています。",
+          "example_zh": "他在学习法语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本語",
+          "zh": "日语"
+        }
+      ],
+      "usage_note_zh": "国名などに付いて言語名を作る。「英語」「中国語」のように使う。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本词条的「語」接在国名等后构成日本語、中国語等语言名称，是名词性后缀；例句的日本語符合该构词义。",
+        "dictionary_sequences": [
+          1270910
+        ],
+        "identity": {
+          "word": "語",
+          "reading_hiragana": "ご",
+          "meaning": "...语"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bc02e3d8df2b873c",
+      "index": 1011,
+      "word": "彼",
+      "reading_hiragana": "かれ",
+      "context_meaning_zh": "他",
+      "pos_ja": "名詞・代名詞・人称",
+      "pos_zh": "名词・代词・人称",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "他",
+          "meaning_ja": "話題にしている男性を指す言葉。",
+          "example_ja": "彼は毎日自転車で学校へ行きます。",
+          "example_zh": "他每天骑自行车去学校。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "彼の家",
+          "zh": "他的家"
+        }
+      ],
+      "usage_note_zh": "本课用「彼」指谈话中提到的男性。上下文有时也会让它表示男性恋人，但本条课内例句不含该义。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "noun",
+          "pronoun"
+        ],
+        "subtypes": [
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中彼指绘画感兴趣的第三人称男性；词典还列男朋友名词义，故保留名词兼类。",
+        "dictionary_sequences": [
+          1483070
+        ],
+        "identity": {
+          "word": "彼",
+          "reading_hiragana": "かれ",
+          "meaning": "他"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8437a9e42a65c672",
+      "index": 1012,
+      "word": "どんな",
+      "reading_hiragana": "どんな",
+      "context_meaning_zh": "如何的、怎样的",
+      "pos_ja": "連体詞・疑問",
+      "pos_zh": "连体词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "如何的、怎样的",
+          "meaning_ja": "後ろに来る名詞について、種類や様子を尋ねたり示したりする。",
+          "example_ja": "どんな音楽をよく聞きますか。",
+          "example_zh": "你经常听什么样的音乐？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どんな人",
+          "zh": "什么样的人"
+        }
+      ],
+      "usage_note_zh": "「どんな」放在名词前，询问或说明种类、性质，如「どんな本」。询问具体内容或名称时常用「何の」。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "用于询问包的种类，属于疑问连体词，直接修饰名词；不作可活用形容词谓语。",
+        "dictionary_sequences": [
+          1009330
+        ],
+        "identity": {
+          "word": "どんな",
+          "reading_hiragana": "どんな",
+          "meaning": "如何的、怎样的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-44630dd74c6741c7",
+      "index": 1013,
+      "word": "生まれる",
+      "reading_hiragana": "うまれる",
+      "context_meaning_zh": "诞生、出生",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "诞生、出生",
+          "meaning_ja": "新しい命がこの世に現れる。人の出身地についても使う。",
+          "example_ja": "妹は春に生まれました。",
+          "example_zh": "妹妹在春天出生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本で生まれる",
+          "zh": "在日本出生"
+        }
+      ],
+      "usage_note_zh": "出生した場所は「で」、誕生日は「に」で表すことが多い。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "兄嫂在中国出生，出生者为主语；词典列一段自动词。",
+        "dictionary_sequences": [
+          1378690
+        ],
+        "identity": {
+          "word": "生まれる",
+          "reading_hiragana": "うまれる",
+          "meaning": "诞生、出生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d17d46feedeb8751",
+      "index": 1014,
+      "word": "女の子",
+      "reading_hiragana": "おんなのこ",
+      "context_meaning_zh": "女孩子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "女孩子",
+          "meaning_ja": "女性の子供。また、若い女性を親しみを込めて指すことがある。",
+          "example_ja": "女の子が公園で犬と遊んでいます。",
+          "example_zh": "一个女孩正在公园和狗玩。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "女の子が生まれる",
+          "zh": "女孩子出生"
+        }
+      ],
+      "usage_note_zh": "指年幼的女性孩子；称呼成年女性时使用可能显得轻视年龄，需注意对象和场合。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「女の子」指女孩或女儿，课内询问邻座女孩是否也是两个孩子之一。",
+        "dictionary_sequences": [
+          1344970
+        ],
+        "identity": {
+          "word": "女の子",
+          "reading_hiragana": "おんなのこ",
+          "meaning": "女孩子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-437f43e52996ef10",
+      "index": 1015,
+      "word": "男の子",
+      "reading_hiragana": "おとこのこ",
+      "context_meaning_zh": "男孩",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "男孩",
+          "meaning_ja": "男性の子供。",
+          "example_ja": "男の子が自分で靴を履きました。",
+          "example_zh": "男孩自己穿上了鞋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "男の子が走る",
+          "zh": "男孩奔跑"
+        }
+      ],
+      "usage_note_zh": "年少の男性を指す。成人男性には通常使わない。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "黄色衣服的男孩为男性儿童名词；词典同列普通名词义。",
+        "dictionary_sequences": [
+          1420010
+        ],
+        "identity": {
+          "word": "男の子",
+          "reading_hiragana": "おとこのこ",
+          "meaning": "男孩"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b8228295adbc4004",
+      "index": 1016,
+      "word": "たち",
+      "reading_hiragana": "たち",
+      "context_meaning_zh": "们(表示复数)",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "们(表示复数)",
+          "meaning_ja": "人を表す名詞に付き、その人を含む複数の人を表す。誰が含まれるかは文脈で決まる。",
+          "example_ja": "先生たちは教室で話しています。",
+          "example_zh": "老师们正在教室里交谈。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先生たち",
+          "zh": "老师们"
+        }
+      ],
+      "usage_note_zh": "「たち」接在人名或表示人的名词后，表示包含该人的多人群体；它不说明人数，具体包括谁要看上下文。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "たち接在弟さん等人称名词后表示包含该人的群体，词典支持复数后缀义；无须标敬语。",
+        "dictionary_sequences": [
+          1416220
+        ],
+        "identity": {
+          "word": "たち",
+          "reading_hiragana": "たち",
+          "meaning": "们(表示复数)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c3c430694784d2b",
+      "index": 1017,
+      "word": "黄色い",
+      "reading_hiragana": "きいろい",
+      "context_meaning_zh": "黄色的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "黄色的",
+          "meaning_ja": "熟したレモンや菜の花のような色をしている。",
+          "example_ja": "黄色い帽子をかぶった子を見ました。",
+          "example_zh": "我看到了一个戴黄色帽子的孩子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "黄色い花",
+          "zh": "黄色的花"
+        }
+      ],
+      "usage_note_zh": "色を表す。名詞は「黄色」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "描述衣服颜色的い形容词；学习提示区分名词「黄色」，本例修饰服装。",
+        "dictionary_sequences": [
+          1182030
+        ],
+        "identity": {
+          "word": "黄色い",
+          "reading_hiragana": "きいろい",
+          "meaning": "黄色的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7544d28db77b5627",
+      "index": 1018,
+      "word": "黒い",
+      "reading_hiragana": "くろい",
+      "context_meaning_zh": "黑色的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "黑色的",
+          "meaning_ja": "墨や炭のように、光をほとんど反射しない色をしている。",
+          "example_ja": "黒い靴を毎日履いています。",
+          "example_zh": "我每天穿黑色的鞋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "黒い髪",
+          "zh": "黑发"
+        }
+      ],
+      "usage_note_zh": "色を表す。暗いこと全般を表す「暗い」とは異なる。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "黑色帽子的人为颜色义修饰名词；词典还列可疑、肮脏等引申义，但本例明确取颜色。",
+        "dictionary_sequences": [
+          1287420
+        ],
+        "identity": {
+          "word": "黒い",
+          "reading_hiragana": "くろい",
+          "meaning": "黑色的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-73af7ce28440ad09",
+      "index": 1019,
+      "word": "かける",
+      "reading_hiragana": "かける",
+      "context_meaning_zh": "戴眼镜；打电话；挂（按搭配分教）",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "戴眼镜；打电话；挂（按搭配分教）",
+          "meaning_ja": "電話を使って、離れた相手に連絡する。",
+          "example_ja": "出発前にホテルへ電話をかけました。",
+          "example_zh": "出发前我给酒店打了电话。"
+        },
+        {
+          "meaning_zh": "戴眼镜",
+          "meaning_ja": "眼鏡を耳と鼻に掛けて身に着ける。",
+          "example_ja": "祖母は出かける前に眼鏡をかけました。",
+          "example_zh": "祖母出门前戴上了眼镜。"
+        },
+        {
+          "meaning_zh": "挂上；悬挂",
+          "meaning_ja": "物を壁などに掛けておく。",
+          "example_ja": "壁に家族の写真をかけました。",
+          "example_zh": "我把全家福挂在了墙上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電話をかける",
+          "zh": "打电话"
+        }
+      ],
+      "usage_note_zh": "本課の「電話をかける」は電話で連絡する意味。眼鏡を身に着ける場合や、絵を壁に掛ける場合も同じ形だが、目的語で区別する。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "low",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「電話をかける」在此为一段他动词，但有效释义同时并列戴眼镜等多种かける义，不能据单一例句为整个合并条目确定自他。",
+        "dictionary_sequences": [
+          1207610,
+          1244720,
+          1253920,
+          1444840,
+          1570710,
+          2208960,
+          2872558
+        ],
+        "identity": {
+          "word": "かける",
+          "reading_hiragana": "かける",
+          "meaning": "戴眼镜；打电话；挂（按搭配分教）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ca65d2f4be8bbcb5",
+      "index": 1020,
+      "word": "白い",
+      "reading_hiragana": "しろい",
+      "context_meaning_zh": "白的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "白的",
+          "meaning_ja": "雪や紙のように、光をすべての色に近い形で反射する色をしている。",
+          "example_ja": "白い紙に住所を書きました。",
+          "example_zh": "我在白纸上写了地址。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "白い雲",
+          "zh": "白云"
+        }
+      ],
+      "usage_note_zh": "色を表す。紙や服の色にも使う。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "白い衣服取白色义；空白、无罪、鲜明和生涩等词典引申义与此无关。",
+        "dictionary_sequences": [
+          1474910
+        ],
+        "identity": {
+          "word": "白い",
+          "reading_hiragana": "しろい",
+          "meaning": "白的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-18eefc872be04ee3",
+      "index": 1021,
+      "word": "両親",
+      "reading_hiragana": "りょうしん",
+      "context_meaning_zh": "双亲；双亲、父母",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "双亲；双亲、父母",
+          "meaning_ja": "人の父と母の二人をまとめて指す言葉。",
+          "example_ja": "両親に新しい学校のことを話しました。",
+          "example_zh": "我把新学校的事告诉了父母。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "両親と住む",
+          "zh": "和父母住"
+        }
+      ],
+      "usage_note_zh": "自分の父母について使う。「ご両親」は相手の父母への敬意を示す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "明天说话者的父母也来，JMdict 1602710明确列父母名词义；「さん」是对来访者的称呼，不是词项敬语。",
+        "dictionary_sequences": [
+          1602710
+        ],
+        "identity": {
+          "word": "両親",
+          "reading_hiragana": "りょうしん",
+          "meaning": "双亲；双亲、父母"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3cddc0cbaa39da4e",
+      "index": 1022,
+      "word": "兄",
+      "reading_hiragana": "あに",
+      "context_meaning_zh": "哥哥",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "哥哥",
+          "meaning_ja": "自分より年上の男性の兄弟。",
+          "example_ja": "兄は料理の本を集めています。",
+          "example_zh": "哥哥在收集烹饪书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "兄と出かける",
+          "zh": "和哥哥出门"
+        }
+      ],
+      "usage_note_zh": "第三者に自分の兄を話すときに使う。他人の兄は「お兄さん」と言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "隣の若い男被说明为兄，使用说话人称呼自己哥哥的亲属名词。",
+        "dictionary_sequences": [
+          1249900
+        ],
+        "identity": {
+          "word": "兄",
+          "reading_hiragana": "あに",
+          "meaning": "哥哥"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f7eb4b2aae8195c6",
+      "index": 1023,
+      "word": "姉",
+      "reading_hiragana": "あね",
+      "context_meaning_zh": "姐姐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "姐姐",
+          "meaning_ja": "自分より年上の女性の姉妹。",
+          "example_ja": "姉は新しい仕事を始めました。",
+          "example_zh": "姐姐开始了新工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "姉に教える",
+          "zh": "教姐姐"
+        }
+      ],
+      "usage_note_zh": "第三者に自分の姉を話すときに使う。他人の姉は「お姉さん」と言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "红衣人的姐姐是亲属名词姉，符合词典older sister义。",
+        "dictionary_sequences": [
+          1307630
+        ],
+        "identity": {
+          "word": "姉",
+          "reading_hiragana": "あね",
+          "meaning": "姐姐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e7d9e476aa25dbeb",
+      "index": 1024,
+      "word": "弟",
+      "reading_hiragana": "おとうと",
+      "context_meaning_zh": "弟弟",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "弟弟",
+          "meaning_ja": "自分より年下の男性の兄弟。",
+          "example_ja": "弟は自分の部屋を掃除しました。",
+          "example_zh": "弟弟打扫了自己的房间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "弟と遊ぶ",
+          "zh": "和弟弟玩"
+        }
+      ],
+      "usage_note_zh": "自分の弟を指す。他人の弟については「弟さん」と言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1581930首义为年幼弟弟；本例说明作画者为自己的弟弟，不取姻亲义。",
+        "dictionary_sequences": [
+          1581930
+        ],
+        "identity": {
+          "word": "弟",
+          "reading_hiragana": "おとうと",
+          "meaning": "弟弟"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-19d702bcb3c7262e",
+      "index": 1025,
+      "word": "妹",
+      "reading_hiragana": "いもうと",
+      "context_meaning_zh": "妹妹",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "妹妹",
+          "meaning_ja": "自分より年下の女性の姉妹。",
+          "example_ja": "妹は料理を習いたいそうです。",
+          "example_zh": "妹妹说想学做饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "妹と話す",
+          "zh": "和妹妹交谈"
+        }
+      ],
+      "usage_note_zh": "自分の妹を指す。他人の妹については「妹さん」と言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指说话者自己的妹妹；谈及对方妹妹时通常加さん以示礼貌。",
+        "dictionary_sequences": [
+          1524590
+        ],
+        "identity": {
+          "word": "妹",
+          "reading_hiragana": "いもうと",
+          "meaning": "妹妹"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-31a545d2fe326a99",
+      "index": 1026,
+      "word": "父",
+      "reading_hiragana": "ちち",
+      "context_meaning_zh": "父亲",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・谦让语",
+      "senses": [
+        {
+          "meaning_zh": "父亲",
+          "meaning_ja": "自分の男性の親。",
+          "example_ja": "父は朝早く家を出ます。",
+          "example_zh": "父亲一大早就出门。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "父の仕事",
+          "zh": "父亲的工作"
+        }
+      ],
+      "usage_note_zh": "第三者に自分の父を話すときの語。呼びかけには「お父さん」、他人の父には「お父さん／お父様」を使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "humble"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "父亲作自家亲属称谓时使用谦逊形式；礼貌句尾只属于整句。",
+        "dictionary_sequences": [
+          1497610
+        ],
+        "identity": {
+          "word": "父",
+          "reading_hiragana": "ちち",
+          "meaning": "父亲"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-42bdddabcf6bd48f",
+      "index": 1027,
+      "word": "結婚",
+      "reading_hiragana": "けっこん",
+      "context_meaning_zh": "结婚",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "结婚",
+          "meaning_ja": "二人が夫婦になること。",
+          "example_ja": "二人は来年の春に結婚します。",
+          "example_zh": "两人明年春天结婚。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結婚する",
+          "zh": "结婚"
+        }
+      ],
+      "usage_note_zh": "相手を示すときは「人と結婚する」。「人に結婚する」とは言わない。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "结婚/結婚する是中性名词和サ变自动词；例句的しました是动词礼貌活用，移除词项polite。",
+        "dictionary_sequences": [
+          1254790
+        ],
+        "identity": {
+          "word": "結婚",
+          "reading_hiragana": "けっこん",
+          "meaning": "结婚"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-132606256aa37dc0",
+      "index": 1028,
+      "word": "子供",
+      "reading_hiragana": "こども",
+      "context_meaning_zh": "孩子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "孩子",
+          "meaning_ja": "生まれてからまだ成長の途中にある人。",
+          "example_ja": "子供たちは庭で水遊びをしています。",
+          "example_zh": "孩子们正在院子里玩水。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "子供のころ",
+          "zh": "小时候"
+        }
+      ],
+      "usage_note_zh": "泛指未成年的孩子，也可在语境明确时指自己的儿女。描述特定关系时可直接说「息子」或「娘」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "相邻女孩是否也是两人的孩子，子供指未成年孩子或亲生儿女；不是专指儿童语体的词。",
+        "dictionary_sequences": [
+          1307850
+        ],
+        "identity": {
+          "word": "子供",
+          "reading_hiragana": "こども",
+          "meaning": "孩子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e06720180bb5afad",
+      "index": 1029,
+      "word": "老人",
+      "reading_hiragana": "ろうじん",
+      "context_meaning_zh": "老人",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "老人",
+          "meaning_ja": "年齢を重ねた人を指す語。",
+          "example_ja": "老人が安心して暮らせる町を作ります。",
+          "example_zh": "建设一个老人能安心生活的城镇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "老人ホーム",
+          "zh": "养老院"
+        }
+      ],
+      "usage_note_zh": "説明的な語。直接呼びかけると失礼になりうるため、場面に応じて「高齢の方」などを使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "画中的老人和孩子相对，老人指年长者；本例没有褒贬或贬损语气。",
+        "dictionary_sequences": [
+          1561090
+        ],
+        "identity": {
+          "word": "老人",
+          "reading_hiragana": "ろうじん",
+          "meaning": "老人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0778ec630439948c",
+      "index": 1030,
+      "word": "男",
+      "reading_hiragana": "おとこ",
+      "context_meaning_zh": "男子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "男子",
+          "meaning_ja": "男性という性別の人。また、成人した男性を指す。",
+          "example_ja": "あの男の人は先生です。",
+          "example_zh": "那位男士是老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "男の人",
+          "zh": "男人"
+        }
+      ],
+      "usage_note_zh": "直接用「男」指人时语气较直；日常谈话中常用「男の人」表达得更委婉。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「男」作男性名词，可用于男子气概或男性身份指称；常规例句不足以将整个词项限定为亲昵语。",
+        "dictionary_sequences": [
+          1419990
+        ],
+        "identity": {
+          "word": "男",
+          "reading_hiragana": "おとこ",
+          "meaning": "男子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d9897a0e06d826bb",
+      "index": 1031,
+      "word": "女",
+      "reading_hiragana": "おんな",
+      "context_meaning_zh": "女子",
+      "pos_ja": "名詞・接頭辞",
+      "pos_zh": "名词・接头词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "女子",
+          "meaning_ja": "女性という性別の人。また、成人した女性を指す。",
+          "example_ja": "女の人が入口で待っています。",
+          "example_zh": "一位女士在入口等候。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "女の人",
+          "zh": "女人"
+        }
+      ],
+      "usage_note_zh": "直接用「女」指人时语气较直；日常谈话中常用「女の人」表达得更委婉。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "prefix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处女の人整体指女性；词可作名词并构成女学生等前缀，直接称呼语气较直，日常常用女の人缓和。",
+        "dictionary_sequences": [
+          1344930
+        ],
+        "identity": {
+          "word": "女",
+          "reading_hiragana": "おんな",
+          "meaning": "女子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c136b0a4689fe3e2",
+      "index": 1032,
+      "word": "母",
+      "reading_hiragana": "はは",
+      "context_meaning_zh": "母亲",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・谦让语",
+      "senses": [
+        {
+          "meaning_zh": "母亲",
+          "meaning_ja": "自分の女性の親。",
+          "example_ja": "母は料理を作るのが好きです。",
+          "example_zh": "母亲喜欢做饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "母の手紙",
+          "zh": "母亲的信"
+        }
+      ],
+      "usage_note_zh": "第三者に自分の母を話すときの語。呼びかけは「お母さん」、他人の母は「お母さん／お母様」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "humble"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "母是说话者向他人介绍自己母亲时用的名词，词典标hum；并非称呼对方母亲的尊敬语。",
+        "dictionary_sequences": [
+          1514990
+        ],
+        "identity": {
+          "word": "母",
+          "reading_hiragana": "はは",
+          "meaning": "母亲"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cf49cbf2e12e747a",
+      "index": 1033,
+      "word": "自分",
+      "reading_hiragana": "じぶん",
+      "context_meaning_zh": "自己、自身",
+      "pos_ja": "代名詞・人称・再帰",
+      "pos_zh": "代词・人称・反身",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "自己、自身",
+          "meaning_ja": "自分自身。また、人が自分で行うことを強調する語。",
+          "example_ja": "この仕事は自分で最後までやります。",
+          "example_zh": "这项工作我会自己做到底。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "自分で決める",
+          "zh": "自己决定"
+        }
+      ],
+      "usage_note_zh": "「自分」指谁要看上下文。「自分で」强调亲自做，「自分の」表示所属或关联。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "personal",
+          "reflexive"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处自分指相关人物自己的家人，词典支持反身代词义；具体所指随语境确定。",
+        "dictionary_sequences": [
+          1318610
+        ],
+        "identity": {
+          "word": "自分",
+          "reading_hiragana": "じぶん",
+          "meaning": "自己、自身"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f84b728988d01dd8",
+      "index": 1034,
+      "word": "持つ",
+      "reading_hiragana": "もつ",
+      "context_meaning_zh": "拿、带；持有；怀有想法或兴趣",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拿、带；持有；怀有想法或兴趣",
+          "meaning_ja": "物を手に持つことから、所有物や考え・関心を自分のものとして持つことまで表す。",
+          "example_ja": "旅行には小さなかばんを持って行きます。",
+          "example_zh": "旅行时我会带一个小包去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "荷物を持って行く",
+          "zh": "带行李去"
+        }
+      ],
+      "usage_note_zh": "物を手に持つ・携帯する意味のほか、「免許を持つ」は所有、「興味を持つ」は関心を抱く意味。目的語によって用法が決まる。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此条有效义均为拿带、持有或怀有兴趣，例句对象都由を标记；JMdict的自动词兼类来自另一个俚语义，不应并入当前身份。",
+        "dictionary_sequences": [
+          1315720
+        ],
+        "identity": {
+          "word": "持つ",
+          "reading_hiragana": "もつ",
+          "meaning": "拿、带；持有；怀有想法或兴趣"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5c31c908a0f5c608",
+      "index": 1035,
+      "word": "大きな",
+      "reading_hiragana": "おおきな",
+      "context_meaning_zh": "大的（连体词）",
+      "pos_ja": "連体詞",
+      "pos_zh": "连体词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大的（连体词）",
+          "meaning_ja": "後ろの名詞が大きいことを、その名詞の性質として表す。",
+          "example_ja": "町に大きな公園ができました。",
+          "example_zh": "镇上建成了一座大公园。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大きな声",
+          "zh": "大声"
+        }
+      ],
+      "usage_note_zh": "名詞の前だけで使う。「大きい」は述語にもなり、「大きな」は名詞を直接修飾する。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "大きな帽子直接修饰少年帽子，词典标连体词；不可按大きい形容词活用标活用。",
+        "dictionary_sequences": [
+          1412890
+        ],
+        "identity": {
+          "word": "大きな",
+          "reading_hiragana": "おおきな",
+          "meaning": "大的（连体词）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e5d69f421c3d14f6",
+      "index": 1036,
+      "word": "小さな",
+      "reading_hiragana": "ちいさな",
+      "context_meaning_zh": "小的（连体词）",
+      "pos_ja": "連体詞",
+      "pos_zh": "连体词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "小的（连体词）",
+          "meaning_ja": "後ろの名詞が小さいことを、その名詞の性質として表す。",
+          "example_ja": "小さな店で昼ご飯を食べました。",
+          "example_zh": "我在一家小店吃了午饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "小さな子供",
+          "zh": "小孩子"
+        }
+      ],
+      "usage_note_zh": "名詞の前だけで使う。「小さい」は述語にもなり、「小さな」は名詞を直接修飾する。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「小さな」直接修饰帽子等名词，词典列为连体词；不作谓语形容词活用。",
+        "dictionary_sequences": [
+          2136180
+        ],
+        "identity": {
+          "word": "小さな",
+          "reading_hiragana": "ちいさな",
+          "meaning": "小的（连体词）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7a13607c43972049",
+      "index": 1037,
+      "word": "このよう",
+      "reading_hiragana": "このよう",
+      "context_meaning_zh": "这样的、如此",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "这样的、如此",
+          "meaning_ja": "前に述べた物事と同じような様子や方法であることを表す。",
+          "example_ja": "このような問題は一緒に考えましょう。",
+          "example_zh": "我们一起思考这样的问题吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "このような方法",
+          "zh": "这样的方法"
+        }
+      ],
+      "usage_note_zh": "通常接「な」修饰名词，如「このような人」；后面也可接「に」等表示方式。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "JMdict 1725380 标为ナ形容词，形容示指的样态；例句的「このような」是连体形式，不据「な」误判为名词。",
+        "dictionary_sequences": [
+          1725380
+        ],
+        "identity": {
+          "word": "このよう",
+          "reading_hiragana": "このよう",
+          "meaning": "这样的、如此"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-808ae52bef596e15",
+      "index": 1038,
+      "word": "人",
+      "reading_hiragana": "じん",
+      "context_meaning_zh": "〜人：国籍、地域或身份的人",
+      "pos_ja": "接尾辞・人称",
+      "pos_zh": "接尾词・人称",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "〜人：国籍、地域或身份的人",
+          "meaning_ja": "国や地域の名前に付き、その国・地域に属する人を表す。",
+          "example_ja": "アメリカ人の友人に手紙を書きました。",
+          "example_zh": "我给美国朋友写了信。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本人",
+          "zh": "日本人"
+        }
+      ],
+      "usage_note_zh": "接在国名或地区名后时读「じん」，表示来自该国家或地区的人，如「日本人」。单独表示“人”通常读「ひと」。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "接国名或地区名后读じん表示该地出身者；例句日本人、外国人均为此后缀。",
+        "dictionary_sequences": [
+          1366410
+        ],
+        "identity": {
+          "word": "人",
+          "reading_hiragana": "じん",
+          "meaning": "〜人：国籍、地域或身份的人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f9ca18dd41cb61be",
+      "index": 1039,
+      "word": "にこにこ",
+      "reading_hiragana": "にこにこ",
+      "context_meaning_zh": "笑眯眯地",
+      "pos_ja": "動詞・副詞・オノマトペ",
+      "pos_zh": "动词・副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "笑眯眯地",
+          "meaning_ja": "口元をゆるめ、明るく笑っている様子。",
+          "example_ja": "赤ちゃんは母親を見てにこにこ笑いました。",
+          "example_zh": "婴儿看着母亲笑眯眯的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "にこにこ笑う",
+          "zh": "笑眯眯地笑"
+        }
+      ],
+      "usage_note_zh": "笑顔の様子を表す副詞。「にこにこする／笑う」の形で使う。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "verb",
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "にこにこ是微笑的拟态副词，也有不及物サ变用法；例句见于书面叙述和会话，媒介不局限口语。",
+        "dictionary_sequences": [
+          1091130
+        ],
+        "identity": {
+          "word": "にこにこ",
+          "reading_hiragana": "にこにこ",
+          "meaning": "笑眯眯地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-036bd2723ab8a4e6",
+      "index": 1040,
+      "word": "大人",
+      "reading_hiragana": "おとな",
+      "context_meaning_zh": "大人、成年人",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大人、成年人",
+          "meaning_ja": "成長して、社会で一人前とされる年齢になった人。",
+          "example_ja": "大人になったら世界を旅したいです。",
+          "example_zh": "长大成人后我想环游世界。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大人になる",
+          "zh": "长大成人"
+        }
+      ],
+      "usage_note_zh": "成人を指す名詞。子供との対比で使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "大人の服指成人服装，词条可作名词及no／ナ形容词；本句作名词定语。",
+        "dictionary_sequences": [
+          1414170
+        ],
+        "identity": {
+          "word": "大人",
+          "reading_hiragana": "おとな",
+          "meaning": "大人、成年人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fd9474876b953bb4",
+      "index": 1041,
+      "word": "彼ら",
+      "reading_hiragana": "かれら",
+      "context_meaning_zh": "他们",
+      "pos_ja": "代名詞・人称",
+      "pos_zh": "代词・人称",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "他们",
+          "meaning_ja": "話題にしている複数の男性、または性別を特定しない複数の人を指す。",
+          "example_ja": "彼らは同じ会社で働いています。",
+          "example_zh": "他们在同一家公司工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "彼らの意見",
+          "zh": "他们的意见"
+        }
+      ],
+      "usage_note_zh": "「彼ら」通常指谈话中提到的多名男性，也可在语境允许时泛指一群人；实际指谁由上下文决定。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "受付外にいる多人由彼ら指称，词典they/them代词义相符；日语不必严格限男性，身份不加性别描述。",
+        "dictionary_sequences": [
+          1483090
+        ],
+        "identity": {
+          "word": "彼ら",
+          "reading_hiragana": "かれら",
+          "meaning": "他们"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8052ee457756d340",
+      "index": 1042,
+      "word": "どういう",
+      "reading_hiragana": "どういう",
+      "context_meaning_zh": "什么样的、怎么样的",
+      "pos_ja": "連体詞",
+      "pos_zh": "连体词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "什么样的、怎么样的",
+          "meaning_ja": "後ろの名詞について、内容や性質を尋ねる。",
+          "example_ja": "どういう理由で遅れたのですか。",
+          "example_zh": "你是因为什么理由迟到的？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どういう意味",
+          "zh": "什么意思"
+        }
+      ],
+      "usage_note_zh": "名詞の前に置き、種類・内容・理由などを尋ねる。「どんな」と近いが、内容や筋道を問う場面にもよく使う。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "どういう直接修饰模様、理由、意味等名词，词典标连体词，功能为疑问连体修饰语。",
+        "dictionary_sequences": [
+          1008920
+        ],
+        "identity": {
+          "word": "どういう",
+          "reading_hiragana": "どういう",
+          "meaning": "什么样的、怎么样的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c788da14f8b00912",
+      "index": 1043,
+      "word": "職業",
+      "reading_hiragana": "しょくぎょう",
+      "context_meaning_zh": "职业",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "职业",
+          "meaning_ja": "生活のために人が継続して行う仕事や役目。",
+          "example_ja": "将来はどんな職業に就きたいですか。",
+          "example_zh": "将来你想从事什么职业？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "職業を選ぶ",
+          "zh": "选择职业"
+        }
+      ],
+      "usage_note_zh": "仕事の種類を指す。「職業に就く／職業を選ぶ」と言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "父亲的职业为医生，occupation/profession名词义明确。",
+        "dictionary_sequences": [
+          1357510
+        ],
+        "identity": {
+          "word": "職業",
+          "reading_hiragana": "しょくぎょう",
+          "meaning": "职业"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9f53362b9482a4c3",
+      "index": 1044,
+      "word": "呼ぶ",
+      "reading_hiragana": "よぶ",
+      "context_meaning_zh": "称作；叫来；呼喊",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "称作；叫来；呼喊",
+          "meaning_ja": "人の名を口にして注意を向けさせる。また、人や物に名前を付ける。",
+          "example_ja": "この花を日本語で何と呼びますか。",
+          "example_zh": "这种花用日语叫什么？"
+        },
+        {
+          "meaning_zh": "叫来；邀请",
+          "meaning_ja": "人に来てもらうように声をかける。",
+          "example_ja": "困ったので、近くの店員を呼びました。",
+          "example_zh": "因为遇到了困难，我叫来了附近的店员。"
+        },
+        {
+          "meaning_zh": "呼喊",
+          "meaning_ja": "大きな声を出して相手に知らせる。",
+          "example_ja": "遠くの友人に大声で呼びかけました。",
+          "example_zh": "我大声呼唤远处的朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "名前を呼ぶ",
+          "zh": "叫名字"
+        }
+      ],
+      "usage_note_zh": "「人を呼ぶ」は呼び寄せる、「AをBと呼ぶ」はAをBという名で言う。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "称呼、召来或喊叫的对象由を标出；该课程例句呈命名、呼叫和呼喊义，词典标五段他动。",
+        "dictionary_sequences": [
+          1266440
+        ],
+        "identity": {
+          "word": "呼ぶ",
+          "reading_hiragana": "よぶ",
+          "meaning": "称作；叫来；呼喊"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-beb0b201ce818797",
+      "index": 1045,
+      "word": "そういう",
+      "reading_hiragana": "そういう",
+      "context_meaning_zh": "那样的",
+      "pos_ja": "連体詞・指示",
+      "pos_zh": "连体词・指示",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "那样的",
+          "meaning_ja": "前に出た話や、聞き手の発言と同じような内容・状態であることを示す。",
+          "example_ja": "そういう話は初めて聞きました。",
+          "example_zh": "这种事我还是第一次听说。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "そういう人",
+          "zh": "那样的人"
+        }
+      ],
+      "usage_note_zh": "「そういう」修饰名词，承接前文或听话人提到的内容；「こういう」通常指说话者正在举出的例子或眼前的内容。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [
+          "demonstrative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「そういう」直接修饰后续名词并指向前文或对方提及的类型，属指示连体词；不按汉语‘那样’误作代词。",
+        "dictionary_sequences": [
+          1394680
+        ],
+        "identity": {
+          "word": "そういう",
+          "reading_hiragana": "そういう",
+          "meaning": "那样的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d4e21d650858fd87",
+      "index": 1046,
+      "word": "植木鉢",
+      "reading_hiragana": "うえきばち",
+      "context_meaning_zh": "花盆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "花盆",
+          "meaning_ja": "草花を植えて育てるための、土を入れる容器。",
+          "example_ja": "玄関の前に植木鉢を二つ置きました。",
+          "example_zh": "我在门口放了两个花盆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "植木鉢に植える",
+          "zh": "种在花盆里"
+        }
+      ],
+      "usage_note_zh": "植物そのものではなく、植物を植える容器を指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "蓝色植木鉢是植物栽培容器而非植物；词典释义 flowerpot/plant pot。",
+        "dictionary_sequences": [
+          1357380
+        ],
+        "identity": {
+          "word": "植木鉢",
+          "reading_hiragana": "うえきばち",
+          "meaning": "花盆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-55dc98feda226406",
+      "index": 1047,
+      "word": "青色",
+      "reading_hiragana": "あおいろ",
+      "context_meaning_zh": "蓝色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蓝色",
+          "meaning_ja": "青色であること。また、青色の絵の具や色合い。",
+          "example_ja": "青色の紙を一枚ください。",
+          "example_zh": "请给我一张蓝色的纸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "青色の服",
+          "zh": "蓝色衣服"
+        }
+      ],
+      "usage_note_zh": "色名。「青色」は色そのものを指す。「青い」は物の色を説明する形容詞。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "色彩名词，表示蓝色本身；例句用の修饰花盆，学习提示与形容词青い区分。",
+        "dictionary_sequences": [
+          1381590
+        ],
+        "identity": {
+          "word": "青色",
+          "reading_hiragana": "あおいろ",
+          "meaning": "蓝色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b7b61d901ce490dd",
+      "index": 1048,
+      "word": "こういう",
+      "reading_hiragana": "こういう",
+      "context_meaning_zh": "这种、这样",
+      "pos_ja": "連体詞・指示",
+      "pos_zh": "连体词・指示",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "这种、这样",
+          "meaning_ja": "話し手が例として示す物事と同じ種類や様子であることを表す。",
+          "example_ja": "こういう料理は初めて食べました。",
+          "example_zh": "这种菜我还是第一次吃。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "こういう本",
+          "zh": "这种书"
+        }
+      ],
+      "usage_note_zh": "話し手の近くにある内容や直前の説明を受ける。名詞を修飾し、「こういうの」も使う。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [
+          "demonstrative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「こういう丸い形」中直接修饰名词，指说话者举例的近称类别；词典对应连体词性用法。",
+        "dictionary_sequences": [
+          1004320
+        ],
+        "identity": {
+          "word": "こういう",
+          "reading_hiragana": "こういう",
+          "meaning": "这种、这样"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5feaaf452719855e",
+      "index": 1049,
+      "word": "ほら",
+      "reading_hiragana": "ほら",
+      "context_meaning_zh": "瞧；(唤起对方注意)喂、瞧",
+      "pos_ja": "感動詞",
+      "pos_zh": "感叹词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "瞧；(唤起对方注意)喂、瞧",
+          "meaning_ja": "相手の注意を向けたり、目の前の物を見せたりするときに発する語。",
+          "example_ja": "ほら、机の下に猫がいますよ。",
+          "example_zh": "瞧，桌子下面有只猫。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ほら、見て",
+          "zh": "你看"
+        }
+      ],
+      "usage_note_zh": "相手に何かを気づかせる言葉。強い口調では急かす・責める響きになるため、対人関係に注意する。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "JMdict 1011710 的感叹词义为看、瞧；本课置于句首引导对方辨认戴帽子的人。",
+        "dictionary_sequences": [
+          1011710
+        ],
+        "identity": {
+          "word": "ほら",
+          "reading_hiragana": "ほら",
+          "meaning": "瞧；(唤起对方注意)喂、瞧"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-622c8657339a4193",
+      "index": 1050,
+      "word": "若い",
+      "reading_hiragana": "わかい",
+      "context_meaning_zh": "年轻的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "年轻的",
+          "meaning_ja": "年齢が高くなく、成長してから長い時間がたっていない。",
+          "example_ja": "若い二人は新しい町で暮らし始めました。",
+          "example_zh": "这对年轻人开始在新城生活。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "若い人",
+          "zh": "年轻人"
+        }
+      ],
+      "usage_note_zh": "主要描述年龄不大，也可形容想法、组织等显得新或有活力。评价人的想法时有时带有“不够成熟”的语气。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "若い在此按年龄少解释，修饰男子；词典还列不成熟及数值较小义，但语境不支持。",
+        "dictionary_sequences": [
+          1324300
+        ],
+        "identity": {
+          "word": "若い",
+          "reading_hiragana": "わかい",
+          "meaning": "年轻的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a9a6d83d644bf84f",
+      "index": 1051,
+      "word": "息子",
+      "reading_hiragana": "むすこ",
+      "context_meaning_zh": "儿子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "儿子",
+          "meaning_ja": "自分または他人の男の子供。",
+          "example_ja": "息子は自転車で図書館へ行きました。",
+          "example_zh": "儿子骑自行车去了图书馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "息子の学校",
+          "zh": "儿子的学校"
+        }
+      ],
+      "usage_note_zh": "自分の男の子供を指すときに使う。他人の息子には「息子さん」と言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "息子指男性子女的普通亲属名词；向他人称对方儿子时可以加さん，但本词不属于人称代词。",
+        "dictionary_sequences": [
+          1404390
+        ],
+        "identity": {
+          "word": "息子",
+          "reading_hiragana": "むすこ",
+          "meaning": "儿子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2cf512e6ec532e22",
+      "index": 1052,
+      "word": "妻",
+      "reading_hiragana": "つま",
+      "context_meaning_zh": "妻子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "妻子",
+          "meaning_ja": "結婚している男性の配偶者である女性。",
+          "example_ja": "妻は週末に友人と映画を見に行きます。",
+          "example_zh": "妻子周末和朋友去看电影。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "妻と相談する",
+          "zh": "和妻子商量"
+        }
+      ],
+      "usage_note_zh": "自分の配偶者を第三者に話すときの語。相手の配偶者を指す語ではない。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "妻指自己的或他人的配偶女性，例句描述兄长妻子；词典另收妻与配偶、端部同形条目，此处按有效义取妻。",
+        "dictionary_sequences": [
+          1294330
+        ],
+        "identity": {
+          "word": "妻",
+          "reading_hiragana": "つま",
+          "meaning": "妻子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4ff8a3647a7b9891",
+      "index": 1053,
+      "word": "夫",
+      "reading_hiragana": "おっと",
+      "context_meaning_zh": "丈夫",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "丈夫",
+          "meaning_ja": "結婚している女性の配偶者である男性。",
+          "example_ja": "夫は毎朝、家族の朝食を作ります。",
+          "example_zh": "丈夫每天早晨为家人做早餐。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "夫と暮らす",
+          "zh": "和丈夫生活"
+        }
+      ],
+      "usage_note_zh": "自分の配偶者を第三者に話すときの語。相手の配偶者については「ご主人」などを使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "妻子对话中说自己的丈夫喜欢料理，夫为自称配偶名词；课程提醒谈对方配偶常用ご主人。",
+        "dictionary_sequences": [
+          1496480
+        ],
+        "identity": {
+          "word": "夫",
+          "reading_hiragana": "おっと",
+          "meaning": "丈夫"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-793ab0e2eeac9b63",
+      "index": 1054,
+      "word": "娘",
+      "reading_hiragana": "むすめ",
+      "context_meaning_zh": "女儿",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "女儿",
+          "meaning_ja": "自分または他人の女の子供。",
+          "example_ja": "娘は夏休みに祖母の家へ行きます。",
+          "example_zh": "女儿暑假要去祖母家。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "娘を育てる",
+          "zh": "养育女儿"
+        }
+      ],
+      "usage_note_zh": "自分の女の子供を指す。他人の娘には「娘さん」と言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "はい、娘です回答家庭身份，明确为女儿名词；向他人称女儿时可用娘さん，但本条无敬语词形。",
+        "dictionary_sequences": [
+          1531190
+        ],
+        "identity": {
+          "word": "娘",
+          "reading_hiragana": "むすめ",
+          "meaning": "女儿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a3deee95a695459d",
+      "index": 1055,
+      "word": "奥さん",
+      "reading_hiragana": "おくさん",
+      "context_meaning_zh": "夫人、太太",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・尊敬语",
+      "senses": [
+        {
+          "meaning_zh": "夫人、太太",
+          "meaning_ja": "他人の妻を敬って指す言葉。また、既婚女性への呼びかけ。",
+          "example_ja": "山田さんの奥さんはピアノの先生です。",
+          "example_zh": "山田先生的夫人是钢琴老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "奥さんに会う",
+          "zh": "见到夫人"
+        }
+      ],
+      "usage_note_zh": "「奥さん」通常尊称别人的妻子，也可用于称呼已婚女性。介绍自己的妻子时一般说「妻」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "honorific"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "奥さん指他人的妻子，词典标注honorific且例句使用亲属称谓；是对所指妻子的敬称，不等于尊敬语行为。",
+        "dictionary_sequences": [
+          1179330
+        ],
+        "identity": {
+          "word": "奥さん",
+          "reading_hiragana": "おくさん",
+          "meaning": "夫人、太太"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3a5e8cf50c7d194e",
+      "index": 1056,
+      "word": "少女",
+      "reading_hiragana": "しょうじょ",
+      "context_meaning_zh": "少女",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "少女",
+          "meaning_ja": "まだ大人になっていない、年の若い女の子。",
+          "example_ja": "少女は小さな声で歌を歌いました。",
+          "example_zh": "少女轻声唱了歌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "少女のころ",
+          "zh": "少女时代"
+        }
+      ],
+      "usage_note_zh": "若い女性を指す語で、日常の呼びかけには通常使わず、説明や物語で使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指年轻女性或女孩；说明指出不常用作日常称呼，叙述中用于区分少年与少女。",
+        "dictionary_sequences": [
+          1580290
+        ],
+        "identity": {
+          "word": "少女",
+          "reading_hiragana": "しょうじょ",
+          "meaning": "少女"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-89cacd6c16d80eff",
+      "index": 1057,
+      "word": "見つける",
+      "reading_hiragana": "みつける",
+      "context_meaning_zh": "找到、发现",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "找到、发现",
+          "meaning_ja": "探していた物や人を探し当てる。また、まだ知られていなかったことに気づく。",
+          "example_ja": "引き出しの中で古い写真を見つけました。",
+          "example_zh": "我在抽屉里找到了一张旧照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "答えを見つける",
+          "zh": "找到答案"
+        }
+      ],
+      "usage_note_zh": "対象に「を」を付ける。偶然目に入って発見する場合にも、探した末に見つける場合にも使う。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "見つける是一段他动词，包作为找到的对象用を标记；既可搜寻后找到，也可偶然发现。",
+        "dictionary_sequences": [
+          1604570
+        ],
+        "identity": {
+          "word": "見つける",
+          "reading_hiragana": "みつける",
+          "meaning": "找到、发现"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b05b105fe27cf0f7",
+      "index": 1058,
+      "word": "少年",
+      "reading_hiragana": "しょうねん",
+      "context_meaning_zh": "少年",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "少年",
+          "meaning_ja": "まだ大人になっていない、年の若い男の子。",
+          "example_ja": "少年は毎日、川の近くを走っています。",
+          "example_zh": "少年每天在河边跑步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "少年時代",
+          "zh": "少年时代"
+        }
+      ],
+      "usage_note_zh": "若い男性を指す語。法律・制度上の年齢区分は国や制度で異なるため、この語だけで年齢を決めない。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "帽子少年与少女对举，少年指年轻男性或男孩；词典boy义吻合，不把普通名词标成儿童语体。",
+        "dictionary_sequences": [
+          1349170
+        ],
+        "identity": {
+          "word": "少年",
+          "reading_hiragana": "しょうねん",
+          "meaning": "少年"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cc84b3120bdcb355",
+      "index": 1059,
+      "word": "名字／苗字",
+      "reading_hiragana": "みょうじ",
+      "context_meaning_zh": "姓",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "姓",
+          "meaning_ja": "家族の名前に当たる部分で、個人名の前に置くもの。",
+          "example_ja": "申込書に名字と名前を書きました。",
+          "example_zh": "我在申请表上写了姓和名字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "名字を名乗る",
+          "zh": "报上姓氏"
+        }
+      ],
+      "usage_note_zh": "「名字」は姓を指す。一般に「苗字」とも書くが、本ファイルの語形は原表記を保つ。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「名字／苗字」均指姓，例句明确询问是否同姓；输入未提供词典项，按有效身份和语境判为名词。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "名字／苗字",
+          "reading_hiragana": "みょうじ",
+          "meaning": "姓"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9147840e5a7084bb",
+      "index": 1060,
+      "word": "名",
+      "reading_hiragana": "な",
+      "context_meaning_zh": "名字、姓名",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "名字、姓名",
+          "meaning_ja": "人を呼ぶときに使う個人の呼び名。姓と組み合わせて姓名を作ることもある。",
+          "example_ja": "名を一文字ずつ紙に書きました。",
+          "example_zh": "我把名字一个字一个字写在纸上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "名を呼ぶ",
+          "zh": "叫名字"
+        }
+      ],
+      "usage_note_zh": "本条读作「な」，指个人名字；与读作「せい」并表示姓氏的「姓」相对。读作「なまえ」的常用词形是「名前」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "妹妹的名是花，取个人名字义；词典另列名声、头衔及借口义不适用。",
+        "dictionary_sequences": [
+          1531330
+        ],
+        "identity": {
+          "word": "名",
+          "reading_hiragana": "な",
+          "meaning": "名字、姓名"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c5bbb1badd559db5",
+      "index": 1061,
+      "word": "主婦",
+      "reading_hiragana": "しゅふ",
+      "context_meaning_zh": "主妇",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "主妇",
+          "meaning_ja": "家事を中心に家庭の仕事を担う人。",
+          "example_ja": "主婦の友人と市場で買い物をしました。",
+          "example_zh": "我和一位家庭主妇朋友在市场购物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "専業主婦",
+          "zh": "全职主妇"
+        }
+      ],
+      "usage_note_zh": "職業や家庭内の役割を指す語。現在は性別や就業状況を決めつけない文脈で使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句子把母亲身份说明为主妇，符合词典housewife/homemaker名词义；社会角色称谓不自动带性别贬义标签。",
+        "dictionary_sequences": [
+          1326160
+        ],
+        "identity": {
+          "word": "主婦",
+          "reading_hiragana": "しゅふ",
+          "meaning": "主妇"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0ac4f568367c5d41",
+      "index": 1062,
+      "word": "外国人",
+      "reading_hiragana": "がいこくじん",
+      "context_meaning_zh": "外国人",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "外国人",
+          "meaning_ja": "自分がいる国とは別の国の国籍を持つ人。",
+          "example_ja": "外国人向けの案内を駅で受け取りました。",
+          "example_zh": "我在车站拿到了面向外国人的指南。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "外国人観光客",
+          "zh": "外国游客"
+        }
+      ],
+      "usage_note_zh": "国籍に関する語で、外見や母語から判断できるものではない。人を指す語なので、国・場所を指す「外国」と区別する。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指相对于谈论国家而言持有其他国家国籍的人；词本身是普通名词，国籍不能由外貌或母语推定。",
+        "dictionary_sequences": [
+          1203650
+        ],
+        "identity": {
+          "word": "外国人",
+          "reading_hiragana": "がいこくじん",
+          "meaning": "外国人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8ddaad81ae426e08",
+      "index": 1063,
+      "word": "愛称",
+      "reading_hiragana": "あいしょう",
+      "context_meaning_zh": "爱称",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "爱称",
+          "meaning_ja": "本名の代わりに、親しみを込めて人や物を呼ぶ名前。",
+          "example_ja": "友人は私を短い愛称で呼びます。",
+          "example_zh": "朋友用一个简短的爱称称呼我。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "愛称で呼ぶ",
+          "zh": "用爱称称呼"
+        }
+      ],
+      "usage_note_zh": "本人や周囲が使う親しみのある呼び名。正式な氏名や一方的なあだ名とは異なる場合がある。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "爱称是带亲近意味的称呼，正文也将熟人称呼作爱称；亲昵属于词义关联，不等同于正式或敬语。",
+        "dictionary_sequences": [
+          1150840
+        ],
+        "identity": {
+          "word": "愛称",
+          "reading_hiragana": "あいしょう",
+          "meaning": "爱称"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ab095be85a64e075",
+      "index": 1064,
+      "word": "姓",
+      "reading_hiragana": "せい",
+      "context_meaning_zh": "姓、姓氏",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "姓、姓氏",
+          "meaning_ja": "家族を表す名前の部分。個人名の前に置かれる。",
+          "example_ja": "姓の読み方を受付で確認しました。",
+          "example_zh": "我在接待处确认了姓氏的读法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "姓を名乗る",
+          "zh": "报上姓氏"
+        }
+      ],
+      "usage_note_zh": "読みは「せい」。姓全体を指し、個人名である「名」と対になる。名字ともいう。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "回答「姓は林」时指家族姓氏，符合词典surname义；不取古代世袭称号义。",
+        "dictionary_sequences": [
+          1375190
+        ],
+        "identity": {
+          "word": "姓",
+          "reading_hiragana": "せい",
+          "meaning": "姓、姓氏"
+        }
+      }
+    }
+  ]
+}

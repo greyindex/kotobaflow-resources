@@ -1,0 +1,7551 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_16",
+  "entries": [
+    {
+      "textbook_uid": "cfv-59c73486d6dff908",
+      "index": 2179,
+      "word": "洗う",
+      "reading_hiragana": "あらう",
+      "context_meaning_zh": "清洗",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "清洗",
+          "meaning_ja": "水や洗剤を使い、物についた汚れを落とす。",
+          "example_ja": "食事の後で、皿を洗いました。",
+          "example_zh": "吃完饭后洗了盘子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "皿を洗う",
+          "zh": "洗盘子"
+        },
+        {
+          "ja": "手を洗う",
+          "zh": "洗手"
+        }
+      ],
+      "usage_note_zh": "清洗对象用「を」标记；「手を洗う」指洗手，「顔を洗う」则指洗脸。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段他动词，此处把杯子洗净；取词典基本清洗义。",
+        "dictionary_sequences": [
+          1390930
+        ],
+        "identity": {
+          "word": "洗う",
+          "reading_hiragana": "あらう",
+          "meaning": "清洗"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dc64d25622ab5b0d",
+      "index": 2180,
+      "word": "片づける",
+      "reading_hiragana": "かたづける",
+      "context_meaning_zh": "收拾",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收拾",
+          "meaning_ja": "散らかった物を整理し、使いやすい状態にする。",
+          "example_ja": "帰る前に、机の上を片づけてください。",
+          "example_zh": "回去之前，请把桌面收拾好。"
+        },
+        {
+          "meaning_zh": "处理、解决",
+          "meaning_ja": "問題や仕事を終わらせる。",
+          "example_ja": "午後のうちに、残りの仕事を片づけます。",
+          "example_zh": "下午把剩下的工作处理完。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "部屋を片づける",
+          "zh": "收拾房间"
+        },
+        {
+          "ja": "問題を片づける",
+          "zh": "解决问题"
+        }
+      ],
+      "usage_note_zh": "物品、场所后接「を」表示整理对象；「問題を片づける」是“把问题处理掉”，属于引申用法。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "一边听音乐一边收拾桌子，桌子以を标整理对象；词典列五类引申义，但本例取空间收拾义。",
+        "dictionary_sequences": [
+          1511790
+        ],
+        "identity": {
+          "word": "片づける",
+          "reading_hiragana": "かたづける",
+          "meaning": "收拾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7d7b2b016906e7f8",
+      "index": 2181,
+      "word": "話す",
+      "reading_hiragana": "はなす",
+      "context_meaning_zh": "说、交谈",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "说、交谈",
+          "meaning_ja": "自分の考えや情報を、言葉で相手に伝える。",
+          "example_ja": "会議の後で、担当者と今後の予定を話しました。",
+          "example_zh": "会议后和负责人谈了之后的安排。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人と話す",
+          "zh": "和某人交谈"
+        },
+        {
+          "ja": "日本語で話す",
+          "zh": "用日语交谈"
+        }
+      ],
+      "usage_note_zh": "交谈对象常用「と」，使用的语言用「で」；要说明谈话主题时常用「〜について話す」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“与森先生交谈”以「と」标示谈话对象，是交谈用法；话す也能以「を」引出谈话内容。",
+        "dictionary_sequences": [
+          1562350
+        ],
+        "identity": {
+          "word": "話す",
+          "reading_hiragana": "はなす",
+          "meaning": "说、交谈"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bd8e965fb7fb3583",
+      "index": 2182,
+      "word": "聞く",
+      "reading_hiragana": "きく",
+      "context_meaning_zh": "听",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "听",
+          "meaning_ja": "音や声を耳で受け取る。",
+          "example_ja": "静かな部屋で、鳥の声を聞きました。",
+          "example_zh": "在安静的房间里听到了鸟鸣。"
+        },
+        {
+          "meaning_zh": "询问",
+          "meaning_ja": "知りたいことを人に質問する。",
+          "example_ja": "道が分からなくて、駅員に聞きました。",
+          "example_zh": "因为不认识路，我向车站工作人员问了路。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "音楽を聞く",
+          "zh": "听音乐"
+        },
+        {
+          "ja": "人に聞く",
+          "zh": "向某人询问"
+        }
+      ],
+      "usage_note_zh": "听声音或内容时用「を」标记；向人询问时对象用「に」，不能把这两种句型混用。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「歌声を聞く」表示用耳接收歌声；聞く为五段他动词，たい表达说话者愿望。",
+        "dictionary_sequences": [
+          1591110
+        ],
+        "identity": {
+          "word": "聞く",
+          "reading_hiragana": "きく",
+          "meaning": "听"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c47e8975fbeb42be",
+      "index": 2183,
+      "word": "歩く",
+      "reading_hiragana": "あるく",
+      "context_meaning_zh": "走路",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "走路",
+          "meaning_ja": "足を交互に動かして、目的の場所へ進む。",
+          "example_ja": "駅から図書館まで歩きました。",
+          "example_zh": "从车站走到了图书馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道を歩く",
+          "zh": "沿路走"
+        },
+        {
+          "ja": "駅まで歩く",
+          "zh": "走到车站"
+        }
+      ],
+      "usage_note_zh": "目的地用「まで」表示；经过的路线可用「を」，如「公園を歩く」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "足行前进的五段自动词；前后做联络安排的句意仍是步行，词典列vi。",
+        "dictionary_sequences": [
+          1514320
+        ],
+        "identity": {
+          "word": "歩く",
+          "reading_hiragana": "あるく",
+          "meaning": "走路"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d15120deb188c89e",
+      "index": 2184,
+      "word": "働く",
+      "reading_hiragana": "はたらく",
+      "context_meaning_zh": "工作",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "工作",
+          "meaning_ja": "仕事をして、生活のためのお金を得たり役割を果たしたりする。",
+          "example_ja": "姉は病院で働いています。",
+          "example_zh": "姐姐在医院工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会社で働く",
+          "zh": "在公司工作"
+        },
+        {
+          "ja": "一生懸命働く",
+          "zh": "努力工作"
+        }
+      ],
+      "usage_note_zh": "工作地点用「で」；「働く」是不及物动词，不直接带工作对象宾语。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "在店里工作时也按此顺序做，地点以で标记；词典列五段自动词。",
+        "dictionary_sequences": [
+          1451150
+        ],
+        "identity": {
+          "word": "働く",
+          "reading_hiragana": "はたらく",
+          "meaning": "工作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2dd70a68193e22f8",
+      "index": 2185,
+      "word": "待つ",
+      "reading_hiragana": "まつ",
+      "context_meaning_zh": "等待",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "等待",
+          "meaning_ja": "人や物事が来たり起きたりするまで、その場で時を過ごす。",
+          "example_ja": "友人が着くまで、入口で待ちました。",
+          "example_zh": "我在入口等到朋友到达。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人を待つ",
+          "zh": "等某人"
+        },
+        {
+          "ja": "返事を待つ",
+          "zh": "等回复"
+        }
+      ],
+      "usage_note_zh": "等待的对象用「を」；地点常用「で」，等待终点可用「まで」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "参加的人作を对象时待つ为他动构式；词典兼列不及物等待用法，仍保留词项两类自他性。",
+        "dictionary_sequences": [
+          1410590
+        ],
+        "identity": {
+          "word": "待つ",
+          "reading_hiragana": "まつ",
+          "meaning": "等待"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-873c4dbee2d34ad1",
+      "index": 2186,
+      "word": "準備",
+      "reading_hiragana": "じゅんび",
+      "context_meaning_zh": "准备",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "准备",
+          "meaning_ja": "何かを始める前に、必要な物や手順を整えること。",
+          "example_ja": "発表の準備に、二日かかりました。",
+          "example_zh": "准备发表花了两天。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "準備をする",
+          "zh": "做准备"
+        },
+        {
+          "ja": "会議の準備",
+          "zh": "会议准备"
+        }
+      ],
+      "usage_note_zh": "常用「準備をする」表示做准备；准备的事项前可接「の」，如「旅行の準備」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "开始准备后核姓名、页码并印资料，准备是名词并可サ变；动作宾语是准备事项。",
+        "dictionary_sequences": [
+          1341670
+        ],
+        "identity": {
+          "word": "準備",
+          "reading_hiragana": "じゅんび",
+          "meaning": "准备"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b711c0b52acae63e",
+      "index": 2187,
+      "word": "連絡",
+      "reading_hiragana": "れんらく",
+      "context_meaning_zh": "联系",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "联系",
+          "meaning_ja": "必要な情報を相手に知らせたり、相手と連絡を取り合ったりすること。",
+          "example_ja": "到着したら、受付に連絡してください。",
+          "example_zh": "到了之后请联系接待处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人に連絡する",
+          "zh": "联系某人"
+        },
+        {
+          "ja": "連絡を取る",
+          "zh": "取得联系"
+        }
+      ],
+      "usage_note_zh": "联系对象用「に」；「連絡する」和「連絡を取る」都是常见说法。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "在步行前后联系，連絡する可指互通信息，也可向对象传达信息；词典支持自他两种用法。",
+        "dictionary_sequences": [
+          1559900
+        ],
+        "identity": {
+          "word": "連絡",
+          "reading_hiragana": "れんらく",
+          "meaning": "联系"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5a16d635750999fb",
+      "index": 2188,
+      "word": "確認",
+      "reading_hiragana": "かくにん",
+      "context_meaning_zh": "确认",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "确认",
+          "meaning_ja": "間違いがないか、内容や事実を確かめること。",
+          "example_ja": "送信する前に、住所を確認しました。",
+          "example_zh": "发送之前确认了地址。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "内容を確認する",
+          "zh": "确认内容"
+        },
+        {
+          "ja": "確認を取る",
+          "zh": "取得确认"
+        }
+      ],
+      "usage_note_zh": "确认对象用「を」；「確認を取る」常指向相关人员征得确认。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "打印资料前核实名字和页码，核实内容作对象；词典支持他动サ变。",
+        "dictionary_sequences": [
+          1205900
+        ],
+        "identity": {
+          "word": "確認",
+          "reading_hiragana": "かくにん",
+          "meaning": "确认"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5e9e0535b3fa4e90",
+      "index": 2189,
+      "word": "終える",
+      "reading_hiragana": "おえる",
+      "context_meaning_zh": "完成、结束",
+      "pos_ja": "動詞・動詞型助動詞",
+      "pos_zh": "动词・动词型助动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "完成、结束",
+          "meaning_ja": "続けていた仕事や行動を最後まで行い、終わりにする。",
+          "example_ja": "出かける前に、メールの返信を終えました。",
+          "example_zh": "出门前回复完了邮件。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "仕事を終える",
+          "zh": "完成工作"
+        },
+        {
+          "ja": "作業を終える",
+          "zh": "结束作业"
+        }
+      ],
+      "usage_note_zh": "「終える」是他动词，通常带「を」说明结束的工作或活动；「終わる」则表示事情自行结束。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [
+          "auxiliary_verb"
+        ],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "作業を終える表示完成今天的工作，作業为宾语；词典列一段他动词，并另有接动词连用形的辅助用法。",
+        "dictionary_sequences": [
+          1332760
+        ],
+        "identity": {
+          "word": "終える",
+          "reading_hiragana": "おえる",
+          "meaning": "完成、结束"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-891c7635bed2a517",
+      "index": 2190,
+      "word": "間に合う",
+      "reading_hiragana": "まにあう",
+      "context_meaning_zh": "赶得上",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "赶得上",
+          "meaning_ja": "決められた時刻や期限より前に、必要なことができる。",
+          "example_ja": "急げば、最終バスに間に合います。",
+          "example_zh": "快点的话，还赶得上末班车。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電車に間に合う",
+          "zh": "赶上电车"
+        },
+        {
+          "ja": "締切に間に合う",
+          "zh": "赶上截止期限"
+        }
+      ],
+      "usage_note_zh": "所赶上的时间点、交通工具或期限用「に」标记；否定形「間に合わない」表示来不及。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1215260标 vi；句中十份备齐后「期限に間に合う」，期限是达到目标而非宾语。",
+        "dictionary_sequences": [
+          1215260
+        ],
+        "identity": {
+          "word": "間に合う",
+          "reading_hiragana": "まにあう",
+          "meaning": "赶得上"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-83af1dd727bee132",
+      "index": 2191,
+      "word": "先に",
+      "reading_hiragana": "さきに",
+      "context_meaning_zh": "先",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "先",
+          "meaning_ja": "ほかの人や物事より前の時点で行うさま。",
+          "example_ja": "混む前に、先に切符を買っておきます。",
+          "example_zh": "趁还没拥挤，先把票买好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先に帰る",
+          "zh": "先回去"
+        },
+        {
+          "ja": "先に確認する",
+          "zh": "先确认"
+        }
+      ],
+      "usage_note_zh": "「先に」修饰动作，指出动作发生得更早；要表达“在某事之前”，可用「～前に」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「先に」修饰完成今天工作的动作，表示先行或顺序；本条只审此时间副词义。",
+        "dictionary_sequences": [
+          1387280
+        ],
+        "identity": {
+          "word": "先に",
+          "reading_hiragana": "さきに",
+          "meaning": "先"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2d17dd497da70b14",
+      "index": 2192,
+      "word": "後で",
+      "reading_hiragana": "あとで",
+      "context_meaning_zh": "之后",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "之后",
+          "meaning_ja": "今していることや、ある時点が終わったあと。",
+          "example_ja": "昼休みの後で、資料を配ります。",
+          "example_zh": "午休之后分发资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "後で連絡する",
+          "zh": "之后联系"
+        },
+        {
+          "ja": "後で確認する",
+          "zh": "稍后确认"
+        }
+      ],
+      "usage_note_zh": "「後で」表示稍后或某事之后；若直接接名词表达“……之后”，用「名词の後で」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "後で表示稍后或之后，词典列副词义；句中修饰联系或在家观看的时间，作时间副词。",
+        "dictionary_sequences": [
+          1269350
+        ],
+        "identity": {
+          "word": "後で",
+          "reading_hiragana": "あとで",
+          "meaning": "之后"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3979b7c2b4e7206d",
+      "index": 2193,
+      "word": "一緒に",
+      "reading_hiragana": "いっしょに",
+      "context_meaning_zh": "一起",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一起",
+          "meaning_ja": "二人以上が同じ行動をするさま。",
+          "example_ja": "初めて来た人も、みんなと一緒に歌いました。",
+          "example_zh": "第一次来的人也和大家一起唱了歌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一緒に行く",
+          "zh": "一起去"
+        },
+        {
+          "ja": "一緒に準備する",
+          "zh": "一起准备"
+        }
+      ],
+      "usage_note_zh": "通常说「人と一緒に」表示和某人一起；「一緒に」本身修饰共同进行的动作。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一緒に在本句强调整理与确认不应同时开始，取词典“同时”义；副词用途不限定口语。",
+        "dictionary_sequences": [
+          1163420
+        ],
+        "identity": {
+          "word": "一緒に",
+          "reading_hiragana": "いっしょに",
+          "meaning": "一起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e86c190a4e3ab1f1",
+      "index": 2194,
+      "word": "途中",
+      "reading_hiragana": "とちゅう",
+      "context_meaning_zh": "途中、半途",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "途中、半途",
+          "meaning_ja": "始めてから終わるまでの間。また、目的地へ向かう道の中ほど。",
+          "example_ja": "帰宅の途中で、先生に会いました。",
+          "example_zh": "回家的途中遇见了老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "途中で止める",
+          "zh": "中途停止"
+        },
+        {
+          "ja": "帰る途中",
+          "zh": "回去的途中"
+        }
+      ],
+      "usage_note_zh": "接名词时用「名词の途中」，如「帰る途中」；「途中で」可指出某事发生在过程当中。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "印刷中断发生在途中，匹配词典中途或半途义；此处「途中で」兼作副词性时间定位。",
+        "dictionary_sequences": [
+          1582200
+        ],
+        "identity": {
+          "word": "途中",
+          "reading_hiragana": "とちゅう",
+          "meaning": "途中、半途"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d343eb86e73060cc",
+      "index": 2195,
+      "word": "締切",
+      "reading_hiragana": "しめきり",
+      "context_meaning_zh": "截止期限",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "截止期限",
+          "meaning_ja": "提出や完成を終わらせるよう決められた時刻や日。",
+          "example_ja": "申込書の締切は金曜日です。",
+          "example_zh": "申请表的截止日期是星期五。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "締切を守る",
+          "zh": "遵守截止期限"
+        },
+        {
+          "ja": "締切に間に合う",
+          "zh": "赶上截止期限"
+        }
+      ],
+      "usage_note_zh": "「締切」指最后期限；通常说「締切は金曜日」「締切に間に合う」，提交的文件常用「締切までに出す」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "提交记录的最后时刻定为周一十八时，締切表示提交期限。",
+        "dictionary_sequences": [
+          1594590
+        ],
+        "identity": {
+          "word": "締切",
+          "reading_hiragana": "しめきり",
+          "meaning": "截止期限"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b45a199aa032dc85",
+      "index": 2196,
+      "word": "理由",
+      "reading_hiragana": "りゆう",
+      "context_meaning_zh": "理由",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "理由",
+          "meaning_ja": "ある考えや行動のもとになった事情。",
+          "example_ja": "遅れた理由を、先生に説明しました。",
+          "example_zh": "向老师说明了迟到的理由。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "理由を説明する",
+          "zh": "说明理由"
+        },
+        {
+          "ja": "理由がある",
+          "zh": "有理由"
+        }
+      ],
+      "usage_note_zh": "「理由を説明する」说明原因；回答“为什么”时可用「～理由は…です」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "理解遵守顺序的理由，表示行为的根据或缘由，属普通名词。",
+        "dictionary_sequences": [
+          1550140
+        ],
+        "identity": {
+          "word": "理由",
+          "reading_hiragana": "りゆう",
+          "meaning": "理由"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5804a882f2443a28",
+      "index": 2197,
+      "word": "同時",
+      "reading_hiragana": "どうじ",
+      "context_meaning_zh": "同时",
+      "pos_ja": "名詞・副詞・時間名詞・連体修飾用法",
+      "pos_zh": "名词・副词・时间名词・前置修饰用法",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "同时",
+          "meaning_ja": "二つ以上のことが同じ時に起きること。",
+          "example_ja": "二つの窓口で、同時に受付を始めました。",
+          "example_zh": "两个窗口同时开始受理。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "同時に始める",
+          "zh": "同时开始"
+        },
+        {
+          "ja": "同時に起こる",
+          "zh": "同时发生"
+        }
+      ],
+      "usage_note_zh": "名词「同時」常与「に」组成副词「同時に」修饰动作；不表示“一下子完成”。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun",
+          "prenominal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "当前义保留名词等实际词类，并用前置修饰细类记录辞书adj-f用法；adj-f表示名词或动词作前置修饰，不能等同独立连体词，也不同于adj-no的の修饰。",
+        "dictionary_sequences": [
+          1452500
+        ],
+        "identity": {
+          "word": "同時",
+          "reading_hiragana": "どうじ",
+          "meaning": "同时"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c98597cbf3098927",
+      "index": 2198,
+      "word": "順序",
+      "reading_hiragana": "じゅんじょ",
+      "context_meaning_zh": "顺序",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "顺序",
+          "meaning_ja": "物事を行ったり並べたりするときの、前後の並び方。",
+          "example_ja": "名前の順序を確認してから、名札を並べます。",
+          "example_zh": "确认姓名顺序后再排列名牌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "順序を決める",
+          "zh": "决定顺序"
+        },
+        {
+          "ja": "順序に並べる",
+          "zh": "按顺序排列"
+        }
+      ],
+      "usage_note_zh": "「順序」关注先后排列；动作流程中某一步怎么做，则常用「手順」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号1342340列顺序及程序义；例句指按此顺序开展工作。",
+        "dictionary_sequences": [
+          1342340
+        ],
+        "identity": {
+          "word": "順序",
+          "reading_hiragana": "じゅんじょ",
+          "meaning": "顺序"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-93816dde82975a17",
+      "index": 2199,
+      "word": "手順",
+      "reading_hiragana": "てじゅん",
+      "context_meaning_zh": "步骤",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "步骤",
+          "meaning_ja": "何かをするために、順番に行う一つ一つの作業。",
+          "example_ja": "申し込みの手順を、紙に書いて説明します。",
+          "example_zh": "把申请步骤写在纸上说明。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "手順を説明する",
+          "zh": "说明步骤"
+        },
+        {
+          "ja": "手順を確認する",
+          "zh": "确认操作步骤"
+        }
+      ],
+      "usage_note_zh": "「手順」指完成任务所需的具体操作步骤；与表示一般先后关系的「順序」有所区别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指执行操作的步骤流程，例句要求先阅读步骤；通用名词，不因操作说明语境标教学体裁。",
+        "dictionary_sequences": [
+          1327810
+        ],
+        "identity": {
+          "word": "手順",
+          "reading_hiragana": "てじゅん",
+          "meaning": "步骤"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e5c86b3fd7b95442",
+      "index": 2200,
+      "word": "期限",
+      "reading_hiragana": "きげん",
+      "context_meaning_zh": "期限",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "期限",
+          "meaning_ja": "何かを終えたり使えたりする最後の日や時刻。",
+          "example_ja": "図書館の本は、返却期限までに返してください。",
+          "example_zh": "请在归还期限前把图书馆的书还回去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "期限を延ばす",
+          "zh": "延长期限"
+        },
+        {
+          "ja": "期限が切れる",
+          "zh": "期限到期"
+        }
+      ],
+      "usage_note_zh": "「期限までに」表示最迟在期限前完成；「期限が切れる」指期限已过。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "十部材料在九点四十八分赶上截止期限，JMdict 1220560第二义与语境吻合。",
+        "dictionary_sequences": [
+          1220560
+        ],
+        "identity": {
+          "word": "期限",
+          "reading_hiragana": "きげん",
+          "meaning": "期限"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3fe0fc5d902a7023",
+      "index": 2201,
+      "word": "優先",
+      "reading_hiragana": "ゆうせん",
+      "context_meaning_zh": "优先",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "优先",
+          "meaning_ja": "ほかのことより先に扱うこと。",
+          "example_ja": "急ぎの連絡を優先して、資料の整理は後にします。",
+          "example_zh": "先处理紧急联络，资料整理放到后面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "安全を優先する",
+          "zh": "把安全放在优先位置"
+        },
+        {
+          "ja": "優先順位を決める",
+          "zh": "确定优先顺序"
+        }
+      ],
+      "usage_note_zh": "「Aを優先する」表示优先处理A；「優先順位」是事项的轻重先后次序。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「優先する」表示把事项放在前面处理，确认是对象；句尾「してください」的礼貌来自请求形式。",
+        "dictionary_sequences": [
+          1539390
+        ],
+        "identity": {
+          "word": "優先",
+          "reading_hiragana": "ゆうせん",
+          "meaning": "优先"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-18d342ef8e158fe1",
+      "index": 2202,
+      "word": "効率",
+      "reading_hiragana": "こうりつ",
+      "context_meaning_zh": "效率",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "效率",
+          "meaning_ja": "使った時間や労力に対して、どれだけ成果が得られたかという割合。",
+          "example_ja": "道具をそろえたら、作業の効率が上がりました。",
+          "example_zh": "备齐工具后，工作效率提高了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "効率が上がる",
+          "zh": "效率提高"
+        },
+        {
+          "ja": "効率よく進める",
+          "zh": "高效推进"
+        }
+      ],
+      "usage_note_zh": "常说「効率がいい／悪い」「効率を上げる」；「効率的」表示高效的，是な形容词形式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "效率作为投入与成果之比，句中効率が悪い指效率低。",
+        "dictionary_sequences": [
+          1275210
+        ],
+        "identity": {
+          "word": "効率",
+          "reading_hiragana": "こうりつ",
+          "meaning": "效率"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cc8a263622389bc4",
+      "index": 2203,
+      "word": "集中",
+      "reading_hiragana": "しゅうちゅう",
+      "context_meaning_zh": "集中注意",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "集中注意",
+          "meaning_ja": "意識や力を一つのことに集めること。",
+          "example_ja": "静かな場所に移って、資料を読むことに集中しました。",
+          "example_zh": "我换到安静的地方，专心读资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "勉強に集中する",
+          "zh": "专心学习"
+        },
+        {
+          "ja": "注意を集中する",
+          "zh": "集中注意力"
+        }
+      ],
+      "usage_note_zh": "说把注意力集中到某事上时用「～に集中する」；「集中力」指专注的能力。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「資料に集中する」是集中注意力的サ変用法；词典同时标他动和自动，整体保留两者。",
+        "dictionary_sequences": [
+          1333750
+        ],
+        "identity": {
+          "word": "集中",
+          "reading_hiragana": "しゅうちゅう",
+          "meaning": "集中注意"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f12fb6c88c34ce91",
+      "index": 2204,
+      "word": "作業",
+      "reading_hiragana": "さぎょう",
+      "context_meaning_zh": "作业、操作",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "作业、操作",
+          "meaning_ja": "目的を持って行う、まとまった仕事や操作。",
+          "example_ja": "この作業は、二人で分担すると早く終わります。",
+          "example_zh": "这项工作由两人分担会更快完成。"
+        },
+        {
+          "meaning_zh": "操作",
+          "meaning_ja": "機械などを動かすために行うこと。",
+          "example_ja": "機械の操作は、説明書を読んでから始めてください。",
+          "example_zh": "请先阅读说明书，再操作机器。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "作業を進める",
+          "zh": "推进工作"
+        },
+        {
+          "ja": "作業を終える",
+          "zh": "完成工作"
+        }
+      ],
+      "usage_note_zh": "「作業」指具体工作或操作过程；课外作业通常说「宿題」，不宜把二者混为一谈。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "完成今日工作时「作業を終える」中的作业是名词对象；该结构是終える的宾语，不是作業自身他动，辞书サ变项为自动态。",
+        "dictionary_sequences": [
+          1297540
+        ],
+        "identity": {
+          "word": "作業",
+          "reading_hiragana": "さぎょう",
+          "meaning": "作业、操作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5f10573eee141e77",
+      "index": 2205,
+      "word": "移動",
+      "reading_hiragana": "いどう",
+      "context_meaning_zh": "移动",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "移动",
+          "meaning_ja": "人や物が、ある場所から別の場所へ移ること。",
+          "example_ja": "次の会場への移動は、バスを利用します。",
+          "example_zh": "前往下一个会场时乘巴士。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会場へ移動する",
+          "zh": "移动到会场"
+        },
+        {
+          "ja": "移動時間",
+          "zh": "移动所需时间"
+        }
+      ],
+      "usage_note_zh": "移动目的地用「へ／に」；人或物做移动时可说「移動する」，移动某物则常用「移動させる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "移动途中是名词；词典还支持移動する自动与他动用法，故记录する范围为both，而非从「途中」例句推断。",
+        "dictionary_sequences": [
+          1158400
+        ],
+        "identity": {
+          "word": "移動",
+          "reading_hiragana": "いどう",
+          "meaning": "移动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c6af9ba4d0088dac",
+      "index": 2206,
+      "word": "提出",
+      "reading_hiragana": "ていしゅつ",
+      "context_meaning_zh": "提交",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "提交",
+          "meaning_ja": "書類や資料などを、相手や決められた場所に出すこと。",
+          "example_ja": "記入した用紙を窓口に提出しました。",
+          "example_zh": "我把填好的表交到了窗口。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "書類を提出する",
+          "zh": "提交文件"
+        },
+        {
+          "ja": "期限までに提出する",
+          "zh": "在期限前提交"
+        }
+      ],
+      "usage_note_zh": "提交的文件用「を」标记；「提出する」可直接作サ变动词，也可说「提出をする」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「提出」指递交文件这一行为名词，并可接「する」以文件为对象构成他动词。",
+        "dictionary_sequences": [
+          1436410
+        ],
+        "identity": {
+          "word": "提出",
+          "reading_hiragana": "ていしゅつ",
+          "meaning": "提交"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c7060b6aad046ae1",
+      "index": 2207,
+      "word": "担当",
+      "reading_hiragana": "たんとう",
+      "context_meaning_zh": "负责",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "负责",
+          "meaning_ja": "仕事や役割を引き受けて行うこと。また、その役割を持つこと。",
+          "example_ja": "私は受付を担当し、友人は会場案内をします。",
+          "example_zh": "我负责接待，朋友负责会场引导。"
+        },
+        {
+          "meaning_zh": "负责人",
+          "meaning_ja": "ある仕事や役割を受け持つ人。",
+          "example_ja": "詳しい内容は、担当にお尋ねください。",
+          "example_zh": "详细内容请咨询负责人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "受付を担当する",
+          "zh": "负责接待"
+        },
+        {
+          "ja": "担当者に聞く",
+          "zh": "询问负责人"
+        }
+      ],
+      "usage_note_zh": "「担当する」表示承担某项工作；「担当者」指负责这项工作的人。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "担当可作职责名词或担当する的他动词；负责印刷和分发任务时以工作事项为对象。",
+        "dictionary_sequences": [
+          1418160
+        ],
+        "identity": {
+          "word": "担当",
+          "reading_hiragana": "たんとう",
+          "meaning": "负责"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-30dd2329d9fa9606",
+      "index": 2208,
+      "word": "配布",
+      "reading_hiragana": "はいふ",
+      "context_meaning_zh": "分发",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "分发",
+          "meaning_ja": "必要な人に物を配ること。",
+          "example_ja": "当日は入口で資料を配布します。",
+          "example_zh": "当天在入口处分发资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "資料を配布する",
+          "zh": "分发资料"
+        },
+        {
+          "ja": "参加者に配布する",
+          "zh": "向参加者分发"
+        }
+      ],
+      "usage_note_zh": "「配布する」用于把资料、传单等发给多人；接受者常用「に」表示。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "森负责印刷、サミ负责分发，配布兼サ变他动词并以发放物为宾语。",
+        "dictionary_sequences": [
+          1473190
+        ],
+        "identity": {
+          "word": "配布",
+          "reading_hiragana": "はいふ",
+          "meaning": "分发"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0a21cfeefedb351b",
+      "index": 2209,
+      "word": "印刷",
+      "reading_hiragana": "いんさつ",
+      "context_meaning_zh": "打印",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "打印",
+          "meaning_ja": "文字や写真を紙に印字すること。",
+          "example_ja": "参加者の人数を確認してから、案内を印刷します。",
+          "example_zh": "确认参加人数后再打印指南。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "資料を印刷する",
+          "zh": "打印资料"
+        },
+        {
+          "ja": "両面印刷",
+          "zh": "双面打印"
+        }
+      ],
+      "usage_note_zh": "「印刷する」是把文字或图像印到纸上；日常办公语境中也常说「プリントする」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「資料を印刷する」及词典n、vs、vt支持印刷名词兼サ变他动词；宾语是被印制资料。",
+        "dictionary_sequences": [
+          1168190
+        ],
+        "identity": {
+          "word": "印刷",
+          "reading_hiragana": "いんさつ",
+          "meaning": "打印"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a9a375e2696778f7",
+      "index": 2210,
+      "word": "資料",
+      "reading_hiragana": "しりょう",
+      "context_meaning_zh": "资料",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "资料",
+          "meaning_ja": "調べたり、考えたりするときに使う情報や文書。",
+          "example_ja": "会議の前に資料を読んでおいてください。",
+          "example_zh": "请在会议前先读一下资料。"
+        },
+        {
+          "meaning_zh": "材料",
+          "meaning_ja": "判断や研究のために集めた情報。",
+          "example_ja": "この資料だけでは、まだ結論を出せません。",
+          "example_zh": "只凭这些资料还不能得出结论。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "資料を読む",
+          "zh": "阅读资料"
+        },
+        {
+          "ja": "資料を配布する",
+          "zh": "分发资料"
+        }
+      ],
+      "usage_note_zh": "「資料」多指用于说明、讨论或研究的信息和文件；具体材料也可称「資料」，不一定是纸质文件。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处资料是准备后打印的材料与信息，作「を」格名词；没有证据限定为某学科或体裁。",
+        "dictionary_sequences": [
+          1312820
+        ],
+        "identity": {
+          "word": "資料",
+          "reading_hiragana": "しりょう",
+          "meaning": "资料"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9df111fc1a0db448",
+      "index": 2211,
+      "word": "掛かる",
+      "reading_hiragana": "かかる",
+      "context_meaning_zh": "花费、需要",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "花费、需要",
+          "meaning_ja": "時間やお金などが必要になる。",
+          "example_ja": "会場まで電車で三十分ぐらい掛かります。",
+          "example_zh": "坐电车到会场大约需要三十分钟。"
+        },
+        {
+          "meaning_zh": "挂着",
+          "meaning_ja": "物が高い所から下がっている。",
+          "example_ja": "壁に去年のポスターが掛かっています。",
+          "example_zh": "墙上挂着去年的海报。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時間が掛かる",
+          "zh": "花费时间"
+        },
+        {
+          "ja": "費用が掛かる",
+          "zh": "需要费用"
+        }
+      ],
+      "usage_note_zh": "表示花费时间或费用时，通常说「時間／お金が掛かる」；这里的「掛かる」是自动词。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "印刷所需时间以及租场地的费用用「かかる」表示，时间和费用作が主语；符合掛かる的自动词花费义。",
+        "dictionary_sequences": [
+          1207590
+        ],
+        "identity": {
+          "word": "掛かる",
+          "reading_hiragana": "かかる",
+          "meaning": "花费、需要"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e0b3fc3f35dea8cf",
+      "index": 2212,
+      "word": "正月",
+      "reading_hiragana": "しょうがつ",
+      "context_meaning_zh": "新年、正月（日语通常指公历新年时节）",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "新年、正月（日语通常指公历新年时节）",
+          "meaning_ja": "日本で、新しい年を迎える時期。特に一月の初めを指す。",
+          "example_ja": "正月は家族とおせち料理を食べます。",
+          "example_zh": "正月时和家人一起吃御节料理。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "正月を迎える",
+          "zh": "迎接新年"
+        },
+        {
+          "ja": "正月休み",
+          "zh": "新年假期"
+        }
+      ],
+      "usage_note_zh": "日语「正月」通常指公历新年时节，尤其是一月初；不要直接按中文“正月”理解为农历正月。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与节分并列为年内活动时段，正月取新年期间义；词典亦列一月义，具体时段按日语使用习惯理解。",
+        "dictionary_sequences": [
+          1377030
+        ],
+        "identity": {
+          "word": "正月",
+          "reading_hiragana": "しょうがつ",
+          "meaning": "新年、正月（日语通常指公历新年时节）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-914b9764234fdcd2",
+      "index": 2213,
+      "word": "節分",
+      "reading_hiragana": "せつぶん",
+      "context_meaning_zh": "节分（现代通常指立春前一天；原义含各季节交界）",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "节分（现代通常指立春前一天；原义含各季节交界）",
+          "meaning_ja": "季節の変わり目を指す言葉で、現在は特に立春の前日をいう。",
+          "example_ja": "節分には、家で豆まきをする人が多いです。",
+          "example_zh": "节分时，很多人会在家撒豆子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "節分に豆をまく",
+          "zh": "节分时撒豆子"
+        },
+        {
+          "ja": "節分の行事",
+          "zh": "节分活动"
+        }
+      ],
+      "usage_note_zh": "「節分」原指各季节交替之日，现代通常指立春前一天；撒豆驱鬼是常见习俗。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "节分相关资料及撒豆习俗指日本传统历法冬末节日；本例聚焦该习俗。",
+        "dictionary_sequences": [
+          1386340
+        ],
+        "identity": {
+          "word": "節分",
+          "reading_hiragana": "せつぶん",
+          "meaning": "节分（现代通常指立春前一天；原义含各季节交界）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3b9d21a89c331adf",
+      "index": 2214,
+      "word": "飾る",
+      "reading_hiragana": "かざる",
+      "context_meaning_zh": "装饰",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "装饰",
+          "meaning_ja": "きれいに見えるように、物を置いたり付けたりする。",
+          "example_ja": "みんなで会場の入口を飾りました。",
+          "example_zh": "大家一起装饰了会场入口。"
+        },
+        {
+          "meaning_zh": "修饰",
+          "meaning_ja": "実際よりよく見えるように、話や表現を整える。",
+          "example_ja": "彼は言葉を飾らず、考えをそのまま話した。",
+          "example_zh": "他没有修饰措辞，直接说出了自己的想法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "部屋を飾る",
+          "zh": "装饰房间"
+        },
+        {
+          "ja": "花で飾る",
+          "zh": "用花装饰"
+        }
+      ],
+      "usage_note_zh": "装饰的对象用「を」标记，装饰材料可用「で」表示；也可用于“修饰言辞”等比喻义。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "入口的人员或装饰者以「入口を飾る」装点入口，宾语清楚；词典五段他动词义吻合。",
+        "dictionary_sequences": [
+          1357210
+        ],
+        "identity": {
+          "word": "飾る",
+          "reading_hiragana": "かざる",
+          "meaning": "装饰"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d1016e9a42254b5c",
+      "index": 2215,
+      "word": "お盆",
+      "reading_hiragana": "おぼん",
+      "context_meaning_zh": "盂兰盆会的简称",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "盂兰盆会的简称",
+          "meaning_ja": "先祖を供養する日本の行事。多くの地域では八月ごろに行う。",
+          "example_ja": "お盆には、遠くに住む家族も実家に帰ります。",
+          "example_zh": "盂兰盆节时，住得远的家人也会回老家。"
+        },
+        {
+          "meaning_zh": "托盘",
+          "meaning_ja": "食器などを載せて運ぶ平たい道具。",
+          "example_ja": "お茶をお盆に載せて、部屋まで運びました。",
+          "example_zh": "把茶放在托盘上，端到了房间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "お盆休み",
+          "zh": "盂兰盆节假期"
+        },
+        {
+          "ja": "お盆に帰省する",
+          "zh": "盂兰盆节时回老家"
+        }
+      ],
+      "usage_note_zh": "表示节日时常见「お盆に」「お盆休み」；同形词也可指托盘，需根据上下文判断。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课「お盆には帰省」明确指祭祖节日；词典另有托盘义，但语境排除，节期因地区可在七月或八月。",
+        "dictionary_sequences": [
+          1002690
+        ],
+        "identity": {
+          "word": "お盆",
+          "reading_hiragana": "おぼん",
+          "meaning": "盂兰盆会的简称"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-659049c91137911f",
+      "index": 2216,
+      "word": "踊り",
+      "reading_hiragana": "おどり",
+      "context_meaning_zh": "舞蹈",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "舞蹈",
+          "meaning_ja": "音楽に合わせて体を動かす芸能や、その動き。",
+          "example_ja": "この踊りはとても有名です。",
+          "example_zh": "这支舞非常有名。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "踊りを踊る",
+          "zh": "跳舞"
+        },
+        {
+          "ja": "踊りを習う",
+          "zh": "学习舞蹈"
+        }
+      ],
+      "usage_note_zh": "「踊り」指舞蹈或舞步；说“跳舞”常用「踊りを踊る」，也可直接用动词「踊る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "会场较小使舞蹈活动难安排，语境取舞蹈名词义；词典首义dancing，其他节庆、饮食及古代利息义均不适用。",
+        "dictionary_sequences": [
+          1546880
+        ],
+        "identity": {
+          "word": "踊り",
+          "reading_hiragana": "おどり",
+          "meaning": "舞蹈"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-208daaf746e70e70",
+      "index": 2217,
+      "word": "ロック",
+      "reading_hiragana": "ロック",
+      "context_meaning_zh": "摇滚乐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "摇滚乐",
+          "meaning_ja": "エレキギターや強いリズムを特徴とする音楽の一種。",
+          "example_ja": "ロックとポップスなら、どちらの曲も用意できます。",
+          "example_zh": "摇滚乐和流行音乐的话，两种曲子都能准备。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ロックを聴く",
+          "zh": "听摇滚乐"
+        },
+        {
+          "ja": "ロックバンド",
+          "zh": "摇滚乐队"
+        }
+      ],
+      "usage_note_zh": "「ロック」在音乐语境中指摇滚乐；也有“锁定、摇滚”等其他意思，此处依课程语境取音乐义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课程释义和例句限定摇滚音乐义，词典序号2846323对应音乐名词；排除同形的锁、岩石及橄榄球义。",
+        "dictionary_sequences": [
+          2846323
+        ],
+        "identity": {
+          "word": "ロック",
+          "reading_hiragana": "ロック",
+          "meaning": "摇滚乐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3d747b05c89cba27",
+      "index": 2218,
+      "word": "クラシック",
+      "reading_hiragana": "クラシック",
+      "context_meaning_zh": "古典的；古典作品，尤指古典音乐",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "古典的；古典作品，尤指古典音乐",
+          "meaning_ja": "昔から伝わる芸術や音楽。また、それに関係する様子。",
+          "example_ja": "クラシックの曲は好きですが、長い交響曲は時間に合いません。",
+          "example_zh": "我喜欢古典音乐，不过长篇交响曲不适合这次的时长。"
+        },
+        {
+          "meaning_zh": "经典作品",
+          "meaning_ja": "長い間、多くの人に高く評価されている作品。",
+          "example_ja": "この映画は今でもクラシックとして親しまれています。",
+          "example_zh": "这部电影至今仍被视为经典，广受喜爱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "クラシック音楽",
+          "zh": "古典音乐"
+        },
+        {
+          "ja": "クラシックなデザイン",
+          "zh": "古典风格的设计"
+        }
+      ],
+      "usage_note_zh": "作名词时常指古典音乐或经典作品；作な形容词时用「クラシックな＋名词」，表示古典风格。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "兼指古典音乐／作品名词及古典式风格；例句两种词类都出现，名词用法更常见。",
+        "dictionary_sequences": [
+          1044020
+        ],
+        "identity": {
+          "word": "クラシック",
+          "reading_hiragana": "クラシック",
+          "meaning": "古典的；古典作品，尤指古典音乐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0072654f0da39d27",
+      "index": 2219,
+      "word": "シーズン",
+      "reading_hiragana": "シーズン",
+      "context_meaning_zh": "季节；旺季、活动期",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "季节；旺季、活动期",
+          "meaning_ja": "一年の中で、ある行事や活動が盛んに行われる時期。",
+          "example_ja": "花火のシーズンは会場の周りがとても混みます。",
+          "example_zh": "烟花季期间，会场周边会非常拥挤。"
+        },
+        {
+          "meaning_zh": "赛季",
+          "meaning_ja": "スポーツの試合が行われる一定の期間。",
+          "example_ja": "野球のシーズンが始まると、週末の試合が楽しみです。",
+          "example_zh": "棒球赛季开始后，我就很期待周末的比赛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "花火のシーズン",
+          "zh": "烟花季"
+        },
+        {
+          "ja": "シーズンが始まる",
+          "zh": "旺季／赛季开始"
+        }
+      ],
+      "usage_note_zh": "「シーズン」指某项活动集中的时期；常与活动名称组合，如「花火のシーズン」「スキーシーズン」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "シーズン指季节或某活动的旺季，烟花旺季及冬季道路两例与教材义和词典季节义相符。",
+        "dictionary_sequences": [
+          1059300
+        ],
+        "identity": {
+          "word": "シーズン",
+          "reading_hiragana": "シーズン",
+          "meaning": "季节；旺季、活动期"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6ed6ad8f1a382111",
+      "index": 2220,
+      "word": "出し物",
+      "reading_hiragana": "だしもの",
+      "context_meaning_zh": "演出节目",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "演出节目",
+          "meaning_ja": "人に見せるために用意した演技や催し。",
+          "example_ja": "クラス会の出し物は、みんなの意見を聞いてから決めましょう。",
+          "example_zh": "班级聚会的节目先听听大家的意见再决定吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "出し物を決める",
+          "zh": "决定演出节目"
+        },
+        {
+          "ja": "出し物を披露する",
+          "zh": "表演节目"
+        }
+      ],
+      "usage_note_zh": "「出し物」指聚会、庆典等场合安排的节目；可包括短剧、合唱、杂技等。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "出し物是活动或演出中呈现的节目／表演项目，本句说不要一次决定全部节目，符合词典义。",
+        "dictionary_sequences": [
+          1338140
+        ],
+        "identity": {
+          "word": "出し物",
+          "reading_hiragana": "だしもの",
+          "meaning": "演出节目"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fe8143d42980fe13",
+      "index": 2221,
+      "word": "合唱",
+      "reading_hiragana": "がっしょう",
+      "context_meaning_zh": "齐唱、合唱",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "齐唱、合唱",
+          "meaning_ja": "何人かが同じ歌を一緒に歌うこと。",
+          "example_ja": "文化祭で、クラス全員が合唱を披露しました。",
+          "example_zh": "文化节上，全班同学一起表演了合唱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "合唱をする",
+          "zh": "合唱"
+        },
+        {
+          "ja": "合唱の練習",
+          "zh": "合唱练习"
+        }
+      ],
+      "usage_note_zh": "「合唱」指多人一起演唱；与一人演唱的「独唱」相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "多人合唱可作名词，也可「合唱する」；词典标vt，当前「合唱を聞く」中的を是名词事件宾语。",
+        "dictionary_sequences": [
+          1284870
+        ],
+        "identity": {
+          "word": "合唱",
+          "reading_hiragana": "がっしょう",
+          "meaning": "齐唱、合唱"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ebf1cd4bb0e67c9e",
+      "index": 2222,
+      "word": "独唱",
+      "reading_hiragana": "どくしょう",
+      "context_meaning_zh": "独唱",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "独唱",
+          "meaning_ja": "一人で歌を歌うこと。",
+          "example_ja": "合唱の前に、代表の学生が独唱をします。",
+          "example_zh": "合唱开始前，由学生代表独唱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "独唱をする",
+          "zh": "独唱"
+        },
+        {
+          "ja": "独唱の曲",
+          "zh": "独唱曲"
+        }
+      ],
+      "usage_note_zh": "「独唱」强调由一人演唱；常与「合唱」并列作为演出形式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "独唱与小提琴作为候选节目，独唱在本例作演唱形式名词；词典另列独唱する他动用法。",
+        "dictionary_sequences": [
+          1455840
+        ],
+        "identity": {
+          "word": "独唱",
+          "reading_hiragana": "どくしょう",
+          "meaning": "独唱"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bfa2b1da6cc0246d",
+      "index": 2223,
+      "word": "バレエ",
+      "reading_hiragana": "バレエ",
+      "context_meaning_zh": "芭蕾舞",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "芭蕾舞",
+          "meaning_ja": "音楽に合わせて、決められた動きで踊る西洋の舞踊。",
+          "example_ja": "バレエの発表には広い舞台が必要です。",
+          "example_zh": "芭蕾舞演出需要宽敞的舞台。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "バレエを習う",
+          "zh": "学芭蕾舞"
+        },
+        {
+          "ja": "バレエの公演",
+          "zh": "芭蕾舞演出"
+        }
+      ],
+      "usage_note_zh": "「バレエ」指芭蕾舞这种舞蹈，也可指芭蕾舞剧；学习或演出时常搭配「習う」「公演」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课指芭蕾舞这一舞蹈，字典亦列名词；学习或演出语境不限定语体。",
+        "dictionary_sequences": [
+          1099970
+        ],
+        "identity": {
+          "word": "バレエ",
+          "reading_hiragana": "バレエ",
+          "meaning": "芭蕾舞"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8d918e9156d45fae",
+      "index": 2224,
+      "word": "芝居",
+      "reading_hiragana": "しばい",
+      "context_meaning_zh": "戏剧、演戏",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "戏剧、演戏",
+          "meaning_ja": "舞台で演じる劇。また、芝居を演じること。",
+          "example_ja": "去年のクラス会では、短い芝居をみんなで演じました。",
+          "example_zh": "去年的班级聚会上，大家一起演了一个短剧。"
+        },
+        {
+          "meaning_zh": "装模作样；假戏",
+          "meaning_ja": "人を信じさせるために、わざと本当らしく見せること。",
+          "example_ja": "彼の謝罪は芝居ではなく、本心からのものでした。",
+          "example_zh": "他的道歉不是装出来的，而是真心的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "芝居を見る",
+          "zh": "看戏"
+        },
+        {
+          "ja": "芝居をする",
+          "zh": "演戏；装样子"
+        }
+      ],
+      "usage_note_zh": "本义是戏剧、表演；「芝居をする」也可比喻故意装出某种样子，具体含义看语境。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课内与喜剧小品并列，取戏剧／演戏节目义，符合词典play、drama义。",
+        "dictionary_sequences": [
+          1321630
+        ],
+        "identity": {
+          "word": "芝居",
+          "reading_hiragana": "しばい",
+          "meaning": "戏剧、演戏"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c0baa4b6b6f7f24c",
+      "index": 2225,
+      "word": "曲芸",
+      "reading_hiragana": "きょくげい",
+      "context_meaning_zh": "杂技",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "杂技",
+          "meaning_ja": "体の技や道具を使って、人を驚かせる芸。",
+          "example_ja": "曲芸のショーは面白そうですが、この会場ではできません。",
+          "example_zh": "杂技表演看起来很有趣，不过在这个会场办不了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "曲芸を披露する",
+          "zh": "表演杂技"
+        },
+        {
+          "ja": "曲芸のショー",
+          "zh": "杂技表演"
+        }
+      ],
+      "usage_note_zh": "「曲芸」指杂技类表演；描述节目时可说「曲芸のショー」，动作通常用「披露する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "曲芸のショー是杂技表演这一名词；对节目有趣的评价没有特殊语体含义。",
+        "dictionary_sequences": [
+          1239850
+        ],
+        "identity": {
+          "word": "曲芸",
+          "reading_hiragana": "きょくげい",
+          "meaning": "杂技"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8b9474b4922a1489",
+      "index": 2226,
+      "word": "コント",
+      "reading_hiragana": "コント",
+      "context_meaning_zh": "喜剧小品、短喜剧",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "喜剧小品、短喜剧",
+          "meaning_ja": "短い喜劇の劇や寸劇。",
+          "example_ja": "二人で短いコントを発表することになりました。",
+          "example_zh": "我们决定由两个人表演一段短喜剧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "コントを演じる",
+          "zh": "表演喜剧小品"
+        },
+        {
+          "ja": "コント番組",
+          "zh": "喜剧小品节目"
+        }
+      ],
+      "usage_note_zh": "「コント」是短篇喜剧或喜剧小品；与较广义的「芝居」相比，通常带有明显的喜剧性质。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "类会中进行的短喜剧小品，对应词典的 comedy sketch／skit 义，不取 conte 短篇故事义。",
+        "dictionary_sequences": [
+          1052740
+        ],
+        "identity": {
+          "word": "コント",
+          "reading_hiragana": "コント",
+          "meaning": "喜剧小品、短喜剧"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e386901001c8403f",
+      "index": 2227,
+      "word": "同時に",
+      "reading_hiragana": "どうじに",
+      "context_meaning_zh": "同时、一下子；同时",
+      "pos_ja": "副詞・接続詞・定型表現",
+      "pos_zh": "副词・连词・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "同时、一下子；同时",
+          "meaning_ja": "二つ以上のことが同じ時に起こる様子。",
+          "example_ja": "曲目を相談しながら、資料の確認も同時に進めました。",
+          "example_zh": "一边商量曲目，一边也同时确认了资料。"
+        },
+        {
+          "meaning_zh": "一……就……",
+          "meaning_ja": "「動詞辞書形＋と同時に」で、二つのことがほぼ同じ時に起こることを表す。",
+          "example_ja": "開演のベルが鳴ると同時に、幕が上がりました。",
+          "example_zh": "开演铃一响，幕布就升起来了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "同時に始める",
+          "zh": "同时开始"
+        },
+        {
+          "ja": "Aと同時にB",
+          "zh": "A的同时发生B"
+        }
+      ],
+      "usage_note_zh": "副词用法表示两个动作同时进行；「動詞辞書形＋と同時に」表示两件事几乎同时发生。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb",
+          "conjunction"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「同時に」表示同时发生；该词典也收时间连接及“另一方面”连接用法，此例是同时开始。",
+        "dictionary_sequences": [
+          1452510
+        ],
+        "identity": {
+          "word": "同時に",
+          "reading_hiragana": "どうじに",
+          "meaning": "同时、一下子；同时"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-09ac4ec0fc297699",
+      "index": 2228,
+      "word": "カーテン",
+      "reading_hiragana": "カーテン",
+      "context_meaning_zh": "窗帘",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "窗帘",
+          "meaning_ja": "窓に掛けて、光や外からの視線をさえぎる布。",
+          "example_ja": "カーテンを開けて、会場の明るさを確認しました。",
+          "example_zh": "打开窗帘，确认了会场的亮度。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "カーテンを開ける",
+          "zh": "拉开窗帘"
+        },
+        {
+          "ja": "カーテンを閉める",
+          "zh": "拉上窗帘"
+        }
+      ],
+      "usage_note_zh": "窗帘常与「開ける」「閉める」搭配；说遮光或遮挡视线时可用「光／外からの視線をさえぎる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指遮光或遮挡视线的窗帘，课内开合窗帘确认房间亮度的搭配自然。",
+        "dictionary_sequences": [
+          1036290
+        ],
+        "identity": {
+          "word": "カーテン",
+          "reading_hiragana": "カーテン",
+          "meaning": "窗帘"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3e6eaf67621218a7",
+      "index": 2229,
+      "word": "チケット",
+      "reading_hiragana": "チケット",
+      "context_meaning_zh": "票、券",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "票、券",
+          "meaning_ja": "催し物を見たり、乗り物を利用したりするときに必要な券。",
+          "example_ja": "入場用のチケットは無料ですが、飲み物は別料金です。",
+          "example_zh": "入场票免费，不过饮料另收费。"
+        },
+        {
+          "meaning_zh": "入场券",
+          "meaning_ja": "催し物の会場に入るための券。",
+          "example_ja": "チケットを入口で見せてから、会場に入りました。",
+          "example_zh": "在入口出示票券后进入了会场。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "チケットを買う",
+          "zh": "买票"
+        },
+        {
+          "ja": "チケットを見せる",
+          "zh": "出示票券"
+        }
+      ],
+      "usage_note_zh": "「チケット」泛指票券；具体是入场券、车票等由上下文决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指可用于入场或消费的票券，课内明示免费入场券而非饮料券。",
+        "dictionary_sequences": [
+          1077720
+        ],
+        "identity": {
+          "word": "チケット",
+          "reading_hiragana": "チケット",
+          "meaning": "票、券"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-538fc86cbadbba51",
+      "index": 2230,
+      "word": "入場",
+      "reading_hiragana": "にゅうじょう",
+      "context_meaning_zh": "入场",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "入场",
+          "meaning_ja": "会場や建物の中に入ること。",
+          "example_ja": "入場は午後二時からですので、招待状の時刻を確認してください。",
+          "example_zh": "下午两点开始入场，请确认邀请函上的时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "入場する",
+          "zh": "入场"
+        },
+        {
+          "ja": "入場時刻",
+          "zh": "入场时间"
+        }
+      ],
+      "usage_note_zh": "「入場する」表示进入会场或设施；「入場時刻」是开始允许进入的时间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「入場の時刻」为名词性入场，词典同时列名词和自サ；进入会场这一事件没有被直接支配的宾语。",
+        "dictionary_sequences": [
+          1466360
+        ],
+        "identity": {
+          "word": "入場",
+          "reading_hiragana": "にゅうじょう",
+          "meaning": "入场"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-762c84f047038661",
+      "index": 2231,
+      "word": "バイオリン",
+      "reading_hiragana": "バイオリン",
+      "context_meaning_zh": "小提琴",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "小提琴",
+          "meaning_ja": "弓で弦をこすって音を出す、四本の弦を持つ楽器。",
+          "example_ja": "独唱のあと、学生がバイオリンを演奏します。",
+          "example_zh": "独唱之后，由学生演奏小提琴。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "バイオリンを弾く",
+          "zh": "拉小提琴"
+        },
+        {
+          "ja": "バイオリンの演奏",
+          "zh": "小提琴演奏"
+        }
+      ],
+      "usage_note_zh": "日语中演奏弦乐器常用「弾く」；在介绍正式表演时也常说「演奏する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "バイオリン作为候选音乐项目指小提琴乐器；词典列普通名词violin。输入读音字段使用片假名，复核不改身份。",
+        "dictionary_sequences": [
+          1097740
+        ],
+        "identity": {
+          "word": "バイオリン",
+          "reading_hiragana": "バイオリン",
+          "meaning": "小提琴"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9f1ab5248723f316",
+      "index": 2232,
+      "word": "カラオケ",
+      "reading_hiragana": "カラオケ",
+      "context_meaning_zh": "卡拉OK",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "卡拉OK",
+          "meaning_ja": "録音された伴奏に合わせて歌う娯楽。",
+          "example_ja": "カラオケなら、私も一緒に歌えます。",
+          "example_zh": "如果是卡拉OK，我也能一起唱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "カラオケに行く",
+          "zh": "去唱卡拉OK"
+        },
+        {
+          "ja": "カラオケで歌う",
+          "zh": "在卡拉OK唱歌"
+        }
+      ],
+      "usage_note_zh": "说去唱卡拉OK常用「カラオケに行く」；表示在卡拉OK场所唱歌用「カラオケで歌う」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「カラオケで歌う」中指伴奏演唱娱乐或其场所，按词典名词处理，无する动词用法证据。",
+        "dictionary_sequences": [
+          1038660
+        ],
+        "identity": {
+          "word": "カラオケ",
+          "reading_hiragana": "カラオケ",
+          "meaning": "卡拉OK"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9b24a906a6e2ceca",
+      "index": 2233,
+      "word": "曲",
+      "reading_hiragana": "きょく",
+      "context_meaning_zh": "歌曲、曲调",
+      "pos_ja": "名詞・接尾辞",
+      "pos_zh": "名词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "歌曲、曲调",
+          "meaning_ja": "歌や器楽で演奏する音楽の一つ一つ。旋律を指すこともある。",
+          "example_ja": "この曲を聞くと、学生時代を思い出します。",
+          "example_zh": "一听到这首曲子，我就想起学生时代。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "曲を作る",
+          "zh": "创作曲子"
+        },
+        {
+          "ja": "曲を演奏する",
+          "zh": "演奏乐曲"
+        }
+      ],
+      "usage_note_zh": "可指一首音乐作品，也可指其中的旋律；歌曲语境常用「曲を歌う」，器乐语境常用「曲を演奏する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "JMdict 1239700 将曲列为歌曲名词及名词后缀；本例说尚未决定一起唱的曲目，取音乐作品义。",
+        "dictionary_sequences": [
+          1239700
+        ],
+        "identity": {
+          "word": "曲",
+          "reading_hiragana": "きょく",
+          "meaning": "歌曲、曲调"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aba587cf6c37bdf6",
+      "index": 2234,
+      "word": "披露",
+      "reading_hiragana": "ひろう",
+      "context_meaning_zh": "展示、公开呈现才艺或信息",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "展示、公开呈现才艺或信息",
+          "meaning_ja": "人に見せたり知らせたりするため、作品や成果などを発表すること。",
+          "example_ja": "町の合唱団が、祭りで新しい歌を披露しました。",
+          "example_zh": "镇上的合唱团在祭典上演唱了新歌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新曲を披露する",
+          "zh": "公开演唱新曲"
+        },
+        {
+          "ja": "成果を披露する",
+          "zh": "展示成果"
+        },
+        {
+          "ja": "結婚披露宴",
+          "zh": "婚宴"
+        }
+      ],
+      "usage_note_zh": "可作「披露する」，表示把作品、成果或才艺介绍给他人看；「結婚披露宴」是固定复合词，指婚宴。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "披露指公开展示才艺或信息，二人组合演唱是表演场景，不足以将该词限定为口语媒介。",
+        "dictionary_sequences": [
+          1483490
+        ],
+        "identity": {
+          "word": "披露",
+          "reading_hiragana": "ひろう",
+          "meaning": "展示、公开呈现才艺或信息"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ab7d33fbe1b243dd",
+      "index": 2235,
+      "word": "一年中",
+      "reading_hiragana": "いちねんじゅう",
+      "context_meaning_zh": "一年中",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一年中",
+          "meaning_ja": "一年の初めから終わりまでの間。",
+          "example_ja": "この町では一年中、いろいろな行事があります。",
+          "example_zh": "这个城镇一年到头都有各种活动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一年中楽しめる",
+          "zh": "一年四季都能享受"
+        },
+        {
+          "ja": "一年中の行事",
+          "zh": "全年活动"
+        },
+        {
+          "ja": "一年中暖かい",
+          "zh": "一年到头都暖和"
+        }
+      ],
+      "usage_note_zh": "读作「いちねんじゅう」时表示全年、整年；常与「一年中〜がある／楽しめる」连用。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一年中表示全年，词典兼标名词和副词；当前例句置于句首作时间状语，但没有更多教材语境。",
+        "dictionary_sequences": [
+          1165600
+        ],
+        "identity": {
+          "word": "一年中",
+          "reading_hiragana": "いちねんじゅう",
+          "meaning": "一年中"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-df2cc75b8c8f2f04",
+      "index": 2236,
+      "word": "四季",
+      "reading_hiragana": "しき",
+      "context_meaning_zh": "四季",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "四季",
+          "meaning_ja": "春・夏・秋・冬の四つの季節。",
+          "example_ja": "日本の四季をテーマにした展示会を開きます。",
+          "example_zh": "我们将举办以日本四季为主题的展览。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "四季の変化",
+          "zh": "四季变化"
+        },
+        {
+          "ja": "四季折々",
+          "zh": "四季各有不同"
+        },
+        {
+          "ja": "四季を楽しむ",
+          "zh": "享受四季"
+        }
+      ],
+      "usage_note_zh": "指春、夏、秋、冬四个季节；「四季折々」常用来表达各季节不同的风物。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“四季の催し物”中指春夏秋冬四季，作为时间名词修饰活动。",
+        "dictionary_sequences": [
+          1307130
+        ],
+        "identity": {
+          "word": "四季",
+          "reading_hiragana": "しき",
+          "meaning": "四季"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-87815d2f5393f4a3",
+      "index": 2237,
+      "word": "気が散る",
+      "reading_hiragana": "きがちる",
+      "context_meaning_zh": "注意力不集中",
+      "pos_ja": "動詞・表現",
+      "pos_zh": "动词・表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "注意力不集中",
+          "meaning_ja": "ほかのことが気になって、目の前のことに集中できなくなる。",
+          "example_ja": "隣の部屋の音が気になって、勉強中に気が散りました。",
+          "example_zh": "我在意隔壁房间的声音，学习时分了心。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "音で気が散る",
+          "zh": "被声音分散注意力"
+        },
+        {
+          "ja": "気が散ってしまう",
+          "zh": "不由得分心"
+        }
+      ],
+      "usage_note_zh": "惯用句「気が散る」表示注意力被别的事情带走；分心的原因常用「〜で／〜が気になって」说明。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "固定搭配表示因同时处理事项而分心，动词散る为五段不及物；不是主动转移注意力。",
+        "dictionary_sequences": [
+          2056660
+        ],
+        "identity": {
+          "word": "気が散る",
+          "reading_hiragana": "きがちる",
+          "meaning": "注意力不集中"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-83f273218dcbee40",
+      "index": 2238,
+      "word": "色々と",
+      "reading_hiragana": "いろいろと",
+      "context_meaning_zh": "种种、各种各样",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "种种、各种各样",
+          "meaning_ja": "種類や内容が一つではなく、いくつもある様子。",
+          "example_ja": "発表会の準備について、先生に色々と相談しました。",
+          "example_zh": "关于发表会的准备，我和老师商量了很多事情。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "色々と考える",
+          "zh": "多方面考虑"
+        },
+        {
+          "ja": "色々と相談する",
+          "zh": "商量许多事情"
+        },
+        {
+          "ja": "色々と調べる",
+          "zh": "多方查找"
+        }
+      ],
+      "usage_note_zh": "「色々と」修饰动作，表示以多种方式或涉及多方面；修饰名词时通常用「色々な＋名词」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "预定安排种类繁多时用副词性「色々と」；输入未提供匹配词典，未引用辞书序号。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "色々と",
+          "reading_hiragana": "いろいろと",
+          "meaning": "种种、各种各样"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-52709f0c4b6741a9",
+      "index": 2239,
+      "word": "バランス",
+      "reading_hiragana": "バランス",
+      "context_meaning_zh": "平衡、均衡",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "平衡、均衡",
+          "meaning_ja": "いくつかの要素が偏らず、ちょうどよく成り立っている状態。",
+          "example_ja": "発表会では、歌と芝居のバランスを考えて順番を決めました。",
+          "example_zh": "发表会上，我们考虑了歌曲和戏剧的比例来安排顺序。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "バランスを取る",
+          "zh": "保持平衡"
+        },
+        {
+          "ja": "バランスがいい",
+          "zh": "平衡得当"
+        },
+        {
+          "ja": "時間のバランス",
+          "zh": "时间分配的平衡"
+        }
+      ],
+      "usage_note_zh": "常用「バランスを取る／考える」；也可说「〜とのバランス」，指出需要协调的两方面。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课讨论安静与明快曲目的时间配比，バランス为名词；词典支持可接する的平衡状态自动词用法。",
+        "dictionary_sequences": [
+          1099690
+        ],
+        "identity": {
+          "word": "バランス",
+          "reading_hiragana": "バランス",
+          "meaning": "平衡、均衡"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dd050759006bad9b",
+      "index": 2240,
+      "word": "組み合わせる",
+      "reading_hiragana": "くみあわせる",
+      "context_meaning_zh": "组合在一起",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "组合在一起",
+          "meaning_ja": "二つ以上のものを合わせて、一つのまとまりにする。",
+          "example_ja": "歌と踊りを組み合わせて、短い出し物を作りました。",
+          "example_zh": "我们把歌曲和舞蹈组合起来，编成了一个简短节目。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "色を組み合わせる",
+          "zh": "搭配颜色"
+        },
+        {
+          "ja": "二つを組み合わせる",
+          "zh": "把两者组合起来"
+        },
+        {
+          "ja": "うまく組み合わせる",
+          "zh": "巧妙组合"
+        }
+      ],
+      "usage_note_zh": "他动词，组合的对象用「を」标记；常用于把不同节目、材料或想法搭配起来。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "将读书会和音乐会组合为计划对象，符合一段他动词「組み合わせる」的合并义。",
+        "dictionary_sequences": [
+          1397480
+        ],
+        "identity": {
+          "word": "組み合わせる",
+          "reading_hiragana": "くみあわせる",
+          "meaning": "组合在一起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aee82e55e7323ae6",
+      "index": 2241,
+      "word": "イベント",
+      "reading_hiragana": "イベント",
+      "context_meaning_zh": "活动、集会；不泛指任何事件",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "活动、集会；不泛指任何事件",
+          "meaning_ja": "人が集まって行う催しや、計画して開く行事。",
+          "example_ja": "来月のイベントでは、四季の写真を展示する予定です。",
+          "example_zh": "下个月的活动计划展出四季照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "イベントを開く",
+          "zh": "举办活动"
+        },
+        {
+          "ja": "イベントに参加する",
+          "zh": "参加活动"
+        },
+        {
+          "ja": "イベントの企画",
+          "zh": "活动策划"
+        }
+      ],
+      "usage_note_zh": "通常指有组织的活动或集会；一般突发事件多用「事件」，不要把两者一概对应。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "房间里商议下月举办的有组织活动，取event的活动义；JMdict为名词，不能泛化成突发事件。",
+        "dictionary_sequences": [
+          1021680
+        ],
+        "identity": {
+          "word": "イベント",
+          "reading_hiragana": "イベント",
+          "meaning": "活动、集会；不泛指任何事件"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-de4c6bc89ebea9a9",
+      "index": 2242,
+      "word": "クラス会",
+      "reading_hiragana": "クラスかい",
+      "context_meaning_zh": "班会",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "班会",
+          "meaning_ja": "同じクラスの人たちが集まって開く会。",
+          "example_ja": "クラス会の後、みんなで写真を撮りました。",
+          "example_zh": "班级聚会结束后，大家一起拍了照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "クラス会を開く",
+          "zh": "举办班级聚会"
+        },
+        {
+          "ja": "クラス会に出る",
+          "zh": "参加班级聚会"
+        },
+        {
+          "ja": "クラス会の幹事",
+          "zh": "班级聚会的组织者"
+        }
+      ],
+      "usage_note_zh": "指同班同学的聚会或班级集会；本课语境是同学聚会并表演节目。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课文中クラス会是同班成员聚会，表演节目语境符合class reunion义；不局限为课堂内会议。",
+        "dictionary_sequences": [
+          2220900
+        ],
+        "identity": {
+          "word": "クラス会",
+          "reading_hiragana": "クラスかい",
+          "meaning": "班会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a78a65830b9cc637",
+      "index": 2243,
+      "word": "メロディー",
+      "reading_hiragana": "メロディー",
+      "context_meaning_zh": "旋律",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "旋律",
+          "meaning_ja": "歌や音楽で、音の高さや長さが続いてできる流れ。",
+          "example_ja": "この曲はメロディーが覚えやすいですね。",
+          "example_zh": "这首曲子的旋律很容易记呢。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "メロディーを口ずさむ",
+          "zh": "哼唱旋律"
+        },
+        {
+          "ja": "美しいメロディー",
+          "zh": "优美的旋律"
+        },
+        {
+          "ja": "メロディーを覚える",
+          "zh": "记住旋律"
+        }
+      ],
+      "usage_note_zh": "指一段音乐中连续展开的音调线条；与节奏「リズム」含义不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指歌曲旋律，课内熟悉旋律便容易参与的语境与词典melody义吻合。",
+        "dictionary_sequences": [
+          1134150
+        ],
+        "identity": {
+          "word": "メロディー",
+          "reading_hiragana": "メロディー",
+          "meaning": "旋律"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e1a901a128990c27",
+      "index": 2244,
+      "word": "歌声",
+      "reading_hiragana": "うたごえ",
+      "context_meaning_zh": "歌声",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "歌声",
+          "meaning_ja": "人が歌うときに出す声。",
+          "example_ja": "会場の外まで、子どもたちの歌声が聞こえました。",
+          "example_zh": "孩子们的歌声一直传到了会场外。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歌声が聞こえる",
+          "zh": "听见歌声"
+        },
+        {
+          "ja": "美しい歌声",
+          "zh": "优美的歌声"
+        },
+        {
+          "ja": "歌声を合わせる",
+          "zh": "齐声歌唱"
+        }
+      ],
+      "usage_note_zh": "「歌う声」的合成词，强调唱歌时发出的声音；常与「聞こえる」「響く」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "会中先听众人歌唱再鼓掌，明确指歌唱的声音，符合词典singing voice义。",
+        "dictionary_sequences": [
+          1607440
+        ],
+        "identity": {
+          "word": "歌声",
+          "reading_hiragana": "うたごえ",
+          "meaning": "歌声"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-09ead491492dea63",
+      "index": 2245,
+      "word": "楽曲",
+      "reading_hiragana": "がっきょく",
+      "context_meaning_zh": "乐曲",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乐曲",
+          "meaning_ja": "演奏や鑑賞の対象となる、まとまった音楽作品。",
+          "example_ja": "合唱に合う楽曲を選んで、プログラムに載せました。",
+          "example_zh": "我们选了一首适合合唱的乐曲，列入了节目单。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "楽曲を選ぶ",
+          "zh": "选择乐曲"
+        },
+        {
+          "ja": "楽曲を作る",
+          "zh": "创作乐曲"
+        },
+        {
+          "ja": "楽曲の演奏",
+          "zh": "乐曲演奏"
+        }
+      ],
+      "usage_note_zh": "指一首完整的音乐作品，语气较「曲」正式；可用于声乐或器乐作品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例指音乐作品／曲目，作为普通名词与静谧、明快等性质比较；无特殊体裁依据。",
+        "dictionary_sequences": [
+          1207360
+        ],
+        "identity": {
+          "word": "楽曲",
+          "reading_hiragana": "がっきょく",
+          "meaning": "乐曲"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6de2bb6e23c7ad1b",
+      "index": 2246,
+      "word": "節をつける",
+      "reading_hiragana": "ふしをつける",
+      "context_meaning_zh": "抑扬顿挫",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "抑扬顿挫",
+          "meaning_ja": "言葉や歌に、音の高低や調子を加える。",
+          "example_ja": "司会の人は、歌詞に節をつけて楽しく読みました。",
+          "example_zh": "主持人给歌词配上曲调，愉快地读了出来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歌に節をつける",
+          "zh": "给歌曲配上曲调"
+        },
+        {
+          "ja": "節をつけて歌う",
+          "zh": "带着曲调唱"
+        },
+        {
+          "ja": "節をつけて読む",
+          "zh": "用有起伏的调子读"
+        }
+      ],
+      "usage_note_zh": "直译是“给词句加上曲调”，可指吟唱或带旋律地念词；不是单指普通说话的抑扬语气。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「節をつける」是固定搭配，给话语添加旋律或节奏；例句加上曲调后像歌曲，词典标一段动词表达。",
+        "dictionary_sequences": [
+          2759940
+        ],
+        "identity": {
+          "word": "節をつける",
+          "reading_hiragana": "ふしをつける",
+          "meaning": "抑扬顿挫"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8b4ddd82768badb7",
+      "index": 2247,
+      "word": "入園",
+      "reading_hiragana": "にゅうえん",
+      "context_meaning_zh": "入园",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "入园",
+          "meaning_ja": "幼稚園や保育園に入ること。また、遊園地などに入ること。",
+          "example_ja": "入園のお祝いに、家族で写真を撮りました。",
+          "example_zh": "为了庆祝孩子入园，我们全家拍了张照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "入園する",
+          "zh": "入园"
+        },
+        {
+          "ja": "入園式",
+          "zh": "入园仪式"
+        },
+        {
+          "ja": "入園料",
+          "zh": "入园费"
+        }
+      ],
+      "usage_note_zh": "可指进入幼儿园或保育园，也可指进入园区／游乐园；具体含义由场景决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句询问公园是否需入园票，取进入园区义；词典也列进入幼儿园，均为名词/自动サ变。",
+        "dictionary_sequences": [
+          1465750
+        ],
+        "identity": {
+          "word": "入園",
+          "reading_hiragana": "にゅうえん",
+          "meaning": "入园"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d127b98f6621a68c",
+      "index": 2248,
+      "word": "ショー",
+      "reading_hiragana": "ショー",
+      "context_meaning_zh": "展览;表演",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "展览;表演",
+          "meaning_ja": "観客に見せるために行う、演技や展示などの催し。",
+          "example_ja": "花火の後に、広場で短いショーがありました。",
+          "example_zh": "烟花之后，广场上还有一场简短的表演。"
+        },
+        {
+          "meaning_zh": "展览会",
+          "meaning_ja": "商品などを見せるための催し。",
+          "example_ja": "新しい車を紹介するショーに多くの人が集まりました。",
+          "example_zh": "许多人聚集在介绍新车的展会上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ショーを見る",
+          "zh": "看表演"
+        },
+        {
+          "ja": "ファッションショー",
+          "zh": "时装秀"
+        },
+        {
+          "ja": "ショーを開催する",
+          "zh": "举办演出／展会"
+        }
+      ],
+      "usage_note_zh": "泛指面向观众的演出或展示会；具体是表演还是展览，通常由前面的词或活动内容判断。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "杂技ショー是面向观众的表演活动，当前语境取演出义，不是单指展览。",
+        "dictionary_sequences": [
+          1062240
+        ],
+        "identity": {
+          "word": "ショー",
+          "reading_hiragana": "ショー",
+          "meaning": "展览;表演"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-80bd434f571a4e04",
+      "index": 2249,
+      "word": "花火",
+      "reading_hiragana": "はなび",
+      "context_meaning_zh": "焰火",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "焰火",
+          "meaning_ja": "火薬を使って、光や音を楽しむためのもの。",
+          "example_ja": "夏祭りの夜、川の上に大きな花火が上がりました。",
+          "example_zh": "夏日祭的夜晚，河面上空绽放了巨大的烟花。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "花火が上がる",
+          "zh": "烟花升空／绽放"
+        },
+        {
+          "ja": "花火大会",
+          "zh": "烟花大会"
+        },
+        {
+          "ja": "手持ち花火",
+          "zh": "手持烟花"
+        }
+      ],
+      "usage_note_zh": "可指烟花这一物品，也可指燃放烟花的活动；「花火大会」是常见固定搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "花火为供观赏光声的烟花名词；例句中的花火シーズン指烟花活动旺季，词义明确。",
+        "dictionary_sequences": [
+          1194580
+        ],
+        "identity": {
+          "word": "花火",
+          "reading_hiragana": "はなび",
+          "meaning": "焰火"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0e759c332bcd1369",
+      "index": 2250,
+      "word": "ミュージカル",
+      "reading_hiragana": "ミュージカル",
+      "context_meaning_zh": "音乐剧",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "音乐剧",
+          "meaning_ja": "歌や踊り、せりふを組み合わせて物語を見せる舞台作品。",
+          "example_ja": "文化祭で、クラスのみんなとミュージカルを上演します。",
+          "example_zh": "文化节上，我要和全班同学一起演音乐剧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ミュージカルを上演する",
+          "zh": "上演音乐剧"
+        },
+        {
+          "ja": "ミュージカルを見に行く",
+          "zh": "去看音乐剧"
+        },
+        {
+          "ja": "ミュージカル俳優",
+          "zh": "音乐剧演员"
+        }
+      ],
+      "usage_note_zh": "音乐剧以歌曲、舞蹈和对白共同讲述故事；不只是配乐的戏剧。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该词在此指舞台音乐剧；例句把「ミュージカル」作为演出项目，与JMdict名词义相符。",
+        "dictionary_sequences": [
+          1131630
+        ],
+        "identity": {
+          "word": "ミュージカル",
+          "reading_hiragana": "ミュージカル",
+          "meaning": "音乐剧"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6f1ad8f4719b5dfa",
+      "index": 2251,
+      "word": "アトラクション",
+      "reading_hiragana": "アトラクション",
+      "context_meaning_zh": "加演的余兴节目",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "加演的余兴节目",
+          "meaning_ja": "催しの中で、客を楽しませるために行う演技や出し物。",
+          "example_ja": "夏祭りのアトラクションとして、地元の子どもたちが合唱を発表しました。",
+          "example_zh": "作为夏日祭的助兴节目，当地孩子们演唱了合唱曲。"
+        },
+        {
+          "meaning_zh": "游乐设施；游乐项目",
+          "meaning_ja": "遊園地などで客が乗ったり体験したりして楽しむ設備。",
+          "example_ja": "遊園地では、新しいアトラクションに乗りました。",
+          "example_zh": "在游乐园里，我体验了新的游乐项目。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "アトラクションを楽しむ",
+          "zh": "体验游乐项目"
+        },
+        {
+          "ja": "人気のアトラクション",
+          "zh": "人气游乐设施"
+        },
+        {
+          "ja": "大会後のアトラクション",
+          "zh": "大会后的助兴节目"
+        }
+      ],
+      "usage_note_zh": "本课指活动中的助兴节目；在游乐园语境中也常指游乐设施或体验项目。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本条指大会后的助兴节目；词典只笼统对应attraction，教材说明支持活动节目义而非游乐设施。",
+        "dictionary_sequences": [
+          1016880
+        ],
+        "identity": {
+          "word": "アトラクション",
+          "reading_hiragana": "アトラクション",
+          "meaning": "加演的余兴节目"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-83c0b5db856b2aba",
+      "index": 2252,
+      "word": "ジャンケン",
+      "reading_hiragana": "ジャンケン",
+      "context_meaning_zh": "(剪子、石头、布等)猜拳游戏、划拳",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(剪子、石头、布等)猜拳游戏、划拳",
+          "meaning_ja": "二人以上が手の形を出し合い、勝ち負けを決める遊び。",
+          "example_ja": "飾りつけの係はジャンケンで決めてもいいですよ。",
+          "example_zh": "布置工作可以用猜拳来决定。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ジャンケンをする",
+          "zh": "猜拳"
+        },
+        {
+          "ja": "ジャンケンで決める",
+          "zh": "用猜拳决定"
+        },
+        {
+          "ja": "ジャンケンに勝つ",
+          "zh": "猜拳获胜"
+        }
+      ],
+      "usage_note_zh": "通常说「ジャンケンをする／ジャンケンで決める」；日本常用手势为石头、剪刀、布。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典既列猜拳游戏名词，也列“する”动词用法；本句以猜拳作为决定负责人的方式，动词义为不及物。",
+        "dictionary_sequences": [
+          1005970
+        ],
+        "identity": {
+          "word": "ジャンケン",
+          "reading_hiragana": "ジャンケン",
+          "meaning": "(剪子、石头、布等)猜拳游戏、划拳"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-252656c6743db54d",
+      "index": 2253,
+      "word": "その上",
+      "reading_hiragana": "そのうえ",
+      "context_meaning_zh": "加上、而且",
+      "pos_ja": "名詞・副詞・接続詞",
+      "pos_zh": "名词・副词・连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "加上、而且",
+          "meaning_ja": "前に述べたことに、別の内容をさらに加えるときに使う。",
+          "example_ja": "会場は駅から近いです。その上、料金も安いです。",
+          "example_zh": "会场离车站很近，而且费用也便宜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "その上、〜",
+          "zh": "而且……"
+        },
+        {
+          "ja": "その上に",
+          "zh": "除此之外／在其上面（依语境）"
+        },
+        {
+          "ja": "その上さらに",
+          "zh": "此外还……"
+        }
+      ],
+      "usage_note_zh": "作连接表达时放在句首或分句之间，补充另一条理由或情况；不要与表示空间位置的「その上に」混为一谈。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "noun",
+          "adverb",
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课句首追加另一理由，取连接词义；词典另列名词和副词用法，但不适用于此处义项。",
+        "dictionary_sequences": [
+          1006880
+        ],
+        "identity": {
+          "word": "その上",
+          "reading_hiragana": "そのうえ",
+          "meaning": "加上、而且"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-20a9a4691ae64d09",
+      "index": 2254,
+      "word": "招待状",
+      "reading_hiragana": "しょうたいじょう",
+      "context_meaning_zh": "请帖",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "请帖",
+          "meaning_ja": "会や式などに来てもらうため、相手に送る案内状。",
+          "example_ja": "招待状には、会場と開始時刻を書いてください。",
+          "example_zh": "请在请帖上写明会场和开始时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "招待状を送る",
+          "zh": "发送请帖"
+        },
+        {
+          "ja": "招待状を受け取る",
+          "zh": "收到请帖"
+        },
+        {
+          "ja": "結婚式の招待状",
+          "zh": "婚礼请柬"
+        }
+      ],
+      "usage_note_zh": "用于邀请他人参加仪式或聚会的书面通知；常写明日期、地点和开始时间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "招待状是写入入场时间并寄送的邀请信，词典明确标written invitation；按书面媒介处理。",
+        "dictionary_sequences": [
+          1349630
+        ],
+        "identity": {
+          "word": "招待状",
+          "reading_hiragana": "しょうたいじょう",
+          "meaning": "请帖"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7c59f9aff49a301c",
+      "index": 2255,
+      "word": "共働き",
+      "reading_hiragana": "ともばたらき",
+      "context_meaning_zh": "双职工",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "双职工",
+          "meaning_ja": "夫婦など、同じ世帯の大人二人がともに仕事をしていること。",
+          "example_ja": "共働きの家庭では、週末に集まりやすいそうです。",
+          "example_zh": "听说双职工家庭比较容易在周末聚会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "共働きの夫婦",
+          "zh": "双职工夫妻"
+        },
+        {
+          "ja": "共働き家庭",
+          "zh": "双职工家庭"
+        },
+        {
+          "ja": "共働きを続ける",
+          "zh": "继续共同工作"
+        }
+      ],
+      "usage_note_zh": "通常指夫妻双方都在工作；作名词时常修饰「夫婦」「家庭」等。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "“共働きの友達”是共働き名词加の；词典自サ变属于动词类，adj-no不构成独立连体词。",
+        "dictionary_sequences": [
+          1234760
+        ],
+        "identity": {
+          "word": "共働き",
+          "reading_hiragana": "ともばたらき",
+          "meaning": "双职工"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4154119a929d21d5",
+      "index": 2256,
+      "word": "拍手",
+      "reading_hiragana": "はくしゅ",
+      "context_meaning_zh": "拍手、鼓掌",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拍手、鼓掌",
+          "meaning_ja": "両手を打ち合わせて、喜びや賛成、感動を表すこと。",
+          "example_ja": "歌が終わると、会場の人たちが大きな拍手を送りました。",
+          "example_zh": "歌曲结束后，会场里的人报以热烈掌声。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "拍手を送る",
+          "zh": "报以掌声"
+        },
+        {
+          "ja": "拍手が起こる",
+          "zh": "响起掌声"
+        },
+        {
+          "ja": "拍手で迎える",
+          "zh": "以掌声欢迎"
+        }
+      ],
+      "usage_note_zh": "常用「拍手する／拍手を送る」表示赞赏或欢迎；「拍手喝采」强调热烈喝彩。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「拍手」表示鼓掌活动的名词，也可接「する」构成サ变自动词；名词为主类。",
+        "dictionary_sequences": [
+          1474820
+        ],
+        "identity": {
+          "word": "拍手",
+          "reading_hiragana": "はくしゅ",
+          "meaning": "拍手、鼓掌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c768b60edb9b2fda",
+      "index": 2257,
+      "word": "入場券",
+      "reading_hiragana": "にゅうじょうけん",
+      "context_meaning_zh": "入场券、门票",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "入场券、门票",
+          "meaning_ja": "会場や施設に入ることができると示す券。",
+          "example_ja": "入場券は受付で受け取ってください。",
+          "example_zh": "请在接待处领取入场券。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "入場券を買う",
+          "zh": "购买门票"
+        },
+        {
+          "ja": "入場券を見せる",
+          "zh": "出示门票"
+        },
+        {
+          "ja": "無料入場券",
+          "zh": "免费入场券"
+        }
+      ],
+      "usage_note_zh": "表示可进入会场或设施的票券；「チケット」范围更广，也可指交通票、饮料券等。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "免费入场券和饮料券作对比，说明入場券是进入场地的票；符合词典admission ticket义。",
+        "dictionary_sequences": [
+          1466380
+        ],
+        "identity": {
+          "word": "入場券",
+          "reading_hiragana": "にゅうじょうけん",
+          "meaning": "入场券、门票"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-079f2e70e7cd1d69",
+      "index": 2258,
+      "word": "上映",
+      "reading_hiragana": "じょうえい",
+      "context_meaning_zh": "放映、上映",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "放映、上映",
+          "meaning_ja": "映画などをスクリーンに映して、観客に見せること。",
+          "example_ja": "この映画館では、来週から新作を上映します。",
+          "example_zh": "这家电影院从下周起将放映新片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "映画を上映する",
+          "zh": "放映电影"
+        },
+        {
+          "ja": "上映が始まる",
+          "zh": "开始上映"
+        },
+        {
+          "ja": "上映時間",
+          "zh": "放映时长／场次时间"
+        }
+      ],
+      "usage_note_zh": "通常与电影搭配，可说「映画を上映する」；「上映時間」依场馆语境可指放映时长或开映时间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "上映名词兼サ变他动词；本句「上映の準備」是名词用法，词典以vt列电影放映动作。",
+        "dictionary_sequences": [
+          1352650
+        ],
+        "identity": {
+          "word": "上映",
+          "reading_hiragana": "じょうえい",
+          "meaning": "放映、上映"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c22c21a03e7d24fc",
+      "index": 2259,
+      "word": "キャンドル",
+      "reading_hiragana": "キャンドル",
+      "context_meaning_zh": "蜡烛;烛光",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蜡烛;烛光",
+          "meaning_ja": "ろうなどで作られ、芯に火をつけて明かりや雰囲気を楽しむもの。",
+          "example_ja": "誕生日のテーブルに、赤いキャンドルを二本並べました。",
+          "example_zh": "生日餐桌上摆了两支红色蜡烛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "キャンドルに火をともす",
+          "zh": "点燃蜡烛"
+        },
+        {
+          "ja": "キャンドルの明かり",
+          "zh": "烛光"
+        }
+      ],
+      "usage_note_zh": "指用于照明或装饰的蜡烛，常见说法有「キャンドルを灯す」「キャンドルの明かり」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "生日场景中指可点燃的蜡烛，为普通物品名词；词典仅支持蜡烛义，不扩展为烛光义。",
+        "dictionary_sequences": [
+          1042100
+        ],
+        "identity": {
+          "word": "キャンドル",
+          "reading_hiragana": "キャンドル",
+          "meaning": "蜡烛;烛光"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ae8df1e098fa1f11",
+      "index": 2260,
+      "word": "バースデーケーキ",
+      "reading_hiragana": "バースデーケーキ",
+      "context_meaning_zh": "生日蛋糕",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "生日蛋糕",
+          "meaning_ja": "誕生日を祝うためのケーキ。",
+          "example_ja": "妹のために、いちごのバースデーケーキを予約しました。",
+          "example_zh": "我为妹妹预订了草莓生日蛋糕。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "バースデーケーキを買う",
+          "zh": "买生日蛋糕"
+        },
+        {
+          "ja": "バースデーケーキを囲む",
+          "zh": "围坐在生日蛋糕旁"
+        }
+      ],
+      "usage_note_zh": "指庆祝生日时准备的蛋糕；可说「バースデーケーキを用意する」或「切り分ける」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指生日时食用的蛋糕，是普通食品名词；课文例句为购买朋友的生日蛋糕。",
+        "dictionary_sequences": [
+          2127430
+        ],
+        "identity": {
+          "word": "バースデーケーキ",
+          "reading_hiragana": "バースデーケーキ",
+          "meaning": "生日蛋糕"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-acb4b4b1433866bc",
+      "index": 2261,
+      "word": "灯す",
+      "reading_hiragana": "ともす",
+      "context_meaning_zh": "点亮",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "点亮",
+          "meaning_ja": "火や明かりをつける。",
+          "example_ja": "暗くなったので、庭のランタンに火を灯した。",
+          "example_zh": "天黑了，我点亮了院子里的灯笼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ろうそくに火を灯す",
+          "zh": "点燃蜡烛"
+        },
+        {
+          "ja": "明かりを灯す",
+          "zh": "点亮灯火"
+        }
+      ],
+      "usage_note_zh": "他动词，表示点亮灯或火；点亮的对象用「を」标记，如「ろうそくに火を灯す」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "点燃蜡烛上的火，火是点亮对象；词典标五段他动词。",
+        "dictionary_sequences": [
+          1582140
+        ],
+        "identity": {
+          "word": "灯す",
+          "reading_hiragana": "ともす",
+          "meaning": "点亮"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a0c9514b488f077f",
+      "index": 2262,
+      "word": "蠟燭",
+      "reading_hiragana": "ろうそく",
+      "context_meaning_zh": "蜡烛",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蜡烛",
+          "meaning_ja": "芯に火をつけて燃やす、ろうでできた細長いもの。",
+          "example_ja": "停電のあと、ろうそくを一本出しました。",
+          "example_zh": "停电后，我拿出了一支蜡烛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ろうそくに火をつける",
+          "zh": "点蜡烛"
+        },
+        {
+          "ja": "ろうそくの火を消す",
+          "zh": "熄灭蜡烛火焰"
+        }
+      ],
+      "usage_note_zh": "指用于照明的蜡烛；现代常写作「ろうそく」或「蝋燭」，词条保留原表记「蠟燭」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "蜡烛的火焰很小，指供燃烧照明的蜡烛名词。",
+        "dictionary_sequences": [
+          1561240
+        ],
+        "identity": {
+          "word": "蠟燭",
+          "reading_hiragana": "ろうそく",
+          "meaning": "蜡烛"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1c8ad06ee7084cc6",
+      "index": 2263,
+      "word": "吹き消す",
+      "reading_hiragana": "ふきけす",
+      "context_meaning_zh": "吹灭",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吹灭",
+          "meaning_ja": "口から息を強く出して、ついている火を消す。",
+          "example_ja": "風が強くなる前に、ろうそくの火を吹き消した。",
+          "example_zh": "在风变大之前，我吹灭了蜡烛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ろうそくの火を吹き消す",
+          "zh": "吹灭蜡烛火焰"
+        },
+        {
+          "ja": "火を吹き消す",
+          "zh": "把火吹灭"
+        }
+      ],
+      "usage_note_zh": "他动词，表示用吹气使火熄灭；被吹灭的火用「を」标记，如「ろうそくの火を吹き消す」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "吹き消す为五段他动词，火を是吹灭的对象；孩子吹熄蜡烛例句对应词典义。",
+        "dictionary_sequences": [
+          1370620
+        ],
+        "identity": {
+          "word": "吹き消す",
+          "reading_hiragana": "ふきけす",
+          "meaning": "吹灭"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5b0109c57d944d88",
+      "index": 2264,
+      "word": "シャンパン",
+      "reading_hiragana": "シャンパン",
+      "context_meaning_zh": "香槟",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "香槟",
+          "meaning_ja": "ぶどうから作る発泡性の酒。",
+          "example_ja": "乾杯のあと、シャンパンを少しだけ飲みました。",
+          "example_zh": "干杯后，我只喝了一点香槟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "シャンパンで乾杯する",
+          "zh": "用香槟干杯"
+        },
+        {
+          "ja": "シャンパンを開ける",
+          "zh": "打开香槟"
+        }
+      ],
+      "usage_note_zh": "指香槟酒，是庆祝场合常见的起泡葡萄酒名称；饮用时常与「乾杯する」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典对应champagne，例句以香槟酒干杯；该词具体指酒类，不泛指所有起泡饮料。",
+        "dictionary_sequences": [
+          1061910
+        ],
+        "identity": {
+          "word": "シャンパン",
+          "reading_hiragana": "シャンパン",
+          "meaning": "香槟"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e15a1ebf9100508a",
+      "index": 2265,
+      "word": "歌謡曲",
+      "reading_hiragana": "かようきょく",
+      "context_meaning_zh": "流行歌曲",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "流行歌曲",
+          "meaning_ja": "主に日本で親しまれてきた、歌詞のある大衆向けの歌。",
+          "example_ja": "父は車の中で懐かしい歌謡曲を口ずさんでいた。",
+          "example_zh": "父亲在车里哼着令人怀念的流行歌曲。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歌謡曲を歌う",
+          "zh": "唱流行歌曲"
+        },
+        {
+          "ja": "懐かしい歌謡曲",
+          "zh": "令人怀念的流行歌曲"
+        }
+      ],
+      "usage_note_zh": "日本流行歌曲的一类，常以通俗易记的旋律为特点；与「演歌」等曲种区分使用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "日本流行歌曲的曲种名称；与演歌等存在类别区别，例句作为街头流行音乐名词。",
+        "dictionary_sequences": [
+          1193460
+        ],
+        "identity": {
+          "word": "歌謡曲",
+          "reading_hiragana": "かようきょく",
+          "meaning": "流行歌曲"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-474f4235386f07dd",
+      "index": 2266,
+      "word": "曲目",
+      "reading_hiragana": "きょくもく",
+      "context_meaning_zh": "乐曲节目、乐曲名",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乐曲节目、乐曲名",
+          "meaning_ja": "演奏会や催しで演奏・発表する曲の名前、またはその順番。",
+          "example_ja": "演奏会の曲目を三つに絞りました。",
+          "example_zh": "我把演奏会的曲目缩减到三首。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "曲目を決める",
+          "zh": "决定曲目"
+        },
+        {
+          "ja": "曲目を確認する",
+          "zh": "确认曲目"
+        }
+      ],
+      "usage_note_zh": "指音乐活动中准备演奏或演唱的曲目及其安排；可说「曲目を決める」「曲目に入れる」，不泛指整场活动。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "谈论曲目的商量中，指音乐活动要演奏或演唱的曲目；词典还明确收曲目列表义。",
+        "dictionary_sequences": [
+          1240130
+        ],
+        "identity": {
+          "word": "曲目",
+          "reading_hiragana": "きょくもく",
+          "meaning": "乐曲节目、乐曲名"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ff58140c18539a64",
+      "index": 2267,
+      "word": "ポピュラー",
+      "reading_hiragana": "ポピュラー",
+      "context_meaning_zh": "通俗的、流行的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "通俗的、流行的",
+          "meaning_ja": "多くの人に知られ、好まれている。",
+          "example_ja": "この曲は発売当時、とてもポピュラーだったそうです。",
+          "example_zh": "听说这首歌发行时非常流行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ポピュラーな歌",
+          "zh": "流行的歌曲"
+        },
+        {
+          "ja": "若者にポピュラーだ",
+          "zh": "受年轻人欢迎"
+        }
+      ],
+      "usage_note_zh": "「ポピュラーな＋名詞」或「～にポピュラーだ」的形式常见。可形容音乐、文化或广受欢迎的事物。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中旧歌谣曲「ポピュラーです」表示受欢迎，按形容动词义审；不取音乐流派名词义。",
+        "dictionary_sequences": [
+          1125490
+        ],
+        "identity": {
+          "word": "ポピュラー",
+          "reading_hiragana": "ポピュラー",
+          "meaning": "通俗的、流行的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f63e699e244703bd",
+      "index": 2268,
+      "word": "演歌",
+      "reading_hiragana": "えんか",
+      "context_meaning_zh": "(带有日本古典风格的通俗流行歌曲)演歌",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(带有日本古典风格的通俗流行歌曲)演歌",
+          "meaning_ja": "日本の大衆音楽の一つで、独特の節回しと歌い方を持つ歌。",
+          "example_ja": "祖父は若い頃から演歌を歌うのが好きです。",
+          "example_zh": "祖父从年轻时起就喜欢唱演歌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "演歌を歌う",
+          "zh": "唱演歌"
+        },
+        {
+          "ja": "演歌が得意だ",
+          "zh": "擅长演歌"
+        }
+      ],
+      "usage_note_zh": "日本流行歌曲的一类，演唱风格和旋律常带有日本传统音乐色彩；常与「歌う」「聞く」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "演歌是具有日本情绪和旋律特点的歌谣类别；课文讨论朋友擅长演唱，属于普通音乐类型名词。",
+        "dictionary_sequences": [
+          1176800
+        ],
+        "identity": {
+          "word": "演歌",
+          "reading_hiragana": "えんか",
+          "meaning": "(带有日本古典风格的通俗流行歌曲)演歌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b708f88a4b3a48bf",
+      "index": 2269,
+      "word": "ポップス",
+      "reading_hiragana": "ポップス",
+      "context_meaning_zh": "流行音乐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "流行音乐",
+          "meaning_ja": "現代の大衆向けの歌や音楽。",
+          "example_ja": "通勤中はポップスを聴いて気分転換します。",
+          "example_zh": "通勤时我会听流行音乐转换心情。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ポップスを聴く",
+          "zh": "听流行音乐"
+        },
+        {
+          "ja": "ポップスの曲",
+          "zh": "流行歌曲"
+        }
+      ],
+      "usage_note_zh": "流行音乐的一类；常说「ポップスを聞く」「ポップスが好き」，与具体曲目或歌曲区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指流行音乐，与摇滚乐并列作喜欢的音乐类型。",
+        "dictionary_sequences": [
+          1125380
+        ],
+        "identity": {
+          "word": "ポップス",
+          "reading_hiragana": "ポップス",
+          "meaning": "流行音乐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d6fb3466e9a7a9c9",
+      "index": 2270,
+      "word": "ポップミュージック",
+      "reading_hiragana": "ポップミュージック",
+      "context_meaning_zh": "流行音乐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "流行音乐",
+          "meaning_ja": "ポップスを中心とする、広く親しまれている音楽。",
+          "example_ja": "週末は家族でポップミュージックのライブを見に行きます。",
+          "example_zh": "周末我和家人去看流行音乐现场演出。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ポップミュージックを楽しむ",
+          "zh": "欣赏流行音乐"
+        },
+        {
+          "ja": "ポップミュージックの歌手",
+          "zh": "流行音乐歌手"
+        }
+      ],
+      "usage_note_zh": "指面向大众的流行音乐；与「ポップス」意思接近，具体使用依搭配和文体而定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课词指大众流行音乐这一音乐类别；例句谈听众年龄，不构成专门语体或教育体裁依据。",
+        "dictionary_sequences": [
+          2226330
+        ],
+        "identity": {
+          "word": "ポップミュージック",
+          "reading_hiragana": "ポップミュージック",
+          "meaning": "流行音乐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-89978588ca65f8dc",
+      "index": 2271,
+      "word": "催し物",
+      "reading_hiragana": "もよおしもの",
+      "context_meaning_zh": "演出活动;展示会",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "演出活动;展示会",
+          "meaning_ja": "人を集めて行う行事や催し。",
+          "example_ja": "駅前で子ども向けの催し物が開かれます。",
+          "example_zh": "车站前会举办面向儿童的活动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "催し物を開く",
+          "zh": "举办活动"
+        },
+        {
+          "ja": "季節の催し物",
+          "zh": "季节性活动"
+        }
+      ],
+      "usage_note_zh": "展览、表演、庆祝活动等都可以称为「催し物」。正式介绍活动时也常说「催し」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "中心计划的季节性活动属于词典列出的特别活动或娱乐项目；含义不限于展览会。",
+        "dictionary_sequences": [
+          1292150
+        ],
+        "identity": {
+          "word": "催し物",
+          "reading_hiragana": "もよおしもの",
+          "meaning": "演出活动;展示会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c945c924d2ea84a4",
+      "index": 2272,
+      "word": "歌手",
+      "reading_hiragana": "かしゅ",
+      "context_meaning_zh": "歌手",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "歌手",
+          "meaning_ja": "歌を歌う人。職業として歌う人を指すことも多い。",
+          "example_ja": "その歌手は新しいアルバムを来月発売します。",
+          "example_zh": "那位歌手下个月会发行新专辑。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歌手を呼ぶ",
+          "zh": "邀请歌手"
+        },
+        {
+          "ja": "有名な歌手",
+          "zh": "有名的歌手"
+        }
+      ],
+      "usage_note_zh": "以演唱为职业的人；可说「歌手を呼ぶ」「歌手として活動する」。语境不强调职业时，也可泛指演唱者。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "歌手是以歌唱为职业的人，演出邀约只是当前情境，没有理由将一般职业名词标为business体裁。",
+        "dictionary_sequences": [
+          1193290
+        ],
+        "identity": {
+          "word": "歌手",
+          "reading_hiragana": "かしゅ",
+          "meaning": "歌手"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3ff4481ed0acb935",
+      "index": 2273,
+      "word": "交響曲",
+      "reading_hiragana": "こうきょうきょく",
+      "context_meaning_zh": "交响曲",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "交响曲",
+          "meaning_ja": "オーケストラで演奏するために作られた、大規模な器楽曲。",
+          "example_ja": "指揮者の合図で、オーケストラが交響曲を演奏し始めた。",
+          "example_zh": "在指挥的示意下，管弦乐团开始演奏交响曲。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "交響曲を聴く",
+          "zh": "听交响曲"
+        },
+        {
+          "ja": "交響曲を演奏する",
+          "zh": "演奏交响曲"
+        }
+      ],
+      "usage_note_zh": "音乐体裁名词。常和「聴く」「演奏する」搭配；作品时长较长时，可以说「長すぎる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "交響曲是词典music领域的symphony名词，例句讨论作品过长而不适合当前时段；普通音乐术语不标新闻或学术体裁。",
+        "dictionary_sequences": [
+          1271930
+        ],
+        "identity": {
+          "word": "交響曲",
+          "reading_hiragana": "こうきょうきょく",
+          "meaning": "交响曲"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6e175dd64763ff97",
+      "index": 2274,
+      "word": "合唱曲",
+      "reading_hiragana": "がっしょうきょく",
+      "context_meaning_zh": "合唱曲",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "合唱曲",
+          "meaning_ja": "複数の人が声を合わせて歌うための曲。",
+          "example_ja": "合唱曲の練習では、全員で同じ音程を確認しました。",
+          "example_zh": "排练合唱曲时，大家一起确认了相同的音高。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "合唱曲を歌う",
+          "zh": "唱合唱曲"
+        },
+        {
+          "ja": "合唱曲を披露する",
+          "zh": "演唱合唱曲"
+        }
+      ],
+      "usage_note_zh": "指为多人合唱而创作或编配的歌曲；常用「合唱曲を歌う」「合唱曲を練習する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "合唱曲作为节目由本地二人组演唱，指合唱作品名词。",
+        "dictionary_sequences": [
+          1683790
+        ],
+        "identity": {
+          "word": "合唱曲",
+          "reading_hiragana": "がっしょうきょく",
+          "meaning": "合唱曲"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4bbb3259c2680da2",
+      "index": 2275,
+      "word": "二人組",
+      "reading_hiragana": "ふたりぐみ",
+      "context_meaning_zh": "(也读「ににんぐみ」)二人组合",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(也读「ににんぐみ」)二人组合",
+          "meaning_ja": "二人で一組になった人たち。",
+          "example_ja": "文化祭では、二人組で短い劇を発表します。",
+          "example_zh": "文化节上，两人一组表演短剧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二人組を作る",
+          "zh": "两人组成一组"
+        },
+        {
+          "ja": "二人組で発表する",
+          "zh": "两人一组发表"
+        }
+      ],
+      "usage_note_zh": "通常读「ふたりぐみ」，「ににんぐみ」也可读。后接助词时表示两人组成的团体，例如「二人組に頼む」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "城里的双人组合受邀演唱合唱曲，符合双人组名词义；读音按本条标注保留。",
+        "dictionary_sequences": [
+          1462510
+        ],
+        "identity": {
+          "word": "二人組",
+          "reading_hiragana": "ふたりぐみ",
+          "meaning": "(也读「ににんぐみ」)二人组合"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eaabe37a4ad28af7",
+      "index": 2276,
+      "word": "プログラム",
+      "reading_hiragana": "プログラム",
+      "context_meaning_zh": "节目单;计划(表);(编制计算机)程序",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "节目单;计划(表);(编制计算机)程序",
+          "meaning_ja": "行事の予定や、コンピュータへの指示を順序立てたもの。",
+          "example_ja": "当日のプログラムは受付で配っています。",
+          "example_zh": "当天的节目单在接待处发放。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "プログラムを作る",
+          "zh": "制作节目单"
+        },
+        {
+          "ja": "プログラムに入れる",
+          "zh": "列入节目单"
+        }
+      ],
+      "usage_note_zh": "本课语境指活动的节目安排，也可指计划或计算机程序。活动节目单常与「作る」「入れる」「確認する」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "プログラム可指活动节目或计算机程序，也可作サ变词「プログラムする」；自他性限该动词用法。",
+        "dictionary_sequences": [
+          1117080
+        ],
+        "identity": {
+          "word": "プログラム",
+          "reading_hiragana": "プログラム",
+          "meaning": "节目单;计划(表);(编制计算机)程序"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-13888b58640e86fa",
+      "index": 2277,
+      "word": "飾りつけ",
+      "reading_hiragana": "かざりつけ",
+      "context_meaning_zh": "装饰;装饰品",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "装饰;装饰品",
+          "meaning_ja": "部屋や物に飾りを付けること。また、付けた飾り。",
+          "example_ja": "みんなで壁の飾りつけを手伝いました。",
+          "example_zh": "大家一起帮忙装饰墙面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "部屋の飾りつけをする",
+          "zh": "装饰房间"
+        },
+        {
+          "ja": "飾りつけを始める",
+          "zh": "开始布置"
+        }
+      ],
+      "usage_note_zh": "既可以指装饰的动作，也可以指布置好的装饰。「飾りつけをする」表示进行布置；「飾りつけの前」中强调动作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“装饰前打开窗帘”中的飾りつけ指布置装饰这一活动或成果，词典名词义适用。",
+        "dictionary_sequences": [
+          1590220
+        ],
+        "identity": {
+          "word": "飾りつけ",
+          "reading_hiragana": "かざりつけ",
+          "meaning": "装饰;装饰品"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c823add03bad6ffc",
+      "index": 2278,
+      "word": "装飾",
+      "reading_hiragana": "そうしょく",
+      "context_meaning_zh": "装饰",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "装饰",
+          "meaning_ja": "物や場所に飾りを付けて美しく見せること。また、その飾り。",
+          "example_ja": "この皿は細かな装飾が特徴です。",
+          "example_zh": "这只盘子的特点是精致的装饰。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "装飾を施す",
+          "zh": "加以装饰"
+        },
+        {
+          "ja": "装飾が美しい",
+          "zh": "装饰很美"
+        }
+      ],
+      "usage_note_zh": "「装飾」可指装饰行为或装饰物，语感比「飾りつけ」稍正式。助词「には」在例句中提示装饰所用的材料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1402340列名词、vs、vt及no形容词；例句装饰使用纸花，侧重装饰行为或效果。",
+        "dictionary_sequences": [
+          1402340
+        ],
+        "identity": {
+          "word": "装飾",
+          "reading_hiragana": "そうしょく",
+          "meaning": "装饰"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-100e84b7576cf136",
+      "index": 2279,
+      "word": "真夏",
+      "reading_hiragana": "まなつ",
+      "context_meaning_zh": "盛夏",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "盛夏",
+          "meaning_ja": "夏の最も暑いころ。",
+          "example_ja": "真夏の夜でも、山の上は涼しいです。",
+          "example_zh": "即使在盛夏的夜晚，山上也很凉爽。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "真夏の暑さ",
+          "zh": "盛夏的炎热"
+        },
+        {
+          "ja": "真夏に花火を見る",
+          "zh": "盛夏看烟花"
+        }
+      ],
+      "usage_note_zh": "指夏季最热的时期。时间点常用「真夏に」，修饰名词时用「真夏の」；不表示整个夏天。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指夏季最热时段，花火シーズン的修饰语；词典名词义与教材说明一致。",
+        "dictionary_sequences": [
+          1363480
+        ],
+        "identity": {
+          "word": "真夏",
+          "reading_hiragana": "まなつ",
+          "meaning": "盛夏"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7a5dd6e494b16077",
+      "index": 2280,
+      "word": "大会",
+      "reading_hiragana": "たいかい",
+      "context_meaning_zh": "大会",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大会",
+          "meaning_ja": "多くの人が集まる大きな会合や競技会。",
+          "example_ja": "市民大会に出るため、毎週練習しています。",
+          "example_zh": "为了参加市民大会，我每周都在练习。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大会に参加する",
+          "zh": "参加大会"
+        },
+        {
+          "ja": "大会で演奏する",
+          "zh": "在大会上演奏"
+        }
+      ],
+      "usage_note_zh": "可指会议、集会或比赛，需看前面的修饰词，如「全国大会」「音楽大会」。参加活动用「に」，在活动中发生的事用「で」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "可指会议、集会或比赛；本例只说公园举办的大会，缺少修饰信息，保留广义。",
+        "dictionary_sequences": [
+          1413180
+        ],
+        "identity": {
+          "word": "大会",
+          "reading_hiragana": "たいかい",
+          "meaning": "大会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dcbc927bfd962a24",
+      "index": 2281,
+      "word": "盛り上げる",
+      "reading_hiragana": "もりあげる",
+      "context_meaning_zh": "使(气氛)高涨;堆起",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "使(气氛)高涨;堆起",
+          "meaning_ja": "物を高く積む。また、人の気持ちや場の雰囲気を活気づける。",
+          "example_ja": "拍手で出演者を迎え、会場を盛り上げました。",
+          "example_zh": "我们用掌声迎接演出者，让会场热闹起来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会を盛り上げる",
+          "zh": "活跃活动气氛"
+        },
+        {
+          "ja": "雰囲気を盛り上げる",
+          "zh": "调动气氛"
+        }
+      ],
+      "usage_note_zh": "他动词，对象用「を」表示。「会を盛り上げる」指让活动热闹起来；具体堆高物品时也可说「土を盛り上げる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指提升活动气氛或把泥土堆高；这两种词义均以对象作直接宾语，符合一段他动词用法。",
+        "dictionary_sequences": [
+          1379700
+        ],
+        "identity": {
+          "word": "盛り上げる",
+          "reading_hiragana": "もりあげる",
+          "meaning": "使(气氛)高涨;堆起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0da1500d50c0ed62",
+      "index": 2282,
+      "word": "太鼓",
+      "reading_hiragana": "たいこ",
+      "context_meaning_zh": "大鼓",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大鼓",
+          "meaning_ja": "皮を張った胴を打って音を出す日本の打楽器。",
+          "example_ja": "子どもたちは太鼓のリズムに合わせて踊りました。",
+          "example_zh": "孩子们跟着鼓点跳舞。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "太鼓をたたく",
+          "zh": "敲鼓"
+        },
+        {
+          "ja": "太鼓の音",
+          "zh": "鼓声"
+        }
+      ],
+      "usage_note_zh": "可指日本传统鼓，也泛指鼓类打击乐器。说演奏动作时常用「太鼓をたたく」，发出的声音说「太鼓の音」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "祭典一整天都听见太鼓声，指打击乐器。",
+        "dictionary_sequences": [
+          1408280
+        ],
+        "identity": {
+          "word": "太鼓",
+          "reading_hiragana": "たいこ",
+          "meaning": "大鼓"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-26d740c94274143f",
+      "index": 2283,
+      "word": "いっぺんに",
+      "reading_hiragana": "いっぺんに",
+      "context_meaning_zh": "马上、一下子、同时",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "马上、一下子、同时",
+          "meaning_ja": "多くのことを一度にまとめて行う様子。",
+          "example_ja": "荷物がいっぺんに届きました。",
+          "example_zh": "行李一下子全送到了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "いっぺんに決める",
+          "zh": "一下子决定"
+        },
+        {
+          "ja": "いっぺんに片づける",
+          "zh": "一次性收拾完"
+        }
+      ],
+      "usage_note_zh": "表示多个动作或事项集中在一次完成，也可表示同时发生。这里指不要一次性决定所有节目；与表示时间很快的「すぐに」不同。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "请勿一下子决定所有节目，いっぺんに表示同时或一次性完成；词典及语境支持副词判断。",
+        "dictionary_sequences": [
+          1609240
+        ],
+        "identity": {
+          "word": "いっぺんに",
+          "reading_hiragana": "いっぺんに",
+          "meaning": "马上、一下子、同时"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-96e91db3c25cbc6d",
+      "index": 2284,
+      "word": "歓迎",
+      "reading_hiragana": "かんげい",
+      "context_meaning_zh": "欢迎",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "欢迎",
+          "meaning_ja": "来た人を喜んで迎えること。また、迎える気持ちを表す言葉。",
+          "example_ja": "新しい留学生を歓迎するため、教室に花を飾りました。",
+          "example_zh": "为了欢迎新留学生，我们在教室里装饰了鲜花。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歓迎の言葉",
+          "zh": "欢迎词"
+        },
+        {
+          "ja": "客を歓迎する",
+          "zh": "欢迎客人"
+        }
+      ],
+      "usage_note_zh": "表示欢迎某人或某事；迎接对象用「を」标记，如「新しい仲間を歓迎する」，也可说「歓迎される」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "欢迎词的拟定语境先取名词义；词典同条也列欢迎する及物用法，因此保留名词和动词兼类。",
+        "dictionary_sequences": [
+          1212960
+        ],
+        "identity": {
+          "word": "歓迎",
+          "reading_hiragana": "かんげい",
+          "meaning": "欢迎"
+        }
+      }
+    }
+  ]
+}

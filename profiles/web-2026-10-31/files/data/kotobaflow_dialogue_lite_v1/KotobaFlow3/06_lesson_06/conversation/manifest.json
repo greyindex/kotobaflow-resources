@@ -1,0 +1,630 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 100.847,
+ "listening_review": "pending",
+ "source_chapter": 42,
+ "turns": [
+  {
+   "turn_id": "C42-D001",
+   "turn_index": 0,
+   "speaker": "原",
+   "source_text": "こんにちは。カメラについて確認したいことがあると聞きました。何か問題がありましたか。",
+   "sentence_ids": [
+    "C42-D001-S01",
+    "C42-D001-S02",
+    "C42-D001-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 6.48,
+   "duration_sec": 6.48
+  },
+  {
+   "turn_id": "C42-D002",
+   "turn_index": 1,
+   "speaker": "西田",
+   "source_text": "ええ。今朝、ふたが開いていました。手で押せば閉まります。でも、軽く振るとまた開きます。",
+   "sentence_ids": [
+    "C42-D002-S01",
+    "C42-D002-S02",
+    "C42-D002-S03",
+    "C42-D002-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 6.83,
+   "end_sec": 14.013,
+   "duration_sec": 7.183
+  },
+  {
+   "turn_id": "C42-D003",
+   "turn_index": 2,
+   "speaker": "原",
+   "source_text": "本当ですね。ふたが壊れているみたいです。返すとき、私はかばんの中を見ませんでした。",
+   "sentence_ids": [
+    "C42-D003-S01",
+    "C42-D003-S02",
+    "C42-D003-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 14.363,
+   "end_sec": 20.826,
+   "duration_sec": 6.463
+  },
+  {
+   "turn_id": "C42-D004",
+   "turn_index": 3,
+   "speaker": "西田",
+   "source_text": "最初は、だれかが開けっぱなしにしたと思いました。でも、今の状態では、その判断はできません。村上さんの伝言も確認したいです。",
+   "sentence_ids": [
+    "C42-D004-S01",
+    "C42-D004-S02",
+    "C42-D004-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.176,
+   "end_sec": 30.296,
+   "duration_sec": 9.12
+  },
+  {
+   "turn_id": "C42-D005",
+   "turn_index": 4,
+   "speaker": "原",
+   "source_text": "落とした話ですね。昨日の十五時ごろ、小川さんがかばんの中のカメラを落としました。その後も写真は撮れました。",
+   "sentence_ids": [
+    "C42-D005-S01",
+    "C42-D005-S02",
+    "C42-D005-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.646,
+   "end_sec": 38.953,
+   "duration_sec": 8.307
+  },
+  {
+   "turn_id": "C42-D006",
+   "turn_index": 5,
+   "speaker": "西田",
+   "source_text": "ありがとうございます。電池についても教えてください。今は日付の設定が一月一日になっています。",
+   "sentence_ids": [
+    "C42-D006-S01",
+    "C42-D006-S02",
+    "C42-D006-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.303,
+   "end_sec": 46.801,
+   "duration_sec": 7.498
+  },
+  {
+   "turn_id": "C42-D007",
+   "turn_index": 6,
+   "speaker": "原",
+   "source_text": "十五時四十五分ごろ、小川さんが電池を取り替えました。今日、小川さんから「閉めたと思う」と聞きましたが、私は見ていません。",
+   "sentence_ids": [
+    "C42-D007-S01",
+    "C42-D007-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.151,
+   "end_sec": 56.1,
+   "duration_sec": 8.949
+  },
+  {
+   "turn_id": "C42-D008",
+   "turn_index": 7,
+   "speaker": "西田",
+   "source_text": "日付が戻った原因も、まだわかりません。電池が出たままだったのかもしれませんが、まだ推測です。日付を直したかどうかも、小川さんに確認してください。",
+   "sentence_ids": [
+    "C42-D008-S01",
+    "C42-D008-S02",
+    "C42-D008-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 56.45,
+   "end_sec": 68.328,
+   "duration_sec": 11.878
+  },
+  {
+   "turn_id": "C42-D009",
+   "turn_index": 8,
+   "speaker": "原",
+   "source_text": "わかりました。判断の条件を整理したいです。落としたという話はありますが、それだけで壊れた原因だと言えますか。",
+   "sentence_ids": [
+    "C42-D009-S01",
+    "C42-D009-S02",
+    "C42-D009-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.678,
+   "end_sec": 77.105,
+   "duration_sec": 8.427
+  },
+  {
+   "turn_id": "C42-D010",
+   "turn_index": 9,
+   "speaker": "西田",
+   "source_text": "いいえ。その話だけでは判断できません。ふたが壊れた時間の証拠が必要です。今は責任を判断しません。修理が終わったら、また使いましょう。",
+   "sentence_ids": [
+    "C42-D010-S01",
+    "C42-D010-S02",
+    "C42-D010-S03",
+    "C42-D010-S04",
+    "C42-D010-S05"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 77.455,
+   "end_sec": 88.74,
+   "duration_sec": 11.285
+  },
+  {
+   "turn_id": "C42-D011",
+   "turn_index": 10,
+   "speaker": "原",
+   "source_text": "次に借りるときは、どうしたらいいですか。確認の手順を教えてください。",
+   "sentence_ids": [
+    "C42-D011-S01",
+    "C42-D011-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.09,
+   "end_sec": 93.706,
+   "duration_sec": 4.616
+  },
+  {
+   "turn_id": "C42-D012",
+   "turn_index": 11,
+   "speaker": "西田",
+   "source_text": "ふたを閉めて、軽く振ってみればいいです。村上さんにも、返すときに中を見るように言っておきます。",
+   "sentence_ids": [
+    "C42-D012-S01",
+    "C42-D012-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 94.056,
+   "end_sec": 100.84,
+   "duration_sec": 6.784
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C42-D001-S01",
+   "unit_id": "C42-D001",
+   "section": "D",
+   "speaker": "原",
+   "text": "こんにちは。",
+   "start_sec": 0.0,
+   "end_sec": 0.969,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D001-S02",
+   "unit_id": "C42-D001",
+   "section": "D",
+   "speaker": "原",
+   "text": "カメラについて確認したいことがあると聞きました。",
+   "start_sec": 1.119,
+   "end_sec": 4.264,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D001-S03",
+   "unit_id": "C42-D001",
+   "section": "D",
+   "speaker": "原",
+   "text": "何か問題がありましたか。",
+   "start_sec": 4.414,
+   "end_sec": 6.48,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D002-S01",
+   "unit_id": "C42-D002",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ええ。",
+   "start_sec": 6.83,
+   "end_sec": 7.458,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D002-S02",
+   "unit_id": "C42-D002",
+   "section": "D",
+   "speaker": "西田",
+   "text": "今朝、ふたが開いていました。",
+   "start_sec": 7.608,
+   "end_sec": 9.541,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D002-S03",
+   "unit_id": "C42-D002",
+   "section": "D",
+   "speaker": "西田",
+   "text": "手で押せば閉まります。",
+   "start_sec": 9.691,
+   "end_sec": 11.391,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D002-S04",
+   "unit_id": "C42-D002",
+   "section": "D",
+   "speaker": "西田",
+   "text": "でも、軽く振るとまた開きます。",
+   "start_sec": 11.541,
+   "end_sec": 14.013,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D003-S01",
+   "unit_id": "C42-D003",
+   "section": "D",
+   "speaker": "原",
+   "text": "本当ですね。",
+   "start_sec": 14.363,
+   "end_sec": 15.62,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D003-S02",
+   "unit_id": "C42-D003",
+   "section": "D",
+   "speaker": "原",
+   "text": "ふたが壊れているみたいです。",
+   "start_sec": 15.77,
+   "end_sec": 17.739,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D003-S03",
+   "unit_id": "C42-D003",
+   "section": "D",
+   "speaker": "原",
+   "text": "返すとき、私はかばんの中を見ませんでした。",
+   "start_sec": 17.889,
+   "end_sec": 20.826,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D004-S01",
+   "unit_id": "C42-D004",
+   "section": "D",
+   "speaker": "西田",
+   "text": "最初は、だれかが開けっぱなしにしたと思いました。",
+   "start_sec": 21.176,
+   "end_sec": 24.286,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D004-S02",
+   "unit_id": "C42-D004",
+   "section": "D",
+   "speaker": "西田",
+   "text": "でも、今の状態では、その判断はできません。",
+   "start_sec": 24.436,
+   "end_sec": 27.803,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D004-S03",
+   "unit_id": "C42-D004",
+   "section": "D",
+   "speaker": "西田",
+   "text": "村上さんの伝言も確認したいです。",
+   "start_sec": 27.953,
+   "end_sec": 30.296,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D005-S01",
+   "unit_id": "C42-D005",
+   "section": "D",
+   "speaker": "原",
+   "text": "落とした話ですね。",
+   "start_sec": 30.646,
+   "end_sec": 32.239,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D005-S02",
+   "unit_id": "C42-D005",
+   "section": "D",
+   "speaker": "原",
+   "text": "昨日の十五時ごろ、小川さんがかばんの中のカメラを落としました。",
+   "start_sec": 32.389,
+   "end_sec": 36.867,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D005-S03",
+   "unit_id": "C42-D005",
+   "section": "D",
+   "speaker": "原",
+   "text": "その後も写真は撮れました。",
+   "start_sec": 37.017,
+   "end_sec": 38.953,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D006-S01",
+   "unit_id": "C42-D006",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ありがとうございます。",
+   "start_sec": 39.303,
+   "end_sec": 40.558,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D006-S02",
+   "unit_id": "C42-D006",
+   "section": "D",
+   "speaker": "西田",
+   "text": "電池についても教えてください。",
+   "start_sec": 40.708,
+   "end_sec": 42.728,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D006-S03",
+   "unit_id": "C42-D006",
+   "section": "D",
+   "speaker": "西田",
+   "text": "今は日付の設定が一月一日になっています。",
+   "start_sec": 42.878,
+   "end_sec": 46.801,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D007-S01",
+   "unit_id": "C42-D007",
+   "section": "D",
+   "speaker": "原",
+   "text": "十五時四十五分ごろ、小川さんが電池を取り替えました。",
+   "start_sec": 47.151,
+   "end_sec": 51.21,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D007-S02",
+   "unit_id": "C42-D007",
+   "section": "D",
+   "speaker": "原",
+   "text": "今日、小川さんから「閉めたと思う」と聞きましたが、私は見ていません。",
+   "start_sec": 51.36,
+   "end_sec": 56.1,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D008-S01",
+   "unit_id": "C42-D008",
+   "section": "D",
+   "speaker": "西田",
+   "text": "日付が戻った原因も、まだわかりません。",
+   "start_sec": 56.45,
+   "end_sec": 60.046,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D008-S02",
+   "unit_id": "C42-D008",
+   "section": "D",
+   "speaker": "西田",
+   "text": "電池が出たままだったのかもしれませんが、まだ推測です。",
+   "start_sec": 60.196,
+   "end_sec": 64.612,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D008-S03",
+   "unit_id": "C42-D008",
+   "section": "D",
+   "speaker": "西田",
+   "text": "日付を直したかどうかも、小川さんに確認してください。",
+   "start_sec": 64.762,
+   "end_sec": 68.328,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D009-S01",
+   "unit_id": "C42-D009",
+   "section": "D",
+   "speaker": "原",
+   "text": "わかりました。",
+   "start_sec": 68.678,
+   "end_sec": 69.794,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D009-S02",
+   "unit_id": "C42-D009",
+   "section": "D",
+   "speaker": "原",
+   "text": "判断の条件を整理したいです。",
+   "start_sec": 69.944,
+   "end_sec": 72.27,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D009-S03",
+   "unit_id": "C42-D009",
+   "section": "D",
+   "speaker": "原",
+   "text": "落としたという話はありますが、それだけで壊れた原因だと言えますか。",
+   "start_sec": 72.42,
+   "end_sec": 77.105,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D010-S01",
+   "unit_id": "C42-D010",
+   "section": "D",
+   "speaker": "西田",
+   "text": "いいえ。",
+   "start_sec": 77.455,
+   "end_sec": 78.172,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D010-S02",
+   "unit_id": "C42-D010",
+   "section": "D",
+   "speaker": "西田",
+   "text": "その話だけでは判断できません。",
+   "start_sec": 78.322,
+   "end_sec": 80.794,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D010-S03",
+   "unit_id": "C42-D010",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ふたが壊れた時間の証拠が必要です。",
+   "start_sec": 80.944,
+   "end_sec": 84.135,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D010-S04",
+   "unit_id": "C42-D010",
+   "section": "D",
+   "speaker": "西田",
+   "text": "今は責任を判断しません。",
+   "start_sec": 84.285,
+   "end_sec": 86.229,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D010-S05",
+   "unit_id": "C42-D010",
+   "section": "D",
+   "speaker": "西田",
+   "text": "修理が終わったら、また使いましょう。",
+   "start_sec": 86.379,
+   "end_sec": 88.74,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D011-S01",
+   "unit_id": "C42-D011",
+   "section": "D",
+   "speaker": "原",
+   "text": "次に借りるときは、どうしたらいいですか。",
+   "start_sec": 89.09,
+   "end_sec": 91.524,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D011-S02",
+   "unit_id": "C42-D011",
+   "section": "D",
+   "speaker": "原",
+   "text": "確認の手順を教えてください。",
+   "start_sec": 91.674,
+   "end_sec": 93.706,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D012-S01",
+   "unit_id": "C42-D012",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ふたを閉めて、軽く振ってみればいいです。",
+   "start_sec": 94.056,
+   "end_sec": 97.045,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C42-D012-S02",
+   "unit_id": "C42-D012",
+   "section": "D",
+   "speaker": "西田",
+   "text": "村上さんにも、返すときに中を見るように言っておきます。",
+   "start_sec": 97.195,
+   "end_sec": 100.84,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

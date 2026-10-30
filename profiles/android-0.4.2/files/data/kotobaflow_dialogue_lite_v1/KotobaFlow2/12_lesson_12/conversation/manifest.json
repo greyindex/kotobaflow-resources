@@ -1,0 +1,1812 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 230.719,
+ "listening_review": "pending",
+ "source_chapter": 30,
+ "turns": [
+  {
+   "turn_id": "C30-D001",
+   "turn_index": 0,
+   "speaker": "佐藤",
+   "source_text": "おはようございます。みなさん、来ましたね。今日は蒸し暑いですね。",
+   "sentence_ids": [
+    "C30-D001-S01",
+    "C30-D001-S02",
+    "C30-D001-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 5.705,
+   "duration_sec": 5.705
+  },
+  {
+   "turn_id": "C30-D002",
+   "turn_index": 1,
+   "speaker": "ミナ",
+   "source_text": "駅から歩きました。昨夜は涼しかったですが、今は暑いですね。",
+   "sentence_ids": [
+    "C30-D002-S01",
+    "C30-D002-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 6.055,
+   "end_sec": 10.956,
+   "duration_sec": 4.901
+  },
+  {
+   "turn_id": "C30-D003",
+   "turn_index": 2,
+   "speaker": "林（第30章）",
+   "source_text": "水を二本持ってきました。ここは人込みがなくて静かですね。",
+   "sentence_ids": [
+    "C30-D003-S01",
+    "C30-D003-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.306,
+   "end_sec": 15.965,
+   "duration_sec": 4.659
+  },
+  {
+   "turn_id": "C30-D004",
+   "turn_index": 3,
+   "speaker": "アキ",
+   "source_text": "雨が降りそうです。今日は散歩ができますか。",
+   "sentence_ids": [
+    "C30-D004-S01",
+    "C30-D004-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.315,
+   "end_sec": 19.647,
+   "duration_sec": 3.332
+  },
+  {
+   "turn_id": "C30-D005",
+   "turn_index": 4,
+   "speaker": "佐藤",
+   "source_text": "十一時に決めましょう。午後は夕立があるかもしれません。",
+   "sentence_ids": [
+    "C30-D005-S01",
+    "C30-D005-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 19.997,
+   "end_sec": 24.151,
+   "duration_sec": 4.154
+  },
+  {
+   "turn_id": "C30-D006",
+   "turn_index": 5,
+   "speaker": "ミナ",
+   "source_text": "午後の降水確率は四十パーセントでしたね。今朝も同じですか。",
+   "sentence_ids": [
+    "C30-D006-S01",
+    "C30-D006-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 24.501,
+   "end_sec": 30.036,
+   "duration_sec": 5.535
+  },
+  {
+   "turn_id": "C30-D007",
+   "turn_index": 6,
+   "speaker": "佐藤",
+   "source_text": "はい。でも、散歩の時間に降るかどうかは分かりません。",
+   "sentence_ids": [
+    "C30-D007-S01",
+    "C30-D007-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.386,
+   "end_sec": 34.559,
+   "duration_sec": 4.173
+  },
+  {
+   "turn_id": "C30-D008",
+   "turn_index": 7,
+   "speaker": "林（第30章）",
+   "source_text": "念のため傘を持ってきました。アキさんもありますか。",
+   "sentence_ids": [
+    "C30-D008-S01",
+    "C30-D008-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.909,
+   "end_sec": 38.703,
+   "duration_sec": 3.794
+  },
+  {
+   "turn_id": "C30-D009",
+   "turn_index": 8,
+   "speaker": "アキ",
+   "source_text": "はい。見た目は丈夫そうですが、まだ使っていません。",
+   "sentence_ids": [
+    "C30-D009-S01",
+    "C30-D009-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.053,
+   "end_sec": 42.488,
+   "duration_sec": 3.435
+  },
+  {
+   "turn_id": "C30-D010",
+   "turn_index": 9,
+   "speaker": "ミナ",
+   "source_text": "丈夫そうな傘でも、強風のときは壊れるかもしれませんね。",
+   "sentence_ids": [
+    "C30-D010-S01"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 42.838,
+   "end_sec": 46.924,
+   "duration_sec": 4.086
+  },
+  {
+   "turn_id": "C30-D011",
+   "turn_index": 10,
+   "speaker": "佐藤",
+   "source_text": "今は風が弱いですね。午後はたぶん三十度ぐらいでしょう。",
+   "sentence_ids": [
+    "C30-D011-S01",
+    "C30-D011-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.274,
+   "end_sec": 52.1,
+   "duration_sec": 4.826
+  },
+  {
+   "turn_id": "C30-D012",
+   "turn_index": 11,
+   "speaker": "林（第30章）",
+   "source_text": "暖かい日は外でお茶を飲みたいですが、今日は暑すぎます。",
+   "sentence_ids": [
+    "C30-D012-S01"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.45,
+   "end_sec": 57.207,
+   "duration_sec": 4.757
+  },
+  {
+   "turn_id": "C30-D013",
+   "turn_index": 12,
+   "speaker": "アキ",
+   "source_text": "教室で水を買えますか。もう一度飲みたいです。",
+   "sentence_ids": [
+    "C30-D013-S01",
+    "C30-D013-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 57.557,
+   "end_sec": 61.046,
+   "duration_sec": 3.489
+  },
+  {
+   "turn_id": "C30-D014",
+   "turn_index": 13,
+   "speaker": "佐藤",
+   "source_text": "買えません。持ってきた水を飲んで、少し休みましょう。",
+   "sentence_ids": [
+    "C30-D014-S01",
+    "C30-D014-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 61.396,
+   "end_sec": 65.598,
+   "duration_sec": 4.202
+  },
+  {
+   "turn_id": "C30-D015",
+   "turn_index": 14,
+   "speaker": "林（第30章）",
+   "source_text": "アキさんは駅で何度も「水が欲しい」と言って、水をほしがっていました。一本あげました。",
+   "sentence_ids": [
+    "C30-D015-S01",
+    "C30-D015-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 65.948,
+   "end_sec": 71.65,
+   "duration_sec": 5.702
+  },
+  {
+   "turn_id": "C30-D016",
+   "turn_index": 15,
+   "speaker": "アキ",
+   "source_text": "ありがとうございました。今も冷たい水が飲みたいです。",
+   "sentence_ids": [
+    "C30-D016-S01",
+    "C30-D016-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 72.0,
+   "end_sec": 75.741,
+   "duration_sec": 3.741
+  },
+  {
+   "turn_id": "C30-D017",
+   "turn_index": 16,
+   "speaker": "佐藤",
+   "source_text": "急がなくてもいいですよ。教室はここから五分ぐらいです。",
+   "sentence_ids": [
+    "C30-D017-S01",
+    "C30-D017-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 76.091,
+   "end_sec": 80.195,
+   "duration_sec": 4.104
+  },
+  {
+   "turn_id": "C30-D018",
+   "turn_index": 17,
+   "speaker": "ミナ",
+   "source_text": "元気そうに話していますが、体の調子はどうですか。",
+   "sentence_ids": [
+    "C30-D018-S01"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.545,
+   "end_sec": 84.186,
+   "duration_sec": 3.641
+  },
+  {
+   "turn_id": "C30-D019",
+   "turn_index": 18,
+   "speaker": "アキ",
+   "source_text": "少し休みたいですが、頭は痛くありません。無理はしません。",
+   "sentence_ids": [
+    "C30-D019-S01",
+    "C30-D019-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 84.536,
+   "end_sec": 88.847,
+   "duration_sec": 4.311
+  },
+  {
+   "turn_id": "C30-D020",
+   "turn_index": 19,
+   "speaker": "佐藤",
+   "source_text": "疲れたら言ってください。散歩に参加しなくてもいいですよ。",
+   "sentence_ids": [
+    "C30-D020-S01",
+    "C30-D020-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.197,
+   "end_sec": 93.155,
+   "duration_sec": 3.958
+  },
+  {
+   "turn_id": "C30-D021",
+   "turn_index": 20,
+   "speaker": "アキ",
+   "source_text": "日が差していますね。晴れ間を撮りたいです。",
+   "sentence_ids": [
+    "C30-D021-S01",
+    "C30-D021-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.505,
+   "end_sec": 96.671,
+   "duration_sec": 3.166
+  },
+  {
+   "turn_id": "C30-D022",
+   "turn_index": 21,
+   "speaker": "佐藤",
+   "source_text": "いいですよ。でも、ひょっとしたらまた雨かもしれません。",
+   "sentence_ids": [
+    "C30-D022-S01",
+    "C30-D022-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.021,
+   "end_sec": 100.888,
+   "duration_sec": 3.867
+  },
+  {
+   "turn_id": "C30-D023",
+   "turn_index": 22,
+   "speaker": "ミナ",
+   "source_text": "アキさん、楽しそうですね。外で写真を撮るのが好きですか。",
+   "sentence_ids": [
+    "C30-D023-S01",
+    "C30-D023-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 101.238,
+   "end_sec": 105.463,
+   "duration_sec": 4.225
+  },
+  {
+   "turn_id": "C30-D024",
+   "turn_index": 23,
+   "speaker": "アキ",
+   "source_text": "はい。でも、教室の写真も見たいです。",
+   "sentence_ids": [
+    "C30-D024-S01",
+    "C30-D024-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 105.813,
+   "end_sec": 109.543,
+   "duration_sec": 3.73
+  },
+  {
+   "turn_id": "C30-D025",
+   "turn_index": 24,
+   "speaker": "林（第30章）",
+   "source_text": "季節の写真もあります。秋の丘の眺めは非常にきれいですよ。",
+   "sentence_ids": [
+    "C30-D025-S01",
+    "C30-D025-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.893,
+   "end_sec": 114.441,
+   "duration_sec": 4.548
+  },
+  {
+   "turn_id": "C30-D026",
+   "turn_index": 25,
+   "speaker": "アキ",
+   "source_text": "十一時まで見たいです。教室では撮影できますか。",
+   "sentence_ids": [
+    "C30-D026-S01",
+    "C30-D026-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 114.791,
+   "end_sec": 118.495,
+   "duration_sec": 3.704
+  },
+  {
+   "turn_id": "C30-D027",
+   "turn_index": 26,
+   "speaker": "佐藤",
+   "source_text": "まだ知りません。受付で確認しましょう。禁止だったら撮れません。",
+   "sentence_ids": [
+    "C30-D027-S01",
+    "C30-D027-S02",
+    "C30-D027-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 118.845,
+   "end_sec": 123.438,
+   "duration_sec": 4.593
+  },
+  {
+   "turn_id": "C30-D028",
+   "turn_index": 27,
+   "speaker": "ミナ",
+   "source_text": "薄着なので、教室の温度が心配です。寒かったら相談します。",
+   "sentence_ids": [
+    "C30-D028-S01",
+    "C30-D028-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 123.788,
+   "end_sec": 129.199,
+   "duration_sec": 5.411
+  },
+  {
+   "turn_id": "C30-D029",
+   "turn_index": 28,
+   "speaker": "林（第30章）",
+   "source_text": "九時五十分です。ゆっくり歩いても十時には着くでしょう。",
+   "sentence_ids": [
+    "C30-D029-S01",
+    "C30-D029-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 129.549,
+   "end_sec": 133.677,
+   "duration_sec": 4.128
+  },
+  {
+   "turn_id": "C30-D030",
+   "turn_index": 29,
+   "speaker": "アキ",
+   "source_text": "水も飲みました。教室へ行きましょう。",
+   "sentence_ids": [
+    "C30-D030-S01",
+    "C30-D030-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 134.027,
+   "end_sec": 136.527,
+   "duration_sec": 2.5
+  },
+  {
+   "turn_id": "C30-D031",
+   "turn_index": 30,
+   "speaker": "ミナ",
+   "source_text": "道がぬれましたね。走ったら危ないですから、ゆっくり歩きましょう。",
+   "sentence_ids": [
+    "C30-D031-S01",
+    "C30-D031-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 136.877,
+   "end_sec": 141.946,
+   "duration_sec": 5.069
+  },
+  {
+   "turn_id": "C30-D032",
+   "turn_index": 31,
+   "speaker": "林（第30章）",
+   "source_text": "十一時までは予定がありますから、それほど不安ではありません。",
+   "sentence_ids": [
+    "C30-D032-S01"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 142.296,
+   "end_sec": 146.505,
+   "duration_sec": 4.209
+  },
+  {
+   "turn_id": "C30-D033",
+   "turn_index": 32,
+   "speaker": "ミナ",
+   "source_text": "これは何でしょうか。広大な土地ですね。",
+   "sentence_ids": [
+    "C30-D033-S01",
+    "C30-D033-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 147.405,
+   "end_sec": 151.628,
+   "duration_sec": 4.223
+  },
+  {
+   "turn_id": "C30-D034",
+   "turn_index": 33,
+   "speaker": "佐藤",
+   "source_text": "アフリカの写真です。場所で気候は違います。この写真だけでは全部は分かりません。",
+   "sentence_ids": [
+    "C30-D034-S01",
+    "C30-D034-S02",
+    "C30-D034-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 151.978,
+   "end_sec": 157.449,
+   "duration_sec": 5.471
+  },
+  {
+   "turn_id": "C30-D035",
+   "turn_index": 34,
+   "speaker": "アキ",
+   "source_text": "この春の写真は明るいですね。夏の夜の写真には星があります。秋も冬も撮りたいなあ。",
+   "sentence_ids": [
+    "C30-D035-S01",
+    "C30-D035-S02",
+    "C30-D035-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 157.799,
+   "end_sec": 165.651,
+   "duration_sec": 7.852
+  },
+  {
+   "turn_id": "C30-D036",
+   "turn_index": 35,
+   "speaker": "林（第30章）",
+   "source_text": "この丘は好天の日には混むかもしれませんね。次は晴れるかな。",
+   "sentence_ids": [
+    "C30-D036-S01",
+    "C30-D036-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 166.001,
+   "end_sec": 171.198,
+   "duration_sec": 5.197
+  },
+  {
+   "turn_id": "C30-D037",
+   "turn_index": 36,
+   "speaker": "佐藤",
+   "source_text": "晴れたら、写真を撮る絶好の機会ですね。でも、今はまだ決めません。",
+   "sentence_ids": [
+    "C30-D037-S01",
+    "C30-D037-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 171.548,
+   "end_sec": 176.594,
+   "duration_sec": 5.046
+  },
+  {
+   "turn_id": "C30-D038",
+   "turn_index": 37,
+   "speaker": "ミナ",
+   "source_text": "こちらは薄暗い部屋ですね。畳と障子があります。窓の外の板は何でしょうか。",
+   "sentence_ids": [
+    "C30-D038-S01",
+    "C30-D038-S02",
+    "C30-D038-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 176.944,
+   "end_sec": 183.956,
+   "duration_sec": 7.012
+  },
+  {
+   "turn_id": "C30-D039",
+   "turn_index": 38,
+   "speaker": "佐藤",
+   "source_text": "雨戸です。風や雨を防ぎます。古い家の写真ですが、今も使う家があります。",
+   "sentence_ids": [
+    "C30-D039-S01",
+    "C30-D039-S02",
+    "C30-D039-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 184.306,
+   "end_sec": 190.649,
+   "duration_sec": 6.343
+  },
+  {
+   "turn_id": "C30-D040",
+   "turn_index": 39,
+   "speaker": "アキ",
+   "source_text": "街の写真はまるで別の世界のようですね。店が軒を並べています。ネオンも明るいです。",
+   "sentence_ids": [
+    "C30-D040-S01",
+    "C30-D040-S02",
+    "C30-D040-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 190.999,
+   "end_sec": 197.986,
+   "duration_sec": 6.987
+  },
+  {
+   "turn_id": "C30-D041",
+   "turn_index": 40,
+   "speaker": "林（第30章）",
+   "source_text": "こちらは大雨の写真ですね。雨が降り続いています。私も雨の日の空が撮りたいです。",
+   "sentence_ids": [
+    "C30-D041-S01",
+    "C30-D041-S02",
+    "C30-D041-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 198.336,
+   "end_sec": 205.504,
+   "duration_sec": 7.168
+  },
+  {
+   "turn_id": "C30-D043",
+   "turn_index": 41,
+   "speaker": "ミナ",
+   "source_text": "写真では静かな教室でしたが、今は入口で人がガヤガヤ話していますね。音が少ない場所で空を見たいです。",
+   "sentence_ids": [
+    "C30-D043-S01",
+    "C30-D043-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 205.854,
+   "end_sec": 214.436,
+   "duration_sec": 8.582
+  },
+  {
+   "turn_id": "C30-D044",
+   "turn_index": 42,
+   "speaker": "佐藤",
+   "source_text": "窓の近くへ行きましょう。そこから空が見えます。写真の中の好天と、今の天気は別ですね。まだ雲が多いですね。",
+   "sentence_ids": [
+    "C30-D044-S01",
+    "C30-D044-S02",
+    "C30-D044-S03",
+    "C30-D044-S04"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 214.786,
+   "end_sec": 223.872,
+   "duration_sec": 9.086
+  },
+  {
+   "turn_id": "C30-D042",
+   "turn_index": 43,
+   "speaker": "佐藤",
+   "source_text": "間もなく十一時です。まず外の様子を見ましょう。散歩はそれから相談しましょう。",
+   "sentence_ids": [
+    "C30-D042-S01",
+    "C30-D042-S02",
+    "C30-D042-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 224.222,
+   "end_sec": 230.713,
+   "duration_sec": 6.491
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C30-D001-S01",
+   "unit_id": "C30-D001",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "おはようございます。",
+   "start_sec": 0.0,
+   "end_sec": 1.303,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D001-S02",
+   "unit_id": "C30-D001",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "みなさん、来ましたね。",
+   "start_sec": 1.453,
+   "end_sec": 3.346,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D001-S03",
+   "unit_id": "C30-D001",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "今日は蒸し暑いですね。",
+   "start_sec": 3.496,
+   "end_sec": 5.705,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D002-S01",
+   "unit_id": "C30-D002",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "駅から歩きました。",
+   "start_sec": 6.055,
+   "end_sec": 7.672,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D002-S02",
+   "unit_id": "C30-D002",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "昨夜は涼しかったですが、今は暑いですね。",
+   "start_sec": 7.822,
+   "end_sec": 10.956,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D003-S01",
+   "unit_id": "C30-D003",
+   "section": "D",
+   "speaker": "林",
+   "text": "水を二本持ってきました。",
+   "start_sec": 11.306,
+   "end_sec": 13.157,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D003-S02",
+   "unit_id": "C30-D003",
+   "section": "D",
+   "speaker": "林",
+   "text": "ここは人込みがなくて静かですね。",
+   "start_sec": 13.307,
+   "end_sec": 15.965,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D004-S01",
+   "unit_id": "C30-D004",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "雨が降りそうです。",
+   "start_sec": 16.315,
+   "end_sec": 17.727,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D004-S02",
+   "unit_id": "C30-D004",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "今日は散歩ができますか。",
+   "start_sec": 17.877,
+   "end_sec": 19.647,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D005-S01",
+   "unit_id": "C30-D005",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "十一時に決めましょう。",
+   "start_sec": 19.997,
+   "end_sec": 21.837,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D005-S02",
+   "unit_id": "C30-D005",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "午後は夕立があるかもしれません。",
+   "start_sec": 21.987,
+   "end_sec": 24.151,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D006-S01",
+   "unit_id": "C30-D006",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "午後の降水確率は四十パーセントでしたね。",
+   "start_sec": 24.501,
+   "end_sec": 28.266,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D006-S02",
+   "unit_id": "C30-D006",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "今朝も同じですか。",
+   "start_sec": 28.416,
+   "end_sec": 30.036,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D007-S01",
+   "unit_id": "C30-D007",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "はい。",
+   "start_sec": 30.386,
+   "end_sec": 31.232,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D007-S02",
+   "unit_id": "C30-D007",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "でも、散歩の時間に降るかどうかは分かりません。",
+   "start_sec": 31.382,
+   "end_sec": 34.559,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D008-S01",
+   "unit_id": "C30-D008",
+   "section": "D",
+   "speaker": "林",
+   "text": "念のため傘を持ってきました。",
+   "start_sec": 34.909,
+   "end_sec": 37.078,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D008-S02",
+   "unit_id": "C30-D008",
+   "section": "D",
+   "speaker": "林",
+   "text": "アキさんもありますか。",
+   "start_sec": 37.228,
+   "end_sec": 38.703,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D009-S01",
+   "unit_id": "C30-D009",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "はい。",
+   "start_sec": 39.053,
+   "end_sec": 39.721,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D009-S02",
+   "unit_id": "C30-D009",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "見た目は丈夫そうですが、まだ使っていません。",
+   "start_sec": 39.871,
+   "end_sec": 42.488,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D010-S01",
+   "unit_id": "C30-D010",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "丈夫そうな傘でも、強風のときは壊れるかもしれませんね。",
+   "start_sec": 42.838,
+   "end_sec": 46.924,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D011-S01",
+   "unit_id": "C30-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "今は風が弱いですね。",
+   "start_sec": 47.274,
+   "end_sec": 49.393,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D011-S02",
+   "unit_id": "C30-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "午後はたぶん三十度ぐらいでしょう。",
+   "start_sec": 49.543,
+   "end_sec": 52.1,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D012-S01",
+   "unit_id": "C30-D012",
+   "section": "D",
+   "speaker": "林",
+   "text": "暖かい日は外でお茶を飲みたいですが、今日は暑すぎます。",
+   "start_sec": 52.45,
+   "end_sec": 57.207,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D013-S01",
+   "unit_id": "C30-D013",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "教室で水を買えますか。",
+   "start_sec": 57.557,
+   "end_sec": 59.449,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D013-S02",
+   "unit_id": "C30-D013",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "もう一度飲みたいです。",
+   "start_sec": 59.599,
+   "end_sec": 61.046,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D014-S01",
+   "unit_id": "C30-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "買えません。",
+   "start_sec": 61.396,
+   "end_sec": 62.514,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D014-S02",
+   "unit_id": "C30-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "持ってきた水を飲んで、少し休みましょう。",
+   "start_sec": 62.664,
+   "end_sec": 65.598,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D015-S01",
+   "unit_id": "C30-D015",
+   "section": "D",
+   "speaker": "林",
+   "text": "アキさんは駅で何度も「水が欲しい」と言って、水をほしがっていました。",
+   "start_sec": 65.948,
+   "end_sec": 70.366,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D015-S02",
+   "unit_id": "C30-D015",
+   "section": "D",
+   "speaker": "林",
+   "text": "一本あげました。",
+   "start_sec": 70.516,
+   "end_sec": 71.65,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D016-S01",
+   "unit_id": "C30-D016",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "ありがとうございました。",
+   "start_sec": 72.0,
+   "end_sec": 73.446,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D016-S02",
+   "unit_id": "C30-D016",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "今も冷たい水が飲みたいです。",
+   "start_sec": 73.596,
+   "end_sec": 75.741,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D017-S01",
+   "unit_id": "C30-D017",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "急がなくてもいいですよ。",
+   "start_sec": 76.091,
+   "end_sec": 77.704,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D017-S02",
+   "unit_id": "C30-D017",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "教室はここから五分ぐらいです。",
+   "start_sec": 77.854,
+   "end_sec": 80.195,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D018-S01",
+   "unit_id": "C30-D018",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "元気そうに話していますが、体の調子はどうですか。",
+   "start_sec": 80.545,
+   "end_sec": 84.186,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D019-S01",
+   "unit_id": "C30-D019",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "少し休みたいですが、頭は痛くありません。",
+   "start_sec": 84.536,
+   "end_sec": 87.74,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D019-S02",
+   "unit_id": "C30-D019",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "無理はしません。",
+   "start_sec": 87.89,
+   "end_sec": 88.847,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D020-S01",
+   "unit_id": "C30-D020",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "疲れたら言ってください。",
+   "start_sec": 89.197,
+   "end_sec": 90.839,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D020-S02",
+   "unit_id": "C30-D020",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "散歩に参加しなくてもいいですよ。",
+   "start_sec": 90.989,
+   "end_sec": 93.155,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D021-S01",
+   "unit_id": "C30-D021",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "日が差していますね。",
+   "start_sec": 93.505,
+   "end_sec": 95.123,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D021-S02",
+   "unit_id": "C30-D021",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "晴れ間を撮りたいです。",
+   "start_sec": 95.273,
+   "end_sec": 96.671,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D022-S01",
+   "unit_id": "C30-D022",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "いいですよ。",
+   "start_sec": 97.021,
+   "end_sec": 98.097,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D022-S02",
+   "unit_id": "C30-D022",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "でも、ひょっとしたらまた雨かもしれません。",
+   "start_sec": 98.247,
+   "end_sec": 100.888,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D023-S01",
+   "unit_id": "C30-D023",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "アキさん、楽しそうですね。",
+   "start_sec": 101.238,
+   "end_sec": 103.181,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D023-S02",
+   "unit_id": "C30-D023",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "外で写真を撮るのが好きですか。",
+   "start_sec": 103.331,
+   "end_sec": 105.463,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D024-S01",
+   "unit_id": "C30-D024",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "はい。",
+   "start_sec": 105.813,
+   "end_sec": 106.558,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D024-S02",
+   "unit_id": "C30-D024",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "でも、教室の写真も見たいです。",
+   "start_sec": 106.708,
+   "end_sec": 109.543,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D025-S01",
+   "unit_id": "C30-D025",
+   "section": "D",
+   "speaker": "林",
+   "text": "季節の写真もあります。",
+   "start_sec": 109.893,
+   "end_sec": 111.525,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D025-S02",
+   "unit_id": "C30-D025",
+   "section": "D",
+   "speaker": "林",
+   "text": "秋の丘の眺めは非常にきれいですよ。",
+   "start_sec": 111.675,
+   "end_sec": 114.441,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D026-S01",
+   "unit_id": "C30-D026",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "十一時まで見たいです。",
+   "start_sec": 114.791,
+   "end_sec": 116.552,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D026-S02",
+   "unit_id": "C30-D026",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "教室では撮影できますか。",
+   "start_sec": 116.702,
+   "end_sec": 118.495,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D027-S01",
+   "unit_id": "C30-D027",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "まだ知りません。",
+   "start_sec": 118.845,
+   "end_sec": 119.966,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D027-S02",
+   "unit_id": "C30-D027",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "受付で確認しましょう。",
+   "start_sec": 120.116,
+   "end_sec": 121.681,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D027-S03",
+   "unit_id": "C30-D027",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "禁止だったら撮れません。",
+   "start_sec": 121.831,
+   "end_sec": 123.438,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D028-S01",
+   "unit_id": "C30-D028",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "薄着なので、教室の温度が心配です。",
+   "start_sec": 123.788,
+   "end_sec": 127.062,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D028-S02",
+   "unit_id": "C30-D028",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "寒かったら相談します。",
+   "start_sec": 127.212,
+   "end_sec": 129.199,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D029-S01",
+   "unit_id": "C30-D029",
+   "section": "D",
+   "speaker": "林",
+   "text": "九時五十分です。",
+   "start_sec": 129.549,
+   "end_sec": 131.091,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D029-S02",
+   "unit_id": "C30-D029",
+   "section": "D",
+   "speaker": "林",
+   "text": "ゆっくり歩いても十時には着くでしょう。",
+   "start_sec": 131.241,
+   "end_sec": 133.677,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D030-S01",
+   "unit_id": "C30-D030",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "水も飲みました。",
+   "start_sec": 134.027,
+   "end_sec": 135.092,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D030-S02",
+   "unit_id": "C30-D030",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "教室へ行きましょう。",
+   "start_sec": 135.242,
+   "end_sec": 136.527,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D031-S01",
+   "unit_id": "C30-D031",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "道がぬれましたね。",
+   "start_sec": 136.877,
+   "end_sec": 138.907,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D031-S02",
+   "unit_id": "C30-D031",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "走ったら危ないですから、ゆっくり歩きましょう。",
+   "start_sec": 139.057,
+   "end_sec": 141.946,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D032-S01",
+   "unit_id": "C30-D032",
+   "section": "D",
+   "speaker": "林",
+   "text": "十一時までは予定がありますから、それほど不安ではありません。",
+   "start_sec": 142.296,
+   "end_sec": 146.505,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D033-S01",
+   "unit_id": "C30-D033",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "これは何でしょうか。",
+   "start_sec": 147.405,
+   "end_sec": 149.563,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D033-S02",
+   "unit_id": "C30-D033",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "広大な土地ですね。",
+   "start_sec": 149.713,
+   "end_sec": 151.628,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D034-S01",
+   "unit_id": "C30-D034",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "アフリカの写真です。",
+   "start_sec": 151.978,
+   "end_sec": 153.506,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D034-S02",
+   "unit_id": "C30-D034",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "場所で気候は違います。",
+   "start_sec": 153.656,
+   "end_sec": 155.153,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D034-S03",
+   "unit_id": "C30-D034",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "この写真だけでは全部は分かりません。",
+   "start_sec": 155.303,
+   "end_sec": 157.449,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D035-S01",
+   "unit_id": "C30-D035",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "この春の写真は明るいですね。",
+   "start_sec": 157.799,
+   "end_sec": 160.203,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D035-S02",
+   "unit_id": "C30-D035",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "夏の夜の写真には星があります。",
+   "start_sec": 160.353,
+   "end_sec": 163.52,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D035-S03",
+   "unit_id": "C30-D035",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "秋も冬も撮りたいなあ。",
+   "start_sec": 163.67,
+   "end_sec": 165.651,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D036-S01",
+   "unit_id": "C30-D036",
+   "section": "D",
+   "speaker": "林",
+   "text": "この丘は好天の日には混むかもしれませんね。",
+   "start_sec": 166.001,
+   "end_sec": 169.478,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D036-S02",
+   "unit_id": "C30-D036",
+   "section": "D",
+   "speaker": "林",
+   "text": "次は晴れるかな。",
+   "start_sec": 169.628,
+   "end_sec": 171.198,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D037-S01",
+   "unit_id": "C30-D037",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "晴れたら、写真を撮る絶好の機会ですね。",
+   "start_sec": 171.548,
+   "end_sec": 174.642,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D037-S02",
+   "unit_id": "C30-D037",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "でも、今はまだ決めません。",
+   "start_sec": 174.792,
+   "end_sec": 176.594,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D038-S01",
+   "unit_id": "C30-D038",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "こちらは薄暗い部屋ですね。",
+   "start_sec": 176.944,
+   "end_sec": 179.389,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D038-S02",
+   "unit_id": "C30-D038",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "畳と障子があります。",
+   "start_sec": 179.539,
+   "end_sec": 181.465,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D038-S03",
+   "unit_id": "C30-D038",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "窓の外の板は何でしょうか。",
+   "start_sec": 181.615,
+   "end_sec": 183.956,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D039-S01",
+   "unit_id": "C30-D039",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "雨戸です。",
+   "start_sec": 184.306,
+   "end_sec": 185.18,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D039-S02",
+   "unit_id": "C30-D039",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "風や雨を防ぎます。",
+   "start_sec": 185.33,
+   "end_sec": 187.248,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D039-S03",
+   "unit_id": "C30-D039",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "古い家の写真ですが、今も使う家があります。",
+   "start_sec": 187.398,
+   "end_sec": 190.649,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D040-S01",
+   "unit_id": "C30-D040",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "街の写真はまるで別の世界のようですね。",
+   "start_sec": 190.999,
+   "end_sec": 194.309,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D040-S02",
+   "unit_id": "C30-D040",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "店が軒を並べています。",
+   "start_sec": 194.459,
+   "end_sec": 196.406,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D040-S03",
+   "unit_id": "C30-D040",
+   "section": "D",
+   "speaker": "アキ",
+   "text": "ネオンも明るいです。",
+   "start_sec": 196.556,
+   "end_sec": 197.986,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D041-S01",
+   "unit_id": "C30-D041",
+   "section": "D",
+   "speaker": "林",
+   "text": "こちらは大雨の写真ですね。",
+   "start_sec": 198.336,
+   "end_sec": 200.902,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D041-S02",
+   "unit_id": "C30-D041",
+   "section": "D",
+   "speaker": "林",
+   "text": "雨が降り続いています。",
+   "start_sec": 201.052,
+   "end_sec": 202.807,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D041-S03",
+   "unit_id": "C30-D041",
+   "section": "D",
+   "speaker": "林",
+   "text": "私も雨の日の空が撮りたいです。",
+   "start_sec": 202.957,
+   "end_sec": 205.504,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D043-S01",
+   "unit_id": "C30-D043",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "写真では静かな教室でしたが、今は入口で人がガヤガヤ話していますね。",
+   "start_sec": 205.854,
+   "end_sec": 211.622,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D043-S02",
+   "unit_id": "C30-D043",
+   "section": "D",
+   "speaker": "ミナ",
+   "text": "音が少ない場所で空を見たいです。",
+   "start_sec": 211.772,
+   "end_sec": 214.436,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D044-S01",
+   "unit_id": "C30-D044",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "窓の近くへ行きましょう。",
+   "start_sec": 214.786,
+   "end_sec": 216.443,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D044-S02",
+   "unit_id": "C30-D044",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "そこから空が見えます。",
+   "start_sec": 216.593,
+   "end_sec": 218.155,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D044-S03",
+   "unit_id": "C30-D044",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "写真の中の好天と、今の天気は別ですね。",
+   "start_sec": 218.305,
+   "end_sec": 221.923,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D044-S04",
+   "unit_id": "C30-D044",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "まだ雲が多いですね。",
+   "start_sec": 222.073,
+   "end_sec": 223.872,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D042-S01",
+   "unit_id": "C30-D042",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "間もなく十一時です。",
+   "start_sec": 224.222,
+   "end_sec": 226.179,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D042-S02",
+   "unit_id": "C30-D042",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "まず外の様子を見ましょう。",
+   "start_sec": 226.329,
+   "end_sec": 228.646,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C30-D042-S03",
+   "unit_id": "C30-D042",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "散歩はそれから相談しましょう。",
+   "start_sec": 228.796,
+   "end_sec": 230.713,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

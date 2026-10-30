@@ -1,0 +1,834 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 130.188,
+ "listening_review": "pending",
+ "source_chapter": 39,
+ "turns": [
+  {
+   "turn_id": "C39-D001",
+   "turn_index": 0,
+   "speaker": "西田",
+   "source_text": "ロペスさん、こんばんは。五時半から準備しているんですね。",
+   "sentence_ids": [
+    "C39-D001-S01",
+    "C39-D001-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 4.157,
+   "duration_sec": 4.157
+  },
+  {
+   "turn_id": "C39-D002",
+   "turn_index": 1,
+   "speaker": "アナ",
+   "source_text": "はい。入力を「USB」にしましたが、パソコンの写真が見えません。どうすればいいですか。",
+   "sentence_ids": [
+    "C39-D002-S01",
+    "C39-D002-S02",
+    "C39-D002-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 4.507,
+   "end_sec": 10.631,
+   "duration_sec": 6.124
+  },
+  {
+   "turn_id": "C39-D003",
+   "turn_index": 2,
+   "speaker": "西田",
+   "source_text": "パソコンなら「HDMI」です。入力ボタンを一回押せばいいですよ。",
+   "sentence_ids": [
+    "C39-D003-S01",
+    "C39-D003-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 10.981,
+   "end_sec": 15.939,
+   "duration_sec": 4.958
+  },
+  {
+   "turn_id": "C39-D004",
+   "turn_index": 3,
+   "speaker": "アナ",
+   "source_text": "見えました。この自然パークの写真を紹介します。動物を近くで見られるスポットなんです。",
+   "sentence_ids": [
+    "C39-D004-S01",
+    "C39-D004-S02",
+    "C39-D004-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.289,
+   "end_sec": 22.273,
+   "duration_sec": 5.984
+  },
+  {
+   "turn_id": "C39-D005",
+   "turn_index": 4,
+   "speaker": "西田",
+   "source_text": "この豚の毛は白いんですね。隣の山羊は前足を石に乗せていますね。",
+   "sentence_ids": [
+    "C39-D005-S01",
+    "C39-D005-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 22.623,
+   "end_sec": 28.749,
+   "duration_sec": 6.126
+  },
+  {
+   "turn_id": "C39-D006",
+   "turn_index": 5,
+   "speaker": "アナ",
+   "source_text": "ええ。羊の「メーメー」という鳴き声も録音しました。ペットの犬がワンワン鳴いたら、羊も鳴いたんです。",
+   "sentence_ids": [
+    "C39-D006-S01",
+    "C39-D006-S02",
+    "C39-D006-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "start_sec": 29.099,
+   "end_sec": 36.145,
+   "duration_sec": 7.046
+  },
+  {
+   "turn_id": "C39-D007",
+   "turn_index": 6,
+   "speaker": "西田",
+   "source_text": "動画もあるんですね。どうせ紹介するなら、音も聞いてもらうといいですね。",
+   "sentence_ids": [
+    "C39-D007-S01",
+    "C39-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.495,
+   "end_sec": 41.931,
+   "duration_sec": 5.436
+  },
+  {
+   "turn_id": "C39-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "はい。パンダや象は別の動物園で撮りました。狐の写真もありますが、多すぎますね。いっそ今日はこのパークだけにしましょうか。",
+   "sentence_ids": [
+    "C39-D008-S01",
+    "C39-D008-S02",
+    "C39-D008-S03",
+    "C39-D008-S04"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 42.281,
+   "end_sec": 52.67,
+   "duration_sec": 10.389
+  },
+  {
+   "turn_id": "C39-D009",
+   "turn_index": 8,
+   "speaker": "西田",
+   "source_text": "そうですね。この鳥小屋には鶏と雛がいますね。鳥の写真を使うというのなら、小鳥が飛ぶ動画も見せてください。",
+   "sentence_ids": [
+    "C39-D009-S01",
+    "C39-D009-S02",
+    "C39-D009-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 53.02,
+   "end_sec": 62.739,
+   "duration_sec": 9.719
+  },
+  {
+   "turn_id": "C39-D010",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "ありますよ。この動画では、鶴が羽ばたいています。蝶を撮ろうとしたら、蜘蛛の巣も写りました。熱帯魚は建物の中で撮りました。望遠鏡で雉を見た人もいました。亀は二匹いて、亀の甲の形を比べました。",
+   "sentence_ids": [
+    "C39-D010-S01",
+    "C39-D010-S02",
+    "C39-D010-S03",
+    "C39-D010-S04",
+    "C39-D010-S05",
+    "C39-D010-S06"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.089,
+   "end_sec": 80.579,
+   "duration_sec": 17.49
+  },
+  {
+   "turn_id": "C39-D011",
+   "turn_index": 10,
+   "speaker": "西田",
+   "source_text": "見物人が多いですね。生き物が驚くと逃げてしまいます。一度逃げたら、同じ写真は撮れませんね。くねくねした道で立ち止まると、後ろの人が通れません。",
+   "sentence_ids": [
+    "C39-D011-S01",
+    "C39-D011-S02",
+    "C39-D011-S03",
+    "C39-D011-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.929,
+   "end_sec": 92.004,
+   "duration_sec": 11.075
+  },
+  {
+   "turn_id": "C39-D012",
+   "turn_index": 11,
+   "speaker": "アナ",
+   "source_text": "ええ。七時から七時半までは話し合いで、接続をやめます。途中で止まったら、どうしたらいいですか。",
+   "sentence_ids": [
+    "C39-D012-S01",
+    "C39-D012-S02",
+    "C39-D012-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 92.354,
+   "end_sec": 99.607,
+   "duration_sec": 7.253
+  },
+  {
+   "turn_id": "C39-D013",
+   "turn_index": 12,
+   "speaker": "西田",
+   "source_text": "接続がないと十五分で止まります。話し合いの後で電源を入れればいいですよ。三十秒ほどすると使えます。",
+   "sentence_ids": [
+    "C39-D013-S01",
+    "C39-D013-S02",
+    "C39-D013-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 99.957,
+   "end_sec": 107.83,
+   "duration_sec": 7.873
+  },
+  {
+   "turn_id": "C39-D014",
+   "turn_index": 13,
+   "speaker": "アナ",
+   "source_text": "それなら設定は変えません。来月の準備は別の人ですが、ケーブルがなければ借りられますか。",
+   "sentence_ids": [
+    "C39-D014-S01",
+    "C39-D014-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 108.18,
+   "end_sec": 114.901,
+   "duration_sec": 6.721
+  },
+  {
+   "turn_id": "C39-D015",
+   "turn_index": 14,
+   "speaker": "西田",
+   "source_text": "予備は一本です。予約時に確かめてください。皆さんに写真を楽しんでもらえるといいですね。",
+   "sentence_ids": [
+    "C39-D015-S01",
+    "C39-D015-S02",
+    "C39-D015-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 115.251,
+   "end_sec": 121.923,
+   "duration_sec": 6.672
+  },
+  {
+   "turn_id": "C39-D016",
+   "turn_index": 15,
+   "speaker": "アナ",
+   "source_text": "ありがとうございます。今日は八時半に終わります。借りた物はありませんから、電源を切って九時までに帰ります。",
+   "sentence_ids": [
+    "C39-D016-S01",
+    "C39-D016-S02",
+    "C39-D016-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 122.273,
+   "end_sec": 130.181,
+   "duration_sec": 7.908
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C39-D001-S01",
+   "unit_id": "C39-D001",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ロペスさん、こんばんは。",
+   "start_sec": 0.0,
+   "end_sec": 1.921,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D001-S02",
+   "unit_id": "C39-D001",
+   "section": "D",
+   "speaker": "西田",
+   "text": "五時半から準備しているんですね。",
+   "start_sec": 2.071,
+   "end_sec": 4.157,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D002-S01",
+   "unit_id": "C39-D002",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "はい。",
+   "start_sec": 4.507,
+   "end_sec": 5.164,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D002-S02",
+   "unit_id": "C39-D002",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "入力を「USB」にしましたが、パソコンの写真が見えません。",
+   "start_sec": 5.314,
+   "end_sec": 9.191,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D002-S03",
+   "unit_id": "C39-D002",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "どうすればいいですか。",
+   "start_sec": 9.341,
+   "end_sec": 10.631,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D003-S01",
+   "unit_id": "C39-D003",
+   "section": "D",
+   "speaker": "西田",
+   "text": "パソコンなら「HDMI」です。",
+   "start_sec": 10.981,
+   "end_sec": 13.546,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D003-S02",
+   "unit_id": "C39-D003",
+   "section": "D",
+   "speaker": "西田",
+   "text": "入力ボタンを一回押せばいいですよ。",
+   "start_sec": 13.696,
+   "end_sec": 15.939,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D004-S01",
+   "unit_id": "C39-D004",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "見えました。",
+   "start_sec": 16.289,
+   "end_sec": 17.19,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D004-S02",
+   "unit_id": "C39-D004",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "この自然パークの写真を紹介します。",
+   "start_sec": 17.34,
+   "end_sec": 19.745,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D004-S03",
+   "unit_id": "C39-D004",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "動物を近くで見られるスポットなんです。",
+   "start_sec": 19.895,
+   "end_sec": 22.273,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D005-S01",
+   "unit_id": "C39-D005",
+   "section": "D",
+   "speaker": "西田",
+   "text": "この豚の毛は白いんですね。",
+   "start_sec": 22.623,
+   "end_sec": 25.178,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D005-S02",
+   "unit_id": "C39-D005",
+   "section": "D",
+   "speaker": "西田",
+   "text": "隣の山羊は前足を石に乗せていますね。",
+   "start_sec": 25.328,
+   "end_sec": 28.749,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D006-S01",
+   "unit_id": "C39-D006",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ええ。",
+   "start_sec": 29.099,
+   "end_sec": 29.612,
+   "review_flags": [
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D006-S02",
+   "unit_id": "C39-D006",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "羊の「メーメー」という鳴き声も録音しました。",
+   "start_sec": 29.762,
+   "end_sec": 32.716,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D006-S03",
+   "unit_id": "C39-D006",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ペットの犬がワンワン鳴いたら、羊も鳴いたんです。",
+   "start_sec": 32.866,
+   "end_sec": 36.145,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D007-S01",
+   "unit_id": "C39-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "動画もあるんですね。",
+   "start_sec": 36.495,
+   "end_sec": 38.257,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D007-S02",
+   "unit_id": "C39-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "どうせ紹介するなら、音も聞いてもらうといいですね。",
+   "start_sec": 38.407,
+   "end_sec": 41.931,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D008-S01",
+   "unit_id": "C39-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "はい。",
+   "start_sec": 42.281,
+   "end_sec": 43.064,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D008-S02",
+   "unit_id": "C39-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "パンダや象は別の動物園で撮りました。",
+   "start_sec": 43.214,
+   "end_sec": 46.649,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D008-S03",
+   "unit_id": "C39-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "狐の写真もありますが、多すぎますね。",
+   "start_sec": 46.799,
+   "end_sec": 49.873,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D008-S04",
+   "unit_id": "C39-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "いっそ今日はこのパークだけにしましょうか。",
+   "start_sec": 50.023,
+   "end_sec": 52.67,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D009-S01",
+   "unit_id": "C39-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "そうですね。",
+   "start_sec": 53.02,
+   "end_sec": 54.257,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D009-S02",
+   "unit_id": "C39-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "この鳥小屋には鶏と雛がいますね。",
+   "start_sec": 54.407,
+   "end_sec": 58.089,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D009-S03",
+   "unit_id": "C39-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "鳥の写真を使うというのなら、小鳥が飛ぶ動画も見せてください。",
+   "start_sec": 58.239,
+   "end_sec": 62.739,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D010-S01",
+   "unit_id": "C39-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ありますよ。",
+   "start_sec": 63.089,
+   "end_sec": 64.171,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D010-S02",
+   "unit_id": "C39-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "この動画では、鶴が羽ばたいています。",
+   "start_sec": 64.321,
+   "end_sec": 67.516,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D010-S03",
+   "unit_id": "C39-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "蝶を撮ろうとしたら、蜘蛛の巣も写りました。",
+   "start_sec": 67.666,
+   "end_sec": 70.973,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D010-S04",
+   "unit_id": "C39-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "熱帯魚は建物の中で撮りました。",
+   "start_sec": 71.123,
+   "end_sec": 73.651,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D010-S05",
+   "unit_id": "C39-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "望遠鏡で雉を見た人もいました。",
+   "start_sec": 73.801,
+   "end_sec": 76.475,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D010-S06",
+   "unit_id": "C39-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "亀は二匹いて、亀の甲の形を比べました。",
+   "start_sec": 76.625,
+   "end_sec": 80.579,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D011-S01",
+   "unit_id": "C39-D011",
+   "section": "D",
+   "speaker": "西田",
+   "text": "見物人が多いですね。",
+   "start_sec": 80.929,
+   "end_sec": 82.562,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D011-S02",
+   "unit_id": "C39-D011",
+   "section": "D",
+   "speaker": "西田",
+   "text": "生き物が驚くと逃げてしまいます。",
+   "start_sec": 82.712,
+   "end_sec": 84.944,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D011-S03",
+   "unit_id": "C39-D011",
+   "section": "D",
+   "speaker": "西田",
+   "text": "一度逃げたら、同じ写真は撮れませんね。",
+   "start_sec": 85.094,
+   "end_sec": 88.231,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D011-S04",
+   "unit_id": "C39-D011",
+   "section": "D",
+   "speaker": "西田",
+   "text": "くねくねした道で立ち止まると、後ろの人が通れません。",
+   "start_sec": 88.381,
+   "end_sec": 92.004,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D012-S01",
+   "unit_id": "C39-D012",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ええ。",
+   "start_sec": 92.354,
+   "end_sec": 92.833,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D012-S02",
+   "unit_id": "C39-D012",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "七時から七時半までは話し合いで、接続をやめます。",
+   "start_sec": 92.983,
+   "end_sec": 96.892,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D012-S03",
+   "unit_id": "C39-D012",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "途中で止まったら、どうしたらいいですか。",
+   "start_sec": 97.042,
+   "end_sec": 99.607,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D013-S01",
+   "unit_id": "C39-D013",
+   "section": "D",
+   "speaker": "西田",
+   "text": "接続がないと十五分で止まります。",
+   "start_sec": 99.957,
+   "end_sec": 102.797,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D013-S02",
+   "unit_id": "C39-D013",
+   "section": "D",
+   "speaker": "西田",
+   "text": "話し合いの後で電源を入れればいいですよ。",
+   "start_sec": 102.947,
+   "end_sec": 105.747,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D013-S03",
+   "unit_id": "C39-D013",
+   "section": "D",
+   "speaker": "西田",
+   "text": "三十秒ほどすると使えます。",
+   "start_sec": 105.897,
+   "end_sec": 107.83,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D014-S01",
+   "unit_id": "C39-D014",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "それなら設定は変えません。",
+   "start_sec": 108.18,
+   "end_sec": 110.268,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D014-S02",
+   "unit_id": "C39-D014",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "来月の準備は別の人ですが、ケーブルがなければ借りられますか。",
+   "start_sec": 110.418,
+   "end_sec": 114.901,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D015-S01",
+   "unit_id": "C39-D015",
+   "section": "D",
+   "speaker": "西田",
+   "text": "予備は一本です。",
+   "start_sec": 115.251,
+   "end_sec": 116.635,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D015-S02",
+   "unit_id": "C39-D015",
+   "section": "D",
+   "speaker": "西田",
+   "text": "予約時に確かめてください。",
+   "start_sec": 116.785,
+   "end_sec": 118.862,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D015-S03",
+   "unit_id": "C39-D015",
+   "section": "D",
+   "speaker": "西田",
+   "text": "皆さんに写真を楽しんでもらえるといいですね。",
+   "start_sec": 119.012,
+   "end_sec": 121.923,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D016-S01",
+   "unit_id": "C39-D016",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ありがとうございます。",
+   "start_sec": 122.273,
+   "end_sec": 123.586,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D016-S02",
+   "unit_id": "C39-D016",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "今日は八時半に終わります。",
+   "start_sec": 123.736,
+   "end_sec": 125.92,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C39-D016-S03",
+   "unit_id": "C39-D016",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "借りた物はありませんから、電源を切って九時までに帰ります。",
+   "start_sec": 126.07,
+   "end_sec": 130.181,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

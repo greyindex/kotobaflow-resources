@@ -1,0 +1,1483 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_17",
+  "entries": [
+    {
+      "textbook_uid": "cfv-9bb965505706bfa5",
+      "index": 2285,
+      "word": "休憩",
+      "reading_hiragana": "きゅうけい",
+      "context_meaning_zh": "休息一会儿",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "休息一会儿",
+          "meaning_ja": "仕事や勉強などをいったん止めて、少し休むこと。",
+          "example_ja": "昼ご飯のあと、十分間休憩しました。",
+          "example_zh": "午饭后休息了十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "休憩する",
+          "zh": "休息"
+        },
+        {
+          "ja": "休憩時間",
+          "zh": "休息时间"
+        }
+      ],
+      "usage_note_zh": "可作名词，也可接「する」表示休息；「休憩を取る」也很常见。这里指活动中短暂暂停，不特指睡觉。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "休憩十分钟表示休息活动的持续时长；休憩本身为名词并可作自动サ变词。",
+        "dictionary_sequences": [
+          1227720
+        ],
+        "identity": {
+          "word": "休憩",
+          "reading_hiragana": "きゅうけい",
+          "meaning": "休息一会儿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-07cd820a9a1cc5c6",
+      "index": 2286,
+      "word": "無理",
+      "reading_hiragana": "むり",
+      "context_meaning_zh": "勉强、难以实现",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "勉强、难以实现",
+          "meaning_ja": "力や時間が足りず、実行するのが難しいこと。",
+          "example_ja": "一日で全部読むのは無理です。",
+          "example_zh": "一天之内读完全部内容是不可能的。"
+        },
+        {
+          "meaning_zh": "勉强做；硬撑",
+          "meaning_ja": "体や状況に負担をかけて、がんばりすぎること。",
+          "example_ja": "疲れた日は無理をしないでください。",
+          "example_zh": "累的时候请不要勉强自己。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "無理をする",
+          "zh": "勉强；硬撑"
+        },
+        {
+          "ja": "無理な計画",
+          "zh": "不切实际的计划"
+        }
+      ],
+      "usage_note_zh": "「無理です」可表示做不到或不可能；「無理をする」则指勉强自己。否定建议常说「無理をしないほうがいい」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "“不要勉强自己”用无理する表示过度勉强；话题助词不改变该自サ动词的自他性。",
+        "dictionary_sequences": [
+          1530970
+        ],
+        "identity": {
+          "word": "無理",
+          "reading_hiragana": "むり",
+          "meaning": "勉强、难以实现"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7cd23a5c76c754cc",
+      "index": 2287,
+      "word": "天気",
+      "reading_hiragana": "てんき",
+      "context_meaning_zh": "天气",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "天气",
+          "meaning_ja": "ある場所で、そのときの空や気温などの様子。",
+          "example_ja": "天気がよければ、海まで歩きます。",
+          "example_zh": "天气好的话，就走到海边。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "天気がいい",
+          "zh": "天气好"
+        },
+        {
+          "ja": "天気予報",
+          "zh": "天气预报"
+        }
+      ],
+      "usage_note_zh": "指某地某时的气象状况；「天気がいい／悪い」描述天气。谈人的心情通常用「気分」，不要把这两个词混为一谈。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "担心的是天气状况，句中作主语；词典相关义为weather。",
+        "dictionary_sequences": [
+          1438690
+        ],
+        "identity": {
+          "word": "天気",
+          "reading_hiragana": "てんき",
+          "meaning": "天气"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a3e6fbe37b8bc9c0",
+      "index": 2288,
+      "word": "心配",
+      "reading_hiragana": "しんぱい",
+      "context_meaning_zh": "担心",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "担心",
+          "meaning_ja": "悪いことが起きないかと気にして、落ち着かないこと。",
+          "example_ja": "試験の結果を心配しています。",
+          "example_zh": "我在担心考试结果。"
+        },
+        {
+          "meaning_zh": "挂念；操心",
+          "meaning_ja": "相手のことを気にかけて、無事かどうか思うこと。",
+          "example_ja": "母は一人で帰る私を心配しました。",
+          "example_zh": "母亲挂念独自回家的我。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "心配する",
+          "zh": "担心"
+        },
+        {
+          "ja": "心配をかける",
+          "zh": "让人担心"
+        }
+      ],
+      "usage_note_zh": "可说「Nを心配する」或「Nが心配だ」；「心配をかける」是让别人担心。句中「天気が心配」表示担心天气状况会带来影响。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "担心天气状况，词典兼名词、ナ形容词及サ变他动；「天気が心配」是状态表达，另有「天気を心配する」。",
+        "dictionary_sequences": [
+          1360930
+        ],
+        "identity": {
+          "word": "心配",
+          "reading_hiragana": "しんぱい",
+          "meaning": "担心"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c79353c207a7e4bb",
+      "index": 2289,
+      "word": "比べる",
+      "reading_hiragana": "くらべる",
+      "context_meaning_zh": "比较",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "比较",
+          "meaning_ja": "二つ以上のものを見て、同じ点や違う点を調べる。",
+          "example_ja": "二つの店の値段を比べてから決めます。",
+          "example_zh": "比较两家店的价格后再决定。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "AとBを比べる",
+          "zh": "比较A和B"
+        },
+        {
+          "ja": "比べてみる",
+          "zh": "试着比较"
+        }
+      ],
+      "usage_note_zh": "比较对象常用「と」标出，比较的内容可用「を」表示；「Aに比べて」则表示“与A相比”。本词是他动词，通常带比较对象。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "命令式比べましょう要求比较教室方案，省略的比较基准可从上下文补足；词典为一段他动词。",
+        "dictionary_sequences": [
+          1483540
+        ],
+        "identity": {
+          "word": "比べる",
+          "reading_hiragana": "くらべる",
+          "meaning": "比较"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8548bb576cba8341",
+      "index": 2290,
+      "word": "予算",
+      "reading_hiragana": "よさん",
+      "context_meaning_zh": "预算",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "预算",
+          "meaning_ja": "使える金額を前もって決めた計画。",
+          "example_ja": "旅行の予算は一人二万円です。",
+          "example_zh": "旅行预算是每人两万日元。"
+        },
+        {
+          "meaning_zh": "预算案；财政预算",
+          "meaning_ja": "組織や国が、一定の期間に使うお金をまとめた計画。",
+          "example_ja": "市は来年度の予算を発表しました。",
+          "example_zh": "市政府公布了下一年度的预算。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予算を立てる",
+          "zh": "制定预算"
+        },
+        {
+          "ja": "予算内で",
+          "zh": "在预算范围内"
+        }
+      ],
+      "usage_note_zh": "日常计划中指预先设定的可用金额；「予算から払う」表示从这笔预算中支出。政府、组织语境中也指一定期间的整体财政计划。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "预算是每人费用额度的名词；词典列vs但本例均以名词短语出现，する项自他未能由语境裁定。",
+        "dictionary_sequences": [
+          1543000
+        ],
+        "identity": {
+          "word": "予算",
+          "reading_hiragana": "よさん",
+          "meaning": "预算"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f653a554d34a3881",
+      "index": 2291,
+      "word": "料金",
+      "reading_hiragana": "りょうきん",
+      "context_meaning_zh": "收费",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收费",
+          "meaning_ja": "サービスや施設を利用するときに払うお金。",
+          "example_ja": "このプールは子どもの料金が安いです。",
+          "example_zh": "这个游泳池的儿童票价便宜。"
+        },
+        {
+          "meaning_zh": "费用；资费",
+          "meaning_ja": "電気や電話などを使った分として払うお金。",
+          "example_ja": "今月の電話料金を確認しました。",
+          "example_zh": "我确认了本月的电话费。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "入場料金",
+          "zh": "入场费"
+        },
+        {
+          "ja": "料金を払う",
+          "zh": "支付费用"
+        }
+      ],
+      "usage_note_zh": "多指服务、设施或使用项目收取的钱；「料金は六人で六百円」表示总收费，不是每人六百日元。商品本身的标价通常说「値段」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "六人使用教室的收费总额，取场地使用费用义。",
+        "dictionary_sequences": [
+          1554280
+        ],
+        "identity": {
+          "word": "料金",
+          "reading_hiragana": "りょうきん",
+          "meaning": "收费"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f774551c624b9623",
+      "index": 2292,
+      "word": "計画",
+      "reading_hiragana": "けいかく",
+      "context_meaning_zh": "计划",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "计划",
+          "meaning_ja": "これからすることや、その順番を前もって考えたもの。",
+          "example_ja": "週末の計画を家族と相談しました。",
+          "example_zh": "我和家人商量了周末的计划。"
+        },
+        {
+          "meaning_zh": "规划；筹划",
+          "meaning_ja": "目的を決め、実現する方法を考えること。",
+          "example_ja": "新しい図書館を建てる計画が進んでいます。",
+          "example_zh": "新建图书馆的规划正在推进。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "計画を立てる",
+          "zh": "制定计划"
+        },
+        {
+          "ja": "計画を考える",
+          "zh": "考虑计划"
+        }
+      ],
+      "usage_note_zh": "「計画を考える／立てる」指筹划；「計画がある」表示已有安排。可作サ变动词「計画する」，但日常常见表达是「計画を立てる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "同词条在考虑练习会计划的语境中作名词；词典也支持计划する的他动サ变用法。",
+        "dictionary_sequences": [
+          1252090
+        ],
+        "identity": {
+          "word": "計画",
+          "reading_hiragana": "けいかく",
+          "meaning": "计划"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fcb4913c81168ee5",
+      "index": 2293,
+      "word": "目標",
+      "reading_hiragana": "もくひょう",
+      "context_meaning_zh": "目标",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "目标",
+          "meaning_ja": "目指して、できるようになりたいこと。",
+          "example_ja": "今月の目標は本を二冊読むことです。",
+          "example_zh": "这个月的目标是读两本书。"
+        },
+        {
+          "meaning_zh": "指标；达成标准",
+          "meaning_ja": "結果を判断するために決めた数や基準。",
+          "example_ja": "店の売上目標は一日十万円です。",
+          "example_zh": "店里的销售指标是每天十万日元。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "目標を決める",
+          "zh": "确定目标"
+        },
+        {
+          "ja": "目標を達成する",
+          "zh": "达成目标"
+        }
+      ],
+      "usage_note_zh": "可指个人想实现的事情，也可指团队或业务设定的量化指标。「目標は三分」是希望达到的讲话时长，不表示已经讲了三分钟。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "讲述时间的预定目标，指希望达到的时间基准。",
+        "dictionary_sequences": [
+          1535650
+        ],
+        "identity": {
+          "word": "目標",
+          "reading_hiragana": "もくひょう",
+          "meaning": "目标"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0a30d34b83aad1e5",
+      "index": 2294,
+      "word": "記録",
+      "reading_hiragana": "きろく",
+      "context_meaning_zh": "记录",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "记录",
+          "meaning_ja": "あとで確かめられるように、事実や数字を書いたもの。",
+          "example_ja": "旅行中の写真と感想を記録に残しました。",
+          "example_zh": "我把旅行中的照片和感想留作记录。"
+        },
+        {
+          "meaning_zh": "纪录；最好成绩",
+          "meaning_ja": "競技などで、これまでで最もよい結果。",
+          "example_ja": "彼女は大会の記録を更新しました。",
+          "example_zh": "她刷新了大会纪录。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "記録を読む",
+          "zh": "阅读记录"
+        },
+        {
+          "ja": "記録を残す",
+          "zh": "留下记录"
+        },
+        {
+          "ja": "記録を更新する",
+          "zh": "刷新纪录"
+        }
+      ],
+      "usage_note_zh": "可指写下来的资料，也可在比赛语境中指成绩纪录；「記録を読む」是阅读已有记录，「記録する」是把内容记下来。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「先月の記録を読む」为记录文档名词义；词典同时支持他动サ变的记录动作，故保留兼类。",
+        "dictionary_sequences": [
+          1223440
+        ],
+        "identity": {
+          "word": "記録",
+          "reading_hiragana": "きろく",
+          "meaning": "记录"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7264d16da8a54121",
+      "index": 2295,
+      "word": "試す",
+      "reading_hiragana": "ためす",
+      "context_meaning_zh": "尝试",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "尝试",
+          "meaning_ja": "実際にやって、うまくいくかどうか確かめる。",
+          "example_ja": "新しい練習方法を一週間試します。",
+          "example_zh": "我会试用一周新的练习方法。"
+        },
+        {
+          "meaning_zh": "测试；检验",
+          "meaning_ja": "人や物の力、働きなどを実際に調べる。",
+          "example_ja": "この問題で自分の力を試しました。",
+          "example_zh": "我用这道题检验了自己的能力。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "方法を試す",
+          "zh": "尝试方法"
+        },
+        {
+          "ja": "力を試す",
+          "zh": "检验能力"
+        }
+      ],
+      "usage_note_zh": "他动词，通常用「を」标出尝试或检验的对象；「試してみる」强调亲自做做看。课文的「試すつもり」只是打算尝试，并非已经做过。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "这是试す的五段他动词辞书形；本课つもり表达打算，不能据此声称动作已经发生。",
+        "dictionary_sequences": [
+          1312260
+        ],
+        "identity": {
+          "word": "試す",
+          "reading_hiragana": "ためす",
+          "meaning": "尝试"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4b007a428274d42a",
+      "index": 2296,
+      "word": "締切",
+      "reading_hiragana": "しめきり",
+      "context_meaning_zh": "截止期限",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "截止期限",
+          "meaning_ja": "申し込みや提出などを受け付ける最後の日時。",
+          "example_ja": "申込書の締切は金曜日です。",
+          "example_zh": "申请表的截止日期是星期五。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "締切を守る",
+          "zh": "遵守截止期限"
+        },
+        {
+          "ja": "締切に間に合う",
+          "zh": "赶上截止期限"
+        }
+      ],
+      "usage_note_zh": "表示受理或提交的最后界限；可写作「締め切り」。常说「締切はN日」「締切に間に合う」，与表示可持续时长的「期間」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "预约最晚可办到五月二十三日下午五点，属于期限名词义。",
+        "dictionary_sequences": [
+          1594590
+        ],
+        "identity": {
+          "word": "締切",
+          "reading_hiragana": "しめきり",
+          "meaning": "截止期限"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e60fdec8922ac160",
+      "index": 2297,
+      "word": "体調",
+      "reading_hiragana": "たいちょう",
+      "context_meaning_zh": "身体状况",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "身体状况",
+          "meaning_ja": "体の調子や、健康についての今の様子。",
+          "example_ja": "昨日より体調がよくなりました。",
+          "example_zh": "身体状况比昨天好些了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "体調がいい",
+          "zh": "身体状况好"
+        },
+        {
+          "ja": "体調を崩す",
+          "zh": "身体不适；身体状况变差"
+        }
+      ],
+      "usage_note_zh": "常用「体調がいい／悪い」描述状态，也说「体調を崩す」。指身体整体状况，不等同于具体疾病诊断；「体調も記録する」表示也把身体情况记下来。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1409610为身体健康状况；记录体调是记录整体身体状态，不等于具体疾病诊断。",
+        "dictionary_sequences": [
+          1409610
+        ],
+        "identity": {
+          "word": "体調",
+          "reading_hiragana": "たいちょう",
+          "meaning": "身体状况"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e4c9a7dd838726d2",
+      "index": 2298,
+      "word": "可能性",
+      "reading_hiragana": "かのうせい",
+      "context_meaning_zh": "可能性",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "可能性",
+          "meaning_ja": "あることが起きたり、実現したりする見込み。",
+          "example_ja": "道が混んで、遅れる可能性があります。",
+          "example_zh": "道路拥堵，有可能会迟到。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "可能性がある",
+          "zh": "有可能"
+        },
+        {
+          "ja": "可能性が高い",
+          "zh": "可能性高"
+        }
+      ],
+      "usage_note_zh": "前面常接普通形，如「雨が降る可能性」；否定形也可接，表示某事不发生的可能性。课文的「予約できない可能性」是可能约不到，并非已经预约失败。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "予約できない可能性表示不能预约这一结果的可能性，是抽象名词。",
+        "dictionary_sequences": [
+          1191080
+        ],
+        "identity": {
+          "word": "可能性",
+          "reading_hiragana": "かのうせい",
+          "meaning": "可能性"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6b76a4b5286fa504",
+      "index": 2299,
+      "word": "所要時間",
+      "reading_hiragana": "しょようじかん",
+      "context_meaning_zh": "所需时间",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "所需时间",
+          "meaning_ja": "あることを終えるまでに必要な時間。",
+          "example_ja": "駅から会場までの所要時間は二十分です。",
+          "example_zh": "从车站到会场所需时间是二十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "所要時間は～分",
+          "zh": "所需时间为……分钟"
+        },
+        {
+          "ja": "所要時間を調べる",
+          "zh": "查询所需时间"
+        }
+      ],
+      "usage_note_zh": "常用于路线、手续或工作安排，说明完成所需事项的时长；「片道の所要時間」只计算单程，不含往返。它表示时长，不是出发时刻。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "片道限定单程的所需时长；词典释义 time required 与课文例句直接吻合。",
+        "dictionary_sequences": [
+          1798500
+        ],
+        "identity": {
+          "word": "所要時間",
+          "reading_hiragana": "しょようじかん",
+          "meaning": "所需时间"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-88b47120d2d724bf",
+      "index": 2300,
+      "word": "条件",
+      "reading_hiragana": "じょうけん",
+      "context_meaning_zh": "条件",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "条件",
+          "meaning_ja": "何かを行ったり決めたりするときに、先に必要となる事柄。",
+          "example_ja": "参加する条件を先に読んでください。",
+          "example_zh": "请先阅读参加条件。"
+        },
+        {
+          "meaning_zh": "环境条件；状况",
+          "meaning_ja": "物事に影響する周りの状態や決まり。",
+          "example_ja": "この植物は日当たりのよい条件で育ちます。",
+          "example_zh": "这种植物在日照良好的条件下生长。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "条件を確認する",
+          "zh": "确认条件"
+        },
+        {
+          "ja": "条件を満たす",
+          "zh": "满足条件"
+        }
+      ],
+      "usage_note_zh": "可指参加、申请等必须符合的要求，也可指影响结果的环境或状况。「二つの案の条件」是方案各自的要求与限制。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "两个方案各自的条件是需核实的要求或限制，符合词典condition/requirement义。",
+        "dictionary_sequences": [
+          1356510
+        ],
+        "identity": {
+          "word": "条件",
+          "reading_hiragana": "じょうけん",
+          "meaning": "条件"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-130779a5ccd8d5d1",
+      "index": 2301,
+      "word": "期間",
+      "reading_hiragana": "きかん",
+      "context_meaning_zh": "期间",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "期间",
+          "meaning_ja": "ある時点から別の時点まで続く時間。",
+          "example_ja": "受付期間は六月一日から七日までです。",
+          "example_zh": "受理期间是六月一日至七日。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "期間が長い",
+          "zh": "期间长"
+        },
+        {
+          "ja": "期間中",
+          "zh": "期间内"
+        }
+      ],
+      "usage_note_zh": "表示有起点和终点的一段时间；「一か月の期間」说明持续范围。「所要時間」是完成某事所需时长，「期限」则是最迟完成的界限。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "记录持续一个月，期间表示记录所覆盖的时段；在句中作名词，与词典period义吻合。",
+        "dictionary_sequences": [
+          1220550
+        ],
+        "identity": {
+          "word": "期間",
+          "reading_hiragana": "きかん",
+          "meaning": "期间"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-659441639071074c",
+      "index": 2302,
+      "word": "工夫",
+      "reading_hiragana": "くふう",
+      "context_meaning_zh": "想办法、改进办法",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "想办法、改进办法",
+          "meaning_ja": "目的に合うように、よい方法を考えて試すこと。",
+          "example_ja": "野菜を食べやすくする工夫をしました。",
+          "example_zh": "我想办法让蔬菜更容易入口。"
+        },
+        {
+          "meaning_zh": "巧思；改进办法",
+          "meaning_ja": "使いやすくしたり、よい結果を出したりするための方法。",
+          "example_ja": "この箱には、ふたを開けやすくする工夫があります。",
+          "example_zh": "这个盒子有让盒盖更容易打开的设计。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "工夫する",
+          "zh": "想办法；下功夫改进"
+        },
+        {
+          "ja": "工夫を重ねる",
+          "zh": "反复改进"
+        }
+      ],
+      "usage_note_zh": "可说「Nを工夫する」或「Nに工夫をする」，表示为改善效果而动脑筋；「メモの工夫」指笔记方式上的改进，不是单指笔记本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "工夫作笔记方式的改进这一名词，亦可构成工夫する；此处「メモの工夫」为名词修饰。",
+        "dictionary_sequences": [
+          1278220
+        ],
+        "identity": {
+          "word": "工夫",
+          "reading_hiragana": "くふう",
+          "meaning": "想办法、改进办法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1b450994ed54519f",
+      "index": 2303,
+      "word": "期限",
+      "reading_hiragana": "きげん",
+      "context_meaning_zh": "期限",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "期限",
+          "meaning_ja": "何かを終えたり出したりしなければならない最後の時。",
+          "example_ja": "図書館の本は返却期限までに返します。",
+          "example_zh": "图书要在归还期限前还到图书馆。"
+        },
+        {
+          "meaning_zh": "有效期；期限",
+          "meaning_ja": "物や資格などが使える最後の日や時。",
+          "example_ja": "この会員証の期限は今月末です。",
+          "example_zh": "这张会员卡的有效期到本月底。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "期限を守る",
+          "zh": "遵守期限"
+        },
+        {
+          "ja": "期限が切れる",
+          "zh": "期限到期"
+        }
+      ],
+      "usage_note_zh": "常指必须完成动作的最迟时间，也可指证件或物品的有效期限；「送る期限」是最晚发送的日期。「期間」强调一段时间，而「期限」强调终点。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "寄送截止日为五月二十四日，取JMdict 1220560 time limit/deadline义；词项表示时间节点。",
+        "dictionary_sequences": [
+          1220560
+        ],
+        "identity": {
+          "word": "期限",
+          "reading_hiragana": "きげん",
+          "meaning": "期限"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d64d424d286a4e19",
+      "index": 2304,
+      "word": "担当",
+      "reading_hiragana": "たんとう",
+      "context_meaning_zh": "负责",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "负责",
+          "meaning_ja": "仕事や役目の一部を受け持つこと。",
+          "example_ja": "私は会場の準備を担当します。",
+          "example_zh": "我负责会场准备。"
+        },
+        {
+          "meaning_zh": "负责人；负责的工作",
+          "meaning_ja": "受け持つ人、またはその人が受け持つ仕事。",
+          "example_ja": "受付の担当は山田さんです。",
+          "example_zh": "接待负责人是山田。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "仕事を担当する",
+          "zh": "负责工作"
+        },
+        {
+          "ja": "担当者",
+          "zh": "负责人"
+        },
+        {
+          "ja": "担当を決める",
+          "zh": "确定负责人／分工"
+        }
+      ],
+      "usage_note_zh": "可用「Nを担当する」表示负责某项工作，也可用「Nの担当」指负责人或分工；「予約の担当は田中さん」说的是负责人，不表示预约已完成。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "预约担当可指负责预约的人或岗位；词典另列担当する，表示承担具体职责。",
+        "dictionary_sequences": [
+          1418160
+        ],
+        "identity": {
+          "word": "担当",
+          "reading_hiragana": "たんとう",
+          "meaning": "负责"
+        }
+      }
+    }
+  ]
+}

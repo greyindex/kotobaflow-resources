@@ -1,0 +1,37 @@
+{
+  "taxonomy_name": "freq_band",
+  "taxonomy_kind": "enum",
+  "version": "1.0.0",
+  "unknown_code": "unknown",
+  "description": "词频分层枚举。",
+  "items": [
+    {
+      "code": "high",
+      "label_zh": "高频",
+      "description": "高频、常见、优先复习的词项。",
+      "aliases": ["高频", "常见", "常用", "high"],
+      "status": "active"
+    },
+    {
+      "code": "mid",
+      "label_zh": "中频",
+      "description": "中等频率、在常规阅读中可见的词项。",
+      "aliases": ["中频", "中等频率", "一般频率", "mid", "medium"],
+      "status": "active"
+    },
+    {
+      "code": "low",
+      "label_zh": "低频",
+      "description": "低频、偏书面、偏专业或较少出现的词项。",
+      "aliases": ["低频", "罕见", "较少见", "low"],
+      "status": "active"
+    },
+    {
+      "code": "unknown",
+      "label_zh": "未知",
+      "description": "无法稳定判定词频时的保底项。",
+      "aliases": ["未知", "不明", "unknown"],
+      "status": "active"
+    }
+  ]
+}

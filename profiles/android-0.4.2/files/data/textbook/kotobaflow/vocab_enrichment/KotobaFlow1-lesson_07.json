@@ -1,0 +1,3943 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow1",
+  "lesson_id": "lesson_07",
+  "entries": [
+    {
+      "textbook_uid": "cfv-3a80e395ebc17d3f",
+      "index": 185,
+      "word": "行く",
+      "reading_hiragana": "いく",
+      "context_meaning_zh": "去往某地",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "去往某地",
+          "meaning_ja": "話し手が今いる場所から、目的地へ移動する。",
+          "example_ja": "日曜日に友だちと公園へ行きます。",
+          "example_zh": "星期天和朋友去公园。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "学校へ行く",
+          "zh": "去学校"
+        }
+      ],
+      "usage_note_zh": "目的地常用「へ」或「に」；「行く」表示离开当前位置前往别处。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "步行前往大学是移动义，大学以方向助词标记目的地；词典标五段自动词。",
+        "dictionary_sequences": [
+          1578850
+        ],
+        "identity": {
+          "word": "行く",
+          "reading_hiragana": "いく",
+          "meaning": "去往某地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-577d1c341771d0bf",
+      "index": 186,
+      "word": "来る",
+      "reading_hiragana": "くる",
+      "context_meaning_zh": "来到说话者相关地点",
+      "pos_ja": "動詞・助動詞",
+      "pos_zh": "动词・助动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "来到说话者相关地点",
+          "meaning_ja": "話し手のいる場所や、話題の中心となる場所へ移動する。",
+          "example_ja": "午後、兄がうちに来ます。",
+          "example_zh": "下午哥哥会来我家。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "うちに来る",
+          "zh": "来我家"
+        }
+      ],
+      "usage_note_zh": "「来る」以说话者或谈话中心为参照点；目的地用「に／へ」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb",
+          "auxiliary"
+        ],
+        "subtypes": [],
+        "conjugation": "kuru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "乘公交车来符合くる的空间移动自动词义；辞书也列其作为补助动词的扩展用法。",
+        "dictionary_sequences": [
+          1547720
+        ],
+        "identity": {
+          "word": "来る",
+          "reading_hiragana": "くる",
+          "meaning": "来到说话者相关地点"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-af444a748fb9a8b6",
+      "index": 187,
+      "word": "帰る",
+      "reading_hiragana": "かえる",
+      "context_meaning_zh": "返回家或所属地点",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "返回家或所属地点",
+          "meaning_ja": "外にいる人が、自分の家や元いた場所へ戻る。",
+          "example_ja": "買い物のあと、まっすぐ家へ帰りました。",
+          "example_zh": "买完东西后径直回了家。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "家に帰る",
+          "zh": "回家"
+        }
+      ],
+      "usage_note_zh": "常用「家に／へ帰る」；强调回到所属地点，不等同于一般的「行く」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "五段自動詞，回到家这一所属地点；家へ帰る中的へ标移动方向，不表示普通前往。",
+        "dictionary_sequences": [
+          1221270
+        ],
+        "identity": {
+          "word": "帰る",
+          "reading_hiragana": "かえる",
+          "meaning": "返回家或所属地点"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-43fb2f11a6f25c4e",
+      "index": 188,
+      "word": "食べる",
+      "reading_hiragana": "たべる",
+      "context_meaning_zh": "吃",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吃",
+          "meaning_ja": "食べ物を口に入れて、かんで飲み込む。",
+          "example_ja": "昼休みにサンドイッチを食べました。",
+          "example_zh": "午休时吃了三明治。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "果物を食べる",
+          "zh": "吃水果"
+        }
+      ],
+      "usage_note_zh": "食物作宾语时用「を」；「時間を食う」表示耗费时间，是另一固定说法，不是「食べる」的常用义。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "食べる为一段他动词，早餐以「を」标记为食用对象；日常陈述不带特殊语体。",
+        "dictionary_sequences": [
+          1358280
+        ],
+        "identity": {
+          "word": "食べる",
+          "reading_hiragana": "たべる",
+          "meaning": "吃"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b1c72fe2e402754c",
+      "index": 189,
+      "word": "飲む",
+      "reading_hiragana": "のむ",
+      "context_meaning_zh": "喝",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "喝",
+          "meaning_ja": "水やお茶などの液体を口から体に入れる。",
+          "example_ja": "運動のあとで、水を飲みます。",
+          "example_zh": "运动后喝水。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "薬を飲む",
+          "zh": "服药"
+        }
+      ],
+      "usage_note_zh": "液体通常用「を飲む」；日语也说「薬を飲む」，不说中文式的“吃药”。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "お茶作宾语明确取饮用义，饮む是五段他动词；句末ます不构成词项敬语。",
+        "dictionary_sequences": [
+          1169870
+        ],
+        "identity": {
+          "word": "飲む",
+          "reading_hiragana": "のむ",
+          "meaning": "喝"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ddbd195037d274c9",
+      "index": 190,
+      "word": "読む",
+      "reading_hiragana": "よむ",
+      "context_meaning_zh": "阅读",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "阅读",
+          "meaning_ja": "文字で書かれたものを目で追い、内容を知る。",
+          "example_ja": "電車の中で小説を読みます。",
+          "example_zh": "在电车里读小说。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新聞を読む",
+          "zh": "看报纸"
+        }
+      ],
+      "usage_note_zh": "读书、报纸等文字内容用「を読む」；读音是「よむ」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "読む为五段他动词，新聞を是其直接宾语；ます是谓语礼貌形式，不属于词汇的敬语标签。",
+        "dictionary_sequences": [
+          1456360
+        ],
+        "identity": {
+          "word": "読む",
+          "reading_hiragana": "よむ",
+          "meaning": "阅读"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2e0f7c31e3552ca3",
+      "index": 191,
+      "word": "見る",
+      "reading_hiragana": "みる",
+      "context_meaning_zh": "看",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "看",
+          "meaning_ja": "目で対象をとらえて、形や様子を知る。",
+          "example_ja": "窓から遠くの山を見ました。",
+          "example_zh": "我从窗户看了远处的山。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "映画を見る",
+          "zh": "看电影"
+        }
+      ],
+      "usage_note_zh": "主动观看用「を見る」；「見える」表示自然映入眼中，二者用法不同。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一段他动词表示视觉观看或查看；地图为直接对象，符合本条的“看”义。",
+        "dictionary_sequences": [
+          1259290
+        ],
+        "identity": {
+          "word": "見る",
+          "reading_hiragana": "みる",
+          "meaning": "看"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-34f99594bb64e4a5",
+      "index": 192,
+      "word": "買う",
+      "reading_hiragana": "かう",
+      "context_meaning_zh": "购买",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "购买",
+          "meaning_ja": "お金を払って、品物やサービスを自分のものにする。",
+          "example_ja": "駅で飲み物を買いました。",
+          "example_zh": "我在车站买了饮料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "切符を買う",
+          "zh": "买车票"
+        }
+      ],
+      "usage_note_zh": "购买对象用「を」；「買う」的て形为「買って」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「水も買う」表示购买水，買う为五段他动词；物品可由を标记，也可在对话中省略。",
+        "dictionary_sequences": [
+          1473740
+        ],
+        "identity": {
+          "word": "買う",
+          "reading_hiragana": "かう",
+          "meaning": "购买"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0a8e3028ea89d54f",
+      "index": 193,
+      "word": "起きる",
+      "reading_hiragana": "おきる",
+      "context_meaning_zh": "起床",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "起床",
+          "meaning_ja": "眠っていた人が目を覚まし、床から起きる。",
+          "example_ja": "平日は六時に起きます。",
+          "example_zh": "工作日六点起床。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "早く起きる",
+          "zh": "早起"
+        }
+      ],
+      "usage_note_zh": "起床时间用「に」；「起きる」还可表示倒下的物体立起或事件发生，需看语境。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "一段自动词，此例指早晨起床；时间点用に标记。",
+        "dictionary_sequences": [
+          1223640
+        ],
+        "identity": {
+          "word": "起きる",
+          "reading_hiragana": "おきる",
+          "meaning": "起床"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-decef93d651aa2eb",
+      "index": 194,
+      "word": "寝る",
+      "reading_hiragana": "ねる",
+      "context_meaning_zh": "睡觉",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "睡觉",
+          "meaning_ja": "眠りに入る。また、横になって休む。",
+          "example_ja": "昨夜は十一時に寝ました。",
+          "example_zh": "昨晚十一点睡了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "早く寝る",
+          "zh": "早睡"
+        }
+      ],
+      "usage_note_zh": "表示入睡或上床休息；时间点常用「に」。与「眠る」相比，「寝る」更常指上床睡觉。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "十一点上床睡觉，时间点以に标记；词典一段自动词，敬体ます只属于句子。",
+        "dictionary_sequences": [
+          1360010
+        ],
+        "identity": {
+          "word": "寝る",
+          "reading_hiragana": "ねる",
+          "meaning": "睡觉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-972ca0309949ef71",
+      "index": 195,
+      "word": "働く",
+      "reading_hiragana": "はたらく",
+      "context_meaning_zh": "工作",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "工作",
+          "meaning_ja": "仕事をして、給料を得たり役目を果たしたりする。",
+          "example_ja": "父は病院で働いています。",
+          "example_zh": "父亲在医院工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会社で働く",
+          "zh": "在公司工作"
+        }
+      ],
+      "usage_note_zh": "工作地点用「で」；也可说机器「働く」，表示运转或发挥作用。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "在公司从九点工作至五点半，工作地点用で，働く为五段自动词；单位场景不使词本身专属商务语体。",
+        "dictionary_sequences": [
+          1451150
+        ],
+        "identity": {
+          "word": "働く",
+          "reading_hiragana": "はたらく",
+          "meaning": "工作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9010bf141ad2abd3",
+      "index": 196,
+      "word": "勉強する",
+      "reading_hiragana": "べんきょうする",
+      "context_meaning_zh": "学习",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "学习",
+          "meaning_ja": "本や先生などから知識を身につけるために、読む・書く・練習する。",
+          "example_ja": "図書館で日本語を勉強しました。",
+          "example_zh": "我在图书馆学习了日语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本語を勉強する",
+          "zh": "学习日语"
+        }
+      ],
+      "usage_note_zh": "「勉強」加「する」构成サ变动词；学习科目用「を」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「勉強する」可不带学习对象而表示学习，也能说「数学を勉強する」带出内容；此例的地点短语不排除该动词的及物用法。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "勉強する",
+          "reading_hiragana": "べんきょうする",
+          "meaning": "学习"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0bb860ecdca2a9d3",
+      "index": 197,
+      "word": "電車",
+      "reading_hiragana": "でんしゃ",
+      "context_meaning_zh": "电车或城市轨道列车",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "电车或城市轨道列车",
+          "meaning_ja": "電気で動き、線路の上を走る列車。",
+          "example_ja": "この電車は次の駅に止まります。",
+          "example_zh": "这趟电车会在下一站停。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電車に乗る",
+          "zh": "乘电车"
+        }
+      ],
+      "usage_note_zh": "指城市或城际铁路列车；乘坐时用「電車に乗る」，交通方式也可说「電車で行く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "七点半乘坐的是电车，词典train/electric train名词义吻合。",
+        "dictionary_sequences": [
+          1443530
+        ],
+        "identity": {
+          "word": "電車",
+          "reading_hiragana": "でんしゃ",
+          "meaning": "电车或城市轨道列车"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6869a193d178f77a",
+      "index": 198,
+      "word": "バス",
+      "reading_hiragana": "ばす",
+      "context_meaning_zh": "公交车",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "公交车",
+          "meaning_ja": "多くの人を乗せ、決まった道を走る大型の車。",
+          "example_ja": "バスで空港まで行きました。",
+          "example_zh": "我坐公交车去了机场。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "バスに乗る",
+          "zh": "乘公交车"
+        }
+      ],
+      "usage_note_zh": "公共汽车简称「バス」；乘坐用「に乗る」，交通方式用「で」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "乘车来明确对应公交车名词；同音的bath、bass及鱼名均与义项、例句不合。",
+        "dictionary_sequences": [
+          1098390
+        ],
+        "identity": {
+          "word": "バス",
+          "reading_hiragana": "ばす",
+          "meaning": "公交车"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6426b4e2ca8d6907",
+      "index": 199,
+      "word": "自転車",
+      "reading_hiragana": "じてんしゃ",
+      "context_meaning_zh": "自行车",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "自行车",
+          "meaning_ja": "ペダルを足で回して進む、二つの車輪がある乗り物。",
+          "example_ja": "駅まで自転車で通っています。",
+          "example_zh": "我骑自行车去车站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "自転車に乗る",
+          "zh": "骑自行车"
+        }
+      ],
+      "usage_note_zh": "骑乘用「自転車に乗る」；作为交通方式用「自転車で」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "以自行车为交通方式去大学，词典支持自行车名词义。",
+        "dictionary_sequences": [
+          1318290
+        ],
+        "identity": {
+          "word": "自転車",
+          "reading_hiragana": "じてんしゃ",
+          "meaning": "自行车"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-58d47c6bff84f329",
+      "index": 200,
+      "word": "家",
+      "reading_hiragana": "いえ",
+      "context_meaning_zh": "家或住宅",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "家或住宅",
+          "meaning_ja": "人が住む建物。また、その人が生活する場所。",
+          "example_ja": "新しい家に小さな庭があります。",
+          "example_zh": "新家有一个小院子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "家を建てる",
+          "zh": "盖房子"
+        }
+      ],
+      "usage_note_zh": "读作「いえ」时常指住宅建筑；表示回家常说「家へ帰る」。另见同课「家（うち）」，读音不同，侧重点也不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「家で朝ご飯」中指住宅地点，不是家族或家系义。",
+        "dictionary_sequences": [
+          1191730
+        ],
+        "identity": {
+          "word": "家",
+          "reading_hiragana": "いえ",
+          "meaning": "家或住宅"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-40bb263bcd3959f7",
+      "index": 201,
+      "word": "一緒",
+      "reading_hiragana": "いっしょ",
+      "context_meaning_zh": "一起",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一起",
+          "meaning_ja": "二人以上が同じ場所にいたり、同じことをしたりする様子。",
+          "example_ja": "休みの日は妹と一緒に料理します。",
+          "example_zh": "休息日我和妹妹一起做饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一緒に行く",
+          "zh": "一起去"
+        }
+      ],
+      "usage_note_zh": "常以「一緒に＋动词」表示共同进行；「一緒です」表示在一起或相同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「一緒」在本义下作名词，例句通过「と一緒に／一緒の」表达共同或相同关系；词典adj-no不等于ナ形容词。",
+        "dictionary_sequences": [
+          1163400
+        ],
+        "identity": {
+          "word": "一緒",
+          "reading_hiragana": "いっしょ",
+          "meaning": "一起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4a27507bdd226635",
+      "index": 202,
+      "word": "歩く",
+      "reading_hiragana": "あるく",
+      "context_meaning_zh": "步行",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "步行",
+          "meaning_ja": "足を交互に動かして、ある場所まで進む。",
+          "example_ja": "この道を十分くらい歩きます。",
+          "example_zh": "沿这条路走大约十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅まで歩く",
+          "zh": "走到车站"
+        }
+      ],
+      "usage_note_zh": "经过的道路可用「を」，目的地用「まで」；这里的「を」标示移动路线。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "歩く为五段自动词，家到大学表示移动起点与终点；步行方式不用を标直接宾语。",
+        "dictionary_sequences": [
+          1514320
+        ],
+        "identity": {
+          "word": "歩く",
+          "reading_hiragana": "あるく",
+          "meaning": "步行"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-01cbe17e926a1bd6",
+      "index": 203,
+      "word": "朝ご飯",
+      "reading_hiragana": "あさごはん",
+      "context_meaning_zh": "早餐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "早餐",
+          "meaning_ja": "朝に食べる食事。",
+          "example_ja": "朝ご飯のあとで、コーヒーを飲みます。",
+          "example_zh": "早饭后喝咖啡。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "朝ご飯を食べる",
+          "zh": "吃早饭"
+        }
+      ],
+      "usage_note_zh": "日常口语表达；较正式的说法是「朝食」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "在家吃早餐，词典确认 breakfast；教材用朝ご飯这一日常口语词形。",
+        "dictionary_sequences": [
+          1586330
+        ],
+        "identity": {
+          "word": "朝ご飯",
+          "reading_hiragana": "あさごはん",
+          "meaning": "早餐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-67ac5364a8227f8d",
+      "index": 204,
+      "word": "昼ご飯",
+      "reading_hiragana": "ひるごはん",
+      "context_meaning_zh": "午餐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "午餐",
+          "meaning_ja": "昼の時間に食べる食事。",
+          "example_ja": "昼ご飯は会社の近くで食べます。",
+          "example_zh": "午饭在公司附近吃。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "昼ご飯を食べる",
+          "zh": "吃午饭"
+        }
+      ],
+      "usage_note_zh": "「昼ご飯」是日常说法；「昼食」较正式。午餐时间也常简称「昼」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "十二点吃午餐，符合JMdict 1602340 lunch名词义；日常食物名称无特别语体标记。",
+        "dictionary_sequences": [
+          1602340
+        ],
+        "identity": {
+          "word": "昼ご飯",
+          "reading_hiragana": "ひるごはん",
+          "meaning": "午餐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-93da1b09dbfc4d7d",
+      "index": 205,
+      "word": "晩ご飯",
+      "reading_hiragana": "ばんごはん",
+      "context_meaning_zh": "晚餐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "晚餐",
+          "meaning_ja": "夜に食べる、その日の最後の食事。",
+          "example_ja": "晩ご飯に魚と野菜を食べました。",
+          "example_zh": "晚饭吃了鱼和蔬菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "晩ご飯の用意",
+          "zh": "准备晚饭"
+        }
+      ],
+      "usage_note_zh": "日常说法；较正式的词是「夕食」。助词可依句子说「晩ご飯を食べる／晩ご飯に魚を食べる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "六点在家吃的饭是晚餐；课程说明「晩ご飯」为日常说法，较正式用语为夕食。",
+        "dictionary_sequences": [
+          1601340
+        ],
+        "identity": {
+          "word": "晩ご飯",
+          "reading_hiragana": "ばんごはん",
+          "meaning": "晚餐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5829709259f6eec9",
+      "index": 206,
+      "word": "新聞",
+      "reading_hiragana": "しんぶん",
+      "context_meaning_zh": "报纸",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "报纸",
+          "meaning_ja": "世の中の新しい出来事や情報を伝えるため、毎日または定期的に発行する印刷物。",
+          "example_ja": "祖父は毎朝、新聞を読んでいます。",
+          "example_zh": "祖父每天早上都看报纸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新聞を読む",
+          "zh": "看报纸"
+        }
+      ],
+      "usage_note_zh": "既指印刷报纸，也可指新闻媒体；具体新闻内容常说「新聞の記事」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“新聞を読む”中的“新聞”是阅读对象报纸，与JMdict newspaper义对应。",
+        "dictionary_sequences": [
+          1362360
+        ],
+        "identity": {
+          "word": "新聞",
+          "reading_hiragana": "しんぶん",
+          "meaning": "报纸"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7e8937cfa74fc77c",
+      "index": 207,
+      "word": "水",
+      "reading_hiragana": "みず",
+      "context_meaning_zh": "水",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "水",
+          "meaning_ja": "透明で、味やにおいがほとんどない液体。",
+          "example_ja": "冷たい水を一杯ください。",
+          "example_zh": "请给我一杯凉水。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "水を飲む",
+          "zh": "喝水"
+        }
+      ],
+      "usage_note_zh": "「水」通常指白水；一杯水可说「水を一杯」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "购物清单中的水是可购买饮用液体，符合词典普通水义。",
+        "dictionary_sequences": [
+          1371260
+        ],
+        "identity": {
+          "word": "水",
+          "reading_hiragana": "みず",
+          "meaning": "水"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-23dd1c57abc2556e",
+      "index": 208,
+      "word": "お茶",
+      "reading_hiragana": "おちゃ",
+      "context_meaning_zh": "茶",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "茶",
+          "meaning_ja": "茶葉を湯で出して作る飲み物。",
+          "example_ja": "食事のあとで、お茶を飲みました。",
+          "example_zh": "饭后喝了茶。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "お茶を入れる",
+          "zh": "泡茶"
+        }
+      ],
+      "usage_note_zh": "「お茶」可泛指茶，也常指日本常见的绿茶；「入れる」在此表示冲泡。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课句中お茶是饮用的茶；词典的饮茶休息义虽有名词兼する标记，但与当前义项和例句不符。",
+        "dictionary_sequences": [
+          1002430
+        ],
+        "identity": {
+          "word": "お茶",
+          "reading_hiragana": "おちゃ",
+          "meaning": "茶"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a3f56613bb8ea728",
+      "index": 209,
+      "word": "パン",
+      "reading_hiragana": "ぱん",
+      "context_meaning_zh": "面包",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "面包",
+          "meaning_ja": "小麦粉などをこねて焼いた食べ物。",
+          "example_ja": "朝はパンに卵をはさんで食べます。",
+          "example_zh": "早上把鸡蛋夹在面包里吃。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "パンを焼く",
+          "zh": "烤面包"
+        }
+      ],
+      "usage_note_zh": "外来语，通常指面包；计数可依形状用「一つ」或「一枚」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "早饭语境与パン的面包义一致；排除同音Pan神名、平底锅及摄影摇镜等词典其他词项。",
+        "dictionary_sequences": [
+          1103090
+        ],
+        "identity": {
+          "word": "パン",
+          "reading_hiragana": "ぱん",
+          "meaning": "面包"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7e2abb0306ba0fe7",
+      "index": 210,
+      "word": "宿題",
+      "reading_hiragana": "しゅくだい",
+      "context_meaning_zh": "作业",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "作业",
+          "meaning_ja": "学校の授業のあとで、家などでする学習の仕事。",
+          "example_ja": "夕食の前に宿題を終わらせました。",
+          "example_zh": "我在晚饭前做完了作业。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "宿題をする",
+          "zh": "做作业"
+        }
+      ],
+      "usage_note_zh": "指老师布置的课后作业；常与「する」「終わる／終える」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「宿題をする」是惯用的学习活动表达，宿题既作作业名词，也可构成不及物サ变用法；本义非词典待处理问题义。",
+        "dictionary_sequences": [
+          1337270
+        ],
+        "identity": {
+          "word": "宿題",
+          "reading_hiragana": "しゅくだい",
+          "meaning": "作业"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c7e678463abf5e5a",
+      "index": 211,
+      "word": "毎朝",
+      "reading_hiragana": "まいあさ",
+      "context_meaning_zh": "每天早晨",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "每天早晨",
+          "meaning_ja": "毎日の朝の時間に。",
+          "example_ja": "毎朝、駅前の店でパンを買います。",
+          "example_zh": "我每天早上都在车站前的店买面包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "毎朝起きる",
+          "zh": "每天早上起床"
+        }
+      ],
+      "usage_note_zh": "表示每天早晨，句中常直接修饰动作，不加「に」；「毎朝に」通常不自然。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "每天早上六点半起床，毎朝作时间副词修饰起床事件。",
+        "dictionary_sequences": [
+          1524700
+        ],
+        "identity": {
+          "word": "毎朝",
+          "reading_hiragana": "まいあさ",
+          "meaning": "每天早晨"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ee8ff8ce1535230e",
+      "index": 212,
+      "word": "毎晩",
+      "reading_hiragana": "まいばん",
+      "context_meaning_zh": "每天晚上",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "每天晚上",
+          "meaning_ja": "毎日の夜に。",
+          "example_ja": "毎晩、寝る前に本を読みます。",
+          "example_zh": "我每晚睡前读书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "毎晩読む",
+          "zh": "每晚读"
+        }
+      ],
+      "usage_note_zh": "表示每天晚上，通常直接修饰动词，不加「に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表示每一个晚上，可作时间名词或直接修饰读书动作的副词；词典兼列n和adv。",
+        "dictionary_sequences": [
+          1524730
+        ],
+        "identity": {
+          "word": "毎晩",
+          "reading_hiragana": "まいばん",
+          "meaning": "每天晚上"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f6cde3a4e539c155",
+      "index": 213,
+      "word": "切符",
+      "reading_hiragana": "きっぷ",
+      "context_meaning_zh": "票",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "票",
+          "meaning_ja": "電車やバスに乗るとき、または入場するときに使う券。",
+          "example_ja": "改札の前で切符を買いました。",
+          "example_zh": "我在检票口前买了车票。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "切符を買う",
+          "zh": "买票"
+        }
+      ],
+      "usage_note_zh": "可指车票、入场券等；现代交通也常用IC卡，但「切符」仍指实体或电子票券。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "切符是购票所得票券，例句与茶并列为在车站购买的物品。",
+        "dictionary_sequences": [
+          1385170
+        ],
+        "identity": {
+          "word": "切符",
+          "reading_hiragana": "きっぷ",
+          "meaning": "票"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e789402de976aedf",
+      "index": 214,
+      "word": "地下鉄",
+      "reading_hiragana": "ちかてつ",
+      "context_meaning_zh": "地铁",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "地铁",
+          "meaning_ja": "町の地下に線路を作り、走らせる電車。",
+          "example_ja": "地下鉄に乗って市役所へ行きます。",
+          "example_zh": "我坐地铁去市政府。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "地下鉄の駅",
+          "zh": "地铁站"
+        }
+      ],
+      "usage_note_zh": "指在地下线路运行的铁路列车；乘坐用「地下鉄に乗る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "地图显示市内地下铁路线，符合词典地铁名词义。",
+        "dictionary_sequences": [
+          1420900
+        ],
+        "identity": {
+          "word": "地下鉄",
+          "reading_hiragana": "ちかてつ",
+          "meaning": "地铁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f5a809eece84757a",
+      "index": 215,
+      "word": "交通",
+      "reading_hiragana": "こうつう",
+      "context_meaning_zh": "交通",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "交通",
+          "meaning_ja": "人や物が、道・乗り物などを使って行き来すること。",
+          "example_ja": "この町は交通が便利です。",
+          "example_zh": "这个城市交通很方便。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "交通が便利",
+          "zh": "交通便利"
+        }
+      ],
+      "usage_note_zh": "可指交通往来及交通状况；「交通事故」特指交通事故。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "交通地图的制作例句对应交通、运输名词义；词典虽标サ变，但所给用法未展示动词句法或明确自他性。",
+        "dictionary_sequences": [
+          1272280
+        ],
+        "identity": {
+          "word": "交通",
+          "reading_hiragana": "こうつう",
+          "meaning": "交通"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e96808e312d3e2f3",
+      "index": 216,
+      "word": "西",
+      "reading_hiragana": "にし",
+      "context_meaning_zh": "西、西方",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "西、西方",
+          "meaning_ja": "方角の一つで、夕方に太陽が沈む側。",
+          "example_ja": "駅の西に大きな公園があります。",
+          "example_zh": "车站西边有一个大公园。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "西の方",
+          "zh": "西边"
+        }
+      ],
+      "usage_note_zh": "可表示方位或该方向的地区；地点关系常用「～の西」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "河流西侧以方位名词说明位置，词典确认西方义。",
+        "dictionary_sequences": [
+          1380840
+        ],
+        "identity": {
+          "word": "西",
+          "reading_hiragana": "にし",
+          "meaning": "西、西方"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-99ad0d5f35711ab3",
+      "index": 217,
+      "word": "向こう側",
+      "reading_hiragana": "むこうがわ",
+      "context_meaning_zh": "对面、另一侧",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "对面、另一侧",
+          "meaning_ja": "こちらから見て、何かをはさんだ反対の側。",
+          "example_ja": "郵便局の向こう側に銀行があります。",
+          "example_zh": "邮局对面有银行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道の向こう側",
+          "zh": "道路另一侧"
+        }
+      ],
+      "usage_note_zh": "「向こう側」以说话者所在一侧为基准，常用「～の向こう側」说明参照物。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "向こう側指对面或另一侧；例句以河为参照说东边有公园，取空间另一侧义。",
+        "dictionary_sequences": [
+          1604830
+        ],
+        "identity": {
+          "word": "向こう側",
+          "reading_hiragana": "むこうがわ",
+          "meaning": "对面、另一侧"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d15861b4d6d513b6",
+      "index": 218,
+      "word": "東",
+      "reading_hiragana": "ひがし",
+      "context_meaning_zh": "东、东方",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "东、东方",
+          "meaning_ja": "方角の一つで、朝に太陽が昇る側。",
+          "example_ja": "東の空が少し明るくなりました。",
+          "example_zh": "东方的天空稍微亮了起来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "東の方",
+          "zh": "东方"
+        }
+      ],
+      "usage_note_zh": "可表示方位或该方向的地区；地点关系常用「～の東」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "河对岸东侧有公园的例句取四方位中的东方名词义，符合词典条目。",
+        "dictionary_sequences": [
+          1447440
+        ],
+        "identity": {
+          "word": "東",
+          "reading_hiragana": "ひがし",
+          "meaning": "东、东方"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-00d2a10e5cd37ae2",
+      "index": 219,
+      "word": "家",
+      "reading_hiragana": "うち",
+      "context_meaning_zh": "家",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "家",
+          "meaning_ja": "自分が生活している家や、自分の属する家族・集団。",
+          "example_ja": "今日はうちで晩ご飯を作ります。",
+          "example_zh": "今天在家做晚饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "うちに帰る",
+          "zh": "回家"
+        }
+      ],
+      "usage_note_zh": "读「うち」时常表示自己的家，也可指所属家庭或组织；与「家（いえ）」相比，更突出“自己这一边／家里”。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「うちで晩ご飯」指自己家里；不取家人、内部或时间范围等同形义。",
+        "dictionary_sequences": [
+          1191740
+        ],
+        "identity": {
+          "word": "家",
+          "reading_hiragana": "うち",
+          "meaning": "家"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c5c81b2b998aff3e",
+      "index": 220,
+      "word": "メートル",
+      "reading_hiragana": "メートル",
+      "context_meaning_zh": "公尺、米",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "公尺、米",
+          "meaning_ja": "長さを表す単位で、百センチメートルと同じ長さ。",
+          "example_ja": "この机の幅は一メートルです。",
+          "example_zh": "这张桌子宽一米。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一メートルの長さ",
+          "zh": "一米长"
+        }
+      ],
+      "usage_note_zh": "长度单位；数字后可直接接「メートル」，不加助词。汉字「米」也可作该单位的符号。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五百メートル量度从家到大学的距离，指长度单位米；不属于时间名词。",
+        "dictionary_sequences": [
+          1132570
+        ],
+        "identity": {
+          "word": "メートル",
+          "reading_hiragana": "メートル",
+          "meaning": "公尺、米"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1248a32238799b0b",
+      "index": 221,
+      "word": "する",
+      "reading_hiragana": "する",
+      "context_meaning_zh": "做、干、办",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "做、干、办",
+          "meaning_ja": "動作や行為を行うことを広く表す。",
+          "example_ja": "週末は部屋の掃除をします。",
+          "example_zh": "周末打扫房间。"
+        },
+        {
+          "meaning_zh": "（事情を）举行；举办",
+          "meaning_ja": "集まりなどを開いて行う。",
+          "example_ja": "来週、学校で発表会をします。",
+          "example_zh": "下周在学校举办发表会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "掃除をする",
+          "zh": "打扫"
+        }
+      ],
+      "usage_note_zh": "可与名词组成「名词＋をする」表示做某事；「する」也有穿戴、举行等多种搭配义，需结合名词判断。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "动词「する」具有变格活用，表示实施行为或形成状态等。例中含行为对象，但词典还收有不及物义，因此词项整体裁定为兼具自他用法。",
+        "dictionary_sequences": [
+          1157170
+        ],
+        "identity": {
+          "word": "する",
+          "reading_hiragana": "する",
+          "meaning": "做、干、办"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7c786deba808b605",
+      "index": 222,
+      "word": "出掛ける",
+      "reading_hiragana": "でかける",
+      "context_meaning_zh": "外出、出门",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "外出、出门",
+          "meaning_ja": "用事や遊びのために、家などから外へ出る。",
+          "example_ja": "母は午後、買い物に出掛けました。",
+          "example_zh": "母亲下午出门购物了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "買い物に出掛ける",
+          "zh": "出门购物"
+        }
+      ],
+      "usage_note_zh": "常用「出掛ける」或「出かける」两种写法；目的可用「～に出掛ける」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "星期四八点外出，出掛ける是离开或出门的一段自动词；目的地可另用に表示。",
+        "dictionary_sequences": [
+          1598550
+        ],
+        "identity": {
+          "word": "出掛ける",
+          "reading_hiragana": "でかける",
+          "meaning": "外出、出门"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-68651c36d0f1d548",
+      "index": 223,
+      "word": "市内",
+      "reading_hiragana": "しない",
+      "context_meaning_zh": "市内",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "市内",
+          "meaning_ja": "一つの市の区域の中。",
+          "example_ja": "市内の図書館は九時に開きます。",
+          "example_zh": "市内的图书馆九点开门。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "市内を走る",
+          "zh": "在市内行驶"
+        }
+      ],
+      "usage_note_zh": "指某个市的行政区域内，通常接具体城市名或由上下文确定的城市。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「市内」は表示行政市域内的地点名词，也可用「の」修饰后续名词；这是名词定语用法，不是ナ形容词。",
+        "dictionary_sequences": [
+          1308640
+        ],
+        "identity": {
+          "word": "市内",
+          "reading_hiragana": "しない",
+          "meaning": "市内"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d820ca0240891966",
+      "index": 224,
+      "word": "乗る",
+      "reading_hiragana": "のる",
+      "context_meaning_zh": "乘、坐",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乘、坐",
+          "meaning_ja": "乗り物の中に入り、利用して移動する。",
+          "example_ja": "次の駅で地下鉄に乗り換えます。",
+          "example_zh": "在下一站换乘地铁。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電車に乗る",
+          "zh": "乘电车"
+        }
+      ],
+      "usage_note_zh": "乘坐交通工具用「に乗る」；登上马匹也可说「馬に乗る」。不要把交通工具误作「を」宾语。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句采用「電車に乗る」而非「電車を乗る」，符合乘车自动词义；词典多义条目的其他引申义不适用于本例。",
+        "dictionary_sequences": [
+          1355120
+        ],
+        "identity": {
+          "word": "乗る",
+          "reading_hiragana": "のる",
+          "meaning": "乘、坐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f411f74d18b02283",
+      "index": 225,
+      "word": "川",
+      "reading_hiragana": "かわ",
+      "context_meaning_zh": "河、河川",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "河、河川",
+          "meaning_ja": "山や町を流れて海などに注ぐ、水の流れ。",
+          "example_ja": "川の近くをゆっくり歩きました。",
+          "example_zh": "我在河边慢慢散步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "川を渡る",
+          "zh": "过河"
+        }
+      ],
+      "usage_note_zh": "指自然水流；较小的水流可称「小川」。经过河面到对岸常说「川を渡る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句定位在河的西边，指自然河流；辞典河川名词义相符，不是地名后缀。",
+        "dictionary_sequences": [
+          1390020
+        ],
+        "identity": {
+          "word": "川",
+          "reading_hiragana": "かわ",
+          "meaning": "河、河川"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-777b7a2391df8d48",
+      "index": 226,
+      "word": "飛行機",
+      "reading_hiragana": "ひこうき",
+      "context_meaning_zh": "飞机",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "飞机",
+          "meaning_ja": "空を飛んで、人や荷物を運ぶ乗り物。",
+          "example_ja": "飛行機で大阪まで行きました。",
+          "example_zh": "我坐飞机去了大阪。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "飛行機に乗る",
+          "zh": "乘飞机"
+        }
+      ],
+      "usage_note_zh": "表示飞机这一交通工具；乘坐用「に乗る」，交通方式用「で」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "询问是否使用飞机照片，飛行機指动力驱动的航空交通工具。",
+        "dictionary_sequences": [
+          1485470
+        ],
+        "identity": {
+          "word": "飛行機",
+          "reading_hiragana": "ひこうき",
+          "meaning": "飞机"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fb8f7e40ae578bfd",
+      "index": 227,
+      "word": "車",
+      "reading_hiragana": "くるま",
+      "context_meaning_zh": "汽车",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "汽车",
+          "meaning_ja": "道路を走る、エンジンのある乗り物。",
+          "example_ja": "父は車で駅まで迎えに来ました。",
+          "example_zh": "父亲开车到车站来接我。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "車を運転する",
+          "zh": "开车"
+        }
+      ],
+      "usage_note_zh": "日常常指汽车；「車」也可泛指车轮车辆，具体类型依语境确定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处車指汽车交通工具，句中说明不使用汽车；词典另有车轮义。",
+        "dictionary_sequences": [
+          1323080
+        ],
+        "identity": {
+          "word": "車",
+          "reading_hiragana": "くるま",
+          "meaning": "汽车"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-38697a33c295a3d7",
+      "index": 228,
+      "word": "番",
+      "reading_hiragana": "ばん",
+      "context_meaning_zh": "编号；轮次、当班",
+      "pos_ja": "名詞・接尾辞",
+      "pos_zh": "名词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "编号；轮次、当班",
+          "meaning_ja": "物や人に順番をつけたとき、その順を示す番号。",
+          "example_ja": "この席は三番です。",
+          "example_zh": "这个座位是三号。"
+        },
+        {
+          "meaning_zh": "轮到的次序；当班",
+          "meaning_ja": "何かをする人として、順番が回ってきた状態。",
+          "example_ja": "次は私の番です。",
+          "example_zh": "下一个轮到我。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "三番出口",
+          "zh": "三号出口"
+        }
+      ],
+      "usage_note_zh": "读作「ばん」时常表示编号或轮次；「三番」可指三号，也可在「次は私の番」中表示轮到某人。作为数词后缀直接接数字。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「番」在三番のバス中作编号接尾词，也可独立作轮次名词；本条例句还显示“轮到某人”的用法。",
+        "dictionary_sequences": [
+          2022640
+        ],
+        "identity": {
+          "word": "番",
+          "reading_hiragana": "ばん",
+          "meaning": "编号；轮次、当班"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-828ed4cedaad2b23",
+      "index": 229,
+      "word": "信号",
+      "reading_hiragana": "しんごう",
+      "context_meaning_zh": "交通信号；信号",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "交通信号；信号",
+          "meaning_ja": "色の光で、進む・止まるなどを知らせる道路上の装置。",
+          "example_ja": "信号が青に変わるまで待ちます。",
+          "example_zh": "等到信号灯变绿。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "信号を待つ",
+          "zh": "等信号"
+        }
+      ],
+      "usage_note_zh": "交通语境常指交通信号灯；「信号を送る」则指发送信号，具体含义由搭配决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "当前定义兼指交通灯和一般信号；词典还明确列名词兼サ变自动词，故保留「信号する」类。",
+        "dictionary_sequences": [
+          1359240
+        ],
+        "identity": {
+          "word": "信号",
+          "reading_hiragana": "しんごう",
+          "meaning": "交通信号；信号"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cbb17a9ce4d1cdf7",
+      "index": 230,
+      "word": "赤",
+      "reading_hiragana": "あか",
+      "context_meaning_zh": "红色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "红色",
+          "meaning_ja": "血や熟したトマトに見られる色。",
+          "example_ja": "赤いかばんは入口の横にあります。",
+          "example_zh": "红色的包在入口旁边。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "赤い花",
+          "zh": "红花"
+        }
+      ],
+      "usage_note_zh": "名词「赤」作颜色名；修饰名词时用「赤い」。交通信号中的红灯可说「赤信号」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "信号灯显示红色的状态；词典收颜色名及名词连体用法。",
+        "dictionary_sequences": [
+          2013900
+        ],
+        "identity": {
+          "word": "赤",
+          "reading_hiragana": "あか",
+          "meaning": "红色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8ba141c5daea29ce",
+      "index": 231,
+      "word": "止まる",
+      "reading_hiragana": "とまる",
+      "context_meaning_zh": "停下；停止；堵塞、止住",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "停下；停止；堵塞、止住",
+          "meaning_ja": "動いていたものが動かなくなる。また、続いていた動きや流れがなくなる。",
+          "example_ja": "雨で電車が途中の駅に止まりました。",
+          "example_zh": "电车因下雨停在了中途车站。"
+        },
+        {
+          "meaning_zh": "堵住；止住",
+          "meaning_ja": "流れていたものが、それ以上流れなくなる。",
+          "example_ja": "蛇口を閉めると、水が止まりました。",
+          "example_zh": "关上水龙头后，水停了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時計が止まる",
+          "zh": "钟表停了"
+        }
+      ],
+      "usage_note_zh": "自动词，停止的对象作主语并用「が」；车停靠某站也用「駅に止まる」。同音的「留まる」等写法另有语义，本课不混入。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "车在行人道前停下、水停止流动均是止まる自动词义；课程中ます只是句末礼貌形式。",
+        "dictionary_sequences": [
+          1310620
+        ],
+        "identity": {
+          "word": "止まる",
+          "reading_hiragana": "とまる",
+          "meaning": "停下；停止；堵塞、止住"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-036d79d19b4f210c",
+      "index": 232,
+      "word": "黄色",
+      "reading_hiragana": "きいろ",
+      "context_meaning_zh": "黄色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "黄色",
+          "meaning_ja": "レモンの皮や菜の花に見られる色。",
+          "example_ja": "黄色の傘を持って出ました。",
+          "example_zh": "我带着黄色的伞出门了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "黄色いシャツ",
+          "zh": "黄色衬衫"
+        }
+      ],
+      "usage_note_zh": "颜色名词可说「黄色の～」，也有形容词「黄色い～」；两种修饰方式都常见。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "信号颜色词，句中与红色、蓝色并列；可用黄色の修饰名词，另有常见い形容词黄色い。",
+        "dictionary_sequences": [
+          1576760
+        ],
+        "identity": {
+          "word": "黄色",
+          "reading_hiragana": "きいろ",
+          "meaning": "黄色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9f2ef743e7018633",
+      "index": 233,
+      "word": "青",
+      "reading_hiragana": "あお",
+      "context_meaning_zh": "蓝色、青色；交通绿灯",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蓝色、青色；交通绿灯",
+          "meaning_ja": "晴れた空や海に見られる色。",
+          "example_ja": "青のノートを机の上に置きました。",
+          "example_zh": "我把蓝色的笔记本放在桌上。"
+        },
+        {
+          "meaning_zh": "交通信号中的绿灯",
+          "meaning_ja": "道路の信号で、進んでもよいことを示す色。",
+          "example_ja": "信号が青になったので、道を渡りました。",
+          "example_zh": "信号灯变绿后，我过了马路。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "青い空",
+          "zh": "蓝色的天空"
+        }
+      ],
+      "usage_note_zh": "一般「青」指蓝／青色；日本交通信号习惯称「青」，中文通常译作绿灯，不据此把一般绿色都译成青色。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "“青の色”是名词加の；词典的未熟义为前缀，但当前蓝/绿义没有独立连体词依据。",
+        "dictionary_sequences": [
+          1381380
+        ],
+        "identity": {
+          "word": "青",
+          "reading_hiragana": "あお",
+          "meaning": "蓝色、青色；交通绿灯"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cfc1501e313340e4",
+      "index": 234,
+      "word": "進む",
+      "reading_hiragana": "すすむ",
+      "context_meaning_zh": "前进；进展；钟表走快",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "前进；进展；钟表走快",
+          "meaning_ja": "前の方へ動く。また、物事が次の段階へ進展する。",
+          "example_ja": "話し合いは少しずつ進んでいます。",
+          "example_zh": "讨论正在一点点推进。"
+        },
+        {
+          "meaning_zh": "（钟表）走快",
+          "meaning_ja": "時計が正しい時刻より先の時刻を示す。",
+          "example_ja": "この時計は一日に一分進みます。",
+          "example_zh": "这只钟每天快一分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "計画が進む",
+          "zh": "计划推进"
+        }
+      ],
+      "usage_note_zh": "物理移动和事务进展均可用；时间快慢说「時計が進む」，具体快了多少用「五分進んでいる」等。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "汽车向前移动，自動詞用法；词典其他义还可指进展或钟表走快。",
+        "dictionary_sequences": [
+          1365980
+        ],
+        "identity": {
+          "word": "進む",
+          "reading_hiragana": "すすむ",
+          "meaning": "前进；进展；钟表走快"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-88aa44484e64e1c9",
+      "index": 235,
+      "word": "朝食",
+      "reading_hiragana": "ちょうしょく",
+      "context_meaning_zh": "早餐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "早餐",
+          "meaning_ja": "朝にとる食事を表す、やや改まった言い方。",
+          "example_ja": "朝食はパンと果物にしました。",
+          "example_zh": "早餐我选择了面包和水果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "朝食をとる",
+          "zh": "吃早餐"
+        }
+      ],
+      "usage_note_zh": "「朝ご飯」较口语，「朝食」较书面或正式；「朝食をとる」是常见组合。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「朝食」指早晨吃的饭食，是日常名词；输入句例也可用于口头表达，没有足够依据将其限定为书面媒介。",
+        "dictionary_sequences": [
+          1428390
+        ],
+        "identity": {
+          "word": "朝食",
+          "reading_hiragana": "ちょうしょく",
+          "meaning": "早餐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-14f6e603478a12ea",
+      "index": 236,
+      "word": "キロ",
+      "reading_hiragana": "キロ",
+      "context_meaning_zh": "公里（キロメートル的简称）",
+      "pos_ja": "名詞・助数詞・助数詞表現",
+      "pos_zh": "名词・量词・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "公里（キロメートル的简称）",
+          "meaning_ja": "「キロメートル」を短く言った形で、距離の単位。",
+          "example_ja": "ここから駅までは二キロです。",
+          "example_zh": "从这里到车站有两公里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二キロ歩く",
+          "zh": "走两公里"
+        }
+      ],
+      "usage_note_zh": "本课语境为公里，数字后直接接「キロ」；在重量语境中也可简称千克，单位由对象判断。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "counter"
+        ],
+        "subtypes": [
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课以从家到大学的距离限定为公里；词典另列千克义，但此处不取重量义。",
+        "dictionary_sequences": [
+          1042610
+        ],
+        "identity": {
+          "word": "キロ",
+          "reading_hiragana": "キロ",
+          "meaning": "公里（キロメートル的简称）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-79cecfc8c1b811b1",
+      "index": 237,
+      "word": "横断歩道",
+      "reading_hiragana": "おうだんほどう",
+      "context_meaning_zh": "人行横道",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "人行横道",
+          "meaning_ja": "歩く人が安全に道路を横切るため、道に線で示した場所。",
+          "example_ja": "子どもと一緒に横断歩道を渡りました。",
+          "example_zh": "我和孩子一起过了人行横道。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "横断歩道を渡る",
+          "zh": "过人行横道"
+        }
+      ],
+      "usage_note_zh": "表示道路上供行人横穿的指定区域；过马路时可说「横断歩道を渡る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指道路上供行人横穿的斑马线，例句以も作为存在对象；属普通名词。",
+        "dictionary_sequences": [
+          1180910
+        ],
+        "identity": {
+          "word": "横断歩道",
+          "reading_hiragana": "おうだんほどう",
+          "meaning": "人行横道"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3efd3b43ccbdf812",
+      "index": 238,
+      "word": "交差点",
+      "reading_hiragana": "こうさてん",
+      "context_meaning_zh": "交叉点、十字路口",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "交叉点、十字路口",
+          "meaning_ja": "二本以上の道が交わる場所。",
+          "example_ja": "次の交差点を左へ曲がってください。",
+          "example_zh": "请在下一个十字路口左转。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "交差点を曲がる",
+          "zh": "在路口转弯"
+        }
+      ],
+      "usage_note_zh": "可指道路交会处，也可广义指事物相交点；问路时常与「次の」「右／左へ曲がる」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "人行横道所在的交叉路口，是具体地点名词。",
+        "dictionary_sequences": [
+          1592970
+        ],
+        "identity": {
+          "word": "交差点",
+          "reading_hiragana": "こうさてん",
+          "meaning": "交叉点、十字路口"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ce5495a7c8d58cf1",
+      "index": 239,
+      "word": "渡る",
+      "reading_hiragana": "わたる",
+      "context_meaning_zh": "渡、过",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "渡、过",
+          "meaning_ja": "川や道などを越えて、反対側へ行く。",
+          "example_ja": "橋を渡ると、左に小さな店があります。",
+          "example_zh": "过桥后左边有一家小店。"
+        },
+        {
+          "meaning_zh": "持续；遍及",
+          "meaning_ja": "時間や範囲の全体に及ぶ。",
+          "example_ja": "会議は三時間にわたって続きました。",
+          "example_zh": "会议持续了三个小时。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "橋を渡る",
+          "zh": "过桥"
+        }
+      ],
+      "usage_note_zh": "越过的对象用「を」，这里标示经过的路线；「三日にわたる」等固定说法表示持续或遍及，属于不同结构。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "道路を渡る中的道路表示通过路径，主体跨越道路，动词本身是不及物五段。",
+        "dictionary_sequences": [
+          1444680
+        ],
+        "identity": {
+          "word": "渡る",
+          "reading_hiragana": "わたる",
+          "meaning": "渡、过"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8e7c6a8fc6855aa1",
+      "index": 240,
+      "word": "向かう",
+      "reading_hiragana": "むかう",
+      "context_meaning_zh": "向着、朝着;往...去",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "向着、朝着;往...去",
+          "meaning_ja": "ある場所や方向を目標にして、そちらへ進む。",
+          "example_ja": "私たちは山の入口へ向かいました。",
+          "example_zh": "我们朝山的入口走去。"
+        },
+        {
+          "meaning_zh": "面向；面对",
+          "meaning_ja": "顔や体をある相手の方へ向ける。",
+          "example_ja": "彼は窓に向かって座っています。",
+          "example_zh": "他面向窗户坐着。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅に向かう",
+          "zh": "朝车站去"
+        }
+      ],
+      "usage_note_zh": "目标地点常用「に／へ」；也可用「相手に向かう」表示面向对方，需和「向く」区分。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段自动词，表示从当前位置朝公园前往；公园由へ标示方向，不是直接宾语。",
+        "dictionary_sequences": [
+          1604800
+        ],
+        "identity": {
+          "word": "向かう",
+          "reading_hiragana": "むかう",
+          "meaning": "向着、朝着;往...去"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e3713f4db2d5d241",
+      "index": 241,
+      "word": "散歩道",
+      "reading_hiragana": "さんぽみち",
+      "context_meaning_zh": "步行道",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "步行道",
+          "meaning_ja": "散歩をするときに歩く道。",
+          "example_ja": "朝は川沿いの散歩道を歩きます。",
+          "example_zh": "早上我沿着河边的散步道走。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "散歩道を歩く",
+          "zh": "沿散步道走"
+        }
+      ],
+      "usage_note_zh": "指供散步行走的道路或路线；「道」作复合词后项，整体是名词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指河边供散步的道路，句中作为存在句主语；词典promenade/path名词义相合。",
+        "dictionary_sequences": [
+          1879570
+        ],
+        "identity": {
+          "word": "散歩道",
+          "reading_hiragana": "さんぽみち",
+          "meaning": "步行道"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a83eab74ad287791",
+      "index": 242,
+      "word": "道路",
+      "reading_hiragana": "どうろ",
+      "context_meaning_zh": "道路",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "道路",
+          "meaning_ja": "人や車が通るために作られた道。",
+          "example_ja": "工事のため、道路の一部が通れません。",
+          "example_zh": "因施工，道路的一部分无法通行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道路工事",
+          "zh": "道路施工"
+        }
+      ],
+      "usage_note_zh": "较正式地指道路；普通日常交谈也常用「道」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "穿越道路到公园的问句中，道路指供车辆或行人通行的路。",
+        "dictionary_sequences": [
+          1454290
+        ],
+        "identity": {
+          "word": "道路",
+          "reading_hiragana": "どうろ",
+          "meaning": "道路"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c5c8ca24608471b5",
+      "index": 243,
+      "word": "街角",
+      "reading_hiragana": "まちかど",
+      "context_meaning_zh": "街角、街头",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "街角、街头",
+          "meaning_ja": "町の中の道が曲がるところや、通りに面した場所。",
+          "example_ja": "街角の小さな花屋で花を買いました。",
+          "example_zh": "我在街角的小花店买了花。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "街角の店",
+          "zh": "街角的店"
+        }
+      ],
+      "usage_note_zh": "可具体指街道拐角处，也可泛指城市街头；「街角に立つ」表示站在街角。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "地图上的街角位置作名词修饰公园；词典对应street corner普通名词义。",
+        "dictionary_sequences": [
+          1204580
+        ],
+        "identity": {
+          "word": "街角",
+          "reading_hiragana": "まちかど",
+          "meaning": "街角、街头"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2950bc42ed6390c9",
+      "index": 244,
+      "word": "徒歩",
+      "reading_hiragana": "とほ",
+      "context_meaning_zh": "徒步",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "徒步",
+          "meaning_ja": "乗り物を使わず、自分の足で歩いて行くこと。",
+          "example_ja": "美術館は駅から徒歩で十五分です。",
+          "example_zh": "美术馆从车站步行十五分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "徒歩で通う",
+          "zh": "步行往返"
+        }
+      ],
+      "usage_note_zh": "路线说明常用「駅から徒歩で～分」；「徒歩」强调步行方式，不表示散步这一目的。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "徒歩で大学へ行く中徒歩为交通方式名词；词典adj-no只支持徒歩の～，句例没有连体词用法。",
+        "dictionary_sequences": [
+          1444510
+        ],
+        "identity": {
+          "word": "徒歩",
+          "reading_hiragana": "とほ",
+          "meaning": "徒步"
+        }
+      }
+    }
+  ]
+}

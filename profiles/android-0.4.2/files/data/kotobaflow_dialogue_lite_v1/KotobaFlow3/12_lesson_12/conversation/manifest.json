@@ -1,0 +1,813 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 109.219,
+ "listening_review": "pending",
+ "source_chapter": 48,
+ "turns": [
+  {
+   "turn_id": "C48-D001",
+   "turn_index": 0,
+   "speaker": "田中",
+   "source_text": "お電話ありがとうございます。みどり印刷店の田中です。",
+   "sentence_ids": [
+    "C48-D001-S01",
+    "C48-D001-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.56,
+   "duration_sec": 3.56
+  },
+  {
+   "turn_id": "C48-D002",
+   "turn_index": 1,
+   "speaker": "アナ",
+   "source_text": "国際交流会のアナ・ロペスと申します。注文した案内について、ご相談したいんですが。",
+   "sentence_ids": [
+    "C48-D002-S01",
+    "C48-D002-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 3.91,
+   "end_sec": 10.682,
+   "duration_sec": 6.772
+  },
+  {
+   "turn_id": "C48-D003",
+   "turn_index": 2,
+   "speaker": "田中",
+   "source_text": "注文番号を教えていただけますか。私が印刷の担当です。",
+   "sentence_ids": [
+    "C48-D003-S01",
+    "C48-D003-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.032,
+   "end_sec": 15.133,
+   "duration_sec": 4.101
+  },
+  {
+   "turn_id": "C48-D004",
+   "turn_index": 3,
+   "speaker": "アナ",
+   "source_text": "二十五番です。昨日ミンが三十枚受け取りました。アドレスが違っていて、店員の方に原稿を見せました。",
+   "sentence_ids": [
+    "C48-D004-S01",
+    "C48-D004-S02",
+    "C48-D004-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 15.483,
+   "end_sec": 23.861,
+   "duration_sec": 8.378
+  },
+  {
+   "turn_id": "C48-D005",
+   "turn_index": 4,
+   "speaker": "田中",
+   "source_text": "申し訳ありません。私は昨日休んでいました。まず、昨日の記録を読ませてください。",
+   "sentence_ids": [
+    "C48-D005-S01",
+    "C48-D005-S02",
+    "C48-D005-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 24.211,
+   "end_sec": 30.344,
+   "duration_sec": 6.133
+  },
+  {
+   "turn_id": "C48-D006",
+   "turn_index": 5,
+   "speaker": "アナ",
+   "source_text": "はい。先に送った原稿もご覧になりますか。そちらには正しいアドレスを書きました。",
+   "sentence_ids": [
+    "C48-D006-S01",
+    "C48-D006-S02",
+    "C48-D006-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.694,
+   "end_sec": 36.768,
+   "duration_sec": 6.074
+  },
+  {
+   "turn_id": "C48-D007",
+   "turn_index": 6,
+   "speaker": "田中",
+   "source_text": "はい、拝見します。案内はもう配りましたか。",
+   "sentence_ids": [
+    "C48-D007-S01",
+    "C48-D007-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.118,
+   "end_sec": 41.094,
+   "duration_sec": 3.976
+  },
+  {
+   "turn_id": "C48-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "いいえ、三十枚ともまだです。ほかに被害があるかどうかは、まだ分かりません。",
+   "sentence_ids": [
+    "C48-D008-S01",
+    "C48-D008-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 41.444,
+   "end_sec": 47.206,
+   "duration_sec": 5.762
+  },
+  {
+   "turn_id": "C48-D009",
+   "turn_index": 8,
+   "speaker": "田中",
+   "source_text": "分かりました。原稿と案内を持って、今日、店にいらっしゃることはできますか。",
+   "sentence_ids": [
+    "C48-D009-S01",
+    "C48-D009-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.556,
+   "end_sec": 52.35,
+   "duration_sec": 4.794
+  },
+  {
+   "turn_id": "C48-D010",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "今日は授業があるので、伺えません。代わりに原稿と写真をメールで送ってもいいですか。",
+   "sentence_ids": [
+    "C48-D010-S01",
+    "C48-D010-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.7,
+   "end_sec": 58.934,
+   "duration_sec": 6.234
+  },
+  {
+   "turn_id": "C48-D011",
+   "turn_index": 10,
+   "speaker": "田中",
+   "source_text": "はい。原稿と案内の両方が必要です。文字が読めるように撮ってください。紙の案内も捨てないで残しておいてください。",
+   "sentence_ids": [
+    "C48-D011-S01",
+    "C48-D011-S02",
+    "C48-D011-S03",
+    "C48-D011-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.284,
+   "end_sec": 67.343,
+   "duration_sec": 8.059
+  },
+  {
+   "turn_id": "C48-D012",
+   "turn_index": 11,
+   "speaker": "アナ",
+   "source_text": "分かりました。一月二十八日までに正しい案内を受け取りたいんです。三十日に合宿で配ります。",
+   "sentence_ids": [
+    "C48-D012-S01",
+    "C48-D012-S02",
+    "C48-D012-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 67.693,
+   "end_sec": 75.507,
+   "duration_sec": 7.814
+  },
+  {
+   "turn_id": "C48-D013",
+   "turn_index": 12,
+   "speaker": "田中",
+   "source_text": "もう一度印刷するかどうかは、資料を確認してからお知らせします。",
+   "sentence_ids": [
+    "C48-D013-S01"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 75.857,
+   "end_sec": 80.114,
+   "duration_sec": 4.257
+  },
+  {
+   "turn_id": "C48-D014",
+   "turn_index": 13,
+   "speaker": "アナ",
+   "source_text": "そのときの料金と受け取りの日も、確認していただけませんか。",
+   "sentence_ids": [
+    "C48-D014-S01"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.464,
+   "end_sec": 84.796,
+   "duration_sec": 4.332
+  },
+  {
+   "turn_id": "C48-D015",
+   "turn_index": 14,
+   "speaker": "田中",
+   "source_text": "はい。一月十五日午後五時までに、メールで経過をお知らせします。",
+   "sentence_ids": [
+    "C48-D015-S01",
+    "C48-D015-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 85.146,
+   "end_sec": 89.901,
+   "duration_sec": 4.755
+  },
+  {
+   "turn_id": "C48-D016",
+   "turn_index": 15,
+   "speaker": "アナ",
+   "source_text": "ありがとうございます。まだ確認が終わっていなくても、連絡はいただけますか。",
+   "sentence_ids": [
+    "C48-D016-S01",
+    "C48-D016-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 90.251,
+   "end_sec": 95.39,
+   "duration_sec": 5.139
+  },
+  {
+   "turn_id": "C48-D017",
+   "turn_index": 16,
+   "speaker": "田中",
+   "source_text": "はい。途中でもご連絡します。",
+   "sentence_ids": [
+    "C48-D017-S01",
+    "C48-D017-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 95.74,
+   "end_sec": 98.168,
+   "duration_sec": 2.428
+  },
+  {
+   "turn_id": "C48-D018",
+   "turn_index": 17,
+   "speaker": "アナ",
+   "source_text": "では、電話で確認したこともメールに書きます。違うことがあったら、ご返信ください。",
+   "sentence_ids": [
+    "C48-D018-S01",
+    "C48-D018-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 98.518,
+   "end_sec": 104.089,
+   "duration_sec": 5.571
+  },
+  {
+   "turn_id": "C48-D019",
+   "turn_index": 18,
+   "speaker": "田中",
+   "source_text": "はい。資料を受け取ったら返信します。ご迷惑をおかけして、申し訳ありません。",
+   "sentence_ids": [
+    "C48-D019-S01",
+    "C48-D019-S02",
+    "C48-D019-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 104.439,
+   "end_sec": 109.213,
+   "duration_sec": 4.774
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C48-D001-S01",
+   "unit_id": "C48-D001",
+   "section": "D",
+   "speaker": "田中",
+   "text": "お電話ありがとうございます。",
+   "start_sec": 0.0,
+   "end_sec": 1.795,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D001-S02",
+   "unit_id": "C48-D001",
+   "section": "D",
+   "speaker": "田中",
+   "text": "みどり印刷店の田中です。",
+   "start_sec": 1.945,
+   "end_sec": 3.56,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D002-S01",
+   "unit_id": "C48-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "国際交流会のアナ・ロペスと申します。",
+   "start_sec": 3.91,
+   "end_sec": 6.847,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D002-S02",
+   "unit_id": "C48-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "注文した案内について、ご相談したいんですが。",
+   "start_sec": 6.997,
+   "end_sec": 10.682,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D003-S01",
+   "unit_id": "C48-D003",
+   "section": "D",
+   "speaker": "田中",
+   "text": "注文番号を教えていただけますか。",
+   "start_sec": 11.032,
+   "end_sec": 13.292,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D003-S02",
+   "unit_id": "C48-D003",
+   "section": "D",
+   "speaker": "田中",
+   "text": "私が印刷の担当です。",
+   "start_sec": 13.442,
+   "end_sec": 15.133,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D004-S01",
+   "unit_id": "C48-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "二十五番です。",
+   "start_sec": 15.483,
+   "end_sec": 17.001,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D004-S02",
+   "unit_id": "C48-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "昨日ミンが三十枚受け取りました。",
+   "start_sec": 17.151,
+   "end_sec": 19.876,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D004-S03",
+   "unit_id": "C48-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "アドレスが違っていて、店員の方に原稿を見せました。",
+   "start_sec": 20.026,
+   "end_sec": 23.861,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D005-S01",
+   "unit_id": "C48-D005",
+   "section": "D",
+   "speaker": "田中",
+   "text": "申し訳ありません。",
+   "start_sec": 24.211,
+   "end_sec": 25.486,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D005-S02",
+   "unit_id": "C48-D005",
+   "section": "D",
+   "speaker": "田中",
+   "text": "私は昨日休んでいました。",
+   "start_sec": 25.636,
+   "end_sec": 27.741,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D005-S03",
+   "unit_id": "C48-D005",
+   "section": "D",
+   "speaker": "田中",
+   "text": "まず、昨日の記録を読ませてください。",
+   "start_sec": 27.891,
+   "end_sec": 30.344,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D006-S01",
+   "unit_id": "C48-D006",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "はい。",
+   "start_sec": 30.694,
+   "end_sec": 31.278,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D006-S02",
+   "unit_id": "C48-D006",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "先に送った原稿もご覧になりますか。",
+   "start_sec": 31.428,
+   "end_sec": 34.159,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D006-S03",
+   "unit_id": "C48-D006",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "そちらには正しいアドレスを書きました。",
+   "start_sec": 34.309,
+   "end_sec": 36.768,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D007-S01",
+   "unit_id": "C48-D007",
+   "section": "D",
+   "speaker": "田中",
+   "text": "はい、拝見します。",
+   "start_sec": 37.118,
+   "end_sec": 38.634,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D007-S02",
+   "unit_id": "C48-D007",
+   "section": "D",
+   "speaker": "田中",
+   "text": "案内はもう配りましたか。",
+   "start_sec": 38.784,
+   "end_sec": 41.094,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D008-S01",
+   "unit_id": "C48-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "いいえ、三十枚ともまだです。",
+   "start_sec": 41.444,
+   "end_sec": 44.012,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D008-S02",
+   "unit_id": "C48-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ほかに被害があるかどうかは、まだ分かりません。",
+   "start_sec": 44.162,
+   "end_sec": 47.206,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D009-S01",
+   "unit_id": "C48-D009",
+   "section": "D",
+   "speaker": "田中",
+   "text": "分かりました。",
+   "start_sec": 47.556,
+   "end_sec": 48.496,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D009-S02",
+   "unit_id": "C48-D009",
+   "section": "D",
+   "speaker": "田中",
+   "text": "原稿と案内を持って、今日、店にいらっしゃることはできますか。",
+   "start_sec": 48.646,
+   "end_sec": 52.35,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D010-S01",
+   "unit_id": "C48-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "今日は授業があるので、伺えません。",
+   "start_sec": 52.7,
+   "end_sec": 55.265,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D010-S02",
+   "unit_id": "C48-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "代わりに原稿と写真をメールで送ってもいいですか。",
+   "start_sec": 55.415,
+   "end_sec": 58.934,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D011-S01",
+   "unit_id": "C48-D011",
+   "section": "D",
+   "speaker": "田中",
+   "text": "はい。",
+   "start_sec": 59.284,
+   "end_sec": 59.994,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D011-S02",
+   "unit_id": "C48-D011",
+   "section": "D",
+   "speaker": "田中",
+   "text": "原稿と案内の両方が必要です。",
+   "start_sec": 60.144,
+   "end_sec": 62.735,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D011-S03",
+   "unit_id": "C48-D011",
+   "section": "D",
+   "speaker": "田中",
+   "text": "文字が読めるように撮ってください。",
+   "start_sec": 62.885,
+   "end_sec": 64.744,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D011-S04",
+   "unit_id": "C48-D011",
+   "section": "D",
+   "speaker": "田中",
+   "text": "紙の案内も捨てないで残しておいてください。",
+   "start_sec": 64.894,
+   "end_sec": 67.343,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D012-S01",
+   "unit_id": "C48-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "分かりました。",
+   "start_sec": 67.693,
+   "end_sec": 68.786,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D012-S02",
+   "unit_id": "C48-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "一月二十八日までに正しい案内を受け取りたいんです。",
+   "start_sec": 68.936,
+   "end_sec": 73.224,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D012-S03",
+   "unit_id": "C48-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "三十日に合宿で配ります。",
+   "start_sec": 73.374,
+   "end_sec": 75.507,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D013-S01",
+   "unit_id": "C48-D013",
+   "section": "D",
+   "speaker": "田中",
+   "text": "もう一度印刷するかどうかは、資料を確認してからお知らせします。",
+   "start_sec": 75.857,
+   "end_sec": 80.114,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D014-S01",
+   "unit_id": "C48-D014",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "そのときの料金と受け取りの日も、確認していただけませんか。",
+   "start_sec": 80.464,
+   "end_sec": 84.796,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D015-S01",
+   "unit_id": "C48-D015",
+   "section": "D",
+   "speaker": "田中",
+   "text": "はい。",
+   "start_sec": 85.146,
+   "end_sec": 85.944,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D015-S02",
+   "unit_id": "C48-D015",
+   "section": "D",
+   "speaker": "田中",
+   "text": "一月十五日午後五時までに、メールで経過をお知らせします。",
+   "start_sec": 86.094,
+   "end_sec": 89.901,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D016-S01",
+   "unit_id": "C48-D016",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ありがとうございます。",
+   "start_sec": 90.251,
+   "end_sec": 91.725,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D016-S02",
+   "unit_id": "C48-D016",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "まだ確認が終わっていなくても、連絡はいただけますか。",
+   "start_sec": 91.875,
+   "end_sec": 95.39,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D017-S01",
+   "unit_id": "C48-D017",
+   "section": "D",
+   "speaker": "田中",
+   "text": "はい。",
+   "start_sec": 95.74,
+   "end_sec": 96.343,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D017-S02",
+   "unit_id": "C48-D017",
+   "section": "D",
+   "speaker": "田中",
+   "text": "途中でもご連絡します。",
+   "start_sec": 96.493,
+   "end_sec": 98.168,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D018-S01",
+   "unit_id": "C48-D018",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "では、電話で確認したこともメールに書きます。",
+   "start_sec": 98.518,
+   "end_sec": 101.717,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D018-S02",
+   "unit_id": "C48-D018",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "違うことがあったら、ご返信ください。",
+   "start_sec": 101.867,
+   "end_sec": 104.089,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D019-S01",
+   "unit_id": "C48-D019",
+   "section": "D",
+   "speaker": "田中",
+   "text": "はい。",
+   "start_sec": 104.439,
+   "end_sec": 105.059,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D019-S02",
+   "unit_id": "C48-D019",
+   "section": "D",
+   "speaker": "田中",
+   "text": "資料を受け取ったら返信します。",
+   "start_sec": 105.209,
+   "end_sec": 107.167,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C48-D019-S03",
+   "unit_id": "C48-D019",
+   "section": "D",
+   "speaker": "田中",
+   "text": "ご迷惑をおかけして、申し訳ありません。",
+   "start_sec": 107.317,
+   "end_sec": 109.213,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

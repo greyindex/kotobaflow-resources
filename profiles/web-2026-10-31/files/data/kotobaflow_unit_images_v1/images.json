@@ -1,0 +1,767 @@
+{
+ "schema": 1,
+ "source": "kotobaflow-flat-images-2026-10-15",
+ "count": 76,
+ "images": {
+  "KotobaFlow1/lesson_01": {
+   "file": "KotobaFlow1/lesson_01.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 1,
+   "title_zh": "听见日语：姓名、问候与求助",
+   "title_ja": "こんにちは",
+   "master_sha256": "b8f9cd37f19006d3708974e2e6a0c5b03020179a24ad2f52a08e1ca9d12b6fc5",
+   "webp_sha256": "eb1748dbc800da5bfa5b99870a7528331e9bfeec2d977c74112cb01cec16dd98"
+  },
+  "KotobaFlow1/lesson_02": {
+   "file": "KotobaFlow1/lesson_02.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 2,
+   "title_zh": "姓名与身份",
+   "title_ja": "名前・仕事",
+   "master_sha256": "2ee36b978bfdc5af281505abe587d853f7ba3a47001774c19b11f4bfb12c5df1",
+   "webp_sha256": "d0f22a91d21b872ba29c65908b73e3ac8d211f80eece040b56e3be963b955619"
+  },
+  "KotobaFlow1/lesson_03": {
+   "file": "KotobaFlow1/lesson_03.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 3,
+   "title_zh": "这是谁的钥匙",
+   "title_ja": "これはだれの鍵ですか",
+   "master_sha256": "8f91086d59168fa948c591cc9515631e8eb9e41d530a53dbef74060fc41d2761",
+   "webp_sha256": "83291fb303515bab3121c81b1e5ad49c11135f48176cde3f97cc90e747e81d4f"
+  },
+  "KotobaFlow1/lesson_04": {
+   "file": "KotobaFlow1/lesson_04.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 4,
+   "title_zh": "教室与社区地图",
+   "title_ja": "教室と地図",
+   "master_sha256": "b41bf241035332efa2a3e6de91d810173ab4ef515e5762438674294227e0e407",
+   "webp_sha256": "67a77496212c115ed60883734d4e156197d7a23dfddb7cc3629ddf3823e61962"
+  },
+  "KotobaFlow1/lesson_05": {
+   "file": "KotobaFlow1/lesson_05.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 5,
+   "title_zh": "一天的时间与约定",
+   "title_ja": "一日の時間",
+   "master_sha256": "a76d17981902d57d84b361e9ae279fe4a7e46aa6e8b239adceaea14519ef85fc",
+   "webp_sha256": "0c053c2c77fb325642e6322f512383722e14cc8edec8787e57b9b30395306ed2"
+  },
+  "KotobaFlow1/lesson_06": {
+   "file": "KotobaFlow1/lesson_06.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 6,
+   "title_zh": "给马特奥",
+   "title_ja": "マテオさんへ",
+   "master_sha256": "b5d0f502e0be0c9d13a23f461dac32d6e21ff8d6c07c1c1b534f2919f028cc7f",
+   "webp_sha256": "e534c0036acfac1f4457992f256104b37d1ef83f2fc53283cf440d191ddd7bd7"
+  },
+  "KotobaFlow1/lesson_07": {
+   "file": "KotobaFlow1/lesson_07.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 7,
+   "title_zh": "日常行动与交通",
+   "title_ja": "学校へ行きます",
+   "master_sha256": "0993e3ae1e8541e8e292c069c02cab25bb2f25ad3e4abeb837a9e27c8ce35b1e",
+   "webp_sha256": "65bb3eceee3de667d391ea85101292e2ea1538b1706cdfad3029735263ce98f7"
+  },
+  "KotobaFlow1/lesson_08": {
+   "file": "KotobaFlow1/lesson_08.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 8,
+   "title_zh": "家、大学与中心",
+   "title_ja": "家と大学、センター",
+   "master_sha256": "53c479579088c5cef5f0fcc55d38c1141e43fffcf58eef3bf58f8e00e4c3ad6e",
+   "webp_sha256": "e010594e45adcdbdab33d13aa25f100817dc0e19279d235cea1efcbca4021b29"
+  },
+  "KotobaFlow1/lesson_09": {
+   "file": "KotobaFlow1/lesson_09.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 9,
+   "title_zh": "说说昨天：短日记",
+   "title_ja": "昨日",
+   "master_sha256": "6a3c69222bd9c563692c54ea86b6d37858e2a8429116da7b87944c3ba57714aa",
+   "webp_sha256": "06b6ecbfbe41603b591364e882814f93317bfd1fd4c840a6353d662bbacee731"
+  },
+  "KotobaFlow1/lesson_10": {
+   "file": "KotobaFlow1/lesson_10.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 10,
+   "title_zh": "星期六的购物",
+   "title_ja": "土曜日の買い物",
+   "master_sha256": "0c8e804d8564da8c11cdb0720c45210f624f656d2bb4ed88bf6373e1ae2bf523",
+   "webp_sha256": "fc8c67659bae4256c2537de6961fd10548d2c1a2597e46c552494c9488cc3fc2"
+  },
+  "KotobaFlow1/lesson_11": {
+   "file": "KotobaFlow1/lesson_11.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 11,
+   "title_zh": "周末的采购",
+   "title_ja": "週末の買い物",
+   "master_sha256": "e224e15383127bd3c40fba3bd15b4ef5b681f88310d44cfd8a6cb198abd1124f",
+   "webp_sha256": "9b98c73617e1b1bfb2417c56f1507bffc663e7ae876718de9dea67228ba20fd3"
+  },
+  "KotobaFlow1/lesson_12": {
+   "file": "KotobaFlow1/lesson_12.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 12,
+   "title_zh": "周末一起活动",
+   "title_ja": "週末は一緒に",
+   "master_sha256": "78674fd7c15700e6f7175c57058f942f2f062455657d7aa428557f57b8bd099e",
+   "webp_sha256": "400215c1b1b001fa47ef04cfe868a440bdcb0f7042a3824cd900c43674621902"
+  },
+  "KotobaFlow1/lesson_13": {
+   "file": "KotobaFlow1/lesson_13.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 13,
+   "title_zh": "一起准备照片交流会",
+   "title_ja": "写真の会を一緒に準備しましょう",
+   "master_sha256": "bfe37d8c921ad840515bde5ece09fcaef6f7cd166f48093e943b9c30dd28ba5a",
+   "webp_sha256": "e0af85a945b593e56662298e07176d82065d5ec1a5481c3428a820f40f93cd81"
+  },
+  "KotobaFlow1/lesson_14": {
+   "file": "KotobaFlow1/lesson_14.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 14,
+   "title_zh": "现在与平时",
+   "title_ja": "今と毎週",
+   "master_sha256": "d482e21a1e67f45e6cb293edf20dd245af0c27e7a2b89c11e6b17334837240e3",
+   "webp_sha256": "6441ef8863d08e876145718d58efeb080cfeadaee12d34f80204e7840349fa92"
+  },
+  "KotobaFlow1/lesson_15": {
+   "file": "KotobaFlow1/lesson_15.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 15,
+   "title_zh": "简短消息",
+   "title_ja": "短いメッセージ",
+   "master_sha256": "68f149408718ec4ee554df752e1601057f26f5d588518c728318e122d2e09d08",
+   "webp_sha256": "f1943e5cefa47b62673f96f68ddce89c83a2de6e4ff7755c5935d3fc3572974b"
+  },
+  "KotobaFlow1/lesson_16": {
+   "file": "KotobaFlow1/lesson_16.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 16,
+   "title_zh": "练习前后",
+   "title_ja": "練習の前と後",
+   "master_sha256": "561947bc1271f7a891781285a95c1a005ac5a07f0fe192d095f6071af49ce46a",
+   "webp_sha256": "84c3d3f28400214ab4b30762fe234eba32fd90faf69934170b62f470d2dd7acd"
+  },
+  "KotobaFlow1/lesson_17": {
+   "file": "KotobaFlow1/lesson_17.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 17,
+   "title_zh": "星期日的准备与消息",
+   "title_ja": "日曜日の準備とメッセージ",
+   "master_sha256": "6379a9bcfbf64b2d6d5fe61e87da15f5bc3d50572267853550ceae9f1b7f332e",
+   "webp_sha256": "d84de3705aac951a43011b360dc54c883882c540db61128222e7e0657c222112"
+  },
+  "KotobaFlow1/lesson_18": {
+   "file": "KotobaFlow1/lesson_18.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 18,
+   "title_zh": "和朋友的小型聚会",
+   "title_ja": "友達との集まり",
+   "master_sha256": "31997e48d4abb1e7388b44bfb4a9dcf5412ab7d1d8f135dcfd48e0a195ca450b",
+   "webp_sha256": "acd365a100dbe873b618c88614a377d3d3b519550baad1c422f9c7f5cad0421a"
+  },
+  "KotobaFlow2/lesson_01": {
+   "file": "KotobaFlow2/lesson_01.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 19,
+   "title_zh": "读书会的消息",
+   "title_ja": "読書会のメッセージ",
+   "master_sha256": "436677e227e3244b2e0927661de1d395e482ac11cdd1ad66b091b185ae6f78df",
+   "webp_sha256": "a4cbcad40e55d9ccdddd63b087a9709c482248a287f299f5098e3b7ff6dde513"
+  },
+  "KotobaFlow2/lesson_02": {
+   "file": "KotobaFlow2/lesson_02.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 20,
+   "title_zh": "哪个人，哪件遗失物",
+   "title_ja": "どの人、どの落とし物",
+   "master_sha256": "e28383e9b46dd83653635d83024847fc61e16b9168ae8443dfa0fe372b5b94c2",
+   "webp_sha256": "0cc67dcc654f29c2d733e55beef0523e4f31d4ee12d2fba61c4539cebd23a589"
+  },
+  "KotobaFlow2/lesson_03": {
+   "file": "KotobaFlow2/lesson_03.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 21,
+   "title_zh": "解释情况与改约",
+   "title_ja": "日程の変更",
+   "master_sha256": "c9884cbb3516d253135d2e8b5e3bac99af12b375c2ebf1057e655d81e8632868",
+   "webp_sha256": "ebf5e9c1fbc0de2643e595c8770fc3a90fc5f2a54d2dfc5dae50660200a8b343"
+  },
+  "KotobaFlow2/lesson_04": {
+   "file": "KotobaFlow2/lesson_04.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 22,
+   "title_zh": "经历与爱好",
+   "title_ja": "経験と趣味",
+   "master_sha256": "6c592db5a4118078ca4f2157e8a687b00e88e8769e4878b3dc9b2badb5c12796",
+   "webp_sha256": "c6df37d01d258013c780097e1113b80810a500c371d0993d487beaf9fe1a6975"
+  },
+  "KotobaFlow2/lesson_05": {
+   "file": "KotobaFlow2/lesson_05.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 23,
+   "title_zh": "旅行的回忆与计划变更",
+   "title_ja": "旅行の思い出と予定の変更",
+   "master_sha256": "a4284201006745047dac40a5d79ff68aae6968dbd7de5ec1933aaa5b0b437aa1",
+   "webp_sha256": "9902d6938bf4ce4ac21f0fad9e01bb0e3dead33400a2196a3ffb67892cb8ee2d"
+  },
+  "KotobaFlow2/lesson_06": {
+   "file": "KotobaFlow2/lesson_06.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 24,
+   "title_zh": "能做的事与学习场所",
+   "title_ja": "できることと勉強の場所",
+   "master_sha256": "912b0388893f45b74c385589e685556f0d567a874898b06f0493f319ec3fcf73",
+   "webp_sha256": "ee78c17bd912f4b1c58296676902f3faa8299a0c230ef6c354cf7eca9e338a53"
+  },
+  "KotobaFlow2/lesson_07": {
+   "file": "KotobaFlow2/lesson_07.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 25,
+   "title_zh": "友善与请求",
+   "title_ja": "親切とお願い",
+   "master_sha256": "c8526717cd0c3449019bac984d32e0fbc6a23b8dd2367b983a324361e971bc55",
+   "webp_sha256": "897a5c0c649e288bef0dbdbda3b6cc11baa1215d5ad629271f20d424c7723dfb"
+  },
+  "KotobaFlow2/lesson_08": {
+   "file": "KotobaFlow2/lesson_08.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 26,
+   "title_zh": "雨天的植物园",
+   "title_ja": "雨の日の植物園",
+   "master_sha256": "be1c0beb774431692ac1bf9ecec5507d2a51434b1b3d7dddb75f3b97ce58a87f",
+   "webp_sha256": "8389ee58d656c8eaf0405fc32f0d66b1e3ac94031b2f99884116edfcfe2f4d9b"
+  },
+  "KotobaFlow2/lesson_09": {
+   "file": "KotobaFlow2/lesson_09.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 27,
+   "title_zh": "共用厨房的规则",
+   "title_ja": "共用キッチンのルール",
+   "master_sha256": "015da88d127b4ea919629291e9a79a5e325d2749f9d971852aa5de3cd51d47f6",
+   "webp_sha256": "453e65ee513e0b0639c9241ebb5786fb218f4d558650737a56376815e37a52e2"
+  },
+  "KotobaFlow2/lesson_10": {
+   "file": "KotobaFlow2/lesson_10.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 28,
+   "title_zh": "商量各自能做的工作",
+   "title_ja": "できる仕事を相談する",
+   "master_sha256": "0e69afe8bde37d34f7a82b4e8fe678817b2ac3a1cf2427b87f42d2cdf2dc4676",
+   "webp_sha256": "a16f2cc8b1fb0b621939943580ede5f5e0aae1cf6723e8322b03ad16b9f29b54"
+  },
+  "KotobaFlow2/lesson_11": {
+   "file": "KotobaFlow2/lesson_11.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 29,
+   "title_zh": "今天我请假休息",
+   "title_ja": "今日は休みます",
+   "master_sha256": "d5b30f5f70e78d8e18e7a4de64ec73dd4fa842ec17cdac48a4d993d83afdabda",
+   "webp_sha256": "568c836f5ecc9c1afb847373f7aa7ae15f1636062be8530e60fb1990caf58402"
+  },
+  "KotobaFlow2/lesson_12": {
+   "file": "KotobaFlow2/lesson_12.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 30,
+   "title_zh": "看看天空，考虑安排",
+   "title_ja": "空を見て、予定を考える",
+   "master_sha256": "56ff6cc9881468bd121766c9dc3075158cedefac01c47a3f596cbb58ec4ebf28",
+   "webp_sha256": "a5ecf79f64eda5e28e8d337d04e32a9ff76d4fc7990e8ee3b97080d7d57cdc93"
+  },
+  "KotobaFlow2/lesson_13": {
+   "file": "KotobaFlow2/lesson_13.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 31,
+   "title_zh": "比较价格与时间",
+   "title_ja": "値段と時間を比べる",
+   "master_sha256": "2b3945c5bd3318a481912167622277d4d2bac8b146218c65c6dd98485b4800be",
+   "webp_sha256": "8435ac2a06811808734a7eb303b027582749dca1f7fe2bf25984e569ab88f194"
+  },
+  "KotobaFlow2/lesson_14": {
+   "file": "KotobaFlow2/lesson_14.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 32,
+   "title_zh": "下个月的计划",
+   "title_ja": "来月の計画",
+   "master_sha256": "ea73274bc074a5a3f41e992274bd7a19e97c18f86f8f510e7b0efd6d7ad3a986",
+   "webp_sha256": "4f09b86cf1f553c724bb51c39a8fe4efda4abbfd63f30c29cc09d26ee894911d"
+  },
+  "KotobaFlow2/lesson_15": {
+   "file": "KotobaFlow2/lesson_15.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 33,
+   "title_zh": "从小目标开始",
+   "title_ja": "小さい目標から",
+   "master_sha256": "bd312a74e6aa200c2f77a2d12ab9bc3f7bfebd418f68035dc675626a0fefeafe",
+   "webp_sha256": "f3dfabe903a5d1e5c4800c8dc065622e5f9b99bc5210cd079473971256c17357"
+  },
+  "KotobaFlow2/lesson_16": {
+   "file": "KotobaFlow2/lesson_16.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 34,
+   "title_zh": "确认顺序与期限",
+   "title_ja": "順序と期限を確認する",
+   "master_sha256": "5bd918cc91af7d2dfd5e5514c9ed1837c22b84299afe803a4d2ac3c2a9ded2a1",
+   "webp_sha256": "14dda34410d68bc173d8e1bef61907a5691472c6877d31839142fba3f0abc144"
+  },
+  "KotobaFlow2/lesson_17": {
+   "file": "KotobaFlow2/lesson_17.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 35,
+   "title_zh": "比较两个方案",
+   "title_ja": "二つの案を比べる",
+   "master_sha256": "91554e86196d0e6e88b41098de42c5dd3115c3004a1306aba16e58bf0bebe0db",
+   "webp_sha256": "e3bd7d52756ca6c00c1556e9aaedd75b29a1e2b3c43ce2eb3006b4b71f89e637"
+  },
+  "KotobaFlow2/lesson_18": {
+   "file": "KotobaFlow2/lesson_18.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 36,
+   "title_zh": "照片交流活动的准备",
+   "title_ja": "写真の会の準備",
+   "master_sha256": "f1f1750c7ef1ae8256b767677bb30e69d81f14e4424d210efade3f9bcf810834",
+   "webp_sha256": "81fd131d4cc0571d42f95e7aa7a73374222ac9faaaad91317e10def1b0ca4e63"
+  },
+  "KotobaFlow3/lesson_01": {
+   "file": "KotobaFlow3/lesson_01.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 37,
+   "title_zh": "从看得见的状态写起",
+   "title_ja": "見える状態から書く",
+   "master_sha256": "abb6bde44cded288b71551d4e44d590715c590a902b8cffdeb95e8dae1ace2b2",
+   "webp_sha256": "c155c841a4c75d1bf74fa0da73fbf7bb3bf54d5b798d2d262e7a6e194fb32ced"
+  },
+  "KotobaFlow3/lesson_02": {
+   "file": "KotobaFlow3/lesson_02.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 38,
+   "title_zh": "准备与善后",
+   "title_ja": "準備と後始末",
+   "master_sha256": "29151e456a0af260427a181711b88bfc76a7190fb3e81673076aa5d309de3625",
+   "webp_sha256": "d911f9dd1647e36ccfcddb7cd4bd81b7aa3bc14a8d1ed14b395ad8f14c6baefc"
+  },
+  "KotobaFlow3/lesson_03": {
+   "file": "KotobaFlow3/lesson_03.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 39,
+   "title_zh": "确认条件再使用",
+   "title_ja": "条件を確かめて使う",
+   "master_sha256": "67497dd8961747178ff20bc32f75fad90af121da2c4f2fb2da93db49ddb20e4c",
+   "webp_sha256": "0bed7d7f33e9f0971f5b1ff20a80c599394b62416373331827bd6af78f7abc9e"
+  },
+  "KotobaFlow3/lesson_04": {
+   "file": "KotobaFlow3/lesson_04.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 40,
+   "title_zh": "核实消息的出处",
+   "title_ja": "知らせの出典を確かめる",
+   "master_sha256": "d454f9838f47724fa55b499892d17ce1a6d218e5b016bc765c896fc7a11e114e",
+   "webp_sha256": "6e2f2895f2da883c084199d676b08c2ff5b0ebf358fce80794df0236d285fbaf"
+  },
+  "KotobaFlow3/lesson_05": {
+   "file": "KotobaFlow3/lesson_05.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 41,
+   "title_zh": "所见与所想",
+   "title_ja": "見たことと考えたこと",
+   "master_sha256": "649076558f24f975b66870b1583be25e458b8f714dceb0dcd0a5b72b43578acd",
+   "webp_sha256": "e76778888d549e5e1672b54c2d42c0a41081f6273d1887465824990fa9eed6a4"
+  },
+  "KotobaFlow3/lesson_06": {
+   "file": "KotobaFlow3/lesson_06.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 42,
+   "title_zh": "开着的电池盖",
+   "title_ja": "開いていた電池のふた",
+   "master_sha256": "271ca754b8782dc551c91ce4424b51798fe7fd6836cc1badc0638742e0d632d0",
+   "webp_sha256": "0087efc729a3d02ae73793ab2104b16c33924985536db717e56fdf7e6c1748f0"
+  },
+  "KotobaFlow3/lesson_07": {
+   "file": "KotobaFlow3/lesson_07.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 43,
+   "title_zh": "未能按时收到的摄影集",
+   "title_ja": "受け取れなかった写真集",
+   "master_sha256": "52765858cfcc070206fc56286f3e72ae25f68ded497ae0e3409e13def5ee5401",
+   "webp_sha256": "b1d96935fc3458e22c4d3628467e548bf1b13c53c44b15cf9bab92c01d820074"
+  },
+  "KotobaFlow3/lesson_08": {
+   "file": "KotobaFlow3/lesson_08.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 44,
+   "title_zh": "委托工作之前",
+   "title_ja": "仕事を任せる前に",
+   "master_sha256": "52647387a7996eca3fa61040519b75ae1aa3995dadc2020267be90d60f8b8886",
+   "webp_sha256": "bc35368f6e07a3ac30ee0e52db549885e97639806242529d86e5c7696b22b428"
+  },
+  "KotobaFlow3/lesson_09": {
+   "file": "KotobaFlow3/lesson_09.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 45,
+   "title_zh": "先想清楚是谁的行动",
+   "title_ja": "だれの行動かを考える",
+   "master_sha256": "88df69c4a7740705ff53affc419209edced2e4bf8dfd60d7d834b25243127cfd",
+   "webp_sha256": "d3ef717b55bec1098bdf13f46e8fac0614e2c4d00700d7f6948dcd8cb118fb59"
+  },
+  "KotobaFlow3/lesson_10": {
+   "file": "KotobaFlow3/lesson_10.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 46,
+   "title_zh": "预约与得体请求",
+   "title_ja": "予約と丁寧なお願い",
+   "master_sha256": "8b64bf8cefc8671d84e327182d06b28dae6f12ac0b66562fd41fc88cf779bd7e",
+   "webp_sha256": "50b9d4149a788478dc26d51c4b35b261e02330cb2f98bfd063848d85041ffc10"
+  },
+  "KotobaFlow3/lesson_11": {
+   "file": "KotobaFlow3/lesson_11.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 47,
+   "title_zh": "为了接近目标",
+   "title_ja": "目標に近づくために",
+   "master_sha256": "9e678ac041bb3e5a69238b94f20378e4fef2509748f0f1f4be254565061f6e9c",
+   "webp_sha256": "f1e8f213cfcff46c8f5fe8cf86423a81f0be61b2048c69224db4a37c95c1f9dd"
+  },
+  "KotobaFlow3/lesson_12": {
+   "file": "KotobaFlow3/lesson_12.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 48,
+   "title_zh": "遇到问题时的联系",
+   "title_ja": "困ったときの連絡",
+   "master_sha256": "4cc7b12c24f23a05f96c91c7b4706c458bcaf8bac3eb0610159003170cf97b3a",
+   "webp_sha256": "fbf39632d5ef101b74a80ad2d550151e53ab9a80e7994835e3b2e539dca67c65"
+  },
+  "KotobaFlow3/lesson_13": {
+   "file": "KotobaFlow3/lesson_13.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 49,
+   "title_zh": "确认方法与标准",
+   "title_ja": "方法と基準を確かめる",
+   "master_sha256": "0b1886404f8ae704b9dea99e8024b676a8ea23109d2e114a2d47cb0f784dbfdf",
+   "webp_sha256": "c4814f07a221b9026d5e6ed42c2b76d17903680eb231d977842f1146dd80a3bc"
+  },
+  "KotobaFlow3/lesson_14": {
+   "file": "KotobaFlow3/lesson_14.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 50,
+   "title_zh": "为计划变化做好准备",
+   "title_ja": "予定が変わる場合に備えて",
+   "master_sha256": "77da23947d79d42ce3917bc25d1ce6621b1dadea530ec612bb44f2ff0cc02392",
+   "webp_sha256": "24571897d33006d7b3140d6238296c5f515d608412e6b1801f613d7c6071fc1d"
+  },
+  "KotobaFlow3/lesson_15": {
+   "file": "KotobaFlow3/lesson_15.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 51,
+   "title_zh": "所费工夫与使用便利程度",
+   "title_ja": "手間と使いやすさ",
+   "master_sha256": "838c2d1900e08bd3813373c3db52c7e7b886da01a87951dd3dbf8579eea47069",
+   "webp_sha256": "80c097def603fa8b2205f920f037135bdb0b67b95dbace02bee269544dcd1a42"
+  },
+  "KotobaFlow3/lesson_16": {
+   "file": "KotobaFlow3/lesson_16.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 52,
+   "title_zh": "阅读调查数值",
+   "title_ja": "調査の数値を読む",
+   "master_sha256": "f87bd9dde66c89b064995910e925d41bb8570fbead167a7c024f117ee8c423ac",
+   "webp_sha256": "2bb216cc17bc7ba3d6656a2b76ac9b025f6ccc62faffa71edc64e9c9492b46cf"
+  },
+  "KotobaFlow3/lesson_17": {
+   "file": "KotobaFlow3/lesson_17.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 53,
+   "title_zh": "发送与收件",
+   "title_ja": "送信と受け取り",
+   "master_sha256": "7e9c96b3b4dc0b35beb6335f0e34dcc8c7f8138121395599dcc2215423f48554",
+   "webp_sha256": "54ffeda220bca524a24035934fcf97da2544f32ef8011d942efb87bce2a7ebd2"
+  },
+  "KotobaFlow3/lesson_18": {
+   "file": "KotobaFlow3/lesson_18.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 54,
+   "title_zh": "思考公平的分工",
+   "title_ja": "公平な分担を考える",
+   "master_sha256": "18967f8de26f904fcc7941a34e0146d377c3f30a4beed17debda67f5481afbea",
+   "webp_sha256": "9c23c7410594ad228e49a5e836131518917cba787993428491a857d7b51653c8"
+  },
+  "KotobaFlow3/lesson_19": {
+   "file": "KotobaFlow3/lesson_19.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 55,
+   "title_zh": "从调查走向下一步协商",
+   "title_ja": "調査から次の相談へ",
+   "master_sha256": "1a1ad26b1e190b7876cd4b40e5366d3509a5a0e2b574281fba44a342d876ac7b",
+   "webp_sha256": "94de4a1c397d3ac5cd9385e6be410f9535c2a0d0f5381ccfa804e320011a9b9c"
+  },
+  "KotobaFlow3/lesson_20": {
+   "file": "KotobaFlow3/lesson_20.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 56,
+   "title_zh": "核实依据后提出方案",
+   "title_ja": "根拠を確かめて提案する",
+   "master_sha256": "98a4555a0eb9b881de09e9eb59c66b77742706b89b294b3b7cfee0b2fee5952f",
+   "webp_sha256": "590e6d7a6785dea6dd1055f8552114de700ce706199467d0064ee65732b29163"
+  },
+  "KotobaFlow4/lesson_01": {
+   "file": "KotobaFlow4/lesson_01.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 57,
+   "title_zh": "读懂图书馆说明",
+   "title_ja": "図書館の案内を読む",
+   "master_sha256": "591ac0721d1b97559036020ebeab524fa97a43fdadbce772356807f42571cee0",
+   "webp_sha256": "65d892a641356304b83e8d8a83cd9be8d1c03dbe7f3fd62c079c33eee158751a"
+  },
+  "KotobaFlow4/lesson_02": {
+   "file": "KotobaFlow4/lesson_02.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 58,
+   "title_zh": "确认信息依据",
+   "title_ja": "情報の根拠を確かめる",
+   "master_sha256": "576fe7823d44dad39bead5900d9cdfaeaf29bead6bd38c2bd4205d6f5b0ec1a5",
+   "webp_sha256": "0e7e141d5d70047bd4e3ad1d81da62c1e8be44de42ce6644104e7ad3a8f78e9e"
+  },
+  "KotobaFlow4/lesson_03": {
+   "file": "KotobaFlow4/lesson_03.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 59,
+   "title_zh": "工作方式变化的过程",
+   "title_ja": "働き方が変わる過程",
+   "master_sha256": "b583249536196c789d84e2876831b5ed7b02735ff1a1fabafcddbe14d5836016",
+   "webp_sha256": "86df06519f4f73f46be8568bf577bfc4e1047903219de4ef4f2f71732ccb8fb7"
+  },
+  "KotobaFlow4/lesson_04": {
+   "file": "KotobaFlow4/lesson_04.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 60,
+   "title_zh": "核实预算与条件",
+   "title_ja": "予算と条件を確かめる",
+   "master_sha256": "734df98bb0fa838c354dc643a01f92fa4fd56c55d6378a210f4afd7a74301dfb",
+   "webp_sha256": "19d99d0a0c4fea11a22b0dcd8d5d0afb85f65d4adbb83c891c6660d9240524f2"
+  },
+  "KotobaFlow4/lesson_05": {
+   "file": "KotobaFlow4/lesson_05.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 61,
+   "title_zh": "学习会的风险与应对",
+   "title_ja": "学習会の危険と対策",
+   "master_sha256": "39306d6f0bdd5fa5bf0ca1ade2a5e898b0ea3282ac67ce054f71779fa68499b3",
+   "webp_sha256": "e9aa8ea18d186fdbde8c5902b27868083a245d45d0bf6321bdee53605d685993"
+  },
+  "KotobaFlow4/lesson_06": {
+   "file": "KotobaFlow4/lesson_06.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 62,
+   "title_zh": "比较两个方案",
+   "title_ja": "二つの案を比べる",
+   "master_sha256": "41dc1533dbfa5d33ef4de6853d65028607867dbe08a920749bde6532acb926e7",
+   "webp_sha256": "8a0fec46b569dc893ed6ce94c0a3370b6ad5db73ee239970a15b3f9921af3504"
+  },
+  "KotobaFlow4/lesson_07": {
+   "file": "KotobaFlow4/lesson_07.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 63,
+   "title_zh": "生活记录与我的感受",
+   "title_ja": "生活の記録と私の感想",
+   "master_sha256": "89f406ae7c6a8ec9671f54f5906f7598549a0189f7c89215f20edddd5d79ea0d",
+   "webp_sha256": "a764bef5b74167c58dbec942fc59fb26236825d97ab74ed5ab8fc0add2ac3a39"
+  },
+  "KotobaFlow4/lesson_08": {
+   "file": "KotobaFlow4/lesson_08.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 64,
+   "title_zh": "区分数字与立场来阅读",
+   "title_ja": "数字と立場を分けて読む",
+   "master_sha256": "12d2506908e966cbf0e21bdbfa962907b32cf93d32bf7f1d2dc7302d55dd5259",
+   "webp_sha256": "06e92918c9f06dbba627e193d6ff51d52662fec68c7b9713a98613d727a9e516"
+  },
+  "KotobaFlow4/lesson_09": {
+   "file": "KotobaFlow4/lesson_09.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 65,
+   "title_zh": "为共同生活协调安排",
+   "title_ja": "共同生活のための調整",
+   "master_sha256": "46507a81578f96b3b62a42baafbe5dbba28983b89491e84f25ca6ae784a6c903",
+   "webp_sha256": "3d5bfb7e84ec762c6ffa58e0a144464879ae6ca00b940630ef5a7c7dd8f862fc"
+  },
+  "KotobaFlow4/lesson_10": {
+   "file": "KotobaFlow4/lesson_10.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 66,
+   "title_zh": "制度的条件与例外",
+   "title_ja": "制度の条件と例外",
+   "master_sha256": "d8515a15b9ac0ca058602917c746a06def2a4de697938ad0644ea59257a77947",
+   "webp_sha256": "fb1c0fe7e207795a842c5c2385c60103931b3b0754021ac58cfac6825b6942dd"
+  },
+  "KotobaFlow4/lesson_11": {
+   "file": "KotobaFlow4/lesson_11.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 67,
+   "title_zh": "事件顺序与未完成的工作",
+   "title_ja": "出来事の順序と未完成の作業",
+   "master_sha256": "60a532369f646845e00bb10cd3372f07f2eb95f731c95f9bc82c0fd47cbb02d9",
+   "webp_sha256": "d996f7b95a7cd890f9d3f0e53774d275377eed88ac6532447cea5faee3a4a032"
+  },
+  "KotobaFlow4/lesson_12": {
+   "file": "KotobaFlow4/lesson_12.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 68,
+   "title_zh": "复习十一：分清报道与意见",
+   "title_ja": "復習十一：報道と意見を区別する",
+   "master_sha256": "3ea36d698fe036e37969c50f06fbcab5543d18a5b08dbce9571869615182ef2c",
+   "webp_sha256": "c6f670270e33854c554ae04bfaf588aefcff3b5ed5398f6d95436560946c8dd5"
+  },
+  "KotobaFlow4/lesson_13": {
+   "file": "KotobaFlow4/lesson_13.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 69,
+   "title_zh": "思考选择与结果",
+   "title_ja": "選択と結果を考える",
+   "master_sha256": "10ba5663563e8b8a533795f9d61ebfb8c48db8461c612566add9b9bb76755725",
+   "webp_sha256": "a9b6d7184039b888b7b659df2133cbfa682f95b164405769b8f701cd53d9a050"
+  },
+  "KotobaFlow4/lesson_14": {
+   "file": "KotobaFlow4/lesson_14.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 70,
+   "title_zh": "判断的强度与范围",
+   "title_ja": "判断の強さと範囲",
+   "master_sha256": "6785ca3ff67d1326dd71c7811b103ea29af9244f514653ef37bcd825fa04b310",
+   "webp_sha256": "03bda5b8386a3e1e7e6d5cbf5d9393b460122a6969b19ae30e76cd174f442f55"
+  },
+  "KotobaFlow4/lesson_15": {
+   "file": "KotobaFlow4/lesson_15.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 71,
+   "title_zh": "留在照片之外的东西",
+   "title_ja": "写真の外に残ったもの",
+   "master_sha256": "cca15068bffce69832ed2c095e5186f4674672558affa0d5d8a1b79d36041856",
+   "webp_sha256": "a9d83e45be0d80f63508644736d26846ae6640396cc26b89dcfda03b41a4ef2c"
+  },
+  "KotobaFlow4/lesson_16": {
+   "file": "KotobaFlow4/lesson_16.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 72,
+   "title_zh": "人与服务：共情、负担和表达选择",
+   "title_ja": "助ける前に希望を確認する",
+   "master_sha256": "f38197b88b2118b146860a5f7ae4569f66b9d2ec7ad1a4bc8c3e8537ce08e829",
+   "webp_sha256": "dc68474c06245285537328c67717a1593ff30db8887f7e44438e3a9dcc386570"
+  },
+  "KotobaFlow4/lesson_17": {
+   "file": "KotobaFlow4/lesson_17.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 73,
+   "title_zh": "阅读关于雨伞出借的意见",
+   "title_ja": "傘の貸出についての意見を読む",
+   "master_sha256": "c2b48a5b6d5c99383d25885ad9dce7d93efee7b1d7a0af9cd36d20eca485148a",
+   "webp_sha256": "2d331f8045088e788e00ce8802659168fedf3669639eaa0556b13b7e8b1a018a"
+  },
+  "KotobaFlow4/lesson_18": {
+   "file": "KotobaFlow4/lesson_18.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 74,
+   "title_zh": "讨论经过与最终确认",
+   "title_ja": "議論の経緯と最終確認",
+   "master_sha256": "eea9f89c37f2ba74ecf0f54b5b9282541b3e7973cfde6d7d2673faa5f865a4ba",
+   "webp_sha256": "91a842d88a9c379c8b059455cf6c021449edd16e3b4aa45a97b985325968ef58"
+  },
+  "KotobaFlow4/lesson_19": {
+   "file": "KotobaFlow4/lesson_19.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 75,
+   "title_zh": "从错误走向下一步学习",
+   "title_ja": "間違いから次の学習へ",
+   "master_sha256": "660e9b0c2afaaa0be888532da319fd5426e64700e1001096722ca8be9634ce8d",
+   "webp_sha256": "fd1af801ef0fd705322bfa5c27500cfbcf2206166de6974b7568954cebe5454d"
+  },
+  "KotobaFlow4/lesson_20": {
+   "file": "KotobaFlow4/lesson_20.webp",
+   "width": 1280,
+   "height": 720,
+   "chapter": 76,
+   "title_zh": "比较资料，说明选择的理由",
+   "title_ja": "資料を比べ、選択の理由を説明する",
+   "master_sha256": "3ff079d50c84a0243c0449febcd90eebd864153a6824214093f6c6cc52be0983",
+   "webp_sha256": "6ef06125f67769b2c38279148516383eaa55ae838106fe91ed5001ded4f2d64a"
+  }
+ }
+}

@@ -1,0 +1,621 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 51.522,
+ "listening_review": "pending",
+ "source_chapter": 2,
+ "turns": [
+  {
+   "turn_id": "C02-D001",
+   "turn_index": 0,
+   "speaker": "パク",
+   "source_text": "リンさん、こんばんは。アナンドさんです。同僚です。",
+   "sentence_ids": [
+    "C02-D001-S01",
+    "C02-D001-S02",
+    "C02-D001-S03"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.447,
+   "duration_sec": 3.447
+  },
+  {
+   "turn_id": "C02-D002",
+   "turn_index": 1,
+   "speaker": "林梅",
+   "source_text": "こんばんは。すみません。もう一度お願いします。",
+   "sentence_ids": [
+    "C02-D002-S01",
+    "C02-D002-S02",
+    "C02-D002-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 3.797,
+   "end_sec": 7.642,
+   "duration_sec": 3.845
+  },
+  {
+   "turn_id": "C02-D003",
+   "turn_index": 2,
+   "speaker": "アナンド",
+   "source_text": "初めまして。アナンド・クマールです。名前はアナンドです。国はインドです。",
+   "sentence_ids": [
+    "C02-D003-S01",
+    "C02-D003-S02",
+    "C02-D003-S03",
+    "C02-D003-S04"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.992,
+   "end_sec": 13.914,
+   "duration_sec": 5.922
+  },
+  {
+   "turn_id": "C02-D004",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "初めまして。私はリン・メイです。学生です。大学はみなと大学です。",
+   "sentence_ids": [
+    "C02-D004-S01",
+    "C02-D004-S02",
+    "C02-D004-S03",
+    "C02-D004-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 14.264,
+   "end_sec": 20.544,
+   "duration_sec": 6.28
+  },
+  {
+   "turn_id": "C02-D005",
+   "turn_index": 4,
+   "speaker": "アナンド",
+   "source_text": "留学生ですか。",
+   "sentence_ids": [
+    "C02-D005-S01"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 20.894,
+   "end_sec": 22.214,
+   "duration_sec": 1.32
+  },
+  {
+   "turn_id": "C02-D006",
+   "turn_index": 5,
+   "speaker": "林梅",
+   "source_text": "はい、留学生です。アナンドさんも会社員ですか。",
+   "sentence_ids": [
+    "C02-D006-S01",
+    "C02-D006-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 22.564,
+   "end_sec": 26.693,
+   "duration_sec": 4.129
+  },
+  {
+   "turn_id": "C02-D007",
+   "turn_index": 6,
+   "speaker": "アナンド",
+   "source_text": "はい、会社員です。ミライです。",
+   "sentence_ids": [
+    "C02-D007-S01",
+    "C02-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 27.043,
+   "end_sec": 29.791,
+   "duration_sec": 2.748
+  },
+  {
+   "turn_id": "C02-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "ミライさんですか。",
+   "sentence_ids": [
+    "C02-D008-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.141,
+   "end_sec": 31.715,
+   "duration_sec": 1.574
+  },
+  {
+   "turn_id": "C02-D009",
+   "turn_index": 8,
+   "speaker": "アナンド",
+   "source_text": "いいえ、人ではありません。ミライは会社です。",
+   "sentence_ids": [
+    "C02-D009-S01",
+    "C02-D009-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 32.065,
+   "end_sec": 35.508,
+   "duration_sec": 3.443
+  },
+  {
+   "turn_id": "C02-D010",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "ありがとうございます。",
+   "sentence_ids": [
+    "C02-D010-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 35.858,
+   "end_sec": 37.249,
+   "duration_sec": 1.391
+  },
+  {
+   "turn_id": "C02-D011",
+   "turn_index": 10,
+   "speaker": "ユーリ",
+   "source_text": "こんばんは。ユーリです。",
+   "sentence_ids": [
+    "C02-D011-S01",
+    "C02-D011-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.599,
+   "end_sec": 39.592,
+   "duration_sec": 1.993
+  },
+  {
+   "turn_id": "C02-D012",
+   "turn_index": 11,
+   "speaker": "アナンド",
+   "source_text": "ユリさんですか。",
+   "sentence_ids": [
+    "C02-D012-S01"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.942,
+   "end_sec": 41.131,
+   "duration_sec": 1.189
+  },
+  {
+   "turn_id": "C02-D013",
+   "turn_index": 12,
+   "speaker": "ユーリ",
+   "source_text": "いいえ、ユリではありません。ユーリです。",
+   "sentence_ids": [
+    "C02-D013-S01",
+    "C02-D013-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 41.481,
+   "end_sec": 44.743,
+   "duration_sec": 3.262
+  },
+  {
+   "turn_id": "C02-D014",
+   "turn_index": 13,
+   "speaker": "アナンド",
+   "source_text": "すみません。ユーリさんも会社員ですか。",
+   "sentence_ids": [
+    "C02-D014-S01",
+    "C02-D014-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 45.093,
+   "end_sec": 48.127,
+   "duration_sec": 3.034
+  },
+  {
+   "turn_id": "C02-D015",
+   "turn_index": 14,
+   "speaker": "ユーリ",
+   "source_text": "いいえ、教師です。母語は英語です。",
+   "sentence_ids": [
+    "C02-D015-S01",
+    "C02-D015-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 48.477,
+   "end_sec": 51.516,
+   "duration_sec": 3.039
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C02-D001-S01",
+   "unit_id": "C02-D001",
+   "section": "D",
+   "speaker": "パク・ソヨン",
+   "text": "リンさん、こんばんは。",
+   "start_sec": 0.0,
+   "end_sec": 1.319,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D001-S02",
+   "unit_id": "C02-D001",
+   "section": "D",
+   "speaker": "パク・ソヨン",
+   "text": "アナンドさんです。",
+   "start_sec": 1.469,
+   "end_sec": 2.463,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D001-S03",
+   "unit_id": "C02-D001",
+   "section": "D",
+   "speaker": "パク・ソヨン",
+   "text": "同僚です。",
+   "start_sec": 2.613,
+   "end_sec": 3.447,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D002-S01",
+   "unit_id": "C02-D002",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "こんばんは。",
+   "start_sec": 3.797,
+   "end_sec": 4.811,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D002-S02",
+   "unit_id": "C02-D002",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "すみません。",
+   "start_sec": 4.961,
+   "end_sec": 6.014,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D002-S03",
+   "unit_id": "C02-D002",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "もう一度お願いします。",
+   "start_sec": 6.165,
+   "end_sec": 7.642,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D003-S01",
+   "unit_id": "C02-D003",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "初めまして。",
+   "start_sec": 7.992,
+   "end_sec": 9.039,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D003-S02",
+   "unit_id": "C02-D003",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "アナンド・クマールです。",
+   "start_sec": 9.189,
+   "end_sec": 10.818,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D003-S03",
+   "unit_id": "C02-D003",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "名前はアナンドです。",
+   "start_sec": 10.968,
+   "end_sec": 12.398,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D003-S04",
+   "unit_id": "C02-D003",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "国はインドです。",
+   "start_sec": 12.548,
+   "end_sec": 13.914,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D004-S01",
+   "unit_id": "C02-D004",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "初めまして。",
+   "start_sec": 14.264,
+   "end_sec": 15.466,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D004-S02",
+   "unit_id": "C02-D004",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "私はリン・メイです。",
+   "start_sec": 15.616,
+   "end_sec": 17.184,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D004-S03",
+   "unit_id": "C02-D004",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "学生です。",
+   "start_sec": 17.334,
+   "end_sec": 18.351,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D004-S04",
+   "unit_id": "C02-D004",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "大学はみなと大学です。",
+   "start_sec": 18.501,
+   "end_sec": 20.544,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D005-S01",
+   "unit_id": "C02-D005",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "留学生ですか。",
+   "start_sec": 20.894,
+   "end_sec": 22.214,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D006-S01",
+   "unit_id": "C02-D006",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "はい、留学生です。",
+   "start_sec": 22.564,
+   "end_sec": 24.33,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D006-S02",
+   "unit_id": "C02-D006",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "アナンドさんも会社員ですか。",
+   "start_sec": 24.48,
+   "end_sec": 26.693,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D007-S01",
+   "unit_id": "C02-D007",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "はい、会社員です。",
+   "start_sec": 27.043,
+   "end_sec": 28.798,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D007-S02",
+   "unit_id": "C02-D007",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "ミライです。",
+   "start_sec": 28.948,
+   "end_sec": 29.791,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D008-S01",
+   "unit_id": "C02-D008",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "ミライさんですか。",
+   "start_sec": 30.141,
+   "end_sec": 31.715,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D009-S01",
+   "unit_id": "C02-D009",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "いいえ、人ではありません。",
+   "start_sec": 32.065,
+   "end_sec": 33.917,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D009-S02",
+   "unit_id": "C02-D009",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "ミライは会社です。",
+   "start_sec": 34.067,
+   "end_sec": 35.508,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D010-S01",
+   "unit_id": "C02-D010",
+   "section": "D",
+   "speaker": "リン・メイ",
+   "text": "ありがとうございます。",
+   "start_sec": 35.858,
+   "end_sec": 37.249,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D011-S01",
+   "unit_id": "C02-D011",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "こんばんは。",
+   "start_sec": 37.599,
+   "end_sec": 38.42,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D011-S02",
+   "unit_id": "C02-D011",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "ユーリです。",
+   "start_sec": 38.57,
+   "end_sec": 39.592,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D012-S01",
+   "unit_id": "C02-D012",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "ユリさんですか。",
+   "start_sec": 39.942,
+   "end_sec": 41.131,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D013-S01",
+   "unit_id": "C02-D013",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "いいえ、ユリではありません。",
+   "start_sec": 41.481,
+   "end_sec": 43.628,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D013-S02",
+   "unit_id": "C02-D013",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "ユーリです。",
+   "start_sec": 43.778,
+   "end_sec": 44.743,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D014-S01",
+   "unit_id": "C02-D014",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "すみません。",
+   "start_sec": 45.093,
+   "end_sec": 46.057,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D014-S02",
+   "unit_id": "C02-D014",
+   "section": "D",
+   "speaker": "アナンド・クマール",
+   "text": "ユーリさんも会社員ですか。",
+   "start_sec": 46.207,
+   "end_sec": 48.127,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D015-S01",
+   "unit_id": "C02-D015",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "いいえ、教師です。",
+   "start_sec": 48.477,
+   "end_sec": 50.142,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C02-D015-S02",
+   "unit_id": "C02-D015",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "母語は英語です。",
+   "start_sec": 50.292,
+   "end_sec": 51.516,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

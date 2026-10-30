@@ -1,0 +1,1701 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 195.264,
+ "listening_review": "pending",
+ "source_chapter": 25,
+ "turns": [
+  {
+   "turn_id": "C25-D001",
+   "turn_index": 0,
+   "speaker": "小野",
+   "source_text": "おはようございます。バザー係の小野です。",
+   "sentence_ids": [
+    "C25-D001-S01",
+    "C25-D001-S02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 2.899,
+   "duration_sec": 2.899
+  },
+  {
+   "turn_id": "C25-D002",
+   "turn_index": 1,
+   "speaker": "リー",
+   "source_text": "リーです。本を十冊届けに来ました。六日の準備を引き受けたいんです。",
+   "sentence_ids": [
+    "C25-D002-S01",
+    "C25-D002-S02",
+    "C25-D002-S03"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 3.249,
+   "end_sec": 7.89,
+   "duration_sec": 4.641
+  },
+  {
+   "turn_id": "C25-D003",
+   "turn_index": 2,
+   "speaker": "小野",
+   "source_text": "助かります。十八時に入口に来て、荷物を運んでいただけませんか。",
+   "sentence_ids": [
+    "C25-D003-S01",
+    "C25-D003-S02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 8.24,
+   "end_sec": 13.456,
+   "duration_sec": 5.216
+  },
+  {
+   "turn_id": "C25-D004",
+   "turn_index": 3,
+   "speaker": "リー",
+   "source_text": "はい。台車を借りてもいいですか。",
+   "sentence_ids": [
+    "C25-D004-S01",
+    "C25-D004-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.806,
+   "end_sec": 15.737,
+   "duration_sec": 1.931
+  },
+  {
+   "turn_id": "C25-D005",
+   "turn_index": 4,
+   "speaker": "小野",
+   "source_text": "どうぞ。台車は入口です。机は青木さんから二台借ります。あと三台はわたしが探します。",
+   "sentence_ids": [
+    "C25-D005-S01",
+    "C25-D005-S02",
+    "C25-D005-S03",
+    "C25-D005-S04"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.087,
+   "end_sec": 23.231,
+   "duration_sec": 7.144
+  },
+  {
+   "turn_id": "C25-D006",
+   "turn_index": 5,
+   "speaker": "リー",
+   "source_text": "では、荷物はわたしに任せてください。七日は十時に駅で友達を迎えます。午後は手伝えます。",
+   "sentence_ids": [
+    "C25-D006-S01",
+    "C25-D006-S02",
+    "C25-D006-S03"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 23.581,
+   "end_sec": 31.133,
+   "duration_sec": 7.552
+  },
+  {
+   "turn_id": "C25-D007",
+   "turn_index": 6,
+   "speaker": "小野",
+   "source_text": "十二時半から十五時までの受付と会計をお願いします。午前は別の人に頼みます。",
+   "sentence_ids": [
+    "C25-D007-S01",
+    "C25-D007-S02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 31.483,
+   "end_sec": 37.789,
+   "duration_sec": 6.306
+  },
+  {
+   "turn_id": "C25-D008",
+   "turn_index": 7,
+   "speaker": "リー",
+   "source_text": "会計の仕事を教えていただけませんか。",
+   "sentence_ids": [
+    "C25-D008-S01"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.139,
+   "end_sec": 40.616,
+   "duration_sec": 2.477
+  },
+  {
+   "turn_id": "C25-D009",
+   "turn_index": 8,
+   "speaker": "小野",
+   "source_text": "六日の準備の後で教えます。値段を見て、お金を受け取ります。難しい仕事はわたしがします。",
+   "sentence_ids": [
+    "C25-D009-S01",
+    "C25-D009-S02",
+    "C25-D009-S03"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 40.966,
+   "end_sec": 47.896,
+   "duration_sec": 6.93
+  },
+  {
+   "turn_id": "C25-D010",
+   "turn_index": 9,
+   "speaker": "リー",
+   "source_text": "それは有り難いです。わたしにもできる仕事があって、うれしいです。",
+   "sentence_ids": [
+    "C25-D010-S01",
+    "C25-D010-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 48.246,
+   "end_sec": 52.719,
+   "duration_sec": 4.473
+  },
+  {
+   "turn_id": "C25-D011",
+   "turn_index": 10,
+   "speaker": "小野",
+   "source_text": "皆さんには気持ちよく参加してほしいです。無理をしてほしくないです。",
+   "sentence_ids": [
+    "C25-D011-S01",
+    "C25-D011-S02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 53.069,
+   "end_sec": 57.257,
+   "duration_sec": 4.188
+  },
+  {
+   "turn_id": "C25-D012",
+   "turn_index": 11,
+   "speaker": "リー",
+   "source_text": "わたしは友達にも来てほしいです。午後、連れてきてもいいですか。",
+   "sentence_ids": [
+    "C25-D012-S01",
+    "C25-D012-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 57.607,
+   "end_sec": 62.156,
+   "duration_sec": 4.549
+  },
+  {
+   "turn_id": "C25-D013",
+   "turn_index": 12,
+   "speaker": "小野",
+   "source_text": "もちろんです。友達に何かあげますか。",
+   "sentence_ids": [
+    "C25-D013-S01",
+    "C25-D013-S02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 62.506,
+   "end_sec": 65.786,
+   "duration_sec": 3.28
+  },
+  {
+   "turn_id": "C25-D014",
+   "turn_index": 13,
+   "speaker": "リー",
+   "source_text": "プレゼントに本を買います。友達に新しい仕事が決まったんです。",
+   "sentence_ids": [
+    "C25-D014-S01",
+    "C25-D014-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 66.136,
+   "end_sec": 70.866,
+   "duration_sec": 4.73
+  },
+  {
+   "turn_id": "C25-D015",
+   "turn_index": 14,
+   "speaker": "小野",
+   "source_text": "おめでたいですね。わたしもお祝いを言いたいです。",
+   "sentence_ids": [
+    "C25-D015-S01",
+    "C25-D015-S02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 71.216,
+   "end_sec": 74.5,
+   "duration_sec": 3.284
+  },
+  {
+   "turn_id": "C25-D016",
+   "turn_index": 15,
+   "speaker": "リー",
+   "source_text": "ありがとうございます。七日の昼、青木さんが差し入れを届けてくれますね。",
+   "sentence_ids": [
+    "C25-D016-S01",
+    "C25-D016-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 74.85,
+   "end_sec": 79.64,
+   "duration_sec": 4.79
+  },
+  {
+   "turn_id": "C25-D017",
+   "turn_index": 16,
+   "speaker": "小野",
+   "source_text": "はい、お茶です。青木さんにも手伝ってもらいます。明日、当番の紙の写真を送りましょうか。",
+   "sentence_ids": [
+    "C25-D017-S01",
+    "C25-D017-S02",
+    "C25-D017-S03"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 79.99,
+   "end_sec": 86.572,
+   "duration_sec": 6.582
+  },
+  {
+   "turn_id": "C25-D018",
+   "turn_index": 17,
+   "speaker": "リー",
+   "source_text": "お願いします。今日は青木さんを訪ねて、直接お礼を言います。",
+   "sentence_ids": [
+    "C25-D018-S01",
+    "C25-D018-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 86.922,
+   "end_sec": 91.374,
+   "duration_sec": 4.452
+  },
+  {
+   "turn_id": "C25-D023",
+   "turn_index": 18,
+   "speaker": "リー",
+   "source_text": "ごめんください。リーです。",
+   "sentence_ids": [
+    "C25-D023-S01",
+    "C25-D023-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 92.274,
+   "end_sec": 94.652,
+   "duration_sec": 2.378
+  },
+  {
+   "turn_id": "C25-D024",
+   "turn_index": 19,
+   "speaker": "青木",
+   "source_text": "いらっしゃい。入口まで出迎えに行きますね。元気ですか。",
+   "sentence_ids": [
+    "C25-D024-S01",
+    "C25-D024-S02",
+    "C25-D024-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 95.002,
+   "end_sec": 99.783,
+   "duration_sec": 4.781
+  },
+  {
+   "turn_id": "C25-D025",
+   "turn_index": 20,
+   "speaker": "リー",
+   "source_text": "おかげさまで元気です。これは手みやげです。ささやかな贈り物ですが、どうぞ。",
+   "sentence_ids": [
+    "C25-D025-S01",
+    "C25-D025-S02",
+    "C25-D025-S03"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 100.133,
+   "end_sec": 106.104,
+   "duration_sec": 5.971
+  },
+  {
+   "turn_id": "C25-D026",
+   "turn_index": 21,
+   "speaker": "青木",
+   "source_text": "ありがとう。この包みはお菓子ですか。わたしの大好物です。お茶をどうぞ。",
+   "sentence_ids": [
+    "C25-D026-S01",
+    "C25-D026-S02",
+    "C25-D026-S03",
+    "C25-D026-S04"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 106.454,
+   "end_sec": 112.6,
+   "duration_sec": 6.146
+  },
+  {
+   "turn_id": "C25-D027",
+   "turn_index": 22,
+   "speaker": "リー",
+   "source_text": "ありがとうございます。でも、どうぞおかまいなく。今日はお願いがあります。",
+   "sentence_ids": [
+    "C25-D027-S01",
+    "C25-D027-S02",
+    "C25-D027-S03"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 112.95,
+   "end_sec": 117.952,
+   "duration_sec": 5.002
+  },
+  {
+   "turn_id": "C25-D028",
+   "turn_index": 23,
+   "speaker": "青木",
+   "source_text": "何ですか。今は時間がありますよ。",
+   "sentence_ids": [
+    "C25-D028-S01",
+    "C25-D028-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 118.302,
+   "end_sec": 122.295,
+   "duration_sec": 3.993
+  },
+  {
+   "turn_id": "C25-D029",
+   "turn_index": 24,
+   "speaker": "リー",
+   "source_text": "七日の午後、友達をここに連れてきてもいいですか。新しい仕事のお祝いに本をプレゼントします。",
+   "sentence_ids": [
+    "C25-D029-S01",
+    "C25-D029-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 122.645,
+   "end_sec": 129.921,
+   "duration_sec": 7.276
+  },
+  {
+   "turn_id": "C25-D030",
+   "turn_index": 25,
+   "speaker": "青木",
+   "source_text": "ええ、わたしも一緒に祝いたいです。夕飯をごちそうします。お客さんをもてなすのが好きなんです。",
+   "sentence_ids": [
+    "C25-D030-S01",
+    "C25-D030-S02",
+    "C25-D030-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 130.271,
+   "end_sec": 136.217,
+   "duration_sec": 5.946
+  },
+  {
+   "turn_id": "C25-D031",
+   "turn_index": 26,
+   "speaker": "リー",
+   "source_text": "ありがとうございます。ご招待を受けます。友達はキッチンの仕事をします。",
+   "sentence_ids": [
+    "C25-D031-S01",
+    "C25-D031-S02",
+    "C25-D031-S03"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 136.567,
+   "end_sec": 141.778,
+   "duration_sec": 5.211
+  },
+  {
+   "turn_id": "C25-D032",
+   "turn_index": 27,
+   "speaker": "青木",
+   "source_text": "では、料理の話ができますね。先輩にもらった本も見せます。",
+   "sentence_ids": [
+    "C25-D032-S01",
+    "C25-D032-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 142.128,
+   "end_sec": 146.702,
+   "duration_sec": 4.574
+  },
+  {
+   "turn_id": "C25-D033",
+   "turn_index": 28,
+   "speaker": "リー",
+   "source_text": "でも、帰りは引き止めないでほしいです。友達は翌朝、早く起きますから。",
+   "sentence_ids": [
+    "C25-D033-S01",
+    "C25-D033-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 147.052,
+   "end_sec": 151.97,
+   "duration_sec": 4.918
+  },
+  {
+   "turn_id": "C25-D034",
+   "turn_index": 29,
+   "speaker": "青木",
+   "source_text": "わかりました。駅まで見送ります。",
+   "sentence_ids": [
+    "C25-D034-S01",
+    "C25-D034-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 152.32,
+   "end_sec": 154.799,
+   "duration_sec": 2.479
+  },
+  {
+   "turn_id": "C25-D035",
+   "turn_index": 30,
+   "speaker": "リー",
+   "source_text": "いつも助けてもらって、すみません。",
+   "sentence_ids": [
+    "C25-D035-S01"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 155.149,
+   "end_sec": 156.936,
+   "duration_sec": 1.787
+  },
+  {
+   "turn_id": "C25-D036",
+   "turn_index": 31,
+   "speaker": "青木",
+   "source_text": "お互い様ですよ。わたしも駅の地図を見せてもらいました。",
+   "sentence_ids": [
+    "C25-D036-S01",
+    "C25-D036-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 157.286,
+   "end_sec": 161.739,
+   "duration_sec": 4.453
+  },
+  {
+   "turn_id": "C25-D037",
+   "turn_index": 32,
+   "speaker": "リー",
+   "source_text": "では、七日に来ます。お邪魔しました。",
+   "sentence_ids": [
+    "C25-D037-S01",
+    "C25-D037-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 162.089,
+   "end_sec": 164.744,
+   "duration_sec": 2.655
+  },
+  {
+   "turn_id": "C25-D038",
+   "turn_index": 33,
+   "speaker": "青木",
+   "source_text": "お疲れ様でした。レンさん、新しい仕事、おめでとうございます。",
+   "sentence_ids": [
+    "C25-D038-S01",
+    "C25-D038-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 165.644,
+   "end_sec": 170.438,
+   "duration_sec": 4.794
+  },
+  {
+   "turn_id": "C25-D039",
+   "turn_index": 34,
+   "speaker": "レン",
+   "source_text": "ありがとうございます。皆さんの祝福がうれしいです。この本もお祝いですか。",
+   "sentence_ids": [
+    "C25-D039-S01",
+    "C25-D039-S02",
+    "C25-D039-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 170.788,
+   "end_sec": 177.061,
+   "duration_sec": 6.273
+  },
+  {
+   "turn_id": "C25-D040",
+   "turn_index": 35,
+   "speaker": "リー",
+   "source_text": "はい。ギフトの包みを開けてください。料理の本です。",
+   "sentence_ids": [
+    "C25-D040-S01",
+    "C25-D040-S02",
+    "C25-D040-S03"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 177.411,
+   "end_sec": 181.384,
+   "duration_sec": 3.973
+  },
+  {
+   "turn_id": "C25-D041",
+   "turn_index": 36,
+   "speaker": "レン",
+   "source_text": "うれしいです。今日はご馳走になって、すみません。",
+   "sentence_ids": [
+    "C25-D041-S01",
+    "C25-D041-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 181.734,
+   "end_sec": 185.501,
+   "duration_sec": 3.767
+  },
+  {
+   "turn_id": "C25-D042",
+   "turn_index": 37,
+   "speaker": "青木",
+   "source_text": "どういたしまして。料理は大丈夫でしたか。",
+   "sentence_ids": [
+    "C25-D042-S01",
+    "C25-D042-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 185.851,
+   "end_sec": 189.243,
+   "duration_sec": 3.392
+  },
+  {
+   "turn_id": "C25-D043",
+   "turn_index": 38,
+   "speaker": "レン",
+   "source_text": "はい。とてもおいしかったです。明日の仕事でも、この料理を作りたいです。",
+   "sentence_ids": [
+    "C25-D043-S01",
+    "C25-D043-S02",
+    "C25-D043-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 189.593,
+   "end_sec": 195.257,
+   "duration_sec": 5.664
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C25-D001-S01",
+   "unit_id": "C25-D001",
+   "section": "D",
+   "speaker": "小野",
+   "text": "おはようございます。",
+   "start_sec": 0.0,
+   "end_sec": 1.272,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D001-S02",
+   "unit_id": "C25-D001",
+   "section": "D",
+   "speaker": "小野",
+   "text": "バザー係の小野です。",
+   "start_sec": 1.422,
+   "end_sec": 2.899,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D002-S01",
+   "unit_id": "C25-D002",
+   "section": "D",
+   "speaker": "リー",
+   "text": "リーです。",
+   "start_sec": 3.249,
+   "end_sec": 3.922,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D002-S02",
+   "unit_id": "C25-D002",
+   "section": "D",
+   "speaker": "リー",
+   "text": "本を十冊届けに来ました。",
+   "start_sec": 4.072,
+   "end_sec": 5.786,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D002-S03",
+   "unit_id": "C25-D002",
+   "section": "D",
+   "speaker": "リー",
+   "text": "六日の準備を引き受けたいんです。",
+   "start_sec": 5.936,
+   "end_sec": 7.89,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D003-S01",
+   "unit_id": "C25-D003",
+   "section": "D",
+   "speaker": "小野",
+   "text": "助かります。",
+   "start_sec": 8.24,
+   "end_sec": 9.372,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D003-S02",
+   "unit_id": "C25-D003",
+   "section": "D",
+   "speaker": "小野",
+   "text": "十八時に入口に来て、荷物を運んでいただけませんか。",
+   "start_sec": 9.522,
+   "end_sec": 13.456,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D004-S01",
+   "unit_id": "C25-D004",
+   "section": "D",
+   "speaker": "リー",
+   "text": "はい。",
+   "start_sec": 13.806,
+   "end_sec": 14.265,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D004-S02",
+   "unit_id": "C25-D004",
+   "section": "D",
+   "speaker": "リー",
+   "text": "台車を借りてもいいですか。",
+   "start_sec": 14.415,
+   "end_sec": 15.737,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D005-S01",
+   "unit_id": "C25-D005",
+   "section": "D",
+   "speaker": "小野",
+   "text": "どうぞ。",
+   "start_sec": 16.087,
+   "end_sec": 16.844,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D005-S02",
+   "unit_id": "C25-D005",
+   "section": "D",
+   "speaker": "小野",
+   "text": "台車は入口です。",
+   "start_sec": 16.994,
+   "end_sec": 18.363,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D005-S03",
+   "unit_id": "C25-D005",
+   "section": "D",
+   "speaker": "小野",
+   "text": "机は青木さんから二台借ります。",
+   "start_sec": 18.513,
+   "end_sec": 20.831,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D005-S04",
+   "unit_id": "C25-D005",
+   "section": "D",
+   "speaker": "小野",
+   "text": "あと三台はわたしが探します。",
+   "start_sec": 20.981,
+   "end_sec": 23.231,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D006-S01",
+   "unit_id": "C25-D006",
+   "section": "D",
+   "speaker": "リー",
+   "text": "では、荷物はわたしに任せてください。",
+   "start_sec": 23.581,
+   "end_sec": 26.551,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D006-S02",
+   "unit_id": "C25-D006",
+   "section": "D",
+   "speaker": "リー",
+   "text": "七日は十時に駅で友達を迎えます。",
+   "start_sec": 26.701,
+   "end_sec": 29.795,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D006-S03",
+   "unit_id": "C25-D006",
+   "section": "D",
+   "speaker": "リー",
+   "text": "午後は手伝えます。",
+   "start_sec": 29.945,
+   "end_sec": 31.133,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D007-S01",
+   "unit_id": "C25-D007",
+   "section": "D",
+   "speaker": "小野",
+   "text": "十二時半から十五時までの受付と会計をお願いします。",
+   "start_sec": 31.483,
+   "end_sec": 35.551,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D007-S02",
+   "unit_id": "C25-D007",
+   "section": "D",
+   "speaker": "小野",
+   "text": "午前は別の人に頼みます。",
+   "start_sec": 35.701,
+   "end_sec": 37.789,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D008-S01",
+   "unit_id": "C25-D008",
+   "section": "D",
+   "speaker": "リー",
+   "text": "会計の仕事を教えていただけませんか。",
+   "start_sec": 38.139,
+   "end_sec": 40.616,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D009-S01",
+   "unit_id": "C25-D009",
+   "section": "D",
+   "speaker": "小野",
+   "text": "六日の準備の後で教えます。",
+   "start_sec": 40.966,
+   "end_sec": 42.999,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D009-S02",
+   "unit_id": "C25-D009",
+   "section": "D",
+   "speaker": "小野",
+   "text": "値段を見て、お金を受け取ります。",
+   "start_sec": 43.149,
+   "end_sec": 45.776,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D009-S03",
+   "unit_id": "C25-D009",
+   "section": "D",
+   "speaker": "小野",
+   "text": "難しい仕事はわたしがします。",
+   "start_sec": 45.926,
+   "end_sec": 47.896,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D010-S01",
+   "unit_id": "C25-D010",
+   "section": "D",
+   "speaker": "リー",
+   "text": "それは有り難いです。",
+   "start_sec": 48.246,
+   "end_sec": 49.947,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D010-S02",
+   "unit_id": "C25-D010",
+   "section": "D",
+   "speaker": "リー",
+   "text": "わたしにもできる仕事があって、うれしいです。",
+   "start_sec": 50.096,
+   "end_sec": 52.719,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D011-S01",
+   "unit_id": "C25-D011",
+   "section": "D",
+   "speaker": "小野",
+   "text": "皆さんには気持ちよく参加してほしいです。",
+   "start_sec": 53.069,
+   "end_sec": 55.655,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D011-S02",
+   "unit_id": "C25-D011",
+   "section": "D",
+   "speaker": "小野",
+   "text": "無理をしてほしくないです。",
+   "start_sec": 55.805,
+   "end_sec": 57.257,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D012-S01",
+   "unit_id": "C25-D012",
+   "section": "D",
+   "speaker": "リー",
+   "text": "わたしは友達にも来てほしいです。",
+   "start_sec": 57.607,
+   "end_sec": 60.304,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D012-S02",
+   "unit_id": "C25-D012",
+   "section": "D",
+   "speaker": "リー",
+   "text": "午後、連れてきてもいいですか。",
+   "start_sec": 60.454,
+   "end_sec": 62.156,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D013-S01",
+   "unit_id": "C25-D013",
+   "section": "D",
+   "speaker": "小野",
+   "text": "もちろんです。",
+   "start_sec": 62.506,
+   "end_sec": 63.648,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D013-S02",
+   "unit_id": "C25-D013",
+   "section": "D",
+   "speaker": "小野",
+   "text": "友達に何かあげますか。",
+   "start_sec": 63.798,
+   "end_sec": 65.786,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D014-S01",
+   "unit_id": "C25-D014",
+   "section": "D",
+   "speaker": "リー",
+   "text": "プレゼントに本を買います。",
+   "start_sec": 66.136,
+   "end_sec": 67.877,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D014-S02",
+   "unit_id": "C25-D014",
+   "section": "D",
+   "speaker": "リー",
+   "text": "友達に新しい仕事が決まったんです。",
+   "start_sec": 68.027,
+   "end_sec": 70.866,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D015-S01",
+   "unit_id": "C25-D015",
+   "section": "D",
+   "speaker": "小野",
+   "text": "おめでたいですね。",
+   "start_sec": 71.216,
+   "end_sec": 72.596,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D015-S02",
+   "unit_id": "C25-D015",
+   "section": "D",
+   "speaker": "小野",
+   "text": "わたしもお祝いを言いたいです。",
+   "start_sec": 72.746,
+   "end_sec": 74.5,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D016-S01",
+   "unit_id": "C25-D016",
+   "section": "D",
+   "speaker": "リー",
+   "text": "ありがとうございます。",
+   "start_sec": 74.85,
+   "end_sec": 76.038,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D016-S02",
+   "unit_id": "C25-D016",
+   "section": "D",
+   "speaker": "リー",
+   "text": "七日の昼、青木さんが差し入れを届けてくれますね。",
+   "start_sec": 76.188,
+   "end_sec": 79.64,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D017-S01",
+   "unit_id": "C25-D017",
+   "section": "D",
+   "speaker": "小野",
+   "text": "はい、お茶です。",
+   "start_sec": 79.99,
+   "end_sec": 81.194,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D017-S02",
+   "unit_id": "C25-D017",
+   "section": "D",
+   "speaker": "小野",
+   "text": "青木さんにも手伝ってもらいます。",
+   "start_sec": 81.344,
+   "end_sec": 83.735,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D017-S03",
+   "unit_id": "C25-D017",
+   "section": "D",
+   "speaker": "小野",
+   "text": "明日、当番の紙の写真を送りましょうか。",
+   "start_sec": 83.885,
+   "end_sec": 86.572,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D018-S01",
+   "unit_id": "C25-D018",
+   "section": "D",
+   "speaker": "リー",
+   "text": "お願いします。",
+   "start_sec": 86.922,
+   "end_sec": 87.898,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D018-S02",
+   "unit_id": "C25-D018",
+   "section": "D",
+   "speaker": "リー",
+   "text": "今日は青木さんを訪ねて、直接お礼を言います。",
+   "start_sec": 88.048,
+   "end_sec": 91.374,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D023-S01",
+   "unit_id": "C25-D023",
+   "section": "D",
+   "speaker": "リー",
+   "text": "ごめんください。",
+   "start_sec": 92.274,
+   "end_sec": 93.427,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D023-S02",
+   "unit_id": "C25-D023",
+   "section": "D",
+   "speaker": "リー",
+   "text": "リーです。",
+   "start_sec": 93.577,
+   "end_sec": 94.652,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D024-S01",
+   "unit_id": "C25-D024",
+   "section": "D",
+   "speaker": "青木",
+   "text": "いらっしゃい。",
+   "start_sec": 95.002,
+   "end_sec": 96.187,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D024-S02",
+   "unit_id": "C25-D024",
+   "section": "D",
+   "speaker": "青木",
+   "text": "入口まで出迎えに行きますね。",
+   "start_sec": 96.337,
+   "end_sec": 98.59,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D024-S03",
+   "unit_id": "C25-D024",
+   "section": "D",
+   "speaker": "青木",
+   "text": "元気ですか。",
+   "start_sec": 98.74,
+   "end_sec": 99.783,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D025-S01",
+   "unit_id": "C25-D025",
+   "section": "D",
+   "speaker": "リー",
+   "text": "おかげさまで元気です。",
+   "start_sec": 100.133,
+   "end_sec": 101.92,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D025-S02",
+   "unit_id": "C25-D025",
+   "section": "D",
+   "speaker": "リー",
+   "text": "これは手みやげです。",
+   "start_sec": 102.07,
+   "end_sec": 103.358,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D025-S03",
+   "unit_id": "C25-D025",
+   "section": "D",
+   "speaker": "リー",
+   "text": "ささやかな贈り物ですが、どうぞ。",
+   "start_sec": 103.508,
+   "end_sec": 106.104,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D026-S01",
+   "unit_id": "C25-D026",
+   "section": "D",
+   "speaker": "青木",
+   "text": "ありがとう。",
+   "start_sec": 106.454,
+   "end_sec": 107.76,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D026-S02",
+   "unit_id": "C25-D026",
+   "section": "D",
+   "speaker": "青木",
+   "text": "この包みはお菓子ですか。",
+   "start_sec": 107.91,
+   "end_sec": 109.79,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D026-S03",
+   "unit_id": "C25-D026",
+   "section": "D",
+   "speaker": "青木",
+   "text": "わたしの大好物です。",
+   "start_sec": 109.94,
+   "end_sec": 111.466,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D026-S04",
+   "unit_id": "C25-D026",
+   "section": "D",
+   "speaker": "青木",
+   "text": "お茶をどうぞ。",
+   "start_sec": 111.616,
+   "end_sec": 112.6,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D027-S01",
+   "unit_id": "C25-D027",
+   "section": "D",
+   "speaker": "リー",
+   "text": "ありがとうございます。",
+   "start_sec": 112.95,
+   "end_sec": 114.241,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D027-S02",
+   "unit_id": "C25-D027",
+   "section": "D",
+   "speaker": "リー",
+   "text": "でも、どうぞおかまいなく。",
+   "start_sec": 114.391,
+   "end_sec": 116.095,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D027-S03",
+   "unit_id": "C25-D027",
+   "section": "D",
+   "speaker": "リー",
+   "text": "今日はお願いがあります。",
+   "start_sec": 116.245,
+   "end_sec": 117.952,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D028-S01",
+   "unit_id": "C25-D028",
+   "section": "D",
+   "speaker": "青木",
+   "text": "何ですか。",
+   "start_sec": 118.302,
+   "end_sec": 119.259,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D028-S02",
+   "unit_id": "C25-D028",
+   "section": "D",
+   "speaker": "青木",
+   "text": "今は時間がありますよ。",
+   "start_sec": 119.409,
+   "end_sec": 122.295,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D029-S01",
+   "unit_id": "C25-D029",
+   "section": "D",
+   "speaker": "リー",
+   "text": "七日の午後、友達をここに連れてきてもいいですか。",
+   "start_sec": 122.645,
+   "end_sec": 126.676,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D029-S02",
+   "unit_id": "C25-D029",
+   "section": "D",
+   "speaker": "リー",
+   "text": "新しい仕事のお祝いに本をプレゼントします。",
+   "start_sec": 126.826,
+   "end_sec": 129.921,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D030-S01",
+   "unit_id": "C25-D030",
+   "section": "D",
+   "speaker": "青木",
+   "text": "ええ、わたしも一緒に祝いたいです。",
+   "start_sec": 130.271,
+   "end_sec": 132.178,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D030-S02",
+   "unit_id": "C25-D030",
+   "section": "D",
+   "speaker": "青木",
+   "text": "夕飯をごちそうします。",
+   "start_sec": 132.328,
+   "end_sec": 133.945,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D030-S03",
+   "unit_id": "C25-D030",
+   "section": "D",
+   "speaker": "青木",
+   "text": "お客さんをもてなすのが好きなんです。",
+   "start_sec": 134.095,
+   "end_sec": 136.217,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D031-S01",
+   "unit_id": "C25-D031",
+   "section": "D",
+   "speaker": "リー",
+   "text": "ありがとうございます。",
+   "start_sec": 136.567,
+   "end_sec": 137.634,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D031-S02",
+   "unit_id": "C25-D031",
+   "section": "D",
+   "speaker": "リー",
+   "text": "ご招待を受けます。",
+   "start_sec": 137.784,
+   "end_sec": 139.318,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D031-S03",
+   "unit_id": "C25-D031",
+   "section": "D",
+   "speaker": "リー",
+   "text": "友達はキッチンの仕事をします。",
+   "start_sec": 139.468,
+   "end_sec": 141.778,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D032-S01",
+   "unit_id": "C25-D032",
+   "section": "D",
+   "speaker": "青木",
+   "text": "では、料理の話ができますね。",
+   "start_sec": 142.128,
+   "end_sec": 144.567,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D032-S02",
+   "unit_id": "C25-D032",
+   "section": "D",
+   "speaker": "青木",
+   "text": "先輩にもらった本も見せます。",
+   "start_sec": 144.717,
+   "end_sec": 146.702,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D033-S01",
+   "unit_id": "C25-D033",
+   "section": "D",
+   "speaker": "リー",
+   "text": "でも、帰りは引き止めないでほしいです。",
+   "start_sec": 147.052,
+   "end_sec": 149.605,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D033-S02",
+   "unit_id": "C25-D033",
+   "section": "D",
+   "speaker": "リー",
+   "text": "友達は翌朝、早く起きますから。",
+   "start_sec": 149.755,
+   "end_sec": 151.97,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D034-S01",
+   "unit_id": "C25-D034",
+   "section": "D",
+   "speaker": "青木",
+   "text": "わかりました。",
+   "start_sec": 152.32,
+   "end_sec": 153.246,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D034-S02",
+   "unit_id": "C25-D034",
+   "section": "D",
+   "speaker": "青木",
+   "text": "駅まで見送ります。",
+   "start_sec": 153.396,
+   "end_sec": 154.799,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D035-S01",
+   "unit_id": "C25-D035",
+   "section": "D",
+   "speaker": "リー",
+   "text": "いつも助けてもらって、すみません。",
+   "start_sec": 155.149,
+   "end_sec": 156.936,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D036-S01",
+   "unit_id": "C25-D036",
+   "section": "D",
+   "speaker": "青木",
+   "text": "お互い様ですよ。",
+   "start_sec": 157.286,
+   "end_sec": 158.919,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D036-S02",
+   "unit_id": "C25-D036",
+   "section": "D",
+   "speaker": "青木",
+   "text": "わたしも駅の地図を見せてもらいました。",
+   "start_sec": 159.069,
+   "end_sec": 161.739,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D037-S01",
+   "unit_id": "C25-D037",
+   "section": "D",
+   "speaker": "リー",
+   "text": "では、七日に来ます。",
+   "start_sec": 162.089,
+   "end_sec": 163.612,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D037-S02",
+   "unit_id": "C25-D037",
+   "section": "D",
+   "speaker": "リー",
+   "text": "お邪魔しました。",
+   "start_sec": 163.762,
+   "end_sec": 164.744,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D038-S01",
+   "unit_id": "C25-D038",
+   "section": "D",
+   "speaker": "青木",
+   "text": "お疲れ様でした。",
+   "start_sec": 165.644,
+   "end_sec": 167.109,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D038-S02",
+   "unit_id": "C25-D038",
+   "section": "D",
+   "speaker": "青木",
+   "text": "レンさん、新しい仕事、おめでとうございます。",
+   "start_sec": 167.259,
+   "end_sec": 170.438,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D039-S01",
+   "unit_id": "C25-D039",
+   "section": "D",
+   "speaker": "レン",
+   "text": "ありがとうございます。",
+   "start_sec": 170.788,
+   "end_sec": 172.222,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D039-S02",
+   "unit_id": "C25-D039",
+   "section": "D",
+   "speaker": "レン",
+   "text": "皆さんの祝福がうれしいです。",
+   "start_sec": 172.372,
+   "end_sec": 175.003,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D039-S03",
+   "unit_id": "C25-D039",
+   "section": "D",
+   "speaker": "レン",
+   "text": "この本もお祝いですか。",
+   "start_sec": 175.153,
+   "end_sec": 177.061,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D040-S01",
+   "unit_id": "C25-D040",
+   "section": "D",
+   "speaker": "リー",
+   "text": "はい。",
+   "start_sec": 177.411,
+   "end_sec": 178.249,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D040-S02",
+   "unit_id": "C25-D040",
+   "section": "D",
+   "speaker": "リー",
+   "text": "ギフトの包みを開けてください。",
+   "start_sec": 178.399,
+   "end_sec": 180.048,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D040-S03",
+   "unit_id": "C25-D040",
+   "section": "D",
+   "speaker": "リー",
+   "text": "料理の本です。",
+   "start_sec": 180.198,
+   "end_sec": 181.384,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D041-S01",
+   "unit_id": "C25-D041",
+   "section": "D",
+   "speaker": "レン",
+   "text": "うれしいです。",
+   "start_sec": 181.734,
+   "end_sec": 182.994,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D041-S02",
+   "unit_id": "C25-D041",
+   "section": "D",
+   "speaker": "レン",
+   "text": "今日はご馳走になって、すみません。",
+   "start_sec": 183.144,
+   "end_sec": 185.501,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D042-S01",
+   "unit_id": "C25-D042",
+   "section": "D",
+   "speaker": "青木",
+   "text": "どういたしまして。",
+   "start_sec": 185.851,
+   "end_sec": 187.34,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D042-S02",
+   "unit_id": "C25-D042",
+   "section": "D",
+   "speaker": "青木",
+   "text": "料理は大丈夫でしたか。",
+   "start_sec": 187.49,
+   "end_sec": 189.243,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D043-S01",
+   "unit_id": "C25-D043",
+   "section": "D",
+   "speaker": "レン",
+   "text": "はい。",
+   "start_sec": 189.593,
+   "end_sec": 190.551,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D043-S02",
+   "unit_id": "C25-D043",
+   "section": "D",
+   "speaker": "レン",
+   "text": "とてもおいしかったです。",
+   "start_sec": 190.701,
+   "end_sec": 192.256,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C25-D043-S03",
+   "unit_id": "C25-D043",
+   "section": "D",
+   "speaker": "レン",
+   "text": "明日の仕事でも、この料理を作りたいです。",
+   "start_sec": 192.406,
+   "end_sec": 195.257,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

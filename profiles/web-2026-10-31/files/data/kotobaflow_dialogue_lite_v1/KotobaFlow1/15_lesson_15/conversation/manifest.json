@@ -1,0 +1,1086 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 119.763,
+ "listening_review": "pending",
+ "source_chapter": 15,
+ "turns": [
+  {
+   "turn_id": "C15-D001",
+   "turn_index": 0,
+   "speaker": "中村",
+   "source_text": "こんにちは。一時ですね。二時までここで一緒に練習しましょう。メールの転送はリンさんにも聞いてください。",
+   "sentence_ids": [
+    "C15-D001-S01",
+    "C15-D001-S02",
+    "C15-D001-S03",
+    "C15-D001-S04"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 7.47,
+   "duration_sec": 7.47
+  },
+  {
+   "turn_id": "C15-D002",
+   "turn_index": 1,
+   "speaker": "マテオ",
+   "source_text": "リンさん、先生に転送してもいいですか。買い物の文章も練習に使いたいです。",
+   "sentence_ids": [
+    "C15-D002-S01",
+    "C15-D002-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.82,
+   "end_sec": 13.083,
+   "duration_sec": 5.263
+  },
+  {
+   "turn_id": "C15-D003",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "ええ、いいですよ。アドレスは他の人に教えてはいけませんね。",
+   "sentence_ids": [
+    "C15-D003-S01",
+    "C15-D003-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.433,
+   "end_sec": 17.629,
+   "duration_sec": 4.196
+  },
+  {
+   "turn_id": "C15-D004",
+   "turn_index": 3,
+   "speaker": "マテオ",
+   "source_text": "分かりました。今日は普通体で練習したいです。",
+   "sentence_ids": [
+    "C15-D004-S01",
+    "C15-D004-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 17.979,
+   "end_sec": 20.884,
+   "duration_sec": 2.905
+  },
+  {
+   "turn_id": "C15-D005",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "私もです。昨日はセンターにいました。机に本がありました。でも、電話はありませんでした。",
+   "sentence_ids": [
+    "C15-D005-S01",
+    "C15-D005-S02",
+    "C15-D005-S03",
+    "C15-D005-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.234,
+   "end_sec": 28.155,
+   "duration_sec": 6.921
+  },
+  {
+   "turn_id": "C15-D006",
+   "turn_index": 5,
+   "speaker": "中村",
+   "source_text": "今日はあそこに普通の電話がありますね。では、買い物の後の雑談をお願いします。",
+   "sentence_ids": [
+    "C15-D006-S01",
+    "C15-D006-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.505,
+   "end_sec": 34.628,
+   "duration_sec": 6.123
+  },
+  {
+   "turn_id": "C15-D007",
+   "turn_index": 6,
+   "speaker": "マテオ",
+   "source_text": "やあ、パンがいっぱいあるね。全部食べた？",
+   "sentence_ids": [
+    "C15-D007-S01",
+    "C15-D007-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.978,
+   "end_sec": 38.437,
+   "duration_sec": 3.459
+  },
+  {
+   "turn_id": "C15-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "いや、まだ食べていない。今日の昼ご飯だよ。",
+   "sentence_ids": [
+    "C15-D008-S01",
+    "C15-D008-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.787,
+   "end_sec": 42.215,
+   "duration_sec": 3.428
+  },
+  {
+   "turn_id": "C15-D009",
+   "turn_index": 8,
+   "speaker": "マテオ",
+   "source_text": "うーん、パンはあまり好きではない。でも、このパンはうまいね。",
+   "sentence_ids": [
+    "C15-D009-S01",
+    "C15-D009-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 42.565,
+   "end_sec": 46.731,
+   "duration_sec": 4.166
+  },
+  {
+   "turn_id": "C15-D010",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "もう食べているね。パンは嫌だった？",
+   "sentence_ids": [
+    "C15-D010-S01",
+    "C15-D010-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.081,
+   "end_sec": 49.878,
+   "duration_sec": 2.797
+  },
+  {
+   "turn_id": "C15-D011",
+   "turn_index": 10,
+   "speaker": "マテオ",
+   "source_text": "冗談だよ。ただ、少し食べたい。お金はもう全然ない。",
+   "sentence_ids": [
+    "C15-D011-S01",
+    "C15-D011-S02",
+    "C15-D011-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 50.228,
+   "end_sec": 54.778,
+   "duration_sec": 4.55
+  },
+  {
+   "turn_id": "C15-D012",
+   "turn_index": 11,
+   "speaker": "林梅",
+   "source_text": "まあ、全部で六百円だったよ。高くなかった。昨日はバーゲンだった。",
+   "sentence_ids": [
+    "C15-D012-S01",
+    "C15-D012-S02",
+    "C15-D012-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 55.128,
+   "end_sec": 59.992,
+   "duration_sec": 4.864
+  },
+  {
+   "turn_id": "C15-D013",
+   "turn_index": 12,
+   "speaker": "マテオ",
+   "source_text": "へええ、安かったね。おつりは紙幣だった？",
+   "sentence_ids": [
+    "C15-D013-S01",
+    "C15-D013-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 60.342,
+   "end_sec": 63.907,
+   "duration_sec": 3.565
+  },
+  {
+   "turn_id": "C15-D014",
+   "turn_index": 13,
+   "speaker": "林梅",
+   "source_text": "いや、硬貨だった。四百円だよ。買い物の後はあまりしゃべらなかったね。",
+   "sentence_ids": [
+    "C15-D014-S01",
+    "C15-D014-S02",
+    "C15-D014-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 64.257,
+   "end_sec": 70.74,
+   "duration_sec": 6.483
+  },
+  {
+   "turn_id": "C15-D015",
+   "turn_index": 14,
+   "speaker": "マテオ",
+   "source_text": "うん、黙っていた。次の買い物を考えていた。",
+   "sentence_ids": [
+    "C15-D015-S01",
+    "C15-D015-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 71.09,
+   "end_sec": 74.959,
+   "duration_sec": 3.869
+  },
+  {
+   "turn_id": "C15-D016",
+   "turn_index": 15,
+   "speaker": "林梅",
+   "source_text": "じゃ、明日もなんか買う？",
+   "sentence_ids": [
+    "C15-D016-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 75.309,
+   "end_sec": 77.433,
+   "duration_sec": 2.124
+  },
+  {
+   "turn_id": "C15-D017",
+   "turn_index": 16,
+   "speaker": "マテオ",
+   "source_text": "やっぱり明日はパンを買う。家でゆっくり食べたい。",
+   "sentence_ids": [
+    "C15-D017-S01",
+    "C15-D017-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.783,
+   "end_sec": 81.077,
+   "duration_sec": 3.294
+  },
+  {
+   "turn_id": "C15-D018",
+   "turn_index": 17,
+   "speaker": "中村",
+   "source_text": "いいですね。今の会話は練習です。今日、本当は何を食べましたか。",
+   "sentence_ids": [
+    "C15-D018-S01",
+    "C15-D018-S02",
+    "C15-D018-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.427,
+   "end_sec": 87.042,
+   "duration_sec": 5.615
+  },
+  {
+   "turn_id": "C15-D019",
+   "turn_index": 18,
+   "speaker": "マテオ",
+   "source_text": "家でご飯と魚を食べました。朝はパンを食べませんでした。",
+   "sentence_ids": [
+    "C15-D019-S01",
+    "C15-D019-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 87.392,
+   "end_sec": 91.182,
+   "duration_sec": 3.79
+  },
+  {
+   "turn_id": "C15-D020",
+   "turn_index": 19,
+   "speaker": "林梅",
+   "source_text": "私はパンと卵です。先生、次は挨拶の練習ですか。",
+   "sentence_ids": [
+    "C15-D020-S01",
+    "C15-D020-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 91.532,
+   "end_sec": 96.841,
+   "duration_sec": 5.309
+  },
+  {
+   "turn_id": "C15-D021",
+   "turn_index": 20,
+   "speaker": "中村",
+   "source_text": "はい。来週は田中先生も来ます。丁寧なメールを書いてください。",
+   "sentence_ids": [
+    "C15-D021-S01",
+    "C15-D021-S02",
+    "C15-D021-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.191,
+   "end_sec": 102.186,
+   "duration_sec": 4.995
+  },
+  {
+   "turn_id": "C15-D022",
+   "turn_index": 21,
+   "speaker": "マテオ",
+   "source_text": "こんにちは。私はマテオです。来週の土曜日、一時に行きます。どうぞよろしくお願いします。",
+   "sentence_ids": [
+    "C15-D022-S01",
+    "C15-D022-S02",
+    "C15-D022-S03",
+    "C15-D022-S04"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "manual_nonsilent_boundary"
+   ],
+   "start_sec": 102.536,
+   "end_sec": 108.39,
+   "duration_sec": 5.854
+  },
+  {
+   "turn_id": "C15-D023",
+   "turn_index": 22,
+   "speaker": "林梅",
+   "source_text": "先生の返事は「こちらこそ、よろしくお願いします」ですね。",
+   "sentence_ids": [
+    "C15-D023-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 108.74,
+   "end_sec": 112.861,
+   "duration_sec": 4.121
+  },
+  {
+   "turn_id": "C15-D024",
+   "turn_index": 23,
+   "speaker": "中村",
+   "source_text": "そうですね。もう二時です。今日もどうもありがとうございました。来週も一緒に練習しましょう。",
+   "sentence_ids": [
+    "C15-D024-S01",
+    "C15-D024-S02",
+    "C15-D024-S03",
+    "C15-D024-S04"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 113.211,
+   "end_sec": 119.756,
+   "duration_sec": 6.545
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C15-D001-S01",
+   "unit_id": "C15-D001",
+   "section": "D",
+   "speaker": "中村",
+   "text": "こんにちは。",
+   "start_sec": 0.0,
+   "end_sec": 0.763,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D001-S02",
+   "unit_id": "C15-D001",
+   "section": "D",
+   "speaker": "中村",
+   "text": "一時ですね。",
+   "start_sec": 0.913,
+   "end_sec": 2.008,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D001-S03",
+   "unit_id": "C15-D001",
+   "section": "D",
+   "speaker": "中村",
+   "text": "二時までここで一緒に練習しましょう。",
+   "start_sec": 2.158,
+   "end_sec": 4.718,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D001-S04",
+   "unit_id": "C15-D001",
+   "section": "D",
+   "speaker": "中村",
+   "text": "メールの転送はリンさんにも聞いてください。",
+   "start_sec": 4.868,
+   "end_sec": 7.47,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D002-S01",
+   "unit_id": "C15-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさん、先生に転送してもいいですか。",
+   "start_sec": 7.82,
+   "end_sec": 10.561,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D002-S02",
+   "unit_id": "C15-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "買い物の文章も練習に使いたいです。",
+   "start_sec": 10.711,
+   "end_sec": 13.083,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D003-S01",
+   "unit_id": "C15-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ええ、いいですよ。",
+   "start_sec": 13.433,
+   "end_sec": 14.72,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D003-S02",
+   "unit_id": "C15-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "アドレスは他の人に教えてはいけませんね。",
+   "start_sec": 14.87,
+   "end_sec": 17.629,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D004-S01",
+   "unit_id": "C15-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "分かりました。",
+   "start_sec": 17.979,
+   "end_sec": 18.742,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D004-S02",
+   "unit_id": "C15-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今日は普通体で練習したいです。",
+   "start_sec": 18.892,
+   "end_sec": 20.884,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D005-S01",
+   "unit_id": "C15-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私もです。",
+   "start_sec": 21.234,
+   "end_sec": 22.334,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D005-S02",
+   "unit_id": "C15-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "昨日はセンターにいました。",
+   "start_sec": 22.484,
+   "end_sec": 24.2,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D005-S03",
+   "unit_id": "C15-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "机に本がありました。",
+   "start_sec": 24.35,
+   "end_sec": 25.995,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D005-S04",
+   "unit_id": "C15-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "でも、電話はありませんでした。",
+   "start_sec": 26.145,
+   "end_sec": 28.155,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D006-S01",
+   "unit_id": "C15-D006",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今日はあそこに普通の電話がありますね。",
+   "start_sec": 28.505,
+   "end_sec": 31.415,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D006-S02",
+   "unit_id": "C15-D006",
+   "section": "D",
+   "speaker": "中村",
+   "text": "では、買い物の後の雑談をお願いします。",
+   "start_sec": 31.565,
+   "end_sec": 34.628,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D007-S01",
+   "unit_id": "C15-D007",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "やあ、パンがいっぱいあるね。",
+   "start_sec": 34.978,
+   "end_sec": 37.266,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D007-S02",
+   "unit_id": "C15-D007",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "全部食べた？",
+   "start_sec": 37.416,
+   "end_sec": 38.437,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D008-S01",
+   "unit_id": "C15-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "いや、まだ食べていない。",
+   "start_sec": 38.787,
+   "end_sec": 40.578,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D008-S02",
+   "unit_id": "C15-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今日の昼ご飯だよ。",
+   "start_sec": 40.728,
+   "end_sec": 42.215,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D009-S01",
+   "unit_id": "C15-D009",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "うーん、パンはあまり好きではない。",
+   "start_sec": 42.565,
+   "end_sec": 44.934,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D009-S02",
+   "unit_id": "C15-D009",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "でも、このパンはうまいね。",
+   "start_sec": 45.084,
+   "end_sec": 46.731,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D010-S01",
+   "unit_id": "C15-D010",
+   "section": "D",
+   "speaker": "リン",
+   "text": "もう食べているね。",
+   "start_sec": 47.081,
+   "end_sec": 48.487,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D010-S02",
+   "unit_id": "C15-D010",
+   "section": "D",
+   "speaker": "リン",
+   "text": "パンは嫌だった？",
+   "start_sec": 48.637,
+   "end_sec": 49.878,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D011-S01",
+   "unit_id": "C15-D011",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "冗談だよ。",
+   "start_sec": 50.228,
+   "end_sec": 51.6,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D011-S02",
+   "unit_id": "C15-D011",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ただ、少し食べたい。",
+   "start_sec": 51.75,
+   "end_sec": 53.159,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D011-S03",
+   "unit_id": "C15-D011",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "お金はもう全然ない。",
+   "start_sec": 53.309,
+   "end_sec": 54.778,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D012-S01",
+   "unit_id": "C15-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "まあ、全部で六百円だったよ。",
+   "start_sec": 55.128,
+   "end_sec": 57.168,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D012-S02",
+   "unit_id": "C15-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "高くなかった。",
+   "start_sec": 57.318,
+   "end_sec": 58.415,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D012-S03",
+   "unit_id": "C15-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "昨日はバーゲンだった。",
+   "start_sec": 58.565,
+   "end_sec": 59.992,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D013-S01",
+   "unit_id": "C15-D013",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "へええ、安かったね。",
+   "start_sec": 60.342,
+   "end_sec": 62.194,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D013-S02",
+   "unit_id": "C15-D013",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "おつりは紙幣だった？",
+   "start_sec": 62.344,
+   "end_sec": 63.907,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D014-S01",
+   "unit_id": "C15-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "いや、硬貨だった。",
+   "start_sec": 64.257,
+   "end_sec": 65.844,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D014-S02",
+   "unit_id": "C15-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "四百円だよ。",
+   "start_sec": 65.994,
+   "end_sec": 67.648,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D014-S03",
+   "unit_id": "C15-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "買い物の後はあまりしゃべらなかったね。",
+   "start_sec": 67.798,
+   "end_sec": 70.74,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D015-S01",
+   "unit_id": "C15-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "うん、黙っていた。",
+   "start_sec": 71.09,
+   "end_sec": 72.722,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D015-S02",
+   "unit_id": "C15-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "次の買い物を考えていた。",
+   "start_sec": 72.872,
+   "end_sec": 74.959,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D016-S01",
+   "unit_id": "C15-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "じゃ、明日もなんか買う？",
+   "start_sec": 75.309,
+   "end_sec": 77.433,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D017-S01",
+   "unit_id": "C15-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "やっぱり明日はパンを買う。",
+   "start_sec": 77.783,
+   "end_sec": 79.399,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D017-S02",
+   "unit_id": "C15-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "家でゆっくり食べたい。",
+   "start_sec": 79.549,
+   "end_sec": 81.077,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D018-S01",
+   "unit_id": "C15-D018",
+   "section": "D",
+   "speaker": "中村",
+   "text": "いいですね。",
+   "start_sec": 81.427,
+   "end_sec": 82.645,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D018-S02",
+   "unit_id": "C15-D018",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今の会話は練習です。",
+   "start_sec": 82.795,
+   "end_sec": 84.598,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D018-S03",
+   "unit_id": "C15-D018",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今日、本当は何を食べましたか。",
+   "start_sec": 84.748,
+   "end_sec": 87.042,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D019-S01",
+   "unit_id": "C15-D019",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "家でご飯と魚を食べました。",
+   "start_sec": 87.392,
+   "end_sec": 89.363,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D019-S02",
+   "unit_id": "C15-D019",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "朝はパンを食べませんでした。",
+   "start_sec": 89.513,
+   "end_sec": 91.182,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D020-S01",
+   "unit_id": "C15-D020",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私はパンと卵です。",
+   "start_sec": 91.532,
+   "end_sec": 93.666,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D020-S02",
+   "unit_id": "C15-D020",
+   "section": "D",
+   "speaker": "リン",
+   "text": "先生、次は挨拶の練習ですか。",
+   "start_sec": 93.816,
+   "end_sec": 96.841,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D021-S01",
+   "unit_id": "C15-D021",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい。",
+   "start_sec": 97.191,
+   "end_sec": 98.112,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D021-S02",
+   "unit_id": "C15-D021",
+   "section": "D",
+   "speaker": "中村",
+   "text": "来週は田中先生も来ます。",
+   "start_sec": 98.262,
+   "end_sec": 100.261,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D021-S03",
+   "unit_id": "C15-D021",
+   "section": "D",
+   "speaker": "中村",
+   "text": "丁寧なメールを書いてください。",
+   "start_sec": 100.411,
+   "end_sec": 102.186,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D022-S01",
+   "unit_id": "C15-D022",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "こんにちは。",
+   "start_sec": 102.536,
+   "end_sec": 103.156,
+   "review_flags": [
+    "clip_asr_difference",
+    "manual_nonsilent_boundary"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D022-S02",
+   "unit_id": "C15-D022",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "私はマテオです。",
+   "start_sec": 103.306,
+   "end_sec": 104.36,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D022-S03",
+   "unit_id": "C15-D022",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "来週の土曜日、一時に行きます。",
+   "start_sec": 104.51,
+   "end_sec": 106.582,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D022-S04",
+   "unit_id": "C15-D022",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "どうぞよろしくお願いします。",
+   "start_sec": 106.732,
+   "end_sec": 108.39,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D023-S01",
+   "unit_id": "C15-D023",
+   "section": "D",
+   "speaker": "リン",
+   "text": "先生の返事は「こちらこそ、よろしくお願いします」ですね。",
+   "start_sec": 108.74,
+   "end_sec": 112.861,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D024-S01",
+   "unit_id": "C15-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "そうですね。",
+   "start_sec": 113.211,
+   "end_sec": 114.308,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D024-S02",
+   "unit_id": "C15-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "もう二時です。",
+   "start_sec": 114.458,
+   "end_sec": 115.531,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D024-S03",
+   "unit_id": "C15-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今日もどうもありがとうございました。",
+   "start_sec": 115.681,
+   "end_sec": 117.788,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C15-D024-S04",
+   "unit_id": "C15-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "来週も一緒に練習しましょう。",
+   "start_sec": 117.938,
+   "end_sec": 119.756,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

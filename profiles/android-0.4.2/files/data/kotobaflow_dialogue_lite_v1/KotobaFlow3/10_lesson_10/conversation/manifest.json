@@ -1,0 +1,1938 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 260.497,
+ "listening_review": "pending",
+ "source_chapter": 46,
+ "turns": [
+  {
+   "turn_id": "C46-D001",
+   "turn_index": 0,
+   "speaker": "小松",
+   "source_text": "お電話ありがとうございます。みなと市国際センターでございます。窓口の小松です。",
+   "sentence_ids": [
+    "C46-D001-S01",
+    "C46-D001-S02",
+    "C46-D001-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 4.983,
+   "duration_sec": 4.983
+  },
+  {
+   "turn_id": "C46-D002",
+   "turn_index": 1,
+   "speaker": "アナ",
+   "source_text": "もしもし、国際交流会のアナ・ロペスと申します。「冬の合宿」のことで、少し伺いたいです。今、お時間は大丈夫ですか。",
+   "sentence_ids": [
+    "C46-D002-S01",
+    "C46-D002-S02",
+    "C46-D002-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 5.333,
+   "end_sec": 14.482,
+   "duration_sec": 9.149
+  },
+  {
+   "turn_id": "C46-D003",
+   "turn_index": 2,
+   "speaker": "小松",
+   "source_text": "はい。どのようなご用件でしょうか。承ります。",
+   "sentence_ids": [
+    "C46-D003-S01",
+    "C46-D003-S02",
+    "C46-D003-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 14.832,
+   "end_sec": 18.445,
+   "duration_sec": 3.613
+  },
+  {
+   "turn_id": "C46-D004",
+   "turn_index": 3,
+   "speaker": "アナ",
+   "source_text": "センターだよりの12月号で、合宿の案内を拝見しました。日程は1月29日から31日までの2泊3日ですね。今、空きはありますか。",
+   "sentence_ids": [
+    "C46-D004-S01",
+    "C46-D004-S02",
+    "C46-D004-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.795,
+   "end_sec": 30.627,
+   "duration_sec": 11.832
+  },
+  {
+   "turn_id": "C46-D005",
+   "turn_index": 4,
+   "speaker": "小松",
+   "source_text": "定員は30名です。只今、まだ空きがございます。締め切りは1月8日金曜日です。",
+   "sentence_ids": [
+    "C46-D005-S01",
+    "C46-D005-S02",
+    "C46-D005-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.977,
+   "end_sec": 38.042,
+   "duration_sec": 7.065
+  },
+  {
+   "turn_id": "C46-D006",
+   "turn_index": 5,
+   "speaker": "アナ",
+   "source_text": "友達3人と全部で4人です。代理で申し込めますか。",
+   "sentence_ids": [
+    "C46-D006-S01",
+    "C46-D006-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.392,
+   "end_sec": 42.929,
+   "duration_sec": 4.537
+  },
+  {
+   "turn_id": "C46-D007",
+   "turn_index": 6,
+   "speaker": "小松",
+   "source_text": "恐れ入りますが、ご本人にお願いしています。代理には対応していません。",
+   "sentence_ids": [
+    "C46-D007-S01",
+    "C46-D007-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 43.279,
+   "end_sec": 48.058,
+   "duration_sec": 4.779
+  },
+  {
+   "turn_id": "C46-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "承知しました。申込書を4枚送っていただけませんか。切手はこちらで用意します。",
+   "sentence_ids": [
+    "C46-D008-S01",
+    "C46-D008-S02",
+    "C46-D008-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 48.408,
+   "end_sec": 54.362,
+   "duration_sec": 5.954
+  },
+  {
+   "turn_id": "C46-D009",
+   "turn_index": 8,
+   "speaker": "小松",
+   "source_text": "紙では送っていません。お手数ですが、メールでお受け取りいただけますか。",
+   "sentence_ids": [
+    "C46-D009-S01",
+    "C46-D009-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 54.712,
+   "end_sec": 59.397,
+   "duration_sec": 4.685
+  },
+  {
+   "turn_id": "C46-D010",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "はい。それから、佐藤さんは金曜日に仕事があります。30日の土曜日から1泊だけ参加できますか。",
+   "sentence_ids": [
+    "C46-D010-S01",
+    "C46-D010-S02",
+    "C46-D010-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.747,
+   "end_sec": 68.291,
+   "duration_sec": 8.544
+  },
+  {
+   "turn_id": "C46-D011",
+   "turn_index": 10,
+   "speaker": "小松",
+   "source_text": "部屋は2泊で予約しています。担当者に確認します。少々お待ちください。",
+   "sentence_ids": [
+    "C46-D011-S01",
+    "C46-D011-S02",
+    "C46-D011-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.641,
+   "end_sec": 73.227,
+   "duration_sec": 4.586
+  },
+  {
+   "turn_id": "C46-D012",
+   "turn_index": 11,
+   "speaker": "アナ",
+   "source_text": "はい。結構です。",
+   "sentence_ids": [
+    "C46-D012-S01",
+    "C46-D012-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 73.577,
+   "end_sec": 75.197,
+   "duration_sec": 1.62
+  },
+  {
+   "turn_id": "C46-D013",
+   "turn_index": 12,
+   "speaker": "小松",
+   "source_text": "お待たせしました。青木は席をはずしています。内線に繋いでも応答がありません。後程、青木から折り返します。差し支えなければ、お電話番号をお願いします。",
+   "sentence_ids": [
+    "C46-D013-S01",
+    "C46-D013-S02",
+    "C46-D013-S03",
+    "C46-D013-S04",
+    "C46-D013-S05"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 75.547,
+   "end_sec": 85.51,
+   "duration_sec": 9.963
+  },
+  {
+   "turn_id": "C46-D014",
+   "turn_index": 13,
+   "speaker": "アナ",
+   "source_text": "はい。090-4628-1573です。",
+   "sentence_ids": [
+    "C46-D014-S01",
+    "C46-D014-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 85.86,
+   "end_sec": 91.179,
+   "duration_sec": 5.319
+  },
+  {
+   "turn_id": "C46-D015",
+   "turn_index": 14,
+   "speaker": "小松",
+   "source_text": "復唱します。090、4628、1573ですね。",
+   "sentence_ids": [
+    "C46-D015-S01",
+    "C46-D015-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 91.529,
+   "end_sec": 97.132,
+   "duration_sec": 5.603
+  },
+  {
+   "turn_id": "C46-D016",
+   "turn_index": 15,
+   "speaker": "アナ",
+   "source_text": "はい、そうです。あ、2時から3時までは電話に出られません。",
+   "sentence_ids": [
+    "C46-D016-S01",
+    "C46-D016-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.482,
+   "end_sec": 101.921,
+   "duration_sec": 4.439
+  },
+  {
+   "turn_id": "C46-D017",
+   "turn_index": 16,
+   "speaker": "小松",
+   "source_text": "かしこまりました。3時過ぎにお電話します。通話が終わってから青木にも伝えます。",
+   "sentence_ids": [
+    "C46-D017-S01",
+    "C46-D017-S02",
+    "C46-D017-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 102.271,
+   "end_sec": 107.292,
+   "duration_sec": 5.021
+  },
+  {
+   "turn_id": "C46-D018",
+   "turn_index": 17,
+   "speaker": "アナ",
+   "source_text": "ありがとうございます。山の家のことも少し伺ってもいいですか。部屋は何階にありますか。",
+   "sentence_ids": [
+    "C46-D018-S01",
+    "C46-D018-S02",
+    "C46-D018-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 107.642,
+   "end_sec": 114.158,
+   "duration_sec": 6.516
+  },
+  {
+   "turn_id": "C46-D019",
+   "turn_index": 18,
+   "speaker": "小松",
+   "source_text": "食堂は1階、部屋は2階と3階です。1階にも二部屋ありますが、エレベーターはありません。",
+   "sentence_ids": [
+    "C46-D019-S01",
+    "C46-D019-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 114.508,
+   "end_sec": 120.928,
+   "duration_sec": 6.42
+  },
+  {
+   "turn_id": "C46-D020",
+   "turn_index": 19,
+   "speaker": "アナ",
+   "source_text": "階段が大変な人もいるかもしれません。1階の部屋を希望することはできますか。",
+   "sentence_ids": [
+    "C46-D020-S01",
+    "C46-D020-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 121.278,
+   "end_sec": 126.815,
+   "duration_sec": 5.537
+  },
+  {
+   "turn_id": "C46-D021",
+   "turn_index": 20,
+   "speaker": "小松",
+   "source_text": "はい。「希望」欄にお書きください。できるだけ対応しますが、部屋が埋まることもあります。",
+   "sentence_ids": [
+    "C46-D021-S01",
+    "C46-D021-S02",
+    "C46-D021-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 127.165,
+   "end_sec": 132.703,
+   "duration_sec": 5.538
+  },
+  {
+   "turn_id": "C46-D022",
+   "turn_index": 21,
+   "speaker": "アナ",
+   "source_text": "はあ、希望は出せますが、部屋を使えるかはまだ決まらないんですね。",
+   "sentence_ids": [
+    "C46-D022-S01"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 133.053,
+   "end_sec": 138.072,
+   "duration_sec": 5.019
+  },
+  {
+   "turn_id": "C46-D023",
+   "turn_index": 22,
+   "speaker": "小松",
+   "source_text": "はい。それから、30日の夜に10分、交流会を紹介してくださいませんか。難しければ断っても大丈夫です。",
+   "sentence_ids": [
+    "C46-D023-S01",
+    "C46-D023-S02",
+    "C46-D023-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.422,
+   "end_sec": 146.16,
+   "duration_sec": 7.738
+  },
+  {
+   "turn_id": "C46-D024",
+   "turn_index": 23,
+   "speaker": "アナ",
+   "source_text": "友達と相談してメールで返事します。いつまでがよろしいですか。",
+   "sentence_ids": [
+    "C46-D024-S01",
+    "C46-D024-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 146.51,
+   "end_sec": 150.858,
+   "duration_sec": 4.348
+  },
+  {
+   "turn_id": "C46-D025",
+   "turn_index": 24,
+   "speaker": "小松",
+   "source_text": "1月8日までに、青木へお願いします。アドレスはセンターだよりにあります。",
+   "sentence_ids": [
+    "C46-D025-S01",
+    "C46-D025-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 151.208,
+   "end_sec": 156.177,
+   "duration_sec": 4.969
+  },
+  {
+   "turn_id": "C46-D026",
+   "turn_index": 25,
+   "speaker": "アナ",
+   "source_text": "今日は予約はまだですね。1泊の返事を待ってから申し込むように、友達に伝えます。",
+   "sentence_ids": [
+    "C46-D026-S01",
+    "C46-D026-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 156.527,
+   "end_sec": 162.639,
+   "duration_sec": 6.112
+  },
+  {
+   "turn_id": "C46-D027",
+   "turn_index": 26,
+   "speaker": "小松",
+   "source_text": "はい。午後、料金もお伝えします。送信前に日程と料金をご確認ください。",
+   "sentence_ids": [
+    "C46-D027-S01",
+    "C46-D027-S02",
+    "C46-D027-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 162.989,
+   "end_sec": 168.967,
+   "duration_sec": 5.978
+  },
+  {
+   "turn_id": "C46-D028",
+   "turn_index": 27,
+   "speaker": "アナ",
+   "source_text": "お忙しいところをありがとうございました。お電話をお待ちしています。",
+   "sentence_ids": [
+    "C46-D028-S01",
+    "C46-D028-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 169.317,
+   "end_sec": 173.621,
+   "duration_sec": 4.304
+  },
+  {
+   "turn_id": "C46-D029",
+   "turn_index": 28,
+   "speaker": "小松",
+   "source_text": "長くお待たせして申し訳ありませんでした。お問い合わせ、ありがとうございました。",
+   "sentence_ids": [
+    "C46-D029-S01",
+    "C46-D029-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 173.971,
+   "end_sec": 178.918,
+   "duration_sec": 4.947
+  },
+  {
+   "turn_id": "C46-D030",
+   "turn_index": 29,
+   "speaker": "アナ",
+   "source_text": "こちらこそ、ありがとうございました。失礼します。",
+   "sentence_ids": [
+    "C46-D030-S01",
+    "C46-D030-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 179.268,
+   "end_sec": 182.193,
+   "duration_sec": 2.925
+  },
+  {
+   "turn_id": "C46-D031",
+   "turn_index": 30,
+   "speaker": "ゲストハウスの係",
+   "source_text": "ゲストハウス花へようこそ。いらっしゃいませ。",
+   "sentence_ids": [
+    "C46-D031-S01",
+    "C46-D031-S02"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 183.093,
+   "end_sec": 185.686,
+   "duration_sec": 2.593
+  },
+  {
+   "turn_id": "C46-D032",
+   "turn_index": 31,
+   "speaker": "アナ",
+   "source_text": "都内で宿泊先を探しています。都心から近いですか。",
+   "sentence_ids": [
+    "C46-D032-S01",
+    "C46-D032-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 186.036,
+   "end_sec": 190.428,
+   "duration_sec": 4.392
+  },
+  {
+   "turn_id": "C46-D033",
+   "turn_index": 32,
+   "speaker": "ゲストハウスの係",
+   "source_text": "町の中心地にあり、駅から5分です。明日はツインが空きます。部屋代は一室9,000円です。",
+   "sentence_ids": [
+    "C46-D033-S01",
+    "C46-D033-S02",
+    "C46-D033-S03"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 190.778,
+   "end_sec": 197.78,
+   "duration_sec": 7.002
+  },
+  {
+   "turn_id": "C46-D034",
+   "turn_index": 33,
+   "speaker": "アナ",
+   "source_text": "結構近いですね。ロビーでゲストを待ってもいいですか。食事はどのように頼みますか。",
+   "sentence_ids": [
+    "C46-D034-S01",
+    "C46-D034-S02",
+    "C46-D034-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 198.13,
+   "end_sec": 204.607,
+   "duration_sec": 6.477
+  },
+  {
+   "turn_id": "C46-D035",
+   "turn_index": 34,
+   "speaker": "ゲストハウスの係",
+   "source_text": "はい、お待ちの方はこちらへどうぞ。洋食なら隣のファミリーレストランはいかがですか。11時に開きます。喫茶店は今も営業しています。",
+   "sentence_ids": [
+    "C46-D035-S01",
+    "C46-D035-S02",
+    "C46-D035-S03",
+    "C46-D035-S04"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 204.957,
+   "end_sec": 215.001,
+   "duration_sec": 10.044
+  },
+  {
+   "turn_id": "C46-D036",
+   "turn_index": 35,
+   "speaker": "アナ",
+   "source_text": "ステーキのコースは少々高いですね。ハンバーグをアラカルトで頼めますか。",
+   "sentence_ids": [
+    "C46-D036-S01",
+    "C46-D036-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 215.351,
+   "end_sec": 221.489,
+   "duration_sec": 6.138
+  },
+  {
+   "turn_id": "C46-D037",
+   "turn_index": 36,
+   "speaker": "ゲストハウスの係",
+   "source_text": "はい。前菜のオードブルなしで注文できます。魚のフライやカレーもございます。",
+   "sentence_ids": [
+    "C46-D037-S01",
+    "C46-D037-S02",
+    "C46-D037-S03"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 221.839,
+   "end_sec": 227.061,
+   "duration_sec": 5.222
+  },
+  {
+   "turn_id": "C46-D038",
+   "turn_index": 37,
+   "speaker": "アナ",
+   "source_text": "和食の店も紹介していただけますか。母は薄味が好きなんです。",
+   "sentence_ids": [
+    "C46-D038-S01",
+    "C46-D038-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 227.411,
+   "end_sec": 232.355,
+   "duration_sec": 4.944
+  },
+  {
+   "turn_id": "C46-D039",
+   "turn_index": 38,
+   "speaker": "ゲストハウスの係",
+   "source_text": "向かいの店に相談してはいかがでしょうか。コースは先付から始まり、焼き物や炊き合わせ、汁物が出ます。口直しの果物もあります。",
+   "sentence_ids": [
+    "C46-D039-S01",
+    "C46-D039-S02",
+    "C46-D039-S03"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 232.705,
+   "end_sec": 241.975,
+   "duration_sec": 9.27
+  },
+  {
+   "turn_id": "C46-D040",
+   "turn_index": 39,
+   "speaker": "アナ",
+   "source_text": "父は蕎麦だけでいいと言っています。全員がコースを頼む必要はありますか。",
+   "sentence_ids": [
+    "C46-D040-S01",
+    "C46-D040-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 242.325,
+   "end_sec": 247.478,
+   "duration_sec": 5.153
+  },
+  {
+   "turn_id": "C46-D041",
+   "turn_index": 40,
+   "speaker": "ゲストハウスの係",
+   "source_text": "いいえ。穴子の料理や海胆も単品で頼めます。伊勢海老は予約が必要です。残った料理の折り詰めは店にお尋ねください。",
+   "sentence_ids": [
+    "C46-D041-S01",
+    "C46-D041-S02",
+    "C46-D041-S03",
+    "C46-D041-S04"
+   ],
+   "voice_id": "ja-jp-advisor-8",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 247.828,
+   "end_sec": 255.721,
+   "duration_sec": 7.893
+  },
+  {
+   "turn_id": "C46-D042",
+   "turn_index": 41,
+   "speaker": "アナ",
+   "source_text": "ありがとうございます。今日は予約しないで、家族と相談します。",
+   "sentence_ids": [
+    "C46-D042-S01",
+    "C46-D042-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 256.071,
+   "end_sec": 260.491,
+   "duration_sec": 4.42
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C46-D001-S01",
+   "unit_id": "C46-D001",
+   "section": "D",
+   "speaker": "小松",
+   "text": "お電話ありがとうございます。",
+   "start_sec": 0.0,
+   "end_sec": 1.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D001-S02",
+   "unit_id": "C46-D001",
+   "section": "D",
+   "speaker": "小松",
+   "text": "みなと市国際センターでございます。",
+   "start_sec": 1.594,
+   "end_sec": 3.486,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D001-S03",
+   "unit_id": "C46-D001",
+   "section": "D",
+   "speaker": "小松",
+   "text": "窓口の小松です。",
+   "start_sec": 3.636,
+   "end_sec": 4.983,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D002-S01",
+   "unit_id": "C46-D002",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "もしもし、国際交流会のアナ・ロペスと申します。",
+   "start_sec": 5.333,
+   "end_sec": 9.261,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D002-S02",
+   "unit_id": "C46-D002",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "「冬の合宿」のことで、少し伺いたいです。",
+   "start_sec": 9.411,
+   "end_sec": 12.343,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D002-S03",
+   "unit_id": "C46-D002",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "今、お時間は大丈夫ですか。",
+   "start_sec": 12.493,
+   "end_sec": 14.482,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D003-S01",
+   "unit_id": "C46-D003",
+   "section": "D",
+   "speaker": "小松",
+   "text": "はい。",
+   "start_sec": 14.832,
+   "end_sec": 15.312,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D003-S02",
+   "unit_id": "C46-D003",
+   "section": "D",
+   "speaker": "小松",
+   "text": "どのようなご用件でしょうか。",
+   "start_sec": 15.462,
+   "end_sec": 17.061,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D003-S03",
+   "unit_id": "C46-D003",
+   "section": "D",
+   "speaker": "小松",
+   "text": "承ります。",
+   "start_sec": 17.211,
+   "end_sec": 18.445,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D004-S01",
+   "unit_id": "C46-D004",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "センターだよりの12月号で、合宿の案内を拝見しました。",
+   "start_sec": 18.795,
+   "end_sec": 23.391,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D004-S02",
+   "unit_id": "C46-D004",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "日程は1月29日から31日までの2泊3日ですね。",
+   "start_sec": 23.541,
+   "end_sec": 28.771,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D004-S03",
+   "unit_id": "C46-D004",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "今、空きはありますか。",
+   "start_sec": 28.921,
+   "end_sec": 30.627,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D005-S01",
+   "unit_id": "C46-D005",
+   "section": "D",
+   "speaker": "小松",
+   "text": "定員は30名です。",
+   "start_sec": 30.977,
+   "end_sec": 33.027,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D005-S02",
+   "unit_id": "C46-D005",
+   "section": "D",
+   "speaker": "小松",
+   "text": "只今、まだ空きがございます。",
+   "start_sec": 33.177,
+   "end_sec": 34.91,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D005-S03",
+   "unit_id": "C46-D005",
+   "section": "D",
+   "speaker": "小松",
+   "text": "締め切りは1月8日金曜日です。",
+   "start_sec": 35.06,
+   "end_sec": 38.042,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D006-S01",
+   "unit_id": "C46-D006",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "友達3人と全部で4人です。",
+   "start_sec": 38.392,
+   "end_sec": 41.071,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D006-S02",
+   "unit_id": "C46-D006",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "代理で申し込めますか。",
+   "start_sec": 41.221,
+   "end_sec": 42.929,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D007-S01",
+   "unit_id": "C46-D007",
+   "section": "D",
+   "speaker": "小松",
+   "text": "恐れ入りますが、ご本人にお願いしています。",
+   "start_sec": 43.279,
+   "end_sec": 46.252,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D007-S02",
+   "unit_id": "C46-D007",
+   "section": "D",
+   "speaker": "小松",
+   "text": "代理には対応していません。",
+   "start_sec": 46.402,
+   "end_sec": 48.058,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D008-S01",
+   "unit_id": "C46-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "承知しました。",
+   "start_sec": 48.408,
+   "end_sec": 49.596,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D008-S02",
+   "unit_id": "C46-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "申込書を4枚送っていただけませんか。",
+   "start_sec": 49.746,
+   "end_sec": 52.466,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D008-S03",
+   "unit_id": "C46-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "切手はこちらで用意します。",
+   "start_sec": 52.616,
+   "end_sec": 54.362,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D009-S01",
+   "unit_id": "C46-D009",
+   "section": "D",
+   "speaker": "小松",
+   "text": "紙では送っていません。",
+   "start_sec": 54.712,
+   "end_sec": 56.388,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D009-S02",
+   "unit_id": "C46-D009",
+   "section": "D",
+   "speaker": "小松",
+   "text": "お手数ですが、メールでお受け取りいただけますか。",
+   "start_sec": 56.538,
+   "end_sec": 59.397,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D010-S01",
+   "unit_id": "C46-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "はい。",
+   "start_sec": 59.747,
+   "end_sec": 60.477,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D010-S02",
+   "unit_id": "C46-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "それから、佐藤さんは金曜日に仕事があります。",
+   "start_sec": 60.627,
+   "end_sec": 64.515,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D010-S03",
+   "unit_id": "C46-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "30日の土曜日から1泊だけ参加できますか。",
+   "start_sec": 64.665,
+   "end_sec": 68.291,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D011-S01",
+   "unit_id": "C46-D011",
+   "section": "D",
+   "speaker": "小松",
+   "text": "部屋は2泊で予約しています。",
+   "start_sec": 68.641,
+   "end_sec": 70.536,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D011-S02",
+   "unit_id": "C46-D011",
+   "section": "D",
+   "speaker": "小松",
+   "text": "担当者に確認します。",
+   "start_sec": 70.686,
+   "end_sec": 71.972,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D011-S03",
+   "unit_id": "C46-D011",
+   "section": "D",
+   "speaker": "小松",
+   "text": "少々お待ちください。",
+   "start_sec": 72.122,
+   "end_sec": 73.227,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D012-S01",
+   "unit_id": "C46-D012",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "はい。",
+   "start_sec": 73.577,
+   "end_sec": 74.016,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D012-S02",
+   "unit_id": "C46-D012",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "結構です。",
+   "start_sec": 74.166,
+   "end_sec": 75.197,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D013-S01",
+   "unit_id": "C46-D013",
+   "section": "D",
+   "speaker": "小松",
+   "text": "お待たせしました。",
+   "start_sec": 75.547,
+   "end_sec": 76.535,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D013-S02",
+   "unit_id": "C46-D013",
+   "section": "D",
+   "speaker": "小松",
+   "text": "青木は席をはずしています。",
+   "start_sec": 76.685,
+   "end_sec": 78.485,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D013-S03",
+   "unit_id": "C46-D013",
+   "section": "D",
+   "speaker": "小松",
+   "text": "内線に繋いでも応答がありません。",
+   "start_sec": 78.635,
+   "end_sec": 80.914,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D013-S04",
+   "unit_id": "C46-D013",
+   "section": "D",
+   "speaker": "小松",
+   "text": "後程、青木から折り返します。",
+   "start_sec": 81.064,
+   "end_sec": 82.93,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D013-S05",
+   "unit_id": "C46-D013",
+   "section": "D",
+   "speaker": "小松",
+   "text": "差し支えなければ、お電話番号をお願いします。",
+   "start_sec": 83.08,
+   "end_sec": 85.51,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D014-S01",
+   "unit_id": "C46-D014",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "はい。",
+   "start_sec": 85.86,
+   "end_sec": 86.566,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D014-S02",
+   "unit_id": "C46-D014",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "090-4628-1573です。",
+   "start_sec": 86.716,
+   "end_sec": 91.179,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D015-S01",
+   "unit_id": "C46-D015",
+   "section": "D",
+   "speaker": "小松",
+   "text": "復唱します。",
+   "start_sec": 91.529,
+   "end_sec": 92.553,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D015-S02",
+   "unit_id": "C46-D015",
+   "section": "D",
+   "speaker": "小松",
+   "text": "090、4628、1573ですね。",
+   "start_sec": 92.703,
+   "end_sec": 97.132,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D016-S01",
+   "unit_id": "C46-D016",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "はい、そうです。",
+   "start_sec": 97.482,
+   "end_sec": 98.696,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D016-S02",
+   "unit_id": "C46-D016",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "あ、2時から3時までは電話に出られません。",
+   "start_sec": 98.846,
+   "end_sec": 101.921,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D017-S01",
+   "unit_id": "C46-D017",
+   "section": "D",
+   "speaker": "小松",
+   "text": "かしこまりました。",
+   "start_sec": 102.271,
+   "end_sec": 103.189,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D017-S02",
+   "unit_id": "C46-D017",
+   "section": "D",
+   "speaker": "小松",
+   "text": "3時過ぎにお電話します。",
+   "start_sec": 103.339,
+   "end_sec": 104.842,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D017-S03",
+   "unit_id": "C46-D017",
+   "section": "D",
+   "speaker": "小松",
+   "text": "通話が終わってから青木にも伝えます。",
+   "start_sec": 104.992,
+   "end_sec": 107.292,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D018-S01",
+   "unit_id": "C46-D018",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ありがとうございます。",
+   "start_sec": 107.642,
+   "end_sec": 108.944,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D018-S02",
+   "unit_id": "C46-D018",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "山の家のことも少し伺ってもいいですか。",
+   "start_sec": 109.094,
+   "end_sec": 112.226,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D018-S03",
+   "unit_id": "C46-D018",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "部屋は何階にありますか。",
+   "start_sec": 112.376,
+   "end_sec": 114.158,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D019-S01",
+   "unit_id": "C46-D019",
+   "section": "D",
+   "speaker": "小松",
+   "text": "食堂は1階、部屋は2階と3階です。",
+   "start_sec": 114.508,
+   "end_sec": 117.737,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D019-S02",
+   "unit_id": "C46-D019",
+   "section": "D",
+   "speaker": "小松",
+   "text": "1階にも二部屋ありますが、エレベーターはありません。",
+   "start_sec": 117.887,
+   "end_sec": 120.928,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D020-S01",
+   "unit_id": "C46-D020",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "階段が大変な人もいるかもしれません。",
+   "start_sec": 121.278,
+   "end_sec": 124.031,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D020-S02",
+   "unit_id": "C46-D020",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "1階の部屋を希望することはできますか。",
+   "start_sec": 124.181,
+   "end_sec": 126.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D021-S01",
+   "unit_id": "C46-D021",
+   "section": "D",
+   "speaker": "小松",
+   "text": "はい。",
+   "start_sec": 127.165,
+   "end_sec": 127.595,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D021-S02",
+   "unit_id": "C46-D021",
+   "section": "D",
+   "speaker": "小松",
+   "text": "「希望」欄にお書きください。",
+   "start_sec": 127.745,
+   "end_sec": 129.296,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D021-S03",
+   "unit_id": "C46-D021",
+   "section": "D",
+   "speaker": "小松",
+   "text": "できるだけ対応しますが、部屋が埋まることもあります。",
+   "start_sec": 129.446,
+   "end_sec": 132.703,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D022-S01",
+   "unit_id": "C46-D022",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "はあ、希望は出せますが、部屋を使えるかはまだ決まらないんですね。",
+   "start_sec": 133.053,
+   "end_sec": 138.072,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D023-S01",
+   "unit_id": "C46-D023",
+   "section": "D",
+   "speaker": "小松",
+   "text": "はい。",
+   "start_sec": 138.422,
+   "end_sec": 138.891,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D023-S02",
+   "unit_id": "C46-D023",
+   "section": "D",
+   "speaker": "小松",
+   "text": "それから、30日の夜に10分、交流会を紹介してくださいませんか。",
+   "start_sec": 139.041,
+   "end_sec": 143.935,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D023-S03",
+   "unit_id": "C46-D023",
+   "section": "D",
+   "speaker": "小松",
+   "text": "難しければ断っても大丈夫です。",
+   "start_sec": 144.085,
+   "end_sec": 146.16,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D024-S01",
+   "unit_id": "C46-D024",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "友達と相談してメールで返事します。",
+   "start_sec": 146.51,
+   "end_sec": 149.067,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D024-S02",
+   "unit_id": "C46-D024",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "いつまでがよろしいですか。",
+   "start_sec": 149.217,
+   "end_sec": 150.858,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D025-S01",
+   "unit_id": "C46-D025",
+   "section": "D",
+   "speaker": "小松",
+   "text": "1月8日までに、青木へお願いします。",
+   "start_sec": 151.208,
+   "end_sec": 153.88,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D025-S02",
+   "unit_id": "C46-D025",
+   "section": "D",
+   "speaker": "小松",
+   "text": "アドレスはセンターだよりにあります。",
+   "start_sec": 154.03,
+   "end_sec": 156.177,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D026-S01",
+   "unit_id": "C46-D026",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "今日は予約はまだですね。",
+   "start_sec": 156.527,
+   "end_sec": 158.772,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D026-S02",
+   "unit_id": "C46-D026",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "1泊の返事を待ってから申し込むように、友達に伝えます。",
+   "start_sec": 158.922,
+   "end_sec": 162.639,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D027-S01",
+   "unit_id": "C46-D027",
+   "section": "D",
+   "speaker": "小松",
+   "text": "はい。",
+   "start_sec": 162.989,
+   "end_sec": 163.435,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D027-S02",
+   "unit_id": "C46-D027",
+   "section": "D",
+   "speaker": "小松",
+   "text": "午後、料金もお伝えします。",
+   "start_sec": 163.585,
+   "end_sec": 165.528,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D027-S03",
+   "unit_id": "C46-D027",
+   "section": "D",
+   "speaker": "小松",
+   "text": "送信前に日程と料金をご確認ください。",
+   "start_sec": 165.678,
+   "end_sec": 168.967,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D028-S01",
+   "unit_id": "C46-D028",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "お忙しいところをありがとうございました。",
+   "start_sec": 169.317,
+   "end_sec": 171.938,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D028-S02",
+   "unit_id": "C46-D028",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "お電話をお待ちしています。",
+   "start_sec": 172.088,
+   "end_sec": 173.621,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D029-S01",
+   "unit_id": "C46-D029",
+   "section": "D",
+   "speaker": "小松",
+   "text": "長くお待たせして申し訳ありませんでした。",
+   "start_sec": 173.971,
+   "end_sec": 176.732,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D029-S02",
+   "unit_id": "C46-D029",
+   "section": "D",
+   "speaker": "小松",
+   "text": "お問い合わせ、ありがとうございました。",
+   "start_sec": 176.882,
+   "end_sec": 178.918,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D030-S01",
+   "unit_id": "C46-D030",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "こちらこそ、ありがとうございました。",
+   "start_sec": 179.268,
+   "end_sec": 181.102,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D030-S02",
+   "unit_id": "C46-D030",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "失礼します。",
+   "start_sec": 181.252,
+   "end_sec": 182.193,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D031-S01",
+   "unit_id": "C46-D031",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "ゲストハウス花へようこそ。",
+   "start_sec": 183.093,
+   "end_sec": 184.738,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D031-S02",
+   "unit_id": "C46-D031",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "いらっしゃいませ。",
+   "start_sec": 184.888,
+   "end_sec": 185.686,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D032-S01",
+   "unit_id": "C46-D032",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "都内で宿泊先を探しています。",
+   "start_sec": 186.036,
+   "end_sec": 188.583,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D032-S02",
+   "unit_id": "C46-D032",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "都心から近いですか。",
+   "start_sec": 188.733,
+   "end_sec": 190.428,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D033-S01",
+   "unit_id": "C46-D033",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "町の中心地にあり、駅から5分です。",
+   "start_sec": 190.778,
+   "end_sec": 193.624,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D033-S02",
+   "unit_id": "C46-D033",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "明日はツインが空きます。",
+   "start_sec": 193.774,
+   "end_sec": 195.547,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D033-S03",
+   "unit_id": "C46-D033",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "部屋代は一室9,000円です。",
+   "start_sec": 195.697,
+   "end_sec": 197.78,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D034-S01",
+   "unit_id": "C46-D034",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "結構近いですね。",
+   "start_sec": 198.13,
+   "end_sec": 199.856,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D034-S02",
+   "unit_id": "C46-D034",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ロビーでゲストを待ってもいいですか。",
+   "start_sec": 200.006,
+   "end_sec": 202.327,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D034-S03",
+   "unit_id": "C46-D034",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "食事はどのように頼みますか。",
+   "start_sec": 202.477,
+   "end_sec": 204.607,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D035-S01",
+   "unit_id": "C46-D035",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "はい、お待ちの方はこちらへどうぞ。",
+   "start_sec": 204.957,
+   "end_sec": 207.204,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D035-S02",
+   "unit_id": "C46-D035",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "洋食なら隣のファミリーレストランはいかがですか。",
+   "start_sec": 207.354,
+   "end_sec": 211.343,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D035-S03",
+   "unit_id": "C46-D035",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "11時に開きます。",
+   "start_sec": 211.493,
+   "end_sec": 212.826,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D035-S04",
+   "unit_id": "C46-D035",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "喫茶店は今も営業しています。",
+   "start_sec": 212.976,
+   "end_sec": 215.001,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D036-S01",
+   "unit_id": "C46-D036",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ステーキのコースは少々高いですね。",
+   "start_sec": 215.351,
+   "end_sec": 218.754,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D036-S02",
+   "unit_id": "C46-D036",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ハンバーグをアラカルトで頼めますか。",
+   "start_sec": 218.904,
+   "end_sec": 221.489,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D037-S01",
+   "unit_id": "C46-D037",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "はい。",
+   "start_sec": 221.839,
+   "end_sec": 222.329,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D037-S02",
+   "unit_id": "C46-D037",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "前菜のオードブルなしで注文できます。",
+   "start_sec": 222.479,
+   "end_sec": 224.85,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D037-S03",
+   "unit_id": "C46-D037",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "魚のフライやカレーもございます。",
+   "start_sec": 225.0,
+   "end_sec": 227.061,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D038-S01",
+   "unit_id": "C46-D038",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "和食の店も紹介していただけますか。",
+   "start_sec": 227.411,
+   "end_sec": 230.116,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D038-S02",
+   "unit_id": "C46-D038",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "母は薄味が好きなんです。",
+   "start_sec": 230.266,
+   "end_sec": 232.355,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D039-S01",
+   "unit_id": "C46-D039",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "向かいの店に相談してはいかがでしょうか。",
+   "start_sec": 232.705,
+   "end_sec": 235.197,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D039-S02",
+   "unit_id": "C46-D039",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "コースは先付から始まり、焼き物や炊き合わせ、汁物が出ます。",
+   "start_sec": 235.347,
+   "end_sec": 240.002,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D039-S03",
+   "unit_id": "C46-D039",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "口直しの果物もあります。",
+   "start_sec": 240.152,
+   "end_sec": 241.975,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D040-S01",
+   "unit_id": "C46-D040",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "父は蕎麦だけでいいと言っています。",
+   "start_sec": 242.325,
+   "end_sec": 244.568,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D040-S02",
+   "unit_id": "C46-D040",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "全員がコースを頼む必要はありますか。",
+   "start_sec": 244.718,
+   "end_sec": 247.478,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D041-S01",
+   "unit_id": "C46-D041",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "いいえ。",
+   "start_sec": 247.828,
+   "end_sec": 248.29,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D041-S02",
+   "unit_id": "C46-D041",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "穴子の料理や海胆も単品で頼めます。",
+   "start_sec": 248.44,
+   "end_sec": 250.96,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D041-S03",
+   "unit_id": "C46-D041",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "伊勢海老は予約が必要です。",
+   "start_sec": 251.11,
+   "end_sec": 252.962,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D041-S04",
+   "unit_id": "C46-D041",
+   "section": "D",
+   "speaker": "ゲストハウスの係",
+   "text": "残った料理の折り詰めは店にお尋ねください。",
+   "start_sec": 253.112,
+   "end_sec": 255.721,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D042-S01",
+   "unit_id": "C46-D042",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "ありがとうございます。",
+   "start_sec": 256.071,
+   "end_sec": 257.432,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C46-D042-S02",
+   "unit_id": "C46-D042",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "今日は予約しないで、家族と相談します。",
+   "start_sec": 257.582,
+   "end_sec": 260.491,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

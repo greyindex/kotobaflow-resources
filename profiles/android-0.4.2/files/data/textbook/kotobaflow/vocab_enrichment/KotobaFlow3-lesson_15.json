@@ -1,0 +1,8026 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow3",
+  "lesson_id": "lesson_15",
+  "entries": [
+    {
+      "textbook_uid": "cfv-f4d8e8215f7ddf62",
+      "index": 3808,
+      "word": "期待",
+      "reading_hiragana": "きたい",
+      "context_meaning_zh": "期待",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "期待",
+          "meaning_ja": "実現してほしいと思い、その実現を待ち望むこと。",
+          "example_ja": "新しい道具の使いやすさに期待しています。",
+          "example_zh": "我期待新工具用起来方便。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "期待に応える",
+          "zh": "满足期待"
+        }
+      ],
+      "usage_note_zh": "「〜に期待する」の形で、実現を望む相手や物事を示す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「期待」作期望名词，也可「期待する」；词典列サ变及自他用法，例句显示所期待事项或结果。",
+        "dictionary_sequences": [
+          1220570
+        ],
+        "identity": {
+          "word": "期待",
+          "reading_hiragana": "きたい",
+          "meaning": "期待"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3b33eee08aa3d65d",
+      "index": 3809,
+      "word": "結果",
+      "reading_hiragana": "けっか",
+      "context_meaning_zh": "结果",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "结果",
+          "meaning_ja": "ある行動や出来事のあとに生じた状態や答え。",
+          "example_ja": "何度も試した結果、原因が分かりました。",
+          "example_zh": "反复尝试之后，弄清了原因。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結果が出る",
+          "zh": "取得成果"
+        }
+      ],
+      "usage_note_zh": "「結果」は出来事のあとに現れたものを指し、「原因」と区別する。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "结果既可作结果名词，也见词典列出的サ变用法；该用法表示事情产生结果，属于自发发生，本句仍取名词义。",
+        "dictionary_sequences": [
+          1254690
+        ],
+        "identity": {
+          "word": "結果",
+          "reading_hiragana": "けっか",
+          "meaning": "结果"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-db81808505b8591f",
+      "index": 3810,
+      "word": "努力",
+      "reading_hiragana": "どりょく",
+      "context_meaning_zh": "努力",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "努力",
+          "meaning_ja": "目標を実現するために、力を尽くして取り組むこと。",
+          "example_ja": "毎日練習した努力が、試合で実を結んだ。",
+          "example_zh": "每天练习的努力在比赛中有了成果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "努力を続ける",
+          "zh": "继续努力"
+        }
+      ],
+      "usage_note_zh": "「努力する」と動詞の形でも使える。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「努力を無駄にせず」中努力是名词对象；词典同时列努力する不及物サ变，不能因を字误判他动。",
+        "dictionary_sequences": [
+          1445130
+        ],
+        "identity": {
+          "word": "努力",
+          "reading_hiragana": "どりょく",
+          "meaning": "努力"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-356c2255fdc87ef4",
+      "index": 3811,
+      "word": "失敗",
+      "reading_hiragana": "しっぱい",
+      "context_meaning_zh": "失败",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "失败",
+          "meaning_ja": "計画や試みが望んだ状態にならないこと。",
+          "example_ja": "一度の失敗で、計画をあきらめる必要はない。",
+          "example_zh": "不必因为一次失败就放弃计划。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "失敗を恐れる",
+          "zh": "害怕失败"
+        }
+      ],
+      "usage_note_zh": "「失敗する」は試みがうまくいかないこと。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "成败对举处失敗是名词；词典把サ变用法同时标vt/vi，但例句只显示不及物失败，现有材料不足以划定动词自他范围。",
+        "dictionary_sequences": [
+          1320140
+        ],
+        "identity": {
+          "word": "失敗",
+          "reading_hiragana": "しっぱい",
+          "meaning": "失败"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-91cf5aadfddf7af6",
+      "index": 3812,
+      "word": "成功",
+      "reading_hiragana": "せいこう",
+      "context_meaning_zh": "成功",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "成功",
+          "meaning_ja": "目標としていたことを成し遂げること。",
+          "example_ja": "小さな工夫が、商品の成功につながった。",
+          "example_zh": "小小的改进促成了产品的成功。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "成功を収める",
+          "zh": "取得成功"
+        }
+      ],
+      "usage_note_zh": "「成功する」とも言い、目標を達成したことを表す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "问题数量不能单独判断成败，成功是对结果是否达成的名词评价；词典列不及物する。",
+        "dictionary_sequences": [
+          1375690
+        ],
+        "identity": {
+          "word": "成功",
+          "reading_hiragana": "せいこう",
+          "meaning": "成功"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e319574578d601f6",
+      "index": 3813,
+      "word": "意外",
+      "reading_hiragana": "いがい",
+      "context_meaning_zh": "出乎意料",
+      "pos_ja": "名詞・ナ形容詞・副詞",
+      "pos_zh": "名词・な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "出乎意料",
+          "meaning_ja": "予想していたことと違っている様子。",
+          "example_ja": "結果が意外で、みんな驚きました。",
+          "example_zh": "结果出乎意料，大家都很惊讶。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意外な結果",
+          "zh": "意外的结果"
+        }
+      ],
+      "usage_note_zh": "名词前用「意外な」，句末常用「意外だ」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "意外的结果例句用ナ形修饰，词典还列名词及adv-to副词功能；兼类反映「意外に」等用法。",
+        "dictionary_sequences": [
+          1156410
+        ],
+        "identity": {
+          "word": "意外",
+          "reading_hiragana": "いがい",
+          "meaning": "出乎意料"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-922cbe7682927795",
+      "index": 3814,
+      "word": "がっかり",
+      "reading_hiragana": "がっかり",
+      "context_meaning_zh": "失望",
+      "pos_ja": "動詞・副詞・オノマトペ",
+      "pos_zh": "动词・副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "失望",
+          "meaning_ja": "期待していたことが実現せず、残念に感じる様子。",
+          "example_ja": "楽しみにしていた店が休みで、がっかりしました。",
+          "example_zh": "期待已久的店休息了，我很失望。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "がっかりする",
+          "zh": "感到失望"
+        }
+      ],
+      "usage_note_zh": "失望した気持ちを表す副詞的な語。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb",
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「がっかり」是拟态副词，也可与する构成表示失望或沮丧的不及物动词；词典与例句均支持该复合用法，不作为サ变名词。",
+        "dictionary_sequences": [
+          1003170
+        ],
+        "identity": {
+          "word": "がっかり",
+          "reading_hiragana": "がっかり",
+          "meaning": "失望"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a3be24a17c266eb3",
+      "index": 3815,
+      "word": "せっかく",
+      "reading_hiragana": "せっかく",
+      "context_meaning_zh": "好不容易；特意；难得",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "好不容易；特意；难得",
+          "meaning_ja": "手間や努力をかけてしたことや、めったにない機会を大切に思う気持ちを添える語。",
+          "example_ja": "せっかく来たので、町の博物館にも寄ります。",
+          "example_zh": "好不容易来了，我也去一趟镇上的博物馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "せっかくの機会",
+          "zh": "难得的机会"
+        }
+      ],
+      "usage_note_zh": "强调已经付出的心意或努力，或难得的机会值得珍惜。「せっかく〜のに」常表示付出或期待落空；「せっかくの〜」表示难得的机会等。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "辞书支持副词及名词用法；本条中文义“好不容易的机会努力”不通顺，例句为付出后落空，身份义需修订。",
+        "dictionary_sequences": [
+          1596090
+        ],
+        "identity": {
+          "word": "せっかく",
+          "reading_hiragana": "せっかく",
+          "meaning": "好不容易；特意；难得"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a10758b2e916c286",
+      "index": 3816,
+      "word": "残念",
+      "reading_hiragana": "ざんねん",
+      "context_meaning_zh": "遗憾",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "遗憾",
+          "meaning_ja": "望んでいた結果にならず、心残りに感じる様子。",
+          "example_ja": "参加できなくて残念ですが、次回は行きます。",
+          "example_zh": "没能参加很遗憾，不过下次我会去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "残念に思う",
+          "zh": "觉得遗憾"
+        }
+      ],
+      "usage_note_zh": "「残念です」は残念な気持ちを相手に伝える丁寧な言い方。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "因为让对方久等而遗憾，语义匹配词典；例句带礼貌句式，但礼貌标注来自本条对人表达的实际用法。",
+        "dictionary_sequences": [
+          1304680
+        ],
+        "identity": {
+          "word": "残念",
+          "reading_hiragana": "ざんねん",
+          "meaning": "遗憾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-47183b3d909b3aab",
+      "index": 3817,
+      "word": "予想",
+      "reading_hiragana": "よそう",
+      "context_meaning_zh": "预测预想",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "预测预想",
+          "meaning_ja": "これから起こることや結果を前もって考えること。",
+          "example_ja": "天気予報を見て、雨になると予想した。",
+          "example_zh": "看了天气预报，预测会下雨。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結果を予想する",
+          "zh": "预测结果"
+        }
+      ],
+      "usage_note_zh": "「〜と予想する」の形で予測内容を示す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "预测与现实不同的对比使用名词义；词典支持预测する的他动用法及adj-no修饰。",
+        "dictionary_sequences": [
+          1543130
+        ],
+        "identity": {
+          "word": "予想",
+          "reading_hiragana": "よそう",
+          "meaning": "预测预想"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-125144ea4d448060",
+      "index": 3818,
+      "word": "評価",
+      "reading_hiragana": "ひょうか",
+      "context_meaning_zh": "评价",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "评价",
+          "meaning_ja": "人や物事の価値、出来ばえを判断すること。",
+          "example_ja": "使った人の意見を集めて、製品を評価します。",
+          "example_zh": "收集使用者的意见来评价产品。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "高く評価する",
+          "zh": "高度评价"
+        }
+      ],
+      "usage_note_zh": "「人を評価する」「作品を評価する」のように対象を「を」で示す。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "評価する以指南为评价对象，句中否定仅凭外观奢华作判断；词典包括衡量和评定义。",
+        "dictionary_sequences": [
+          1490010
+        ],
+        "identity": {
+          "word": "評価",
+          "reading_hiragana": "ひょうか",
+          "meaning": "评价"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e7556a3ee19d921c",
+      "index": 3819,
+      "word": "満足",
+      "reading_hiragana": "まんぞく",
+      "context_meaning_zh": "满意",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "满意",
+          "meaning_ja": "望んでいた状態になり、十分だと感じる様子。",
+          "example_ja": "説明が分かりやすく、私は満足しました。",
+          "example_zh": "说明很容易理解，我很满意。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "満足のいく結果",
+          "zh": "令人满意的结果"
+        }
+      ],
+      "usage_note_zh": "「〜に満足する」と、満足の対象を「に」で示す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "此处讨论能否断言有人满意，満足作满意状态名词并可构成サ变；研究话题不使词语本身成为书面专用。",
+        "dictionary_sequences": [
+          1526860
+        ],
+        "identity": {
+          "word": "満足",
+          "reading_hiragana": "まんぞく",
+          "meaning": "满意"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8eedb65e29f5e90a",
+      "index": 3820,
+      "word": "不満",
+      "reading_hiragana": "ふまん",
+      "context_meaning_zh": "不满",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不满",
+          "meaning_ja": "望んでいた状態と違い、納得できない気持ち。",
+          "example_ja": "説明が足りず、客から不満が出ました。",
+          "example_zh": "说明不充分，顾客表达了不满。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "不満を感じる",
+          "zh": "感到不满"
+        }
+      ],
+      "usage_note_zh": "「不満がある」「不満を言う」の形でよく使う。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句子先承认对方的不满，再指出表达方式过强；此处不满作情绪名词。",
+        "dictionary_sequences": [
+          1494970
+        ],
+        "identity": {
+          "word": "不満",
+          "reading_hiragana": "ふまん",
+          "meaning": "不满"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b2e35a9c44bc91d6",
+      "index": 3821,
+      "word": "苦労",
+      "reading_hiragana": "くろう",
+      "context_meaning_zh": "辛苦困难",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "辛苦困难",
+          "meaning_ja": "物事をする際に経験する苦しさや骨折り。",
+          "example_ja": "引っ越しの準備に苦労しました。",
+          "example_zh": "为搬家做准备费了不少劲。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "苦労を重ねる",
+          "zh": "历经辛苦"
+        }
+      ],
+      "usage_note_zh": "「〜に苦労する」の形で困难或费力的对象を示す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "苦労是辛劳经历名词，也可说苦労する表示主体费力；目标不是其直接宾语。",
+        "dictionary_sequences": [
+          1244680
+        ],
+        "identity": {
+          "word": "苦労",
+          "reading_hiragana": "くろう",
+          "meaning": "辛苦困难"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-076b8036bbc045f2",
+      "index": 3822,
+      "word": "助かる",
+      "reading_hiragana": "たすかる",
+      "context_meaning_zh": "得到帮助、解决困难",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "得到帮助、解决困难",
+          "meaning_ja": "困っていた人にとって助けとなり、問題が軽くなる。",
+          "example_ja": "駅員に道を教えてもらって助かりました。",
+          "example_zh": "工作人员告诉我路线，帮了大忙。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "命が助かる",
+          "zh": "得救"
+        }
+      ],
+      "usage_note_zh": "「人が助かる」は救われる、「〜て助かる」は助けになってありがたい。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "知道需要修改的地方后问题得到解决，助かった表示省事、得到帮助；不是主动帮助他人的他动义。",
+        "dictionary_sequences": [
+          1344380
+        ],
+        "identity": {
+          "word": "助かる",
+          "reading_hiragana": "たすかる",
+          "meaning": "得到帮助、解决困难"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0320009463d7c7fe",
+      "index": 3823,
+      "word": "遅れる",
+      "reading_hiragana": "おくれる",
+      "context_meaning_zh": "迟到、延误",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "迟到、延误",
+          "meaning_ja": "予定していた時刻や時期より遅くなる。",
+          "example_ja": "電車が遅れて、会議に間に合いませんでした。",
+          "example_zh": "电车晚点，我没赶上会议。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "到着が遅れる",
+          "zh": "到达延误"
+        }
+      ],
+      "usage_note_zh": "「人が遅れる」は人が遅刻すること、「予定が遅れる」は予定の延期。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "开始时间比预定晚十分钟，符合进度或安排延后的不及物用法。",
+        "dictionary_sequences": [
+          1589040
+        ],
+        "identity": {
+          "word": "遅れる",
+          "reading_hiragana": "おくれる",
+          "meaning": "迟到、延误"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b64498540ae16abb",
+      "index": 3824,
+      "word": "無駄",
+      "reading_hiragana": "むだ",
+      "context_meaning_zh": "白费无用",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "白费无用",
+          "meaning_ja": "役に立たず、使った時間や力が生かされない様子。",
+          "example_ja": "説明を聞かずに捨てるのは無駄です。",
+          "example_zh": "不听说明就扔掉很浪费。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時間の無駄",
+          "zh": "浪费时间"
+        }
+      ],
+      "usage_note_zh": "「無駄な時間」のように名词前は「な」を使う。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号1530510兼无用名词和ナ形容词；此处「努力を無駄にせず」用作「する」的结果补语。",
+        "dictionary_sequences": [
+          1530510
+        ],
+        "identity": {
+          "word": "無駄",
+          "reading_hiragana": "むだ",
+          "meaning": "白费无用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-53724958fbb1bfc7",
+      "index": 3825,
+      "word": "やっと",
+      "reading_hiragana": "やっと",
+      "context_meaning_zh": "终于好不容易",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "终于好不容易",
+          "meaning_ja": "長い時間や苦労のあとで、ようやく実現した様子。",
+          "example_ja": "何度も練習して、やっと弾けるようになった。",
+          "example_zh": "练习了很多次，终于会弹了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "やっと見つかる",
+          "zh": "终于找到"
+        }
+      ],
+      "usage_note_zh": "可表示克服困难后终于实现，也可按语境表示勉强达到某个程度，例如「勉強すればやっと」。“终于”与“勉强”需结合后文判断。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例「やっと印刷が終わり」表示经过等待才终于完成，符合副词义；句中工作安排不限定该词语体。",
+        "dictionary_sequences": [
+          1012800
+        ],
+        "identity": {
+          "word": "やっと",
+          "reading_hiragana": "やっと",
+          "meaning": "终于好不容易"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1a7d757271f35481",
+      "index": 3826,
+      "word": "予想外",
+      "reading_hiragana": "よそうがい",
+      "context_meaning_zh": "预想之外",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "预想之外",
+          "meaning_ja": "予測していた範囲から外れていること。",
+          "example_ja": "予想外の質問に、すぐ答えられなかった。",
+          "example_zh": "面对意料之外的问题，我没能立刻回答。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予想外の出来事",
+          "zh": "意料之外的事"
+        }
+      ],
+      "usage_note_zh": "名词前用「予想外の」，表示超出预想。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "印刷机停下出乎预料，作名词述语；词典及学习说明支持予想外の定语用法，整体也可作ナ形。",
+        "dictionary_sequences": [
+          1543150
+        ],
+        "identity": {
+          "word": "予想外",
+          "reading_hiragana": "よそうがい",
+          "meaning": "预想之外"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-34c326a461b3dd15",
+      "index": 3827,
+      "word": "不十分",
+      "reading_hiragana": "ふじゅうぶん",
+      "context_meaning_zh": "不充分",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不充分",
+          "meaning_ja": "必要な量や程度に達していない様子。",
+          "example_ja": "準備が不十分で、開始を延期しました。",
+          "example_zh": "准备不充分，因此推迟了开始。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "説明が不十分",
+          "zh": "说明不充分"
+        }
+      ],
+      "usage_note_zh": "「不十分な説明」「準備が不十分」のように使う。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "证据量不足以支撑结论，采用ナ形描述不充分；词典亦列名词用法。",
+        "dictionary_sequences": [
+          1492740
+        ],
+        "identity": {
+          "word": "不十分",
+          "reading_hiragana": "ふじゅうぶん",
+          "meaning": "不充分"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-986b16388fdaa715",
+      "index": 3828,
+      "word": "十分",
+      "reading_hiragana": "じゅうぶん",
+      "context_meaning_zh": "充分",
+      "pos_ja": "ナ形容詞・副詞",
+      "pos_zh": "な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "充分",
+          "meaning_ja": "必要な量や程度に達している様子。",
+          "example_ja": "出発前に水を十分に用意してください。",
+          "example_zh": "出发前请备足水。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "十分な時間",
+          "zh": "充足的时间"
+        }
+      ],
+      "usage_note_zh": "「十分」は程度が足りていること、「十分に」は副詞として使う。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本义为准备充分；「準備を十分した」作程度副词修饰动作，教材说明区别十分に用法。",
+        "dictionary_sequences": [
+          1335080
+        ],
+        "identity": {
+          "word": "十分",
+          "reading_hiragana": "じゅうぶん",
+          "meaning": "充分"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-33ce6e3c309c8097",
+      "index": 3829,
+      "word": "報われる",
+      "reading_hiragana": "むくわれる",
+      "context_meaning_zh": "努力获得回报",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "努力获得回报",
+          "meaning_ja": "続けてきた働きや努力に、望ましい結果が返ってくる。",
+          "example_ja": "長年の練習が報われて、代表に選ばれた。",
+          "example_zh": "多年的练习有了回报，我被选为代表。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "努力が報われる",
+          "zh": "努力得到回报"
+        }
+      ],
+      "usage_note_zh": "「努力が報われる」の形で使い、努力した人が報酬を与える意味ではない。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "努力作为回报实现的主体，以が标记；报われる是报う的被动形词条，词典收一段自动词义。",
+        "dictionary_sequences": [
+          2833992
+        ],
+        "identity": {
+          "word": "報われる",
+          "reading_hiragana": "むくわれる",
+          "meaning": "努力获得回报"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-11384f3aafbd4ebb",
+      "index": 3830,
+      "word": "裏切る",
+      "reading_hiragana": "うらぎる",
+      "context_meaning_zh": "辜负期待",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "辜负期待",
+          "meaning_ja": "信頼や期待に反する行動をして、相手を失望させる。",
+          "example_ja": "結果が期待を裏切り、チームは計画を見直した。",
+          "example_zh": "结果辜负了大家的期待，团队重新审视了计划。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "期待を裏切る",
+          "zh": "辜负期待"
+        }
+      ],
+      "usage_note_zh": "本课义是辜负期待；「信頼を裏切る」也可表示背叛信任，是相关拓展用法。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "期待落空的结果使人失望，裏切る在此为辜负期待义；五段他动词以期待为对象。",
+        "dictionary_sequences": [
+          1550380
+        ],
+        "identity": {
+          "word": "裏切る",
+          "reading_hiragana": "うらぎる",
+          "meaning": "辜负期待"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-63ef35a9e07aefa7",
+      "index": 3831,
+      "word": "見かけ",
+      "reading_hiragana": "みかけ",
+      "context_meaning_zh": "外表表面",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "外表表面",
+          "meaning_ja": "外から見た姿や、表面に現れている様子。",
+          "example_ja": "見かけは古いが、中はきれいな家です。",
+          "example_zh": "外观看起来旧，里面却很干净。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "見かけによらない",
+          "zh": "与外表给人的印象不同"
+        }
+      ],
+      "usage_note_zh": "「見かけによらず」は外見から受ける印象と違うことを表す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句“見かけの豪華さ”取外表名词义，名词見かけ经助词の连接豪华；adj-no apparent义不能转成adnominal。",
+        "dictionary_sequences": [
+          1604420
+        ],
+        "identity": {
+          "word": "見かけ",
+          "reading_hiragana": "みかけ",
+          "meaning": "外表表面"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-710bf5cdebb714d7",
+      "index": 3832,
+      "word": "相応",
+      "reading_hiragana": "そうおう",
+      "context_meaning_zh": "相称",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相称",
+          "meaning_ja": "人や物事の性質、立場にふさわしいこと。",
+          "example_ja": "この仕事には、経験に相応した報酬が必要だ。",
+          "example_zh": "这份工作需要与经验相称的报酬。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "年齢に相応した服装",
+          "zh": "与年龄相称的服装"
+        }
+      ],
+      "usage_note_zh": "书面语，表示与身份、能力或条件相称；「〜に相応しい」也常用来表示适合。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "相応の成果中作名词定语，表示与投入相称；词典另列相应、自他サ变义，但本句是适当程度义。",
+        "dictionary_sequences": [
+          1400840
+        ],
+        "identity": {
+          "word": "相応",
+          "reading_hiragana": "そうおう",
+          "meaning": "相称"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b0c562f514ad69c3",
+      "index": 3833,
+      "word": "案外",
+      "reading_hiragana": "あんがい",
+      "context_meaning_zh": "出乎意料地",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "出乎意料地",
+          "meaning_ja": "思っていた程度や予想とは違う様子。",
+          "example_ja": "この道具は案外軽くて、持ち運びやすい。",
+          "example_zh": "这个工具意外地很轻，容易携带。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "案外便利だ",
+          "zh": "意外地很方便"
+        }
+      ],
+      "usage_note_zh": "良い結果にも悪い結果にも使え、予想とのずれを表す。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示结果或程度出乎预期，可用于正面评价；本例认为一小时制作的东西意外地好用。",
+        "dictionary_sequences": [
+          1154820
+        ],
+        "identity": {
+          "word": "案外",
+          "reading_hiragana": "あんがい",
+          "meaning": "出乎意料地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0db95fde0becf74c",
+      "index": 3834,
+      "word": "不公平",
+      "reading_hiragana": "ふこうへい",
+      "context_meaning_zh": "不公平",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不公平",
+          "meaning_ja": "人や物事を、同じ基準で扱っていない様子。",
+          "example_ja": "一人だけに片付けを任せるのは不公平だ。",
+          "example_zh": "只让一个人负责收拾是不公平的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "不公平な扱い",
+          "zh": "不公平的待遇"
+        }
+      ],
+      "usage_note_zh": "「不公平な＋名词」や「不公平だ」の形で使う。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "不公平既指不公正状态名词，也作ナ形容词评价比较方式；本句明确判断同速比较不公平。",
+        "dictionary_sequences": [
+          1492300
+        ],
+        "identity": {
+          "word": "不公平",
+          "reading_hiragana": "ふこうへい",
+          "meaning": "不公平"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e6e260c746940375",
+      "index": 3835,
+      "word": "成果",
+      "reading_hiragana": "せいか",
+      "context_meaning_zh": "成果",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "成果",
+          "meaning_ja": "努力や活動を続けた結果として得られた、価値のある実績。",
+          "example_ja": "半年間の調査の成果を、報告書にまとめた。",
+          "example_zh": "我把半年来调查取得的成果整理成了报告。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "成果を上げる",
+          "zh": "取得成果"
+        }
+      ],
+      "usage_note_zh": "一般的な結果より、努力の末に得られた実績を指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "调查的成果被整理成报告，指付出努力后取得的有价值结果；对应词典名词义。",
+        "dictionary_sequences": [
+          1375650
+        ],
+        "identity": {
+          "word": "成果",
+          "reading_hiragana": "せいか",
+          "meaning": "成果"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-16d50cec10cdc324",
+      "index": 3836,
+      "word": "失望",
+      "reading_hiragana": "しつぼう",
+      "context_meaning_zh": "失望",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "失望",
+          "meaning_ja": "期待していたことがかなわず、望みがなくなったと感じること。",
+          "example_ja": "何度説明しても約束が守られず、彼に失望した。",
+          "example_zh": "无论解释多少次，对方都不守约，我对他失望了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "失望を感じる",
+          "zh": "感到失望"
+        }
+      ],
+      "usage_note_zh": "対象は「人に失望する」のように「に」で示す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典明确将「失望する」列为自サ变自动词；对期待落空而失望以对象「に」连接，使役句也不改变词条本身自他性。",
+        "dictionary_sequences": [
+          1320170
+        ],
+        "identity": {
+          "word": "失望",
+          "reading_hiragana": "しつぼう",
+          "meaning": "失望"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2a4f1e7430d24982",
+      "index": 3837,
+      "word": "手間",
+      "reading_hiragana": "てま",
+      "context_meaning_zh": "所费工夫",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "所费工夫",
+          "meaning_ja": "何かを仕上げるために必要な時間や労力。",
+          "example_ja": "この棚は部品が多く、組み立てに手間がかかる。",
+          "example_zh": "这个架子零件很多，组装起来很费工夫。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "手間を省く",
+          "zh": "省工夫"
+        }
+      ],
+      "usage_note_zh": "「手間がかかる」は费事，「手間を省く」は减少工序或劳动。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处「手間をかけた」指投入的时间和劳动，符合词典主要义，非工资或费事工作的缩略义。",
+        "dictionary_sequences": [
+          1327410
+        ],
+        "identity": {
+          "word": "手間",
+          "reading_hiragana": "てま",
+          "meaning": "所费工夫"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9ba934343323ed9f",
+      "index": 3838,
+      "word": "効率",
+      "reading_hiragana": "こうりつ",
+      "context_meaning_zh": "效率",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "效率",
+          "meaning_ja": "使った時間や力に対して、得られる結果の割合。",
+          "example_ja": "道具の置き場所を決めたら、作業の効率が上がった。",
+          "example_zh": "确定工具的摆放位置后，工作效率提高了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "効率よく進める",
+          "zh": "高效率地推进"
+        }
+      ],
+      "usage_note_zh": "「効率がよい／悪い」常用于工作方法与设备。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "变更可能使效率提高，效率名词作主语，常用が上がる搭配。",
+        "dictionary_sequences": [
+          1275210
+        ],
+        "identity": {
+          "word": "効率",
+          "reading_hiragana": "こうりつ",
+          "meaning": "效率"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9e27d06a2ae426c5",
+      "index": 3839,
+      "word": "惜しい",
+      "reading_hiragana": "おしい",
+      "context_meaning_zh": "可惜",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "可惜",
+          "meaning_ja": "望んでいた結果に少し届かず、残念に思う様子。",
+          "example_ja": "あと一歩で完成だったので、本当に惜しい。",
+          "example_zh": "只差一步就完成了，真可惜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "惜しい機会",
+          "zh": "可惜的机会"
+        }
+      ],
+      "usage_note_zh": "也可表示珍惜、不愿失去，如「時間が惜しい」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "舍不得丢弃费心挑选的照片，惜しい表示珍惜而不忍失去；取词典valuable/too good for相关义。",
+        "dictionary_sequences": [
+          1382280
+        ],
+        "identity": {
+          "word": "惜しい",
+          "reading_hiragana": "おしい",
+          "meaning": "可惜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-77dc80a86dd9ab0a",
+      "index": 3840,
+      "word": "複雑",
+      "reading_hiragana": "ふくざつ",
+      "context_meaning_zh": "复杂",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "复杂",
+          "meaning_ja": "いくつもの要素が関係していて、簡単には分からない様子。",
+          "example_ja": "説明が複雑だったので、図にして整理した。",
+          "example_zh": "说明很复杂，所以我用图表整理了一下。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "複雑な仕組み",
+          "zh": "复杂的结构"
+        }
+      ],
+      "usage_note_zh": "「複雑な＋名词」「話が複雑だ」の形で使う。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "複雑にした自分的结构中作副词形，词典列形容动词及名词；本条仍按词头分类兼类。",
+        "dictionary_sequences": [
+          1501350
+        ],
+        "identity": {
+          "word": "複雑",
+          "reading_hiragana": "ふくざつ",
+          "meaning": "复杂"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-767fe3830b43aa34",
+      "index": 3841,
+      "word": "単純",
+      "reading_hiragana": "たんじゅん",
+      "context_meaning_zh": "简单",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "简单",
+          "meaning_ja": "要素や仕組みが少なく、分かりやすい様子。",
+          "example_ja": "この機械は単純な構造なので、直しやすい。",
+          "example_zh": "这台机器结构简单，容易修理。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "単純な作業",
+          "zh": "一项简单的工作"
+        }
+      ],
+      "usage_note_zh": "人や考え方にも使うが、その場合は「単純に考える」のような意味になる。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本句単純な一枚版指结构简单的单页版本；词典兼收名词与ナ形容词，当前修饰用法取后者。",
+        "dictionary_sequences": [
+          1417550
+        ],
+        "identity": {
+          "word": "単純",
+          "reading_hiragana": "たんじゅん",
+          "meaning": "简单"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9dad45297fc99953",
+      "index": 3842,
+      "word": "デジカメ",
+      "reading_hiragana": "デジカメ",
+      "context_meaning_zh": "数码相机",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数码相机",
+          "meaning_ja": "撮影した画像をデータとして記録するカメラ。",
+          "example_ja": "デジカメの画像を、パソコンに取り込みました。",
+          "example_zh": "我把数码相机里的图像导入了电脑。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "デジカメで撮る",
+          "zh": "用数码相机拍摄"
+        }
+      ],
+      "usage_note_zh": "「デジタルカメラ」を短くした日常的な呼び方。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "这是数码相机的常见简称。例句中用它拍摄双人合照，词典商业标签不足以说明这里指具体品牌。",
+        "dictionary_sequences": [
+          2021820
+        ],
+        "identity": {
+          "word": "デジカメ",
+          "reading_hiragana": "デジカメ",
+          "meaning": "数码相机"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0692d62511aa8736",
+      "index": 3843,
+      "word": "編む",
+      "reading_hiragana": "あむ",
+      "context_meaning_zh": "编织",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "编织",
+          "meaning_ja": "糸を交差させて、布や衣類などを作る。",
+          "example_ja": "母は余った毛糸で小さな帽子を編んだ。",
+          "example_zh": "母亲用剩下的毛线织了一顶小帽子。"
+        },
+        {
+          "meaning_zh": "编纂；编辑",
+          "meaning_ja": "材料を集めて整理し、一つの文章や本にまとめる。",
+          "example_ja": "編集者は複数の書き手の文章を一冊の本に編んだ。",
+          "example_zh": "编辑把多位作者的文章编成了一本书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "毛糸を編む",
+          "zh": "编织毛线"
+        }
+      ],
+      "usage_note_zh": "基本义是编织线、绳；「文章を編む」「本を編む」表示收集材料并编纂成文或书。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "编物毛线做小物件用編む，五段む他动词；毛线是编织材料，符合辞典knit/plait义而非编纂书籍义。",
+        "dictionary_sequences": [
+          1511950
+        ],
+        "identity": {
+          "word": "編む",
+          "reading_hiragana": "あむ",
+          "meaning": "编织"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-617d118aebe6ef9a",
+      "index": 3844,
+      "word": "アルバム",
+      "reading_hiragana": "アルバム",
+      "context_meaning_zh": "相册、纪念册；集邮册",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相册、纪念册；集邮册",
+          "meaning_ja": "写真や切手などを貼ったり整理したりして保存する冊子。",
+          "example_ja": "旅行の写真をアルバムに整理した。",
+          "example_zh": "我把旅行照片整理进了相册。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "写真アルバム",
+          "zh": "照片相册"
+        }
+      ],
+      "usage_note_zh": "写真帳のほか、切手などを集めた冊子や音楽作品集も指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "借来的相册被打开，当前使用照片册义；后续集邮册用例说明词条也可涵盖其他收集册。",
+        "dictionary_sequences": [
+          1019450
+        ],
+        "identity": {
+          "word": "アルバム",
+          "reading_hiragana": "アルバム",
+          "meaning": "相册、纪念册；集邮册"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fcd9f388ea32a9d7",
+      "index": 3845,
+      "word": "集める",
+      "reading_hiragana": "あつめる",
+      "context_meaning_zh": "收集；召集；集中",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收集；召集；集中",
+          "meaning_ja": "散らばっている物や人を、一か所に寄せる。",
+          "example_ja": "発表の前に、必要な資料を集めておいた。",
+          "example_zh": "发表前我收集好了所需资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人を集める",
+          "zh": "召集人员"
+        }
+      ],
+      "usage_note_zh": "対象を「を」で示す。物を収集する場合も、人を呼び寄せる場合も使う。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "召集初参加者、吸引注意和收集邮票均为把人或物集中起来的他动一段动词。",
+        "dictionary_sequences": [
+          1333560
+        ],
+        "identity": {
+          "word": "集める",
+          "reading_hiragana": "あつめる",
+          "meaning": "收集；召集；集中"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bce6a88013ceedb3",
+      "index": 3846,
+      "word": "セット",
+      "reading_hiragana": "セット",
+      "context_meaning_zh": "一组、一套；舞台布景",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一组、一套；舞台布景",
+          "meaning_ja": "関連する物をまとめた一組。また、舞台などに置く背景や装置。",
+          "example_ja": "このカップは二個セットで販売されています。",
+          "example_zh": "这款杯子按两个一组出售。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一セット買う",
+          "zh": "购买一套"
+        }
+      ],
+      "usage_note_zh": "可指成套商品，也可指舞台布景或摄影用背景；「セットする」另有设置、安排的动词用法，不属于这里的词条义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条指成套工具及舞台布景；词典区分set of things与movie set，句中两义均实际出现，不取セットする动词义。",
+        "dictionary_sequences": [
+          1074600
+        ],
+        "identity": {
+          "word": "セット",
+          "reading_hiragana": "セット",
+          "meaning": "一组、一套；舞台布景"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a751a89329dddac0",
+      "index": 3847,
+      "word": "乗り心地",
+      "reading_hiragana": "のりごこち",
+      "context_meaning_zh": "乘坐感受、舒适度",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乘坐感受、舒适度",
+          "meaning_ja": "乗り物に乗ったときに感じる快適さや揺れの程度。",
+          "example_ja": "このバスは座席が広く、乗り心地がよい。",
+          "example_zh": "这辆公交车座位宽敞，乘坐感受很好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "乗り心地がよい",
+          "zh": "乘坐感受好"
+        }
+      ],
+      "usage_note_zh": "常与「よい／悪い」搭配，指乘车时的舒适度。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "乗り心地表示车辆乘坐时的舒适程度；例句直接评价公交车乘坐体验。",
+        "dictionary_sequences": [
+          1600490
+        ],
+        "identity": {
+          "word": "乗り心地",
+          "reading_hiragana": "のりごこち",
+          "meaning": "乘坐感受、舒适度"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3683853e7a6ae46a",
+      "index": 3848,
+      "word": "却って",
+      "reading_hiragana": "かえって",
+      "context_meaning_zh": "相反地、反而",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相反地、反而",
+          "meaning_ja": "予想とは反対の結果になる様子。",
+          "example_ja": "説明を急いだせいで、却って誤解が増えた。",
+          "example_zh": "因为急着解释，反而增加了误会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "却って難しくなる",
+          "zh": "反而变难"
+        }
+      ],
+      "usage_note_zh": "通常写作「かえって」；表示某行动带来相反效果。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本句善意增加照片却使入口标识更小，结果与预期相反，かえって作副词。",
+        "dictionary_sequences": [
+          1226610
+        ],
+        "identity": {
+          "word": "却って",
+          "reading_hiragana": "かえって",
+          "meaning": "相反地、反而"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e054e87971163a0c",
+      "index": 3849,
+      "word": "まし(増し)",
+      "reading_hiragana": "まし",
+      "context_meaning_zh": "比另一种较差情况好些；数量的增加。",
+      "pos_ja": "名詞・ナ形容詞・接尾辞",
+      "pos_zh": "名词・な形容词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "比另一种较差情况好些；数量的增加。",
+          "meaning_ja": "望ましくない選択肢の中では、ほかより少しよい状態。",
+          "example_ja": "雨の中を歩くより、少し待つほうがましだ。",
+          "example_zh": "与其冒雨走，不如稍等一会儿。"
+        },
+        {
+          "meaning_zh": "（数量）增加；增量",
+          "meaning_ja": "「増し」と書き、基準となる数や量にさらに加えられる分を表す名詞・接尾語。",
+          "example_ja": "通常料金より一割増しの価格で販売されている。",
+          "example_zh": "商品以比通常价格高一成的价格出售。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ないよりまし",
+          "zh": "聊胜于无"
+        }
+      ],
+      "usage_note_zh": "「ましだ」は不理想选项中相对较好的意思；「増し」是名词或接尾语，表示在基准上增加的数量，二者词义不同。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "同一身份把「ましだ」的较好评价和「増し」的增加构词混在一起；例句分别体现形容动词与数量后缀，须保留身份疑点。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "まし(増し)",
+          "reading_hiragana": "まし",
+          "meaning": "比另一种较差情况好些；数量的增加。"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6805c9d3041d4e02",
+      "index": 3850,
+      "word": "たいした",
+      "reading_hiragana": "たいした",
+      "context_meaning_zh": "了不起",
+      "pos_ja": "連体詞",
+      "pos_zh": "连体词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "了不起",
+          "meaning_ja": "程度や価値が大きいことを表し、後ろの名詞を修飾する。",
+          "example_ja": "たいした準備もないのに、彼は落ち着いて発表した。",
+          "example_zh": "他没做什么特别的准备，却镇定地完成了发表。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "たいしたものだ",
+          "zh": "了不起的人或事"
+        }
+      ],
+      "usage_note_zh": "肯定表达如「たいしたものだ」表示称赞；「たいしたことはない」则表示程度不大。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "たいした直接修饰改善，表示程度显著；虽带否定对照含义，仍是连体词，不是ナ形容词或谓语动词。",
+        "dictionary_sequences": [
+          1412960
+        ],
+        "identity": {
+          "word": "たいした",
+          "reading_hiragana": "たいした",
+          "meaning": "了不起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e11f6302ac71fc08",
+      "index": 3851,
+      "word": "大して",
+      "reading_hiragana": "たいして",
+      "context_meaning_zh": "(后接否定)并不那么",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(后接否定)并不那么",
+          "meaning_ja": "後ろに否定表現を伴い、程度があまり大きくないことを表す。",
+          "example_ja": "この箱は大して重くありません。",
+          "example_zh": "这个箱子并不怎么重。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大して変わらない",
+          "zh": "并没有太大变化"
+        }
+      ],
+      "usage_note_zh": "通常后接「ない」等否定形式；不能单独表示“非常”。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "费用并没有太大变化，与后面的否定对照语境符合大して＋否定。",
+        "dictionary_sequences": [
+          1412970
+        ],
+        "identity": {
+          "word": "大して",
+          "reading_hiragana": "たいして",
+          "meaning": "(后接否定)并不那么"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d6be5eecadc68d99",
+      "index": 3852,
+      "word": "まったく",
+      "reading_hiragana": "まったく",
+      "context_meaning_zh": "完全、简直",
+      "pos_ja": "副詞・感動詞",
+      "pos_zh": "副词・感叹词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "完全、简直",
+          "meaning_ja": "残る部分がなくすべてであること。また、強い感情を込める語。",
+          "example_ja": "鍵が見つからなくて、まったく困ったものです。",
+          "example_zh": "找不到钥匙，真是让人头疼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "まったく知らない",
+          "zh": "完全不知道"
+        }
+      ],
+      "usage_note_zh": "「まったく〜ない」表示完全不；也可在肯定句中加强感叹语气。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb",
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典列完全程度副词及感叹词；本批例句兼有「まったく同じ」和句首抱怨用法，故保留两类。",
+        "dictionary_sequences": [
+          1394800
+        ],
+        "identity": {
+          "word": "まったく",
+          "reading_hiragana": "まったく",
+          "meaning": "完全、简直"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-46b36f72e35ad58f",
+      "index": 3853,
+      "word": "どうせ",
+      "reading_hiragana": "どうせ",
+      "context_meaning_zh": "反正；总归、反正",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "反正；总归、反正",
+          "meaning_ja": "結果は変わらない、または避けられないと考えて言う語。",
+          "example_ja": "どうせ買うなら、長く使える物を選びたい。",
+          "example_zh": "反正要买，我想选一件能用很久的东西。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どうせなら",
+          "zh": "既然如此"
+        }
+      ],
+      "usage_note_zh": "常带放弃或轻视语气，也可用于“既然如此，不如……”。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表示既定情况下反正如此，例句「どうせ直すなら」引出既定条件后的选择；语气可消极也可务实。",
+        "dictionary_sequences": [
+          1008950
+        ],
+        "identity": {
+          "word": "どうせ",
+          "reading_hiragana": "どうせ",
+          "meaning": "反正；总归、反正"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3addc85519298635",
+      "index": 3854,
+      "word": "暇つぶし",
+      "reading_hiragana": "ひまつぶし",
+      "context_meaning_zh": "消磨时间",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "消磨时间",
+          "meaning_ja": "待ち時間などを、何かをして過ごすこと。",
+          "example_ja": "待ち合わせまで、雑誌を読んで暇つぶしをした。",
+          "example_zh": "约好的见面时间之前，我读杂志打发时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "暇つぶしに読む",
+          "zh": "作为消磨时间的活动阅读"
+        }
+      ],
+      "usage_note_zh": "常用「暇つぶしに〜する」，指用某活动消磨空闲时间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典列消磨时间及浪费时间名词义；此处「暇つぶしのつもり」表示开始时只是打发时间的打算，没有する动词例证。",
+        "dictionary_sequences": [
+          1192820
+        ],
+        "identity": {
+          "word": "暇つぶし",
+          "reading_hiragana": "ひまつぶし",
+          "meaning": "消磨时间"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-66a618da51ba8970",
+      "index": 3855,
+      "word": "容易",
+      "reading_hiragana": "ようい",
+      "context_meaning_zh": "容易",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "容易",
+          "meaning_ja": "多くの苦労をせずにできる様子。",
+          "example_ja": "このアプリを使えば、写真の整理が容易になる。",
+          "example_zh": "使用这个应用后，整理照片会变容易。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "容易に想像できる",
+          "zh": "容易想象"
+        }
+      ],
+      "usage_note_zh": "较正式的表达；可用「容易な＋名词」或副词形「容易に」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中说起初有人以为制作容易，但最后勉强完成；词典支持容易、简单义，本条也有名词用法。",
+        "dictionary_sequences": [
+          1545350
+        ],
+        "identity": {
+          "word": "容易",
+          "reading_hiragana": "ようい",
+          "meaning": "容易"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-68a0eca51506d097",
+      "index": 3856,
+      "word": "散々",
+      "reading_hiragana": "さんざん",
+      "context_meaning_zh": "狼狈、糟糕透顶",
+      "pos_ja": "ナ形容詞・副詞",
+      "pos_zh": "な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "狼狈、糟糕透顶",
+          "meaning_ja": "ひどく悪い状態や、満足できない結果になる様子。",
+          "example_ja": "道に迷ったうえ、雨にも降られて散々だった。",
+          "example_zh": "我迷了路，还遇上下雨，真是倒霉透顶。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "散々な目に遭う",
+          "zh": "遭遇糟糕的事"
+        }
+      ],
+      "usage_note_zh": "「散々な目に遭う」表示遭遇很糟的事；「散々遊ぶ」则可表尽情地玩。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「今日は散々でした」表示一天糟透了，兼有な形容词与副词用法；例句是日常会话，但词本身没有口语专属限制。",
+        "dictionary_sequences": [
+          1593980
+        ],
+        "identity": {
+          "word": "散々",
+          "reading_hiragana": "さんざん",
+          "meaning": "狼狈、糟糕透顶"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-153c6094c4459812",
+      "index": 3857,
+      "word": "結果的",
+      "reading_hiragana": "けっかてき",
+      "context_meaning_zh": "从结果来看",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "从结果来看",
+          "meaning_ja": "途中の事情より、最後に生じた結果から見て言う語。",
+          "example_ja": "いくつかの方法を試しましたが、結果的にこの形に落ち着きました。",
+          "example_zh": "尝试了几种方法，结果最终确定为这个形式。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結果的に決まる",
+          "zh": "最终确定"
+        }
+      ],
+      "usage_note_zh": "通常写作「結果的に」，说明从最终结果来看；常修饰后续判断或结果。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「結果的に」在句中修饰效率上升，源词「結果的」为な形容词；词典义为由结果导致，不等于表示‘最终’的副词。",
+        "dictionary_sequences": [
+          2862798
+        ],
+        "identity": {
+          "word": "結果的",
+          "reading_hiragana": "けっかてき",
+          "meaning": "从结果来看"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9816ac90fec084ba",
+      "index": 3858,
+      "word": "自然美",
+      "reading_hiragana": "しぜんび",
+      "context_meaning_zh": "自然美",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "自然美",
+          "meaning_ja": "人が作ったものではなく、自然の景色や形が持つ美しさ。",
+          "example_ja": "朝日に照らされた雪山の自然美に、思わず足を止めた。",
+          "example_zh": "雪山被朝阳照亮，呈现的自然美让我不由得停下脚步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "自然美を味わう",
+          "zh": "欣赏自然美"
+        }
+      ],
+      "usage_note_zh": "自然の景観が持つ美しさを指し、人工的な装飾とは区別する。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "自然美指自然景观本身的美，参与者被湖景吸引的例句验证其名词性。",
+        "dictionary_sequences": [
+          1726670
+        ],
+        "identity": {
+          "word": "自然美",
+          "reading_hiragana": "しぜんび",
+          "meaning": "自然美"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-52d7dbc7efb8972c",
+      "index": 3859,
+      "word": "響き",
+      "reading_hiragana": "ひびき",
+      "context_meaning_zh": "听到时的感觉;回声",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "听到时的感觉;回声",
+          "meaning_ja": "音が耳に届いたときの印象。また、音が反射して聞こえること。",
+          "example_ja": "この言葉は、柔らかな響きがあって好きです。",
+          "example_zh": "我喜欢这个词听起来柔和的感觉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "言葉の響き",
+          "zh": "词语的音韵"
+        }
+      ],
+      "usage_note_zh": "音そのものの反響と、語句が与える印象の両方に使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该词兼指房间回声及词语产生的印象，两个例句分别覆盖声响和听感；均为名词义。",
+        "dictionary_sequences": [
+          1602130
+        ],
+        "identity": {
+          "word": "響き",
+          "reading_hiragana": "ひびき",
+          "meaning": "听到时的感觉;回声"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-607be5c156bbddc5",
+      "index": 3860,
+      "word": "ちょっとした",
+      "reading_hiragana": "ちょっとした",
+      "context_meaning_zh": "相当的;很少的",
+      "pos_ja": "連体詞",
+      "pos_zh": "连体词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相当的;很少的",
+          "meaning_ja": "少しの量や規模であること。また、意外に価値がある様子を表す。",
+          "example_ja": "ちょっとした工夫で、引き出しが使いやすくなった。",
+          "example_zh": "稍微改进了一下，抽屉就好用多了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ちょっとした贈り物",
+          "zh": "一点小心意"
+        }
+      ],
+      "usage_note_zh": "名词前に置く語；「ちょっとした工夫」は小さな工夫、「ちょっとした店」は意外に立派な店の意味になる。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「ちょっとした変更」取小幅义；「ちょっとした仕事」可表示相当程度，词典支持两种连体修饰义。",
+        "dictionary_sequences": [
+          2008930
+        ],
+        "identity": {
+          "word": "ちょっとした",
+          "reading_hiragana": "ちょっとした",
+          "meaning": "相当的;很少的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d45735c0e06884e1",
+      "index": 3861,
+      "word": "手に汗を握る",
+      "reading_hiragana": "てにあせをにぎる",
+      "context_meaning_zh": "捏一把汗",
+      "pos_ja": "表現・慣用句・定型表現",
+      "pos_zh": "表达・惯用语・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "捏一把汗",
+          "meaning_ja": "危険や失敗がないかと心配しながら、成り行きを見守る。",
+          "example_ja": "最後の一球が決まるまで、手に汗を握って応援した。",
+          "example_zh": "直到最后一球落定，我都捏着一把汗为他们加油。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "手に汗を握る試合",
+          "zh": "令人捏一把汗的比赛"
+        }
+      ],
+      "usage_note_zh": "緊張して展開を見守ることを表す決まった言い方。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "idiom",
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「手に汗を握る」表示紧张到屏息关注，整句是惯用表达；不按其中的握る单独裁定配价。",
+        "dictionary_sequences": [
+          2117950
+        ],
+        "identity": {
+          "word": "手に汗を握る",
+          "reading_hiragana": "てにあせをにぎる",
+          "meaning": "捏一把汗"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3bac94ce40811eb7",
+      "index": 3862,
+      "word": "釘付け",
+      "reading_hiragana": "くぎづけ",
+      "context_meaning_zh": "钉住；比喻目光或注意力被牢牢吸引",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "钉住；比喻目光或注意力被牢牢吸引",
+          "meaning_ja": "釘で固定すること。また、視線や注意が離れなくなること。",
+          "example_ja": "子どもたちは水槽の魚に釘付けになっていた。",
+          "example_zh": "孩子们被水槽里的鱼吸引住了目光。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "画面に釘付け",
+          "zh": "目不转睛地盯着画面"
+        }
+      ],
+      "usage_note_zh": "「〜に釘付けになる」は視線や注意が強く引きつけられる意味。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "釘付け可指钉牢，也可作サ变他动表达固定对象；此处「目が釘付けになる」为目光被吸引的惯用用法。",
+        "dictionary_sequences": [
+          1776900
+        ],
+        "identity": {
+          "word": "釘付け",
+          "reading_hiragana": "くぎづけ",
+          "meaning": "钉住；比喻目光或注意力被牢牢吸引"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0f90f55b470794bb",
+      "index": 3863,
+      "word": "プロ",
+      "reading_hiragana": "プロ",
+      "context_meaning_zh": "职业的",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "职业的",
+          "meaning_ja": "ある活動を仕事として行う人。また、その道に熟練している様子。",
+          "example_ja": "彼女はプロの通訳として働いている。",
+          "example_zh": "她作为职业口译员工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "プロの技",
+          "zh": "专业人士的技艺"
+        }
+      ],
+      "usage_note_zh": "「プロ」は専門家を表す名词，也用于「プロの〜」表示职业级别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "プロだけあって指专业人士，符合professional义；不取同一缩略词的program等义。",
+        "dictionary_sequences": [
+          1117030
+        ],
+        "identity": {
+          "word": "プロ",
+          "reading_hiragana": "プロ",
+          "meaning": "职业的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ca6dc64f6e66cc66",
+      "index": 3864,
+      "word": "優勝",
+      "reading_hiragana": "ゆうしょう",
+      "context_meaning_zh": "优胜",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "优胜",
+          "meaning_ja": "競技や大会で最もよい成績を取り、一位になること。",
+          "example_ja": "決勝戦に勝ち、私たちの学校が優勝した。",
+          "example_zh": "赢下决赛后，我们学校夺得了冠军。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "優勝を目指す",
+          "zh": "以夺冠为目标"
+        }
+      ],
+      "usage_note_zh": "比赛中取得第一名；一般的工作成功不称「優勝」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "優勝表示竞赛夺冠，也可接する；课文说并非由评审员决定冠军，词典列サ变不及物。",
+        "dictionary_sequences": [
+          1539280
+        ],
+        "identity": {
+          "word": "優勝",
+          "reading_hiragana": "ゆうしょう",
+          "meaning": "优胜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c7f1db0ae329d1f0",
+      "index": 3865,
+      "word": "狂",
+      "reading_hiragana": "きょう",
+      "context_meaning_zh": "对某活动极其着迷的人（〜狂后缀）",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性・玩笑",
+      "senses": [
+        {
+          "meaning_zh": "对某活动极其着迷的人（〜狂后缀）",
+          "meaning_ja": "名詞の後ろについて、その活動や物事に非常に熱中する人を表す。",
+          "example_ja": "兄は読書狂で、毎週何冊も本を読む。",
+          "example_zh": "哥哥是个书迷，每周读好几本书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "映画狂",
+          "zh": "电影狂"
+        }
+      ],
+      "usage_note_zh": "通常接名词构成「〜狂」，表示对某项活动非常着迷，语气带夸张或轻微调侃。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "joking"
+        ]
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "接游戏等名词构成「游戏狂」，表示极度热衷者；词条说明带夸张或调侃色彩。",
+        "dictionary_sequences": [
+          2081470
+        ],
+        "identity": {
+          "word": "狂",
+          "reading_hiragana": "きょう",
+          "meaning": "对某活动极其着迷的人（〜狂后缀）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c7fc10fc66f7baa6",
+      "index": 3866,
+      "word": "道具",
+      "reading_hiragana": "どうぐ",
+      "context_meaning_zh": "道具、工具",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "道具、工具",
+          "meaning_ja": "作業や目的のために使う器具や用具。",
+          "example_ja": "細かい部品を扱うため、専用の道具を使った。",
+          "example_zh": "为了处理细小零件，我使用了专用工具。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道具を使う",
+          "zh": "使用工具"
+        }
+      ],
+      "usage_note_zh": "道具可指具体器具；「人を道具にする」则是把人当作手段，语气贬义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "拍摄可以不用高级品牌的道具，指实现拍摄目的所用的器具，取词典tool/instrument义。",
+        "dictionary_sequences": [
+          1454180
+        ],
+        "identity": {
+          "word": "道具",
+          "reading_hiragana": "どうぐ",
+          "meaning": "道具、工具"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cac80870e541fa42",
+      "index": 3867,
+      "word": "鞭打つ",
+      "reading_hiragana": "むちうつ",
+      "context_meaning_zh": "鞭打;鞭策",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "鞭打;鞭策",
+          "meaning_ja": "鞭で打つこと。また、気力を奮い立たせて厳しく励ます。",
+          "example_ja": "締め切りが迫り、疲れた体に鞭打って原稿を書いた。",
+          "example_zh": "截止日期临近，我强打精神写稿。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "自分を鞭打つ",
+          "zh": "鞭策自己"
+        }
+      ],
+      "usage_note_zh": "比喻用法常见于「自分を鞭打つ」，表示督促自己继续努力。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "疲惫身体に鞭打つ为鞭策自己继续做事的惯用义；词典列五段他动词。",
+        "dictionary_sequences": [
+          1642230
+        ],
+        "identity": {
+          "word": "鞭打つ",
+          "reading_hiragana": "むちうつ",
+          "meaning": "鞭打;鞭策"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d258656a6e40713d",
+      "index": 3868,
+      "word": "ブランド",
+      "reading_hiragana": "ブランド",
+      "context_meaning_zh": "商标、品牌",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "商标、品牌",
+          "meaning_ja": "商品やサービスを他と区別するための名前や印。",
+          "example_ja": "同じブランドの靴を、色違いで二足持っている。",
+          "example_zh": "我有两双同一品牌的鞋，只是颜色不同。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ブランドの商品",
+          "zh": "品牌商品"
+        }
+      ],
+      "usage_note_zh": "指品牌名称或以该名称销售的商品；不等同于所有权利意义上的商标。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「高級なブランドの道具」中指品牌，符合名牌器材义；句子谈摄影活动，无法据此认定新闻体裁。",
+        "dictionary_sequences": [
+          1114090
+        ],
+        "identity": {
+          "word": "ブランド",
+          "reading_hiragana": "ブランド",
+          "meaning": "商标、品牌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-33e79ab6052f3297",
+      "index": 3869,
+      "word": "ゲーム",
+      "reading_hiragana": "ゲーム",
+      "context_meaning_zh": "游戏",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "游戏",
+          "meaning_ja": "ルールに従って勝ち負けや得点を楽しむ遊び。また、電子機器で遊ぶ作品。",
+          "example_ja": "夕食のあと、家族で簡単なゲームをした。",
+          "example_zh": "晚饭后，我们一家玩了个简单的游戏。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ゲームに参加する",
+          "zh": "参加游戏"
+        }
+      ],
+      "usage_note_zh": "可指棋盘、体育或电子游戏等；具体种类由上下文决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句以游戏为复合名词修饰桌子，含义通用；教材场景不构成教育文体。",
+        "dictionary_sequences": [
+          1048400
+        ],
+        "identity": {
+          "word": "ゲーム",
+          "reading_hiragana": "ゲーム",
+          "meaning": "游戏"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c239387526b22135",
+      "index": 3870,
+      "word": "名作",
+      "reading_hiragana": "めいさく",
+      "context_meaning_zh": "名作",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "名作",
+          "meaning_ja": "特に優れていて、多くの人に長く評価される作品。",
+          "example_ja": "この小説は、何度読んでも新しい発見がある名作だ。",
+          "example_zh": "这部小说无论读多少次都有新发现，是一部名作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "名作を読む",
+          "zh": "阅读名作"
+        }
+      ],
+      "usage_note_zh": "可指小说、电影、音乐等优秀作品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "玩家把游戏评价为名作，指杰出作品／masterpiece；该词适用于多类作品，不专属文学体裁。",
+        "dictionary_sequences": [
+          1531500
+        ],
+        "identity": {
+          "word": "名作",
+          "reading_hiragana": "めいさく",
+          "meaning": "名作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-afdf0eaf35c54f5b",
+      "index": 3871,
+      "word": "撮影",
+      "reading_hiragana": "さつえい",
+      "context_meaning_zh": "摄影、照相",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "摄影、照相",
+          "meaning_ja": "カメラで人や景色などを写真や映像に記録すること。",
+          "example_ja": "展示室では撮影が禁止されています。",
+          "example_zh": "展厅内禁止拍摄。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "写真を撮影する",
+          "zh": "拍摄照片"
+        }
+      ],
+      "usage_note_zh": "正式场合常用「撮影する」；日常口语也常说「写真を撮る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "撮影可作摄影名词及他动サ变，语境说明即使不用高级器材也能拍摄；词典标vt。",
+        "dictionary_sequences": [
+          1298800
+        ],
+        "identity": {
+          "word": "撮影",
+          "reading_hiragana": "さつえい",
+          "meaning": "摄影、照相"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-14efbd83716639e1",
+      "index": 3872,
+      "word": "フィルム",
+      "reading_hiragana": "フィルム",
+      "context_meaning_zh": "胶卷",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "胶卷",
+          "meaning_ja": "カメラの中で光を受け、画像を記録する薄い材料。",
+          "example_ja": "祖父の机から、昔の旅行のフィルムが出てきた。",
+          "example_zh": "我从祖父的桌子里找到了以前旅行时的胶卷。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "フィルムカメラ",
+          "zh": "胶片相机"
+        }
+      ],
+      "usage_note_zh": "摄影胶卷之外，也可指电影胶片或胶片拍摄的电影。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该条语境明确是胶卷，目が釘付け是照片吸引视线的句法环境；词典通用film义与之相符。",
+        "dictionary_sequences": [
+          1109380
+        ],
+        "identity": {
+          "word": "フィルム",
+          "reading_hiragana": "フィルム",
+          "meaning": "胶卷"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0d5ea9a219f96644",
+      "index": 3873,
+      "word": "見かける",
+      "reading_hiragana": "みかける",
+      "context_meaning_zh": "偶尔看到、发现",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "偶尔看到、发现",
+          "meaning_ja": "探していないときに、ある人や物が目に入る。",
+          "example_ja": "昼休みに、近所で働く友人を見かけた。",
+          "example_zh": "午休时，我偶然看见了在附近工作的朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "街で見かける",
+          "zh": "在街上偶然看见"
+        }
+      ],
+      "usage_note_zh": "一般表示偶然看到；有意观看则常用「見る」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「近所で見かけるカメラマン」指偶然在附近遇见的摄影师，符合词典catch sight of义；此词为一段他动词。",
+        "dictionary_sequences": [
+          1604430
+        ],
+        "identity": {
+          "word": "見かける",
+          "reading_hiragana": "みかける",
+          "meaning": "偶尔看到、发现"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c77f12e531ccc9d3",
+      "index": 3874,
+      "word": "カメラマン",
+      "reading_hiragana": "カメラマン",
+      "context_meaning_zh": "摄影师",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "摄影师",
+          "meaning_ja": "写真や映像を撮ることを職業にする人。",
+          "example_ja": "カメラマンが舞台の後ろから演奏を撮影した。",
+          "example_zh": "摄影师从舞台后方拍摄了演奏。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "報道カメラマン",
+          "zh": "新闻摄影师"
+        }
+      ],
+      "usage_note_zh": "现代日语中指摄影或摄像工作者，不专指男性。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "JMdict 1038390 的摄影师／摄影工作者名词义与本课“カメラマン”一致；职业名词本身无性别或敬语标记。",
+        "dictionary_sequences": [
+          1038390
+        ],
+        "identity": {
+          "word": "カメラマン",
+          "reading_hiragana": "カメラマン",
+          "meaning": "摄影师"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-738e9fa33fc75e05",
+      "index": 3875,
+      "word": "写真屋",
+      "reading_hiragana": "しゃしんや",
+      "context_meaning_zh": "照相馆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "照相馆",
+          "meaning_ja": "写真を撮ったり、プリントや現像を受け付けたりする店。",
+          "example_ja": "駅前の写真屋で、履歴書用の写真を撮った。",
+          "example_zh": "我在车站前的照相馆拍了简历用的照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "写真屋に頼む",
+          "zh": "委托照相馆"
+        }
+      ],
+      "usage_note_zh": "日常说法，指照相馆或提供照片服务的店铺。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「写真屋で撮ったみたい」指可拍照的照相馆；词典也收摄影师、器材店和冲印店义，但当前比喻场景对应摄影场所。",
+        "dictionary_sequences": [
+          1321910
+        ],
+        "identity": {
+          "word": "写真屋",
+          "reading_hiragana": "しゃしんや",
+          "meaning": "照相馆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-22b4fc173dbd3875",
+      "index": 3876,
+      "word": "収める",
+      "reading_hiragana": "おさめる",
+      "context_meaning_zh": "取得",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "取得",
+          "meaning_ja": "賞や成果などを手に入れる。また、物を決まった場所に入れる。",
+          "example_ja": "彼女は大会で優秀な成績を収めた。",
+          "example_zh": "她在大赛中取得了优异成绩。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "成功を収める",
+          "zh": "取得成功"
+        }
+      ],
+      "usage_note_zh": "「成果・賞を収める」は取得；「箱に収める」は收纳，读音同为おさめる。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「大成功を収めた」指取得成功，符合词典他动词的成果达成义；不取收纳义。",
+        "dictionary_sequences": [
+          1589090
+        ],
+        "identity": {
+          "word": "収める",
+          "reading_hiragana": "おさめる",
+          "meaning": "取得"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-78ceb9afd2f849cd",
+      "index": 3877,
+      "word": "別々",
+      "reading_hiragana": "べつべつ",
+      "context_meaning_zh": "分别、各自",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "分别、各自",
+          "meaning_ja": "一緒にせず、二つ以上のものを分けて扱う様子。",
+          "example_ja": "会計は別々にお願いします。",
+          "example_zh": "结账请分开。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "別々に暮らす",
+          "zh": "分别生活"
+        }
+      ],
+      "usage_note_zh": "「別々の＋名词」或「別々に＋动词」；强调各自分开。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "別々に修饰「確認する」表示分开核实，也能作「別々の」定语或名词；与词典兼类吻合。",
+        "dictionary_sequences": [
+          1603290
+        ],
+        "identity": {
+          "word": "別々",
+          "reading_hiragana": "べつべつ",
+          "meaning": "分别、各自"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-59648e8981a15cd9",
+      "index": 3878,
+      "word": "ショット",
+      "reading_hiragana": "ショット",
+      "context_meaning_zh": "拍照、拍摄;镜头",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拍照、拍摄;镜头",
+          "meaning_ja": "写真や映像の一場面。また、カメラで撮った一枚や一場面。",
+          "example_ja": "監督は窓辺の人物を長いショットで撮った。",
+          "example_zh": "导演用一个长镜头拍摄了窗边的人物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ロングショット",
+          "zh": "远景镜头"
+        }
+      ],
+      "usage_note_zh": "指影像中的一段画面或摄影照片；「ツーショット」特指两人同框。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句中的ショット指拍摄所得的一张影像或镜头，按名词处理；词典电影义只作领域说明，不足以把词汇整体限定为电影体裁。",
+        "dictionary_sequences": [
+          1062690
+        ],
+        "identity": {
+          "word": "ショット",
+          "reading_hiragana": "ショット",
+          "meaning": "拍照、拍摄;镜头"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4d19fefcaba3a39e",
+      "index": 3879,
+      "word": "運良く",
+      "reading_hiragana": "うんよく",
+      "context_meaning_zh": "运气好、侥幸地",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "运气好、侥幸地",
+          "meaning_ja": "よい偶然に恵まれて、望ましい結果になる様子。",
+          "example_ja": "運良く最後の一席が空いていて、座ることができた。",
+          "example_zh": "幸运的是最后一个座位空着，我得以坐下。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "運良く見つかる",
+          "zh": "幸运地找到"
+        }
+      ],
+      "usage_note_zh": "「運よく」と平假名で書くことも多く、運がよい結果を表す。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "運良く修饰「经验者恰好在场」，表示幸运地发生；词典直接列副词义。",
+        "dictionary_sequences": [
+          1172670
+        ],
+        "identity": {
+          "word": "運良く",
+          "reading_hiragana": "うんよく",
+          "meaning": "运气好、侥幸地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-477b8f5b1056fc23",
+      "index": 3880,
+      "word": "冒険",
+      "reading_hiragana": "ぼうけん",
+      "context_meaning_zh": "冒险",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "冒险",
+          "meaning_ja": "危険や困難があると分かったうえで、新しいことを試すこと。",
+          "example_ja": "二人は小さな船で島の周りを冒険した。",
+          "example_zh": "两人乘着小船在岛的周围探险。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "冒険に出る",
+          "zh": "踏上冒险"
+        }
+      ],
+      "usage_note_zh": "可指实际探险，也可比喻大胆尝试未知的事。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句“冒険の物語”是冒险名词加の；“冒険心”是复合名词，另有冒険する动词及な形容词义。",
+        "dictionary_sequences": [
+          1519830
+        ],
+        "identity": {
+          "word": "冒険",
+          "reading_hiragana": "ぼうけん",
+          "meaning": "冒险"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bbe2c234cfb0ae19",
+      "index": 3881,
+      "word": "スリル",
+      "reading_hiragana": "スリル",
+      "context_meaning_zh": "惊险",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "惊险",
+          "meaning_ja": "危険を感じるような緊張や、はらはらする刺激。",
+          "example_ja": "高い橋を渡る場面に、強いスリルを感じた。",
+          "example_zh": "走过高桥的场面让我感到很惊险。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "スリルを味わう",
+          "zh": "体验惊险感"
+        }
+      ],
+      "usage_note_zh": "常表示紧张刺激的感受，不一定真的发生危险。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "惊险刺激感名词，「スリルのある」修饰最后一道题；题目具有挑战性不代表词汇本身有教育体裁。",
+        "dictionary_sequences": [
+          1073960
+        ],
+        "identity": {
+          "word": "スリル",
+          "reading_hiragana": "スリル",
+          "meaning": "惊险"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-08391fca0e7711c8",
+      "index": 3882,
+      "word": "ツーショット",
+      "reading_hiragana": "ツーショット",
+      "context_meaning_zh": "两人合照。",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "两人合照。",
+          "meaning_ja": "二人が一緒に写っている写真や映像の場面。",
+          "example_ja": "イベントの後、出演者とツーショットを撮った。",
+          "example_zh": "活动结束后，我和出演者拍了两人合照。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ツーショット写真",
+          "zh": "两人合照"
+        }
+      ],
+      "usage_note_zh": "外来语，指两人同框，常用于合影；不限定情侣。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "ツーショット取两人合照义，辞典相应义项与用借来的相机拍双人照的例句吻合；非电影镜头或交友服务义。",
+        "dictionary_sequences": [
+          2025320
+        ],
+        "identity": {
+          "word": "ツーショット",
+          "reading_hiragana": "ツーショット",
+          "meaning": "两人合照。"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e0236da6328be371",
+      "index": 3883,
+      "word": "パズル",
+      "reading_hiragana": "パズル",
+      "context_meaning_zh": "谜题、拼图等益智游戏；特定语境为填字游戏。",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "谜题、拼图等益智游戏；特定语境为填字游戏。",
+          "meaning_ja": "考えて答えを見つける問題や、形の合う部品を組み合わせる遊び。",
+          "example_ja": "祖母は朝食の後、新聞のパズルを解く。",
+          "example_zh": "祖母早饭后会做报纸上的谜题。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "パズルを解く",
+          "zh": "做谜题"
+        }
+      ],
+      "usage_note_zh": "一般指益智谜题或拼图；在报纸等语境中也可特指填字游戏。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "桌上的故事类游戏与报纸填词都属于益智谜题，词义范围不应只缩成填字游戏。",
+        "dictionary_sequences": [
+          1101530
+        ],
+        "identity": {
+          "word": "パズル",
+          "reading_hiragana": "パズル",
+          "meaning": "谜题、拼图等益智游戏；特定语境为填字游戏。"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-88b007978325a101",
+      "index": 3884,
+      "word": "太刀打ちできない",
+      "reading_hiragana": "たちうちできない",
+      "context_meaning_zh": "敌不过、争不过",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "敌不过、争不过",
+          "meaning_ja": "相手の力や能力が強く、張り合っても勝てない。",
+          "example_ja": "経験の豊かな職人には、まだ太刀打ちできない。",
+          "example_zh": "我还敌不过经验丰富的师傅。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "相手に太刀打ちできない",
+          "zh": "无法与对手抗衡"
+        }
+      ],
+      "usage_note_zh": "通常用否定形，表示实力、能力或条件不及对方。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「太刀打ちできない」作为固定惯用表达，表示实力差距太大而无法匹敌；可用于会话或文章，不带特定口语限制。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "太刀打ちできない",
+          "reading_hiragana": "たちうちできない",
+          "meaning": "敌不过、争不过"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c673adc4d9352f36",
+      "index": 3885,
+      "word": "謎謎",
+      "reading_hiragana": "なぞなぞ",
+      "context_meaning_zh": "谜语、猜谜游戏",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "谜语、猜谜游戏",
+          "meaning_ja": "手掛かりを聞いて、言葉で答えを当てる遊びや問題。",
+          "example_ja": "子どもたちは順番に謎謎を出し合った。",
+          "example_zh": "孩子们轮流出谜语给彼此猜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "謎謎を出す",
+          "zh": "出谜语"
+        }
+      ],
+      "usage_note_zh": "也常写作「なぞなぞ」；指猜谜，不是一般难题。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "謎謎を解く指解开谜语，是可解答的谜题名词；词典列riddle、puzzle义。",
+        "dictionary_sequences": [
+          1599500
+        ],
+        "identity": {
+          "word": "謎謎",
+          "reading_hiragana": "なぞなぞ",
+          "meaning": "谜语、猜谜游戏"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d9bedcff2a88abec",
+      "index": 3886,
+      "word": "スケッチ",
+      "reading_hiragana": "スケッチ",
+      "context_meaning_zh": "记录;写生、素描",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "记录;写生、素描",
+          "meaning_ja": "見たものの特徴を簡単な絵や短い記録に残すこと。",
+          "example_ja": "公園のベンチから、池の鳥をスケッチした。",
+          "example_zh": "我坐在公园长椅上，给池塘里的鸟画了速写。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "風景をスケッチする",
+          "zh": "写生风景"
+        }
+      ],
+      "usage_note_zh": "绘画时是快速写生；也可指对情况作简要记录。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「スケッチをしました」为名词兼する，绘写生时可带を宾语；词典明确标vs、vt。",
+        "dictionary_sequences": [
+          1068880
+        ],
+        "identity": {
+          "word": "スケッチ",
+          "reading_hiragana": "スケッチ",
+          "meaning": "记录;写生、素描"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cc7c185828f20a0c",
+      "index": 3887,
+      "word": "誉め立てる・褒め立てる",
+      "reading_hiragana": "ほめたてる",
+      "context_meaning_zh": "大加赞扬",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大加赞扬",
+          "meaning_ja": "相手のよい点をいくつも挙げて、強くほめる。",
+          "example_ja": "先生は発表の工夫を、皆の前で褒め立てた。",
+          "example_zh": "老师在大家面前大力称赞了发表中的巧思。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "努力を褒め立てる",
+          "zh": "大力称赞努力"
+        }
+      ],
+      "usage_note_zh": "「褒める」より強く、繰り返しほめる感じがある。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "自称游戏迷的人称作品为杰作并大力称赞，称赞对象由引用内容表达；褒め立てる是持续、夸张称赞的他动一段词。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "誉め立てる・褒め立てる",
+          "reading_hiragana": "ほめたてる",
+          "meaning": "大加赞扬"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a015d989442a18d3",
+      "index": 3888,
+      "word": "ぴょこんと",
+      "reading_hiragana": "ぴょこんと",
+      "context_meaning_zh": "轻轻跳起或突然小幅一动（如点头）",
+      "pos_ja": "副詞・オノマトペ",
+      "pos_zh": "副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "轻轻跳起或突然小幅一动（如点头）",
+          "meaning_ja": "小さく軽く跳ねたり、頭などをすばやく動かしたりする様子。",
+          "example_ja": "呼ばれた子は、ぴょこんと手を上げた。",
+          "example_zh": "被叫到的孩子轻快地举起了手。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ぴょこんと跳ねる",
+          "zh": "轻轻一跳"
+        }
+      ],
+      "usage_note_zh": "軽く小さな動きを表す擬態語で、跳ねる・頭を下げる等に使う。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「ぴょこんと頭を下げる」描写突然轻轻低头的动作；缺少词典材料，语体和具体用法仍待核。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "ぴょこんと",
+          "reading_hiragana": "ぴょこんと",
+          "meaning": "轻轻跳起或突然小幅一动（如点头）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-51876a872486b2b7",
+      "index": 3889,
+      "word": "すうっと",
+      "reading_hiragana": "すうっと",
+      "context_meaning_zh": "轻轻地、顺畅地（すっと的延长形式）",
+      "pos_ja": "副詞・オノマトペ",
+      "pos_zh": "副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "轻轻地、顺畅地（すっと的延长形式）",
+          "meaning_ja": "動きや空気の流れが滑らかで、引っかかりがない様子。",
+          "example_ja": "窓を開けると、涼しい風がすうっと入ってきた。",
+          "example_zh": "打开窗户后，凉风顺畅地吹了进来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "すうっと通る",
+          "zh": "顺畅地通过"
+        }
+      ],
+      "usage_note_zh": "「すっと」的延长形式，可描写顺畅的移动、气流，也可表示心情豁然轻松。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典兼收轻柔移动与快速直接等义；门顺畅轻柔开启对应gentle义。拟态副词也常见于书面叙述，媒介标general。",
+        "dictionary_sequences": [
+          1006140
+        ],
+        "identity": {
+          "word": "すうっと",
+          "reading_hiragana": "すうっと",
+          "meaning": "轻轻地、顺畅地（すっと的延长形式）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c311231c4c80366a",
+      "index": 3890,
+      "word": "上等",
+      "reading_hiragana": "じょうとう",
+      "context_meaning_zh": "上等、高级",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "上等、高级",
+          "meaning_ja": "品質や程度が普通より優れていること。",
+          "example_ja": "上等な紙を使うと、色がきれいに出る。",
+          "example_zh": "用上等的纸，颜色会显得漂亮。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "上等の品",
+          "zh": "上等的商品"
+        }
+      ],
+      "usage_note_zh": "「上等な＋名词」または「上等だ」の形；商品や品質の評価に使う。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "上等な道具中作ナ形容词修饰名词；词典亦列名词及感叹词，但当前例句只支持优质义。",
+        "dictionary_sequences": [
+          1354030
+        ],
+        "identity": {
+          "word": "上等",
+          "reading_hiragana": "じょうとう",
+          "meaning": "上等、高级"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-33c152fe9a47ad0a",
+      "index": 3891,
+      "word": "実に",
+      "reading_hiragana": "じつに",
+      "context_meaning_zh": "的确、实在",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "的确、实在",
+          "meaning_ja": "ある状態が確かだと強く感じたり認めたりする語。",
+          "example_ja": "この小説の結末は、実に印象的だった。",
+          "example_zh": "这部小说的结尾确实令人印象深刻。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "実に見事だ",
+          "zh": "确实出色"
+        }
+      ],
+      "usage_note_zh": "「本当に」に近いが、やや書き言葉的で落ち着いた表現。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「実に見事」加强对照片的评价，表示确实/非常；教材提示其语感较书面沉稳，但不属正式敬语。",
+        "dictionary_sequences": [
+          2820720
+        ],
+        "identity": {
+          "word": "実に",
+          "reading_hiragana": "じつに",
+          "meaning": "的确、实在"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-17c1e184a35eaca9",
+      "index": 3892,
+      "word": "レジャー",
+      "reading_hiragana": "レジャー",
+      "context_meaning_zh": "闲暇;空闲时间的娱乐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "闲暇;空闲时间的娱乐",
+          "meaning_ja": "仕事や用事のない自由な時間。また、その時間に楽しむ活動。",
+          "example_ja": "休日は近くの公園でレジャーを楽しんだ。",
+          "example_zh": "休息日我在附近的公园享受休闲时光。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "レジャー施設",
+          "zh": "休闲设施"
+        }
+      ],
+      "usage_note_zh": "可指闲暇时间，也可指休闲活动；「レジャー施設」为休闲设施。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「休日のレジャー」指假日休闲活动，词典闲暇义涵盖此用法。",
+        "dictionary_sequences": [
+          1145220
+        ],
+        "identity": {
+          "word": "レジャー",
+          "reading_hiragana": "レジャー",
+          "meaning": "闲暇;空闲时间的娱乐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-49808814da8ff863",
+      "index": 3893,
+      "word": "やっと",
+      "reading_hiragana": "やっと",
+      "context_meaning_zh": "好容易;终于;勉强",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "好容易;终于;勉强",
+          "meaning_ja": "時間や苦労を重ねたあとで、ようやく実現する様子。",
+          "example_ja": "何度も練習して、やっと最後まで弾けた。",
+          "example_zh": "练习了很多次，终于能弹完整首曲子了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "やっと終わる",
+          "zh": "终于结束"
+        }
+      ],
+      "usage_note_zh": "表示终于实现；「やっと間に合う」还可表示勉强赶上。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「一つ作るのがやっと」表示勉强只能完成一件，取词典barely义而非finally义；作程度／结果副词。",
+        "dictionary_sequences": [
+          1012800
+        ],
+        "identity": {
+          "word": "やっと",
+          "reading_hiragana": "やっと",
+          "meaning": "好容易;终于;勉强"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-20154f3d9804cef1",
+      "index": 3894,
+      "word": "グルメ",
+      "reading_hiragana": "グルメ",
+      "context_meaning_zh": "美食家",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "美食家",
+          "meaning_ja": "食べ物や料理に詳しく、味を楽しむ人。",
+          "example_ja": "グルメの友人に、地元のそば屋を教えてもらった。",
+          "example_zh": "美食家朋友告诉了我一家当地荞麦面店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "グルメ雑誌",
+          "zh": "美食杂志"
+        }
+      ],
+      "usage_note_zh": "可指美食爱好者，也可作修饰语表示与美食相关，如「グルメ番組」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「グルメの友人」指美食家朋友，词典人物名词义匹配；本条语境不是美食本身。",
+        "dictionary_sequences": [
+          1047470
+        ],
+        "identity": {
+          "word": "グルメ",
+          "reading_hiragana": "グルメ",
+          "meaning": "美食家"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b8aee8f07a475708",
+      "index": 3895,
+      "word": "高級",
+      "reading_hiragana": "こうきゅう",
+      "context_meaning_zh": "高级",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "高级",
+          "meaning_ja": "品質や等級が高く、上質であること。",
+          "example_ja": "この店では高級な茶葉を少しずつ販売している。",
+          "example_zh": "这家店少量出售高档茶叶。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "高級な材料",
+          "zh": "高档材料"
+        }
+      ],
+      "usage_note_zh": "不一定只表示价格贵，也可指等级、品质高。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "高級な修饰工具，取高品质/高级义；词典支持名词兼ナ形容词。",
+        "dictionary_sequences": [
+          1283400
+        ],
+        "identity": {
+          "word": "高級",
+          "reading_hiragana": "こうきゅう",
+          "meaning": "高级"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4cf1b6f4bd24f8b5",
+      "index": 3896,
+      "word": "デラックス",
+      "reading_hiragana": "デラックス",
+      "context_meaning_zh": "高级、豪华、奢侈",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "高级、豪华、奢侈",
+          "meaning_ja": "設備や内容が豊かで、ぜいたくな様子。",
+          "example_ja": "少し広いデラックスルームを予約した。",
+          "example_zh": "我预订了一间稍宽敞的豪华客房。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "デラックス版",
+          "zh": "豪华版"
+        }
+      ],
+      "usage_note_zh": "外来语，常作商品、房间或服务名称的一部分，强调豪华配置。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「デラックス版」中该词修饰商品名称，词典支持ナ形容词义；复合名词里的修饰成分不足以另立noun类。",
+        "dictionary_sequences": [
+          1084250
+        ],
+        "identity": {
+          "word": "デラックス",
+          "reading_hiragana": "デラックス",
+          "meaning": "高级、豪华、奢侈"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a727c9080cb1dcab",
+      "index": 3897,
+      "word": "さすがに",
+      "reading_hiragana": "さすがに",
+      "context_meaning_zh": "真不愧是;到底还是",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "真不愧是;到底还是",
+          "meaning_ja": "評判や期待に合うと感じる語。また、程度が限界に達したと感じる語。",
+          "example_ja": "さすがに職人だけあって、仕上がりが美しい。",
+          "example_zh": "不愧是工匠，成品十分漂亮。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "さすがに疲れる",
+          "zh": "到底还是累了"
+        }
+      ],
+      "usage_note_zh": "「さすがに＋名词／句」可表不愧是；也可表终究、确实到了某种程度。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "两例分别体现不愧是的评价和疲劳达到限度后的到底还是，均为副词用法。",
+        "dictionary_sequences": [
+          2140120
+        ],
+        "identity": {
+          "word": "さすがに",
+          "reading_hiragana": "さすがに",
+          "meaning": "真不愧是;到底还是"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1dcbe785804c901f",
+      "index": 3898,
+      "word": "現実",
+      "reading_hiragana": "げんじつ",
+      "context_meaning_zh": "现实",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "现实",
+          "meaning_ja": "想像や希望ではなく、実際に存在している状態。",
+          "example_ja": "現実を確かめてから、無理のない予定を立てた。",
+          "example_zh": "确认现实情况后，我制定了可行的计划。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "現実に向き合う",
+          "zh": "面对现实"
+        }
+      ],
+      "usage_note_zh": "「現実」は实际状况；「現実的」は表示现实可行。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "预想与现实不同，現実是实际状况或事实这一名词，词典reality/actuality义相合。",
+        "dictionary_sequences": [
+          1263710
+        ],
+        "identity": {
+          "word": "現実",
+          "reading_hiragana": "げんじつ",
+          "meaning": "现实"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-221fd5ff37076d81",
+      "index": 3899,
+      "word": "さすが",
+      "reading_hiragana": "さすが",
+      "context_meaning_zh": "就连...都;到底还是;不愧是",
+      "pos_ja": "ナ形容詞・副詞",
+      "pos_zh": "な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "就连...都;到底还是;不愧是",
+          "meaning_ja": "評判や期待に合っていると感心して言う語。",
+          "example_ja": "さすが、道具の使い方がとても上手ですね。",
+          "example_zh": "真不愧如此，工具用得真熟练。"
+        },
+        {
+          "meaning_zh": "就连……也；到底还是",
+          "meaning_ja": "評判の高い人でも例外ではないと、意外さを込めて言う語。",
+          "example_ja": "さすがの彼でも、この難問にはすぐ答えられなかった。",
+          "example_zh": "就连他也没能马上回答这道难题。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "さすがの腕前",
+          "zh": "不愧是好手艺"
+        }
+      ],
+      "usage_note_zh": "可表示不愧是、令人佩服；「さすがの〜でも」也表示“就连……也”，带有例外或让步语气。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典支持副词兼形容动词用法；本批例句分别呈现称赞、让步及毕竟义，不能将整组用法缩为单一不愧义。",
+        "dictionary_sequences": [
+          1552390
+        ],
+        "identity": {
+          "word": "さすが",
+          "reading_hiragana": "さすが",
+          "meaning": "就连...都;到底还是;不愧是"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4f0b90b1009955fc",
+      "index": 3900,
+      "word": "沸き起こる・湧き起こる",
+      "reading_hiragana": "わきおこる",
+      "context_meaning_zh": "涌起、呈现",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "涌起、呈现",
+          "meaning_ja": "多くの人の声や強い感情が、急に現れて広がる。",
+          "example_ja": "演奏が終わると、客席から拍手が沸き起こった。",
+          "example_zh": "演奏结束后，观众席响起了热烈掌声。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "拍手が沸き起こる",
+          "zh": "响起掌声"
+        }
+      ],
+      "usage_note_zh": "「歓声・拍手・怒り」などが主語になる。漢字は「湧き起こる」も使う。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "笑声在读出答案后涌起，沸き起こる／湧き起こる是描述声音或情感突然出现的五段不及物动词。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "沸き起こる・湧き起こる",
+          "reading_hiragana": "わきおこる",
+          "meaning": "涌起、呈现"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3cfb02c4523f36d0",
+      "index": 3901,
+      "word": "甲斐",
+      "reading_hiragana": "かい",
+      "context_meaning_zh": "效果、价值",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "效果、价值",
+          "meaning_ja": "時間や労力を使ったことで得られる成果や価値。",
+          "example_ja": "毎日練習した甲斐があって、難しい曲も弾けるようになった。",
+          "example_zh": "每天练习没有白费，我连难曲也能弹了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "努力の甲斐がある",
+          "zh": "努力有了回报"
+        }
+      ],
+      "usage_note_zh": "常用「〜した甲斐がある／ない」，表示付出是否得到值得的结果。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「改善の甲斐」表示改善值得付出、能产生效果；候选之一为相同读音但不对应此处的其他词。",
+        "dictionary_sequences": [
+          1280250
+        ],
+        "identity": {
+          "word": "甲斐",
+          "reading_hiragana": "かい",
+          "meaning": "效果、价值"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2f82309a33a7960b",
+      "index": 3902,
+      "word": "返って",
+      "reading_hiragana": "かえって",
+      "context_meaning_zh": "反倒、反而",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "反倒、反而",
+          "meaning_ja": "予想したことと反対の結果になる様子。",
+          "example_ja": "助けるつもりで口を出したら、かえって話がこじれた。",
+          "example_zh": "我本想帮忙插手，反而把事情弄复杂了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "かえって悪くなる",
+          "zh": "反而变糟"
+        }
+      ],
+      "usage_note_zh": "词条按源数据保留「返って」写法；作为表示结果相反的副词，现代通常写「かえって」或「却って」，以免与动词「返る」混淆。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "照片增加原想更友好，结果反而缩小入口标识；转折结果副词，记录写法保留源数据但通常写かえって。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "返って",
+          "reading_hiragana": "かえって",
+          "meaning": "反倒、反而"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f0eb522c52889031",
+      "index": 3903,
+      "word": "びくともしない",
+      "reading_hiragana": "びくともしない",
+      "context_meaning_zh": "纹丝不动；面对冲击或批评不为所动。",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "纹丝不动；面对冲击或批评不为所动。",
+          "meaning_ja": "力を加えられても少しも動かない。また、批判などを受けても動揺しない。",
+          "example_ja": "重い棚は二人で押してもびくともしなかった。",
+          "example_zh": "两个人一起推，沉重的架子也纹丝不动。"
+        },
+        {
+          "meaning_zh": "面对冲击或批评不为所动",
+          "meaning_ja": "強い批判や脅しを受けても、気持ちが揺れない。",
+          "example_ja": "彼は厳しい批判を受けても、びくともしなかった。",
+          "example_zh": "即使受到严厉批评，他也不为所动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "びくともしない",
+          "zh": "纹丝不动"
+        }
+      ],
+      "usage_note_zh": "可描写物体受力后纹丝不动，也可比喻人面对批评或威胁仍不动摇。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "印刷机无法动作的语境采用「びくともしない」固定否定表达，表示完全不动；该结构含する的否定活用。",
+        "dictionary_sequences": [
+          1010720
+        ],
+        "identity": {
+          "word": "びくともしない",
+          "reading_hiragana": "びくともしない",
+          "meaning": "纹丝不动；面对冲击或批评不为所动。"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-18d0b094f6d33d1a",
+      "index": 3904,
+      "word": "誉め称える",
+      "reading_hiragana": "ほめたたえる",
+      "context_meaning_zh": "极力称赞",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "极力称赞",
+          "meaning_ja": "優れた点や功績を挙げて、強くほめる。",
+          "example_ja": "仲間たちは、彼女の長年の功績を誉め称えた。",
+          "example_zh": "伙伴们高度赞扬了她多年来的功绩。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "功績を誉め称える",
+          "zh": "赞扬功绩"
+        }
+      ],
+      "usage_note_zh": "「褒め称える」とも書く；比一般的「褒める」语气更郑重。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "一段他动词，指高度赞扬；例句提醒现在称赞为大成功还为时过早，资料说明语气较「褒める」郑重。",
+        "dictionary_sequences": [
+          1517940
+        ],
+        "identity": {
+          "word": "誉め称える",
+          "reading_hiragana": "ほめたたえる",
+          "meaning": "极力称赞"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9faaa05400336147",
+      "index": 3905,
+      "word": "ごっこ",
+      "reading_hiragana": "ごっこ",
+      "context_meaning_zh": "儿童玩的模仿游戏",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "儿童玩的模仿游戏",
+          "meaning_ja": "名詞について、その人や職業になったつもりで遊ぶことを表す。",
+          "example_ja": "子どもたちは空き箱を並べて、お店ごっこをした。",
+          "example_zh": "孩子们摆好空盒子，玩起了开店游戏。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "お医者さんごっこ",
+          "zh": "玩医生游戏"
+        }
+      ],
+      "usage_note_zh": "常接人物或职业名词后，表示角色扮演游戏。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「ごっこ」接在职业或活动名称后表示模仿该角色的游戏，例句为「お店屋さんごっこ」；词典也标后缀。",
+        "dictionary_sequences": [
+          1004950
+        ],
+        "identity": {
+          "word": "ごっこ",
+          "reading_hiragana": "ごっこ",
+          "meaning": "儿童玩的模仿游戏"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c9d6f89f1ddab135",
+      "index": 3906,
+      "word": "漸く",
+      "reading_hiragana": "ようやく",
+      "context_meaning_zh": "终于、好不容易（现代常写ようやく）。",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "终于、好不容易（现代常写ようやく）。",
+          "meaning_ja": "時間や苦労を重ねたあとで、ようやく実現する様子。",
+          "example_ja": "修理を続けて、漸く機械が動き出した。",
+          "example_zh": "持续修理之后，机器终于重新运转了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "漸く完成する",
+          "zh": "终于完成"
+        }
+      ],
+      "usage_note_zh": "「ようやく」的汉字写法，现代文章中通常写假名。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "问题终于逐渐清晰，当前终于义匹配终于/好不容易副词义，汉字表记较少见。",
+        "dictionary_sequences": [
+          1394600
+        ],
+        "identity": {
+          "word": "漸く",
+          "reading_hiragana": "ようやく",
+          "meaning": "终于、好不容易（现代常写ようやく）。"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-489dfd3913e04e01",
+      "index": 3907,
+      "word": "はらはらとする",
+      "reading_hiragana": "はらはらとする",
+      "context_meaning_zh": "捏一把汗",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "捏一把汗",
+          "meaning_ja": "失敗や危険がないかと心配し、成り行きを不安に見守る。",
+          "example_ja": "細い枝に登る子どもを見て、母親ははらはらとした。",
+          "example_zh": "看着孩子爬上细树枝，母亲捏了一把汗。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "見ていてはらはらとする",
+          "zh": "看得提心吊胆"
+        }
+      ],
+      "usage_note_zh": "通常说「はらはらする」，表示担心事情出错或发生危险；描写花瓣飘落时常用另一构式「花びらがはらはらと舞う」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "整体「はらはらとする」描述为他人安危担心，带する的固定表达不支配宾语；不与花瓣飘落义混同。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "はらはらとする",
+          "reading_hiragana": "はらはらとする",
+          "meaning": "捏一把汗"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7237be0992cc396a",
+      "index": 3908,
+      "word": "キャーキャー",
+      "reading_hiragana": "キャーキャー",
+      "context_meaning_zh": "尖声叫喊的声音",
+      "pos_ja": "副詞・オノマトペ",
+      "pos_zh": "副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "尖声叫喊的声音",
+          "meaning_ja": "驚きや興奮で、高く大きな声を続けて上げる様子や、その声。",
+          "example_ja": "子どもたちはジェットコースターに乗ってキャーキャー叫んだ。",
+          "example_zh": "孩子们坐过山车时尖声大叫。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "キャーキャー騒ぐ",
+          "zh": "尖声大叫"
+        }
+      ],
+      "usage_note_zh": "拟声词，常描写惊讶、兴奋时发出的尖叫。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "孩子们「キャーキャー叫ぶ」对应尖声连续叫喊义，是口语拟声副词；猴子叽喳义不合本例。",
+        "dictionary_sequences": [
+          2777080
+        ],
+        "identity": {
+          "word": "キャーキャー",
+          "reading_hiragana": "キャーキャー",
+          "meaning": "尖声叫喊的声音"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-09ee2472ea9031ca",
+      "index": 3909,
+      "word": "放題",
+      "reading_hiragana": "ほうだい",
+      "context_meaning_zh": "自由地、随便地、无限制地",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "自由地、随便地、无限制地",
+          "meaning_ja": "動詞の連用形などについて、制限なく好きなだけできることを表す。",
+          "example_ja": "この店では昼にコーヒーが飲み放題です。",
+          "example_zh": "这家店中午可以无限畅饮咖啡。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "食べ放題",
+          "zh": "无限制地吃喝"
+        }
+      ],
+      "usage_note_zh": "常接在动词连用形或名词后；「し放題」也可表示任意做某事，常带负面意味。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "飲み放題中放題接在动词连用形后表示畅饮不限量，是接尾成分；可表达尽情做或放任失控，负面色彩依搭配。",
+        "dictionary_sequences": [
+          1516770
+        ],
+        "identity": {
+          "word": "放題",
+          "reading_hiragana": "ほうだい",
+          "meaning": "自由地、随便地、无限制地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d4a0c7d20afdb76e",
+      "index": 3910,
+      "word": "審査員",
+      "reading_hiragana": "しんさいん",
+      "context_meaning_zh": "评审员",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "评审员",
+          "meaning_ja": "作品や競技を決められた基準で調べ、評価する人。",
+          "example_ja": "審査員は応募者の演奏を最後まで聞いた。",
+          "example_zh": "评审员听完了应征者的演奏。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "審査員を務める",
+          "zh": "担任评审员"
+        }
+      ],
+      "usage_note_zh": "比赛或评选中负责检查并作出评价的人。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "在竞赛或评选中按标准评价作品或表现的人；本句用其比赛评委比喻来讨论公平性。",
+        "dictionary_sequences": [
+          1360390
+        ],
+        "identity": {
+          "word": "審査員",
+          "reading_hiragana": "しんさいん",
+          "meaning": "评审员"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0fbc1f56ad6a738d",
+      "index": 3911,
+      "word": "落ちが付く",
+      "reading_hiragana": "おちがつく",
+      "context_meaning_zh": "(落语)噱头收场",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(落语)噱头收场",
+          "meaning_ja": "話の最後に、意外で面白い結末やしゃれが現れる。",
+          "example_ja": "この小噺は、最後に落ちが付くところが楽しい。",
+          "example_zh": "这段小故事最后的包袱很有趣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "最後に落ちが付く",
+          "zh": "最后以包袱收场"
+        }
+      ],
+      "usage_note_zh": "落语等笑谈以笑点或双关语收尾；这里「落ち」读おち。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "落语笑点揭晓后「落ちが付く」表示故事有了包袱式收尾，属含固定主语的惯用表达。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "落ちが付く",
+          "reading_hiragana": "おちがつく",
+          "meaning": "(落语)噱头收场"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-73ba0ba382cdc500",
+      "index": 3912,
+      "word": "落ち",
+      "reading_hiragana": "おち",
+      "context_meaning_zh": "遗漏;(不好的)结果;(单口相声)收场的噱头",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "遗漏;(不好的)结果;(单口相声)收场的噱头",
+          "meaning_ja": "必要なものが抜けていること。",
+          "example_ja": "説明に落ちがないよう、必要な点を一つずつ確認した。",
+          "example_zh": "为了避免说明有遗漏，我逐项确认了必要内容。"
+        },
+        {
+          "meaning_zh": "（故事或事件的）结果；结局",
+          "meaning_ja": "話や出来事が最後に行き着いた結末。",
+          "example_ja": "この話は、意外な落ちで終わる。",
+          "example_zh": "这个故事以出人意料的结局收尾。"
+        },
+        {
+          "meaning_zh": "（落语等的）包袱；笑点",
+          "meaning_ja": "落語などの話を締めくくる、意外でおかしい言葉や結末。",
+          "example_ja": "この落語は、最後の落ちが分かりやすい。",
+          "example_zh": "这段落语最后的包袱很容易听懂。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "落ちがある",
+          "zh": "存在遗漏"
+        }
+      ],
+      "usage_note_zh": "可指遗漏、事情结局或落语的包袱；落语义读「おち」，需结合搭配区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "检查中的遗漏、故事最后一句的包袱及返工结果分别体现落ち的遗漏、结局和笑点名词义。",
+        "dictionary_sequences": [
+          1548530
+        ],
+        "identity": {
+          "word": "落ち",
+          "reading_hiragana": "おち",
+          "meaning": "遗漏;(不好的)结果;(单口相声)收场的噱头"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6321c015fcdf0d49",
+      "index": 3913,
+      "word": "シンプル",
+      "reading_hiragana": "シンプル",
+      "context_meaning_zh": "单纯的、简单的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "单纯的、简单的",
+          "meaning_ja": "飾りや要素が少なく、すっきりして分かりやすい様子。",
+          "example_ja": "文字を減らしたシンプルな案内板を作った。",
+          "example_zh": "我做了一块文字精简、简洁明了的指示牌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "シンプルな形",
+          "zh": "简洁的形式"
+        }
+      ],
+      "usage_note_zh": "常用于设计或说明，表示简单、简洁；具体褒贬由语境决定。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典只列ナ形容词，例句「シンプルな一枚版」也是な修饰；没有独立名词语境支持noun兼类。",
+        "dictionary_sequences": [
+          1063870
+        ],
+        "identity": {
+          "word": "シンプル",
+          "reading_hiragana": "シンプル",
+          "meaning": "单纯的、简单的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fd945186637e5eff",
+      "index": 3914,
+      "word": "理想的",
+      "reading_hiragana": "りそうてき",
+      "context_meaning_zh": "理想的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "理想的",
+          "meaning_ja": "望ましい条件や性質を十分に備えている様子。",
+          "example_ja": "窓が大きく、植物を育てるのに理想的な部屋だ。",
+          "example_zh": "这间房窗户很大，是种植植物的理想房间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "理想的な環境",
+          "zh": "理想的环境"
+        }
+      ],
+      "usage_note_zh": "「理想的な＋名词」或「〜に理想的」的形式常见。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "文章预测增加照片会形成理想的指南，理想的作な形容词修饰名词；JMdict列adj-na。",
+        "dictionary_sequences": [
+          1550040
+        ],
+        "identity": {
+          "word": "理想的",
+          "reading_hiragana": "りそうてき",
+          "meaning": "理想的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-78516affcc113ad6",
+      "index": 3915,
+      "word": "惜しい",
+      "reading_hiragana": "おしい",
+      "context_meaning_zh": "可惜；舍不得失去；值得珍惜。",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "可惜；舍不得失去；值得珍惜。",
+          "meaning_ja": "価値のあるものを失いたくない、手放すのが惜しいと思う様子。",
+          "example_ja": "祖母の手紙は大切な思い出なので、捨てるのは惜しい。",
+          "example_zh": "祖母的信承载着珍贵回忆，扔掉实在舍不得。"
+        },
+        {
+          "meaning_zh": "差一点成功而可惜",
+          "meaning_ja": "目標や勝利にあと少し届かず、残念に思う様子。",
+          "example_ja": "あと一球で勝てたのに、惜しい試合だった。",
+          "example_zh": "再赢一球就能获胜了，真是一场可惜的比赛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時間が惜しい",
+          "zh": "时间宝贵"
+        }
+      ],
+      "usage_note_zh": "「時間が惜しい」表示珍惜时间；「惜しいところまで行く」表示差一点成功而遗憾。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句中丢弃照片令人不舍，原义包含可惜、珍惜；属于い形容词并非稀罕语体。",
+        "dictionary_sequences": [
+          1382280
+        ],
+        "identity": {
+          "word": "惜しい",
+          "reading_hiragana": "おしい",
+          "meaning": "可惜；舍不得失去；值得珍惜。"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d962fd2a0f955ba8",
+      "index": 3916,
+      "word": "豪華",
+      "reading_hiragana": "ごうか",
+      "context_meaning_zh": "豪华",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "豪华",
+          "meaning_ja": "飾りや設備が豊かで、ぜいたくな様子。",
+          "example_ja": "式の会場には、色とりどりの花が飾られて豪華だった。",
+          "example_zh": "典礼会场装饰着五彩缤纷的花朵，显得很豪华。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "豪華な食事",
+          "zh": "豪华的晚餐"
+        }
+      ],
+      "usage_note_zh": "可形容设施、装饰或内容丰盛；不只指价格高。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「豪華さ」表示豪华程度，是豪華的名词化形式；词典兼列名词及ナ形容词，评论句用其名词义。",
+        "dictionary_sequences": [
+          1285520
+        ],
+        "identity": {
+          "word": "豪華",
+          "reading_hiragana": "ごうか",
+          "meaning": "豪华"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-66e010d705ca346d",
+      "index": 3917,
+      "word": "パチンコ",
+      "reading_hiragana": "パチンコ",
+      "context_meaning_zh": "弹珠机及弹珠机娱乐活动（日本的パチンコ）。",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "弹珠机及弹珠机娱乐活动（日本的パチンコ）。",
+          "meaning_ja": "小さな鋼球を盤面に打ち出して遊ぶ、日本で知られる遊技。",
+          "example_ja": "祖父は駅前の店でパチンコをすることがある。",
+          "example_zh": "祖父有时会在车站前的店里玩弹珠机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "パチンコ店",
+          "zh": "弹珠机店"
+        }
+      ],
+      "usage_note_zh": "指日本的弹珠机游戏或经营该游戏的店，不是弓箭类弹弓。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课释义涵盖日本弹珠机游戏及经营场所，店铺例句对应场所义；须与普通弹弓区分。",
+        "dictionary_sequences": [
+          1101660
+        ],
+        "identity": {
+          "word": "パチンコ",
+          "reading_hiragana": "パチンコ",
+          "meaning": "弹珠机及弹珠机娱乐活动（日本的パチンコ）。"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-06bf57692007c618",
+      "index": 3918,
+      "word": "ゴルフ",
+      "reading_hiragana": "ゴルフ",
+      "context_meaning_zh": "高尔夫球",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "高尔夫球",
+          "meaning_ja": "クラブで球を打ち、少ない打数で穴に入れるスポーツ。",
+          "example_ja": "会社の同僚と休日にゴルフをした。",
+          "example_zh": "我和公司的同事在休息日打了高尔夫。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ゴルフを楽しむ",
+          "zh": "享受高尔夫"
+        }
+      ],
+      "usage_note_zh": "既指运动项目，也可指打高尔夫球的活动。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "ゴルフ是运动名词，也可与する构成打高尔夫的及物动词；本例正是父亲打球。",
+        "dictionary_sequences": [
+          1054620
+        ],
+        "identity": {
+          "word": "ゴルフ",
+          "reading_hiragana": "ゴルフ",
+          "meaning": "高尔夫球"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e2038aeaedd36985",
+      "index": 3919,
+      "word": "一向に",
+      "reading_hiragana": "いっこうに",
+      "context_meaning_zh": "完全不、丝毫不（通常接否定）",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "完全不、丝毫不（通常接否定）",
+          "meaning_ja": "後ろに否定表現を伴い、少しも変わらないことを強く表す。",
+          "example_ja": "修理を頼んだが、機械は一向に動かない。",
+          "example_zh": "虽然请人修理了，机器却完全不动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一向に進まない",
+          "zh": "完全没有进展"
+        }
+      ],
+      "usage_note_zh": "通常用「一向に〜ない」；译为完全不、丝毫不。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与否定谓语共现，表示理解度丝毫没有提高；使用词典所列否定义。",
+        "dictionary_sequences": [
+          1609230
+        ],
+        "identity": {
+          "word": "一向に",
+          "reading_hiragana": "いっこうに",
+          "meaning": "完全不、丝毫不（通常接否定）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-13f511747ee6d5ac",
+      "index": 3920,
+      "word": "たやすい(容易い)",
+      "reading_hiragana": "たやすい",
+      "context_meaning_zh": "不难、容易",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不难、容易",
+          "meaning_ja": "大きな努力や時間をかけずにできる様子。",
+          "example_ja": "この問題は、図を使えばたやすく解ける。",
+          "example_zh": "这道题用图来解就很容易。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "たやすく解決する",
+          "zh": "轻松解决"
+        }
+      ],
+      "usage_note_zh": "「たやすい」は较书面；副词形为「たやすく」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「たやすい」是い形容词，例句以否定评价作连体谓语；本包未提供辞书序号。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "たやすい(容易い)",
+          "reading_hiragana": "たやすい",
+          "meaning": "不难、容易"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cc9765a37d472f4a",
+      "index": 3921,
+      "word": "苦心",
+      "reading_hiragana": "くしん",
+      "context_meaning_zh": "苦心",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "苦心",
+          "meaning_ja": "よい結果を得るため、工夫を重ねて努力すること。",
+          "example_ja": "職人は小さな部品を合わせるのに苦心した。",
+          "example_zh": "工匠为拼合小零件费尽了心思。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "苦心の作",
+          "zh": "费尽心思的作品"
+        }
+      ],
+      "usage_note_zh": "可与「する」搭配，也可作名词修饰语，如「苦心の作」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指为完成事情而费心尽力；例句强调费心挑选照片，惯用苦心する且不带对象宾语。",
+        "dictionary_sequences": [
+          1244530
+        ],
+        "identity": {
+          "word": "苦心",
+          "reading_hiragana": "くしん",
+          "meaning": "苦心"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-439d8a779d1add7c",
+      "index": 3922,
+      "word": "引け",
+      "reading_hiragana": "ひけ",
+      "context_meaning_zh": "见绌、逊色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "见绌、逊色",
+          "meaning_ja": "比べた相手より劣っていると感じること。",
+          "example_ja": "彼の技術は、先輩にも引けを取らない。",
+          "example_zh": "他的技术不逊于前辈。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "相手に引けを取る",
+          "zh": "逊于对方"
+        }
+      ],
+      "usage_note_zh": "常见于「引けを取る／引けを取らない」；前者表示比对方差，后者表示不逊色。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此例为固定搭配「引けを取らない」中的逊色义，不取词典所列收市或下班义。",
+        "dictionary_sequences": [
+          1626750
+        ],
+        "identity": {
+          "word": "引け",
+          "reading_hiragana": "ひけ",
+          "meaning": "见绌、逊色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8259420a3eaa07fd",
+      "index": 3923,
+      "word": "引けを取らない",
+      "reading_hiragana": "ひけをとらない",
+      "context_meaning_zh": "不逊色",
+      "pos_ja": "動詞・イ形容詞・表現・定型表現・活用形",
+      "pos_zh": "动词・い形容词・表达・固定表达・活用形式",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不逊色",
+          "meaning_ja": "比べた相手より劣っているところがない。",
+          "example_ja": "小さな店だが、味は有名店に引けを取らない。",
+          "example_zh": "虽然是小店，味道却不逊于名店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "誰にも引けを取らない",
+          "zh": "不逊于任何人"
+        }
+      ],
+      "usage_note_zh": "固定形式「〜に引けを取らない」，意为不比……差。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "adjective_i",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression",
+          "inflected_form"
+        ],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「引けを取らない」是包含否定活用的惯用表达，意为不逊色；不能仅由惯用语中的「を」判定他动。",
+        "dictionary_sequences": [
+          2847213
+        ],
+        "identity": {
+          "word": "引けを取らない",
+          "reading_hiragana": "ひけをとらない",
+          "meaning": "不逊色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1351837e07473508",
+      "index": 3924,
+      "word": "両方",
+      "reading_hiragana": "りょうほう",
+      "context_meaning_zh": "双方",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "双方",
+          "meaning_ja": "二つあるもののどちらも、または二つの側。",
+          "example_ja": "白と黒の靴下を両方買いました。",
+          "example_zh": "我把白色和黑色的袜子都买了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "両方とも必要",
+          "zh": "双方都需要"
+        }
+      ],
+      "usage_note_zh": "「両方とも」可强调两个都包括在内。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "表示两个对象都包括在内；此句以を作「两者」对象，具体对象由上下文补足。",
+        "dictionary_sequences": [
+          1554010
+        ],
+        "identity": {
+          "word": "両方",
+          "reading_hiragana": "りょうほう",
+          "meaning": "双方"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-398e4453e42a691f",
+      "index": 3925,
+      "word": "見事",
+      "reading_hiragana": "みごと",
+      "context_meaning_zh": "好看、出色、精彩；副词用法可表完全、彻底。",
+      "pos_ja": "ナ形容詞・副詞",
+      "pos_zh": "な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "好看、出色、精彩；副词用法可表完全、彻底。",
+          "meaning_ja": "出来ばえが優れていて感心する様子。また、動詞を修飾して完全に行うこと。",
+          "example_ja": "職人は細かな模様を見事に描き上げた。",
+          "example_zh": "工匠出色地画完了精细的图案。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "見事な演技",
+          "zh": "精彩的表演"
+        }
+      ],
+      "usage_note_zh": "「見事な作品」褒扬出色；「見事に外れる」等可表完全、彻底。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句分别展示「見事な」形容词和「見事に」副词；词典所列古典名词义不在当前原义与语料范围。",
+        "dictionary_sequences": [
+          1259620
+        ],
+        "identity": {
+          "word": "見事",
+          "reading_hiragana": "みごと",
+          "meaning": "好看、出色、精彩；副词用法可表完全、彻底。"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-17147518dd33f745",
+      "index": 3926,
+      "word": "二階から目薬",
+      "reading_hiragana": "にかいからめぐすり",
+      "context_meaning_zh": "方法绕远、难以奏效或隔靴搔痒",
+      "pos_ja": "表現・慣用句",
+      "pos_zh": "表达・惯用语",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "方法绕远、难以奏效或隔靴搔痒",
+          "meaning_ja": "方法が遠回りで、目的を果たしにくいことのたとえ。",
+          "example_ja": "辞書を引かずに当てずっぽうで訳すのは、二階から目薬だ。",
+          "example_zh": "不查词典只靠猜来翻译，简直是隔靴搔痒。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二階から目薬のよう",
+          "zh": "迂回而难见成效；隔靴搔痒"
+        }
+      ],
+      "usage_note_zh": "惯用表达，形容方法迂回、难以奏效或不够直接。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "idiom"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "仅减少照片却仍无法解决问题被评为二階から目薬，指方法绕远或效果差的惯用表达，不作字面滴眼药解释。",
+        "dictionary_sequences": [
+          2140170
+        ],
+        "identity": {
+          "word": "二階から目薬",
+          "reading_hiragana": "にかいからめぐすり",
+          "meaning": "方法绕远、难以奏效或隔靴搔痒"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3a885aa7481fb36f",
+      "index": 3927,
+      "word": "鬼に金棒",
+      "reading_hiragana": "おににかなぼう",
+      "context_meaning_zh": "如虎添翼",
+      "pos_ja": "表現・慣用句・ことわざ",
+      "pos_zh": "表达・惯用语・谚语",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "如虎添翼",
+          "meaning_ja": "強いものにさらに力が加わり、いっそう強くなること。",
+          "example_ja": "経験者がチームに加われば、鬼に金棒だ。",
+          "example_zh": "有经验的人加入团队后，简直如虎添翼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鬼に金棒",
+          "zh": "如虎添翼"
+        }
+      ],
+      "usage_note_zh": "谚语，字面意为鬼又得到铁棒，比喻强者得到额外助力。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "idiom",
+          "proverb"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「鬼に金棒」表示已有优势再得助力而更强，属固定谚语／惯用表达；技能知识的例句符合“如虎添翼”。",
+        "dictionary_sequences": [
+          2141470
+        ],
+        "identity": {
+          "word": "鬼に金棒",
+          "reading_hiragana": "おににかなぼう",
+          "meaning": "如虎添翼"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-df2239b3f8553931",
+      "index": 3928,
+      "word": "横好き",
+      "reading_hiragana": "よこずき",
+      "context_meaning_zh": "虽不擅长却很热衷（多用下手の横好き）",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "虽不擅长却很热衷（多用下手の横好き）",
+          "meaning_ja": "上手ではないのに、ある趣味や活動を好んで続けること。",
+          "example_ja": "下手の横好きですが、週末に風景画を描いています。",
+          "example_zh": "虽画得不怎么样，我还是很喜欢周末画风景。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "下手の横好き",
+          "zh": "虽不擅长却很热衷"
+        }
+      ],
+      "usage_note_zh": "「横好き」单独使用较少，通常见于固定表达「下手の横好き」，常用于自谦或轻微打趣。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "该词主要见「下手の横好き」，指虽不擅长却热衷；例句还明确说明此说法带自谦语气。",
+        "dictionary_sequences": [
+          1180730
+        ],
+        "identity": {
+          "word": "横好き",
+          "reading_hiragana": "よこずき",
+          "meaning": "虽不擅长却很热衷（多用下手の横好き）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bdd52883504f53f0",
+      "index": 3929,
+      "word": "下手の横好き",
+      "reading_hiragana": "へたのよこずき",
+      "context_meaning_zh": "虽不擅长却很喜欢（常用于自谦）。",
+      "pos_ja": "名詞・表現・慣用句",
+      "pos_zh": "名词・表达・惯用语",
+      "register_zh": "中性・亲昵・玩笑",
+      "senses": [
+        {
+          "meaning_zh": "虽不擅长却很喜欢（常用于自谦）。",
+          "meaning_ja": "上手ではないが、その趣味をとても好んで続けること。",
+          "example_ja": "下手の横好きですが、休日にギターを弾いています。",
+          "example_zh": "虽然弹得不怎么样，我还是很喜欢在休息日弹吉他。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "下手の横好き",
+          "zh": "虽不擅长却很喜欢"
+        }
+      ],
+      "usage_note_zh": "常用于自谦地说自己虽不擅长仍热爱某项活动。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "noun",
+          "expression"
+        ],
+        "subtypes": [
+          "idiom"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "familiar",
+          "joking"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "惯用语“虽不擅长仍喜欢”，常以自谦口吻谈爱好；句中将不熟练作品评价为有韵味。",
+        "dictionary_sequences": [
+          1185210
+        ],
+        "identity": {
+          "word": "下手の横好き",
+          "reading_hiragana": "へたのよこずき",
+          "meaning": "虽不擅长却很喜欢（常用于自谦）。"
+        }
+      }
+    }
+  ]
+}

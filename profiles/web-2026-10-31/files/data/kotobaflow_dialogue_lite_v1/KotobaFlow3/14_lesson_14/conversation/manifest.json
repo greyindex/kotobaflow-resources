@@ -1,0 +1,693 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 102.559,
+ "listening_review": "pending",
+ "source_chapter": 50,
+ "turns": [
+  {
+   "turn_id": "C50-D001",
+   "turn_index": 0,
+   "speaker": "アナ",
+   "source_text": "案内を出す前に、借りた説明用の機械も確認しましょう。まさか、もう壊れたんですか。",
+   "sentence_ids": [
+    "C50-D001-S01",
+    "C50-D001-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 6.621,
+   "duration_sec": 6.621
+  },
+  {
+   "turn_id": "C50-D002",
+   "turn_index": 1,
+   "speaker": "ミン",
+   "source_text": "動きません。つまみを回しても同じです。いくら回しても、音が出ません。",
+   "sentence_ids": [
+    "C50-D002-S01",
+    "C50-D002-S02",
+    "C50-D002-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 6.971,
+   "end_sec": 12.382,
+   "duration_sec": 5.411
+  },
+  {
+   "turn_id": "C50-D003",
+   "turn_index": 2,
+   "speaker": "佐藤",
+   "source_text": "電池入れを見ましょう。電池のマイナス側が逆ですね。まずスイッチを切ってください。",
+   "sentence_ids": [
+    "C50-D003-S01",
+    "C50-D003-S02",
+    "C50-D003-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 12.732,
+   "end_sec": 18.173,
+   "duration_sec": 5.441
+  },
+  {
+   "turn_id": "C50-D004",
+   "turn_index": 3,
+   "speaker": "アナ",
+   "source_text": "パチッと音がしました。ふたの爪を折らないように外しますね。",
+   "sentence_ids": [
+    "C50-D004-S01",
+    "C50-D004-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.523,
+   "end_sec": 23.229,
+   "duration_sec": 4.706
+  },
+  {
+   "turn_id": "C50-D005",
+   "turn_index": 4,
+   "speaker": "ミン",
+   "source_text": "かちっと閉まりました。今はリモコンでも動かせます。小さい機械でも、確認が必要ですね。",
+   "sentence_ids": [
+    "C50-D005-S01",
+    "C50-D005-S02",
+    "C50-D005-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 23.579,
+   "end_sec": 30.545,
+   "duration_sec": 6.966
+  },
+  {
+   "turn_id": "C50-D006",
+   "turn_index": 5,
+   "speaker": "アナ",
+   "source_text": "はい。電源を使う別の機械は、片付ける時にプラグをコンセントから抜いてください。",
+   "sentence_ids": [
+    "C50-D006-S01",
+    "C50-D006-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.895,
+   "end_sec": 36.614,
+   "duration_sec": 5.719
+  },
+  {
+   "turn_id": "C50-D007",
+   "turn_index": 6,
+   "speaker": "佐藤",
+   "source_text": "もし当日、機械が動かないとしたら、どうしますか。予算は三千円ですよね。",
+   "sentence_ids": [
+    "C50-D007-S01",
+    "C50-D007-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.964,
+   "end_sec": 43.448,
+   "duration_sec": 6.484
+  },
+  {
+   "turn_id": "C50-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "ええ、紙とペンに使います。機械は使えないとしましょう。それでもカードの紹介はできます。",
+   "sentence_ids": [
+    "C50-D008-S01",
+    "C50-D008-S02",
+    "C50-D008-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 43.798,
+   "end_sec": 50.581,
+   "duration_sec": 6.783
+  },
+  {
+   "turn_id": "C50-D009",
+   "turn_index": 8,
+   "speaker": "ミン",
+   "source_text": "紙とペンだけでは、会を開けませんよね。部屋まで使えなくなったら、どうしますか。",
+   "sentence_ids": [
+    "C50-D009-S01",
+    "C50-D009-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 50.931,
+   "end_sec": 56.844,
+   "duration_sec": 5.913
+  },
+  {
+   "turn_id": "C50-D010",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "万一そうなったら延期します。別室は借りません。日が未定なら、申込みも再開できません。",
+   "sentence_ids": [
+    "C50-D010-S01",
+    "C50-D010-S02",
+    "C50-D010-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 57.194,
+   "end_sec": 63.788,
+   "duration_sec": 6.594
+  },
+  {
+   "turn_id": "C50-D011",
+   "turn_index": 10,
+   "speaker": "佐藤",
+   "source_text": "どう考えても、連絡の準備が先ですね。メールを読まない人にさえ変更を伝えるには、電話も必要です。",
+   "sentence_ids": [
+    "C50-D011-S01",
+    "C50-D011-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 64.138,
+   "end_sec": 71.745,
+   "duration_sec": 7.607
+  },
+  {
+   "turn_id": "C50-D012",
+   "turn_index": 11,
+   "speaker": "アナ",
+   "source_text": "私が連絡します。二月三日十八時までに相談してもらえば、返事は四日十八時まで待ちます。",
+   "sentence_ids": [
+    "C50-D012-S01",
+    "C50-D012-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 72.095,
+   "end_sec": 78.999,
+   "duration_sec": 6.904
+  },
+  {
+   "turn_id": "C50-D013",
+   "turn_index": 12,
+   "speaker": "ミン",
+   "source_text": "私は代筆をします。書く代わりに、言葉を選ぶ時間を長く取ってもらいましょう。佐藤さんも来られますか。",
+   "sentence_ids": [
+    "C50-D013-S01",
+    "C50-D013-S02",
+    "C50-D013-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 79.349,
+   "end_sec": 86.521,
+   "duration_sec": 7.172
+  },
+  {
+   "turn_id": "C50-D014",
+   "turn_index": 13,
+   "speaker": "佐藤",
+   "source_text": "まだ分かりません。二人でできるようにしてください。そうそう予定は変えられませんが、できれば参加します。",
+   "sentence_ids": [
+    "C50-D014-S01",
+    "C50-D014-S02",
+    "C50-D014-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 86.871,
+   "end_sec": 93.462,
+   "duration_sec": 6.591
+  },
+  {
+   "turn_id": "C50-D015",
+   "turn_index": 14,
+   "speaker": "アナ",
+   "source_text": "分かりました。どんなに忙しくても、前日に十分くらいは最終確認をしましょう。準備中にけがでもしたら困りますから。",
+   "sentence_ids": [
+    "C50-D015-S01",
+    "C50-D015-S02",
+    "C50-D015-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.812,
+   "end_sec": 102.553,
+   "duration_sec": 8.741
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C50-D001-S01",
+   "unit_id": "C50-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "案内を出す前に、借りた説明用の機械も確認しましょう。",
+   "start_sec": 0.0,
+   "end_sec": 4.365,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D001-S02",
+   "unit_id": "C50-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "まさか、もう壊れたんですか。",
+   "start_sec": 4.515,
+   "end_sec": 6.621,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D002-S01",
+   "unit_id": "C50-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "動きません。",
+   "start_sec": 6.971,
+   "end_sec": 8.007,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D002-S02",
+   "unit_id": "C50-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "つまみを回しても同じです。",
+   "start_sec": 8.157,
+   "end_sec": 9.925,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D002-S03",
+   "unit_id": "C50-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "いくら回しても、音が出ません。",
+   "start_sec": 10.075,
+   "end_sec": 12.382,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D003-S01",
+   "unit_id": "C50-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "電池入れを見ましょう。",
+   "start_sec": 12.732,
+   "end_sec": 14.053,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D003-S02",
+   "unit_id": "C50-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "電池のマイナス側が逆ですね。",
+   "start_sec": 14.203,
+   "end_sec": 16.449,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D003-S03",
+   "unit_id": "C50-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "まずスイッチを切ってください。",
+   "start_sec": 16.599,
+   "end_sec": 18.173,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D004-S01",
+   "unit_id": "C50-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "パチッと音がしました。",
+   "start_sec": 18.523,
+   "end_sec": 20.53,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D004-S02",
+   "unit_id": "C50-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ふたの爪を折らないように外しますね。",
+   "start_sec": 20.68,
+   "end_sec": 23.229,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D005-S01",
+   "unit_id": "C50-D005",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "かちっと閉まりました。",
+   "start_sec": 23.579,
+   "end_sec": 25.248,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D005-S02",
+   "unit_id": "C50-D005",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "今はリモコンでも動かせます。",
+   "start_sec": 25.398,
+   "end_sec": 27.678,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D005-S03",
+   "unit_id": "C50-D005",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "小さい機械でも、確認が必要ですね。",
+   "start_sec": 27.828,
+   "end_sec": 30.545,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D006-S01",
+   "unit_id": "C50-D006",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "はい。",
+   "start_sec": 30.895,
+   "end_sec": 31.623,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D006-S02",
+   "unit_id": "C50-D006",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "電源を使う別の機械は、片付ける時にプラグをコンセントから抜いてください。",
+   "start_sec": 31.773,
+   "end_sec": 36.614,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D007-S01",
+   "unit_id": "C50-D007",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "もし当日、機械が動かないとしたら、どうしますか。",
+   "start_sec": 36.964,
+   "end_sec": 41.349,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D007-S02",
+   "unit_id": "C50-D007",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "予算は三千円ですよね。",
+   "start_sec": 41.499,
+   "end_sec": 43.448,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D008-S01",
+   "unit_id": "C50-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ええ、紙とペンに使います。",
+   "start_sec": 43.798,
+   "end_sec": 46.03,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D008-S02",
+   "unit_id": "C50-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "機械は使えないとしましょう。",
+   "start_sec": 46.18,
+   "end_sec": 48.048,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D008-S03",
+   "unit_id": "C50-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "それでもカードの紹介はできます。",
+   "start_sec": 48.198,
+   "end_sec": 50.581,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D009-S01",
+   "unit_id": "C50-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "紙とペンだけでは、会を開けませんよね。",
+   "start_sec": 50.931,
+   "end_sec": 54.07,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D009-S02",
+   "unit_id": "C50-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "部屋まで使えなくなったら、どうしますか。",
+   "start_sec": 54.22,
+   "end_sec": 56.844,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D010-S01",
+   "unit_id": "C50-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "万一そうなったら延期します。",
+   "start_sec": 57.194,
+   "end_sec": 59.31,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D010-S02",
+   "unit_id": "C50-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "別室は借りません。",
+   "start_sec": 59.46,
+   "end_sec": 60.852,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D010-S03",
+   "unit_id": "C50-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "日が未定なら、申込みも再開できません。",
+   "start_sec": 61.002,
+   "end_sec": 63.788,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D011-S01",
+   "unit_id": "C50-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "どう考えても、連絡の準備が先ですね。",
+   "start_sec": 64.138,
+   "end_sec": 67.591,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D011-S02",
+   "unit_id": "C50-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "メールを読まない人にさえ変更を伝えるには、電話も必要です。",
+   "start_sec": 67.741,
+   "end_sec": 71.745,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D012-S01",
+   "unit_id": "C50-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "私が連絡します。",
+   "start_sec": 72.095,
+   "end_sec": 73.588,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D012-S02",
+   "unit_id": "C50-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "二月三日十八時までに相談してもらえば、返事は四日十八時まで待ちます。",
+   "start_sec": 73.738,
+   "end_sec": 78.999,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D013-S01",
+   "unit_id": "C50-D013",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "私は代筆をします。",
+   "start_sec": 79.349,
+   "end_sec": 80.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D013-S02",
+   "unit_id": "C50-D013",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "書く代わりに、言葉を選ぶ時間を長く取ってもらいましょう。",
+   "start_sec": 80.965,
+   "end_sec": 84.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D013-S03",
+   "unit_id": "C50-D013",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "佐藤さんも来られますか。",
+   "start_sec": 84.594,
+   "end_sec": 86.521,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D014-S01",
+   "unit_id": "C50-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "まだ分かりません。",
+   "start_sec": 86.871,
+   "end_sec": 88.077,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D014-S02",
+   "unit_id": "C50-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "二人でできるようにしてください。",
+   "start_sec": 88.227,
+   "end_sec": 89.927,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D014-S03",
+   "unit_id": "C50-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "そうそう予定は変えられませんが、できれば参加します。",
+   "start_sec": 90.077,
+   "end_sec": 93.462,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D015-S01",
+   "unit_id": "C50-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "分かりました。",
+   "start_sec": 93.812,
+   "end_sec": 94.954,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D015-S02",
+   "unit_id": "C50-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "どんなに忙しくても、前日に十分くらいは最終確認をしましょう。",
+   "start_sec": 95.104,
+   "end_sec": 99.847,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C50-D015-S03",
+   "unit_id": "C50-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "準備中にけがでもしたら困りますから。",
+   "start_sec": 99.997,
+   "end_sec": 102.553,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

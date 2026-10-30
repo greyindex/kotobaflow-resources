@@ -1,0 +1,686 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 158.213,
+ "listening_review": "pending",
+ "source_chapter": 59,
+ "turns": [
+  {
+   "turn_id": "C59-D001",
+   "turn_index": 0,
+   "speaker": "ハサン",
+   "source_text": "出典は確認しました。図の三期間では注文が増える一方ですが、毎月増えたとは言い切れません。2026年4月以降も同じ傾向かどうかは、まだ不明ですね。",
+   "sentence_ids": [
+    "C59-D001-S01",
+    "C59-D001-S02",
+    "C59-D001-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 11.731,
+   "duration_sec": 11.731
+  },
+  {
+   "turn_id": "C59-D002",
+   "turn_index": 1,
+   "speaker": "林梅",
+   "source_text": "はい。雇用の計画も未定です。ところで、ハサンさんの五分の話は、去年、客へのメールを担当したことが契機でしたね。練習について、具体例を入れませんか。",
+   "sentence_ids": [
+    "C59-D002-S01",
+    "C59-D002-S02",
+    "C59-D002-S03",
+    "C59-D002-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 12.081,
+   "end_sec": 25.463,
+   "duration_sec": 13.382
+  },
+  {
+   "turn_id": "C59-D003",
+   "turn_index": 2,
+   "speaker": "ハサン",
+   "source_text": "大学の日本語科では成績は悪くなかったんですが、社会に出ると、実力が足りないと感じました。現代の働き方を研究するゼミで翻訳をしていて、最初は客へのメールも訳すだけでいいと思ったんです。",
+   "sentence_ids": [
+    "C59-D003-S01",
+    "C59-D003-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 25.813,
+   "end_sec": 41.45,
+   "duration_sec": 15.637
+  },
+  {
+   "turn_id": "C59-D004",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "読む相手が変わったんですね。大学では、どんな資料を使っていたんですか。",
+   "sentence_ids": [
+    "C59-D004-S01",
+    "C59-D004-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 41.8,
+   "end_sec": 46.91,
+   "duration_sec": 5.11
+  },
+  {
+   "turn_id": "C59-D005",
+   "turn_index": 4,
+   "speaker": "ハサン",
+   "source_text": "歴史の講義で紹介された、20世紀の仕事の記録です。1990年代の会社の成長期に、社員がどう学んだかを調べました。会社の発展と個人の学びを一緒に考えるのは、私には大仕事でした。その時代の記録は、今の方法を考える材料になります。",
+   "sentence_ids": [
+    "C59-D005-S01",
+    "C59-D005-S02",
+    "C59-D005-S03",
+    "C59-D005-S04"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.26,
+   "end_sec": 67.636,
+   "duration_sec": 20.376
+  },
+  {
+   "turn_id": "C59-D006",
+   "turn_index": 5,
+   "speaker": "林梅",
+   "source_text": "その経験をメールの練習にどうつなげましたか。",
+   "sentence_ids": [
+    "C59-D006-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 67.986,
+   "end_sec": 71.743,
+   "duration_sec": 3.757
+  },
+  {
+   "turn_id": "C59-D007",
+   "turn_index": 6,
+   "speaker": "ハサン",
+   "source_text": "資料を読む時と同じように、まず問いを立てました。「客は何を知りたいか」です。先輩の文を真似る前に、目的を考えたんです。一文を朗読すると、長すぎることにも気づきました。",
+   "sentence_ids": [
+    "C59-D007-S01",
+    "C59-D007-S02",
+    "C59-D007-S03",
+    "C59-D007-S04"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 72.093,
+   "end_sec": 86.141,
+   "duration_sec": 14.048
+  },
+  {
+   "turn_id": "C59-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "何度も読む訓練で、文章の形にも気づいたんですね。新しい知識を吸収して、使ってみることも必要なんですね。",
+   "sentence_ids": [
+    "C59-D008-S01",
+    "C59-D008-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 86.491,
+   "end_sec": 94.949,
+   "duration_sec": 8.458
+  },
+  {
+   "turn_id": "C59-D009",
+   "turn_index": 8,
+   "speaker": "ハサン",
+   "source_text": "ええ。私は才能がある人の真似をすれば上達すると思っていました。でも、先輩と真剣に話し合って、理解を深めるほうが役立ちました。必要なことを短く伝えるこつが、少しずつ身につくようになったんです。",
+   "sentence_ids": [
+    "C59-D009-S01",
+    "C59-D009-S02",
+    "C59-D009-S03",
+    "C59-D009-S04"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match",
+    "short_pause"
+   ],
+   "start_sec": 95.299,
+   "end_sec": 110.892,
+   "duration_sec": 15.593
+  },
+  {
+   "turn_id": "C59-D010",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "その話なら、聞く人も大いに参考にできますね。今の仕事で活躍するための練習だと、学生にも伝わりそうです。",
+   "sentence_ids": [
+    "C59-D010-S01",
+    "C59-D010-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 111.242,
+   "end_sec": 119.479,
+   "duration_sec": 8.237
+  },
+  {
+   "turn_id": "C59-D011",
+   "turn_index": 10,
+   "speaker": "ハサン",
+   "source_text": "練習の時間を充実させるには、失敗の理由を知ることですね。積極的に質問するようになってから、客の説明を聞き落とすことも減りました。文章の質を高める方法も分かりつつあります。",
+   "sentence_ids": [
+    "C59-D011-S01",
+    "C59-D011-S02",
+    "C59-D011-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 119.829,
+   "end_sec": 132.731,
+   "duration_sec": 12.902
+  },
+  {
+   "turn_id": "C59-D012",
+   "turn_index": 11,
+   "speaker": "林梅",
+   "source_text": "では、勉強会ではその順番で話してください。資料から得る情報と、経験から分かったことを分ければ、話の流れがはっきりします。",
+   "sentence_ids": [
+    "C59-D012-S01",
+    "C59-D012-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 133.081,
+   "end_sec": 143.065,
+   "duration_sec": 9.984
+  },
+  {
+   "turn_id": "C59-D013",
+   "turn_index": 12,
+   "speaker": "ハサン",
+   "source_text": "分かりました。資料を印刷しに行くついでに、会議室の予約も確認してきます。",
+   "sentence_ids": [
+    "C59-D013-S01",
+    "C59-D013-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 143.415,
+   "end_sec": 148.207,
+   "duration_sec": 4.792
+  },
+  {
+   "turn_id": "C59-D014",
+   "turn_index": 13,
+   "speaker": "林梅",
+   "source_text": "お願いします。戻ったら、二人でもう一度見直しましょう。図と取材の話を区別して、記録がないところは空欄にします。",
+   "sentence_ids": [
+    "C59-D014-S01",
+    "C59-D014-S02",
+    "C59-D014-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 148.557,
+   "end_sec": 158.207,
+   "duration_sec": 9.65
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C59-D001-S01",
+   "unit_id": "C59-D001",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "出典は確認しました。",
+   "start_sec": 0.0,
+   "end_sec": 1.614,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D001-S02",
+   "unit_id": "C59-D001",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "図の三期間では注文が増える一方ですが、毎月増えたとは言い切れません。",
+   "start_sec": 1.764,
+   "end_sec": 6.956,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D001-S03",
+   "unit_id": "C59-D001",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "2026年4月以降も同じ傾向かどうかは、まだ不明ですね。",
+   "start_sec": 7.106,
+   "end_sec": 11.731,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D002-S01",
+   "unit_id": "C59-D002",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "はい。",
+   "start_sec": 12.081,
+   "end_sec": 13.077,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D002-S02",
+   "unit_id": "C59-D002",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "雇用の計画も未定です。",
+   "start_sec": 13.227,
+   "end_sec": 15.366,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D002-S03",
+   "unit_id": "C59-D002",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "ところで、ハサンさんの五分の話は、去年、客へのメールを担当したことが契機でしたね。",
+   "start_sec": 15.516,
+   "end_sec": 22.291,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D002-S04",
+   "unit_id": "C59-D002",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "練習について、具体例を入れませんか。",
+   "start_sec": 22.441,
+   "end_sec": 25.463,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D003-S01",
+   "unit_id": "C59-D003",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "大学の日本語科では成績は悪くなかったんですが、社会に出ると、実力が足りないと感じました。",
+   "start_sec": 25.813,
+   "end_sec": 33.686,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D003-S02",
+   "unit_id": "C59-D003",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "現代の働き方を研究するゼミで翻訳をしていて、最初は客へのメールも訳すだけでいいと思ったんです。",
+   "start_sec": 33.836,
+   "end_sec": 41.45,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D004-S01",
+   "unit_id": "C59-D004",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "読む相手が変わったんですね。",
+   "start_sec": 41.8,
+   "end_sec": 43.89,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D004-S02",
+   "unit_id": "C59-D004",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "大学では、どんな資料を使っていたんですか。",
+   "start_sec": 44.04,
+   "end_sec": 46.91,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D005-S01",
+   "unit_id": "C59-D005",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "歴史の講義で紹介された、20世紀の仕事の記録です。",
+   "start_sec": 47.26,
+   "end_sec": 51.663,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D005-S02",
+   "unit_id": "C59-D005",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "1990年代の会社の成長期に、社員がどう学んだかを調べました。",
+   "start_sec": 51.813,
+   "end_sec": 57.805,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D005-S03",
+   "unit_id": "C59-D005",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "会社の発展と個人の学びを一緒に考えるのは、私には大仕事でした。",
+   "start_sec": 57.955,
+   "end_sec": 63.567,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D005-S04",
+   "unit_id": "C59-D005",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "その時代の記録は、今の方法を考える材料になります。",
+   "start_sec": 63.717,
+   "end_sec": 67.636,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D006-S01",
+   "unit_id": "C59-D006",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "その経験をメールの練習にどうつなげましたか。",
+   "start_sec": 67.986,
+   "end_sec": 71.743,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D007-S01",
+   "unit_id": "C59-D007",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "資料を読む時と同じように、まず問いを立てました。",
+   "start_sec": 72.093,
+   "end_sec": 75.972,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D007-S02",
+   "unit_id": "C59-D007",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "「客は何を知りたいか」です。",
+   "start_sec": 76.122,
+   "end_sec": 78.679,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D007-S03",
+   "unit_id": "C59-D007",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "先輩の文を真似る前に、目的を考えたんです。",
+   "start_sec": 78.829,
+   "end_sec": 82.567,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D007-S04",
+   "unit_id": "C59-D007",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "一文を朗読すると、長すぎることにも気づきました。",
+   "start_sec": 82.717,
+   "end_sec": 86.141,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D008-S01",
+   "unit_id": "C59-D008",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "何度も読む訓練で、文章の形にも気づいたんですね。",
+   "start_sec": 86.491,
+   "end_sec": 90.688,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D008-S02",
+   "unit_id": "C59-D008",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "新しい知識を吸収して、使ってみることも必要なんですね。",
+   "start_sec": 90.838,
+   "end_sec": 94.949,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D009-S01",
+   "unit_id": "C59-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "ええ。",
+   "start_sec": 95.299,
+   "end_sec": 95.651,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D009-S02",
+   "unit_id": "C59-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "私は才能がある人の真似をすれば上達すると思っていました。",
+   "start_sec": 95.801,
+   "end_sec": 100.537,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D009-S03",
+   "unit_id": "C59-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "でも、先輩と真剣に話し合って、理解を深めるほうが役立ちました。",
+   "start_sec": 100.687,
+   "end_sec": 105.923,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D009-S04",
+   "unit_id": "C59-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "必要なことを短く伝えるこつが、少しずつ身につくようになったんです。",
+   "start_sec": 106.073,
+   "end_sec": 110.892,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D010-S01",
+   "unit_id": "C59-D010",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "その話なら、聞く人も大いに参考にできますね。",
+   "start_sec": 111.242,
+   "end_sec": 114.957,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D010-S02",
+   "unit_id": "C59-D010",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "今の仕事で活躍するための練習だと、学生にも伝わりそうです。",
+   "start_sec": 115.107,
+   "end_sec": 119.479,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D011-S01",
+   "unit_id": "C59-D011",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "練習の時間を充実させるには、失敗の理由を知ることですね。",
+   "start_sec": 119.829,
+   "end_sec": 124.9,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D011-S02",
+   "unit_id": "C59-D011",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "積極的に質問するようになってから、客の説明を聞き落とすことも減りました。",
+   "start_sec": 125.05,
+   "end_sec": 129.676,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D011-S03",
+   "unit_id": "C59-D011",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "文章の質を高める方法も分かりつつあります。",
+   "start_sec": 129.826,
+   "end_sec": 132.731,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D012-S01",
+   "unit_id": "C59-D012",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "では、勉強会ではその順番で話してください。",
+   "start_sec": 133.081,
+   "end_sec": 136.729,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D012-S02",
+   "unit_id": "C59-D012",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "資料から得る情報と、経験から分かったことを分ければ、話の流れがはっきりします。",
+   "start_sec": 136.879,
+   "end_sec": 143.065,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D013-S01",
+   "unit_id": "C59-D013",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "分かりました。",
+   "start_sec": 143.415,
+   "end_sec": 144.224,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D013-S02",
+   "unit_id": "C59-D013",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "資料を印刷しに行くついでに、会議室の予約も確認してきます。",
+   "start_sec": 144.374,
+   "end_sec": 148.207,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D014-S01",
+   "unit_id": "C59-D014",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "お願いします。",
+   "start_sec": 148.557,
+   "end_sec": 149.981,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D014-S02",
+   "unit_id": "C59-D014",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "戻ったら、二人でもう一度見直しましょう。",
+   "start_sec": 150.131,
+   "end_sec": 153.001,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C59-D014-S03",
+   "unit_id": "C59-D014",
+   "section": "D",
+   "speaker": "林梅（リン・メイ）",
+   "text": "図と取材の話を区別して、記録がないところは空欄にします。",
+   "start_sec": 153.151,
+   "end_sec": 158.207,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

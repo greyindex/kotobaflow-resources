@@ -1,0 +1,2500 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow1",
+  "lesson_id": "lesson_03",
+  "entries": [
+    {
+      "textbook_uid": "cfv-76995662830e06cc",
+      "index": 48,
+      "word": "ゼロ",
+      "reading_hiragana": "ぜろ",
+      "context_meaning_zh": "数字零",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字零",
+          "meaning_ja": "何もないことを表す数。",
+          "example_ja": "電話番号はゼロ、いち、に、さんです。",
+          "example_zh": "电话号码是0、1、2、3。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ゼロから九まで",
+          "zh": "从零到九"
+        }
+      ],
+      "usage_note_zh": "数字「0」的读法之一；本课读作「ゼロ」。电话号码通常逐个数字读。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "ゼロ指数字0，电话号码逐位报数的课程语境吻合词典数值名词义；未据教材来源标教育体裁。",
+        "dictionary_sequences": [
+          2839962
+        ],
+        "identity": {
+          "word": "ゼロ",
+          "reading_hiragana": "ぜろ",
+          "meaning": "数字零"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fd2594f0f8ffc993",
+      "index": 49,
+      "word": "一",
+      "reading_hiragana": "いち",
+      "context_meaning_zh": "数字一",
+      "pos_ja": "数詞",
+      "pos_zh": "数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字一",
+          "meaning_ja": "0より一つ多い数。",
+          "example_ja": "一冊の本を買いました。",
+          "example_zh": "买了一本书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一つください",
+          "zh": "请给我一个"
+        }
+      ],
+      "usage_note_zh": "单独读数字时读「いち」；数书时「一冊」读「いっさつ」，数东西时「一つ」读「ひとつ」。数字与量词组合后读音会变化。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "low",
+        "basis": [
+          "context"
+        ],
+        "note_zh": "释义明确为数词“一”，但例句采用「一：財布です」的格式难以判断原教材目标用法；数词类别暂保留，需核来源。",
+        "dictionary_sequences": [
+          1160790
+        ],
+        "identity": {
+          "word": "一",
+          "reading_hiragana": "いち",
+          "meaning": "数字一"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cde1cbfc6ad95cec",
+      "index": 50,
+      "word": "二",
+      "reading_hiragana": "に",
+      "context_meaning_zh": "数字二",
+      "pos_ja": "数詞",
+      "pos_zh": "数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字二",
+          "meaning_ja": "1より一つ多い数。",
+          "example_ja": "二冊の本を借りました。",
+          "example_zh": "借了两本书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二人",
+          "zh": "两个人"
+        }
+      ],
+      "usage_note_zh": "单独读数字时读「に」；数书时「二冊」读「にさつ」，数人时「二人」读「ふたり」。读音会随量词改变。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "基本数词二，词典列two/2；具体计数读法随量词改变，不改变词项类别。",
+        "dictionary_sequences": [
+          1461140
+        ],
+        "identity": {
+          "word": "二",
+          "reading_hiragana": "に",
+          "meaning": "数字二"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a1193b7c2b423d6f",
+      "index": 51,
+      "word": "三",
+      "reading_hiragana": "さん",
+      "context_meaning_zh": "数字三",
+      "pos_ja": "数詞・数詞表現",
+      "pos_zh": "数词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字三",
+          "meaning_ja": "2より一つ多い数。",
+          "example_ja": "箱の中に本が三冊あります。",
+          "example_zh": "箱子里有三本书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "三つ",
+          "zh": "三个"
+        }
+      ],
+      "usage_note_zh": "本课单独读作「さん」；与量词组合后读音会变化，例如「三つ」读「みっつ」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课单独表示数字三，注记说明与量词组合时读音变化；属数词而非一般名词。",
+        "dictionary_sequences": [
+          1579350,
+          2747950
+        ],
+        "identity": {
+          "word": "三",
+          "reading_hiragana": "さん",
+          "meaning": "数字三"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e621c3c7b84940e7",
+      "index": 52,
+      "word": "四",
+      "reading_hiragana": "よん",
+      "context_meaning_zh": "数字四的常用读法",
+      "pos_ja": "数詞",
+      "pos_zh": "数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字四的常用读法",
+          "meaning_ja": "3より一つ多い数。",
+          "example_ja": "駅まで四分です。",
+          "example_zh": "到车站要四分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "四つ",
+          "zh": "四个"
+        }
+      ],
+      "usage_note_zh": "本课采用「よん」；「四つ」读「よっつ」，「四分」读「よんぷん」。与量词组合后的读音需分别记忆。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典明确列四为数词；例句呈数字配物品的题目格式，虽语境简略，基本类别仍可确认。",
+        "dictionary_sequences": [
+          1579470
+        ],
+        "identity": {
+          "word": "四",
+          "reading_hiragana": "よん",
+          "meaning": "数字四的常用读法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eed5cf1d1dbd699b",
+      "index": 53,
+      "word": "五",
+      "reading_hiragana": "ご",
+      "context_meaning_zh": "数字五",
+      "pos_ja": "数詞",
+      "pos_zh": "数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字五",
+          "meaning_ja": "4より一つ多い数。",
+          "example_ja": "五人で写真を撮りました。",
+          "example_zh": "五个人一起拍了照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "五つ",
+          "zh": "五个"
+        }
+      ],
+      "usage_note_zh": "本课单独读作「ご」；与量词组合后读音会变化，例如「五つ」读「いつつ」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五是数词，例句把它作为日语课用纸上的数字标识；课堂来源不使数词本身成为教育体裁。",
+        "dictionary_sequences": [
+          1268060
+        ],
+        "identity": {
+          "word": "五",
+          "reading_hiragana": "ご",
+          "meaning": "数字五"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9513953a7a250084",
+      "index": 54,
+      "word": "六",
+      "reading_hiragana": "ろく",
+      "context_meaning_zh": "数字六",
+      "pos_ja": "数詞",
+      "pos_zh": "数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字六",
+          "meaning_ja": "5より一つ多い数。",
+          "example_ja": "教室に学生が六人います。",
+          "example_zh": "教室里有六名学生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "六つ",
+          "zh": "六个"
+        }
+      ],
+      "usage_note_zh": "单独读数字时读「ろく」；「六人」读「ろくにん」，「六つ」则读「むっつ」。读音会随量词改变。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "low",
+        "basis": [
+          "context"
+        ],
+        "note_zh": "六的有效原义是数字六，但例句‘六：日本的照片’疑似数字条目标注或句子错配，缺少词典来源以外的语境支撑。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "六",
+          "reading_hiragana": "ろく",
+          "meaning": "数字六"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-db601964238a6da6",
+      "index": 55,
+      "word": "七",
+      "reading_hiragana": "なな",
+      "context_meaning_zh": "数字七的常用读法",
+      "pos_ja": "数詞・数詞表現",
+      "pos_zh": "数词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字七的常用读法",
+          "meaning_ja": "6より一つ多い数。",
+          "example_ja": "学生が七人います。",
+          "example_zh": "有七名学生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "七つ",
+          "zh": "七个"
+        }
+      ],
+      "usage_note_zh": "「七」有「なな」「しち」等读法；本课采用「なな」。「七人」可读「ななにん」；时间「七時」通常读「しちじ」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「七」是数词，例句为数字和读法的练习提示；使用中无特殊语体。",
+        "dictionary_sequences": [
+          1319210
+        ],
+        "identity": {
+          "word": "七",
+          "reading_hiragana": "なな",
+          "meaning": "数字七的常用读法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-33bd5e57ab54b66d",
+      "index": 56,
+      "word": "八",
+      "reading_hiragana": "はち",
+      "context_meaning_zh": "数字八",
+      "pos_ja": "数詞",
+      "pos_zh": "数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字八",
+          "meaning_ja": "7より一つ多い数。",
+          "example_ja": "八人で昼ご飯を食べます。",
+          "example_zh": "八个人一起吃午饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "八つ",
+          "zh": "八个"
+        }
+      ],
+      "usage_note_zh": "本课单独读作「はち」；与量词组合后读音会变化，例如「八つ」读「やっつ」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词项明确读作はち并指数字八；例句中八作为充电器编号，词条仍是数词。",
+        "dictionary_sequences": [
+          1583090
+        ],
+        "identity": {
+          "word": "八",
+          "reading_hiragana": "はち",
+          "meaning": "数字八"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-11bb4b8a1267f20d",
+      "index": 57,
+      "word": "九",
+      "reading_hiragana": "きゅう",
+      "context_meaning_zh": "数字九的常用读法",
+      "pos_ja": "数詞",
+      "pos_zh": "数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字九的常用读法",
+          "meaning_ja": "8より一つ多い数。",
+          "example_ja": "九から十まで数えます。",
+          "example_zh": "从九数到十。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "九つ",
+          "zh": "九个"
+        }
+      ],
+      "usage_note_zh": "「九」有「きゅう」「く」等读法；本课及号码中用「きゅう」。「九時」读「くじ」，不能按单独数字的读音直读。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "单独数字九作为序号答项；本条不是与名词组合后的特殊时间读法。",
+        "dictionary_sequences": [
+          1578150
+        ],
+        "identity": {
+          "word": "九",
+          "reading_hiragana": "きゅう",
+          "meaning": "数字九的常用读法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-00cf0739ea3fec90",
+      "index": 58,
+      "word": "十",
+      "reading_hiragana": "じゅう",
+      "context_meaning_zh": "数字十",
+      "pos_ja": "数詞",
+      "pos_zh": "数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字十",
+          "meaning_ja": "9より一つ多い数。",
+          "example_ja": "十時に寝ます。",
+          "example_zh": "十点睡觉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "十人",
+          "zh": "十个人"
+        }
+      ],
+      "usage_note_zh": "单独读数字时读「じゅう」；与量词组合后可能发生音变，如「十人」读「じゅうにん」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该条记录的是数字十本身；与年龄、年限或个数单位组合时，单位另由后接词承担，不应把数字标成助数表达。",
+        "dictionary_sequences": [
+          1579840
+        ],
+        "identity": {
+          "word": "十",
+          "reading_hiragana": "じゅう",
+          "meaning": "数字十"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a073a9ce7ce0dac9",
+      "index": 59,
+      "word": "本",
+      "reading_hiragana": "ほん",
+      "context_meaning_zh": "书",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "书",
+          "meaning_ja": "文字や絵を読んだり見たりするために、何枚もの紙をとじたもの。",
+          "example_ja": "この本はとてもおもしろいです。",
+          "example_zh": "这本书很有趣。"
+        },
+        {
+          "meaning_zh": "（细长物的量词）支、根",
+          "meaning_ja": "細長い物を数えるとき、数のあとに付ける言葉。",
+          "example_ja": "ペンを二本買いました。",
+          "example_zh": "买了两支笔。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "本を読む",
+          "zh": "读书"
+        }
+      ],
+      "usage_note_zh": "本课义为书籍。读作「ほん」；作细长物的量词时也写「本」，但读音随数字变化，如「一本」读「いっぽん」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“这本书是我的书”明确使用书籍义的名词。",
+        "dictionary_sequences": [
+          1522150
+        ],
+        "identity": {
+          "word": "本",
+          "reading_hiragana": "ほん",
+          "meaning": "书"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f8fb7c5958855dfc",
+      "index": 60,
+      "word": "ノート",
+      "reading_hiragana": "のーと",
+      "context_meaning_zh": "笔记本",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "笔记本",
+          "meaning_ja": "授業のことを書き留めるための本。",
+          "example_ja": "ノートに今日の日付を書きます。",
+          "example_zh": "在笔记本上写今天的日期。"
+        },
+        {
+          "meaning_zh": "笔记；课堂记录",
+          "meaning_ja": "授業や話の内容を書き留めたもの。",
+          "example_ja": "授業のノートを見せてください。",
+          "example_zh": "请给我看一下课堂笔记。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ノートを取る",
+          "zh": "记笔记"
+        }
+      ],
+      "usage_note_zh": "可指记笔记用的本子，也可指写在本子上的笔记内容；「ノートを取る」表示记笔记。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「这个也是我的笔记本」清楚指书写用本子；词典的记笔记サ变义与此身份义无关，不附加动词类。",
+        "dictionary_sequences": [
+          1093450
+        ],
+        "identity": {
+          "word": "ノート",
+          "reading_hiragana": "のーと",
+          "meaning": "笔记本"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0d398539e5e0eaaf",
+      "index": 61,
+      "word": "ペン",
+      "reading_hiragana": "ぺん",
+      "context_meaning_zh": "笔",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "笔",
+          "meaning_ja": "インクで文字を書くための筆記具。",
+          "example_ja": "このペンで名前を書いてください。",
+          "example_zh": "请用这支笔写名字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ペンで書く",
+          "zh": "用笔写"
+        }
+      ],
+      "usage_note_zh": "「ペン」是泛指的书写工具；ボールペン、万年筆等是具体种类。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句以ペン称书写工具并指向中村所有；选辞典pen义，排除同读音的组织缩写条目。",
+        "dictionary_sequences": [
+          1121380
+        ],
+        "identity": {
+          "word": "ペン",
+          "reading_hiragana": "ぺん",
+          "meaning": "笔"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-49daeabc1d6c7a7d",
+      "index": 62,
+      "word": "かばん",
+      "reading_hiragana": "かばん",
+      "context_meaning_zh": "包",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "包",
+          "meaning_ja": "物を入れて持ち運ぶための袋。",
+          "example_ja": "かばんの中に鍵があります。",
+          "example_zh": "包里有钥匙。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "かばんを持つ",
+          "zh": "拿包"
+        }
+      ],
+      "usage_note_zh": "指用于携带物品的包；具体类型可用「通学かばん」「旅行かばん」等说明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "释义和所属句均指携物用包；匹配词典的鞄义项，排除同音的下番、加番条目。",
+        "dictionary_sequences": [
+          1208910
+        ],
+        "identity": {
+          "word": "かばん",
+          "reading_hiragana": "かばん",
+          "meaning": "包"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2e7156842aabf31b",
+      "index": 63,
+      "word": "鍵",
+      "reading_hiragana": "かぎ",
+      "context_meaning_zh": "钥匙",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "钥匙",
+          "meaning_ja": "錠を開けたり閉めたりする道具。",
+          "example_ja": "ドアの鍵をここに置きます。",
+          "example_zh": "把门钥匙放在这里。"
+        },
+        {
+          "meaning_zh": "关键；解决问题的重要线索",
+          "meaning_ja": "問題を解くために大切な手がかり。",
+          "example_ja": "毎日練習することが上達の鍵です。",
+          "example_zh": "每天练习是进步的关键。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鍵をかける",
+          "zh": "锁门"
+        }
+      ],
+      "usage_note_zh": "本课义为开锁用的钥匙；也可比喻解决问题的重要线索或关键，如「上達の鍵」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "归属某人的钥匙在此是可辨认的实体物品，词典的线索、锁等同形义不适用。",
+        "dictionary_sequences": [
+          1260490
+        ],
+        "identity": {
+          "word": "鍵",
+          "reading_hiragana": "かぎ",
+          "meaning": "钥匙"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2f0c57094f0ecc4d",
+      "index": 64,
+      "word": "スマートフォン",
+      "reading_hiragana": "すまーとふぉん",
+      "context_meaning_zh": "智能手机",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "智能手机",
+          "meaning_ja": "通話やインターネットなどに使う携帯電話。",
+          "example_ja": "スマートフォンで地図を見ます。",
+          "example_zh": "用智能手机看地图。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "スマートフォンを使う",
+          "zh": "使用智能手机"
+        }
+      ],
+      "usage_note_zh": "日常会话中常简称「スマホ」；正式或清楚说明设备时可用全称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "スマートフォン是智能手机的普通名词；课例仅给判断句框架，词义由词典与教学释义确认。",
+        "dictionary_sequences": [
+          2304550
+        ],
+        "identity": {
+          "word": "スマートフォン",
+          "reading_hiragana": "すまーとふぉん",
+          "meaning": "智能手机"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3fbbf9c96054a49d",
+      "index": 65,
+      "word": "何",
+      "reading_hiragana": "なに",
+      "context_meaning_zh": "询问事物是什么",
+      "pos_ja": "代名詞・疑問",
+      "pos_zh": "代词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "询问事物是什么",
+          "meaning_ja": "物や事柄の名前、内容をたずねる言葉。",
+          "example_ja": "何を買いますか。",
+          "example_zh": "你要买什么？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何をする",
+          "zh": "做什么"
+        }
+      ],
+      "usage_note_zh": "疑问词「何」可读「なに」或「なん」；本条读音「なに」可见于「何を」。在「何ですか」等表达中常读「なん」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "何询问不明事物或内容，例句分别问身份、动作和对象；这是跨口语书面语的通用疑问代词，未见词汇层面的口语限制。",
+        "dictionary_sequences": [
+          1577100
+        ],
+        "identity": {
+          "word": "何",
+          "reading_hiragana": "なに",
+          "meaning": "询问事物是什么"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1f8a82e54dea5e90",
+      "index": 66,
+      "word": "財布",
+      "reading_hiragana": "さいふ",
+      "context_meaning_zh": "钱包",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "钱包",
+          "meaning_ja": "お金やカードなどを入れて持ち歩く小さな入れ物。",
+          "example_ja": "財布にカードが三枚あります。",
+          "example_zh": "钱包里有三张卡。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "財布を出す",
+          "zh": "拿出钱包"
+        }
+      ],
+      "usage_note_zh": "通常指随身放现金或卡片的钱包；常见搭配有「財布に入れる」「財布を落とす」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词条释义“钱包”对应JMdict 1296970；例句用短名词句辨认物品，内容不足以赋特殊语体。",
+        "dictionary_sequences": [
+          1296970
+        ],
+        "identity": {
+          "word": "財布",
+          "reading_hiragana": "さいふ",
+          "meaning": "钱包"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dc621277464fb4e6",
+      "index": 67,
+      "word": "時計",
+      "reading_hiragana": "とけい",
+      "context_meaning_zh": "钟表",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "钟表",
+          "meaning_ja": "時刻を知るための道具。",
+          "example_ja": "時計を見てください。",
+          "example_zh": "请看一下钟表。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時計を見る",
+          "zh": "看钟表"
+        }
+      ],
+      "usage_note_zh": "可指钟或表，具体是墙上挂钟还是手表由语境决定；报时间时通常说「時間」或具体时刻。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "作为基础词汇指钟或表等计时器具；本条提示语语境未具体限定器具类型。",
+        "dictionary_sequences": [
+          1316140
+        ],
+        "identity": {
+          "word": "時計",
+          "reading_hiragana": "とけい",
+          "meaning": "钟表"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f17b6eceb3f2a619",
+      "index": 68,
+      "word": "鉛筆",
+      "reading_hiragana": "えんぴつ",
+      "context_meaning_zh": "铅笔",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "铅笔",
+          "meaning_ja": "紙に字や絵を書くための筆記具。木の軸の中に黒い芯が入っている。",
+          "example_ja": "鉛筆で名前を書きます。",
+          "example_zh": "用铅笔写名字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鉛筆で書く",
+          "zh": "用铅笔写"
+        }
+      ],
+      "usage_note_zh": "通常用来书写或绘画；「鉛筆を削る」表示削铅笔。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "短答「三：鉛筆です」指木制书写铅笔，与词典名词义一致。",
+        "dictionary_sequences": [
+          1178590
+        ],
+        "identity": {
+          "word": "鉛筆",
+          "reading_hiragana": "えんぴつ",
+          "meaning": "铅笔"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2dabadd09e5d4432",
+      "index": 69,
+      "word": "消しゴム",
+      "reading_hiragana": "けしごむ",
+      "context_meaning_zh": "橡皮",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "橡皮",
+          "meaning_ja": "字を消すための文房具。",
+          "example_ja": "間違えた字を消しゴムで消します。",
+          "example_zh": "用橡皮擦掉写错的字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "消しゴムで消す",
+          "zh": "用橡皮擦"
+        }
+      ],
+      "usage_note_zh": "常与助词「で」表示擦除所用工具；词中「消し」来自「消す」，但整体是文具名词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "消しゴム在识别物品的对话中作名词，指擦除铅笔字等的橡皮。",
+        "dictionary_sequences": [
+          1350080
+        ],
+        "identity": {
+          "word": "消しゴム",
+          "reading_hiragana": "けしごむ",
+          "meaning": "橡皮"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-480954bfca873c2a",
+      "index": 70,
+      "word": "紙",
+      "reading_hiragana": "かみ",
+      "context_meaning_zh": "纸",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "纸",
+          "meaning_ja": "薄く平らで、字や絵を書くことができるもの。",
+          "example_ja": "白い紙を一枚ください。",
+          "example_zh": "请给我一张白纸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "紙に書く",
+          "zh": "写在纸上"
+        }
+      ],
+      "usage_note_zh": "指纸张；计数常用「枚」。读音「かみ」；「神」也读「かみ」，需结合汉字和语境区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "句子仅显示日语课用纸，足以判断为材料名词；缺少词典记录但语义无明显歧义。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "紙",
+          "reading_hiragana": "かみ",
+          "meaning": "纸"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7cb7a67226f65691",
+      "index": 71,
+      "word": "写真",
+      "reading_hiragana": "しゃしん",
+      "context_meaning_zh": "照片",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "照片",
+          "meaning_ja": "カメラで撮った画像。",
+          "example_ja": "旅行の写真を家族に見せました。",
+          "example_zh": "把旅行照片给家人看了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "写真を撮る",
+          "zh": "拍照片"
+        }
+      ],
+      "usage_note_zh": "「写真を撮る」表示拍照；「写真を見る／見せる」分别是看照片／给别人看照片。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「この写真」明确指一张具体照片，符合词典图像名词义。",
+        "dictionary_sequences": [
+          1321900
+        ],
+        "identity": {
+          "word": "写真",
+          "reading_hiragana": "しゃしん",
+          "meaning": "照片"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-85112aa1533b51ff",
+      "index": 72,
+      "word": "パソコン",
+      "reading_hiragana": "ぱそこん",
+      "context_meaning_zh": "个人电脑",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "个人电脑",
+          "meaning_ja": "個人で使うコンピューター。",
+          "example_ja": "パソコンで日本語を勉強します。",
+          "example_zh": "用电脑学习日语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "パソコンを使う",
+          "zh": "使用电脑"
+        }
+      ],
+      "usage_note_zh": "「パーソナルコンピューター」的简称；日常语境中指个人电脑，常用「パソコンで調べる／勉強する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "パソコン是个人电脑的缩略名词，课文以简短问答给出该词义，词典释义相符。",
+        "dictionary_sequences": [
+          1101570
+        ],
+        "identity": {
+          "word": "パソコン",
+          "reading_hiragana": "ぱそこん",
+          "meaning": "个人电脑"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a8c3156f43c4ccae",
+      "index": 73,
+      "word": "充電器",
+      "reading_hiragana": "じゅうでんき",
+      "context_meaning_zh": "充电器",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "充电器",
+          "meaning_ja": "電池に電気を送るための器具。",
+          "example_ja": "充電器をコンセントにつなぎます。",
+          "example_zh": "把充电器插到插座上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "充電器を使う",
+          "zh": "使用充电器"
+        }
+      ],
+      "usage_note_zh": "为电池充电的设备；给手机充电时可说「スマートフォンを充電する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "充电器名词义符合JMdict 1334400；本记录例句为物品识别短句，语境不足以标专业领域。",
+        "dictionary_sequences": [
+          1334400
+        ],
+        "identity": {
+          "word": "充電器",
+          "reading_hiragana": "じゅうでんき",
+          "meaning": "充电器"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-99d84cfc636f3538",
+      "index": 74,
+      "word": "番号",
+      "reading_hiragana": "ばんごう",
+      "context_meaning_zh": "号码",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "号码",
+          "meaning_ja": "人や物を区別するために付けた数字。",
+          "example_ja": "受付で番号を呼ばれました。",
+          "example_zh": "接待处叫到了我的号码。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "番号を書く",
+          "zh": "写号码"
+        }
+      ],
+      "usage_note_zh": "指用于识别或排序的号码，如电话号码、座位号；「番号を言う／書く」都很常见。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「番号」后列举零、四、二、九，指一串数字构成的号码；作普通名词。",
+        "dictionary_sequences": [
+          1482290
+        ],
+        "identity": {
+          "word": "番号",
+          "reading_hiragana": "ばんごう",
+          "meaning": "号码"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c48dda82d8b1effa",
+      "index": 75,
+      "word": "画面",
+      "reading_hiragana": "がめん",
+      "context_meaning_zh": "屏幕",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "屏幕",
+          "meaning_ja": "テレビやパソコンなどで、文字や画像が映る部分。",
+          "example_ja": "画面をもう一度見てください。",
+          "example_zh": "请再看一遍屏幕。"
+        },
+        {
+          "meaning_zh": "（设备上的）显示画面",
+          "meaning_ja": "テレビやコンピューターに映し出された画像。",
+          "example_ja": "画面に地図が出ています。",
+          "example_zh": "屏幕上显示着地图。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "画面を見る",
+          "zh": "看屏幕"
+        }
+      ],
+      "usage_note_zh": "指电子设备显示文字、图像的屏幕，也可指屏幕上显示的画面内容；手机上常说「画面をタップする」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句说画面上的照片，词头可指电子屏幕及其显示内容，具体是屏幕上的图像。",
+        "dictionary_sequences": [
+          1197610
+        ],
+        "identity": {
+          "word": "画面",
+          "reading_hiragana": "がめん",
+          "meaning": "屏幕"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-10098feea9158278",
+      "index": 76,
+      "word": "クラス",
+      "reading_hiragana": "クラス",
+      "context_meaning_zh": "班级",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "班级",
+          "meaning_ja": "学校などで、同じ授業を受ける人たちの集まり。",
+          "example_ja": "クラスの友だちと昼ご飯を食べます。",
+          "example_zh": "和班里的朋友一起吃午饭。"
+        },
+        {
+          "meaning_zh": "等级；类别",
+          "meaning_ja": "人や物を分けた段階や種類。",
+          "example_ja": "飛行機の座席には、いくつかのクラスがあります。",
+          "example_zh": "飞机座位分为几个舱位等级。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "クラスの友だち",
+          "zh": "班里的朋友"
+        }
+      ],
+      "usage_note_zh": "此处指学校班级；外来语「クラス」也可指等级或类别，如交通工具的舱位等级，具体含义看上下文。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「日本語クラス」指参加同一课程的班级；クラス是普通名词，外来语来源和教学场景不自动构成教育体裁。",
+        "dictionary_sequences": [
+          1044070
+        ],
+        "identity": {
+          "word": "クラス",
+          "reading_hiragana": "クラス",
+          "meaning": "班级"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1ea50b33ee6b85cf",
+      "index": 77,
+      "word": "これ",
+      "reading_hiragana": "これ",
+      "context_meaning_zh": "这个",
+      "pos_ja": "代名詞・指示",
+      "pos_zh": "代词・指示",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "这个",
+          "meaning_ja": "話し手の近くにある物を指す言葉。",
+          "example_ja": "これはだれの傘ですか。",
+          "example_zh": "这是谁的伞？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "これは何ですか",
+          "zh": "这是什么？"
+        }
+      ],
+      "usage_note_zh": "独立指代说话人附近的物品，后面可接「は」等助词；修饰名词时用「この＋名词」，不能说「これ本」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "demonstrative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「これ」在「これはわたしのかばん」中近指物品并作主题，词典相应义为this/this one；不取强调副词等其他异义。",
+        "dictionary_sequences": [
+          1628530
+        ],
+        "identity": {
+          "word": "これ",
+          "reading_hiragana": "これ",
+          "meaning": "这个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4bb2fd326cae247b",
+      "index": 78,
+      "word": "それ",
+      "reading_hiragana": "それ",
+      "context_meaning_zh": "那个",
+      "pos_ja": "代名詞・指示",
+      "pos_zh": "代词・指示",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "那个",
+          "meaning_ja": "聞き手の近くにある物を指す言葉。",
+          "example_ja": "それは田中さんの本ですか。",
+          "example_zh": "那是田中的书吗？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "それは何ですか",
+          "zh": "那是什么？"
+        }
+      ],
+      "usage_note_zh": "独立指代听话人附近或双方刚提到的物品；修饰名词时改用「その＋名词」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "demonstrative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处それ指示对话双方已知的事物或内容，属于指示代词；所给词典的感叹词义与本例无关。",
+        "dictionary_sequences": [
+          1006970
+        ],
+        "identity": {
+          "word": "それ",
+          "reading_hiragana": "それ",
+          "meaning": "那个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-34c7ff58e3144399",
+      "index": 79,
+      "word": "あれ",
+      "reading_hiragana": "あれ",
+      "context_meaning_zh": "那个(远称)",
+      "pos_ja": "代名詞",
+      "pos_zh": "代词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "那个(远称)",
+          "meaning_ja": "話し手と聞き手の両方から離れた物を指す言葉。",
+          "example_ja": "あれは学校の時計です。",
+          "example_zh": "那是学校的钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "あれは何ですか",
+          "zh": "那是什么？"
+        }
+      ],
+      "usage_note_zh": "独立指远离双方的物品；修饰名词时用「あの＋名词」，如「あの本」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "独立指说话双方均远处的物体，属指示代词；词典相关义为that thing。",
+        "dictionary_sequences": [
+          1000580
+        ],
+        "identity": {
+          "word": "あれ",
+          "reading_hiragana": "あれ",
+          "meaning": "那个(远称)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8a50d008e2b309f1",
+      "index": 80,
+      "word": "あの人",
+      "reading_hiragana": "あのひと",
+      "context_meaning_zh": "那个人（远称）",
+      "pos_ja": "代名詞・指示・人称",
+      "pos_zh": "代词・指示・人称",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "那个人（远称）",
+          "meaning_ja": "話し手と聞き手の両方から離れた人を指す言葉。",
+          "example_ja": "あの人はわたしの先生です。",
+          "example_zh": "那个人是我的老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "あの人はだれですか",
+          "zh": "那个人是谁？"
+        }
+      ],
+      "usage_note_zh": "指双方都离得较远的人；直接称呼对方时不使用「あの人」，而用姓名或适当称呼。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "demonstrative",
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "教材句「あの人は田中さんですか」指远处的人，作人称指示代词；不采用词典古语义。",
+        "dictionary_sequences": [
+          1000440
+        ],
+        "identity": {
+          "word": "あの人",
+          "reading_hiragana": "あのひと",
+          "meaning": "那个人（远称）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ab8fc977cf06316f",
+      "index": 81,
+      "word": "何",
+      "reading_hiragana": "なん",
+      "context_meaning_zh": "什么",
+      "pos_ja": "代名詞・疑問",
+      "pos_zh": "代词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "什么",
+          "meaning_ja": "物や事柄の名前、内容をたずねる言葉。",
+          "example_ja": "何年生ですか。",
+          "example_zh": "你几年级？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何ですか",
+          "zh": "是什么？"
+        }
+      ],
+      "usage_note_zh": "「何」可读「なに」或「なん」；本条读音「なん」见于「何年生（なんねんせい）」。询问事物时也常说「何を（なにを）」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「あれは何ですか」以「何」询问对象身份，属于疑问代词；采用何（なん）的本条读法。",
+        "dictionary_sequences": [
+          2846738
+        ],
+        "identity": {
+          "word": "何",
+          "reading_hiragana": "なん",
+          "meaning": "什么"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2f52a609448d27d0",
+      "index": 82,
+      "word": "この",
+      "reading_hiragana": "この",
+      "context_meaning_zh": "这",
+      "pos_ja": "連体詞・指示",
+      "pos_zh": "连体词・指示",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "这",
+          "meaning_ja": "話し手の近くにある物や人を名詞の前で指す言葉。",
+          "example_ja": "このかばんはとても軽いです。",
+          "example_zh": "这个包很轻。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "この本",
+          "zh": "这本书"
+        }
+      ],
+      "usage_note_zh": "须放在名词前修饰它，如「この本」；不能单独作主语，独立指物要用「これ」。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [
+          "demonstrative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "この是指示连体词，只修饰后续名词；例句この本明确验证其非独立代词用法。",
+        "dictionary_sequences": [
+          1582920
+        ],
+        "identity": {
+          "word": "この",
+          "reading_hiragana": "この",
+          "meaning": "这"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fd2f0e54ef8e49e0",
+      "index": 83,
+      "word": "その",
+      "reading_hiragana": "その",
+      "context_meaning_zh": "那",
+      "pos_ja": "連体詞・指示",
+      "pos_zh": "连体词・指示",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "那",
+          "meaning_ja": "聞き手の近くにある物や人を名詞の前で指す言葉。",
+          "example_ja": "そのペンを使ってもいいですか。",
+          "example_zh": "我可以用那支笔吗？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "その鍵",
+          "zh": "那把钥匙"
+        }
+      ],
+      "usage_note_zh": "放在名词前修饰听话人附近或已提及的事物；独立指物要用「それ」。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [
+          "demonstrative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "指示连体词必须修饰后接名词；本课键匙例句符合その用法，词典匹配adj-pn义。",
+        "dictionary_sequences": [
+          1006830
+        ],
+        "identity": {
+          "word": "その",
+          "reading_hiragana": "その",
+          "meaning": "那"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-00cfc5a7331fc9b0",
+      "index": 84,
+      "word": "あの",
+      "reading_hiragana": "あの",
+      "context_meaning_zh": "那(远称)",
+      "pos_ja": "連体詞・指示",
+      "pos_zh": "连体词・指示",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "那(远称)",
+          "meaning_ja": "話し手と聞き手の両方から離れた物や人を名詞の前で指す言葉。",
+          "example_ja": "あの写真は京都で撮りました。",
+          "example_zh": "那张照片是在京都拍的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "あの人",
+          "zh": "那个人"
+        }
+      ],
+      "usage_note_zh": "放在名词前修饰双方都较远的人或物；独立指物时用「あれ」。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [
+          "demonstrative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "远称词「あの」在该例中限定后续名词「スマートフォン」，因此归入连体词；不取同音感叹词义。",
+        "dictionary_sequences": [
+          1000420
+        ],
+        "identity": {
+          "word": "あの",
+          "reading_hiragana": "あの",
+          "meaning": "那(远称)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5a409bdf3d5ca7ac",
+      "index": 85,
+      "word": "誰",
+      "reading_hiragana": "だれ",
+      "context_meaning_zh": "谁",
+      "pos_ja": "代名詞・疑問",
+      "pos_zh": "代词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "谁",
+          "meaning_ja": "人の名前や身元をたずねる言葉。",
+          "example_ja": "あの人は誰ですか。",
+          "example_zh": "那个人是谁？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "誰のかばん",
+          "zh": "谁的包"
+        }
+      ],
+      "usage_note_zh": "「誰」用于询问人；询问所有者时说「誰の＋名词」。对不熟悉的人礼貌询问可说「どなた」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「だれの財布」用疑问代词询问钱包归属，だれ是人称疑问代词。",
+        "dictionary_sequences": [
+          1416830
+        ],
+        "identity": {
+          "word": "誰",
+          "reading_hiragana": "だれ",
+          "meaning": "谁"
+        }
+      }
+    }
+  ]
+}

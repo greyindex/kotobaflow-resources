@@ -1,0 +1,876 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 106.839,
+ "listening_review": "pending",
+ "source_chapter": 38,
+ "turns": [
+  {
+   "turn_id": "C38-D001",
+   "turn_index": 0,
+   "speaker": "西田",
+   "source_text": "原さん、予め控えを取った写真は残っていますか。",
+   "sentence_ids": [
+    "C38-D001-S01"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.968,
+   "duration_sec": 3.968
+  },
+  {
+   "turn_id": "C38-D002",
+   "turn_index": 1,
+   "speaker": "原",
+   "source_text": "ええ。でも、USBメモリは確かめないまま操作しました。",
+   "sentence_ids": [
+    "C38-D002-S01",
+    "C38-D002-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 4.318,
+   "end_sec": 8.737,
+   "duration_sec": 4.419
+  },
+  {
+   "turn_id": "C38-D003",
+   "turn_index": 2,
+   "speaker": "西田",
+   "source_text": "それは残念でしたね。後は一緒に手順を確かめましょう。",
+   "sentence_ids": [
+    "C38-D003-S01",
+    "C38-D003-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 9.087,
+   "end_sec": 13.339,
+   "duration_sec": 4.252
+  },
+  {
+   "turn_id": "C38-D004",
+   "turn_index": 3,
+   "speaker": "原",
+   "source_text": "十七枚と三枚で全部です。二度と同じミスはしません。",
+   "sentence_ids": [
+    "C38-D004-S01",
+    "C38-D004-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.689,
+   "end_sec": 17.637,
+   "duration_sec": 3.948
+  },
+  {
+   "turn_id": "C38-D005",
+   "turn_index": 4,
+   "speaker": "西田",
+   "source_text": "まず三枚を移してください。USBメモリは一先ず使わないで。",
+   "sentence_ids": [
+    "C38-D005-S01",
+    "C38-D005-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 17.987,
+   "end_sec": 23.114,
+   "duration_sec": 5.127
+  },
+  {
+   "turn_id": "C38-D006",
+   "turn_index": 5,
+   "speaker": "原",
+   "source_text": "月曜日に小川さんに相談します。忘れたケーブルも必要です。",
+   "sentence_ids": [
+    "C38-D006-S01",
+    "C38-D006-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 23.464,
+   "end_sec": 27.527,
+   "duration_sec": 4.063
+  },
+  {
+   "turn_id": "C38-D007",
+   "turn_index": 6,
+   "speaker": "西田",
+   "source_text": "予備を持ってきます。先に写真の準備を済ませてしまってください。",
+   "sentence_ids": [
+    "C38-D007-S01",
+    "C38-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 27.877,
+   "end_sec": 32.204,
+   "duration_sec": 4.327
+  },
+  {
+   "turn_id": "C38-D008",
+   "turn_index": 7,
+   "speaker": "原",
+   "source_text": "三十分ぐらいでできます。時間を取り返せそうです。",
+   "sentence_ids": [
+    "C38-D008-S01",
+    "C38-D008-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 32.554,
+   "end_sec": 36.004,
+   "duration_sec": 3.45
+  },
+  {
+   "turn_id": "C38-D013",
+   "turn_index": 8,
+   "speaker": "西田",
+   "source_text": "バッテリーは大丈夫ですか。",
+   "sentence_ids": [
+    "C38-D013-S01"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.354,
+   "end_sec": 38.124,
+   "duration_sec": 1.77
+  },
+  {
+   "turn_id": "C38-D014",
+   "turn_index": 9,
+   "speaker": "原",
+   "source_text": "まえもって充電しました。",
+   "sentence_ids": [
+    "C38-D014-S01"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.474,
+   "end_sec": 40.428,
+   "duration_sec": 1.954
+  },
+  {
+   "turn_id": "C38-D009",
+   "turn_index": 10,
+   "speaker": "西田",
+   "source_text": "では、フレームを取り替えます。",
+   "sentence_ids": [
+    "C38-D009-S01"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 40.778,
+   "end_sec": 42.97,
+   "duration_sec": 2.192
+  },
+  {
+   "turn_id": "C38-D010",
+   "turn_index": 11,
+   "speaker": "原",
+   "source_text": "お願いします。掛かっている写真は今のままで。",
+   "sentence_ids": [
+    "C38-D010-S01",
+    "C38-D010-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 43.32,
+   "end_sec": 46.807,
+   "duration_sec": 3.487
+  },
+  {
+   "turn_id": "C38-D011",
+   "turn_index": 12,
+   "speaker": "西田",
+   "source_text": "後始末は一緒にしましょう。",
+   "sentence_ids": [
+    "C38-D011-S01"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.157,
+   "end_sec": 48.977,
+   "duration_sec": 1.82
+  },
+  {
+   "turn_id": "C38-D012",
+   "turn_index": 13,
+   "speaker": "原",
+   "source_text": "はい、五時までに返却します。",
+   "sentence_ids": [
+    "C38-D012-S01"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 49.327,
+   "end_sec": 51.552,
+   "duration_sec": 2.225
+  },
+  {
+   "turn_id": "C38-D015",
+   "turn_index": 14,
+   "speaker": "西田",
+   "source_text": "撮影の説明も見ました。フラッシュモードを変えたきり、戻さなかったんですね。",
+   "sentence_ids": [
+    "C38-D015-S01",
+    "C38-D015-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.452,
+   "end_sec": 57.776,
+   "duration_sec": 5.324
+  },
+  {
+   "turn_id": "C38-D016",
+   "turn_index": 15,
+   "speaker": "原",
+   "source_text": "ええ。ついシャッターを押してしまいました。レンズの前に指もありました。",
+   "sentence_ids": [
+    "C38-D016-S01",
+    "C38-D016-S02",
+    "C38-D016-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 58.126,
+   "end_sec": 62.734,
+   "duration_sec": 4.608
+  },
+  {
+   "turn_id": "C38-D017",
+   "turn_index": 16,
+   "speaker": "西田",
+   "source_text": "ズームを使った港の写真はきれいです。これは船で撮りましたか。",
+   "sentence_ids": [
+    "C38-D017-S01",
+    "C38-D017-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.084,
+   "end_sec": 68.206,
+   "duration_sec": 5.122
+  },
+  {
+   "turn_id": "C38-D018",
+   "turn_index": 17,
+   "speaker": "原",
+   "source_text": "フェリーで撮りました。貴重品は身につけて、大きな荷物はコイン・ロッカーに入れました。",
+   "sentence_ids": [
+    "C38-D018-S01",
+    "C38-D018-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.556,
+   "end_sec": 74.152,
+   "duration_sec": 5.596
+  },
+  {
+   "turn_id": "C38-D019",
+   "turn_index": 18,
+   "speaker": "西田",
+   "source_text": "旅先の交通機関もよく調べていますね。",
+   "sentence_ids": [
+    "C38-D019-S01"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 74.502,
+   "end_sec": 78.084,
+   "duration_sec": 3.582
+  },
+  {
+   "turn_id": "C38-D020",
+   "turn_index": 19,
+   "speaker": "原",
+   "source_text": "次の便は明朝でした。今さら急いでもしかたがないので、宿を取りました。",
+   "sentence_ids": [
+    "C38-D020-S01",
+    "C38-D020-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 78.434,
+   "end_sec": 83.461,
+   "duration_sec": 5.027
+  },
+  {
+   "turn_id": "C38-D021",
+   "turn_index": 20,
+   "speaker": "西田",
+   "source_text": "やれやれ、写真が全部揃いましたね。",
+   "sentence_ids": [
+    "C38-D021-S01"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 83.811,
+   "end_sec": 86.665,
+   "duration_sec": 2.854
+  },
+  {
+   "turn_id": "C38-D022",
+   "turn_index": 21,
+   "speaker": "原",
+   "source_text": "一時的に借りたケーブルで済みました。説明の紙を張り替えて、後は受付だけです。",
+   "sentence_ids": [
+    "C38-D022-S01",
+    "C38-D022-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 87.015,
+   "end_sec": 92.757,
+   "duration_sec": 5.742
+  },
+  {
+   "turn_id": "C38-D023",
+   "turn_index": 22,
+   "speaker": "西田",
+   "source_text": "こちらはドライブの写真ですね。荷物を積んだトラックの後ろを走って、島を一周したんですか。",
+   "sentence_ids": [
+    "C38-D023-S01",
+    "C38-D023-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.107,
+   "end_sec": 100.653,
+   "duration_sec": 7.546
+  },
+  {
+   "turn_id": "C38-D024",
+   "turn_index": 23,
+   "speaker": "原",
+   "source_text": "ええ。ワゴン車で行きました。帰りには友達を乗せて、港まで送りました。",
+   "sentence_ids": [
+    "C38-D024-S01",
+    "C38-D024-S02",
+    "C38-D024-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 101.003,
+   "end_sec": 106.832,
+   "duration_sec": 5.829
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C38-D001-S01",
+   "unit_id": "C38-D001",
+   "section": "D",
+   "speaker": "西田",
+   "text": "原さん、予め控えを取った写真は残っていますか。",
+   "start_sec": 0.0,
+   "end_sec": 3.968,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D002-S01",
+   "unit_id": "C38-D002",
+   "section": "D",
+   "speaker": "原",
+   "text": "ええ。",
+   "start_sec": 4.318,
+   "end_sec": 5.115,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D002-S02",
+   "unit_id": "C38-D002",
+   "section": "D",
+   "speaker": "原",
+   "text": "でも、USBメモリは確かめないまま操作しました。",
+   "start_sec": 5.265,
+   "end_sec": 8.737,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D003-S01",
+   "unit_id": "C38-D003",
+   "section": "D",
+   "speaker": "西田",
+   "text": "それは残念でしたね。",
+   "start_sec": 9.087,
+   "end_sec": 10.93,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D003-S02",
+   "unit_id": "C38-D003",
+   "section": "D",
+   "speaker": "西田",
+   "text": "後は一緒に手順を確かめましょう。",
+   "start_sec": 11.08,
+   "end_sec": 13.339,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D004-S01",
+   "unit_id": "C38-D004",
+   "section": "D",
+   "speaker": "原",
+   "text": "十七枚と三枚で全部です。",
+   "start_sec": 13.689,
+   "end_sec": 15.869,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D004-S02",
+   "unit_id": "C38-D004",
+   "section": "D",
+   "speaker": "原",
+   "text": "二度と同じミスはしません。",
+   "start_sec": 16.019,
+   "end_sec": 17.637,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D005-S01",
+   "unit_id": "C38-D005",
+   "section": "D",
+   "speaker": "西田",
+   "text": "まず三枚を移してください。",
+   "start_sec": 17.987,
+   "end_sec": 20.284,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D005-S02",
+   "unit_id": "C38-D005",
+   "section": "D",
+   "speaker": "西田",
+   "text": "USBメモリは一先ず使わないで。",
+   "start_sec": 20.434,
+   "end_sec": 23.114,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D006-S01",
+   "unit_id": "C38-D006",
+   "section": "D",
+   "speaker": "原",
+   "text": "月曜日に小川さんに相談します。",
+   "start_sec": 23.464,
+   "end_sec": 25.622,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D006-S02",
+   "unit_id": "C38-D006",
+   "section": "D",
+   "speaker": "原",
+   "text": "忘れたケーブルも必要です。",
+   "start_sec": 25.772,
+   "end_sec": 27.527,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D007-S01",
+   "unit_id": "C38-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "予備を持ってきます。",
+   "start_sec": 27.877,
+   "end_sec": 29.165,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D007-S02",
+   "unit_id": "C38-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "先に写真の準備を済ませてしまってください。",
+   "start_sec": 29.315,
+   "end_sec": 32.204,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D008-S01",
+   "unit_id": "C38-D008",
+   "section": "D",
+   "speaker": "原",
+   "text": "三十分ぐらいでできます。",
+   "start_sec": 32.554,
+   "end_sec": 34.273,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D008-S02",
+   "unit_id": "C38-D008",
+   "section": "D",
+   "speaker": "原",
+   "text": "時間を取り返せそうです。",
+   "start_sec": 34.423,
+   "end_sec": 36.004,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D013-S01",
+   "unit_id": "C38-D013",
+   "section": "D",
+   "speaker": "西田",
+   "text": "バッテリーは大丈夫ですか。",
+   "start_sec": 36.354,
+   "end_sec": 38.124,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D014-S01",
+   "unit_id": "C38-D014",
+   "section": "D",
+   "speaker": "原",
+   "text": "まえもって充電しました。",
+   "start_sec": 38.474,
+   "end_sec": 40.428,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D009-S01",
+   "unit_id": "C38-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "では、フレームを取り替えます。",
+   "start_sec": 40.778,
+   "end_sec": 42.97,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D010-S01",
+   "unit_id": "C38-D010",
+   "section": "D",
+   "speaker": "原",
+   "text": "お願いします。",
+   "start_sec": 43.32,
+   "end_sec": 44.423,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D010-S02",
+   "unit_id": "C38-D010",
+   "section": "D",
+   "speaker": "原",
+   "text": "掛かっている写真は今のままで。",
+   "start_sec": 44.573,
+   "end_sec": 46.807,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D011-S01",
+   "unit_id": "C38-D011",
+   "section": "D",
+   "speaker": "西田",
+   "text": "後始末は一緒にしましょう。",
+   "start_sec": 47.157,
+   "end_sec": 48.977,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D012-S01",
+   "unit_id": "C38-D012",
+   "section": "D",
+   "speaker": "原",
+   "text": "はい、五時までに返却します。",
+   "start_sec": 49.327,
+   "end_sec": 51.552,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D015-S01",
+   "unit_id": "C38-D015",
+   "section": "D",
+   "speaker": "西田",
+   "text": "撮影の説明も見ました。",
+   "start_sec": 52.452,
+   "end_sec": 54.413,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D015-S02",
+   "unit_id": "C38-D015",
+   "section": "D",
+   "speaker": "西田",
+   "text": "フラッシュモードを変えたきり、戻さなかったんですね。",
+   "start_sec": 54.563,
+   "end_sec": 57.776,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D016-S01",
+   "unit_id": "C38-D016",
+   "section": "D",
+   "speaker": "原",
+   "text": "ええ。",
+   "start_sec": 58.126,
+   "end_sec": 58.742,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D016-S02",
+   "unit_id": "C38-D016",
+   "section": "D",
+   "speaker": "原",
+   "text": "ついシャッターを押してしまいました。",
+   "start_sec": 58.892,
+   "end_sec": 60.812,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D016-S03",
+   "unit_id": "C38-D016",
+   "section": "D",
+   "speaker": "原",
+   "text": "レンズの前に指もありました。",
+   "start_sec": 60.962,
+   "end_sec": 62.734,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D017-S01",
+   "unit_id": "C38-D017",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ズームを使った港の写真はきれいです。",
+   "start_sec": 63.084,
+   "end_sec": 65.999,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D017-S02",
+   "unit_id": "C38-D017",
+   "section": "D",
+   "speaker": "西田",
+   "text": "これは船で撮りましたか。",
+   "start_sec": 66.149,
+   "end_sec": 68.206,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D018-S01",
+   "unit_id": "C38-D018",
+   "section": "D",
+   "speaker": "原",
+   "text": "フェリーで撮りました。",
+   "start_sec": 68.556,
+   "end_sec": 70.029,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D018-S02",
+   "unit_id": "C38-D018",
+   "section": "D",
+   "speaker": "原",
+   "text": "貴重品は身につけて、大きな荷物はコイン・ロッカーに入れました。",
+   "start_sec": 70.179,
+   "end_sec": 74.152,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D019-S01",
+   "unit_id": "C38-D019",
+   "section": "D",
+   "speaker": "西田",
+   "text": "旅先の交通機関もよく調べていますね。",
+   "start_sec": 74.502,
+   "end_sec": 78.084,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D020-S01",
+   "unit_id": "C38-D020",
+   "section": "D",
+   "speaker": "原",
+   "text": "次の便は明朝でした。",
+   "start_sec": 78.434,
+   "end_sec": 80.267,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D020-S02",
+   "unit_id": "C38-D020",
+   "section": "D",
+   "speaker": "原",
+   "text": "今さら急いでもしかたがないので、宿を取りました。",
+   "start_sec": 80.417,
+   "end_sec": 83.461,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D021-S01",
+   "unit_id": "C38-D021",
+   "section": "D",
+   "speaker": "西田",
+   "text": "やれやれ、写真が全部揃いましたね。",
+   "start_sec": 83.811,
+   "end_sec": 86.665,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D022-S01",
+   "unit_id": "C38-D022",
+   "section": "D",
+   "speaker": "原",
+   "text": "一時的に借りたケーブルで済みました。",
+   "start_sec": 87.015,
+   "end_sec": 89.418,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D022-S02",
+   "unit_id": "C38-D022",
+   "section": "D",
+   "speaker": "原",
+   "text": "説明の紙を張り替えて、後は受付だけです。",
+   "start_sec": 89.568,
+   "end_sec": 92.757,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D023-S01",
+   "unit_id": "C38-D023",
+   "section": "D",
+   "speaker": "西田",
+   "text": "こちらはドライブの写真ですね。",
+   "start_sec": 93.107,
+   "end_sec": 95.469,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D023-S02",
+   "unit_id": "C38-D023",
+   "section": "D",
+   "speaker": "西田",
+   "text": "荷物を積んだトラックの後ろを走って、島を一周したんですか。",
+   "start_sec": 95.619,
+   "end_sec": 100.653,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D024-S01",
+   "unit_id": "C38-D024",
+   "section": "D",
+   "speaker": "原",
+   "text": "ええ。",
+   "start_sec": 101.003,
+   "end_sec": 101.628,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D024-S02",
+   "unit_id": "C38-D024",
+   "section": "D",
+   "speaker": "原",
+   "text": "ワゴン車で行きました。",
+   "start_sec": 101.778,
+   "end_sec": 103.198,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C38-D024-S03",
+   "unit_id": "C38-D024",
+   "section": "D",
+   "speaker": "原",
+   "text": "帰りには友達を乗せて、港まで送りました。",
+   "start_sec": 103.348,
+   "end_sec": 106.832,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

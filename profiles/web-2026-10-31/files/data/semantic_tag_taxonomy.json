@@ -1,0 +1,549 @@
+{
+  "taxonomy_name": "semantic_tag_taxonomy",
+  "taxonomy_kind": "hierarchy",
+  "version": "1.0.0",
+  "unknown_code": "unknown",
+  "description": "日语词汇图谱的语义标签 taxonomy，适合本地模型受限分类。",
+  "items": [
+    {
+      "code": "unknown",
+      "label_zh": "未知标签",
+      "parent_code": null,
+      "level": 0,
+      "description": "无法稳定判定语义标签时使用的保底项。",
+      "aliases": ["未知标签", "未知", "不明", "unknown"],
+      "examples": ["不詳"],
+      "status": "active"
+    },
+    {
+      "code": "progress",
+      "label_zh": "推进",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示过程推进、进度展开或向前推进的语义。",
+      "aliases": ["推进", "进展", "进度", "progress", "advance"],
+      "examples": ["進む", "進展", "前へ"],
+      "status": "active"
+    },
+    {
+      "code": "efficiency",
+      "label_zh": "效率",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示省时省力、效率高低或处理流畅的语义。",
+      "aliases": ["效率", "高效", "效能", "efficiency", "effective"],
+      "examples": ["効率", "能率", "手早い"],
+      "status": "active"
+    },
+    {
+      "code": "control",
+      "label_zh": "控制",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示控制、支配、掌握或施加影响的语义。",
+      "aliases": ["控制", "掌控", "管控", "control"],
+      "examples": ["制御", "支配", "握る"],
+      "status": "active"
+    },
+    {
+      "code": "change",
+      "label_zh": "变化",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示改变、转变或发生变化的语义。",
+      "aliases": ["变化", "改变", "转变", "change", "shift"],
+      "examples": ["変化", "変わる", "転じる"],
+      "status": "active"
+    },
+    {
+      "code": "result",
+      "label_zh": "结果",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示结果、成果、结局或产出的语义。",
+      "aliases": ["结果", "成果", "结局", "result", "outcome"],
+      "examples": ["結果", "成果", "結末"],
+      "status": "active"
+    },
+    {
+      "code": "state",
+      "label_zh": "状态",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示状态、安定性和状态特征的语义。",
+      "aliases": ["状态", "状况", "样态", "state", "condition"],
+      "examples": ["状態", "様子", "安定"],
+      "status": "active"
+    },
+    {
+      "code": "degree_high",
+      "label_zh": "高程度",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示程度较高、强度较强或上升的语义。",
+      "aliases": ["高程度", "程度高", "强", "degree high", "high degree"],
+      "examples": ["非常に", "強い", "大きい"],
+      "status": "active"
+    },
+    {
+      "code": "degree_low",
+      "label_zh": "低程度",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示程度较低、强度较弱或下降的语义。",
+      "aliases": ["低程度", "程度低", "弱", "degree low", "low degree"],
+      "examples": ["少し", "弱い", "小さい"],
+      "status": "active"
+    },
+    {
+      "code": "evaluation_positive",
+      "label_zh": "正向评价",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示正面评价、认可、优点或价值高的语义。",
+      "aliases": ["正向评价", "积极评价", "好评", "evaluation positive", "positive evaluation"],
+      "examples": ["良い", "優秀", "望ましい"],
+      "status": "active"
+    },
+    {
+      "code": "evaluation_negative",
+      "label_zh": "负向评价",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示负面评价、缺点、不足或价值低的语义。",
+      "aliases": ["负向评价", "消极评价", "差评", "evaluation negative", "negative evaluation"],
+      "examples": ["悪い", "不適切", "劣る"],
+      "status": "active"
+    },
+    {
+      "code": "possibility",
+      "label_zh": "可能性",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示可能、潜在、也许发生或可行的语义。",
+      "aliases": ["可能性", "可能", "可行", "possibility", "potential"],
+      "examples": ["可能", "あり得る", "見込み"],
+      "status": "active"
+    },
+    {
+      "code": "necessity",
+      "label_zh": "必要性",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示必须、必要、义务或不可缺少的语义。",
+      "aliases": ["必要性", "必要", "必须", "necessity", "required"],
+      "examples": ["必要", "欠かせない", "要る"],
+      "status": "active"
+    },
+    {
+      "code": "cause",
+      "label_zh": "原因",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示原因、起因或触发因素的语义。",
+      "aliases": ["原因", "起因", "缘由", "cause", "reason"],
+      "examples": ["原因", "もと", "きっかけ"],
+      "status": "active"
+    },
+    {
+      "code": "effect",
+      "label_zh": "结果效应",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示带来的效果、后果或作用结果的语义。",
+      "aliases": ["结果效应", "效果", "后果", "effect", "impact"],
+      "examples": ["効果", "影響", "結果"],
+      "status": "active"
+    },
+    {
+      "code": "comparison",
+      "label_zh": "比较",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示比较、对照、相对差异的语义。",
+      "aliases": ["比较", "对比比较", "比照", "comparison", "compare"],
+      "examples": ["比べる", "比較", "より"],
+      "status": "active"
+    },
+    {
+      "code": "contrast",
+      "label_zh": "对比",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示鲜明差异、反差或相对对立的语义。",
+      "aliases": ["对比", "反差", "对照差异", "contrast"],
+      "examples": ["対照", "対比", "対する"],
+      "status": "active"
+    },
+    {
+      "code": "preference",
+      "label_zh": "偏好",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示偏爱、倾向选择或个人喜好的语义。",
+      "aliases": ["偏好", "喜好", "偏爱", "preference", "liking"],
+      "examples": ["好み", "好き", "お気に入り"],
+      "status": "active"
+    },
+    {
+      "code": "emotion_positive",
+      "label_zh": "积极情绪",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示愉快、安心、满足等积极情绪的语义。",
+      "aliases": ["积极情绪", "正向情绪", "快乐", "emotion positive", "positive emotion"],
+      "examples": ["うれしい", "安心", "満足"],
+      "status": "active"
+    },
+    {
+      "code": "emotion_negative",
+      "label_zh": "消极情绪",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示消极、不快、低落等负面情绪的语义。",
+      "aliases": ["消极情绪", "负向情绪", "负面情绪", "emotion negative", "negative emotion"],
+      "examples": ["つらい", "落ち込む", "嫌だ"],
+      "status": "active"
+    },
+    {
+      "code": "thought",
+      "label_zh": "思考",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示思考、推敲、构想和认知处理的语义。",
+      "aliases": ["思考", "思维", "考虑", "thought", "thinking"],
+      "examples": ["考える", "思案", "発想"],
+      "status": "active"
+    },
+    {
+      "code": "communication",
+      "label_zh": "沟通",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示表达、传达、书写和互动交流的语义。",
+      "aliases": ["沟通", "交流", "表达", "communication"],
+      "examples": ["伝える", "話す", "書く"],
+      "status": "active"
+    },
+    {
+      "code": "relationship",
+      "label_zh": "关系",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示人与人之间关系、互动联结的语义。",
+      "aliases": ["关系", "人际关系", "关联关系", "relationship"],
+      "examples": ["関係", "仲", "つながり"],
+      "status": "active"
+    },
+    {
+      "code": "movement",
+      "label_zh": "移动",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示位移、移动、搬运和空间转移的语义。",
+      "aliases": ["移动", "位移", "运动", "movement", "motion"],
+      "examples": ["動く", "移る", "運ぶ"],
+      "status": "active"
+    },
+    {
+      "code": "frequency",
+      "label_zh": "频率",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示重复出现的次数、频繁程度的语义。",
+      "aliases": ["频率", "次数", "频度", "frequency"],
+      "examples": ["頻繁", "何度も", "たびたび"],
+      "status": "active"
+    },
+    {
+      "code": "duration",
+      "label_zh": "持续",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示持续时间、维持时长和延续性的语义。",
+      "aliases": ["持续", "时长", "持续时间", "duration"],
+      "examples": ["しばらく", "長く", "続く"],
+      "status": "active"
+    },
+    {
+      "code": "tendency",
+      "label_zh": "倾向",
+      "parent_code": null,
+      "level": 1,
+      "description": "表示趋向、倾向性或经常呈现的方向。",
+      "aliases": ["倾向", "趋势", "趋向", "tendency", "trend"],
+      "examples": ["傾向", "がち", "向かう"],
+      "status": "active"
+    },
+    {
+      "code": "smooth_advance",
+      "label_zh": "顺利推进",
+      "parent_code": "progress",
+      "level": 2,
+      "description": "表示推进顺畅、没有明显阻碍的语义。",
+      "aliases": ["顺利推进", "进展顺利", "顺畅推进", "smooth advance", "smooth progress"],
+      "examples": ["はかどる", "順調", "進みがよい"],
+      "status": "active"
+    },
+    {
+      "code": "obstruction",
+      "label_zh": "阻碍",
+      "parent_code": "progress",
+      "level": 2,
+      "description": "表示推进受阻、妨碍或卡住的语义。",
+      "aliases": ["阻碍", "妨碍", "受阻", "obstruction", "hindrance"],
+      "examples": ["妨げ", "滞る", "行き詰まる"],
+      "status": "active"
+    },
+    {
+      "code": "manipulation",
+      "label_zh": "操控",
+      "parent_code": "control",
+      "level": 2,
+      "description": "表示操控、摆布、左右对象或局面的语义。",
+      "aliases": ["操控", "摆布", "支配", "manipulation"],
+      "examples": ["操る", "左右する", "支配"],
+      "status": "active"
+    },
+    {
+      "code": "operation",
+      "label_zh": "操作",
+      "parent_code": "control",
+      "level": 2,
+      "description": "表示具体动手操作、执行步骤和使用的语义。",
+      "aliases": ["操作", "执行", "动手操作", "operation"],
+      "examples": ["操作", "扱う", "実行"],
+      "status": "active"
+    },
+    {
+      "code": "management",
+      "label_zh": "管理",
+      "parent_code": "control",
+      "level": 2,
+      "description": "表示统筹、治理、持续管理和安排的语义。",
+      "aliases": ["管理", "统筹", "治理", "management"],
+      "examples": ["管理", "運営", "監督"],
+      "status": "active"
+    },
+    {
+      "code": "adjustment",
+      "label_zh": "调整",
+      "parent_code": "control",
+      "level": 2,
+      "description": "表示调节、修正、配平和微调的语义。",
+      "aliases": ["调整", "调节", "修正", "adjustment", "tuning"],
+      "examples": ["調整", "整える", "修正"],
+      "status": "active"
+    },
+    {
+      "code": "hidden_control",
+      "label_zh": "隐性控制",
+      "parent_code": "control",
+      "level": 2,
+      "description": "表示不直接显露、通过影响或布局完成控制的语义。",
+      "aliases": ["隐性控制", "暗中控制", "幕后操控", "hidden control"],
+      "examples": ["裏で動かす", "水面下", "影響力"],
+      "status": "active"
+    },
+    {
+      "code": "direct_control",
+      "label_zh": "直接控制",
+      "parent_code": "control",
+      "level": 2,
+      "description": "表示明确、显式、正面施加控制的语义。",
+      "aliases": ["直接控制", "明面控制", "直接支配", "direct control"],
+      "examples": ["直接指示", "制御する", "握る"],
+      "status": "active"
+    },
+    {
+      "code": "change_of_state",
+      "label_zh": "状态变化",
+      "parent_code": "state",
+      "level": 2,
+      "description": "表示状态由一种样态转入另一种样态的语义。",
+      "aliases": ["状态变化", "状态转变", "变状态", "change of state"],
+      "examples": ["変わる", "移り変わる", "転じる"],
+      "status": "active"
+    },
+    {
+      "code": "stability",
+      "label_zh": "稳定",
+      "parent_code": "state",
+      "level": 2,
+      "description": "表示稳定、平稳、持续保持不变的语义。",
+      "aliases": ["稳定", "安定", "平稳", "stability", "stable"],
+      "examples": ["安定", "落ち着く", "一定"],
+      "status": "active"
+    },
+    {
+      "code": "instability",
+      "label_zh": "不稳定",
+      "parent_code": "state",
+      "level": 2,
+      "description": "表示不稳、波动、摇摆或难以维持的语义。",
+      "aliases": ["不稳定", "波动", "不安定", "instability", "unstable"],
+      "examples": ["不安定", "揺れる", "変動"],
+      "status": "active"
+    },
+    {
+      "code": "understanding",
+      "label_zh": "理解",
+      "parent_code": "thought",
+      "level": 2,
+      "description": "表示明白、领会和把握内容的语义。",
+      "aliases": ["理解", "明白", "领会", "understanding", "comprehension"],
+      "examples": ["理解", "わかる", "把握"],
+      "status": "active"
+    },
+    {
+      "code": "judgment",
+      "label_zh": "判断",
+      "parent_code": "thought",
+      "level": 2,
+      "description": "表示评判、判定、决断和取舍的语义。",
+      "aliases": ["判断", "判定", "决断", "judgment", "decision"],
+      "examples": ["判断", "決める", "見極める"],
+      "status": "active"
+    },
+    {
+      "code": "memory",
+      "label_zh": "记忆",
+      "parent_code": "thought",
+      "level": 2,
+      "description": "表示记住、回想、记忆保持和提取的语义。",
+      "aliases": ["记忆", "回忆", "记住", "memory", "recall"],
+      "examples": ["記憶", "覚える", "思い出す"],
+      "status": "active"
+    },
+    {
+      "code": "attention",
+      "label_zh": "注意",
+      "parent_code": "thought",
+      "level": 2,
+      "description": "表示留意、聚焦和注意力分配的语义。",
+      "aliases": ["注意", "留意", "关注", "attention", "focus"],
+      "examples": ["注意", "注目", "気をつける"],
+      "status": "active"
+    },
+    {
+      "code": "request",
+      "label_zh": "请求",
+      "parent_code": "communication",
+      "level": 2,
+      "description": "表示请求、拜托、要求对方行动的语义。",
+      "aliases": ["请求", "拜托", "要求", "request"],
+      "examples": ["頼む", "依頼", "お願い"],
+      "status": "active"
+    },
+    {
+      "code": "notice",
+      "label_zh": "通知",
+      "parent_code": "communication",
+      "level": 2,
+      "description": "表示告知、通报、提醒和传达信息的语义。",
+      "aliases": ["通知", "告知", "通报", "notice", "announcement"],
+      "examples": ["知らせる", "通知", "案内"],
+      "status": "active"
+    },
+    {
+      "code": "discussion",
+      "label_zh": "讨论",
+      "parent_code": "communication",
+      "level": 2,
+      "description": "表示讨论、协商、辩论和意见交换的语义。",
+      "aliases": ["讨论", "协商", "商量", "discussion", "debate"],
+      "examples": ["議論", "相談", "話し合う"],
+      "status": "active"
+    },
+    {
+      "code": "verbal_expression",
+      "label_zh": "口头表达",
+      "parent_code": "communication",
+      "level": 2,
+      "description": "表示说话、发言、口头说明的语义。",
+      "aliases": ["口头表达", "口语表达", "说话表达", "verbal expression", "oral expression"],
+      "examples": ["話す", "述べる", "口にする"],
+      "status": "active"
+    },
+    {
+      "code": "written_expression",
+      "label_zh": "书面表达",
+      "parent_code": "communication",
+      "level": 2,
+      "description": "表示书写、撰写、记录和文字表达的语义。",
+      "aliases": ["书面表达", "文字表达", "写作表达", "written expression", "written communication"],
+      "examples": ["書く", "記す", "記録する"],
+      "status": "active"
+    },
+    {
+      "code": "cooperation",
+      "label_zh": "合作",
+      "parent_code": "relationship",
+      "level": 2,
+      "description": "表示协力、配合、共同完成的语义。",
+      "aliases": ["合作", "协作", "配合", "cooperation", "collaboration"],
+      "examples": ["協力", "連携", "助け合う"],
+      "status": "active"
+    },
+    {
+      "code": "conflict",
+      "label_zh": "冲突",
+      "parent_code": "relationship",
+      "level": 2,
+      "description": "表示争执、对立、摩擦和冲撞的语义。",
+      "aliases": ["冲突", "对立", "争执", "conflict", "friction"],
+      "examples": ["対立", "争い", "衝突"],
+      "status": "active"
+    },
+    {
+      "code": "transfer",
+      "label_zh": "转移",
+      "parent_code": "movement",
+      "level": 2,
+      "description": "表示搬运、转交、输送或空间转移的语义。",
+      "aliases": ["转移", "搬运", "转交", "transfer", "convey"],
+      "examples": ["運ぶ", "移す", "渡す"],
+      "status": "active"
+    },
+    {
+      "code": "anxiety",
+      "label_zh": "焦虑",
+      "parent_code": "emotion_negative",
+      "level": 2,
+      "description": "表示担心、焦躁、紧张和不安的语义。",
+      "aliases": ["焦虑", "不安", "担心", "anxiety", "worry"],
+      "examples": ["不安", "心配", "緊張"],
+      "status": "active"
+    },
+    {
+      "code": "anger",
+      "label_zh": "愤怒",
+      "parent_code": "emotion_negative",
+      "level": 2,
+      "description": "表示生气、恼怒、愤慨和火气的语义。",
+      "aliases": ["愤怒", "生气", "恼火", "anger", "rage"],
+      "examples": ["怒る", "腹が立つ", "いら立つ"],
+      "status": "active"
+    },
+    {
+      "code": "sadness",
+      "label_zh": "悲伤",
+      "parent_code": "emotion_negative",
+      "level": 2,
+      "description": "表示难过、哀伤、失落和悲痛的语义。",
+      "aliases": ["悲伤", "伤心", "难过", "sadness", "sorrow"],
+      "examples": ["悲しい", "寂しい", "落胆"],
+      "status": "active"
+    },
+    {
+      "code": "habit",
+      "label_zh": "习惯",
+      "parent_code": "tendency",
+      "level": 2,
+      "description": "表示经常化、固定做法和习惯性重复的语义。",
+      "aliases": ["习惯", "惯常", "习惯性", "habit", "customary"],
+      "examples": ["習慣", "いつも", "癖"],
+      "status": "active"
+    }
+  ]
+}

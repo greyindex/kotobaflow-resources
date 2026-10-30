@@ -1,0 +1,73 @@
+{
+  "taxonomy_name": "transitivity",
+  "taxonomy_kind": "enum",
+  "version": "2.0.0",
+  "unknown_code": "unknown",
+  "description": "transitivity v2 closed vocabulary.",
+  "items": [
+    {
+      "code": "transitive",
+      "label_zh": "他动",
+      "label_ja": "他動詞",
+      "status": "active"
+    },
+    {
+      "code": "intransitive",
+      "label_zh": "自动",
+      "label_ja": "自動詞",
+      "status": "active"
+    },
+    {
+      "code": "both",
+      "label_zh": "自他两用",
+      "label_ja": "自他両用",
+      "status": "active"
+    },
+    {
+      "code": "not_applicable",
+      "label_zh": "不适用",
+      "label_ja": "該当なし",
+      "status": "active"
+    },
+    {
+      "code": "unknown",
+      "label_zh": "未知",
+      "label_ja": "不明",
+      "status": "active"
+    }
+  ],
+  "dimensions": {
+    "scope": [
+      {
+        "code": "lexeme",
+        "label_zh": "词项",
+        "label_ja": "語彙",
+        "status": "active"
+      },
+      {
+        "code": "suru",
+        "label_zh": "サ变",
+        "label_ja": "サ変",
+        "status": "active"
+      },
+      {
+        "code": "phrase",
+        "label_zh": "短语",
+        "label_ja": "句",
+        "status": "active"
+      },
+      {
+        "code": "auxiliary",
+        "label_zh": "助动词",
+        "label_ja": "助動詞",
+        "status": "active"
+      },
+      {
+        "code": "not_applicable",
+        "label_zh": "不适用",
+        "label_ja": "該当なし",
+        "status": "active"
+      }
+    ]
+  }
+}

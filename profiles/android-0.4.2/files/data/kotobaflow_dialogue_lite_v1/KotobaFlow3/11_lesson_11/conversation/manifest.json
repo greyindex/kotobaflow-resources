@@ -1,0 +1,792 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 131.591,
+ "listening_review": "pending",
+ "source_chapter": 47,
+ "turns": [
+  {
+   "turn_id": "C47-D001",
+   "turn_index": 0,
+   "speaker": "アナ",
+   "source_text": "まもなく始めますね。佐藤さん、今日は何を持ってきましたか。さっと読める長さですか。",
+   "sentence_ids": [
+    "C47-D001-S01",
+    "C47-D001-S02",
+    "C47-D001-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 6.724,
+   "duration_sec": 6.724
+  },
+  {
+   "turn_id": "C47-D002",
+   "turn_index": 1,
+   "speaker": "佐藤",
+   "source_text": "三行の報告メモです。会社や人の名前はありません。書いたばかりのメモなので、まだ直す所があります。",
+   "sentence_ids": [
+    "C47-D002-S01",
+    "C47-D002-S02",
+    "C47-D002-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.074,
+   "end_sec": 14.572,
+   "duration_sec": 7.498
+  },
+  {
+   "turn_id": "C47-D003",
+   "turn_index": 2,
+   "speaker": "ミン",
+   "source_text": "私はたった今、今日の録音の確認を終えたところです。皆さんが来た時は、最後の部分を聞いているところでした。",
+   "sentence_ids": [
+    "C47-D003-S01",
+    "C47-D003-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 14.922,
+   "end_sec": 22.659,
+   "duration_sec": 7.737
+  },
+  {
+   "turn_id": "C47-D004",
+   "turn_index": 3,
+   "speaker": "アナ",
+   "source_text": "では、先に目的を確認しましょう。他の人に追いつくためですか。それとも伝える力を伸ばすためですか。",
+   "sentence_ids": [
+    "C47-D004-S01",
+    "C47-D004-S02",
+    "C47-D004-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 23.009,
+   "end_sec": 31.298,
+   "duration_sec": 8.289
+  },
+  {
+   "turn_id": "C47-D005",
+   "turn_index": 4,
+   "speaker": "ミン",
+   "source_text": "短い報告ができるように練習しています。でも最近は時間ばかり気にして、二分を過ぎると、急いで話を終えていました。",
+   "sentence_ids": [
+    "C47-D005-S01",
+    "C47-D005-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 31.648,
+   "end_sec": 40.222,
+   "duration_sec": 8.574
+  },
+  {
+   "turn_id": "C47-D006",
+   "turn_index": 5,
+   "speaker": "佐藤",
+   "source_text": "意味が分かるかどうかにも触れましょう。聞き手に顔を向けることも大切ですね。十二月の録音はありますか。",
+   "sentence_ids": [
+    "C47-D006-S01",
+    "C47-D006-S02",
+    "C47-D006-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 40.572,
+   "end_sec": 47.344,
+   "duration_sec": 6.772
+  },
+  {
+   "turn_id": "C47-D007",
+   "turn_index": 6,
+   "speaker": "ミン",
+   "source_text": "はい、今探しているところです。ファイルに日付の名前をつけるようにしています。これなら順番が分かります。",
+   "sentence_ids": [
+    "C47-D007-S01",
+    "C47-D007-S02",
+    "C47-D007-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.694,
+   "end_sec": 54.215,
+   "duration_sec": 6.521
+  },
+  {
+   "turn_id": "C47-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "前より黙る時間が短いですね。いよいよ内容を見直す段階です。一分間で伝えたいことを話してみませんか。",
+   "sentence_ids": [
+    "C47-D008-S01",
+    "C47-D008-S02",
+    "C47-D008-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 54.565,
+   "end_sec": 62.769,
+   "duration_sec": 8.204
+  },
+  {
+   "turn_id": "C47-D009",
+   "turn_index": 8,
+   "speaker": "ミン",
+   "source_text": "はい。一月末までの短期目標にします。質問に答える力は長期目標です。記録の表も作りたいです。",
+   "sentence_ids": [
+    "C47-D009-S01",
+    "C47-D009-S02",
+    "C47-D009-S03",
+    "C47-D009-S04"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.119,
+   "end_sec": 72.377,
+   "duration_sec": 9.258
+  },
+  {
+   "turn_id": "C47-D010",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "この先も続けるのに、表は便利ですね。できなかった日は空欄を無理に埋める必要はありません。理由だけ書きましょう。",
+   "sentence_ids": [
+    "C47-D010-S01",
+    "C47-D010-S02",
+    "C47-D010-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 72.727,
+   "end_sec": 81.158,
+   "duration_sec": 8.431
+  },
+  {
+   "turn_id": "C47-D011",
+   "turn_index": 10,
+   "speaker": "佐藤",
+   "source_text": "私はメモを二回試します。働き始めた頃は毎日長い報告を書いていました。忙しい中で働き続けるのに、簡潔な報告が必要です。",
+   "sentence_ids": [
+    "C47-D011-S01",
+    "C47-D011-S02",
+    "C47-D011-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.508,
+   "end_sec": 91.545,
+   "duration_sec": 10.037
+  },
+  {
+   "turn_id": "C47-D012",
+   "turn_index": 11,
+   "speaker": "ミン",
+   "source_text": "アナさんの練習はどうですか。前に分からないことをもう一度聞くと言っていましたね。",
+   "sentence_ids": [
+    "C47-D012-S01",
+    "C47-D012-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 91.895,
+   "end_sec": 97.988,
+   "duration_sec": 6.093
+  },
+  {
+   "turn_id": "C47-D013",
+   "turn_index": 12,
+   "speaker": "アナ",
+   "source_text": "分からないまま終えることは減ってきました。今から記録を書き始めるところです。進行はゆっくりですが、続けます。",
+   "sentence_ids": [
+    "C47-D013-S01",
+    "C47-D013-S02",
+    "C47-D013-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 98.338,
+   "end_sec": 106.287,
+   "duration_sec": 7.949
+  },
+  {
+   "turn_id": "C47-D014",
+   "turn_index": 13,
+   "speaker": "佐藤",
+   "source_text": "では一月二十日に記録を持ってきましょう。私はこれで失礼します。帰る前に受付を回って、このメモのコピーをもらいます。",
+   "sentence_ids": [
+    "C47-D014-S01",
+    "C47-D014-S02",
+    "C47-D014-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 106.637,
+   "end_sec": 116.088,
+   "duration_sec": 9.451
+  },
+  {
+   "turn_id": "C47-D015",
+   "turn_index": 14,
+   "speaker": "ミン",
+   "source_text": "私はお茶を買ってきます。戻ってから、日付を打った紙をノートに張り付けるのを手伝います。",
+   "sentence_ids": [
+    "C47-D015-S01",
+    "C47-D015-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 116.438,
+   "end_sec": 122.11,
+   "duration_sec": 5.672
+  },
+  {
+   "turn_id": "C47-D016",
+   "turn_index": 15,
+   "speaker": "アナ",
+   "source_text": "ありがとうございます。忘れないようにと、佐藤さんが日付を大きく書いてくれました。相談の末、次の一歩が決まりましたね。",
+   "sentence_ids": [
+    "C47-D016-S01",
+    "C47-D016-S02",
+    "C47-D016-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 122.46,
+   "end_sec": 131.584,
+   "duration_sec": 9.124
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C47-D001-S01",
+   "unit_id": "C47-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "まもなく始めますね。",
+   "start_sec": 0.0,
+   "end_sec": 1.675,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D001-S02",
+   "unit_id": "C47-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "佐藤さん、今日は何を持ってきましたか。",
+   "start_sec": 1.825,
+   "end_sec": 4.631,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D001-S03",
+   "unit_id": "C47-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "さっと読める長さですか。",
+   "start_sec": 4.781,
+   "end_sec": 6.724,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D002-S01",
+   "unit_id": "C47-D002",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "三行の報告メモです。",
+   "start_sec": 7.074,
+   "end_sec": 8.932,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D002-S02",
+   "unit_id": "C47-D002",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "会社や人の名前はありません。",
+   "start_sec": 9.082,
+   "end_sec": 10.991,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D002-S03",
+   "unit_id": "C47-D002",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "書いたばかりのメモなので、まだ直す所があります。",
+   "start_sec": 11.141,
+   "end_sec": 14.572,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D003-S01",
+   "unit_id": "C47-D003",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "私はたった今、今日の録音の確認を終えたところです。",
+   "start_sec": 14.922,
+   "end_sec": 19.125,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D003-S02",
+   "unit_id": "C47-D003",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "皆さんが来た時は、最後の部分を聞いているところでした。",
+   "start_sec": 19.275,
+   "end_sec": 22.659,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D004-S01",
+   "unit_id": "C47-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "では、先に目的を確認しましょう。",
+   "start_sec": 23.009,
+   "end_sec": 25.879,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D004-S02",
+   "unit_id": "C47-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "他の人に追いつくためですか。",
+   "start_sec": 26.029,
+   "end_sec": 28.196,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D004-S03",
+   "unit_id": "C47-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "それとも伝える力を伸ばすためですか。",
+   "start_sec": 28.346,
+   "end_sec": 31.298,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D005-S01",
+   "unit_id": "C47-D005",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "短い報告ができるように練習しています。",
+   "start_sec": 31.648,
+   "end_sec": 34.256,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D005-S02",
+   "unit_id": "C47-D005",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "でも最近は時間ばかり気にして、二分を過ぎると、急いで話を終えていました。",
+   "start_sec": 34.406,
+   "end_sec": 40.222,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D006-S01",
+   "unit_id": "C47-D006",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "意味が分かるかどうかにも触れましょう。",
+   "start_sec": 40.572,
+   "end_sec": 42.888,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D006-S02",
+   "unit_id": "C47-D006",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "聞き手に顔を向けることも大切ですね。",
+   "start_sec": 43.038,
+   "end_sec": 45.317,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D006-S03",
+   "unit_id": "C47-D006",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "十二月の録音はありますか。",
+   "start_sec": 45.467,
+   "end_sec": 47.344,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D007-S01",
+   "unit_id": "C47-D007",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "はい、今探しているところです。",
+   "start_sec": 47.694,
+   "end_sec": 49.732,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D007-S02",
+   "unit_id": "C47-D007",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "ファイルに日付の名前をつけるようにしています。",
+   "start_sec": 49.882,
+   "end_sec": 52.319,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D007-S03",
+   "unit_id": "C47-D007",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "これなら順番が分かります。",
+   "start_sec": 52.469,
+   "end_sec": 54.215,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D008-S01",
+   "unit_id": "C47-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "前より黙る時間が短いですね。",
+   "start_sec": 54.565,
+   "end_sec": 57.128,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D008-S02",
+   "unit_id": "C47-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "いよいよ内容を見直す段階です。",
+   "start_sec": 57.278,
+   "end_sec": 59.77,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D008-S03",
+   "unit_id": "C47-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "一分間で伝えたいことを話してみませんか。",
+   "start_sec": 59.92,
+   "end_sec": 62.769,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D009-S01",
+   "unit_id": "C47-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "はい。",
+   "start_sec": 63.119,
+   "end_sec": 63.94,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D009-S02",
+   "unit_id": "C47-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "一月末までの短期目標にします。",
+   "start_sec": 64.09,
+   "end_sec": 66.865,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D009-S03",
+   "unit_id": "C47-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "質問に答える力は長期目標です。",
+   "start_sec": 67.015,
+   "end_sec": 70.396,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D009-S04",
+   "unit_id": "C47-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "記録の表も作りたいです。",
+   "start_sec": 70.546,
+   "end_sec": 72.377,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D010-S01",
+   "unit_id": "C47-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "この先も続けるのに、表は便利ですね。",
+   "start_sec": 72.727,
+   "end_sec": 76.0,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D010-S02",
+   "unit_id": "C47-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "できなかった日は空欄を無理に埋める必要はありません。",
+   "start_sec": 76.15,
+   "end_sec": 79.484,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D010-S03",
+   "unit_id": "C47-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "理由だけ書きましょう。",
+   "start_sec": 79.634,
+   "end_sec": 81.158,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D011-S01",
+   "unit_id": "C47-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "私はメモを二回試します。",
+   "start_sec": 81.508,
+   "end_sec": 83.749,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D011-S02",
+   "unit_id": "C47-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "働き始めた頃は毎日長い報告を書いていました。",
+   "start_sec": 83.899,
+   "end_sec": 87.378,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D011-S03",
+   "unit_id": "C47-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "忙しい中で働き続けるのに、簡潔な報告が必要です。",
+   "start_sec": 87.528,
+   "end_sec": 91.545,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D012-S01",
+   "unit_id": "C47-D012",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "アナさんの練習はどうですか。",
+   "start_sec": 91.895,
+   "end_sec": 93.858,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D012-S02",
+   "unit_id": "C47-D012",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "前に分からないことをもう一度聞くと言っていましたね。",
+   "start_sec": 94.008,
+   "end_sec": 97.988,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D013-S01",
+   "unit_id": "C47-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "分からないまま終えることは減ってきました。",
+   "start_sec": 98.338,
+   "end_sec": 101.228,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D013-S02",
+   "unit_id": "C47-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "今から記録を書き始めるところです。",
+   "start_sec": 101.378,
+   "end_sec": 103.886,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D013-S03",
+   "unit_id": "C47-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "進行はゆっくりですが、続けます。",
+   "start_sec": 104.036,
+   "end_sec": 106.287,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D014-S01",
+   "unit_id": "C47-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "では一月二十日に記録を持ってきましょう。",
+   "start_sec": 106.637,
+   "end_sec": 110.088,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D014-S02",
+   "unit_id": "C47-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "私はこれで失礼します。",
+   "start_sec": 110.238,
+   "end_sec": 112.202,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D014-S03",
+   "unit_id": "C47-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "帰る前に受付を回って、このメモのコピーをもらいます。",
+   "start_sec": 112.352,
+   "end_sec": 116.088,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D015-S01",
+   "unit_id": "C47-D015",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "私はお茶を買ってきます。",
+   "start_sec": 116.438,
+   "end_sec": 118.105,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D015-S02",
+   "unit_id": "C47-D015",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "戻ってから、日付を打った紙をノートに張り付けるのを手伝います。",
+   "start_sec": 118.255,
+   "end_sec": 122.11,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D016-S01",
+   "unit_id": "C47-D016",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ありがとうございます。",
+   "start_sec": 122.46,
+   "end_sec": 123.866,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D016-S02",
+   "unit_id": "C47-D016",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "忘れないようにと、佐藤さんが日付を大きく書いてくれました。",
+   "start_sec": 124.016,
+   "end_sec": 128.373,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C47-D016-S03",
+   "unit_id": "C47-D016",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "相談の末、次の一歩が決まりましたね。",
+   "start_sec": 128.523,
+   "end_sec": 131.584,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

@@ -1,0 +1,912 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 90.546,
+ "listening_review": "pending",
+ "source_chapter": 6,
+ "turns": [
+  {
+   "turn_id": "C06-D001",
+   "turn_index": 0,
+   "speaker": "林梅",
+   "source_text": "マテオさん、こんにちは。これはみどりセンターの地図です。",
+   "sentence_ids": [
+    "C06-D001-S01",
+    "C06-D001-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.911,
+   "duration_sec": 3.911
+  },
+  {
+   "turn_id": "C06-D002",
+   "turn_index": 1,
+   "speaker": "マテオ",
+   "source_text": "こんにちは。地図の番号の四は何ですか。",
+   "sentence_ids": [
+    "C06-D002-S01",
+    "C06-D002-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 4.261,
+   "end_sec": 7.389,
+   "duration_sec": 3.128
+  },
+  {
+   "turn_id": "C06-D003",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "みどりセンターです。公園の右です。",
+   "sentence_ids": [
+    "C06-D003-S01",
+    "C06-D003-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.739,
+   "end_sec": 10.972,
+   "duration_sec": 3.233
+  },
+  {
+   "turn_id": "C06-D004",
+   "turn_index": 3,
+   "speaker": "マテオ",
+   "source_text": "右ですか。六は病院ですか。",
+   "sentence_ids": [
+    "C06-D004-S01",
+    "C06-D004-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.322,
+   "end_sec": 14.09,
+   "duration_sec": 2.768
+  },
+  {
+   "turn_id": "C06-D005",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "はい、病院です。スーパーの後ろです。",
+   "sentence_ids": [
+    "C06-D005-S01",
+    "C06-D005-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 14.44,
+   "end_sec": 17.983,
+   "duration_sec": 3.543
+  },
+  {
+   "turn_id": "C06-D006",
+   "turn_index": 5,
+   "speaker": "マテオ",
+   "source_text": "スーパーは駅の左ですか。",
+   "sentence_ids": [
+    "C06-D006-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.333,
+   "end_sec": 20.471,
+   "duration_sec": 2.138
+  },
+  {
+   "turn_id": "C06-D007",
+   "turn_index": 6,
+   "speaker": "林梅",
+   "source_text": "はい。スーパーは駅の左です。",
+   "sentence_ids": [
+    "C06-D007-S01",
+    "C06-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 20.821,
+   "end_sec": 24.344,
+   "duration_sec": 3.523
+  },
+  {
+   "turn_id": "C06-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "中村さん、こんにちは。この人はマテオさんです。わたしの友達です。",
+   "sentence_ids": [
+    "C06-D008-S01",
+    "C06-D008-S02",
+    "C06-D008-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 25.244,
+   "end_sec": 30.451,
+   "duration_sec": 5.207
+  },
+  {
+   "turn_id": "C06-D009",
+   "turn_index": 8,
+   "speaker": "中村",
+   "source_text": "こんにちは。マテオさんは会社員ですか。",
+   "sentence_ids": [
+    "C06-D009-S01",
+    "C06-D009-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.801,
+   "end_sec": 34.067,
+   "duration_sec": 3.266
+  },
+  {
+   "turn_id": "C06-D010",
+   "turn_index": 9,
+   "speaker": "マテオ",
+   "source_text": "いいえ、会社員ではありません。みなと大学の学生です。",
+   "sentence_ids": [
+    "C06-D010-S01",
+    "C06-D010-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.417,
+   "end_sec": 38.144,
+   "duration_sec": 3.727
+  },
+  {
+   "turn_id": "C06-D011",
+   "turn_index": 10,
+   "speaker": "中村",
+   "source_text": "すみません。マテオさん、これは日本語クラスの本です。",
+   "sentence_ids": [
+    "C06-D011-S01",
+    "C06-D011-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.494,
+   "end_sec": 43.054,
+   "duration_sec": 4.56
+  },
+  {
+   "turn_id": "C06-D012",
+   "turn_index": 11,
+   "speaker": "マテオ",
+   "source_text": "この本はだれの本ですか。",
+   "sentence_ids": [
+    "C06-D012-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 43.404,
+   "end_sec": 45.49,
+   "duration_sec": 2.086
+  },
+  {
+   "turn_id": "C06-D013",
+   "turn_index": 12,
+   "speaker": "中村",
+   "source_text": "マテオさんの本です。ここに名前があります。",
+   "sentence_ids": [
+    "C06-D013-S01",
+    "C06-D013-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 45.84,
+   "end_sec": 49.115,
+   "duration_sec": 3.275
+  },
+  {
+   "turn_id": "C06-D014",
+   "turn_index": 13,
+   "speaker": "マテオ",
+   "source_text": "はい、わたしの名前です。ありがとうございます。それは何ですか。",
+   "sentence_ids": [
+    "C06-D014-S01",
+    "C06-D014-S02",
+    "C06-D014-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 49.465,
+   "end_sec": 53.942,
+   "duration_sec": 4.477
+  },
+  {
+   "turn_id": "C06-D015",
+   "turn_index": 14,
+   "speaker": "中村",
+   "source_text": "これですか。教室の鍵です。",
+   "sentence_ids": [
+    "C06-D015-S01",
+    "C06-D015-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 54.292,
+   "end_sec": 56.923,
+   "duration_sec": 2.631
+  },
+  {
+   "turn_id": "C06-D016",
+   "turn_index": 15,
+   "speaker": "マテオ",
+   "source_text": "教室はどこですか。図書館の中ですか。",
+   "sentence_ids": [
+    "C06-D016-S01",
+    "C06-D016-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 57.273,
+   "end_sec": 60.28,
+   "duration_sec": 3.007
+  },
+  {
+   "turn_id": "C06-D017",
+   "turn_index": 16,
+   "speaker": "中村",
+   "source_text": "いいえ、図書館の隣です。",
+   "sentence_ids": [
+    "C06-D017-S01"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 60.63,
+   "end_sec": 62.874,
+   "duration_sec": 2.244
+  },
+  {
+   "turn_id": "C06-D018",
+   "turn_index": 17,
+   "speaker": "マテオ",
+   "source_text": "図書館は何時までですか。",
+   "sentence_ids": [
+    "C06-D018-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.224,
+   "end_sec": 64.992,
+   "duration_sec": 1.768
+  },
+  {
+   "turn_id": "C06-D019",
+   "turn_index": 18,
+   "speaker": "中村",
+   "source_text": "午後四時までです。今は午後三時半です。机の上に時計があります。",
+   "sentence_ids": [
+    "C06-D019-S01",
+    "C06-D019-S02",
+    "C06-D019-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 65.342,
+   "end_sec": 71.499,
+   "duration_sec": 6.157
+  },
+  {
+   "turn_id": "C06-D020",
+   "turn_index": 19,
+   "speaker": "マテオ",
+   "source_text": "明日のクラスは何時からですか。",
+   "sentence_ids": [
+    "C06-D020-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 71.849,
+   "end_sec": 73.948,
+   "duration_sec": 2.099
+  },
+  {
+   "turn_id": "C06-D021",
+   "turn_index": 20,
+   "speaker": "中村",
+   "source_text": "午前十時から十一時半までです。",
+   "sentence_ids": [
+    "C06-D021-S01"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 74.298,
+   "end_sec": 77.515,
+   "duration_sec": 3.217
+  },
+  {
+   "turn_id": "C06-D022",
+   "turn_index": 21,
+   "speaker": "マテオ",
+   "source_text": "すみません、もう一度お願いします。",
+   "sentence_ids": [
+    "C06-D022-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.865,
+   "end_sec": 79.849,
+   "duration_sec": 1.984
+  },
+  {
+   "turn_id": "C06-D023",
+   "turn_index": 22,
+   "speaker": "中村",
+   "source_text": "午前十時から、十一時半までです。ユーリ先生のクラスです。",
+   "sentence_ids": [
+    "C06-D023-S01",
+    "C06-D023-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.199,
+   "end_sec": 85.281,
+   "duration_sec": 5.082
+  },
+  {
+   "turn_id": "C06-D024",
+   "turn_index": 23,
+   "speaker": "マテオ",
+   "source_text": "午前十時からです。先生はユーリ先生です。ありがとうございます。",
+   "sentence_ids": [
+    "C06-D024-S01",
+    "C06-D024-S02",
+    "C06-D024-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 85.631,
+   "end_sec": 90.539,
+   "duration_sec": 4.908
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C06-D001-S01",
+   "unit_id": "C06-D001",
+   "section": "D",
+   "speaker": "リン",
+   "text": "マテオさん、こんにちは。",
+   "start_sec": 0.0,
+   "end_sec": 1.689,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D001-S02",
+   "unit_id": "C06-D001",
+   "section": "D",
+   "speaker": "リン",
+   "text": "これはみどりセンターの地図です。",
+   "start_sec": 1.839,
+   "end_sec": 3.911,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D002-S01",
+   "unit_id": "C06-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "こんにちは。",
+   "start_sec": 4.261,
+   "end_sec": 4.973,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D002-S02",
+   "unit_id": "C06-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "地図の番号の四は何ですか。",
+   "start_sec": 5.123,
+   "end_sec": 7.389,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D003-S01",
+   "unit_id": "C06-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "みどりセンターです。",
+   "start_sec": 7.739,
+   "end_sec": 9.277,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D003-S02",
+   "unit_id": "C06-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "公園の右です。",
+   "start_sec": 9.427,
+   "end_sec": 10.972,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D004-S01",
+   "unit_id": "C06-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "右ですか。",
+   "start_sec": 11.322,
+   "end_sec": 12.571,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D004-S02",
+   "unit_id": "C06-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "六は病院ですか。",
+   "start_sec": 12.721,
+   "end_sec": 14.09,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D005-S01",
+   "unit_id": "C06-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい、病院です。",
+   "start_sec": 14.44,
+   "end_sec": 16.271,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D005-S02",
+   "unit_id": "C06-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "スーパーの後ろです。",
+   "start_sec": 16.421,
+   "end_sec": 17.983,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D006-S01",
+   "unit_id": "C06-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "スーパーは駅の左ですか。",
+   "start_sec": 18.333,
+   "end_sec": 20.471,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D007-S01",
+   "unit_id": "C06-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 20.821,
+   "end_sec": 21.758,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D007-S02",
+   "unit_id": "C06-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "スーパーは駅の左です。",
+   "start_sec": 21.908,
+   "end_sec": 24.344,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D008-S01",
+   "unit_id": "C06-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "中村さん、こんにちは。",
+   "start_sec": 25.244,
+   "end_sec": 27.068,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D008-S02",
+   "unit_id": "C06-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "この人はマテオさんです。",
+   "start_sec": 27.218,
+   "end_sec": 28.796,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D008-S03",
+   "unit_id": "C06-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "わたしの友達です。",
+   "start_sec": 28.946,
+   "end_sec": 30.451,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D009-S01",
+   "unit_id": "C06-D009",
+   "section": "D",
+   "speaker": "中村",
+   "text": "こんにちは。",
+   "start_sec": 30.801,
+   "end_sec": 31.843,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D009-S02",
+   "unit_id": "C06-D009",
+   "section": "D",
+   "speaker": "中村",
+   "text": "マテオさんは会社員ですか。",
+   "start_sec": 31.993,
+   "end_sec": 34.067,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D010-S01",
+   "unit_id": "C06-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "いいえ、会社員ではありません。",
+   "start_sec": 34.417,
+   "end_sec": 36.082,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D010-S02",
+   "unit_id": "C06-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "みなと大学の学生です。",
+   "start_sec": 36.232,
+   "end_sec": 38.144,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D011-S01",
+   "unit_id": "C06-D011",
+   "section": "D",
+   "speaker": "中村",
+   "text": "すみません。",
+   "start_sec": 38.494,
+   "end_sec": 39.571,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D011-S02",
+   "unit_id": "C06-D011",
+   "section": "D",
+   "speaker": "中村",
+   "text": "マテオさん、これは日本語クラスの本です。",
+   "start_sec": 39.721,
+   "end_sec": 43.054,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D012-S01",
+   "unit_id": "C06-D012",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "この本はだれの本ですか。",
+   "start_sec": 43.404,
+   "end_sec": 45.49,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D013-S01",
+   "unit_id": "C06-D013",
+   "section": "D",
+   "speaker": "中村",
+   "text": "マテオさんの本です。",
+   "start_sec": 45.84,
+   "end_sec": 47.38,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D013-S02",
+   "unit_id": "C06-D013",
+   "section": "D",
+   "speaker": "中村",
+   "text": "ここに名前があります。",
+   "start_sec": 47.53,
+   "end_sec": 49.115,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D014-S01",
+   "unit_id": "C06-D014",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい、わたしの名前です。",
+   "start_sec": 49.465,
+   "end_sec": 51.204,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D014-S02",
+   "unit_id": "C06-D014",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ありがとうございます。",
+   "start_sec": 51.354,
+   "end_sec": 52.548,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D014-S03",
+   "unit_id": "C06-D014",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "それは何ですか。",
+   "start_sec": 52.698,
+   "end_sec": 53.942,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D015-S01",
+   "unit_id": "C06-D015",
+   "section": "D",
+   "speaker": "中村",
+   "text": "これですか。",
+   "start_sec": 54.292,
+   "end_sec": 55.27,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D015-S02",
+   "unit_id": "C06-D015",
+   "section": "D",
+   "speaker": "中村",
+   "text": "教室の鍵です。",
+   "start_sec": 55.42,
+   "end_sec": 56.923,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D016-S01",
+   "unit_id": "C06-D016",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "教室はどこですか。",
+   "start_sec": 57.273,
+   "end_sec": 58.671,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D016-S02",
+   "unit_id": "C06-D016",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "図書館の中ですか。",
+   "start_sec": 58.821,
+   "end_sec": 60.28,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D017-S01",
+   "unit_id": "C06-D017",
+   "section": "D",
+   "speaker": "中村",
+   "text": "いいえ、図書館の隣です。",
+   "start_sec": 60.63,
+   "end_sec": 62.874,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D018-S01",
+   "unit_id": "C06-D018",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "図書館は何時までですか。",
+   "start_sec": 63.224,
+   "end_sec": 64.992,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D019-S01",
+   "unit_id": "C06-D019",
+   "section": "D",
+   "speaker": "中村",
+   "text": "午後四時までです。",
+   "start_sec": 65.342,
+   "end_sec": 66.847,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D019-S02",
+   "unit_id": "C06-D019",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今は午後三時半です。",
+   "start_sec": 66.997,
+   "end_sec": 69.261,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D019-S03",
+   "unit_id": "C06-D019",
+   "section": "D",
+   "speaker": "中村",
+   "text": "机の上に時計があります。",
+   "start_sec": 69.411,
+   "end_sec": 71.499,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D020-S01",
+   "unit_id": "C06-D020",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "明日のクラスは何時からですか。",
+   "start_sec": 71.849,
+   "end_sec": 73.948,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D021-S01",
+   "unit_id": "C06-D021",
+   "section": "D",
+   "speaker": "中村",
+   "text": "午前十時から十一時半までです。",
+   "start_sec": 74.298,
+   "end_sec": 77.515,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D022-S01",
+   "unit_id": "C06-D022",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "すみません、もう一度お願いします。",
+   "start_sec": 77.865,
+   "end_sec": 79.849,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D023-S01",
+   "unit_id": "C06-D023",
+   "section": "D",
+   "speaker": "中村",
+   "text": "午前十時から、十一時半までです。",
+   "start_sec": 80.199,
+   "end_sec": 83.361,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D023-S02",
+   "unit_id": "C06-D023",
+   "section": "D",
+   "speaker": "中村",
+   "text": "ユーリ先生のクラスです。",
+   "start_sec": 83.511,
+   "end_sec": 85.281,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D024-S01",
+   "unit_id": "C06-D024",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "午前十時からです。",
+   "start_sec": 85.631,
+   "end_sec": 87.012,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D024-S02",
+   "unit_id": "C06-D024",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "先生はユーリ先生です。",
+   "start_sec": 87.162,
+   "end_sec": 89.124,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C06-D024-S03",
+   "unit_id": "C06-D024",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ありがとうございます。",
+   "start_sec": 89.274,
+   "end_sec": 90.539,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

@@ -1,0 +1,1857 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 210.907,
+ "listening_review": "pending",
+ "source_chapter": 7,
+ "turns": [
+  {
+   "turn_id": "C07-D001",
+   "turn_index": 0,
+   "speaker": "ユーリ",
+   "source_text": "マテオさんは何でセンターに来ますか。家はどこですか。",
+   "sentence_ids": [
+    "C07-D001-S01",
+    "C07-D001-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 4.189,
+   "duration_sec": 4.189
+  },
+  {
+   "turn_id": "C07-D002",
+   "turn_index": 1,
+   "speaker": "マテオ",
+   "source_text": "バスで来ます。家は大学の近くです。大学へは徒歩で行きます。家から大学まで歩きます。",
+   "sentence_ids": [
+    "C07-D002-S01",
+    "C07-D002-S02",
+    "C07-D002-S03",
+    "C07-D002-S04"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 4.539,
+   "end_sec": 11.305,
+   "duration_sec": 6.766
+  },
+  {
+   "turn_id": "C07-D003",
+   "turn_index": 2,
+   "speaker": "ユーリ",
+   "source_text": "パクさんは電車で来ますか。",
+   "sentence_ids": [
+    "C07-D003-S01"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.655,
+   "end_sec": 13.376,
+   "duration_sec": 1.721
+  },
+  {
+   "turn_id": "C07-D004",
+   "turn_index": 3,
+   "speaker": "パク",
+   "source_text": "はい、電車で来ます。駅は家の近くです。先生の家はどこですか。",
+   "sentence_ids": [
+    "C07-D004-S01",
+    "C07-D004-S02",
+    "C07-D004-S03"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.726,
+   "end_sec": 18.462,
+   "duration_sec": 4.736
+  },
+  {
+   "turn_id": "C07-D005",
+   "turn_index": 4,
+   "speaker": "ユーリ",
+   "source_text": "家はセンターの近くです。車は使いません。歩きます。リンさんは今日、どこにいますか。",
+   "sentence_ids": [
+    "C07-D005-S01",
+    "C07-D005-S02",
+    "C07-D005-S03",
+    "C07-D005-S04"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.812,
+   "end_sec": 25.864,
+   "duration_sec": 7.052
+  },
+  {
+   "turn_id": "C07-D006",
+   "turn_index": 5,
+   "speaker": "マテオ",
+   "source_text": "図書館にいます。土曜日、リンさんはいつも図書館で勉強します。",
+   "sentence_ids": [
+    "C07-D006-S01",
+    "C07-D006-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 26.214,
+   "end_sec": 30.59,
+   "duration_sec": 4.376
+  },
+  {
+   "turn_id": "C07-D007",
+   "turn_index": 6,
+   "speaker": "林梅",
+   "source_text": "こんにちは。先生、今、何時ですか。",
+   "sentence_ids": [
+    "C07-D007-S01",
+    "C07-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.94,
+   "end_sec": 34.993,
+   "duration_sec": 4.053
+  },
+  {
+   "turn_id": "C07-D008",
+   "turn_index": 7,
+   "speaker": "ユーリ",
+   "source_text": "こんにちは。十一時半です。リンさんは午後、どこで勉強しますか。",
+   "sentence_ids": [
+    "C07-D008-S01",
+    "C07-D008-S02",
+    "C07-D008-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 35.343,
+   "end_sec": 40.48,
+   "duration_sec": 5.137
+  },
+  {
+   "turn_id": "C07-D009",
+   "turn_index": 8,
+   "speaker": "林梅",
+   "source_text": "図書館です。一時から四時まで、図書館で日本語を勉強します。マテオさんは？",
+   "sentence_ids": [
+    "C07-D009-S01",
+    "C07-D009-S02",
+    "C07-D009-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 40.83,
+   "end_sec": 46.735,
+   "duration_sec": 5.905
+  },
+  {
+   "turn_id": "C07-D010",
+   "turn_index": 9,
+   "speaker": "マテオ",
+   "source_text": "わたしは宿題があります。一時に図書館へ行きます。リンさんと一緒に勉強します。交通の地図を作ります。",
+   "sentence_ids": [
+    "C07-D010-S01",
+    "C07-D010-S02",
+    "C07-D010-S03",
+    "C07-D010-S04"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.085,
+   "end_sec": 54.153,
+   "duration_sec": 7.068
+  },
+  {
+   "turn_id": "C07-D011",
+   "turn_index": 10,
+   "speaker": "林梅",
+   "source_text": "はい。図書館の入口に地図があります。わたしは一時にその前にいます。",
+   "sentence_ids": [
+    "C07-D011-S01",
+    "C07-D011-S02",
+    "C07-D011-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 54.503,
+   "end_sec": 60.383,
+   "duration_sec": 5.88
+  },
+  {
+   "turn_id": "C07-D012",
+   "turn_index": 11,
+   "speaker": "マテオ",
+   "source_text": "はい。一時に図書館の入口へ行きます。",
+   "sentence_ids": [
+    "C07-D012-S01",
+    "C07-D012-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 60.733,
+   "end_sec": 63.726,
+   "duration_sec": 2.993
+  },
+  {
+   "turn_id": "C07-D013",
+   "turn_index": 12,
+   "speaker": "ユーリ",
+   "source_text": "リンさんはどこで昼ご飯を食べますか。",
+   "sentence_ids": [
+    "C07-D013-S01"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 64.076,
+   "end_sec": 66.543,
+   "duration_sec": 2.467
+  },
+  {
+   "turn_id": "C07-D014",
+   "turn_index": 13,
+   "speaker": "林梅",
+   "source_text": "公園で食べます。かばんの中にパンがあります。マテオさんは？",
+   "sentence_ids": [
+    "C07-D014-S01",
+    "C07-D014-S02",
+    "C07-D014-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 66.893,
+   "end_sec": 71.677,
+   "duration_sec": 4.784
+  },
+  {
+   "turn_id": "C07-D015",
+   "turn_index": 14,
+   "speaker": "マテオ",
+   "source_text": "公園で食べます。今、スーパーでパンを買います。水も買います。",
+   "sentence_ids": [
+    "C07-D015-S01",
+    "C07-D015-S02",
+    "C07-D015-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 72.027,
+   "end_sec": 76.479,
+   "duration_sec": 4.452
+  },
+  {
+   "turn_id": "C07-D016",
+   "turn_index": 15,
+   "speaker": "林梅",
+   "source_text": "わたしはお茶を買います。スーパーはどこですか。",
+   "sentence_ids": [
+    "C07-D016-S01",
+    "C07-D016-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 76.829,
+   "end_sec": 80.516,
+   "duration_sec": 3.687
+  },
+  {
+   "turn_id": "C07-D017",
+   "turn_index": 16,
+   "speaker": "マテオ",
+   "source_text": "駅の隣です。この地図を見ます。駅はここです。スーパーは駅の左です。川の西です。川の向こう側、東に公園があります。",
+   "sentence_ids": [
+    "C07-D017-S01",
+    "C07-D017-S02",
+    "C07-D017-S03",
+    "C07-D017-S04",
+    "C07-D017-S05",
+    "C07-D017-S06"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.866,
+   "end_sec": 90.979,
+   "duration_sec": 10.113
+  },
+  {
+   "turn_id": "C07-D018",
+   "turn_index": 17,
+   "speaker": "パク",
+   "source_text": "わたしは今、駅へ行きます。出口の前にバス停があります。あの交差点には横断歩道もあります。信号は今、赤です。車が止まります。",
+   "sentence_ids": [
+    "C07-D018-S01",
+    "C07-D018-S02",
+    "C07-D018-S03",
+    "C07-D018-S04",
+    "C07-D018-S05"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 91.329,
+   "end_sec": 101.266,
+   "duration_sec": 9.937
+  },
+  {
+   "turn_id": "C07-D035",
+   "turn_index": 18,
+   "speaker": "パク",
+   "source_text": "信号の色は赤、黄色、青です。この図の青は交通の信号の色です。",
+   "sentence_ids": [
+    "C07-D035-S01",
+    "C07-D035-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 101.616,
+   "end_sec": 107.825,
+   "duration_sec": 6.209
+  },
+  {
+   "turn_id": "C07-D036",
+   "turn_index": 19,
+   "speaker": "林梅",
+   "source_text": "今、青です。車が進みます。公園へは、あの横断歩道で道路を渡りますか。",
+   "sentence_ids": [
+    "C07-D036-S01",
+    "C07-D036-S02",
+    "C07-D036-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 108.175,
+   "end_sec": 115.161,
+   "duration_sec": 6.986
+  },
+  {
+   "turn_id": "C07-D037",
+   "turn_index": 20,
+   "speaker": "マテオ",
+   "source_text": "はい。街角の地図にも公園があります。川の隣に散歩道があります。そこから公園へ向かいます。",
+   "sentence_ids": [
+    "C07-D037-S01",
+    "C07-D037-S02",
+    "C07-D037-S03",
+    "C07-D037-S04"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 115.511,
+   "end_sec": 122.492,
+   "duration_sec": 6.981
+  },
+  {
+   "turn_id": "C07-D019",
+   "turn_index": 21,
+   "speaker": "マテオ",
+   "source_text": "パクさんは何時に家へ帰りますか。",
+   "sentence_ids": [
+    "C07-D019-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 122.842,
+   "end_sec": 124.953,
+   "duration_sec": 2.111
+  },
+  {
+   "turn_id": "C07-D020",
+   "turn_index": 22,
+   "speaker": "パク",
+   "source_text": "一時に電車で家へ帰ります。",
+   "sentence_ids": [
+    "C07-D020-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 125.303,
+   "end_sec": 127.697,
+   "duration_sec": 2.394
+  },
+  {
+   "turn_id": "C07-D021",
+   "turn_index": 23,
+   "speaker": "マテオ",
+   "source_text": "すみません、もう一度お願いします。",
+   "sentence_ids": [
+    "C07-D021-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 128.047,
+   "end_sec": 130.216,
+   "duration_sec": 2.169
+  },
+  {
+   "turn_id": "C07-D022",
+   "turn_index": 24,
+   "speaker": "パク",
+   "source_text": "一時に、電車で、家へ帰ります。昼ご飯は家で食べます。",
+   "sentence_ids": [
+    "C07-D022-S01",
+    "C07-D022-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 130.566,
+   "end_sec": 135.506,
+   "duration_sec": 4.94
+  },
+  {
+   "turn_id": "C07-D023",
+   "turn_index": 25,
+   "speaker": "林梅",
+   "source_text": "パクさんは明日、働きますか。",
+   "sentence_ids": [
+    "C07-D023-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 135.856,
+   "end_sec": 138.344,
+   "duration_sec": 2.488
+  },
+  {
+   "turn_id": "C07-D024",
+   "turn_index": 26,
+   "speaker": "パク",
+   "source_text": "いいえ、日曜日は働きません。月曜日から金曜日まで会社で働きます。",
+   "sentence_ids": [
+    "C07-D024-S01",
+    "C07-D024-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.694,
+   "end_sec": 144.09,
+   "duration_sec": 5.396
+  },
+  {
+   "turn_id": "C07-D025",
+   "turn_index": 27,
+   "speaker": "マテオ",
+   "source_text": "アナンドさんは土曜日、何時から何時まで働きますか。",
+   "sentence_ids": [
+    "C07-D025-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 144.44,
+   "end_sec": 148.229,
+   "duration_sec": 3.789
+  },
+  {
+   "turn_id": "C07-D026",
+   "turn_index": 28,
+   "speaker": "パク",
+   "source_text": "九時から五時までです。今日、アナンドさんは会社にいます。",
+   "sentence_ids": [
+    "C07-D026-S01",
+    "C07-D026-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 148.579,
+   "end_sec": 151.979,
+   "duration_sec": 3.4
+  },
+  {
+   "turn_id": "C07-D027",
+   "turn_index": 29,
+   "speaker": "ユーリ",
+   "source_text": "マテオさんは明日、センターに来ますか。",
+   "sentence_ids": [
+    "C07-D027-S01"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 152.329,
+   "end_sec": 154.763,
+   "duration_sec": 2.434
+  },
+  {
+   "turn_id": "C07-D028",
+   "turn_index": 30,
+   "speaker": "マテオ",
+   "source_text": "いいえ、来ません。九時に起きます。午前、家で勉強します。午後、大学の友達と公園へ行きます。",
+   "sentence_ids": [
+    "C07-D028-S01",
+    "C07-D028-S02",
+    "C07-D028-S03",
+    "C07-D028-S04"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 155.113,
+   "end_sec": 162.686,
+   "duration_sec": 7.573
+  },
+  {
+   "turn_id": "C07-D029",
+   "turn_index": 31,
+   "speaker": "林梅",
+   "source_text": "わたしは明日、七時に起きます。朝、家で本を読みます。午後、図書館へ行きます。先生は？",
+   "sentence_ids": [
+    "C07-D029-S01",
+    "C07-D029-S02",
+    "C07-D029-S03",
+    "C07-D029-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 163.036,
+   "end_sec": 170.99,
+   "duration_sec": 7.954
+  },
+  {
+   "turn_id": "C07-D030",
+   "turn_index": 32,
+   "speaker": "ユーリ",
+   "source_text": "わたしは明日、センターに来ません。家で日本の写真を見ます。夜、日本語の本を読みます。",
+   "sentence_ids": [
+    "C07-D030-S01",
+    "C07-D030-S02",
+    "C07-D030-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 171.34,
+   "end_sec": 177.436,
+   "duration_sec": 6.096
+  },
+  {
+   "turn_id": "C07-D038",
+   "turn_index": 33,
+   "speaker": "林梅",
+   "source_text": "午後、地図は何で作りますか。",
+   "sentence_ids": [
+    "C07-D038-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 177.786,
+   "end_sec": 180.341,
+   "duration_sec": 2.555
+  },
+  {
+   "turn_id": "C07-D039",
+   "turn_index": 34,
+   "speaker": "マテオ",
+   "source_text": "紙で作ります。ペンで駅の名前を書きます。市内の地下鉄も地図にあります。",
+   "sentence_ids": [
+    "C07-D039-S01",
+    "C07-D039-S02",
+    "C07-D039-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 180.691,
+   "end_sec": 186.225,
+   "duration_sec": 5.534
+  },
+  {
+   "turn_id": "C07-D040",
+   "turn_index": 35,
+   "speaker": "林梅",
+   "source_text": "説明は日本語で書きますか。飛行機の写真も使いますか。",
+   "sentence_ids": [
+    "C07-D040-S01",
+    "C07-D040-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 186.575,
+   "end_sec": 191.332,
+   "duration_sec": 4.757
+  },
+  {
+   "turn_id": "C07-D041",
+   "turn_index": 36,
+   "speaker": "マテオ",
+   "source_text": "はい。写真を机に置きます。先生にも電話します。地図の説明はリンさんの番です。",
+   "sentence_ids": [
+    "C07-D041-S01",
+    "C07-D041-S02",
+    "C07-D041-S03",
+    "C07-D041-S04"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 191.682,
+   "end_sec": 197.51,
+   "duration_sec": 5.828
+  },
+  {
+   "turn_id": "C07-D031",
+   "turn_index": 37,
+   "speaker": "マテオ",
+   "source_text": "わたしは今、スーパーへ行きます。リンさんは？",
+   "sentence_ids": [
+    "C07-D031-S01",
+    "C07-D031-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 197.86,
+   "end_sec": 201.029,
+   "duration_sec": 3.169
+  },
+  {
+   "turn_id": "C07-D032",
+   "turn_index": 38,
+   "speaker": "林梅",
+   "source_text": "マテオさんと一緒に行きます。十二時に公園で昼ご飯を食べます。",
+   "sentence_ids": [
+    "C07-D032-S01",
+    "C07-D032-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 201.379,
+   "end_sec": 206.333,
+   "duration_sec": 4.954
+  },
+  {
+   "turn_id": "C07-D033",
+   "turn_index": 39,
+   "speaker": "パク",
+   "source_text": "わたしは駅へ行きます。先生、さようなら。",
+   "sentence_ids": [
+    "C07-D033-S01",
+    "C07-D033-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 206.683,
+   "end_sec": 209.725,
+   "duration_sec": 3.042
+  },
+  {
+   "turn_id": "C07-D034",
+   "turn_index": 40,
+   "speaker": "ユーリ",
+   "source_text": "さようなら。",
+   "sentence_ids": [
+    "C07-D034-S01"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 210.075,
+   "end_sec": 210.901,
+   "duration_sec": 0.826
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C07-D001-S01",
+   "unit_id": "C07-D001",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "マテオさんは何でセンターに来ますか。",
+   "start_sec": 0.0,
+   "end_sec": 2.534,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D001-S02",
+   "unit_id": "C07-D001",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "家はどこですか。",
+   "start_sec": 2.684,
+   "end_sec": 4.189,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D002-S01",
+   "unit_id": "C07-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "バスで来ます。",
+   "start_sec": 4.539,
+   "end_sec": 5.575,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D002-S02",
+   "unit_id": "C07-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "家は大学の近くです。",
+   "start_sec": 5.725,
+   "end_sec": 7.457,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D002-S03",
+   "unit_id": "C07-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "大学へは徒歩で行きます。",
+   "start_sec": 7.607,
+   "end_sec": 9.361,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D002-S04",
+   "unit_id": "C07-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "家から大学まで歩きます。",
+   "start_sec": 9.511,
+   "end_sec": 11.305,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D003-S01",
+   "unit_id": "C07-D003",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "パクさんは電車で来ますか。",
+   "start_sec": 11.655,
+   "end_sec": 13.376,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D004-S01",
+   "unit_id": "C07-D004",
+   "section": "D",
+   "speaker": "パク",
+   "text": "はい、電車で来ます。",
+   "start_sec": 13.726,
+   "end_sec": 15.156,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D004-S02",
+   "unit_id": "C07-D004",
+   "section": "D",
+   "speaker": "パク",
+   "text": "駅は家の近くです。",
+   "start_sec": 15.306,
+   "end_sec": 16.696,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D004-S03",
+   "unit_id": "C07-D004",
+   "section": "D",
+   "speaker": "パク",
+   "text": "先生の家はどこですか。",
+   "start_sec": 16.846,
+   "end_sec": 18.462,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D005-S01",
+   "unit_id": "C07-D005",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "家はセンターの近くです。",
+   "start_sec": 18.812,
+   "end_sec": 20.75,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D005-S02",
+   "unit_id": "C07-D005",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "車は使いません。",
+   "start_sec": 20.9,
+   "end_sec": 22.394,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D005-S03",
+   "unit_id": "C07-D005",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "歩きます。",
+   "start_sec": 22.544,
+   "end_sec": 23.581,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D005-S04",
+   "unit_id": "C07-D005",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "リンさんは今日、どこにいますか。",
+   "start_sec": 23.731,
+   "end_sec": 25.864,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D006-S01",
+   "unit_id": "C07-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "図書館にいます。",
+   "start_sec": 26.214,
+   "end_sec": 27.346,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D006-S02",
+   "unit_id": "C07-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "土曜日、リンさんはいつも図書館で勉強します。",
+   "start_sec": 27.496,
+   "end_sec": 30.59,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D007-S01",
+   "unit_id": "C07-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "こんにちは。",
+   "start_sec": 30.94,
+   "end_sec": 32.327,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D007-S02",
+   "unit_id": "C07-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "先生、今、何時ですか。",
+   "start_sec": 32.477,
+   "end_sec": 34.993,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D008-S01",
+   "unit_id": "C07-D008",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "こんにちは。",
+   "start_sec": 35.343,
+   "end_sec": 36.18,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D008-S02",
+   "unit_id": "C07-D008",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "十一時半です。",
+   "start_sec": 36.33,
+   "end_sec": 37.731,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D008-S03",
+   "unit_id": "C07-D008",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "リンさんは午後、どこで勉強しますか。",
+   "start_sec": 37.881,
+   "end_sec": 40.48,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D009-S01",
+   "unit_id": "C07-D009",
+   "section": "D",
+   "speaker": "リン",
+   "text": "図書館です。",
+   "start_sec": 40.83,
+   "end_sec": 41.834,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D009-S02",
+   "unit_id": "C07-D009",
+   "section": "D",
+   "speaker": "リン",
+   "text": "一時から四時まで、図書館で日本語を勉強します。",
+   "start_sec": 41.984,
+   "end_sec": 45.597,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D009-S03",
+   "unit_id": "C07-D009",
+   "section": "D",
+   "speaker": "リン",
+   "text": "マテオさんは？",
+   "start_sec": 45.747,
+   "end_sec": 46.735,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D010-S01",
+   "unit_id": "C07-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "わたしは宿題があります。",
+   "start_sec": 47.085,
+   "end_sec": 48.707,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D010-S02",
+   "unit_id": "C07-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "一時に図書館へ行きます。",
+   "start_sec": 48.857,
+   "end_sec": 50.558,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D010-S03",
+   "unit_id": "C07-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさんと一緒に勉強します。",
+   "start_sec": 50.708,
+   "end_sec": 52.506,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D010-S04",
+   "unit_id": "C07-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "交通の地図を作ります。",
+   "start_sec": 52.656,
+   "end_sec": 54.153,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D011-S01",
+   "unit_id": "C07-D011",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 54.503,
+   "end_sec": 55.219,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D011-S02",
+   "unit_id": "C07-D011",
+   "section": "D",
+   "speaker": "リン",
+   "text": "図書館の入口に地図があります。",
+   "start_sec": 55.369,
+   "end_sec": 57.797,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D011-S03",
+   "unit_id": "C07-D011",
+   "section": "D",
+   "speaker": "リン",
+   "text": "わたしは一時にその前にいます。",
+   "start_sec": 57.947,
+   "end_sec": 60.383,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D012-S01",
+   "unit_id": "C07-D012",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 60.733,
+   "end_sec": 61.32,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D012-S02",
+   "unit_id": "C07-D012",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "一時に図書館の入口へ行きます。",
+   "start_sec": 61.47,
+   "end_sec": 63.726,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D013-S01",
+   "unit_id": "C07-D013",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "リンさんはどこで昼ご飯を食べますか。",
+   "start_sec": 64.076,
+   "end_sec": 66.543,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D014-S01",
+   "unit_id": "C07-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "公園で食べます。",
+   "start_sec": 66.893,
+   "end_sec": 68.3,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D014-S02",
+   "unit_id": "C07-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "かばんの中にパンがあります。",
+   "start_sec": 68.45,
+   "end_sec": 70.518,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D014-S03",
+   "unit_id": "C07-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "マテオさんは？",
+   "start_sec": 70.668,
+   "end_sec": 71.677,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D015-S01",
+   "unit_id": "C07-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "公園で食べます。",
+   "start_sec": 72.027,
+   "end_sec": 73.229,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D015-S02",
+   "unit_id": "C07-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今、スーパーでパンを買います。",
+   "start_sec": 73.379,
+   "end_sec": 75.305,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D015-S03",
+   "unit_id": "C07-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "水も買います。",
+   "start_sec": 75.455,
+   "end_sec": 76.479,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D016-S01",
+   "unit_id": "C07-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "わたしはお茶を買います。",
+   "start_sec": 76.829,
+   "end_sec": 78.507,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D016-S02",
+   "unit_id": "C07-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "スーパーはどこですか。",
+   "start_sec": 78.657,
+   "end_sec": 80.516,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D017-S01",
+   "unit_id": "C07-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "駅の隣です。",
+   "start_sec": 80.866,
+   "end_sec": 82.06,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D017-S02",
+   "unit_id": "C07-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "この地図を見ます。",
+   "start_sec": 82.21,
+   "end_sec": 83.391,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D017-S03",
+   "unit_id": "C07-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "駅はここです。",
+   "start_sec": 83.541,
+   "end_sec": 84.642,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D017-S04",
+   "unit_id": "C07-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "スーパーは駅の左です。",
+   "start_sec": 84.792,
+   "end_sec": 86.585,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D017-S05",
+   "unit_id": "C07-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "川の西です。",
+   "start_sec": 86.735,
+   "end_sec": 87.998,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D017-S06",
+   "unit_id": "C07-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "川の向こう側、東に公園があります。",
+   "start_sec": 88.148,
+   "end_sec": 90.979,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D018-S01",
+   "unit_id": "C07-D018",
+   "section": "D",
+   "speaker": "パク",
+   "text": "わたしは今、駅へ行きます。",
+   "start_sec": 91.329,
+   "end_sec": 93.048,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D018-S02",
+   "unit_id": "C07-D018",
+   "section": "D",
+   "speaker": "パク",
+   "text": "出口の前にバス停があります。",
+   "start_sec": 93.198,
+   "end_sec": 95.393,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D018-S03",
+   "unit_id": "C07-D018",
+   "section": "D",
+   "speaker": "パク",
+   "text": "あの交差点には横断歩道もあります。",
+   "start_sec": 95.543,
+   "end_sec": 98.154,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D018-S04",
+   "unit_id": "C07-D018",
+   "section": "D",
+   "speaker": "パク",
+   "text": "信号は今、赤です。",
+   "start_sec": 98.304,
+   "end_sec": 99.876,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D018-S05",
+   "unit_id": "C07-D018",
+   "section": "D",
+   "speaker": "パク",
+   "text": "車が止まります。",
+   "start_sec": 100.026,
+   "end_sec": 101.266,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D035-S01",
+   "unit_id": "C07-D035",
+   "section": "D",
+   "speaker": "パク",
+   "text": "信号の色は赤、黄色、青です。",
+   "start_sec": 101.616,
+   "end_sec": 105.118,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D035-S02",
+   "unit_id": "C07-D035",
+   "section": "D",
+   "speaker": "パク",
+   "text": "この図の青は交通の信号の色です。",
+   "start_sec": 105.268,
+   "end_sec": 107.825,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D036-S01",
+   "unit_id": "C07-D036",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今、青です。",
+   "start_sec": 108.175,
+   "end_sec": 109.357,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D036-S02",
+   "unit_id": "C07-D036",
+   "section": "D",
+   "speaker": "リン",
+   "text": "車が進みます。",
+   "start_sec": 109.507,
+   "end_sec": 111.033,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D036-S03",
+   "unit_id": "C07-D036",
+   "section": "D",
+   "speaker": "リン",
+   "text": "公園へは、あの横断歩道で道路を渡りますか。",
+   "start_sec": 111.183,
+   "end_sec": 115.161,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D037-S01",
+   "unit_id": "C07-D037",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 115.511,
+   "end_sec": 116.024,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D037-S02",
+   "unit_id": "C07-D037",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "街角の地図にも公園があります。",
+   "start_sec": 116.174,
+   "end_sec": 118.339,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D037-S03",
+   "unit_id": "C07-D037",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "川の隣に散歩道があります。",
+   "start_sec": 118.489,
+   "end_sec": 120.7,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D037-S04",
+   "unit_id": "C07-D037",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "そこから公園へ向かいます。",
+   "start_sec": 120.85,
+   "end_sec": 122.492,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D019-S01",
+   "unit_id": "C07-D019",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "パクさんは何時に家へ帰りますか。",
+   "start_sec": 122.842,
+   "end_sec": 124.953,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D020-S01",
+   "unit_id": "C07-D020",
+   "section": "D",
+   "speaker": "パク",
+   "text": "一時に電車で家へ帰ります。",
+   "start_sec": 125.303,
+   "end_sec": 127.697,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D021-S01",
+   "unit_id": "C07-D021",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "すみません、もう一度お願いします。",
+   "start_sec": 128.047,
+   "end_sec": 130.216,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D022-S01",
+   "unit_id": "C07-D022",
+   "section": "D",
+   "speaker": "パク",
+   "text": "一時に、電車で、家へ帰ります。",
+   "start_sec": 130.566,
+   "end_sec": 133.67,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D022-S02",
+   "unit_id": "C07-D022",
+   "section": "D",
+   "speaker": "パク",
+   "text": "昼ご飯は家で食べます。",
+   "start_sec": 133.82,
+   "end_sec": 135.506,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D023-S01",
+   "unit_id": "C07-D023",
+   "section": "D",
+   "speaker": "リン",
+   "text": "パクさんは明日、働きますか。",
+   "start_sec": 135.856,
+   "end_sec": 138.344,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D024-S01",
+   "unit_id": "C07-D024",
+   "section": "D",
+   "speaker": "パク",
+   "text": "いいえ、日曜日は働きません。",
+   "start_sec": 138.694,
+   "end_sec": 141.23,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D024-S02",
+   "unit_id": "C07-D024",
+   "section": "D",
+   "speaker": "パク",
+   "text": "月曜日から金曜日まで会社で働きます。",
+   "start_sec": 141.38,
+   "end_sec": 144.09,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D025-S01",
+   "unit_id": "C07-D025",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "アナンドさんは土曜日、何時から何時まで働きますか。",
+   "start_sec": 144.44,
+   "end_sec": 148.229,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D026-S01",
+   "unit_id": "C07-D026",
+   "section": "D",
+   "speaker": "パク",
+   "text": "九時から五時までです。",
+   "start_sec": 148.579,
+   "end_sec": 149.897,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D026-S02",
+   "unit_id": "C07-D026",
+   "section": "D",
+   "speaker": "パク",
+   "text": "今日、アナンドさんは会社にいます。",
+   "start_sec": 150.047,
+   "end_sec": 151.979,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D027-S01",
+   "unit_id": "C07-D027",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "マテオさんは明日、センターに来ますか。",
+   "start_sec": 152.329,
+   "end_sec": 154.763,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D028-S01",
+   "unit_id": "C07-D028",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "いいえ、来ません。",
+   "start_sec": 155.113,
+   "end_sec": 156.338,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D028-S02",
+   "unit_id": "C07-D028",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "九時に起きます。",
+   "start_sec": 156.488,
+   "end_sec": 157.706,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D028-S03",
+   "unit_id": "C07-D028",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "午前、家で勉強します。",
+   "start_sec": 157.856,
+   "end_sec": 159.582,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D028-S04",
+   "unit_id": "C07-D028",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "午後、大学の友達と公園へ行きます。",
+   "start_sec": 159.732,
+   "end_sec": 162.686,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D029-S01",
+   "unit_id": "C07-D029",
+   "section": "D",
+   "speaker": "リン",
+   "text": "わたしは明日、七時に起きます。",
+   "start_sec": 163.036,
+   "end_sec": 165.67,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D029-S02",
+   "unit_id": "C07-D029",
+   "section": "D",
+   "speaker": "リン",
+   "text": "朝、家で本を読みます。",
+   "start_sec": 165.82,
+   "end_sec": 168.037,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D029-S03",
+   "unit_id": "C07-D029",
+   "section": "D",
+   "speaker": "リン",
+   "text": "午後、図書館へ行きます。",
+   "start_sec": 168.187,
+   "end_sec": 169.934,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D029-S04",
+   "unit_id": "C07-D029",
+   "section": "D",
+   "speaker": "リン",
+   "text": "先生は？",
+   "start_sec": 170.084,
+   "end_sec": 170.99,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D030-S01",
+   "unit_id": "C07-D030",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "わたしは明日、センターに来ません。",
+   "start_sec": 171.34,
+   "end_sec": 173.201,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D030-S02",
+   "unit_id": "C07-D030",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "家で日本の写真を見ます。",
+   "start_sec": 173.351,
+   "end_sec": 175.347,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D030-S03",
+   "unit_id": "C07-D030",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "夜、日本語の本を読みます。",
+   "start_sec": 175.497,
+   "end_sec": 177.436,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D038-S01",
+   "unit_id": "C07-D038",
+   "section": "D",
+   "speaker": "リン",
+   "text": "午後、地図は何で作りますか。",
+   "start_sec": 177.786,
+   "end_sec": 180.341,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D039-S01",
+   "unit_id": "C07-D039",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "紙で作ります。",
+   "start_sec": 180.691,
+   "end_sec": 181.914,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D039-S02",
+   "unit_id": "C07-D039",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ペンで駅の名前を書きます。",
+   "start_sec": 182.064,
+   "end_sec": 184.072,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D039-S03",
+   "unit_id": "C07-D039",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "市内の地下鉄も地図にあります。",
+   "start_sec": 184.222,
+   "end_sec": 186.225,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D040-S01",
+   "unit_id": "C07-D040",
+   "section": "D",
+   "speaker": "リン",
+   "text": "説明は日本語で書きますか。",
+   "start_sec": 186.575,
+   "end_sec": 188.996,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D040-S02",
+   "unit_id": "C07-D040",
+   "section": "D",
+   "speaker": "リン",
+   "text": "飛行機の写真も使いますか。",
+   "start_sec": 189.146,
+   "end_sec": 191.332,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D041-S01",
+   "unit_id": "C07-D041",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 191.682,
+   "end_sec": 192.248,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D041-S02",
+   "unit_id": "C07-D041",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "写真を机に置きます。",
+   "start_sec": 192.398,
+   "end_sec": 193.933,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D041-S03",
+   "unit_id": "C07-D041",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "先生にも電話します。",
+   "start_sec": 194.083,
+   "end_sec": 195.389,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D041-S04",
+   "unit_id": "C07-D041",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "地図の説明はリンさんの番です。",
+   "start_sec": 195.539,
+   "end_sec": 197.51,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D031-S01",
+   "unit_id": "C07-D031",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "わたしは今、スーパーへ行きます。",
+   "start_sec": 197.86,
+   "end_sec": 200.069,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D031-S02",
+   "unit_id": "C07-D031",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさんは？",
+   "start_sec": 200.219,
+   "end_sec": 201.029,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D032-S01",
+   "unit_id": "C07-D032",
+   "section": "D",
+   "speaker": "リン",
+   "text": "マテオさんと一緒に行きます。",
+   "start_sec": 201.379,
+   "end_sec": 203.293,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D032-S02",
+   "unit_id": "C07-D032",
+   "section": "D",
+   "speaker": "リン",
+   "text": "十二時に公園で昼ご飯を食べます。",
+   "start_sec": 203.443,
+   "end_sec": 206.333,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D033-S01",
+   "unit_id": "C07-D033",
+   "section": "D",
+   "speaker": "パク",
+   "text": "わたしは駅へ行きます。",
+   "start_sec": 206.683,
+   "end_sec": 208.25,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D033-S02",
+   "unit_id": "C07-D033",
+   "section": "D",
+   "speaker": "パク",
+   "text": "先生、さようなら。",
+   "start_sec": 208.4,
+   "end_sec": 209.725,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C07-D034-S01",
+   "unit_id": "C07-D034",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "さようなら。",
+   "start_sec": 210.075,
+   "end_sec": 210.901,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

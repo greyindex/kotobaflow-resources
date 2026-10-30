@@ -1,0 +1,3 @@
+# Public learning resources
+
+Read README.md and THIRD_PARTY_NOTICES.md. This repository owns public content resources, not application secrets or personal progress. Do not import private repository history, any XinBian textbook-specific resource, credentials, signing keys, user progress, model weights, logs or build outputs. Only the 4,791 isolated word recordings explicitly shared by the four KotobaFlow books are permitted from the legacy word-audio directory. Keep third-party attribution and licenses. Media is distributed through versioned GitHub Releases and checked SHA-256 manifests; do not put the binary media archive into Git. Never change an existing release asset in place. Verify both profile manifests before publication.

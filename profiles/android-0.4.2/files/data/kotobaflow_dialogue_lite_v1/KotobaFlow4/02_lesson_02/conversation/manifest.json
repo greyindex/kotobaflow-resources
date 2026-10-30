@@ -1,0 +1,870 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 174.351,
+ "listening_review": "pending",
+ "source_chapter": 58,
+ "turns": [
+  {
+   "turn_id": "C58-D001",
+   "turn_index": 0,
+   "speaker": "ハサン",
+   "source_text": "リンさん、電子書籍は使いましたか。私は登録の条件を調べています。「緑町の住民だけ」と投稿にあるのですが。",
+   "sentence_ids": [
+    "C58-D001-S01",
+    "C58-D001-S02",
+    "C58-D001-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 10.038,
+   "duration_sec": 10.038
+  },
+  {
+   "turn_id": "C58-D002",
+   "turn_index": 1,
+   "speaker": "林梅",
+   "source_text": "私は川西市に住んでいますが、十月に登録して、十一月四日に二冊借りました。今の規約に基づいて考えると、対象ですね。",
+   "sentence_ids": [
+    "C58-D002-S01",
+    "C58-D002-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 10.388,
+   "end_sec": 20.757,
+   "duration_sec": 10.369
+  },
+  {
+   "turn_id": "C58-D003",
+   "turn_index": 2,
+   "speaker": "ハサン",
+   "source_text": "投稿の日付は十月二十日です。公開前の情報でしょうか。今の説明とはつじつまが合わないですね。",
+   "sentence_ids": [
+    "C58-D003-S01",
+    "C58-D003-S02",
+    "C58-D003-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.107,
+   "end_sec": 29.458,
+   "duration_sec": 8.351
+  },
+  {
+   "turn_id": "C58-D004",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "その理由は未確認です。投稿した人が何を読んだかは分かりません。借りた二冊のうち、一冊の記録がない理由は分かりました。",
+   "sentence_ids": [
+    "C58-D004-S01",
+    "C58-D004-S02",
+    "C58-D004-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 29.808,
+   "end_sec": 39.379,
+   "duration_sec": 9.571
+  },
+  {
+   "turn_id": "C58-D005",
+   "turn_index": 4,
+   "speaker": "ハサン",
+   "source_text": "返却しましたか、その本は。案内によれば、保存に同意しないと返却した日に削除されるそうですよ。",
+   "sentence_ids": [
+    "C58-D005-S01",
+    "C58-D005-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.729,
+   "end_sec": 47.429,
+   "duration_sec": 7.7
+  },
+  {
+   "turn_id": "C58-D006",
+   "turn_index": 5,
+   "speaker": "林梅",
+   "source_text": "ええ、十一月八日に。設定は「同意しない」なので、そのままにします。来年の料金はまだ分からないから、窓口で聞きます。",
+   "sentence_ids": [
+    "C58-D006-S01",
+    "C58-D006-S02",
+    "C58-D006-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.779,
+   "end_sec": 57.436,
+   "duration_sec": 9.657
+  },
+  {
+   "turn_id": "C58-D007",
+   "turn_index": 6,
+   "speaker": "ハサン",
+   "source_text": "私は古い資料の内容も確かめたいです。「ヒヤリング」という教材名を見たんですが、聞く練習のことですか。",
+   "sentence_ids": [
+    "C58-D007-S01",
+    "C58-D007-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 57.786,
+   "end_sec": 65.599,
+   "duration_sec": 7.813
+  },
+  {
+   "turn_id": "C58-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "そうです。今はリスニングとも言いますね。その教材には高速電車の紹介があります。別の映像にはリニア・モーター・カーが出てきます。",
+   "sentence_ids": [
+    "C58-D008-S01",
+    "C58-D008-S02",
+    "C58-D008-S03",
+    "C58-D008-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 65.949,
+   "end_sec": 76.303,
+   "duration_sec": 10.354
+  },
+  {
+   "turn_id": "C58-D009",
+   "turn_index": 8,
+   "speaker": "ハサン",
+   "source_text": "映像と音声で年代が違うかもしれませんね。日付を比べてみます。「スカイ」というコンテンツもありますが、空の番組でしょうか。",
+   "sentence_ids": [
+    "C58-D009-S01",
+    "C58-D009-S02",
+    "C58-D009-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 76.653,
+   "end_sec": 86.013,
+   "duration_sec": 9.36
+  },
+  {
+   "turn_id": "C58-D010",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "はい、衛星の写真を使った短い番組です。週刊誌の紹介だけで選ばず、季刊誌の特集も比べてみましょう。",
+   "sentence_ids": [
+    "C58-D010-S01",
+    "C58-D010-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 86.363,
+   "end_sec": 94.812,
+   "duration_sec": 8.449
+  },
+  {
+   "turn_id": "C58-D011",
+   "turn_index": 10,
+   "speaker": "ハサン",
+   "source_text": "スマートフォンに脳トレーニングゲームの広告が届きました。リンクもあります。「毎日すれば必ず記憶力が上がる」と。これを信用していいでしょうか。",
+   "sentence_ids": [
+    "C58-D011-S01",
+    "C58-D011-S02",
+    "C58-D011-S03",
+    "C58-D011-S04"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 95.162,
+   "end_sec": 106.106,
+   "duration_sec": 10.944
+  },
+  {
+   "turn_id": "C58-D012",
+   "turn_index": 11,
+   "speaker": "林梅",
+   "source_text": "効果が期待されることと、確認されたことは違います。利用者を騙す意図があるかも、広告だけでは判断できません。",
+   "sentence_ids": [
+    "C58-D012-S01",
+    "C58-D012-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 106.456,
+   "end_sec": 115.786,
+   "duration_sec": 9.33
+  },
+  {
+   "turn_id": "C58-D013",
+   "turn_index": 12,
+   "speaker": "ハサン",
+   "source_text": "図書館のロボットがゲームを勧めたという投稿もあります。でも、図書館には案内ロボットがいないそうです。",
+   "sentence_ids": [
+    "C58-D013-S01",
+    "C58-D013-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 116.136,
+   "end_sec": 122.657,
+   "duration_sec": 6.521
+  },
+  {
+   "turn_id": "C58-D014",
+   "turn_index": 13,
+   "speaker": "林梅",
+   "source_text": "公式の案内に注意書きがあるところを見ると、同じ相談があったのかもしれません。リンクを開かず、その送信者をブロックしましょう。",
+   "sentence_ids": [
+    "C58-D014-S01",
+    "C58-D014-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 123.007,
+   "end_sec": 132.748,
+   "duration_sec": 9.741
+  },
+  {
+   "turn_id": "C58-D015",
+   "turn_index": 14,
+   "speaker": "ハサン",
+   "source_text": "無線のイヤホンの案内には「秘話性」とあります。電磁波で音を送っても、他人に聞かれにくいということですね。音がよいこととは別ですね。",
+   "sentence_ids": [
+    "C58-D015-S01",
+    "C58-D015-S02",
+    "C58-D015-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 133.098,
+   "end_sec": 143.223,
+   "duration_sec": 10.125
+  },
+  {
+   "turn_id": "C58-D016",
+   "turn_index": 15,
+   "speaker": "林梅",
+   "source_text": "そうです。仕組みと使い方を分けて考えましょう。今日は資料を比べる会と銘打って集まったので、まず確認できたことをメモにしましょう。",
+   "sentence_ids": [
+    "C58-D016-S01",
+    "C58-D016-S02",
+    "C58-D016-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 143.573,
+   "end_sec": 153.988,
+   "duration_sec": 10.415
+  },
+  {
+   "turn_id": "C58-D017",
+   "turn_index": 16,
+   "speaker": "ハサン",
+   "source_text": "分類のラベルも付けます。「確認済み」と「未確認」に分ければ、次に調べることが分かりますね。",
+   "sentence_ids": [
+    "C58-D017-S01",
+    "C58-D017-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 154.338,
+   "end_sec": 160.434,
+   "duration_sec": 6.096
+  },
+  {
+   "turn_id": "C58-D018",
+   "turn_index": 17,
+   "speaker": "林梅",
+   "source_text": "ええ。確かめる手順が大切だとされていますが、今回は日付の確認が判断のキーになりました。聞いた話だけで決めませんでした。先に確認したので、今は安心しています。",
+   "sentence_ids": [
+    "C58-D018-S01",
+    "C58-D018-S02",
+    "C58-D018-S03",
+    "C58-D018-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 160.784,
+   "end_sec": 174.345,
+   "duration_sec": 13.561
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C58-D001-S01",
+   "unit_id": "C58-D001",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "リンさん、電子書籍は使いましたか。",
+   "start_sec": 0.0,
+   "end_sec": 3.136,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D001-S02",
+   "unit_id": "C58-D001",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "私は登録の条件を調べています。",
+   "start_sec": 3.286,
+   "end_sec": 6.277,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D001-S03",
+   "unit_id": "C58-D001",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "「緑町の住民だけ」と投稿にあるのですが。",
+   "start_sec": 6.427,
+   "end_sec": 10.038,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D002-S01",
+   "unit_id": "C58-D002",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私は川西市に住んでいますが、十月に登録して、十一月四日に二冊借りました。",
+   "start_sec": 10.388,
+   "end_sec": 17.265,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D002-S02",
+   "unit_id": "C58-D002",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今の規約に基づいて考えると、対象ですね。",
+   "start_sec": 17.415,
+   "end_sec": 20.757,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D003-S01",
+   "unit_id": "C58-D003",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "投稿の日付は十月二十日です。",
+   "start_sec": 21.107,
+   "end_sec": 24.435,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D003-S02",
+   "unit_id": "C58-D003",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "公開前の情報でしょうか。",
+   "start_sec": 24.585,
+   "end_sec": 26.419,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D003-S03",
+   "unit_id": "C58-D003",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "今の説明とはつじつまが合わないですね。",
+   "start_sec": 26.569,
+   "end_sec": 29.458,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D004-S01",
+   "unit_id": "C58-D004",
+   "section": "D",
+   "speaker": "リン",
+   "text": "その理由は未確認です。",
+   "start_sec": 29.808,
+   "end_sec": 31.83,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D004-S02",
+   "unit_id": "C58-D004",
+   "section": "D",
+   "speaker": "リン",
+   "text": "投稿した人が何を読んだかは分かりません。",
+   "start_sec": 31.98,
+   "end_sec": 34.928,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D004-S03",
+   "unit_id": "C58-D004",
+   "section": "D",
+   "speaker": "リン",
+   "text": "借りた二冊のうち、一冊の記録がない理由は分かりました。",
+   "start_sec": 35.078,
+   "end_sec": 39.379,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D005-S01",
+   "unit_id": "C58-D005",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "返却しましたか、その本は。",
+   "start_sec": 39.729,
+   "end_sec": 41.911,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D005-S02",
+   "unit_id": "C58-D005",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "案内によれば、保存に同意しないと返却した日に削除されるそうですよ。",
+   "start_sec": 42.061,
+   "end_sec": 47.429,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D006-S01",
+   "unit_id": "C58-D006",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ええ、十一月八日に。",
+   "start_sec": 47.779,
+   "end_sec": 49.895,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D006-S02",
+   "unit_id": "C58-D006",
+   "section": "D",
+   "speaker": "リン",
+   "text": "設定は「同意しない」なので、そのままにします。",
+   "start_sec": 50.045,
+   "end_sec": 53.787,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D006-S03",
+   "unit_id": "C58-D006",
+   "section": "D",
+   "speaker": "リン",
+   "text": "来年の料金はまだ分からないから、窓口で聞きます。",
+   "start_sec": 53.937,
+   "end_sec": 57.436,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D007-S01",
+   "unit_id": "C58-D007",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "私は古い資料の内容も確かめたいです。",
+   "start_sec": 57.786,
+   "end_sec": 60.792,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D007-S02",
+   "unit_id": "C58-D007",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "「ヒヤリング」という教材名を見たんですが、聞く練習のことですか。",
+   "start_sec": 60.942,
+   "end_sec": 65.599,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D008-S01",
+   "unit_id": "C58-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "そうです。",
+   "start_sec": 65.949,
+   "end_sec": 66.805,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D008-S02",
+   "unit_id": "C58-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今はリスニングとも言いますね。",
+   "start_sec": 66.955,
+   "end_sec": 69.108,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D008-S03",
+   "unit_id": "C58-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "その教材には高速電車の紹介があります。",
+   "start_sec": 69.258,
+   "end_sec": 72.704,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D008-S04",
+   "unit_id": "C58-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "別の映像にはリニア・モーター・カーが出てきます。",
+   "start_sec": 72.854,
+   "end_sec": 76.303,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D009-S01",
+   "unit_id": "C58-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "映像と音声で年代が違うかもしれませんね。",
+   "start_sec": 76.653,
+   "end_sec": 79.839,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D009-S02",
+   "unit_id": "C58-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "日付を比べてみます。",
+   "start_sec": 79.989,
+   "end_sec": 81.741,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D009-S03",
+   "unit_id": "C58-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "「スカイ」というコンテンツもありますが、空の番組でしょうか。",
+   "start_sec": 81.891,
+   "end_sec": 86.013,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D010-S01",
+   "unit_id": "C58-D010",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい、衛星の写真を使った短い番組です。",
+   "start_sec": 86.363,
+   "end_sec": 89.972,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D010-S02",
+   "unit_id": "C58-D010",
+   "section": "D",
+   "speaker": "リン",
+   "text": "週刊誌の紹介だけで選ばず、季刊誌の特集も比べてみましょう。",
+   "start_sec": 90.122,
+   "end_sec": 94.812,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D011-S01",
+   "unit_id": "C58-D011",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "スマートフォンに脳トレーニングゲームの広告が届きました。",
+   "start_sec": 95.162,
+   "end_sec": 98.987,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D011-S02",
+   "unit_id": "C58-D011",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "リンクもあります。",
+   "start_sec": 99.137,
+   "end_sec": 100.378,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D011-S03",
+   "unit_id": "C58-D011",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "「毎日すれば必ず記憶力が上がる」と。",
+   "start_sec": 100.528,
+   "end_sec": 103.812,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D011-S04",
+   "unit_id": "C58-D011",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "これを信用していいでしょうか。",
+   "start_sec": 103.962,
+   "end_sec": 106.106,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D012-S01",
+   "unit_id": "C58-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "効果が期待されることと、確認されたことは違います。",
+   "start_sec": 106.456,
+   "end_sec": 111.252,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D012-S02",
+   "unit_id": "C58-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "利用者を騙す意図があるかも、広告だけでは判断できません。",
+   "start_sec": 111.402,
+   "end_sec": 115.786,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D013-S01",
+   "unit_id": "C58-D013",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "図書館のロボットがゲームを勧めたという投稿もあります。",
+   "start_sec": 116.136,
+   "end_sec": 119.304,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D013-S02",
+   "unit_id": "C58-D013",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "でも、図書館には案内ロボットがいないそうです。",
+   "start_sec": 119.454,
+   "end_sec": 122.657,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D014-S01",
+   "unit_id": "C58-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "公式の案内に注意書きがあるところを見ると、同じ相談があったのかもしれません。",
+   "start_sec": 123.007,
+   "end_sec": 128.945,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D014-S02",
+   "unit_id": "C58-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "リンクを開かず、その送信者をブロックしましょう。",
+   "start_sec": 129.095,
+   "end_sec": 132.748,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D015-S01",
+   "unit_id": "C58-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "無線のイヤホンの案内には「秘話性」とあります。",
+   "start_sec": 133.098,
+   "end_sec": 136.478,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D015-S02",
+   "unit_id": "C58-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "電磁波で音を送っても、他人に聞かれにくいということですね。",
+   "start_sec": 136.628,
+   "end_sec": 140.723,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D015-S03",
+   "unit_id": "C58-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "音がよいこととは別ですね。",
+   "start_sec": 140.873,
+   "end_sec": 143.223,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D016-S01",
+   "unit_id": "C58-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "そうです。",
+   "start_sec": 143.573,
+   "end_sec": 144.58,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D016-S02",
+   "unit_id": "C58-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "仕組みと使い方を分けて考えましょう。",
+   "start_sec": 144.73,
+   "end_sec": 147.524,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D016-S03",
+   "unit_id": "C58-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今日は資料を比べる会と銘打って集まったので、まず確認できたことをメモにしましょう。",
+   "start_sec": 147.674,
+   "end_sec": 153.988,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D017-S01",
+   "unit_id": "C58-D017",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "分類のラベルも付けます。",
+   "start_sec": 154.338,
+   "end_sec": 156.148,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D017-S02",
+   "unit_id": "C58-D017",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "「確認済み」と「未確認」に分ければ、次に調べることが分かりますね。",
+   "start_sec": 156.298,
+   "end_sec": 160.434,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D018-S01",
+   "unit_id": "C58-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ええ。",
+   "start_sec": 160.784,
+   "end_sec": 161.607,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D018-S02",
+   "unit_id": "C58-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "確かめる手順が大切だとされていますが、今回は日付の確認が判断のキーになりました。",
+   "start_sec": 161.757,
+   "end_sec": 168.687,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D018-S03",
+   "unit_id": "C58-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "聞いた話だけで決めませんでした。",
+   "start_sec": 168.837,
+   "end_sec": 171.162,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C58-D018-S04",
+   "unit_id": "C58-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "先に確認したので、今は安心しています。",
+   "start_sec": 171.312,
+   "end_sec": 174.345,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

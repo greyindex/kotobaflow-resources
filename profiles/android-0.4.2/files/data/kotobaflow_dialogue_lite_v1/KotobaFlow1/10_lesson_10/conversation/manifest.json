@@ -1,0 +1,1425 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 158.432,
+ "listening_review": "pending",
+ "source_chapter": 10,
+ "turns": [
+  {
+   "turn_id": "C10-D001",
+   "turn_index": 0,
+   "speaker": "店の人",
+   "source_text": "こんにちは。何人ですか。",
+   "sentence_ids": [
+    "C10-D001-S01",
+    "C10-D001-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 2.285,
+   "duration_sec": 2.285
+  },
+  {
+   "turn_id": "C10-D002",
+   "turn_index": 1,
+   "speaker": "林梅",
+   "source_text": "はい、二人です。あのテーブルですか。",
+   "sentence_ids": [
+    "C10-D002-S01",
+    "C10-D002-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 2.635,
+   "end_sec": 5.851,
+   "duration_sec": 3.216
+  },
+  {
+   "turn_id": "C10-D003",
+   "turn_index": 2,
+   "speaker": "店の人",
+   "source_text": "あのテーブルに三人います。こちらへどうぞ。メニューはここにあります。",
+   "sentence_ids": [
+    "C10-D003-S01",
+    "C10-D003-S02",
+    "C10-D003-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 6.201,
+   "end_sec": 10.942,
+   "duration_sec": 4.741
+  },
+  {
+   "turn_id": "C10-D004",
+   "turn_index": 3,
+   "speaker": "マテオ",
+   "source_text": "ありがとうございます。リンさん、どれが欲しいですか。私は魚とご飯が欲しいです。",
+   "sentence_ids": [
+    "C10-D004-S01",
+    "C10-D004-S02",
+    "C10-D004-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.292,
+   "end_sec": 17.179,
+   "duration_sec": 5.887
+  },
+  {
+   "turn_id": "C10-D005",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "私は野菜とご飯が欲しいです。昨日は肉を食べました。野菜とご飯はいくらですか。",
+   "sentence_ids": [
+    "C10-D005-S01",
+    "C10-D005-S02",
+    "C10-D005-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 17.529,
+   "end_sec": 25.239,
+   "duration_sec": 7.71
+  },
+  {
+   "turn_id": "C10-D006",
+   "turn_index": 5,
+   "speaker": "マテオ",
+   "source_text": "九百円です。卵もありますね。魚とご飯は千円です。値段は税込ですよ。",
+   "sentence_ids": [
+    "C10-D006-S01",
+    "C10-D006-S02",
+    "C10-D006-S03",
+    "C10-D006-S04"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 25.589,
+   "end_sec": 32.507,
+   "duration_sec": 6.918
+  },
+  {
+   "turn_id": "C10-D007",
+   "turn_index": 6,
+   "speaker": "林梅",
+   "source_text": "牛乳も欲しいです。マテオさんはコーヒーですか。",
+   "sentence_ids": [
+    "C10-D007-S01",
+    "C10-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 32.857,
+   "end_sec": 36.632,
+   "duration_sec": 3.775
+  },
+  {
+   "turn_id": "C10-D008",
+   "turn_index": 7,
+   "speaker": "マテオ",
+   "source_text": "今日はジュースだけ注文します。ここのコーヒーは私の口に合いません。",
+   "sentence_ids": [
+    "C10-D008-S01",
+    "C10-D008-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.982,
+   "end_sec": 41.54,
+   "duration_sec": 4.558
+  },
+  {
+   "turn_id": "C10-D009",
+   "turn_index": 8,
+   "speaker": "林梅",
+   "source_text": "まずいですか。私はここのコーヒーが好きですよ。",
+   "sentence_ids": [
+    "C10-D009-S01",
+    "C10-D009-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 41.89,
+   "end_sec": 45.739,
+   "duration_sec": 3.849
+  },
+  {
+   "turn_id": "C10-D010",
+   "turn_index": 9,
+   "speaker": "マテオ",
+   "source_text": "いいえ、ちょっと苦いです。今日はジュースが欲しいです。財布に二千円あります。",
+   "sentence_ids": [
+    "C10-D010-S01",
+    "C10-D010-S02",
+    "C10-D010-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 46.089,
+   "end_sec": 51.812,
+   "duration_sec": 5.723
+  },
+  {
+   "turn_id": "C10-D011",
+   "turn_index": 10,
+   "speaker": "林梅",
+   "source_text": "私は千百円あります。野菜とご飯に牛乳をお願いします。",
+   "sentence_ids": [
+    "C10-D011-S01",
+    "C10-D011-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.162,
+   "end_sec": 57.5,
+   "duration_sec": 5.338
+  },
+  {
+   "turn_id": "C10-D012",
+   "turn_index": 11,
+   "speaker": "マテオ",
+   "source_text": "すみません。魚とご飯を一つください。ジュースを一つください。",
+   "sentence_ids": [
+    "C10-D012-S01",
+    "C10-D012-S02",
+    "C10-D012-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 57.85,
+   "end_sec": 62.814,
+   "duration_sec": 4.964
+  },
+  {
+   "turn_id": "C10-D013",
+   "turn_index": 12,
+   "speaker": "林梅",
+   "source_text": "私は野菜とご飯を一つください。ご飯は少しだけください。牛乳も一つください。箸もお願いします。",
+   "sentence_ids": [
+    "C10-D013-S01",
+    "C10-D013-S02",
+    "C10-D013-S03",
+    "C10-D013-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.164,
+   "end_sec": 71.159,
+   "duration_sec": 7.995
+  },
+  {
+   "turn_id": "C10-D014",
+   "turn_index": 13,
+   "speaker": "店の人",
+   "source_text": "はい。魚とご飯は一つ、野菜とご飯も一つですね。ジュースは一杯、牛乳も一杯ですね。",
+   "sentence_ids": [
+    "C10-D014-S01",
+    "C10-D014-S02",
+    "C10-D014-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 71.509,
+   "end_sec": 79.233,
+   "duration_sec": 7.724
+  },
+  {
+   "turn_id": "C10-D015",
+   "turn_index": 14,
+   "speaker": "マテオ",
+   "source_text": "パンも欲しいです。この大きいパンはいくらしますか。",
+   "sentence_ids": [
+    "C10-D015-S01",
+    "C10-D015-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 79.583,
+   "end_sec": 83.006,
+   "duration_sec": 3.423
+  },
+  {
+   "turn_id": "C10-D016",
+   "turn_index": 15,
+   "speaker": "店の人",
+   "source_text": "一個五百円です。",
+   "sentence_ids": [
+    "C10-D016-S01"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 83.356,
+   "end_sec": 84.9,
+   "duration_sec": 1.544
+  },
+  {
+   "turn_id": "C10-D017",
+   "turn_index": 16,
+   "speaker": "マテオ",
+   "source_text": "五百円もしますか。どのパンが安いですか。",
+   "sentence_ids": [
+    "C10-D017-S01",
+    "C10-D017-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 85.25,
+   "end_sec": 89.225,
+   "duration_sec": 3.975
+  },
+  {
+   "turn_id": "C10-D018",
+   "turn_index": 17,
+   "speaker": "店の人",
+   "source_text": "この小さいのです。一個二百円です。卵のパンは四百円です。",
+   "sentence_ids": [
+    "C10-D018-S01",
+    "C10-D018-S02",
+    "C10-D018-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.575,
+   "end_sec": 94.76,
+   "duration_sec": 5.185
+  },
+  {
+   "turn_id": "C10-D019",
+   "turn_index": 18,
+   "speaker": "林梅",
+   "source_text": "マテオさん、パンをいくつ買いますか。",
+   "sentence_ids": [
+    "C10-D019-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 95.11,
+   "end_sec": 97.803,
+   "duration_sec": 2.693
+  },
+  {
+   "turn_id": "C10-D020",
+   "turn_index": 19,
+   "speaker": "マテオ",
+   "source_text": "二つ買います。明日の朝ご飯です。昨日、パンを買いませんでした。小さいパンを二つください。袋を一つください。",
+   "sentence_ids": [
+    "C10-D020-S01",
+    "C10-D020-S02",
+    "C10-D020-S03",
+    "C10-D020-S04",
+    "C10-D020-S05"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 98.153,
+   "end_sec": 106.283,
+   "duration_sec": 8.13
+  },
+  {
+   "turn_id": "C10-D021",
+   "turn_index": 20,
+   "speaker": "店の人",
+   "source_text": "パンは三つ、袋は一枚ですね。",
+   "sentence_ids": [
+    "C10-D021-S01"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 106.633,
+   "end_sec": 109.387,
+   "duration_sec": 2.754
+  },
+  {
+   "turn_id": "C10-D022",
+   "turn_index": 21,
+   "speaker": "マテオ",
+   "source_text": "いいえ、数が違います。二つだけです。袋は一枚ください。",
+   "sentence_ids": [
+    "C10-D022-S01",
+    "C10-D022-S02",
+    "C10-D022-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.737,
+   "end_sec": 114.117,
+   "duration_sec": 4.38
+  },
+  {
+   "turn_id": "C10-D023",
+   "turn_index": 22,
+   "speaker": "店の人",
+   "source_text": "すみません。パンは二個ですね。二個四百円です。袋は一枚十円です。",
+   "sentence_ids": [
+    "C10-D023-S01",
+    "C10-D023-S02",
+    "C10-D023-S03",
+    "C10-D023-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 114.467,
+   "end_sec": 120.738,
+   "duration_sec": 6.271
+  },
+  {
+   "turn_id": "C10-D024",
+   "turn_index": 23,
+   "speaker": "マテオ",
+   "source_text": "はい、お願いします。私の注文は千九百十円ですね。",
+   "sentence_ids": [
+    "C10-D024-S01",
+    "C10-D024-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 121.088,
+   "end_sec": 125.986,
+   "duration_sec": 4.898
+  },
+  {
+   "turn_id": "C10-D025",
+   "turn_index": 24,
+   "speaker": "店の人",
+   "source_text": "はい、千九百十円です。野菜とご飯と牛乳は千百円です。値段は税込です。レシートは二枚です。",
+   "sentence_ids": [
+    "C10-D025-S01",
+    "C10-D025-S02",
+    "C10-D025-S03",
+    "C10-D025-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 126.336,
+   "end_sec": 135.697,
+   "duration_sec": 9.361
+  },
+  {
+   "turn_id": "C10-D026",
+   "turn_index": 25,
+   "speaker": "林梅",
+   "source_text": "ありがとうございます。私のレシートはどれですか。",
+   "sentence_ids": [
+    "C10-D026-S01",
+    "C10-D026-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 136.047,
+   "end_sec": 139.695,
+   "duration_sec": 3.648
+  },
+  {
+   "turn_id": "C10-D027",
+   "turn_index": 26,
+   "speaker": "店の人",
+   "source_text": "これです。千百円のはリンさんのです。",
+   "sentence_ids": [
+    "C10-D027-S01",
+    "C10-D027-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 140.045,
+   "end_sec": 143.296,
+   "duration_sec": 3.251
+  },
+  {
+   "turn_id": "C10-D028",
+   "turn_index": 27,
+   "speaker": "林梅",
+   "source_text": "はい。パンも袋も私の注文ではありませんね。",
+   "sentence_ids": [
+    "C10-D028-S01",
+    "C10-D028-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 143.646,
+   "end_sec": 147.47,
+   "duration_sec": 3.824
+  },
+  {
+   "turn_id": "C10-D029",
+   "turn_index": 28,
+   "speaker": "マテオ",
+   "source_text": "ごちそうさまでした。千九百十円ですね。二千円あります。",
+   "sentence_ids": [
+    "C10-D029-S01",
+    "C10-D029-S02",
+    "C10-D029-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 148.37,
+   "end_sec": 152.752,
+   "duration_sec": 4.382
+  },
+  {
+   "turn_id": "C10-D030",
+   "turn_index": 29,
+   "speaker": "店の人",
+   "source_text": "はい。袋は要りますか。",
+   "sentence_ids": [
+    "C10-D030-S01",
+    "C10-D030-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 153.102,
+   "end_sec": 155.386,
+   "duration_sec": 2.284
+  },
+  {
+   "turn_id": "C10-D031",
+   "turn_index": 30,
+   "speaker": "マテオ",
+   "source_text": "はい、パンの袋ですね。お願いします。",
+   "sentence_ids": [
+    "C10-D031-S01",
+    "C10-D031-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 155.736,
+   "end_sec": 158.425,
+   "duration_sec": 2.689
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C10-D001-S01",
+   "unit_id": "C10-D001",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "こんにちは。",
+   "start_sec": 0.0,
+   "end_sec": 0.909,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D001-S02",
+   "unit_id": "C10-D001",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "何人ですか。",
+   "start_sec": 1.059,
+   "end_sec": 2.285,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D002-S01",
+   "unit_id": "C10-D002",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい、二人です。",
+   "start_sec": 2.635,
+   "end_sec": 4.043,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D002-S02",
+   "unit_id": "C10-D002",
+   "section": "D",
+   "speaker": "リン",
+   "text": "あのテーブルですか。",
+   "start_sec": 4.193,
+   "end_sec": 5.851,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D003-S01",
+   "unit_id": "C10-D003",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "あのテーブルに三人います。",
+   "start_sec": 6.201,
+   "end_sec": 7.991,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D003-S02",
+   "unit_id": "C10-D003",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "こちらへどうぞ。",
+   "start_sec": 8.141,
+   "end_sec": 9.245,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D003-S03",
+   "unit_id": "C10-D003",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "メニューはここにあります。",
+   "start_sec": 9.395,
+   "end_sec": 10.942,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D004-S01",
+   "unit_id": "C10-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ありがとうございます。",
+   "start_sec": 11.292,
+   "end_sec": 12.788,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D004-S02",
+   "unit_id": "C10-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさん、どれが欲しいですか。",
+   "start_sec": 12.938,
+   "end_sec": 14.785,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D004-S03",
+   "unit_id": "C10-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "私は魚とご飯が欲しいです。",
+   "start_sec": 14.935,
+   "end_sec": 17.179,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D005-S01",
+   "unit_id": "C10-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私は野菜とご飯が欲しいです。",
+   "start_sec": 17.529,
+   "end_sec": 20.718,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D005-S02",
+   "unit_id": "C10-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "昨日は肉を食べました。",
+   "start_sec": 20.868,
+   "end_sec": 22.803,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D005-S03",
+   "unit_id": "C10-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "野菜とご飯はいくらですか。",
+   "start_sec": 22.953,
+   "end_sec": 25.239,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D006-S01",
+   "unit_id": "C10-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "九百円です。",
+   "start_sec": 25.589,
+   "end_sec": 26.964,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D006-S02",
+   "unit_id": "C10-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "卵もありますね。",
+   "start_sec": 27.114,
+   "end_sec": 28.639,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D006-S03",
+   "unit_id": "C10-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "魚とご飯は千円です。",
+   "start_sec": 28.789,
+   "end_sec": 31.068,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D006-S04",
+   "unit_id": "C10-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "値段は税込ですよ。",
+   "start_sec": 31.218,
+   "end_sec": 32.507,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D007-S01",
+   "unit_id": "C10-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "牛乳も欲しいです。",
+   "start_sec": 32.857,
+   "end_sec": 34.37,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D007-S02",
+   "unit_id": "C10-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "マテオさんはコーヒーですか。",
+   "start_sec": 34.52,
+   "end_sec": 36.632,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D008-S01",
+   "unit_id": "C10-D008",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今日はジュースだけ注文します。",
+   "start_sec": 36.982,
+   "end_sec": 38.832,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D008-S02",
+   "unit_id": "C10-D008",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ここのコーヒーは私の口に合いません。",
+   "start_sec": 38.982,
+   "end_sec": 41.54,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D009-S01",
+   "unit_id": "C10-D009",
+   "section": "D",
+   "speaker": "リン",
+   "text": "まずいですか。",
+   "start_sec": 41.89,
+   "end_sec": 43.221,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D009-S02",
+   "unit_id": "C10-D009",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私はここのコーヒーが好きですよ。",
+   "start_sec": 43.371,
+   "end_sec": 45.739,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D010-S01",
+   "unit_id": "C10-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "いいえ、ちょっと苦いです。",
+   "start_sec": 46.089,
+   "end_sec": 47.936,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D010-S02",
+   "unit_id": "C10-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今日はジュースが欲しいです。",
+   "start_sec": 48.086,
+   "end_sec": 49.934,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D010-S03",
+   "unit_id": "C10-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "財布に二千円あります。",
+   "start_sec": 50.084,
+   "end_sec": 51.812,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D011-S01",
+   "unit_id": "C10-D011",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私は千百円あります。",
+   "start_sec": 52.162,
+   "end_sec": 54.171,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D011-S02",
+   "unit_id": "C10-D011",
+   "section": "D",
+   "speaker": "リン",
+   "text": "野菜とご飯に牛乳をお願いします。",
+   "start_sec": 54.321,
+   "end_sec": 57.5,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D012-S01",
+   "unit_id": "C10-D012",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "すみません。",
+   "start_sec": 57.85,
+   "end_sec": 58.707,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D012-S02",
+   "unit_id": "C10-D012",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "魚とご飯を一つください。",
+   "start_sec": 58.857,
+   "end_sec": 61.306,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D012-S03",
+   "unit_id": "C10-D012",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ジュースを一つください。",
+   "start_sec": 61.456,
+   "end_sec": 62.814,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D013-S01",
+   "unit_id": "C10-D013",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私は野菜とご飯を一つください。",
+   "start_sec": 63.164,
+   "end_sec": 65.792,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D013-S02",
+   "unit_id": "C10-D013",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ご飯は少しだけください。",
+   "start_sec": 65.942,
+   "end_sec": 67.769,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D013-S03",
+   "unit_id": "C10-D013",
+   "section": "D",
+   "speaker": "リン",
+   "text": "牛乳も一つください。",
+   "start_sec": 67.919,
+   "end_sec": 69.569,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D013-S04",
+   "unit_id": "C10-D013",
+   "section": "D",
+   "speaker": "リン",
+   "text": "箸もお願いします。",
+   "start_sec": 69.719,
+   "end_sec": 71.159,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D014-S01",
+   "unit_id": "C10-D014",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "はい。",
+   "start_sec": 71.509,
+   "end_sec": 72.151,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D014-S02",
+   "unit_id": "C10-D014",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "魚とご飯は一つ、野菜とご飯も一つですね。",
+   "start_sec": 72.301,
+   "end_sec": 76.168,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D014-S03",
+   "unit_id": "C10-D014",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "ジュースは一杯、牛乳も一杯ですね。",
+   "start_sec": 76.318,
+   "end_sec": 79.233,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D015-S01",
+   "unit_id": "C10-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "パンも欲しいです。",
+   "start_sec": 79.583,
+   "end_sec": 80.778,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D015-S02",
+   "unit_id": "C10-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "この大きいパンはいくらしますか。",
+   "start_sec": 80.928,
+   "end_sec": 83.006,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D016-S01",
+   "unit_id": "C10-D016",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "一個五百円です。",
+   "start_sec": 83.356,
+   "end_sec": 84.9,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D017-S01",
+   "unit_id": "C10-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "五百円もしますか。",
+   "start_sec": 85.25,
+   "end_sec": 87.199,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D017-S02",
+   "unit_id": "C10-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "どのパンが安いですか。",
+   "start_sec": 87.349,
+   "end_sec": 89.225,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D018-S01",
+   "unit_id": "C10-D018",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "この小さいのです。",
+   "start_sec": 89.575,
+   "end_sec": 90.976,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D018-S02",
+   "unit_id": "C10-D018",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "一個二百円です。",
+   "start_sec": 91.126,
+   "end_sec": 92.607,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D018-S03",
+   "unit_id": "C10-D018",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "卵のパンは四百円です。",
+   "start_sec": 92.757,
+   "end_sec": 94.76,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D019-S01",
+   "unit_id": "C10-D019",
+   "section": "D",
+   "speaker": "リン",
+   "text": "マテオさん、パンをいくつ買いますか。",
+   "start_sec": 95.11,
+   "end_sec": 97.803,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D020-S01",
+   "unit_id": "C10-D020",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "二つ買います。",
+   "start_sec": 98.153,
+   "end_sec": 99.154,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D020-S02",
+   "unit_id": "C10-D020",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "明日の朝ご飯です。",
+   "start_sec": 99.304,
+   "end_sec": 100.797,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D020-S03",
+   "unit_id": "C10-D020",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "昨日、パンを買いませんでした。",
+   "start_sec": 100.947,
+   "end_sec": 103.09,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D020-S04",
+   "unit_id": "C10-D020",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "小さいパンを二つください。",
+   "start_sec": 103.24,
+   "end_sec": 104.84,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D020-S05",
+   "unit_id": "C10-D020",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "袋を一つください。",
+   "start_sec": 104.99,
+   "end_sec": 106.283,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D021-S01",
+   "unit_id": "C10-D021",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "パンは三つ、袋は一枚ですね。",
+   "start_sec": 106.633,
+   "end_sec": 109.387,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D022-S01",
+   "unit_id": "C10-D022",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "いいえ、数が違います。",
+   "start_sec": 109.737,
+   "end_sec": 111.398,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D022-S02",
+   "unit_id": "C10-D022",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "二つだけです。",
+   "start_sec": 111.548,
+   "end_sec": 112.519,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D022-S03",
+   "unit_id": "C10-D022",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "袋は一枚ください。",
+   "start_sec": 112.669,
+   "end_sec": 114.117,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D023-S01",
+   "unit_id": "C10-D023",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "すみません。",
+   "start_sec": 114.467,
+   "end_sec": 115.397,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D023-S02",
+   "unit_id": "C10-D023",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "パンは二個ですね。",
+   "start_sec": 115.547,
+   "end_sec": 117.065,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D023-S03",
+   "unit_id": "C10-D023",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "二個四百円です。",
+   "start_sec": 117.215,
+   "end_sec": 118.775,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D023-S04",
+   "unit_id": "C10-D023",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "袋は一枚十円です。",
+   "start_sec": 118.925,
+   "end_sec": 120.738,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D024-S01",
+   "unit_id": "C10-D024",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい、お願いします。",
+   "start_sec": 121.088,
+   "end_sec": 122.773,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D024-S02",
+   "unit_id": "C10-D024",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "私の注文は千九百十円ですね。",
+   "start_sec": 122.923,
+   "end_sec": 125.986,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D025-S01",
+   "unit_id": "C10-D025",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "はい、千九百十円です。",
+   "start_sec": 126.336,
+   "end_sec": 128.932,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D025-S02",
+   "unit_id": "C10-D025",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "野菜とご飯と牛乳は千百円です。",
+   "start_sec": 129.082,
+   "end_sec": 132.354,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D025-S03",
+   "unit_id": "C10-D025",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "値段は税込です。",
+   "start_sec": 132.504,
+   "end_sec": 134.05,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D025-S04",
+   "unit_id": "C10-D025",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "レシートは二枚です。",
+   "start_sec": 134.2,
+   "end_sec": 135.697,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D026-S01",
+   "unit_id": "C10-D026",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ありがとうございます。",
+   "start_sec": 136.047,
+   "end_sec": 137.361,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D026-S02",
+   "unit_id": "C10-D026",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私のレシートはどれですか。",
+   "start_sec": 137.511,
+   "end_sec": 139.695,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D027-S01",
+   "unit_id": "C10-D027",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "これです。",
+   "start_sec": 140.045,
+   "end_sec": 140.784,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D027-S02",
+   "unit_id": "C10-D027",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "千百円のはリンさんのです。",
+   "start_sec": 140.934,
+   "end_sec": 143.296,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D028-S01",
+   "unit_id": "C10-D028",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 143.646,
+   "end_sec": 144.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D028-S02",
+   "unit_id": "C10-D028",
+   "section": "D",
+   "speaker": "リン",
+   "text": "パンも袋も私の注文ではありませんね。",
+   "start_sec": 144.594,
+   "end_sec": 147.47,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D029-S01",
+   "unit_id": "C10-D029",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ごちそうさまでした。",
+   "start_sec": 148.37,
+   "end_sec": 149.57,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D029-S02",
+   "unit_id": "C10-D029",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "千九百十円ですね。",
+   "start_sec": 149.72,
+   "end_sec": 151.336,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D029-S03",
+   "unit_id": "C10-D029",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "二千円あります。",
+   "start_sec": 151.486,
+   "end_sec": 152.752,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D030-S01",
+   "unit_id": "C10-D030",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "はい。",
+   "start_sec": 153.102,
+   "end_sec": 153.851,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D030-S02",
+   "unit_id": "C10-D030",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "袋は要りますか。",
+   "start_sec": 154.001,
+   "end_sec": 155.386,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D031-S01",
+   "unit_id": "C10-D031",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい、パンの袋ですね。",
+   "start_sec": 155.736,
+   "end_sec": 157.395,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C10-D031-S02",
+   "unit_id": "C10-D031",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "お願いします。",
+   "start_sec": 157.545,
+   "end_sec": 158.425,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

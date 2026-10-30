@@ -1,0 +1,709 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 42.523,
+ "listening_review": "pending",
+ "source_chapter": 1,
+ "turns": [
+  {
+   "turn_id": "C01-D001",
+   "turn_index": 0,
+   "speaker": "森",
+   "source_text": "こんばんは。",
+   "sentence_ids": [
+    "C01-D001-S01"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 0.88,
+   "duration_sec": 0.88
+  },
+  {
+   "turn_id": "C01-D002",
+   "turn_index": 1,
+   "speaker": "ユーリ",
+   "source_text": "こんばんは。",
+   "sentence_ids": [
+    "C01-D002-S01"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 1.23,
+   "end_sec": 2.311,
+   "duration_sec": 1.081
+  },
+  {
+   "turn_id": "C01-D003",
+   "turn_index": 2,
+   "speaker": "森",
+   "source_text": "ユリさん。",
+   "sentence_ids": [
+    "C01-D003-S01"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 2.661,
+   "end_sec": 3.413,
+   "duration_sec": 0.752
+  },
+  {
+   "turn_id": "C01-D004",
+   "turn_index": 3,
+   "speaker": "ユーリ",
+   "source_text": "すみません。ユーリ。ユ・ー・リ。",
+   "sentence_ids": [
+    "C01-D004-S01",
+    "C01-D004-S02",
+    "C01-D004-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 3.763,
+   "end_sec": 6.874,
+   "duration_sec": 3.111
+  },
+  {
+   "turn_id": "C01-D005",
+   "turn_index": 4,
+   "speaker": "森",
+   "source_text": "ユーリさん。すみません。",
+   "sentence_ids": [
+    "C01-D005-S01",
+    "C01-D005-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.224,
+   "end_sec": 9.258,
+   "duration_sec": 2.034
+  },
+  {
+   "turn_id": "C01-D006",
+   "turn_index": 5,
+   "speaker": "ユーリ",
+   "source_text": "ありがとうございます。",
+   "sentence_ids": [
+    "C01-D006-S01"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 9.607,
+   "end_sec": 10.843,
+   "duration_sec": 1.236
+  },
+  {
+   "turn_id": "C01-D007",
+   "turn_index": 6,
+   "speaker": "森",
+   "source_text": "おばさん。おばあさん。",
+   "sentence_ids": [
+    "C01-D007-S01",
+    "C01-D007-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.743,
+   "end_sec": 13.607,
+   "duration_sec": 1.864
+  },
+  {
+   "turn_id": "C01-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "すみません。もう一度お願いします。",
+   "sentence_ids": [
+    "C01-D008-S01",
+    "C01-D008-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.957,
+   "end_sec": 16.675,
+   "duration_sec": 2.718
+  },
+  {
+   "turn_id": "C01-D009",
+   "turn_index": 8,
+   "speaker": "森",
+   "source_text": "おばさん。おばあさん。",
+   "sentence_ids": [
+    "C01-D009-S01",
+    "C01-D009-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 17.025,
+   "end_sec": 18.833,
+   "duration_sec": 1.808
+  },
+  {
+   "turn_id": "C01-D010",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "ありがとうございます。",
+   "sentence_ids": [
+    "C01-D010-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 19.183,
+   "end_sec": 20.779,
+   "duration_sec": 1.596
+  },
+  {
+   "turn_id": "C01-D011",
+   "turn_index": 10,
+   "speaker": "森",
+   "source_text": "坂。作家。",
+   "sentence_ids": [
+    "C01-D011-S01",
+    "C01-D011-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.129,
+   "end_sec": 23.872,
+   "duration_sec": 2.743
+  },
+  {
+   "turn_id": "C01-D012",
+   "turn_index": 11,
+   "speaker": "パク",
+   "source_text": "ええと、作家？",
+   "sentence_ids": [
+    "C01-D012-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 24.222,
+   "end_sec": 25.734,
+   "duration_sec": 1.512
+  },
+  {
+   "turn_id": "C01-D013",
+   "turn_index": 12,
+   "speaker": "森",
+   "source_text": "作家。さ・っ・か。",
+   "sentence_ids": [
+    "C01-D013-S01",
+    "C01-D013-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "weak_text_anchor"
+   ],
+   "start_sec": 26.084,
+   "end_sec": 28.557,
+   "duration_sec": 2.473
+  },
+  {
+   "turn_id": "C01-D014",
+   "turn_index": 13,
+   "speaker": "森",
+   "source_text": "病院。美容院。",
+   "sentence_ids": [
+    "C01-D014-S01",
+    "C01-D014-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.907,
+   "end_sec": 31.047,
+   "duration_sec": 2.14
+  },
+  {
+   "turn_id": "C01-D015",
+   "turn_index": 14,
+   "speaker": "パク",
+   "source_text": "すみません。ゆっくりお願いします。",
+   "sentence_ids": [
+    "C01-D015-S01",
+    "C01-D015-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 31.397,
+   "end_sec": 33.772,
+   "duration_sec": 2.375
+  },
+  {
+   "turn_id": "C01-D016",
+   "turn_index": 15,
+   "speaker": "森",
+   "source_text": "びょ・う・い・ん。び・よ・う・い・ん。",
+   "sentence_ids": [
+    "C01-D016-S01",
+    "C01-D016-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.122,
+   "end_sec": 36.854,
+   "duration_sec": 2.732
+  },
+  {
+   "turn_id": "C01-D017",
+   "turn_index": 16,
+   "speaker": "パク",
+   "source_text": "ありがとうございます。",
+   "sentence_ids": [
+    "C01-D017-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.204,
+   "end_sec": 38.35,
+   "duration_sec": 1.146
+  },
+  {
+   "turn_id": "C01-D018",
+   "turn_index": 17,
+   "speaker": "森",
+   "source_text": "雨。飴。",
+   "sentence_ids": [
+    "C01-D018-S01",
+    "C01-D018-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.7,
+   "end_sec": 40.278,
+   "duration_sec": 1.578
+  },
+  {
+   "turn_id": "C01-D019",
+   "turn_index": 18,
+   "speaker": "林梅",
+   "source_text": "雨。飴。",
+   "sentence_ids": [
+    "C01-D019-S01",
+    "C01-D019-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 40.628,
+   "end_sec": 42.516,
+   "duration_sec": 1.888
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C01-D001-S01",
+   "unit_id": "C01-D001",
+   "section": "D",
+   "speaker": "森",
+   "text": "こんばんは。",
+   "start_sec": 0.0,
+   "end_sec": 0.88,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D002-S01",
+   "unit_id": "C01-D002",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "こんばんは。",
+   "start_sec": 1.23,
+   "end_sec": 2.311,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D003-S01",
+   "unit_id": "C01-D003",
+   "section": "D",
+   "speaker": "森",
+   "text": "ユリさん。",
+   "start_sec": 2.661,
+   "end_sec": 3.413,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D004-S01",
+   "unit_id": "C01-D004",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "すみません。",
+   "start_sec": 3.763,
+   "end_sec": 4.561,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D004-S02",
+   "unit_id": "C01-D004",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "ユーリ。",
+   "start_sec": 4.711,
+   "end_sec": 5.397,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D004-S03",
+   "unit_id": "C01-D004",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "ユ・ー・リ。",
+   "start_sec": 5.547,
+   "end_sec": 6.874,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D005-S01",
+   "unit_id": "C01-D005",
+   "section": "D",
+   "speaker": "森",
+   "text": "ユーリさん。",
+   "start_sec": 7.224,
+   "end_sec": 8.024,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D005-S02",
+   "unit_id": "C01-D005",
+   "section": "D",
+   "speaker": "森",
+   "text": "すみません。",
+   "start_sec": 8.174,
+   "end_sec": 9.258,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D006-S01",
+   "unit_id": "C01-D006",
+   "section": "D",
+   "speaker": "ユーリ",
+   "text": "ありがとうございます。",
+   "start_sec": 9.607,
+   "end_sec": 10.843,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D007-S01",
+   "unit_id": "C01-D007",
+   "section": "D",
+   "speaker": "森",
+   "text": "おばさん。",
+   "start_sec": 11.743,
+   "end_sec": 12.603,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D007-S02",
+   "unit_id": "C01-D007",
+   "section": "D",
+   "speaker": "森",
+   "text": "おばあさん。",
+   "start_sec": 12.753,
+   "end_sec": 13.607,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D008-S01",
+   "unit_id": "C01-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "すみません。",
+   "start_sec": 13.957,
+   "end_sec": 15.028,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D008-S02",
+   "unit_id": "C01-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "もう一度お願いします。",
+   "start_sec": 15.178,
+   "end_sec": 16.675,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D009-S01",
+   "unit_id": "C01-D009",
+   "section": "D",
+   "speaker": "森",
+   "text": "おばさん。",
+   "start_sec": 17.025,
+   "end_sec": 17.86,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D009-S02",
+   "unit_id": "C01-D009",
+   "section": "D",
+   "speaker": "森",
+   "text": "おばあさん。",
+   "start_sec": 18.01,
+   "end_sec": 18.833,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D010-S01",
+   "unit_id": "C01-D010",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ありがとうございます。",
+   "start_sec": 19.183,
+   "end_sec": 20.779,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D011-S01",
+   "unit_id": "C01-D011",
+   "section": "D",
+   "speaker": "森",
+   "text": "坂。",
+   "start_sec": 21.129,
+   "end_sec": 21.883,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D011-S02",
+   "unit_id": "C01-D011",
+   "section": "D",
+   "speaker": "森",
+   "text": "作家。",
+   "start_sec": 22.033,
+   "end_sec": 23.872,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D012-S01",
+   "unit_id": "C01-D012",
+   "section": "D",
+   "speaker": "パク",
+   "text": "ええと、作家？",
+   "start_sec": 24.222,
+   "end_sec": 25.734,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D013-S01",
+   "unit_id": "C01-D013",
+   "section": "D",
+   "speaker": "森",
+   "text": "作家。",
+   "start_sec": 26.084,
+   "end_sec": 27.511,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D013-S02",
+   "unit_id": "C01-D013",
+   "section": "D",
+   "speaker": "森",
+   "text": "さ・っ・か。",
+   "start_sec": 27.661,
+   "end_sec": 28.557,
+   "review_flags": [
+    "clip_asr_difference",
+    "weak_text_anchor"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D014-S01",
+   "unit_id": "C01-D014",
+   "section": "D",
+   "speaker": "森",
+   "text": "病院。",
+   "start_sec": 28.907,
+   "end_sec": 29.901,
+   "review_flags": [],
+   "replacement": {
+    "text": "病院。",
+    "voice": "ja-jp-tutor-9",
+    "audio_file": "repairs\\C01-D014-S01.wav",
+    "origin": "bounded_same_voice_Lite_repair",
+    "repair": "M02-phonetic",
+    "repair_interval": [
+     0,
+     1.6178124999999999
+    ],
+    "sha256": "678bc53881f8f8f326e0afc3084573f1cfef41185c7bd68796d27b27f85d3646"
+   }
+  },
+  {
+   "sentence_id": "C01-D014-S02",
+   "unit_id": "C01-D014",
+   "section": "D",
+   "speaker": "森",
+   "text": "美容院。",
+   "start_sec": 30.051,
+   "end_sec": 31.047,
+   "review_flags": [],
+   "replacement": {
+    "text": "美容院。",
+    "voice": "ja-jp-tutor-9",
+    "audio_file": "repairs\\C01-D014-S02.wav",
+    "origin": "bounded_same_voice_Lite_repair",
+    "repair": "M02-phonetic",
+    "repair_interval": [
+     1.6178124999999999,
+     3.28
+    ],
+    "sha256": "731aa5ba5cbbd6da4374d688e27dabc443bfceb9c2700dce3588245c2fc707da"
+   }
+  },
+  {
+   "sentence_id": "C01-D015-S01",
+   "unit_id": "C01-D015",
+   "section": "D",
+   "speaker": "パク",
+   "text": "すみません。",
+   "start_sec": 31.397,
+   "end_sec": 32.381,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D015-S02",
+   "unit_id": "C01-D015",
+   "section": "D",
+   "speaker": "パク",
+   "text": "ゆっくりお願いします。",
+   "start_sec": 32.531,
+   "end_sec": 33.772,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D016-S01",
+   "unit_id": "C01-D016",
+   "section": "D",
+   "speaker": "森",
+   "text": "びょ・う・い・ん。",
+   "start_sec": 34.122,
+   "end_sec": 35.108,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D016-S02",
+   "unit_id": "C01-D016",
+   "section": "D",
+   "speaker": "森",
+   "text": "び・よ・う・い・ん。",
+   "start_sec": 35.258,
+   "end_sec": 36.854,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D017-S01",
+   "unit_id": "C01-D017",
+   "section": "D",
+   "speaker": "パク",
+   "text": "ありがとうございます。",
+   "start_sec": 37.204,
+   "end_sec": 38.35,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D018-S01",
+   "unit_id": "C01-D018",
+   "section": "D",
+   "speaker": "森",
+   "text": "雨。",
+   "start_sec": 38.7,
+   "end_sec": 39.247,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D018-S02",
+   "unit_id": "C01-D018",
+   "section": "D",
+   "speaker": "森",
+   "text": "飴。",
+   "start_sec": 39.397,
+   "end_sec": 40.278,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D019-S01",
+   "unit_id": "C01-D019",
+   "section": "D",
+   "speaker": "リン",
+   "text": "雨。",
+   "start_sec": 40.628,
+   "end_sec": 41.354,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C01-D019-S02",
+   "unit_id": "C01-D019",
+   "section": "D",
+   "speaker": "リン",
+   "text": "飴。",
+   "start_sec": 41.504,
+   "end_sec": 42.516,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

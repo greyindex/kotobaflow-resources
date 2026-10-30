@@ -1,0 +1,5912 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow4",
+  "lesson_id": "lesson_05",
+  "entries": [
+    {
+      "textbook_uid": "cfv-543246b9200a1905",
+      "index": 4847,
+      "word": "危険",
+      "reading_hiragana": "きけん",
+      "context_meaning_zh": "危险",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "危险",
+          "meaning_ja": "人や物に害が及ぶおそれのある状態。",
+          "example_ja": "この道は夜になると危険です。",
+          "example_zh": "这条路到了晚上很危险。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "危険を伴う",
+          "zh": "伴有危险"
+        }
+      ],
+      "usage_note_zh": "可作名词或ナ形容词；修饰名词时用「危険な＋名词」，也可说「伴有危险」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「危険は認めざるを得ません」以危険为名词话题；词典同一词还支持な形容词义，但本句不体现修饰用法。",
+        "dictionary_sequences": [
+          1218560
+        ],
+        "identity": {
+          "word": "危険",
+          "reading_hiragana": "きけん",
+          "meaning": "危险"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5e4def47bb96e62f",
+      "index": 4848,
+      "word": "損害",
+      "reading_hiragana": "そんがい",
+      "context_meaning_zh": "损失损害",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "损失损害",
+          "meaning_ja": "事故などで、人や物が受ける悪い結果や価値の減少。",
+          "example_ja": "大雨で店の商品に損害が出た。",
+          "example_zh": "暴雨使店里的商品受到了损失。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "損害を受ける",
+          "zh": "遭受损害"
+        }
+      ],
+      "usage_note_zh": "通常说「損害を受ける／与える」；金钱损失也可用「損失」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处指应退还的损害赔偿，词典兼名词和サ变他动；通知式书面语境不等于词汇限定正式体。",
+        "dictionary_sequences": [
+          1406710
+        ],
+        "identity": {
+          "word": "損害",
+          "reading_hiragana": "そんがい",
+          "meaning": "损失损害"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-164922d858176afe",
+      "index": 4849,
+      "word": "影響",
+      "reading_hiragana": "えいきょう",
+      "context_meaning_zh": "影响",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "影响",
+          "meaning_ja": "あるものが別のものに及ぼす作用や、その結果。",
+          "example_ja": "睡眠不足は仕事の効率に影響する。",
+          "example_zh": "睡眠不足会影响工作效率。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "影響を及ぼす",
+          "zh": "产生影响"
+        }
+      ],
+      "usage_note_zh": "常用「AがBに影響する」「Bに影響を与える」；对象用「に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本句「他の人への影響もあり」把影响作为名词，理由说明涉及他人所以需要尽快联系；词典也支持名词和不及物「影響する」。",
+        "dictionary_sequences": [
+          1173660
+        ],
+        "identity": {
+          "word": "影響",
+          "reading_hiragana": "えいきょう",
+          "meaning": "影响"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ec57364abe079969",
+      "index": 4850,
+      "word": "防ぐ",
+      "reading_hiragana": "ふせぐ",
+      "context_meaning_zh": "防止不良结果",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "防止不良结果",
+          "meaning_ja": "悪いことが起きないように、前もって手を打つ。",
+          "example_ja": "入口に柵を置いて、子どもの転落を防いだ。",
+          "example_zh": "在入口处设置围栏，防止孩子跌落。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事故を防ぐ",
+          "zh": "防止事故"
+        }
+      ],
+      "usage_note_zh": "宾语用「を」；常与事故、感染、被害等不良结果搭配。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "为防止复发调整行李放置，复发是不良结果宾语；词典明确五段他动词。",
+        "dictionary_sequences": [
+          1520190
+        ],
+        "identity": {
+          "word": "防ぐ",
+          "reading_hiragana": "ふせぐ",
+          "meaning": "防止不良结果"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-66085009fec75b68",
+      "index": 4851,
+      "word": "避ける",
+      "reading_hiragana": "さける",
+      "context_meaning_zh": "避免风险",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "避免风险",
+          "meaning_ja": "危険や望ましくないことに近づかないようにする。",
+          "example_ja": "混雑を避けて、早めに家を出た。",
+          "example_zh": "为了避开拥挤，我早早出了门。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "衝突を避ける",
+          "zh": "避免冲突"
+        }
+      ],
+      "usage_note_zh": "危险、麻烦作「を」的宾语；「避けられない」表示无法回避。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "避免使生命陷入危险的行动，命を危険に晒す行动整体为を宾语；按他动避ける义。",
+        "dictionary_sequences": [
+          1583260
+        ],
+        "identity": {
+          "word": "避ける",
+          "reading_hiragana": "さける",
+          "meaning": "避免风险"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-00097bfbd14d0ef9",
+      "index": 4852,
+      "word": "認める",
+      "reading_hiragana": "みとめる",
+      "context_meaning_zh": "承认事实",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "承认事实",
+          "meaning_ja": "本当だと受け入れる。",
+          "example_ja": "警察は彼の説明を事実として認めた。",
+          "example_zh": "警方承认他的说明属实。"
+        },
+        {
+          "meaning_zh": "认可、肯定",
+          "meaning_ja": "人の努力や能力に価値があると認める。",
+          "example_ja": "先生は毎日練習した彼女の努力を認めた。",
+          "example_zh": "老师肯定了她每天坚持练习的努力。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事実を認める",
+          "zh": "承认事实"
+        }
+      ],
+      "usage_note_zh": "「事実を認める」是承认；「努力を認める」则是认可、肯定。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "表达不得不承认危险；词项是常用一段他动词，书面程度来自「ざるを得ない」句式而非动词本身。",
+        "dictionary_sequences": [
+          1467530
+        ],
+        "identity": {
+          "word": "認める",
+          "reading_hiragana": "みとめる",
+          "meaning": "承认事实"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c6d23b2b480537d7",
+      "index": 4853,
+      "word": "断る",
+      "reading_hiragana": "ことわる",
+      "context_meaning_zh": "拒绝请求",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拒绝请求",
+          "meaning_ja": "頼みや申し出を受け入れないと相手に伝える。",
+          "example_ja": "今日は都合が悪いので、誘いを断った。",
+          "example_zh": "今天不方便，所以我谢绝了邀请。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "申し出を断る",
+          "zh": "拒绝提议"
+        }
+      ],
+      "usage_note_zh": "拒绝对象用「を」；婉拒时常补充理由或使用「お断りする」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "名额满后不再接受申请，お断りします是断る的礼貌名词化表达；基本词仍为五段他动词。",
+        "dictionary_sequences": [
+          1419570
+        ],
+        "identity": {
+          "word": "断る",
+          "reading_hiragana": "ことわる",
+          "meaning": "拒绝请求"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1b39977d1c406c28",
+      "index": 4854,
+      "word": "失う",
+      "reading_hiragana": "うしなう",
+      "context_meaning_zh": "失去",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "失去",
+          "meaning_ja": "持っていた物や能力、機会などが自分のものではなくなる。",
+          "example_ja": "事故で大切な機会を失った。",
+          "example_zh": "因事故失去了重要的机会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "自信を失う",
+          "zh": "失去自信"
+        }
+      ],
+      "usage_note_zh": "「命・機会・自信を失う」；表示物品遗失时也常说「なくす」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段他动词表示失去物品、机会或席位；句中「席を」是所失去对象，词典列vt。",
+        "dictionary_sequences": [
+          1319750
+        ],
+        "identity": {
+          "word": "失う",
+          "reading_hiragana": "うしなう",
+          "meaning": "失去"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7498ef5f9a1a79e9",
+      "index": 4855,
+      "word": "確かめる",
+      "reading_hiragana": "たしかめる",
+      "context_meaning_zh": "核实",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "核实",
+          "meaning_ja": "間違いがないか、実際に見たり調べたりする。",
+          "example_ja": "送信する前に、宛先をもう一度確かめてください。",
+          "example_zh": "发送之前，请再确认一遍收件人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "安全を確かめる",
+          "zh": "确认安全"
+        }
+      ],
+      "usage_note_zh": "「を確かめる」强调亲自核实；确认计划或日期也可用「確認する」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "地图中核实火山位置和低地，宾语由を标记；词典为一段他动词。",
+        "dictionary_sequences": [
+          1205780
+        ],
+        "identity": {
+          "word": "確かめる",
+          "reading_hiragana": "たしかめる",
+          "meaning": "核实"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ce6002a24fc80d65",
+      "index": 4856,
+      "word": "備える",
+      "reading_hiragana": "そなえる",
+      "context_meaning_zh": "为风险做准备",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "为风险做准备",
+          "meaning_ja": "必要なときに困らないよう、物や力を用意しておく。",
+          "example_ja": "台風に備えて、水と食料を買っておいた。",
+          "example_zh": "为应对台风，我事先买好了水和食物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "災害に備える",
+          "zh": "为灾害做准备"
+        }
+      ],
+      "usage_note_zh": "对象多用「に」；「備えておく」表示预先做好准备。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "为故障风险把文件存于两处，取做好准备之义；「に備えて」标示预防对象。",
+        "dictionary_sequences": [
+          1244960
+        ],
+        "identity": {
+          "word": "備える",
+          "reading_hiragana": "そなえる",
+          "meaning": "为风险做准备"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9d97f88a5cde56e3",
+      "index": 4857,
+      "word": "対策",
+      "reading_hiragana": "たいさく",
+      "context_meaning_zh": "应对措施",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "应对措施",
+          "meaning_ja": "問題を解決したり、被害を小さくしたりするための方法。",
+          "example_ja": "会社は情報漏えいへの対策を発表した。",
+          "example_zh": "公司公布了应对信息泄露的措施。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "対策を講じる",
+          "zh": "采取对策"
+        }
+      ],
+      "usage_note_zh": "常用「〜への対策」「対策を立てる／講じる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示应对风险原因的措施，作为填写表格的普通名词；无证据表明为サ变词。",
+        "dictionary_sequences": [
+          1410050
+        ],
+        "identity": {
+          "word": "対策",
+          "reading_hiragana": "たいさく",
+          "meaning": "应对措施"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3efafea9952f8be3",
+      "index": 4858,
+      "word": "判断",
+      "reading_hiragana": "はんだん",
+      "context_meaning_zh": "作判断",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "作判断",
+          "meaning_ja": "情報を比べて、どうするかを決めること。",
+          "example_ja": "十分な資料を集めてから判断する。",
+          "example_zh": "收集充分资料后再作判断。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "判断を下す",
+          "zh": "作出判断"
+        }
+      ],
+      "usage_note_zh": "常说「判断する」「判断を下す」；依据可用「〜に基づいて」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "阅读应对措施后全体成员共同作决定，判断する为名词兼他动サ变；「しましょう」是句末提议形式，不构成词汇的polite属性。",
+        "dictionary_sequences": [
+          1478620
+        ],
+        "identity": {
+          "word": "判断",
+          "reading_hiragana": "はんだん",
+          "meaning": "作判断"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2770bfea830697ba",
+      "index": 4859,
+      "word": "責任",
+      "reading_hiragana": "せきにん",
+      "context_meaning_zh": "应承担的责任",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "应承担的责任",
+          "meaning_ja": "自分がしなければならないことや、その結果を引き受けること。",
+          "example_ja": "この仕事の結果については、私が責任を持ちます。",
+          "example_zh": "这项工作的结果由我负责。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "責任を負う",
+          "zh": "承担责任"
+        }
+      ],
+      "usage_note_zh": "常用「責任を持つ／負う」；负责某事项可说「〜に責任がある」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "服务条款表示不承担设备故障或数据丢失的责任，義務承担义符合语境。",
+        "dictionary_sequences": [
+          1383180
+        ],
+        "identity": {
+          "word": "責任",
+          "reading_hiragana": "せきにん",
+          "meaning": "应承担的责任"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e78d4596138a740d",
+      "index": 4860,
+      "word": "事情",
+      "reading_hiragana": "じじょう",
+      "context_meaning_zh": "具体内情",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "具体内情",
+          "meaning_ja": "物事の背景にある理由や、その人が置かれている状況。",
+          "example_ja": "家の事情で、彼はしばらく休むことになった。",
+          "example_zh": "由于家里的情况，他暂时休息了一段时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事情を説明する",
+          "zh": "说明情况"
+        }
+      ],
+      "usage_note_zh": "「事情がある」常委婉表示有不便说明的原因；具体缘由也可说「理由」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "工作或家庭原因导致无法参加，事情指具体处境/内情；学习说明区分其与事件本身。",
+        "dictionary_sequences": [
+          1314010
+        ],
+        "identity": {
+          "word": "事情",
+          "reading_hiragana": "じじょう",
+          "meaning": "具体内情"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-573b2197f84c4734",
+      "index": 4861,
+      "word": "中止",
+      "reading_hiragana": "ちゅうし",
+      "context_meaning_zh": "停止原定活动",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "停止原定活动",
+          "meaning_ja": "続ける予定だった活動を、その場でやめること。",
+          "example_ja": "強風のため、屋外の公演は中止になった。",
+          "example_zh": "由于风势强劲，户外演出取消了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "計画を中止する",
+          "zh": "中止计划"
+        }
+      ],
+      "usage_note_zh": "「中止する」是主动停止，「中止になる」常说明活动被取消。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "有缺陷时停止使用，使用行为是中止する的对象；属于他动サ变。",
+        "dictionary_sequences": [
+          1424410
+        ],
+        "identity": {
+          "word": "中止",
+          "reading_hiragana": "ちゅうし",
+          "meaning": "停止原定活动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-23d2f9ca17eac8d9",
+      "index": 4862,
+      "word": "延期",
+      "reading_hiragana": "えんき",
+      "context_meaning_zh": "推迟",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "推迟",
+          "meaning_ja": "予定していた時期を、後の日に変えること。",
+          "example_ja": "準備が間に合わず、発売を来月に延期した。",
+          "example_zh": "准备工作没赶上，因此把发售延期到下个月。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "出発を延期する",
+          "zh": "推迟出发"
+        }
+      ],
+      "usage_note_zh": "常用「会議／発売を延期する」「延期になる」；后移的日期用「に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "在安全无法确认时决定中止或把活动日期后延，延期为名词，也有延期する他动用法。",
+        "dictionary_sequences": [
+          1176430
+        ],
+        "identity": {
+          "word": "延期",
+          "reading_hiragana": "えんき",
+          "meaning": "推迟"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a70f8b0691007bc0",
+      "index": 4863,
+      "word": "困難",
+      "reading_hiragana": "こんなん",
+      "context_meaning_zh": "难以做到",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "难以做到",
+          "meaning_ja": "実現したり解決したりするのが簡単ではないこと。",
+          "example_ja": "人手が足りず、計画の実行は困難だ。",
+          "example_zh": "人手不足，计划难以执行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "解決が困難だ",
+          "zh": "难以解决"
+        }
+      ],
+      "usage_note_zh": "作名词用「困難に直面する」，修饰名词用「困難な状況」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "困難描述等待两种答复时难以保留座位；JMdict 1289620标名词及ナ形容词，取困难义，不把委婉近义自动当语用标签。",
+        "dictionary_sequences": [
+          1289620
+        ],
+        "identity": {
+          "word": "困難",
+          "reading_hiragana": "こんなん",
+          "meaning": "难以做到"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c7ae6a263c37136b",
+      "index": 4864,
+      "word": "可能性",
+      "reading_hiragana": "かのうせい",
+      "context_meaning_zh": "发生的可能",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发生的可能",
+          "meaning_ja": "あることが起こるかもしれない度合い。",
+          "example_ja": "雨が続けば、試合が中止になる可能性がある。",
+          "example_zh": "如果持续下雨，比赛有可能取消。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "可能性が高い",
+          "zh": "可能性很高"
+        }
+      ],
+      "usage_note_zh": "常用「可能性がある／高い」；「可能」侧重能否实现，「可能性」侧重发生概率。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示暖气故障再次发生的可能性，是抽象名词；条件说明语境本身不限定体裁。",
+        "dictionary_sequences": [
+          1191080
+        ],
+        "identity": {
+          "word": "可能性",
+          "reading_hiragana": "かのうせい",
+          "meaning": "发生的可能"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-49157c09d30a3bf6",
+      "index": 4865,
+      "word": "恐れ",
+      "reading_hiragana": "おそれ",
+      "context_meaning_zh": "发生坏事的危险",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发生坏事的危险",
+          "meaning_ja": "悪いことが起こるかもしれないという危険。",
+          "example_ja": "薬を決められた量より多く飲むと、体に害を及ぼす恐れがある。",
+          "example_zh": "服药过量可能会损害身体。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事故の恐れがある",
+          "zh": "有发生事故的危险"
+        }
+      ],
+      "usage_note_zh": "表示风险时常用「〜恐れがある」；前面多接普通形，语气偏正式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「大雪のおそれがある」指大雪可能发生的风险，符合有效释义；没有依据给风险名词标sensitive。",
+        "dictionary_sequences": [
+          1236660
+        ],
+        "identity": {
+          "word": "恐れ",
+          "reading_hiragana": "おそれ",
+          "meaning": "发生坏事的危险"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b12cc5d3e2bd501a",
+      "index": 4866,
+      "word": "懸念",
+      "reading_hiragana": "けねん",
+      "context_meaning_zh": "担心忧虑",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "担心忧虑",
+          "meaning_ja": "悪い結果になるのではないかと心配すること。",
+          "example_ja": "住民は工事の騒音が長引くことを懸念している。",
+          "example_zh": "居民担心施工噪音会持续很久。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "懸念を示す",
+          "zh": "表示担忧"
+        }
+      ],
+      "usage_note_zh": "常用「〜を懸念する」；比日常的「心配する」更正式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中是最主要的担忧，词典也支持「懸念する」担忧某事的サ变他动用法；关注日期是其对象。",
+        "dictionary_sequences": [
+          1257720
+        ],
+        "identity": {
+          "word": "懸念",
+          "reading_hiragana": "けねん",
+          "meaning": "担心忧虑"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-88041c00203f77d4",
+      "index": 4867,
+      "word": "不具合",
+      "reading_hiragana": "ふぐあい",
+      "context_meaning_zh": "设备或系统异常",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "设备或系统异常",
+          "meaning_ja": "機械や仕組みが正常に働かない状態。",
+          "example_ja": "画面に不具合が見つかり、更新を止めた。",
+          "example_zh": "发现画面存在异常，于是暂停了更新。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "システムの不具合",
+          "zh": "系统故障"
+        }
+      ],
+      "usage_note_zh": "「不具合がある／見つかる」常指具体异常；设备完全坏掉可用「故障」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指暖气设备此前发生的不正常问题，词典支持名词及ナ形容词；学习说明区分不具合与完全故障。",
+        "dictionary_sequences": [
+          1492030
+        ],
+        "identity": {
+          "word": "不具合",
+          "reading_hiragana": "ふぐあい",
+          "meaning": "设备或系统异常"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ba2afd2a9c0f4216",
+      "index": 4868,
+      "word": "故障",
+      "reading_hiragana": "こしょう",
+      "context_meaning_zh": "机器故障",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "机器故障",
+          "meaning_ja": "機械が壊れたり、正常に動かなくなったりすること。",
+          "example_ja": "洗濯機が故障して、水が抜けなくなった。",
+          "example_zh": "洗衣机坏了，水排不出去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "故障の原因",
+          "zh": "故障原因"
+        }
+      ],
+      "usage_note_zh": "常说「機械が故障する」；「故障中」表示设备暂时不能使用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指可能发生的设备故障，句中作主题；在本义上故障が起こる为自发发生。",
+        "dictionary_sequences": [
+          1267180
+        ],
+        "identity": {
+          "word": "故障",
+          "reading_hiragana": "こしょう",
+          "meaning": "机器故障"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-155a824b8e87fad7",
+      "index": 4869,
+      "word": "被害",
+      "reading_hiragana": "ひがい",
+      "context_meaning_zh": "遭受的损害",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "遭受的损害",
+          "meaning_ja": "事故や犯罪、自然現象などによって受けた害。",
+          "example_ja": "洪水の被害を受けた人たちに、支援物資が届いた。",
+          "example_zh": "救援物资送到了遭受洪灾的人们手中。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "被害を受ける",
+          "zh": "遭受损害"
+        }
+      ],
+      "usage_note_zh": "常用「被害に遭う／被害を受ける」；着重受害者承受的影响。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "设备故障和数据丢失导致的损害，符合词典injury/harm名词义。",
+        "dictionary_sequences": [
+          1484350
+        ],
+        "identity": {
+          "word": "被害",
+          "reading_hiragana": "ひがい",
+          "meaning": "遭受的损害"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f13b8ae5ef94dc39",
+      "index": 4870,
+      "word": "事故",
+      "reading_hiragana": "じこ",
+      "context_meaning_zh": "意外事故",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "意外事故",
+          "meaning_ja": "思いがけず起きて、人や物に害を与える出来事。",
+          "example_ja": "交差点で事故が起き、道路が一時通行止めになった。",
+          "example_zh": "路口发生事故，道路一度禁止通行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事故が起きる",
+          "zh": "发生事故"
+        }
+      ],
+      "usage_note_zh": "惯用「事故が起きる／事故に遭う」；交通事故也常简说「事故」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "意外事故/事故事件，例句指通道行李绊倒所致事件；词典第一义为accident。",
+        "dictionary_sequences": [
+          1313850
+        ],
+        "identity": {
+          "word": "事故",
+          "reading_hiragana": "じこ",
+          "meaning": "意外事故"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e3f33857459595fc",
+      "index": 4871,
+      "word": "遅延",
+      "reading_hiragana": "ちえん",
+      "context_meaning_zh": "延误",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "延误",
+          "meaning_ja": "予定した時刻より遅れること。",
+          "example_ja": "濃霧のため、到着に一時間の遅延が出た。",
+          "example_zh": "由于浓雾，到达时间延误了一小时。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "列車の遅延",
+          "zh": "列车延误"
+        }
+      ],
+      "usage_note_zh": "「遅延が出る／発生する」较正式；日常说人迟到多用「遅刻」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该词是延误名词，也可作サ变自动词；「の」连接名词时不因此增加连体词类，事件本身可自行发生。",
+        "dictionary_sequences": [
+          1422030
+        ],
+        "identity": {
+          "word": "遅延",
+          "reading_hiragana": "ちえん",
+          "meaning": "延误"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4490f49640b205da",
+      "index": 4872,
+      "word": "再発",
+      "reading_hiragana": "さいはつ",
+      "context_meaning_zh": "问题再次发生",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "问题再次发生",
+          "meaning_ja": "一度なくなった病気や問題が、もう一度起こること。",
+          "example_ja": "修理した機械の故障が一週間後に再発した。",
+          "example_zh": "修好的机器一周后又出了故障。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "再発を防ぐ",
+          "zh": "防止复发"
+        }
+      ],
+      "usage_note_zh": "常见「病気／事故／問題が再発する」；多用于不希望重现的事。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "暖气故障修复后「再発の可能性」指问题再次出现；辞典列自サ复发、再现义。",
+        "dictionary_sequences": [
+          1293410
+        ],
+        "identity": {
+          "word": "再発",
+          "reading_hiragana": "さいはつ",
+          "meaning": "问题再次发生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b5d3ed8360cac13a",
+      "index": 4873,
+      "word": "不可欠",
+      "reading_hiragana": "ふかけつ",
+      "context_meaning_zh": "不可缺少",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不可缺少",
+          "meaning_ja": "それがなければ成り立たないほど必要なこと。",
+          "example_ja": "安全な運行には、毎日の点検が不可欠だ。",
+          "example_zh": "安全运行离不开每日检查。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "不可欠な条件",
+          "zh": "不可缺少的条件"
+        }
+      ],
+      "usage_note_zh": "修饰名词用「不可欠な」；常与「〜に不可欠だ」连用。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "电子表格课程必须确认使用方法，表示不可或缺；词典兼列な形容词和名词义。",
+        "dictionary_sequences": [
+          1491400
+        ],
+        "identity": {
+          "word": "不可欠",
+          "reading_hiragana": "ふかけつ",
+          "meaning": "不可缺少"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e74b0e4d3a3c8bfa",
+      "index": 4874,
+      "word": "防止",
+      "reading_hiragana": "ぼうし",
+      "context_meaning_zh": "防止发生",
+      "pos_ja": "名詞・動詞・接尾辞・サ変名詞",
+      "pos_zh": "名词・动词・接尾词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "防止发生",
+          "meaning_ja": "望ましくないことが起こらないようにすること。",
+          "example_ja": "ごみの分別は、火災の防止にも役立つ。",
+          "example_zh": "垃圾分类也有助于防止火灾。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事故防止",
+          "zh": "事故预防"
+        }
+      ],
+      "usage_note_zh": "常用复合词「再発防止」「事故防止」；「防止する」后接要防止的事情。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "suffix"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "事故の防止是预防名词；也可附于前项组成防止类复合词，并可「事故を防止する」作他动サ变。",
+        "dictionary_sequences": [
+          1520380
+        ],
+        "identity": {
+          "word": "防止",
+          "reading_hiragana": "ぼうし",
+          "meaning": "防止发生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-90f643319936918a",
+      "index": 4875,
+      "word": "想定",
+      "reading_hiragana": "そうてい",
+      "context_meaning_zh": "预想情况",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "预想情况",
+          "meaning_ja": "これから起こることを考えて、条件や場面を決めること。",
+          "example_ja": "最悪の場合を想定して、避難場所を決めた。",
+          "example_zh": "设想最坏情况后，确定了避难地点。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事態を想定する",
+          "zh": "设想事态"
+        }
+      ],
+      "usage_note_zh": "「〜を想定する」表示设想对象；与「予想」相比，更强调设定一个前提场景。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "预想设备故障并准备替代保存方案，词条作サ变他动词，预想情形为对象。",
+        "dictionary_sequences": [
+          1399630
+        ],
+        "identity": {
+          "word": "想定",
+          "reading_hiragana": "そうてい",
+          "meaning": "预想情况"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eedec1b2a60fca4e",
+      "index": 4876,
+      "word": "やむを得ない",
+      "reading_hiragana": "やむをえない",
+      "context_meaning_zh": "迫于情况没有其他选择",
+      "pos_ja": "イ形容詞・表現・定型表現",
+      "pos_zh": "い形容词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "迫于情况没有其他选择",
+          "meaning_ja": "ほかに方法がなく、そうするしかない。",
+          "example_ja": "部品が届かないため、今日は作業を休むのもやむを得ない。",
+          "example_zh": "由于零件还没送到，今天只好停工。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "やむを得ない事情",
+          "zh": "不得已的情况"
+        }
+      ],
+      "usage_note_zh": "多作「やむを得ない」；常用于说明不得不采取某行动，语气较正式。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "整体惯用表达表示迫不得已，可作定语修饰变更；语义固定但仍按い形容词短语分类。",
+        "dictionary_sequences": [
+          1612100
+        ],
+        "identity": {
+          "word": "やむを得ない",
+          "reading_hiragana": "やむをえない",
+          "meaning": "迫于情况没有其他选择"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4daec3fb5f0e99bb",
+      "index": 4877,
+      "word": "了承",
+      "reading_hiragana": "りょうしょう",
+      "context_meaning_zh": "理解并接受安排",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "理解并接受安排",
+          "meaning_ja": "相手の説明を理解し、その内容を受け入れること。",
+          "example_ja": "変更の内容を確認し、担当者は了承した。",
+          "example_zh": "确认变更内容后，负责人表示接受。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "変更を了承する",
+          "zh": "接受变更"
+        }
+      ],
+      "usage_note_zh": "「了承しました」表示已理解并接受对方提出的安排或条件；「承知しました」更侧重表示知悉、理解。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「ご了承ください」含目标名词及前置「ご」；请求语气来自整句构造，不应标为词项自带敬语。",
+        "dictionary_sequences": [
+          1606280
+        ],
+        "identity": {
+          "word": "了承",
+          "reading_hiragana": "りょうしょう",
+          "meaning": "理解并接受安排"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ddc8f6054288318c",
+      "index": 4878,
+      "word": "補償",
+      "reading_hiragana": "ほしょう",
+      "context_meaning_zh": "弥补损害",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "弥补损害",
+          "meaning_ja": "損害を受けた人に、お金や品物などを渡して埋め合わせること。",
+          "example_ja": "店は壊れた品物の代金を客に補償した。",
+          "example_zh": "店家向顾客赔偿了损坏商品的价款。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "損害を補償する",
+          "zh": "赔偿损害"
+        }
+      ],
+      "usage_note_zh": "「損害を補償する」；法律或合同场景中常见，弥补实际损害，不等于道歉。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": [
+          "business"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典支持名词及サ变他动词，交通费等损失是补偿对象；正式服务条款语境支持正式书面风格，整句的谦让语不属于词项礼貌。",
+        "dictionary_sequences": [
+          1514650
+        ],
+        "identity": {
+          "word": "補償",
+          "reading_hiragana": "ほしょう",
+          "meaning": "弥补损害"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-38f66f0631ce0f8c",
+      "index": 4879,
+      "word": "油断",
+      "reading_hiragana": "ゆだん",
+      "context_meaning_zh": "疏于戒备",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "疏于戒备",
+          "meaning_ja": "注意を怠り、危険や失敗に気づかないこと。",
+          "example_ja": "慣れた道でも油断せず、左右を見て渡ろう。",
+          "example_zh": "即使是熟悉的道路也别大意，看看左右再过马路吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "油断をする",
+          "zh": "疏忽大意"
+        }
+      ],
+      "usage_note_zh": "常说「油断する／油断は禁物」；多指因自以为安全而放松注意。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "疏于警惕可作名词，也可「油断する」表示主体放松警戒；此例为名词主题。",
+        "dictionary_sequences": [
+          1538690
+        ],
+        "identity": {
+          "word": "油断",
+          "reading_hiragana": "ゆだん",
+          "meaning": "疏于戒备"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-336ee34d49fde8b3",
+      "index": 4880,
+      "word": "欠陥",
+      "reading_hiragana": "けっかん",
+      "context_meaning_zh": "缺陷",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "缺陷",
+          "meaning_ja": "本来備わっているはずの機能や性質が欠けていること。",
+          "example_ja": "検査で部品の欠陥が見つかった。",
+          "example_zh": "检查中发现了零件的缺陷。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "設計上の欠陥",
+          "zh": "设计缺陷"
+        }
+      ],
+      "usage_note_zh": "「欠陥がある／見つかる」；强调内在缺失，和偶发故障「故障」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "欠陥指系统或物品内在的不完善处；说明要求发现后停用，符合缺陷而非偶发故障。",
+        "dictionary_sequences": [
+          1253950
+        ],
+        "identity": {
+          "word": "欠陥",
+          "reading_hiragana": "けっかん",
+          "meaning": "缺陷"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-43a7140cfdc43e8f",
+      "index": 4881,
+      "word": "海洋",
+      "reading_hiragana": "かいよう",
+      "context_meaning_zh": "海洋",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "海洋",
+          "meaning_ja": "地球上で、陸地に囲まれていない広い塩水の部分。",
+          "example_ja": "海洋の環境を守るため、町で清掃活動が行われた。",
+          "example_zh": "为了保护海洋环境，镇上开展了清扫活动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "海洋環境",
+          "zh": "海洋环境"
+        }
+      ],
+      "usage_note_zh": "「海洋」多用于地理、科学或正式语境；日常泛指海面时常说「海」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "日本国土被海洋环绕的叙述中，「海洋」指广阔海域，作普通名词。",
+        "dictionary_sequences": [
+          1201790
+        ],
+        "identity": {
+          "word": "海洋",
+          "reading_hiragana": "かいよう",
+          "meaning": "海洋"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8b06f944042ffa2e",
+      "index": 4882,
+      "word": "恐ろしい",
+      "reading_hiragana": "おそろしい",
+      "context_meaning_zh": "可怕的、可怖的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "可怕的、可怖的",
+          "meaning_ja": "危険や力の大きさを感じて、強い恐怖を覚える様子。",
+          "example_ja": "暗い山道で急に犬が現れ、恐ろしかった。",
+          "example_zh": "在昏暗的山路上突然出现一只狗，真吓人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "恐ろしい事故",
+          "zh": "可怕的事故"
+        }
+      ],
+      "usage_note_zh": "修饰名词用「恐ろしい」；也可形容程度惊人，如「恐ろしい速さ」，不一定是真正恐惧。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "诈骗陷阱令人害怕，落在词典terrifying义；教材指出也可夸程度惊人，但本例不取该义。",
+        "dictionary_sequences": [
+          1236690
+        ],
+        "identity": {
+          "word": "恐ろしい",
+          "reading_hiragana": "おそろしい",
+          "meaning": "可怕的、可怖的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c2bd4b38ee26f965",
+      "index": 4883,
+      "word": "やむをえず(已を得ず)",
+      "reading_hiragana": "やむをえず",
+      "context_meaning_zh": "不得已",
+      "pos_ja": "副詞・表現・定型表現",
+      "pos_zh": "副词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不得已",
+          "meaning_ja": "ほかに方法がなく、仕方なく何かをする様子。",
+          "example_ja": "電車が止まったので、やむをえず歩いて帰った。",
+          "example_zh": "电车停运了，我只好步行回家。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "やむをえず欠席する",
+          "zh": "不得已缺席"
+        }
+      ],
+      "usage_note_zh": "通常修饰动词；「やむを得ない」是形容词表达，修饰名词时说「やむを得ない事情」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "adverb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「やむをえず」整体修饰放弃，表示别无选择；是固定副词表达，并非裸动词或其活用。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "やむをえず(已を得ず)",
+          "reading_hiragana": "やむをえず",
+          "meaning": "不得已"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-009b59addd04eba2",
+      "index": 4884,
+      "word": "災難",
+      "reading_hiragana": "さいなん",
+      "context_meaning_zh": "灾难",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "灾难",
+          "meaning_ja": "人に大きな困りごとや損害をもたらす出来事。",
+          "example_ja": "大地震が町を襲い、多くの人が災難に遭った。",
+          "example_zh": "大地震袭击了城镇，许多人遭遇了灾难。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "災難に遭う",
+          "zh": "遭遇灾难"
+        }
+      ],
+      "usage_note_zh": "常用「災難に遭う」；可指严重灾害，也可用于个人遭逢的不幸。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "房屋进水后家人平安，災難に遭う指个人遭遇不幸；课程说明并非只用于大规模自然灾害。",
+        "dictionary_sequences": [
+          1295110
+        ],
+        "identity": {
+          "word": "災難",
+          "reading_hiragana": "さいなん",
+          "meaning": "灾难"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eaaee7a27eb3fa28",
+      "index": 4885,
+      "word": "瀬戸際",
+      "reading_hiragana": "せとぎわ",
+      "context_meaning_zh": "紧要关头、临界点",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "紧要关头、临界点",
+          "meaning_ja": "成功するか失敗するかが決まる、ぎりぎりの時点。",
+          "example_ja": "交渉は決裂の瀬戸際で、両者が再び話し合った。",
+          "example_zh": "谈判濒临破裂之际，双方再次进行了协商。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "破局の瀬戸際",
+          "zh": "濒临破裂的关头"
+        }
+      ],
+      "usage_note_zh": "常以「〜の瀬戸際」表示处于临界点；通常搭配危机、破局、勝利等。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "危机临界点之前做好联系人和撤离准备，符合濒临危险的关键时刻义，不是一般截止期限。",
+        "dictionary_sequences": [
+          1374380
+        ],
+        "identity": {
+          "word": "瀬戸際",
+          "reading_hiragana": "せとぎわ",
+          "meaning": "紧要关头、临界点"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f5b20832a51d44b8",
+      "index": 4886,
+      "word": "損失",
+      "reading_hiragana": "そんしつ",
+      "context_meaning_zh": "损失",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "损失",
+          "meaning_ja": "お金や価値のあるものを失うこと。",
+          "example_ja": "火事で店は大きな損失を受けた。",
+          "example_zh": "火灾使店铺遭受了重大损失。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "損失を補う",
+          "zh": "弥补损失"
+        }
+      ],
+      "usage_note_zh": "常用「損失を受ける／補う」；与「損害」相比，更聚焦失去的利益或财物。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「損失も生じる」指资产、收益等的损失，为普通名词；词典未列サ変用法。",
+        "dictionary_sequences": [
+          1406750
+        ],
+        "identity": {
+          "word": "損失",
+          "reading_hiragana": "そんしつ",
+          "meaning": "损失"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f7c8120593fe3e2f",
+      "index": 4887,
+      "word": "暴走",
+      "reading_hiragana": "ぼうそう",
+      "context_meaning_zh": "狂奔;鲁莽从事",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "狂奔;鲁莽从事",
+          "meaning_ja": "乗り物や人が制御を失い、激しく動くこと。",
+          "example_ja": "ブレーキが壊れた自転車が坂道を暴走した。",
+          "example_zh": "刹车坏掉的自行车在坡道上失控冲了下去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "車が暴走する",
+          "zh": "车辆失控"
+        }
+      ],
+      "usage_note_zh": "既可指车辆失控行驶，也可比喻行动失控；「暴走族」中的用法指危险驾驶团体。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "机器失控与负责人制止某人擅自推进计划的语境对应失控、鲁莽义；词典标名词及自动サ变。",
+        "dictionary_sequences": [
+          1519480
+        ],
+        "identity": {
+          "word": "暴走",
+          "reading_hiragana": "ぼうそう",
+          "meaning": "狂奔;鲁莽从事"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-79ca2a12069b1740",
+      "index": 4888,
+      "word": "生じる",
+      "reading_hiragana": "しょうじる",
+      "context_meaning_zh": "发生、产生",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发生、产生",
+          "meaning_ja": "物事や変化が新しく起こる。",
+          "example_ja": "大雨の後、道路に大きな穴が生じた。",
+          "example_zh": "暴雨过后，路面出现了一个大坑。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "問題が生じる",
+          "zh": "出现问题"
+        }
+      ],
+      "usage_note_zh": "常用「問題／変化が生じる」；较书面，日常会话可说「起きる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "词典同列使其产生的他动用法与由此发生的自动用法，本例损失が生じる为自动义。",
+        "dictionary_sequences": [
+          1378650
+        ],
+        "identity": {
+          "word": "生じる",
+          "reading_hiragana": "しょうじる",
+          "meaning": "发生、产生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-84f31493a24a0375",
+      "index": 4889,
+      "word": "危機",
+      "reading_hiragana": "きき",
+      "context_meaning_zh": "危机",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "危机",
+          "meaning_ja": "大切なものが失われるかもしれない、非常に危ない状態。",
+          "example_ja": "水が止まり、村は深刻な危機に直面した。",
+          "example_zh": "供水中断，村庄面临严重危机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "危機に直面する",
+          "zh": "面临危机"
+        }
+      ],
+      "usage_note_zh": "常说「危機に陥る／直面する」；可用于社会、组织或个人处境。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "迫近的危机为名词，教材句中作対応する的对象性修饰，不体现特殊文体。",
+        "dictionary_sequences": [
+          1218450
+        ],
+        "identity": {
+          "word": "危機",
+          "reading_hiragana": "きき",
+          "meaning": "危机"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c16ee7d773e9ce87",
+      "index": 4890,
+      "word": "いたちごっこ",
+      "reading_hiragana": "いたちごっこ",
+      "context_meaning_zh": "捉手背游戏;拉锯战",
+      "pos_ja": "名詞・慣用句",
+      "pos_zh": "名词・惯用语",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "捉手背游戏;拉锯战",
+          "meaning_ja": "互いに相手の手の甲をつねり、交互に同じことを続ける遊び。また、決着しない争い。",
+          "example_ja": "料金を下げても相手も下げるので、値下げのいたちごっこになった。",
+          "example_zh": "即使降价，对方也跟着降，结果陷入了无休止的降价拉锯。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "いたちごっこが続く",
+          "zh": "拉锯战持续下去"
+        }
+      ],
+      "usage_note_zh": "本义是双方轮流捏手背的游戏；比喻双方反复应对、却始终无法解决的状况。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "idiom"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "比喻义指重复应对却没有进展，JMdict 1575470 明标惯用语；“手背游戏”是词典另义，不据此加熟稔语用标签。",
+        "dictionary_sequences": [
+          1575470
+        ],
+        "identity": {
+          "word": "いたちごっこ",
+          "reading_hiragana": "いたちごっこ",
+          "meaning": "捉手背游戏;拉锯战"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b3e977a2117c9ea7",
+      "index": 4891,
+      "word": "危機感",
+      "reading_hiragana": "ききかん",
+      "context_meaning_zh": "危机感",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "危机感",
+          "meaning_ja": "危険が近づいていると感じ、注意しなければと思う気持ち。",
+          "example_ja": "小さな異音を聞き、運転手は危機感を持った。",
+          "example_zh": "听到细微的异响后，司机产生了危机意识。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "危機感を持つ",
+          "zh": "有危机感"
+        }
+      ],
+      "usage_note_zh": "常用「危機感を持つ／抱く」；指意识到危险，不等于已经发生危机。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "危机感是意识到危险迫近的心理，例句把统计信息转为具体措施，不表示危机已经发生。",
+        "dictionary_sequences": [
+          1821440
+        ],
+        "identity": {
+          "word": "危機感",
+          "reading_hiragana": "ききかん",
+          "meaning": "危机感"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7a9b249350cc2128",
+      "index": 4892,
+      "word": "盗聴",
+      "reading_hiragana": "とうちょう",
+      "context_meaning_zh": "窃听、偷听",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "窃听、偷听",
+          "meaning_ja": "相手に知られないように、会話や電話の内容を聞くこと。",
+          "example_ja": "会社の会議を盗聴する機器が見つかった。",
+          "example_zh": "发现了窃听公司会议的设备。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電話を盗聴する",
+          "zh": "窃听电话"
+        }
+      ],
+      "usage_note_zh": "「盗聴する」通常指秘密监听通信；「盗み聞き」更常用于偶然或私下偷听对话。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「盗聴」在本条指“窃听、偷听”；例句「災害だけでなく、詐欺や盗聴も扱います。」虽然涉及相应社会/医疗/犯罪/灾害主题，但该词是标准描述用语，并非粗俗、贬称或禁忌表达，故移除sensitive。",
+        "dictionary_sequences": [
+          1448480
+        ],
+        "identity": {
+          "word": "盗聴",
+          "reading_hiragana": "とうちょう",
+          "meaning": "窃听、偷听"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7b4bff59f067af80",
+      "index": 4893,
+      "word": "消失",
+      "reading_hiragana": "しょうしつ",
+      "context_meaning_zh": "消失",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "消失",
+          "meaning_ja": "そこにあった物や情報などが、見えなくなったり存在しなくなったりすること。",
+          "example_ja": "停電の後、保存していた記録が消失した。",
+          "example_zh": "停电后，保存的记录消失了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "データの消失",
+          "zh": "数据丢失"
+        }
+      ],
+      "usage_note_zh": "常用「記録／データが消失する」；强调不复存在，设备无法工作则说「故障」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "数据消失指资料丢失，词典列名词及不及物サ变；因本句「消失は」作主语而非动作表达，仍记录兼类。",
+        "dictionary_sequences": [
+          1350230
+        ],
+        "identity": {
+          "word": "消失",
+          "reading_hiragana": "しょうしつ",
+          "meaning": "消失"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7b65f2164d5b3da5",
+      "index": 4894,
+      "word": "データ",
+      "reading_hiragana": "データ",
+      "context_meaning_zh": "数据",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数据",
+          "meaning_ja": "調査や計算などで得られ、記録された情報。",
+          "example_ja": "集めたデータを表にまとめて比べた。",
+          "example_zh": "我把收集到的数据整理成表格进行比较。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "データを保存する",
+          "zh": "保存数据"
+        }
+      ],
+      "usage_note_zh": "外来语「データ」读作「データ」；在复合词中常作信息资料，如「データ分析」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指研究收集的数量与温度资料；此例为数据集合，不限定academic风格。",
+        "dictionary_sequences": [
+          1081190
+        ],
+        "identity": {
+          "word": "データ",
+          "reading_hiragana": "データ",
+          "meaning": "数据"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1051853e1c780ebd",
+      "index": 4895,
+      "word": "来す",
+      "reading_hiragana": "きたす",
+      "context_meaning_zh": "带来、招致、造成",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "带来、招致、造成",
+          "meaning_ja": "ある原因によって、望ましくない結果や変化を起こす。",
+          "example_ja": "無理な運動は、かえって体調不良を来すことがある。",
+          "example_zh": "过度运动有时反而会造成身体不适。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "混乱を来す",
+          "zh": "造成混乱"
+        }
+      ],
+      "usage_note_zh": "「混乱／支障／損害を来す」；读作「きたす」，通常带来负面结果。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "支障を来す固定搭配指造成业务障碍，支障为を宾语；读作きたす且常引出负面结果。",
+        "dictionary_sequences": [
+          1591260
+        ],
+        "identity": {
+          "word": "来す",
+          "reading_hiragana": "きたす",
+          "meaning": "带来、招致、造成"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a767343ad17e3506",
+      "index": 4896,
+      "word": "恐れ",
+      "reading_hiragana": "おそれ",
+      "context_meaning_zh": "恐惧、害怕；坏事风险义已在61",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "恐惧、害怕；坏事风险义已在61",
+          "meaning_ja": "危険なものを前にして感じる、強い怖さや心配。",
+          "example_ja": "彼女は一人で暗い部屋に入ることに恐れを感じた。",
+          "example_zh": "她对独自进入黑暗的房间感到害怕。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "恐れを感じる",
+          "zh": "感到恐惧"
+        }
+      ],
+      "usage_note_zh": "此条是恐惧情绪义；「〜恐れがある」则表示坏事发生的可能性，语法和意思不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "恐惧本身作「感じる」的对象，词头原义还包含危险风险但本例取心理感受义；普通名词无sensitive标记依据。",
+        "dictionary_sequences": [
+          1236660
+        ],
+        "identity": {
+          "word": "恐れ",
+          "reading_hiragana": "おそれ",
+          "meaning": "恐惧、害怕；坏事风险义已在61"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-28825be024c84a63",
+      "index": 4897,
+      "word": "詐欺",
+      "reading_hiragana": "さぎ",
+      "context_meaning_zh": "欺诈",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "欺诈",
+          "meaning_ja": "うそを使って相手を信じさせ、お金や利益を取ること。",
+          "example_ja": "知らない人から届いた請求メールは、詐欺かもしれない。",
+          "example_zh": "陌生人发来的账单邮件可能是诈骗。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "詐欺に遭う",
+          "zh": "遭遇诈骗"
+        }
+      ],
+      "usage_note_zh": "常说「詐欺に遭う／詐欺を働く」；具体手段可用「振り込め詐欺」等复合词说明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "詐欺指欺诈或诈骗，是普通名词；不因例句描述犯罪和受害者而附加敏感标签。",
+        "dictionary_sequences": [
+          1291690
+        ],
+        "identity": {
+          "word": "詐欺",
+          "reading_hiragana": "さぎ",
+          "meaning": "欺诈"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8a3e3f62136abd3e",
+      "index": 4898,
+      "word": "尽きる",
+      "reading_hiragana": "つきる",
+      "context_meaning_zh": "尽、完、到头",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "尽、完、到头",
+          "meaning_ja": "使えるものが全部なくなり、それ以上残っていない状態になる。",
+          "example_ja": "長い話し合いで、参加者の飲み水が尽きた。",
+          "example_zh": "长时间讨论后，参加者的饮用水用完了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "力が尽きる",
+          "zh": "力气用尽"
+        }
+      ],
+      "usage_note_zh": "主语是耗尽的资源或能力，如「時間／力／資金が尽きる」；读作「つきる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "尽きる为上一段不及物动词，例中储水耗尽后生活变难，水的存量自然告罄。",
+        "dictionary_sequences": [
+          1370070
+        ],
+        "identity": {
+          "word": "尽きる",
+          "reading_hiragana": "つきる",
+          "meaning": "尽、完、到头"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fc6f3a494a6402ec",
+      "index": 4899,
+      "word": "食品添加物",
+      "reading_hiragana": "しょくひんてんかぶつ",
+      "context_meaning_zh": "(为装饰或防腐)食品添加物",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(为装饰或防腐)食品添加物",
+          "meaning_ja": "食品の色や味を整えたり、品質を保ったりするために加えるもの。",
+          "example_ja": "原材料の表示を見て、食品添加物の種類を確かめた。",
+          "example_zh": "我查看了原料标示，确认食品添加物的种类。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "食品添加物を使う",
+          "zh": "使用食品添加物"
+        }
+      ],
+      "usage_note_zh": "这是总称，包含多种用途的添加物；不能把所有添加物都说成保存料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "保存料被归为食品添加物的一种，符合词典food additive义；括号中的防腐说明限定用途。",
+        "dictionary_sequences": [
+          1358610
+        ],
+        "identity": {
+          "word": "食品添加物",
+          "reading_hiragana": "しょくひんてんかぶつ",
+          "meaning": "(为装饰或防腐)食品添加物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-93a47115d0b4f60a",
+      "index": 4900,
+      "word": "保存料",
+      "reading_hiragana": "ほぞんりょう",
+      "context_meaning_zh": "食品保存用防腐剂",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "食品保存用防腐剂",
+          "meaning_ja": "食品が傷むのを遅らせ、保存しやすくするために加えるもの。",
+          "example_ja": "この食品には保存料が使われていない。",
+          "example_zh": "这种食品没有使用防腐剂。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "保存料を加える",
+          "zh": "添加防腐剂"
+        }
+      ],
+      "usage_note_zh": "「保存料」是用于延缓食品变质的一类食品添加物；与着色料、甘味料用途不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "保存料是食品添加剂的一类，例句直接说明其类别；属于食品科学名词但日常一般使用，不标学术体裁。",
+        "dictionary_sequences": [
+          1946720
+        ],
+        "identity": {
+          "word": "保存料",
+          "reading_hiragana": "ほぞんりょう",
+          "meaning": "食品保存用防腐剂"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-549008d43058b49b",
+      "index": 4901,
+      "word": "苦しめる",
+      "reading_hiragana": "くるしめる",
+      "context_meaning_zh": "使...痛苦、折磨",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "使...痛苦、折磨",
+          "meaning_ja": "人に強い痛みや悩みを与える。",
+          "example_ja": "長く続く騒音が、近所の住民を苦しめている。",
+          "example_zh": "持续不断的噪音正困扰着附近居民。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "病気が人を苦しめる",
+          "zh": "疾病使人受苦"
+        }
+      ],
+      "usage_note_zh": "宾语用「を」表示承受痛苦的人；疾病、借款、选择等也可作造成痛苦的原因。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "长期问题让人痛苦，词典列一段他动词的身体及情绪折磨义；人是受影响对象。",
+        "dictionary_sequences": [
+          1244360
+        ],
+        "identity": {
+          "word": "苦しめる",
+          "reading_hiragana": "くるしめる",
+          "meaning": "使...痛苦、折磨"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5f9479da3334e1e7",
+      "index": 4902,
+      "word": "大問題",
+      "reading_hiragana": "だいもんだい",
+      "context_meaning_zh": "大问题",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大问题",
+          "meaning_ja": "無視できないほど深刻で、大きな問題。",
+          "example_ja": "水道管の破損が続き、町にとって大問題になった。",
+          "example_zh": "水管接连破裂，成了镇上的大问题。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大問題に発展する",
+          "zh": "演变成大问题"
+        }
+      ],
+      "usage_note_zh": "「大問題になる／に発展する」；「大」强调严重程度，不只是规模大。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "危机应对是迫在眉睫的大问题，符合重大问题的词典义。",
+        "dictionary_sequences": [
+          2660390
+        ],
+        "identity": {
+          "word": "大問題",
+          "reading_hiragana": "だいもんだい",
+          "meaning": "大问题"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3ff0ca5e18efb0b5",
+      "index": 4903,
+      "word": "防腐剤",
+      "reading_hiragana": "ぼうふざい",
+      "context_meaning_zh": "防腐剂",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "防腐剂",
+          "meaning_ja": "食品や化粧品などが腐るのを防ぐために使う薬剤。",
+          "example_ja": "研究室で、食品に使う防腐剤の働きを調べた。",
+          "example_zh": "我在实验室调查了用于食品的防腐剂的作用。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "防腐剤を使う",
+          "zh": "使用防腐剂"
+        }
+      ],
+      "usage_note_zh": "「防腐剤」是防止腐败的药剂总称；在食品法规和标签中更常见具体类别「保存料」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "为防木材腐坏而使用防腐剂，词典名词义为防腐剂/抗菌剂。",
+        "dictionary_sequences": [
+          1520600
+        ],
+        "identity": {
+          "word": "防腐剤",
+          "reading_hiragana": "ぼうふざい",
+          "meaning": "防腐剂"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4ebe533c84c26647",
+      "index": 4904,
+      "word": "生き抜く",
+      "reading_hiragana": "いきぬく",
+      "context_meaning_zh": "活下去",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "活下去",
+          "meaning_ja": "苦しい状況の中で、あきらめずに生き続ける。",
+          "example_ja": "彼は何度失敗しても、生き抜く道を探した。",
+          "example_zh": "无论失败多少次，他都寻找活下去的办法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "厳しい時代を生き抜く",
+          "zh": "在艰难时代中生存下来"
+        }
+      ],
+      "usage_note_zh": "「〜を生き抜く」中的「を」标记经历的时代或环境；含有克服困难、坚持到底的语气。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「厳しい日々を生き抜く」表示主体度过艰难日子并生存下来；词典列五段自动词，险境不是直接宾语。",
+        "dictionary_sequences": [
+          1851550
+        ],
+        "identity": {
+          "word": "生き抜く",
+          "reading_hiragana": "いきぬく",
+          "meaning": "活下去"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c01af99632ddce7f",
+      "index": 4905,
+      "word": "迫る",
+      "reading_hiragana": "せまる",
+      "context_meaning_zh": "逼近、迫近;迫使",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "逼近、迫近;迫使",
+          "meaning_ja": "時刻や危険が近づく。また、人に強く決断を求める。",
+          "example_ja": "締め切りが迫り、チームは作業を急いだ。",
+          "example_zh": "截止日期临近，团队加快了工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "期限が迫る",
+          "zh": "期限临近"
+        }
+      ],
+      "usage_note_zh": "「期限が迫る」是临近；「返事を迫る」是逼迫对方答复，宾语形式不同。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "期限逼近时要做决定；另一例是负责人向我施压，分别为自动接近和他动迫使义。",
+        "dictionary_sequences": [
+          1475720
+        ],
+        "identity": {
+          "word": "迫る",
+          "reading_hiragana": "せまる",
+          "meaning": "逼近、迫近;迫使"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-597958c570a7997e",
+      "index": 4906,
+      "word": "命",
+      "reading_hiragana": "いのち",
+      "context_meaning_zh": "性命、命",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "性命、命",
+          "meaning_ja": "生き物が生きていること。",
+          "example_ja": "救助隊は冷たい川から子どもを助け、命を守った。",
+          "example_zh": "救援队从冰冷的河里救出孩子，保护了他的生命。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "命を守る",
+          "zh": "保护生命"
+        }
+      ],
+      "usage_note_zh": "「命を守る」指保护生命；比喻某事物是一个人最珍视的依靠时，可说「仕事が命だ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "命指生命或寿命，也可比喻最重要的事物；词项本身是中性名词，不因例句谈生命危险而标敏感。",
+        "dictionary_sequences": [
+          1531940
+        ],
+        "identity": {
+          "word": "命",
+          "reading_hiragana": "いのち",
+          "meaning": "性命、命"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5a00964b37fac66f",
+      "index": 4907,
+      "word": "晒す",
+      "reading_hiragana": "さらす",
+      "context_meaning_zh": "暴露;曝晒",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "暴露;曝晒",
+          "meaning_ja": "日光や風に当てる。また、人に見られる状態に置く。",
+          "example_ja": "洗った布を庭で日に晒して乾かした。",
+          "example_zh": "我把洗好的布放在院子里晒干。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "危険に身を晒す",
+          "zh": "让自己暴露于危险之中"
+        }
+      ],
+      "usage_note_zh": "「布を日に晒す」是曝晒；「批判に晒される」是暴露于他人目光或批评之下。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "让生命暴露于危险中属于晒す的五段他动用法，命を为受影响对象；词典expose义直接对应。",
+        "dictionary_sequences": [
+          1593910
+        ],
+        "identity": {
+          "word": "晒す",
+          "reading_hiragana": "さらす",
+          "meaning": "暴露;曝晒"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3bed72586f9753f4",
+      "index": 4908,
+      "word": "国土",
+      "reading_hiragana": "こくど",
+      "context_meaning_zh": "国土",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "国土",
+          "meaning_ja": "国が統治し、守っている土地の全体。",
+          "example_ja": "地図を見ながら、日本の国土の形を確認した。",
+          "example_zh": "我一边看地图，一边确认日本国土的形状。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "国土を守る",
+          "zh": "保卫国土"
+        }
+      ],
+      "usage_note_zh": "指一国的领土整体；不专指土壤，与「土地」的普通地块义不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指日本统治范围内的整体疆域，例句从岛屿地理说明其范围。",
+        "dictionary_sequences": [
+          1286890
+        ],
+        "identity": {
+          "word": "国土",
+          "reading_hiragana": "こくど",
+          "meaning": "国土"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3d0d25081ec891f0",
+      "index": 4909,
+      "word": "列島",
+      "reading_hiragana": "れっとう",
+      "context_meaning_zh": "列岛",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "列岛",
+          "meaning_ja": "多くの島が列のように連なっている地域。",
+          "example_ja": "船の窓から、遠くに続く列島が見えた。",
+          "example_zh": "从船窗望去，可以看到远处绵延的列岛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "列島を縦断する",
+          "zh": "纵贯列岛"
+        }
+      ],
+      "usage_note_zh": "指排列相连的多个岛屿；常用于地理、气象和新闻语境。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "日本列岛和南西诸岛地图中指岛屿链，普通地理名词而非专名。",
+        "dictionary_sequences": [
+          1558390
+        ],
+        "identity": {
+          "word": "列島",
+          "reading_hiragana": "れっとう",
+          "meaning": "列岛"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1b7ef679a88a62c9",
+      "index": 4910,
+      "word": "活火山",
+      "reading_hiragana": "かつかざん",
+      "context_meaning_zh": "活火山（另有かっかざん读法）",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "活火山（另有かっかざん读法）",
+          "meaning_ja": "現在も活動していて、噴火する可能性がある火山。",
+          "example_ja": "火山の近くでは、活火山の情報を確認してから登る。",
+          "example_zh": "在火山附近登山前，要先确认活火山的相关信息。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "活火山の噴火",
+          "zh": "活火山喷发"
+        }
+      ],
+      "usage_note_zh": "标准读音「かつかざん」；虽有「かっかざん」这一读法记录，学习和一般使用以「かつかざん」为宜。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中要求在地图上确认活火山的位置；活火山是地质分类名词，括注读音变体不影响词类。",
+        "dictionary_sequences": [
+          1208260
+        ],
+        "identity": {
+          "word": "活火山",
+          "reading_hiragana": "かつかざん",
+          "meaning": "活火山（另有かっかざん读法）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8427662e1e6c5f54",
+      "index": 4911,
+      "word": "低地",
+      "reading_hiragana": "ていち",
+      "context_meaning_zh": "低洼地",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "低洼地",
+          "meaning_ja": "周囲より標高が低く、平らな土地。",
+          "example_ja": "川の近くの低地では、大雨の後に水がたまりやすい。",
+          "example_zh": "河流附近的低洼地在大雨后容易积水。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "低地に住む",
+          "zh": "住在低洼地"
+        }
+      ],
+      "usage_note_zh": "地形名词，通常与高地、山地等相对；不单凭「低地」一词判断具体海拔。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该例句把低地作地貌名词的受词；“低地の～”是名词加の，不是独立连体词。",
+        "dictionary_sequences": [
+          1434580
+        ],
+        "identity": {
+          "word": "低地",
+          "reading_hiragana": "ていち",
+          "meaning": "低洼地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1aeec39269fab878",
+      "index": 4912,
+      "word": "諸島",
+      "reading_hiragana": "しょとう",
+      "context_meaning_zh": "诸岛",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "诸岛",
+          "meaning_ja": "近くに集まっている複数の島。",
+          "example_ja": "この諸島には、小さな島が十ほどある。",
+          "example_zh": "这片群岛有十来座小岛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "諸島を巡る",
+          "zh": "巡游群岛"
+        }
+      ],
+      "usage_note_zh": "常指由多个岛屿组成的一片区域；专名中的「諸島」不必逐字译成“各种岛”。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "南西諸島是多个岛屿组成的群岛地理区域，符合词典archipelago义。",
+        "dictionary_sequences": [
+          1344330
+        ],
+        "identity": {
+          "word": "諸島",
+          "reading_hiragana": "しょとう",
+          "meaning": "诸岛"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eb799186dde8f990",
+      "index": 4913,
+      "word": "災害",
+      "reading_hiragana": "さいがい",
+      "context_meaning_zh": "灾害",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "灾害",
+          "meaning_ja": "地震や台風などによって、人や暮らしに大きな損害が出ること。",
+          "example_ja": "災害の後、近所の人たちが避難所で食料を分け合った。",
+          "example_zh": "灾害发生后，邻居们在避难所分着吃了食物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "災害に備える",
+          "zh": "为灾害做准备"
+        }
+      ],
+      "usage_note_zh": "常用于自然灾害，也可涵盖事故等造成的广泛损害；「災害が起きる」是常见表达。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "災害指灾害或灾祸，是中性名词；不因灾害防备例句而标为敏感用语。",
+        "dictionary_sequences": [
+          1295100
+        ],
+        "identity": {
+          "word": "災害",
+          "reading_hiragana": "さいがい",
+          "meaning": "灾害"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-17385723b3328158",
+      "index": 4914,
+      "word": "弁",
+      "reading_hiragana": "べん",
+      "context_meaning_zh": "花瓣；瓣数的计数构词成分",
+      "pos_ja": "接尾辞・助数詞・助数詞表現",
+      "pos_zh": "接尾词・量词・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "花瓣；瓣数的计数构词成分",
+          "meaning_ja": "植物の花びら。また、植物の器官や部品を数えるときに使う語。",
+          "example_ja": "桜の花弁が風に乗って、道に舞い落ちた。",
+          "example_zh": "樱花花瓣乘风飘落在路上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "花弁が散る",
+          "zh": "花瓣飘落"
+        }
+      ],
+      "usage_note_zh": "作“花瓣”时常读「はなびら」或音读「かべん」；构词计数用法见「三弁花」等，不宜当作独立量词随意套用。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "suffix",
+          "counter"
+        ],
+        "subtypes": [
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "五弁表示花瓣数，符合瓣义和计数后缀用法；词典中的演说、方言及便当等同形义不适用。",
+        "dictionary_sequences": [
+          1512710
+        ],
+        "identity": {
+          "word": "弁",
+          "reading_hiragana": "べん",
+          "meaning": "花瓣；瓣数的计数构词成分"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e9b53d8a87c017a1",
+      "index": 4915,
+      "word": "ネットワーク",
+      "reading_hiragana": "ネットワーク",
+      "context_meaning_zh": "网络",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "网络",
+          "meaning_ja": "複数の機器や人などがつながってできた仕組み。",
+          "example_ja": "学校のネットワークに接続して、資料を共有した。",
+          "example_zh": "我连接到学校的网络并共享了资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ネットワークに接続する",
+          "zh": "连接网络"
+        }
+      ],
+      "usage_note_zh": "可指计算机通信网，也可比喻人际联系；此处外来语按词条指定读作「ネットワーク」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课指馆内计算机通信网络；学习注记说明也可喻指人际联系，但此处仅取通信义。",
+        "dictionary_sequences": [
+          1093120
+        ],
+        "identity": {
+          "word": "ネットワーク",
+          "reading_hiragana": "ネットワーク",
+          "meaning": "网络"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b97d0d580d06bc78",
+      "index": 4916,
+      "word": "どうにもならない",
+      "reading_hiragana": "どうにもならない",
+      "context_meaning_zh": "毫无办法、走投无路",
+      "pos_ja": "イ形容詞・表現・定型表現",
+      "pos_zh": "い形容词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "毫无办法、走投无路",
+          "meaning_ja": "何をしても解決できず、どうしようもない様子。",
+          "example_ja": "鍵をなくしてしまい、今はどうにもならない。",
+          "example_zh": "钥匙丢了，现在真是毫无办法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どうにもならない問題",
+          "zh": "无可奈何的问题"
+        }
+      ],
+      "usage_note_zh": "常用「どうにもならない」修饰状况或问题；比「できない」更强调无计可施。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "adjective_i",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "整体「どうにもならない」表示毫无办法，词典兼列表达与い形容词；句中作状况判断，不按裸动词标自他。",
+        "dictionary_sequences": [
+          2134860
+        ],
+        "identity": {
+          "word": "どうにもならない",
+          "reading_hiragana": "どうにもならない",
+          "meaning": "毫无办法、走投无路"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3d52abc1c721995c",
+      "index": 4917,
+      "word": "悲鳴を上げる",
+      "reading_hiragana": "ひめいをあげる",
+      "context_meaning_zh": "发出悲鸣",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发出悲鸣",
+          "meaning_ja": "耐えられないほど苦しくなり、声を出してつらさを表す。",
+          "example_ja": "注文が急に増え、店は忙しさに悲鳴を上げた。",
+          "example_zh": "订单突然增加，店里忙得应接不暇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人手不足に悲鳴を上げる",
+          "zh": "因人手不足而吃不消"
+        }
+      ],
+      "usage_note_zh": "可字面表示发出尖叫，也常比喻承受不住压力；原因常用「に」标出。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「悲鳴を上げる」表示突遇巨响后发出尖叫，按完整惯用表达处理，不从を格推断词项自他。",
+        "dictionary_sequences": [
+          2572900
+        ],
+        "identity": {
+          "word": "悲鳴を上げる",
+          "reading_hiragana": "ひめいをあげる",
+          "meaning": "发出悲鸣"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-34baae48bd911200",
+      "index": 4918,
+      "word": "地中",
+      "reading_hiragana": "ちちゅう",
+      "context_meaning_zh": "地中、地下",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "地中、地下",
+          "meaning_ja": "地面より下の場所。",
+          "example_ja": "雨水が地中にしみ込み、井戸の水になった。",
+          "example_zh": "雨水渗入地下，成了井水。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "地中に埋める",
+          "zh": "埋入地下"
+        }
+      ],
+      "usage_note_zh": "表示地下位置；与「地下」近义，但「地中」更强调地表以下的土层内部。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "地下水管道位于地中，词典underground/subterranean义准确；在地表以下的内部空间作名词使用。",
+        "dictionary_sequences": [
+          1763200
+        ],
+        "identity": {
+          "word": "地中",
+          "reading_hiragana": "ちちゅう",
+          "meaning": "地中、地下"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3dac6394cd29f158",
+      "index": 4919,
+      "word": "固形",
+      "reading_hiragana": "こけい",
+      "context_meaning_zh": "固形、固体",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "固形、固体",
+          "meaning_ja": "形が決まっていて、液体のように流れない状態。",
+          "example_ja": "薬は粉ではなく、固形の錠剤にした。",
+          "example_zh": "药没有做成粉末，而是制成了固体药片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "固形の食品",
+          "zh": "固体食品"
+        }
+      ],
+      "usage_note_zh": "修饰名词用「固形の／固形〜」；描述物质状态时，与液体、気体相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "固形修饰食品并与饮料对比，表示固体形态，词典solid义吻合；也可作名词或no类修饰。",
+        "dictionary_sequences": [
+          1266590
+        ],
+        "identity": {
+          "word": "固形",
+          "reading_hiragana": "こけい",
+          "meaning": "固形、固体"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7c55849b68534513",
+      "index": 4920,
+      "word": "破壊",
+      "reading_hiragana": "はかい",
+      "context_meaning_zh": "破坏",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "破坏",
+          "meaning_ja": "建物や仕組みなどを壊し、元の形や働きを失わせること。",
+          "example_ja": "強い波が海岸の小さな施設を破壊した。",
+          "example_zh": "巨浪摧毁了海岸边的一处小设施。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "環境を破壊する",
+          "zh": "破坏环境"
+        }
+      ],
+      "usage_note_zh": "常用「建物を破壊する」「破壊が進む」；日语辞书里常视为名词兼サ变动词，具体自他按句中搭配判断。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "破壊可指破坏事件并有自他サ变义；此句水管が破壊されれば为被动遭破坏，词典列vt/vi。",
+        "dictionary_sequences": [
+          1471250
+        ],
+        "identity": {
+          "word": "破壊",
+          "reading_hiragana": "はかい",
+          "meaning": "破坏"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9a7f2413563558a8",
+      "index": 4921,
+      "word": "砂漠",
+      "reading_hiragana": "さばく",
+      "context_meaning_zh": "沙漠",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "沙漠",
+          "meaning_ja": "雨がとても少なく、植物が育ちにくい乾燥した土地。",
+          "example_ja": "砂漠の昼は暑くても、夜は冷え込むことがある。",
+          "example_zh": "沙漠的白天即使炎热，夜里也可能变冷。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "砂漠を横断する",
+          "zh": "横穿沙漠"
+        }
+      ],
+      "usage_note_zh": "真实地貌为干燥地区，不一定全由沙子构成；比喻用法如「心の砂漠」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指干旱地貌而非必然满是沙子的地区；例句为实际地貌名词义。",
+        "dictionary_sequences": [
+          1593800
+        ],
+        "identity": {
+          "word": "砂漠",
+          "reading_hiragana": "さばく",
+          "meaning": "沙漠"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0ad1a236caeaefec",
+      "index": 4922,
+      "word": "砂漠化",
+      "reading_hiragana": "さばくか",
+      "context_meaning_zh": "沙漠化",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "沙漠化",
+          "meaning_ja": "乾燥などの影響で、土地が砂漠のように変わること。",
+          "example_ja": "木を切りすぎると、その土地で砂漠化が進む恐れがある。",
+          "example_zh": "过度砍伐树木，可能会使当地沙漠化加剧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "砂漠化を防ぐ",
+          "zh": "防止沙漠化"
+        }
+      ],
+      "usage_note_zh": "指土地逐渐变得干燥、荒漠化的过程；不等于沙漠本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表示土地逐渐荒漠化的过程而非沙漠本身，常接する；词典标サ变自动词。",
+        "dictionary_sequences": [
+          2555880
+        ],
+        "identity": {
+          "word": "砂漠化",
+          "reading_hiragana": "さばくか",
+          "meaning": "沙漠化"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5b6be1164fe5d619",
+      "index": 4923,
+      "word": "二酸化炭素",
+      "reading_hiragana": "にさんかたんそ",
+      "context_meaning_zh": "二氧化碳",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "二氧化碳",
+          "meaning_ja": "炭素原子一つと酸素原子二つからできた気体。",
+          "example_ja": "人は呼吸によって二酸化炭素を吐き出す。",
+          "example_zh": "人通过呼吸呼出二氧化碳。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二酸化炭素を排出する",
+          "zh": "排放二氧化碳"
+        }
+      ],
+      "usage_note_zh": "化学式为CO₂；词条指这种物质本身，不把它与一氧化碳混淆。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "班级收集二氧化碳含量与海温数据，JMdict 1461820明确收CO2化学物质名词义；未据科学话题机械加体裁。",
+        "dictionary_sequences": [
+          1461820
+        ],
+        "identity": {
+          "word": "二酸化炭素",
+          "reading_hiragana": "にさんかたんそ",
+          "meaning": "二氧化碳"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2c4715ce371942a2",
+      "index": 4924,
+      "word": "酸性雨",
+      "reading_hiragana": "さんせいう",
+      "context_meaning_zh": "酸雨",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "酸雨",
+          "meaning_ja": "空気中の汚染物質などの影響で、雨の酸性が強くなる現象。",
+          "example_ja": "酸性雨の影響で、石の建物の表面が傷んだ。",
+          "example_zh": "受酸雨影响，石建筑的表面受到了损坏。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "酸性雨の影響",
+          "zh": "酸雨的影响"
+        }
+      ],
+      "usage_note_zh": "「酸性雨」指酸性较强的降水；「酸性」是性质描述，不代表所有雨水都无酸性。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指酸性较强的降水；句中作为小组研究主题，重点是对森林及土地的生态影响。",
+        "dictionary_sequences": [
+          1304340
+        ],
+        "identity": {
+          "word": "酸性雨",
+          "reading_hiragana": "さんせいう",
+          "meaning": "酸雨"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ed8b5dc277c026e7",
+      "index": 4925,
+      "word": "苦しむ",
+      "reading_hiragana": "くるしむ",
+      "context_meaning_zh": "苦恼;费力;吃苦、受折磨",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "苦恼;费力;吃苦、受折磨",
+          "meaning_ja": "痛みや悩みを感じる。また、問題の解決に苦労する。",
+          "example_ja": "彼は新しい職場の人間関係に苦しんでいた。",
+          "example_zh": "他为新职场的人际关系而苦恼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "選択に苦しむ",
+          "zh": "难以抉择"
+        }
+      ],
+      "usage_note_zh": "「病気に苦しむ」是受病痛折磨；「返事に苦しむ」表示难以作答，不能与他动词「苦しめる」混用。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "苦しむ为五段不及物动词，例句描述水不足造成困苦及整理资料时费力。",
+        "dictionary_sequences": [
+          1244350
+        ],
+        "identity": {
+          "word": "苦しむ",
+          "reading_hiragana": "くるしむ",
+          "meaning": "苦恼;费力;吃苦、受折磨"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dfaebdf34962b82d",
+      "index": 4926,
+      "word": "温暖化",
+      "reading_hiragana": "おんだんか",
+      "context_meaning_zh": "温暖化",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "温暖化",
+          "meaning_ja": "地球全体の平均気温が、長い間に上がること。",
+          "example_ja": "気温の記録を比べ、温暖化の影響を調べた。",
+          "example_zh": "通过比较气温记录，调查了全球变暖的影响。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "温暖化が進む",
+          "zh": "全球变暖加剧"
+        }
+      ],
+      "usage_note_zh": "常见完整说法「地球温暖化」；说现象发展时用「温暖化が進む」，避免误解为短期天气变暖。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "词典列名词、サ变自动词；班级调查温暖化与二氧化碳关系，取气候变暖现象义。",
+        "dictionary_sequences": [
+          2658470
+        ],
+        "identity": {
+          "word": "温暖化",
+          "reading_hiragana": "おんだんか",
+          "meaning": "温暖化"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ba926b38603280b0",
+      "index": 4927,
+      "word": "自然林",
+      "reading_hiragana": "しぜんりん",
+      "context_meaning_zh": "天然树林",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "天然树林",
+          "meaning_ja": "人の手があまり加わらず、自然の状態に近い森林。",
+          "example_ja": "山の自然林には、古い木や珍しい植物が残っている。",
+          "example_zh": "山里的天然林中保留着古树和稀有植物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "自然林を保護する",
+          "zh": "保护天然林"
+        }
+      ],
+      "usage_note_zh": "常与人工林相对，指接近自然状态的森林；不表示森林完全没有受到人类影响。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "酸雨对自然林的影响是研究主题，自然林指未经人工栽培形成的林地，符合词典virgin forest义。",
+        "dictionary_sequences": [
+          1318190
+        ],
+        "identity": {
+          "word": "自然林",
+          "reading_hiragana": "しぜんりん",
+          "meaning": "天然树林"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7dfc380c2f636a96",
+      "index": 4928,
+      "word": "差し迫る",
+      "reading_hiragana": "さしせまる",
+      "context_meaning_zh": "紧迫、迫近、逼近",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "紧迫、迫近、逼近",
+          "meaning_ja": "時刻や危険が近づき、余裕が少なくなる。",
+          "example_ja": "出発の時間が差し迫り、私たちは駅へ急いだ。",
+          "example_zh": "出发时间迫近，我们赶往车站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "危険が差し迫る",
+          "zh": "危险迫近"
+        }
+      ],
+      "usage_note_zh": "常说「危険／期限が差し迫る」；比「迫る」更强调紧急、刻不容缓。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "危机已经迫近，差し迫る为五段自动态；危机作定语中心语，非动作宾语。",
+        "dictionary_sequences": [
+          1850030
+        ],
+        "identity": {
+          "word": "差し迫る",
+          "reading_hiragana": "さしせまる",
+          "meaning": "紧迫、迫近、逼近"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-56bb1414d2f78ebe",
+      "index": 4929,
+      "word": "余儀ない",
+      "reading_hiragana": "よぎない",
+      "context_meaning_zh": "不得已；重点以余儀なくされる整体理解",
+      "pos_ja": "イ形容詞・定型表現",
+      "pos_zh": "い形容词・固定表达",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "不得已；重点以余儀なくされる整体理解",
+          "meaning_ja": "ほかに選ぶ方法がなく、そうするしかない。",
+          "example_ja": "大雪のため、試合は延期を余儀なくされた。",
+          "example_zh": "由于大雪，比赛不得不延期。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "変更を余儀なくされる",
+          "zh": "被迫变更"
+        }
+      ],
+      "usage_note_zh": "通常以「余儀なくされる」形式出现，前接被迫采取的行动；单独作谓语的用法较少。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "い形容词「余儀ない」常用于固定构式「余儀なくされる」，表示被迫；此例属于该构式，不据此扩展其他体裁标签。",
+        "dictionary_sequences": [
+          1855120
+        ],
+        "identity": {
+          "word": "余儀ない",
+          "reading_hiragana": "よぎない",
+          "meaning": "不得已；重点以余儀なくされる整体理解"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d386b373beb97f0f",
+      "index": 4930,
+      "word": "閉ざす",
+      "reading_hiragana": "とざす",
+      "context_meaning_zh": "锁、封闭",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "锁、封闭",
+          "meaning_ja": "出入りできないように閉める。また、交流を拒む。",
+          "example_ja": "大雪で山道が閉ざされ、車が通れなくなった。",
+          "example_zh": "大雪封住了山路，车辆无法通行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道を閉ざす",
+          "zh": "封住道路"
+        }
+      ],
+      "usage_note_zh": "物理上可指封闭道路、入口；「心を閉ざす」是拒绝与人交流的比喻用法。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "学习机会和设施大门均是「閉ざす」封闭或剥夺的对象；五段他动词。",
+        "dictionary_sequences": [
+          1508540
+        ],
+        "identity": {
+          "word": "閉ざす",
+          "reading_hiragana": "とざす",
+          "meaning": "锁、封闭"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c87f5ace2df88d3d",
+      "index": 4931,
+      "word": "災い",
+      "reading_hiragana": "わざわい",
+      "context_meaning_zh": "祸、灾祸、灾害",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "祸、灾祸、灾害",
+          "meaning_ja": "人に不幸や困った結果をもたらす出来事。",
+          "example_ja": "小さなうそが、後に大きな災いを招いた。",
+          "example_zh": "一个小谎言后来招来了大祸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "災いを招く",
+          "zh": "招致灾祸"
+        }
+      ],
+      "usage_note_zh": "常见搭配「災いを招く」；谚语「口は災いの元」表示祸从口出。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "粗心可能招来灾祸，災い为不幸事件名词；词典灾难义与例句相合。",
+        "dictionary_sequences": [
+          1295080
+        ],
+        "identity": {
+          "word": "災い",
+          "reading_hiragana": "わざわい",
+          "meaning": "祸、灾祸、灾害"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-65ae0725ef05a181",
+      "index": 4932,
+      "word": "罠",
+      "reading_hiragana": "わな",
+      "context_meaning_zh": "(捕猎兽用)圈套;暗算",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(捕猎兽用)圈套;暗算",
+          "meaning_ja": "動物を捕まえるために仕掛ける道具。",
+          "example_ja": "森に入る前に、猟師は罠がないか確かめた。",
+          "example_zh": "进入森林前，猎人确认了周围是否有陷阱。"
+        },
+        {
+          "meaning_zh": "（比喻）圈套、骗局",
+          "meaning_ja": "人をだまして困らせるために用意した仕掛け。",
+          "example_ja": "うまい話に見えたが、実は詐欺師の罠だった。",
+          "example_zh": "看似是好事，其实是骗子设下的圈套。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "罠にかかる",
+          "zh": "落入圈套"
+        }
+      ],
+      "usage_note_zh": "字面义指捕猎动物的装置；比喻义指诱骗人上当的骗局，常说「罠にかかる／罠にかける」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "兼指捕捉动物的陷阱和欺骗他人的计谋；例句分别是诈骗圈套与捕兽装置。",
+        "dictionary_sequences": [
+          1570620
+        ],
+        "identity": {
+          "word": "罠",
+          "reading_hiragana": "わな",
+          "meaning": "(捕猎兽用)圈套;暗算"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ed0b8414557d9c17",
+      "index": 4933,
+      "word": "盗人",
+      "reading_hiragana": "ぬすびと",
+      "context_meaning_zh": "(也读「ぬすっと」)盗贼、小偷",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・古语",
+      "senses": [
+        {
+          "meaning_zh": "(也读「ぬすっと」)盗贼、小偷",
+          "meaning_ja": "人の物を盗む人。",
+          "example_ja": "夜中に倉庫へ入った盗人が、警備員に見つかった。",
+          "example_zh": "深夜进入仓库的小偷被保安发现了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "盗人を捕まえる",
+          "zh": "抓住盗贼"
+        }
+      ],
+      "usage_note_zh": "较旧式或书面；常用口语词是「泥棒」。「盗人」也可读「ぬすっと」，本条采用给定读音「ぬすびと」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "archaic"
+        ]
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "盗人指盗贼，词典标为旧式用词；本例沿用所给读音ぬすびと，叙述故事中的盗贼。",
+        "dictionary_sequences": [
+          1448390
+        ],
+        "identity": {
+          "word": "盗人",
+          "reading_hiragana": "ぬすびと",
+          "meaning": "(也读「ぬすっと」)盗贼、小偷"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-da53e138b165760f",
+      "index": 4934,
+      "word": "一寸先はやみ",
+      "reading_hiragana": "いっすんさきはやみ",
+      "context_meaning_zh": "前途莫测",
+      "pos_ja": "表現・ことわざ・定型表現",
+      "pos_zh": "表达・谚语・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "前途莫测",
+          "meaning_ja": "先のことは少し先でも分からず、何が起こるか予測できないということ。",
+          "example_ja": "転職した友人は、「一寸先はやみだから、今できることをする」と言った。",
+          "example_zh": "转职的朋友说：“前途难料，所以先做好眼前能做的事。”"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一寸先はやみだ",
+          "zh": "前途莫测"
+        }
+      ],
+      "usage_note_zh": "惯用句中的「やみ」写作「闇」也常见；整体说明未来不可预知，不是字面距离或黑暗。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "proverb",
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "谚语「一寸先は闇」表示未来难以预料，当前释义与否定“因此什么都做不了”的推论吻合。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "一寸先はやみ",
+          "reading_hiragana": "いっすんさきはやみ",
+          "meaning": "前途莫测"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3d8edb5ad808d729",
+      "index": 4935,
+      "word": "破目",
+      "reading_hiragana": "はめ",
+      "context_meaning_zh": "地步、处境",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "地步、处境",
+          "meaning_ja": "望ましくない状況や立場。",
+          "example_ja": "道を間違えたせいで、遠回りする羽目になった。",
+          "example_zh": "因为走错路，我只好绕远路。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "面倒な羽目になる",
+          "zh": "落入麻烦处境"
+        }
+      ],
+      "usage_note_zh": "常用「〜羽目になる」表示结果落到不理想处境；本条读作「はめ」，不要与「破目」字面拆解。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "因未保存而落到重做表格的地步，符合词典困境名词义。",
+        "dictionary_sequences": [
+          1171820
+        ],
+        "identity": {
+          "word": "破目",
+          "reading_hiragana": "はめ",
+          "meaning": "地步、处境"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-176a540cde562ae0",
+      "index": 4936,
+      "word": "排除",
+      "reading_hiragana": "はいじょ",
+      "context_meaning_zh": "排除、消除",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "排除、消除",
+          "meaning_ja": "不要なものや邪魔なものを取り除くこと。",
+          "example_ja": "作業を始める前に、通路の障害物を排除した。",
+          "example_zh": "开始作业前，清除了通道上的障碍物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "危険を排除する",
+          "zh": "排除危险"
+        }
+      ],
+      "usage_note_zh": "常用「障害／危険／可能性を排除する」；「削除」多指从文件或名单中删去。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "把不安等从认知或环境中排除；句例将焦虑作直接对象，排除与删除文件名册的削除有别。",
+        "dictionary_sequences": [
+          1472370
+        ],
+        "identity": {
+          "word": "排除",
+          "reading_hiragana": "はいじょ",
+          "meaning": "排除、消除"
+        }
+      }
+    }
+  ]
+}

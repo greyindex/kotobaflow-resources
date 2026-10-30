@@ -1,0 +1,996 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 189.894,
+ "listening_review": "pending",
+ "source_chapter": 57,
+ "turns": [
+  {
+   "turn_id": "C57-D001",
+   "turn_index": 0,
+   "speaker": "林梅",
+   "source_text": "すみません。川西市に住んでいて、緑町で働いています。初めてですが、登録できますか。今日、展示も見たいんです。",
+   "sentence_ids": [
+    "C57-D001-S01",
+    "C57-D001-S02",
+    "C57-D001-S03",
+    "C57-D001-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 9.804,
+   "duration_sec": 9.804
+  },
+  {
+   "turn_id": "C57-D002",
+   "turn_index": 1,
+   "speaker": "森",
+   "source_text": "はい。住所と勤務先の分かる書類を見せて、この申込書を書いてください。登録前でも展示は見られますよ。",
+   "sentence_ids": [
+    "C57-D002-S01",
+    "C57-D002-S02",
+    "C57-D002-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 10.154,
+   "end_sec": 18.12,
+   "duration_sec": 7.966
+  },
+  {
+   "turn_id": "C57-D003",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "これが書類です。「利用者とは登録した人」と読んで、入れないと思いました。定義と入館の条件は別なんですね。",
+   "sentence_ids": [
+    "C57-D003-S01",
+    "C57-D003-S02",
+    "C57-D003-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.47,
+   "end_sec": 28.853,
+   "duration_sec": 10.383
+  },
+  {
+   "turn_id": "C57-D004",
+   "turn_index": 3,
+   "speaker": "森",
+   "source_text": "そうです。申込書も確認できました。登録は終わりです。こちらが番号です。本を借りるときに教えてください。",
+   "sentence_ids": [
+    "C57-D004-S01",
+    "C57-D004-S02",
+    "C57-D004-S03",
+    "C57-D004-S04",
+    "C57-D004-S05"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 29.203,
+   "end_sec": 37.413,
+   "duration_sec": 8.21
+  },
+  {
+   "turn_id": "C57-D005",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "同僚のハサンさんから、雑誌も借りられると聞きました。この先月号を借ります。七時に仕事が終わるので、返却はポストでもいいですか。",
+   "sentence_ids": [
+    "C57-D005-S01",
+    "C57-D005-S02",
+    "C57-D005-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.763,
+   "end_sec": 48.235,
+   "duration_sec": 10.472
+  },
+  {
+   "turn_id": "C57-D006",
+   "turn_index": 5,
+   "speaker": "森",
+   "source_text": "はい、入口の右です。最新号は借りられませんが、先月号なら大丈夫です。期限を過ぎたら、全部返すまで新しく借りたり予約したりできません。",
+   "sentence_ids": [
+    "C57-D006-S01",
+    "C57-D006-S02",
+    "C57-D006-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 48.585,
+   "end_sec": 59.938,
+   "duration_sec": 11.353
+  },
+  {
+   "turn_id": "C57-D007",
+   "turn_index": 6,
+   "speaker": "林梅",
+   "source_text": "来週の土曜日、二時から四時まで同僚と話し合いたいです。グループ室とパソコンを使えますか。同僚はまだ登録していません。",
+   "sentence_ids": [
+    "C57-D007-S01",
+    "C57-D007-S02",
+    "C57-D007-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 60.288,
+   "end_sec": 69.437,
+   "duration_sec": 9.149
+  },
+  {
+   "turn_id": "C57-D008",
+   "turn_index": 7,
+   "speaker": "森",
+   "source_text": "その時間は空いています。予約しました。同僚の登録は不要です。変更時は窓口へ連絡してください。パソコンは持ち帰れません。",
+   "sentence_ids": [
+    "C57-D008-S01",
+    "C57-D008-S02",
+    "C57-D008-S03",
+    "C57-D008-S04",
+    "C57-D008-S05"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 69.787,
+   "end_sec": 79.514,
+   "duration_sec": 9.727
+  },
+  {
+   "turn_id": "C57-D009",
+   "turn_index": 8,
+   "speaker": "林梅",
+   "source_text": "分かりました。展示の言葉についても聞きたいです。「創意を生かす」とありますが、創造力や思考力とはどう違いますか。",
+   "sentence_ids": [
+    "C57-D009-S01",
+    "C57-D009-S02",
+    "C57-D009-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 79.864,
+   "end_sec": 90.104,
+   "duration_sec": 10.24
+  },
+  {
+   "turn_id": "C57-D010",
+   "turn_index": 9,
+   "speaker": "森",
+   "source_text": "創意は新しい工夫や発想です。創造力は新しいものを生み出す力、思考力は考える力です。三つは関係しますが、同じ意味ではありません。",
+   "sentence_ids": [
+    "C57-D010-S01",
+    "C57-D010-S02",
+    "C57-D010-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 90.454,
+   "end_sec": 102.558,
+   "duration_sec": 12.104
+  },
+  {
+   "turn_id": "C57-D011",
+   "turn_index": 10,
+   "speaker": "林梅",
+   "source_text": "では、高度な技術がなくても創意は示せる、ということですね。あの紙の模型には独特の様式があって、おもしろいです。",
+   "sentence_ids": [
+    "C57-D011-S01",
+    "C57-D011-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 102.908,
+   "end_sec": 112.845,
+   "duration_sec": 9.937
+  },
+  {
+   "turn_id": "C57-D012",
+   "turn_index": 11,
+   "speaker": "森",
+   "source_text": "ええ。創意を特定の技術だけと結び付けないことが大切です。こうした展示で、あらゆる答えを教えるのではなく、知識欲を育てたいんです。",
+   "sentence_ids": [
+    "C57-D012-S01",
+    "C57-D012-S02",
+    "C57-D012-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 113.195,
+   "end_sec": 124.061,
+   "duration_sec": 10.866
+  },
+  {
+   "turn_id": "C57-D013",
+   "turn_index": 12,
+   "speaker": "林梅",
+   "source_text": "隣の機械の説明には「潤滑油」とあります。人間関係でも聞く表現ですが、本来は機械に使う油のことなんですね。",
+   "sentence_ids": [
+    "C57-D013-S01",
+    "C57-D013-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 124.411,
+   "end_sec": 134.603,
+   "duration_sec": 10.192
+  },
+  {
+   "turn_id": "C57-D014",
+   "turn_index": 13,
+   "speaker": "森",
+   "source_text": "はい。ここでは文字通りの意味です。機械の原理を説明する場所ですから。人間関係の話なら、油にたとえて関係を円滑にするものを表します。",
+   "sentence_ids": [
+    "C57-D014-S01",
+    "C57-D014-S02",
+    "C57-D014-S03",
+    "C57-D014-S04"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 134.953,
+   "end_sec": 146.191,
+   "duration_sec": 11.238
+  },
+  {
+   "turn_id": "C57-D015",
+   "turn_index": 14,
+   "speaker": "林梅",
+   "source_text": "比喩と定義の区別が必要ですね。応用文を書く宿題があるので、この説明の形態を参考にしたいです。引用はできますか。",
+   "sentence_ids": [
+    "C57-D015-S01",
+    "C57-D015-S02",
+    "C57-D015-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 146.541,
+   "end_sec": 156.089,
+   "duration_sec": 9.548
+  },
+  {
+   "turn_id": "C57-D016",
+   "turn_index": 15,
+   "speaker": "森",
+   "source_text": "はい、展示名と日付を記してください。前文を略すると意味が変わる場合もあります。引用する部分だけでなく、その前後も読んでください。",
+   "sentence_ids": [
+    "C57-D016-S01",
+    "C57-D016-S02",
+    "C57-D016-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 156.439,
+   "end_sec": 167.356,
+   "duration_sec": 10.917
+  },
+  {
+   "turn_id": "C57-D017",
+   "turn_index": 16,
+   "speaker": "林梅",
+   "source_text": "ことわざや俗語も調べたいです。コーパスというものを初めて知りました。多種多様な文章を検索できるんですね。",
+   "sentence_ids": [
+    "C57-D017-S01",
+    "C57-D017-S02",
+    "C57-D017-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 167.706,
+   "end_sec": 175.452,
+   "duration_sec": 7.746
+  },
+  {
+   "turn_id": "C57-D018",
+   "turn_index": 17,
+   "speaker": "森",
+   "source_text": "ええ。ただ、この画面にあるのは一種の体験版です。検索自体は簡単ですが、結果の解釈には注意が必要です。最後に二つの説明を総合して、自分の言葉で書いてみてください。",
+   "sentence_ids": [
+    "C57-D018-S01",
+    "C57-D018-S02",
+    "C57-D018-S03",
+    "C57-D018-S04"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 175.802,
+   "end_sec": 189.887,
+   "duration_sec": 14.085
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C57-D001-S01",
+   "unit_id": "C57-D001",
+   "section": "D",
+   "speaker": "リン",
+   "text": "すみません。",
+   "start_sec": 0.0,
+   "end_sec": 1.12,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D001-S02",
+   "unit_id": "C57-D001",
+   "section": "D",
+   "speaker": "リン",
+   "text": "川西市に住んでいて、緑町で働いています。",
+   "start_sec": 1.27,
+   "end_sec": 5.042,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D001-S03",
+   "unit_id": "C57-D001",
+   "section": "D",
+   "speaker": "リン",
+   "text": "初めてですが、登録できますか。",
+   "start_sec": 5.192,
+   "end_sec": 7.644,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D001-S04",
+   "unit_id": "C57-D001",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今日、展示も見たいんです。",
+   "start_sec": 7.794,
+   "end_sec": 9.804,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D002-S01",
+   "unit_id": "C57-D002",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい。",
+   "start_sec": 10.154,
+   "end_sec": 10.644,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D002-S02",
+   "unit_id": "C57-D002",
+   "section": "D",
+   "speaker": "森",
+   "text": "住所と勤務先の分かる書類を見せて、この申込書を書いてください。",
+   "start_sec": 10.794,
+   "end_sec": 15.716,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D002-S03",
+   "unit_id": "C57-D002",
+   "section": "D",
+   "speaker": "森",
+   "text": "登録前でも展示は見られますよ。",
+   "start_sec": 15.866,
+   "end_sec": 18.12,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D003-S01",
+   "unit_id": "C57-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "これが書類です。",
+   "start_sec": 18.47,
+   "end_sec": 20.303,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D003-S02",
+   "unit_id": "C57-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "「利用者とは登録した人」と読んで、入れないと思いました。",
+   "start_sec": 20.453,
+   "end_sec": 25.512,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D003-S03",
+   "unit_id": "C57-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "定義と入館の条件は別なんですね。",
+   "start_sec": 25.662,
+   "end_sec": 28.853,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D004-S01",
+   "unit_id": "C57-D004",
+   "section": "D",
+   "speaker": "森",
+   "text": "そうです。",
+   "start_sec": 29.203,
+   "end_sec": 29.97,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D004-S02",
+   "unit_id": "C57-D004",
+   "section": "D",
+   "speaker": "森",
+   "text": "申込書も確認できました。",
+   "start_sec": 30.12,
+   "end_sec": 32.144,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D004-S03",
+   "unit_id": "C57-D004",
+   "section": "D",
+   "speaker": "森",
+   "text": "登録は終わりです。",
+   "start_sec": 32.294,
+   "end_sec": 33.628,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D004-S04",
+   "unit_id": "C57-D004",
+   "section": "D",
+   "speaker": "森",
+   "text": "こちらが番号です。",
+   "start_sec": 33.778,
+   "end_sec": 35.214,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D004-S05",
+   "unit_id": "C57-D004",
+   "section": "D",
+   "speaker": "森",
+   "text": "本を借りるときに教えてください。",
+   "start_sec": 35.364,
+   "end_sec": 37.413,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D005-S01",
+   "unit_id": "C57-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "同僚のハサンさんから、雑誌も借りられると聞きました。",
+   "start_sec": 37.763,
+   "end_sec": 41.929,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D005-S02",
+   "unit_id": "C57-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "この先月号を借ります。",
+   "start_sec": 42.079,
+   "end_sec": 43.914,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D005-S03",
+   "unit_id": "C57-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "七時に仕事が終わるので、返却はポストでもいいですか。",
+   "start_sec": 44.064,
+   "end_sec": 48.235,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D006-S01",
+   "unit_id": "C57-D006",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい、入口の右です。",
+   "start_sec": 48.585,
+   "end_sec": 50.715,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D006-S02",
+   "unit_id": "C57-D006",
+   "section": "D",
+   "speaker": "森",
+   "text": "最新号は借りられませんが、先月号なら大丈夫です。",
+   "start_sec": 50.865,
+   "end_sec": 54.899,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D006-S03",
+   "unit_id": "C57-D006",
+   "section": "D",
+   "speaker": "森",
+   "text": "期限を過ぎたら、全部返すまで新しく借りたり予約したりできません。",
+   "start_sec": 55.049,
+   "end_sec": 59.938,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D007-S01",
+   "unit_id": "C57-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "来週の土曜日、二時から四時まで同僚と話し合いたいです。",
+   "start_sec": 60.288,
+   "end_sec": 64.653,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D007-S02",
+   "unit_id": "C57-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "グループ室とパソコンを使えますか。",
+   "start_sec": 64.803,
+   "end_sec": 67.313,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D007-S03",
+   "unit_id": "C57-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "同僚はまだ登録していません。",
+   "start_sec": 67.463,
+   "end_sec": 69.437,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D008-S01",
+   "unit_id": "C57-D008",
+   "section": "D",
+   "speaker": "森",
+   "text": "その時間は空いています。",
+   "start_sec": 69.787,
+   "end_sec": 71.5,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D008-S02",
+   "unit_id": "C57-D008",
+   "section": "D",
+   "speaker": "森",
+   "text": "予約しました。",
+   "start_sec": 71.65,
+   "end_sec": 72.937,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D008-S03",
+   "unit_id": "C57-D008",
+   "section": "D",
+   "speaker": "森",
+   "text": "同僚の登録は不要です。",
+   "start_sec": 73.087,
+   "end_sec": 74.956,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D008-S04",
+   "unit_id": "C57-D008",
+   "section": "D",
+   "speaker": "森",
+   "text": "変更時は窓口へ連絡してください。",
+   "start_sec": 75.106,
+   "end_sec": 77.69,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D008-S05",
+   "unit_id": "C57-D008",
+   "section": "D",
+   "speaker": "森",
+   "text": "パソコンは持ち帰れません。",
+   "start_sec": 77.84,
+   "end_sec": 79.514,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D009-S01",
+   "unit_id": "C57-D009",
+   "section": "D",
+   "speaker": "リン",
+   "text": "分かりました。",
+   "start_sec": 79.864,
+   "end_sec": 81.31,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D009-S02",
+   "unit_id": "C57-D009",
+   "section": "D",
+   "speaker": "リン",
+   "text": "展示の言葉についても聞きたいです。",
+   "start_sec": 81.46,
+   "end_sec": 84.27,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D009-S03",
+   "unit_id": "C57-D009",
+   "section": "D",
+   "speaker": "リン",
+   "text": "「創意を生かす」とありますが、創造力や思考力とはどう違いますか。",
+   "start_sec": 84.42,
+   "end_sec": 90.104,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D010-S01",
+   "unit_id": "C57-D010",
+   "section": "D",
+   "speaker": "森",
+   "text": "創意は新しい工夫や発想です。",
+   "start_sec": 90.454,
+   "end_sec": 93.245,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D010-S02",
+   "unit_id": "C57-D010",
+   "section": "D",
+   "speaker": "森",
+   "text": "創造力は新しいものを生み出す力、思考力は考える力です。",
+   "start_sec": 93.395,
+   "end_sec": 99.145,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D010-S03",
+   "unit_id": "C57-D010",
+   "section": "D",
+   "speaker": "森",
+   "text": "三つは関係しますが、同じ意味ではありません。",
+   "start_sec": 99.295,
+   "end_sec": 102.558,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D011-S01",
+   "unit_id": "C57-D011",
+   "section": "D",
+   "speaker": "リン",
+   "text": "では、高度な技術がなくても創意は示せる、ということですね。",
+   "start_sec": 102.908,
+   "end_sec": 108.378,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D011-S02",
+   "unit_id": "C57-D011",
+   "section": "D",
+   "speaker": "リン",
+   "text": "あの紙の模型には独特の様式があって、おもしろいです。",
+   "start_sec": 108.528,
+   "end_sec": 112.845,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D012-S01",
+   "unit_id": "C57-D012",
+   "section": "D",
+   "speaker": "森",
+   "text": "ええ。",
+   "start_sec": 113.195,
+   "end_sec": 113.763,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D012-S02",
+   "unit_id": "C57-D012",
+   "section": "D",
+   "speaker": "森",
+   "text": "創意を特定の技術だけと結び付けないことが大切です。",
+   "start_sec": 113.913,
+   "end_sec": 118.207,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D012-S03",
+   "unit_id": "C57-D012",
+   "section": "D",
+   "speaker": "森",
+   "text": "こうした展示で、あらゆる答えを教えるのではなく、知識欲を育てたいんです。",
+   "start_sec": 118.357,
+   "end_sec": 124.061,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D013-S01",
+   "unit_id": "C57-D013",
+   "section": "D",
+   "speaker": "リン",
+   "text": "隣の機械の説明には「潤滑油」とあります。",
+   "start_sec": 124.411,
+   "end_sec": 129.083,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D013-S02",
+   "unit_id": "C57-D013",
+   "section": "D",
+   "speaker": "リン",
+   "text": "人間関係でも聞く表現ですが、本来は機械に使う油のことなんですね。",
+   "start_sec": 129.233,
+   "end_sec": 134.603,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D014-S01",
+   "unit_id": "C57-D014",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい。",
+   "start_sec": 134.953,
+   "end_sec": 135.502,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D014-S02",
+   "unit_id": "C57-D014",
+   "section": "D",
+   "speaker": "森",
+   "text": "ここでは文字通りの意味です。",
+   "start_sec": 135.652,
+   "end_sec": 137.835,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D014-S03",
+   "unit_id": "C57-D014",
+   "section": "D",
+   "speaker": "森",
+   "text": "機械の原理を説明する場所ですから。",
+   "start_sec": 137.985,
+   "end_sec": 140.591,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D014-S04",
+   "unit_id": "C57-D014",
+   "section": "D",
+   "speaker": "森",
+   "text": "人間関係の話なら、油にたとえて関係を円滑にするものを表します。",
+   "start_sec": 140.742,
+   "end_sec": 146.191,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D015-S01",
+   "unit_id": "C57-D015",
+   "section": "D",
+   "speaker": "リン",
+   "text": "比喩と定義の区別が必要ですね。",
+   "start_sec": 146.541,
+   "end_sec": 149.346,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D015-S02",
+   "unit_id": "C57-D015",
+   "section": "D",
+   "speaker": "リン",
+   "text": "応用文を書く宿題があるので、この説明の形態を参考にしたいです。",
+   "start_sec": 149.496,
+   "end_sec": 154.519,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D015-S03",
+   "unit_id": "C57-D015",
+   "section": "D",
+   "speaker": "リン",
+   "text": "引用はできますか。",
+   "start_sec": 154.669,
+   "end_sec": 156.089,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D016-S01",
+   "unit_id": "C57-D016",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい、展示名と日付を記してください。",
+   "start_sec": 156.439,
+   "end_sec": 159.899,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D016-S02",
+   "unit_id": "C57-D016",
+   "section": "D",
+   "speaker": "森",
+   "text": "前文を略すると意味が変わる場合もあります。",
+   "start_sec": 160.049,
+   "end_sec": 163.602,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D016-S03",
+   "unit_id": "C57-D016",
+   "section": "D",
+   "speaker": "森",
+   "text": "引用する部分だけでなく、その前後も読んでください。",
+   "start_sec": 163.752,
+   "end_sec": 167.356,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D017-S01",
+   "unit_id": "C57-D017",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ことわざや俗語も調べたいです。",
+   "start_sec": 167.706,
+   "end_sec": 169.993,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D017-S02",
+   "unit_id": "C57-D017",
+   "section": "D",
+   "speaker": "リン",
+   "text": "コーパスというものを初めて知りました。",
+   "start_sec": 170.143,
+   "end_sec": 172.643,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D017-S03",
+   "unit_id": "C57-D017",
+   "section": "D",
+   "speaker": "リン",
+   "text": "多種多様な文章を検索できるんですね。",
+   "start_sec": 172.793,
+   "end_sec": 175.452,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D018-S01",
+   "unit_id": "C57-D018",
+   "section": "D",
+   "speaker": "森",
+   "text": "ええ。",
+   "start_sec": 175.802,
+   "end_sec": 176.527,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D018-S02",
+   "unit_id": "C57-D018",
+   "section": "D",
+   "speaker": "森",
+   "text": "ただ、この画面にあるのは一種の体験版です。",
+   "start_sec": 176.677,
+   "end_sec": 180.647,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D018-S03",
+   "unit_id": "C57-D018",
+   "section": "D",
+   "speaker": "森",
+   "text": "検索自体は簡単ですが、結果の解釈には注意が必要です。",
+   "start_sec": 180.797,
+   "end_sec": 185.246,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C57-D018-S04",
+   "unit_id": "C57-D018",
+   "section": "D",
+   "speaker": "森",
+   "text": "最後に二つの説明を総合して、自分の言葉で書いてみてください。",
+   "start_sec": 185.396,
+   "end_sec": 189.887,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

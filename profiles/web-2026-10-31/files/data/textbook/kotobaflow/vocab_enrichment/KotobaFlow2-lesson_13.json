@@ -1,0 +1,7531 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_13",
+  "entries": [
+    {
+      "textbook_uid": "cfv-cf0d8dcbb9dcdafd",
+      "index": 1832,
+      "word": "比べる",
+      "reading_hiragana": "くらべる",
+      "context_meaning_zh": "比较",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "比较",
+          "meaning_ja": "二つ以上のものを見て、同じ点や違う点を調べる。",
+          "example_ja": "二つの店を比べて、駅に近いほうに決めました。",
+          "example_zh": "我比较了两家店，决定选离车站近的那家。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "店と比べる",
+          "zh": "与店铺比较"
+        }
+      ],
+      "usage_note_zh": "と／をで比較対象を示す。結果には「より〜」を使える。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "比较多个方案以确认质量和价格，两个比较项为対象；比べる是一段他动词。",
+        "dictionary_sequences": [
+          1483540
+        ],
+        "identity": {
+          "word": "比べる",
+          "reading_hiragana": "くらべる",
+          "meaning": "比较"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0a8d0b41a3c4404e",
+      "index": 1833,
+      "word": "選ぶ",
+      "reading_hiragana": "えらぶ",
+      "context_meaning_zh": "选择",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "选择",
+          "meaning_ja": "いくつかの中から、使うものやよいと思うものを決める。",
+          "example_ja": "青いセーターと茶色のセーターから、青いほうを選びました。",
+          "example_zh": "我从蓝色和棕色毛衣中选了蓝色的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "服を選ぶ",
+          "zh": "挑选衣服"
+        }
+      ],
+      "usage_note_zh": "选择对象用「を」；范围可用「から」表示。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "选择读书会使用的扬声器，具体选择对象是を格内容；词典标五段他动。",
+        "dictionary_sequences": [
+          1588730
+        ],
+        "identity": {
+          "word": "選ぶ",
+          "reading_hiragana": "えらぶ",
+          "meaning": "选择"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e6055883fcce8e16",
+      "index": 1834,
+      "word": "安い",
+      "reading_hiragana": "やすい",
+      "context_meaning_zh": "便宜",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "便宜",
+          "meaning_ja": "必要なお金が少なくてすむ。",
+          "example_ja": "この店では、同じ靴が二千円安く買えます。",
+          "example_zh": "在这家店，同一双鞋能便宜两千日元买到。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "安く買う",
+          "zh": "便宜地买"
+        }
+      ],
+      "usage_note_zh": "「安い」修饰名词时直接接名词；比较价格时常和「より」连用。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "安い修饰品物并与总价高形成对照，取低价义；词典另列平静义在此不适用。",
+        "dictionary_sequences": [
+          1153670
+        ],
+        "identity": {
+          "word": "安い",
+          "reading_hiragana": "やすい",
+          "meaning": "便宜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cfae2c9bcafb1720",
+      "index": 1835,
+      "word": "高い",
+      "reading_hiragana": "たかい",
+      "context_meaning_zh": "价格高",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "价格高",
+          "meaning_ja": "値段が高く、買うために多くのお金が必要である。",
+          "example_ja": "このコートは品質がよいですが、値段が高いです。",
+          "example_zh": "这件大衣质量很好，不过价格贵。"
+        },
+        {
+          "meaning_zh": "位置が上にある",
+          "meaning_ja": "基準となる場所より上にある。",
+          "example_ja": "この棚は高くて、手が届きません。",
+          "example_zh": "这个架子太高了，够不到。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "値段が高い",
+          "zh": "价格高"
+        }
+      ],
+      "usage_note_zh": "本课指价格高；也可形容位置高或程度高，需看所修饰的对象。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "比较店铺音箱价格时意为价格高；与音量、身高等词典义区分。",
+        "dictionary_sequences": [
+          1283190
+        ],
+        "identity": {
+          "word": "高い",
+          "reading_hiragana": "たかい",
+          "meaning": "价格高"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f7e4789aac562211",
+      "index": 1836,
+      "word": "近い",
+      "reading_hiragana": "ちかい",
+      "context_meaning_zh": "近",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "近",
+          "meaning_ja": "場所や時間の間隔が小さい。",
+          "example_ja": "試着室はレジの近くにあります。",
+          "example_zh": "试衣间在收银台附近。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅に近い",
+          "zh": "离车站近"
+        }
+      ],
+      "usage_note_zh": "距离近可说「場所に近い」；名词前用「近い＋名词」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "车站前店铺比北町店更近，明确取空间距离义；近い为イ形容词。",
+        "dictionary_sequences": [
+          1242130
+        ],
+        "identity": {
+          "word": "近い",
+          "reading_hiragana": "ちかい",
+          "meaning": "近"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-36f5ec791e04654e",
+      "index": 1837,
+      "word": "遠い",
+      "reading_hiragana": "とおい",
+      "context_meaning_zh": "远",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "远",
+          "meaning_ja": "場所や時間の間隔が大きい。",
+          "example_ja": "この店は駅から遠いので、バスで行きます。",
+          "example_zh": "这家店离车站远，所以坐公交去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅から遠い",
+          "zh": "离车站远"
+        }
+      ],
+      "usage_note_zh": "距离的起点常用「から」；「遠く」是副词形。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "JMdict 1177800 标イ形容词；远近语境符合首义，本例没有足够信息判断时间、关系等扩展义。",
+        "dictionary_sequences": [
+          1177800
+        ],
+        "identity": {
+          "word": "遠い",
+          "reading_hiragana": "とおい",
+          "meaning": "远"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4ba3033ec050dafd",
+      "index": 1838,
+      "word": "速い",
+      "reading_hiragana": "はやい",
+      "context_meaning_zh": "速度快",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "速度快",
+          "meaning_ja": "動きや進み方に時間があまりかからない。",
+          "example_ja": "急行バスは普通のバスより速く着きます。",
+          "example_zh": "快车公交比普通公交到得快。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "速く走る",
+          "zh": "跑得快"
+        }
+      ],
+      "usage_note_zh": "「速い」说速度快；与时间较晚的「早い」区分。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本句比较公交车速度与店铺距离；「速い」修饰速度，表示移动快，不与距离远近混淆。",
+        "dictionary_sequences": [
+          1404975
+        ],
+        "identity": {
+          "word": "速い",
+          "reading_hiragana": "はやい",
+          "meaning": "速度快"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-90d0711b04d365f1",
+      "index": 1839,
+      "word": "遅い",
+      "reading_hiragana": "おそい",
+      "context_meaning_zh": "慢、晚",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "慢、晚",
+          "meaning_ja": "物事の動きや進み方に時間がかかる。",
+          "example_ja": "このパソコンは反応が遅いです。",
+          "example_zh": "这台电脑反应慢。"
+        },
+        {
+          "meaning_zh": "（时间上）晚",
+          "meaning_ja": "予定していた時刻より遅れている。",
+          "example_ja": "連絡が遅くなって、すみません。",
+          "example_zh": "回复晚了，抱歉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "帰りが遅い",
+          "zh": "回来得晚"
+        }
+      ],
+      "usage_note_zh": "速度慢可形容动作、交通工具或设备反应；表示时间晚时，常用于迟到或延误，如「返事が遅い」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "周六下午再去已晚，identity涵盖慢与晚义，例句明确采用时间太迟义；词典形容词项支持。",
+        "dictionary_sequences": [
+          1421970
+        ],
+        "identity": {
+          "word": "遅い",
+          "reading_hiragana": "おそい",
+          "meaning": "慢、晚"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fb5b245458792826",
+      "index": 1840,
+      "word": "便利",
+      "reading_hiragana": "べんり",
+      "context_meaning_zh": "方便",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "方便",
+          "meaning_ja": "使いやすく、目的を果たすのに役立つ。",
+          "example_ja": "駅の前に店があると、買い物に便利です。",
+          "example_zh": "车站前有商店的话，购物很方便。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "買い物に便利",
+          "zh": "购物方便"
+        }
+      ],
+      "usage_note_zh": "ナ形容词；名词前用「便利な」，句末可用「便利です」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "店铺位置方便外带，便利性作谓语评价；词典支持方便、有用的な形容词义。",
+        "dictionary_sequences": [
+          1512610
+        ],
+        "identity": {
+          "word": "便利",
+          "reading_hiragana": "べんり",
+          "meaning": "方便"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b4b6ef8b93b92cd5",
+      "index": 1841,
+      "word": "不便",
+      "reading_hiragana": "ふべん",
+      "context_meaning_zh": "不方便",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不方便",
+          "meaning_ja": "使いにくく、目的を果たすのに手間がかかる。",
+          "example_ja": "この辺はバスが少なくて、買い物に不便です。",
+          "example_zh": "这附近公交少，购物不方便。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "交通に不便",
+          "zh": "交通不便"
+        }
+      ],
+      "usage_note_zh": "「便利」的反义词；常用「〜に不便」说明哪方面不便。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "不便可作名词或ナ形容词，句中今回は不便です作述语；简短例句语义虽泛，分类由词典支持。",
+        "dictionary_sequences": [
+          1494860
+        ],
+        "identity": {
+          "word": "不便",
+          "reading_hiragana": "ふべん",
+          "meaning": "不方便"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-14662a6a5db0c1cf",
+      "index": 1842,
+      "word": "軽い",
+      "reading_hiragana": "かるい",
+      "context_meaning_zh": "轻",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "轻",
+          "meaning_ja": "重さが小さい。また、負担や程度が大きくない。",
+          "example_ja": "このかばんは軽いので、長い時間持っても疲れません。",
+          "example_zh": "这个包很轻，长时间拿着也不累。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "軽いかばん",
+          "zh": "轻便的包"
+        }
+      ],
+      "usage_note_zh": "重量轻；也可形容负担、语气等不重，需由搭配判断。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "想要重量轻的物品，取词典的重量义；没有依据扩展到程度轻微等其他义。",
+        "dictionary_sequences": [
+          1252560
+        ],
+        "identity": {
+          "word": "軽い",
+          "reading_hiragana": "かるい",
+          "meaning": "轻"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-02a81380aef5b87c",
+      "index": 1843,
+      "word": "重い",
+      "reading_hiragana": "おもい",
+      "context_meaning_zh": "重",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "重",
+          "meaning_ja": "重さが大きい。また、負担や程度が大きい。",
+          "example_ja": "この箱は重いから、二人で運びましょう。",
+          "example_zh": "这个箱子很重，两个人一起搬吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "荷物が重い",
+          "zh": "行李重"
+        }
+      ],
+      "usage_note_zh": "重量重；还可形容责任或病情严重，不能与速度慢的「遅い」混淆。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "音箱重量作比较谓语，重くない是重い的否定形；此处只用物理重量义，不把否定比较解释成绝对轻。",
+        "dictionary_sequences": [
+          1335750
+        ],
+        "identity": {
+          "word": "重い",
+          "reading_hiragana": "おもい",
+          "meaning": "重"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fda6a6629453338c",
+      "index": 1844,
+      "word": "同じ",
+      "reading_hiragana": "おなじ",
+      "context_meaning_zh": "相同",
+      "pos_ja": "ナ形容詞・連体修飾用法",
+      "pos_zh": "な形容词・前置修饰用法",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相同",
+          "meaning_ja": "二つ以上のものに違いがない。",
+          "example_ja": "二つの店で、同じデザインの靴を見つけました。",
+          "example_zh": "我在两家店都看到了同款设计的鞋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "同じ色",
+          "zh": "同一种颜色"
+        }
+      ],
+      "usage_note_zh": "名词前通常说「同じ＋名词」，不加「な」；比较对象可用「と同じ」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [
+          "prenominal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「同じ」采用形容动词主类；名词前直接修饰记为前置修饰细类。国语词典存在连体词的另一分析，此处不将不同文法分析混成独立兼类。",
+        "dictionary_sequences": [
+          1451750
+        ],
+        "identity": {
+          "word": "同じ",
+          "reading_hiragana": "おなじ",
+          "meaning": "相同"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3f874c264b05e269",
+      "index": 1845,
+      "word": "違う",
+      "reading_hiragana": "ちがう",
+      "context_meaning_zh": "不同",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不同",
+          "meaning_ja": "二つ以上のものに同じでない点がある。",
+          "example_ja": "写真で見た色と、店で見た色は少し違いました。",
+          "example_zh": "照片里看到的颜色和店里看到的略有不同。"
+        },
+        {
+          "meaning_zh": "正しくない",
+          "meaning_ja": "期待や正解と一致していない。",
+          "example_ja": "すみません、注文したサイズと違います。",
+          "example_zh": "不好意思，这和我订的尺码不一样。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "色が違う",
+          "zh": "颜色不同"
+        }
+      ],
+      "usage_note_zh": "「AとBが違う」表示两者不同；「違います」也可单独用于纠正“不对”。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "違う表示两家店的条件有差异，是五段自动词；即使中文可译“不同”，也不据此判为形容词。",
+        "dictionary_sequences": [
+          1158880
+        ],
+        "identity": {
+          "word": "違う",
+          "reading_hiragana": "ちがう",
+          "meaning": "不同"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-59aec51c71d501e1",
+      "index": 1846,
+      "word": "値段",
+      "reading_hiragana": "ねだん",
+      "context_meaning_zh": "价格",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "价格",
+          "meaning_ja": "品物を売ったり買ったりするときに必要な金額。",
+          "example_ja": "品質だけでなく、値段も確認してから買います。",
+          "example_zh": "我会确认价格和质量后再买。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "値段を比べる",
+          "zh": "比较价格"
+        }
+      ],
+      "usage_note_zh": "商品的价格；常说「値段が高い／安い」「値段を決める」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "比较方案时核对品质与价格，符合词典price/cost名词义。",
+        "dictionary_sequences": [
+          1600160
+        ],
+        "identity": {
+          "word": "値段",
+          "reading_hiragana": "ねだん",
+          "meaning": "价格"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cbcedca7b53a249f",
+      "index": 1847,
+      "word": "料金",
+      "reading_hiragana": "りょうきん",
+      "context_meaning_zh": "收费",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收费",
+          "meaning_ja": "サービスや施設などを利用するときに払うお金。",
+          "example_ja": "駅から店までのバス料金を先に調べました。",
+          "example_zh": "我先查了从车站到店里的公交费用。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "バスの料金",
+          "zh": "公交车费"
+        }
+      ],
+      "usage_note_zh": "指服务、交通等所需费用；商品本身标价通常用「値段」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "单程与往返票价为交通运费，符合fare义；料金为普通费用名词。",
+        "dictionary_sequences": [
+          1554280
+        ],
+        "identity": {
+          "word": "料金",
+          "reading_hiragana": "りょうきん",
+          "meaning": "收费"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-49889cb270051974",
+      "index": 1848,
+      "word": "予算",
+      "reading_hiragana": "よさん",
+      "context_meaning_zh": "预算",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "预算",
+          "meaning_ja": "ある目的のために使えるよう、前もって考えた金額。",
+          "example_ja": "今月の服の予算は一万円です。",
+          "example_zh": "这个月买衣服的预算是一万日元。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予算を立てる",
+          "zh": "制定预算"
+        }
+      ],
+      "usage_note_zh": "预先可用于某目的的金额；常用「予算内」「予算を決める」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "预算为金额计划名词；词典兼标vs，但本例只作金额说明，未展示する构式或自他，保留待核。",
+        "dictionary_sequences": [
+          1543000
+        ],
+        "identity": {
+          "word": "予算",
+          "reading_hiragana": "よさん",
+          "meaning": "预算"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-383dc704e3fae5f9",
+      "index": 1849,
+      "word": "決める",
+      "reading_hiragana": "きめる",
+      "context_meaning_zh": "决定",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "决定",
+          "meaning_ja": "考えたうえで、物事の内容や選択を定める。",
+          "example_ja": "二つの店を見てから、買う場所を決めます。",
+          "example_zh": "看过两家店之后，再决定在哪里买。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "行き先を決める",
+          "zh": "决定目的地"
+        }
+      ],
+      "usage_note_zh": "他动词，决定对象用「を」；决定事项用「にする」表达选择结果。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "按价格决定选择，安さばかりで表示不能只依据低价作决定，动词直接支配选择标准。",
+        "dictionary_sequences": [
+          1254180
+        ],
+        "identity": {
+          "word": "決める",
+          "reading_hiragana": "きめる",
+          "meaning": "决定"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9d7944e28a7c6db3",
+      "index": 1850,
+      "word": "交通費",
+      "reading_hiragana": "こうつうひ",
+      "context_meaning_zh": "交通费用",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "交通费用",
+          "meaning_ja": "電車、バス、車などで移動するために必要なお金。",
+          "example_ja": "電車で行くなら、交通費も予算に入れてください。",
+          "example_zh": "如果坐电车去，请把交通费也算进预算。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "交通費がかかる",
+          "zh": "需要交通费"
+        }
+      ],
+      "usage_note_zh": "往返交通所需费用；通常与「かかる」「予算に入れる」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "交通费计入预算，词典traveling expenses义明确；「も」表示预算包含该费用。",
+        "dictionary_sequences": [
+          1272410
+        ],
+        "identity": {
+          "word": "交通費",
+          "reading_hiragana": "こうつうひ",
+          "meaning": "交通费用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-24d3f6ae408c512a",
+      "index": 1851,
+      "word": "送料",
+      "reading_hiragana": "そうりょう",
+      "context_meaning_zh": "邮费、运费",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "邮费、运费",
+          "meaning_ja": "品物を送ってもらうために払うお金。",
+          "example_ja": "この店は三千円以上買うと、送料がかかりません。",
+          "example_zh": "在这家店买满三千日元就不收运费。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "送料を払う",
+          "zh": "支付运费"
+        }
+      ],
+      "usage_note_zh": "邮寄商品产生的费用；「送料込み」表示已包含在标价内。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "网购免邮费中的送料指寄送商品的费用，词典支持邮资／运费名词义。",
+        "dictionary_sequences": [
+          1402870
+        ],
+        "identity": {
+          "word": "送料",
+          "reading_hiragana": "そうりょう",
+          "meaning": "邮费、运费"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-112770db136c61ee",
+      "index": 1852,
+      "word": "手数料",
+      "reading_hiragana": "てすうりょう",
+      "context_meaning_zh": "手续费",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "手续费",
+          "meaning_ja": "手続きやサービスをしてもらうために払うお金。",
+          "example_ja": "カードで払うと、手数料が百円かかります。",
+          "example_zh": "用卡支付要收一百日元手续费。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "手数料がかかる",
+          "zh": "收取手续费"
+        }
+      ],
+      "usage_note_zh": "办理支付、手续等产生的费用；与商品的「値段」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指办理事务产生的手续费，现金支付金额例句说明其费用义。",
+        "dictionary_sequences": [
+          1327980
+        ],
+        "identity": {
+          "word": "手数料",
+          "reading_hiragana": "てすうりょう",
+          "meaning": "手续费"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ac7f1ecf7bf27145",
+      "index": 1853,
+      "word": "合計",
+      "reading_hiragana": "ごうけい",
+      "context_meaning_zh": "合计",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "合计",
+          "meaning_ja": "いくつかの数や金額を合わせた結果。",
+          "example_ja": "靴と靴下を合わせた合計は五千円でした。",
+          "example_zh": "鞋和袜子加起来共五千日元。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "合計を出す",
+          "zh": "算出总额"
+        }
+      ],
+      "usage_note_zh": "把多个数量或金额加在一起后的总数；常用「合計で〜円」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "预算合计三千日元中合計是总额名词；词典另列合計する的サ变他动用法，保留词项兼类。",
+        "dictionary_sequences": [
+          1284740
+        ],
+        "identity": {
+          "word": "合計",
+          "reading_hiragana": "ごうけい",
+          "meaning": "合计"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-883c45b4f636b15c",
+      "index": 1854,
+      "word": "無料",
+      "reading_hiragana": "むりょう",
+      "context_meaning_zh": "免费",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "免费",
+          "meaning_ja": "利用してもお金を払う必要がないこと。",
+          "example_ja": "この店では、試着は何着でも無料です。",
+          "example_zh": "在这家店，试穿多少件都免费。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "無料で試す",
+          "zh": "免费试用"
+        }
+      ],
+      "usage_note_zh": "不收取费用；常见于服务、入场或配送等场景。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "指不收取费用，句中限定运费为免费；词典支持名词及名词修饰用法。",
+        "dictionary_sequences": [
+          1531040
+        ],
+        "identity": {
+          "word": "無料",
+          "reading_hiragana": "むりょう",
+          "meaning": "免费"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2bdc5064f02ad80b",
+      "index": 1855,
+      "word": "有料",
+      "reading_hiragana": "ゆうりょう",
+      "context_meaning_zh": "收费",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收费",
+          "meaning_ja": "利用するためにお金を払う必要があること。",
+          "example_ja": "この駐車場は一時間から有料になります。",
+          "example_zh": "这个停车场从一小时起收费。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "有料のサービス",
+          "zh": "收费服务"
+        }
+      ],
+      "usage_note_zh": "表示需要付费；与「無料」相对，修饰名词时用「有料の」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本词典条目以名词表示该性质；「の」或复合词形式用于修饰后续名词，不应误标为形容词或独立连体词。",
+        "dictionary_sequences": [
+          1541690
+        ],
+        "identity": {
+          "word": "有料",
+          "reading_hiragana": "ゆうりょう",
+          "meaning": "收费"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f3c41ecde57e1db9",
+      "index": 1856,
+      "word": "割引",
+      "reading_hiragana": "わりびき",
+      "context_meaning_zh": "折扣",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "折扣",
+          "meaning_ja": "元の値段から一定の金額や割合を安くすること。",
+          "example_ja": "会員カードを見せると、値段が一割引になります。",
+          "example_zh": "出示会员卡，价格可打九折。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "割引になる",
+          "zh": "打折"
+        }
+      ],
+      "usage_note_zh": "从原价中减去一部分；折扣比例可说「一割引」「二割引」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "割引作为折扣名词出现在「割引がありません」中；符合词典discount义，不采用计数器义。",
+        "dictionary_sequences": [
+          1606950
+        ],
+        "identity": {
+          "word": "割引",
+          "reading_hiragana": "わりびき",
+          "meaning": "折扣"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fb8bec9f6c3833e5",
+      "index": 1857,
+      "word": "現金",
+      "reading_hiragana": "げんきん",
+      "context_meaning_zh": "现金",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "现金",
+          "meaning_ja": "紙幣や硬貨など、すぐに支払いに使えるお金。",
+          "example_ja": "小さい店なので、現金で払いました。",
+          "example_zh": "因为是小店，我用现金付了款。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "現金で払う",
+          "zh": "用现金支付"
+        }
+      ],
+      "usage_note_zh": "支付方式用助词「で」表示；与信用卡等非现金方式相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "与卡片并列作付款方式，现义为现金名词；例句无词源或口语语体限制。",
+        "dictionary_sequences": [
+          1263550
+        ],
+        "identity": {
+          "word": "現金",
+          "reading_hiragana": "げんきん",
+          "meaning": "现金"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5425a76003814458",
+      "index": 1858,
+      "word": "カード",
+      "reading_hiragana": "カード",
+      "context_meaning_zh": "支付卡",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "支付卡",
+          "meaning_ja": "情報や機能を記録した薄い札状のもの。本課では支払いに使うもの。",
+          "example_ja": "カードで払う場合は、暗証番号を入力します。",
+          "example_zh": "用卡支付时，要输入密码。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "カードで支払う",
+          "zh": "用卡付款"
+        }
+      ],
+      "usage_note_zh": "这里指支付卡；具体是信用卡还是借记卡要看上下文。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "现金的对照项明确指支付卡；本例无法区分信用卡与借记卡。",
+        "dictionary_sequences": [
+          1036400
+        ],
+        "identity": {
+          "word": "カード",
+          "reading_hiragana": "カード",
+          "meaning": "支付卡"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-93e78de947e5b973",
+      "index": 1859,
+      "word": "片道",
+      "reading_hiragana": "かたみち",
+      "context_meaning_zh": "单程",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "单程",
+          "meaning_ja": "行きか帰りのどちらか一方の道のり。",
+          "example_ja": "家から駅まで、歩いて片道十五分です。",
+          "example_zh": "从家到车站，步行单程十五分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "片道切符",
+          "zh": "单程票"
+        }
+      ],
+      "usage_note_zh": "只计算去程的一段；与包含去回两程的「往復」相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "步行单程十分钟，表示往返中的一程；词典列one-way trip义。",
+        "dictionary_sequences": [
+          1511760
+        ],
+        "identity": {
+          "word": "片道",
+          "reading_hiragana": "かたみち",
+          "meaning": "单程"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b5bc31b260df5d77",
+      "index": 1860,
+      "word": "往復",
+      "reading_hiragana": "おうふく",
+      "context_meaning_zh": "往返",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "往返",
+          "meaning_ja": "ある場所へ行き、そこから戻ってくること。",
+          "example_ja": "駅まで往復すると、歩く時間は三十分です。",
+          "example_zh": "往返车站的话，步行时间共三十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "往復切符",
+          "zh": "往返票"
+        }
+      ],
+      "usage_note_zh": "表示去程和回程；路程、车票或所需时间都可用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "单程十分钟、往返二十分钟中往復作名词；词典亦支持「往復する」自サ用法，故保留动词兼类与自动性。",
+        "dictionary_sequences": [
+          1179760
+        ],
+        "identity": {
+          "word": "往復",
+          "reading_hiragana": "おうふく",
+          "meaning": "往返"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2c605cc22b7eb846",
+      "index": 1861,
+      "word": "所要時間",
+      "reading_hiragana": "しょようじかん",
+      "context_meaning_zh": "所需时间",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "所需时间",
+          "meaning_ja": "目的地に着くまで、または作業を終えるまでに必要な時間。",
+          "example_ja": "この道なら、駅までの所要時間は十分です。",
+          "example_zh": "走这条路到车站所需时间是十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "所要時間を調べる",
+          "zh": "查询所需时间"
+        }
+      ],
+      "usage_note_zh": "完成某段行程或活动需要的时间；常接「は」「を」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "公交单程二十分钟，所要时间指完成该行程所需时长而非出发时刻。",
+        "dictionary_sequences": [
+          1798500
+        ],
+        "identity": {
+          "word": "所要時間",
+          "reading_hiragana": "しょようじかん",
+          "meaning": "所需时间"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4f4bbfa713f70717",
+      "index": 1862,
+      "word": "乗り換え",
+      "reading_hiragana": "のりかえ",
+      "context_meaning_zh": "换乘",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "换乘",
+          "meaning_ja": "乗っていた電車やバスを降り、別のものに乗ること。",
+          "example_ja": "次の駅で地下鉄に乗り換えてください。",
+          "example_zh": "请在下一站换乘地铁。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "乗り換えが必要",
+          "zh": "需要换乘"
+        }
+      ],
+      "usage_note_zh": "指换乘交通工具；常用「電車を乗り換える」「〜で乗り換える」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "乗り換えなし指无需转乘交通工具；词典亦列立场转换等引申义，本例明确为换乘。",
+        "dictionary_sequences": [
+          1600460
+        ],
+        "identity": {
+          "word": "乗り換え",
+          "reading_hiragana": "のりかえ",
+          "meaning": "换乘"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d97fbbc8c1c462bc",
+      "index": 1863,
+      "word": "条件",
+      "reading_hiragana": "じょうけん",
+      "context_meaning_zh": "条件",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "条件",
+          "meaning_ja": "物事を決めたり成立させたりするために必要な事柄。",
+          "example_ja": "送料が無料という条件で、この店に決めました。",
+          "example_zh": "因为运费免费的条件，我决定选这家店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "条件を比べる",
+          "zh": "比较条件"
+        }
+      ],
+      "usage_note_zh": "决定选择或成立与否的要求；常说「条件に合う」「条件を確認する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "比较商店对同件商品的条件，指交易或服务条件；词典condition、term、requirement义适用。",
+        "dictionary_sequences": [
+          1356510
+        ],
+        "identity": {
+          "word": "条件",
+          "reading_hiragana": "じょうけん",
+          "meaning": "条件"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-66bfeb8f0bee6d15",
+      "index": 1864,
+      "word": "ハンカチ",
+      "reading_hiragana": "ハンカチ",
+      "context_meaning_zh": "手帕",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "手帕",
+          "meaning_ja": "手や汗などを拭くために持ち歩く小さな布。",
+          "example_ja": "食事の前に、ハンカチで手を拭きました。",
+          "example_zh": "吃饭前，我用手帕擦了手。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ハンカチを持つ",
+          "zh": "带手帕"
+        }
+      ],
+      "usage_note_zh": "可用于擦手或擦汗的小布；「で」标明擦拭所用的物品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句是随身携带的手帕，符合词典缩略名词义；没有特定语域或体裁倾向。",
+        "dictionary_sequences": [
+          1096420
+        ],
+        "identity": {
+          "word": "ハンカチ",
+          "reading_hiragana": "ハンカチ",
+          "meaning": "手帕"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-53183803d3f9db1c",
+      "index": 1865,
+      "word": "ピンク",
+      "reading_hiragana": "ピンク",
+      "context_meaning_zh": "粉红色",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "粉红色",
+          "meaning_ja": "白に赤を混ぜたような色。",
+          "example_ja": "妹はピンクのセーターを選びました。",
+          "example_zh": "妹妹选了粉色毛衣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ピンクの服",
+          "zh": "粉色衣服"
+        }
+      ],
+      "usage_note_zh": "颜色名词，修饰名词时用「ピンクの〜」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本条颜色义作名词并可作连体修饰语；例句ピンクの手帕不涉及情色义。",
+        "dictionary_sequences": [
+          1107140
+        ],
+        "identity": {
+          "word": "ピンク",
+          "reading_hiragana": "ピンク",
+          "meaning": "粉红色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-917812c563a63ce3",
+      "index": 1866,
+      "word": "服",
+      "reading_hiragana": "ふく",
+      "context_meaning_zh": "衣服",
+      "pos_ja": "名詞・接尾辞",
+      "pos_zh": "名词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "衣服",
+          "meaning_ja": "体に着たり身につけたりするものの総称。",
+          "example_ja": "雨にぬれた服を、部屋で乾かしています。",
+          "example_zh": "我在屋里晾被雨淋湿的衣服。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "服を着る",
+          "zh": "穿衣服"
+        }
+      ],
+      "usage_note_zh": "泛指衣物；穿上衣服用「着る」，穿裤子、鞋用「履く／穿く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "泛指衣物；既能独立作名词，也能构成合成词如洋服，当前句为购买衣物。",
+        "dictionary_sequences": [
+          1500940
+        ],
+        "identity": {
+          "word": "服",
+          "reading_hiragana": "ふく",
+          "meaning": "衣服"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1d5d541a34453416",
+      "index": 1867,
+      "word": "デパート",
+      "reading_hiragana": "デパート",
+      "context_meaning_zh": "百货商店",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "百货商店",
+          "meaning_ja": "衣服や食品など多くの商品を売る大きな店。",
+          "example_ja": "デパートの三階で、冬のコートを探しました。",
+          "example_zh": "我在百货商店三楼找冬季大衣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "デパートで買う",
+          "zh": "在百货商店买"
+        }
+      ],
+      "usage_note_zh": "大型零售商店；购物地点用「で」，所在楼层用「に／の〜階」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "车站周边存在的百货商店，地点语境与词典缩略名词义吻合。",
+        "dictionary_sequences": [
+          1083590
+        ],
+        "identity": {
+          "word": "デパート",
+          "reading_hiragana": "デパート",
+          "meaning": "百货商店"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ab561bf6fe697428",
+      "index": 1868,
+      "word": "違います",
+      "reading_hiragana": "ちがいます",
+      "context_meaning_zh": "不同、不对",
+      "pos_ja": "動詞・丁寧形・活用形",
+      "pos_zh": "动词・礼貌形式・活用形式",
+      "register_zh": "中性・礼貌语",
+      "senses": [
+        {
+          "meaning_zh": "不同、不对",
+          "meaning_ja": "同じでない、または正しくないことを丁寧に伝える言い方。",
+          "example_ja": "すみません、注文した色と違います。",
+          "example_zh": "不好意思，这和我订的颜色不一样。"
+        },
+        {
+          "meaning_zh": "不对；不是这样",
+          "meaning_ja": "考えや事実が正しくないことを丁寧に伝える。",
+          "example_ja": "この値札は二千円ですが、レシートは三千円です。金額が違います。",
+          "example_zh": "这个价签是两千日元，但收据是三千日元。金额不对。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "話が違います",
+          "zh": "说法不一样"
+        }
+      ],
+      "usage_note_zh": "「違う」的礼貌形式；可表示差异，也可在对话中委婉指出“不对”。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [
+          "polite_form",
+          "inflected_form"
+        ],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "polite"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "違います是五段自动词違う的ます礼貌形，表示不同或指出不对；保留教材所给活用词形，不把它误判为一段动词。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "違います",
+          "reading_hiragana": "ちがいます",
+          "meaning": "不同、不对"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-20ba5cb5e22c574b",
+      "index": 1869,
+      "word": "逆",
+      "reading_hiragana": "ぎゃく",
+      "context_meaning_zh": "相反；反过来",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相反；反过来",
+          "meaning_ja": "向きや順番が通常または前のものと反対であること。",
+          "example_ja": "地図を反対に持っていたので、店とは逆の方向へ歩きました。",
+          "example_zh": "我把地图拿反了，所以朝着与商店相反的方向走了。"
+        },
+        {
+          "meaning_zh": "反対側",
+          "meaning_ja": "向かい合う位置、または反対の側。",
+          "example_ja": "店の入り口は駐車場の逆側にあります。",
+          "example_zh": "店门在停车场的另一侧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "逆の方向",
+          "zh": "相反的方向"
+        }
+      ],
+      "usage_note_zh": "表示方向或顺序相反；名词前用「逆の」，常与「方向」连用。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "逆表示反向或相反，可作名词及な/no修饰语；本例是礼貌句中以「逆の方向」指反方向。",
+        "dictionary_sequences": [
+          1226960
+        ],
+        "identity": {
+          "word": "逆",
+          "reading_hiragana": "ぎゃく",
+          "meaning": "相反；反过来"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d76b644036a835d4",
+      "index": 1870,
+      "word": "万",
+      "reading_hiragana": "まん",
+      "context_meaning_zh": "万",
+      "pos_ja": "名詞・接尾辞・数詞",
+      "pos_zh": "名词・接尾词・数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "万",
+          "meaning_ja": "数の単位で、千が十集まった数。",
+          "example_ja": "このコートは二万円で、予算を少し超えます。",
+          "example_zh": "这件大衣两万日元，稍微超出预算。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一万円札",
+          "zh": "一万日元纸币"
+        }
+      ],
+      "usage_note_zh": "数词「万」表示一万；日语金额通常用「一万円」表达。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "noun",
+          "suffix",
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "数词万表示一万，例中金额「一万円」体现数值单位用法；学习资料同时称其可作名词和后缀。",
+        "dictionary_sequences": [
+          1584460
+        ],
+        "identity": {
+          "word": "万",
+          "reading_hiragana": "まん",
+          "meaning": "万"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5e08b724c67c1062",
+      "index": 1871,
+      "word": "なかなか",
+      "reading_hiragana": "なかなか",
+      "context_meaning_zh": "很、相当",
+      "pos_ja": "ナ形容詞・副詞",
+      "pos_zh": "な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "很、相当",
+          "meaning_ja": "程度が思ったより高いことを表す。否定形では実現しにくさも表す。",
+          "example_ja": "この店のセーターは、値段のわりに質がなかなかいいです。",
+          "example_zh": "这家店的毛衣价格不高，质量却相当好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "なかなかよい",
+          "zh": "相当不错"
+        }
+      ],
+      "usage_note_zh": "肯定句中表示程度超过预期；否定句「なかなか〜ない」常表示难以实现。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "肯定句「なかなかいい」取程度副词义；词典亦记形容动词相关用法，但本条例句作副词。",
+        "dictionary_sequences": [
+          1599420
+        ],
+        "identity": {
+          "word": "なかなか",
+          "reading_hiragana": "なかなか",
+          "meaning": "很、相当"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-285c67a9f72f0eaf",
+      "index": 1872,
+      "word": "品物",
+      "reading_hiragana": "しなもの",
+      "context_meaning_zh": "东西、物品;商品",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "东西、物品;商品",
+          "meaning_ja": "形のある物。売買する対象となる商品も指す。",
+          "example_ja": "届いた品物を確認してから、代金を払います。",
+          "example_zh": "确认收到的商品后再付款。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "品物を選ぶ",
+          "zh": "挑选商品"
+        }
+      ],
+      "usage_note_zh": "可指物品或出售的商品；购物场景中常指具体商品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课程说明比较两家店同类商品的条件，词典 item/goods 名词义适用。",
+        "dictionary_sequences": [
+          1490670
+        ],
+        "identity": {
+          "word": "品物",
+          "reading_hiragana": "しなもの",
+          "meaning": "东西、物品;商品"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8f38d7cb7d29d46f",
+      "index": 1873,
+      "word": "元",
+      "reading_hiragana": "げん",
+      "context_meaning_zh": "元(中国货币单位)",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "元(中国货币单位)",
+          "meaning_ja": "中国の通貨単位。",
+          "example_ja": "この小物は二十元でした。",
+          "example_zh": "这个小物件是二十元。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "元で払う",
+          "zh": "用元支付"
+        }
+      ],
+      "usage_note_zh": "中国货币单位，读「げん」；这里不是表示“原来、起源”的「もと」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "二十元用于笔记本价格，明确指中国货币单位，不取数学元或历史朝代义。",
+        "dictionary_sequences": [
+          2141870
+        ],
+        "identity": {
+          "word": "元",
+          "reading_hiragana": "げん",
+          "meaning": "元(中国货币单位)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2c89fb788214d658",
+      "index": 1874,
+      "word": "角",
+      "reading_hiragana": "かく",
+      "context_meaning_zh": "角(中国货币单位)",
+      "pos_ja": "名詞・助数詞",
+      "pos_zh": "名词・量词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "角(中国货币单位)",
+          "meaning_ja": "中国の通貨の単位で、一元の十分の一。",
+          "example_ja": "この値札には、二元五角と書いてあります。",
+          "example_zh": "这个价签上写着两元五角。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "五角硬貨",
+          "zh": "五角硬币"
+        }
+      ],
+      "usage_note_zh": "中国货币的旧有单位，一元等于十角；现代日常标价也常直接用元和分。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "noun",
+          "counter"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句「一元は十角」直接以数字计量人民币单位角；词典也列名词后缀，故标单位名词兼助数词。",
+        "dictionary_sequences": [
+          1206100
+        ],
+        "identity": {
+          "word": "角",
+          "reading_hiragana": "かく",
+          "meaning": "角(中国货币单位)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5870df8a0ae15c93",
+      "index": 1875,
+      "word": "一番",
+      "reading_hiragana": "いちばん",
+      "context_meaning_zh": "最",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "最",
+          "meaning_ja": "順序が最初のもの。また、程度が最も高いこと。",
+          "example_ja": "三つの店の中で、ここが一番近いです。",
+          "example_zh": "三家店里这里最近。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一番安い",
+          "zh": "最便宜"
+        }
+      ],
+      "usage_note_zh": "表示排序中的第一，也可作程度副词“最”；比较范围常用「〜の中で」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "北町店が一番安い中一番表示程度最高；词典另列第一、比赛等义，本句为副词性最高级。",
+        "dictionary_sequences": [
+          1165970
+        ],
+        "identity": {
+          "word": "一番",
+          "reading_hiragana": "いちばん",
+          "meaning": "最"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-878e2324c3c51c84",
+      "index": 1876,
+      "word": "豊富",
+      "reading_hiragana": "ほうふ",
+      "context_meaning_zh": "丰富的；丰富",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "丰富的；丰富",
+          "meaning_ja": "数や種類が多く、十分にあること。",
+          "example_ja": "このデパートは、サイズの種類が豊富です。",
+          "example_zh": "这家百货商店的尺码种类很丰富。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "種類が豊富",
+          "zh": "种类丰富"
+        }
+      ],
+      "usage_note_zh": "ナ形容词；名词前用「豊富な」，常与资源、品种、经验等搭配。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "种类丰富作ナ形容词谓语，教材说明可用豊富な修饰名词；词典兼列名词。",
+        "dictionary_sequences": [
+          1518180
+        ],
+        "identity": {
+          "word": "豊富",
+          "reading_hiragana": "ほうふ",
+          "meaning": "丰富的；丰富"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cbe0e51ff76f22fd",
+      "index": 1877,
+      "word": "セーター",
+      "reading_hiragana": "セーター",
+      "context_meaning_zh": "毛衣",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "毛衣",
+          "meaning_ja": "毛糸などで編んだ、上半身に着る衣服。",
+          "example_ja": "寒い日は、厚手のセーターを着ます。",
+          "example_zh": "天冷时我穿厚毛衣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "セーターを着る",
+          "zh": "穿毛衣"
+        }
+      ],
+      "usage_note_zh": "毛线编织的上衣；穿上衣用「着る」，不说「履く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指针织上衣的普通名词，例句以セーターを着る说明衣物穿着；有效读音保留教材原形式。",
+        "dictionary_sequences": [
+          1074270
+        ],
+        "identity": {
+          "word": "セーター",
+          "reading_hiragana": "セーター",
+          "meaning": "毛衣"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-801d7fea646b446f",
+      "index": 1878,
+      "word": "ネクタイ",
+      "reading_hiragana": "ネクタイ",
+      "context_meaning_zh": "领带",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "领带",
+          "meaning_ja": "首に巻いて、シャツの襟元で結ぶ細長い布。",
+          "example_ja": "父は紺色のネクタイを仕事で使っています。",
+          "example_zh": "父亲工作时系深蓝色领带。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ネクタイを締める",
+          "zh": "系领带"
+        }
+      ],
+      "usage_note_zh": "系领带常说「ネクタイを締める」；穿戴上衣类则用「着る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该词指领带，句中说明它与衬衫搭配；词典tie/necktie义适用，保留输入中的词形读音身份。",
+        "dictionary_sequences": [
+          1092820
+        ],
+        "identity": {
+          "word": "ネクタイ",
+          "reading_hiragana": "ネクタイ",
+          "meaning": "领带"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-64714801319dd57a",
+      "index": 1879,
+      "word": "ズボン",
+      "reading_hiragana": "ズボン",
+      "context_meaning_zh": "裤子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "裤子",
+          "meaning_ja": "両足を別々に通してはく下半身の衣服。",
+          "example_ja": "このズボンは長いので、裾を直します。",
+          "example_zh": "这条裤子太长了，我要改一下裤脚。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ズボンを履く",
+          "zh": "穿裤子"
+        }
+      ],
+      "usage_note_zh": "裤子；日常更常见的写法是「ズボンをはく」，汉字可写「穿く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「ズボンを穿く」中的衣物名词，辞书 trousers/pants 义吻合；句中「ます」只表示句子礼貌，不给名词加敬语属性。",
+        "dictionary_sequences": [
+          1074260
+        ],
+        "identity": {
+          "word": "ズボン",
+          "reading_hiragana": "ズボン",
+          "meaning": "裤子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4fed66abed809a0c",
+      "index": 1880,
+      "word": "穿く",
+      "reading_hiragana": "はく",
+      "context_meaning_zh": "穿下装；穿鞋（表记依对象区分）",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "穿下装；穿鞋（表记依对象区分）",
+          "meaning_ja": "ズボンやスカートなどを下半身に身につける。",
+          "example_ja": "店でズボンを穿いて、丈を確かめました。",
+          "example_zh": "我在店里穿上裤子确认裤长。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "靴を穿く",
+          "zh": "穿鞋"
+        }
+      ],
+      "usage_note_zh": "此处「穿く」按本课用于下装、鞋袜；不同对象常写「履く」，读音同为「はく」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「ズボンを穿く」指穿下身衣物，鞋通常写作「履く」；本词条取「穿く」表记，词典标五段カ行他动词。",
+        "dictionary_sequences": [
+          1607260
+        ],
+        "identity": {
+          "word": "穿く",
+          "reading_hiragana": "はく",
+          "meaning": "穿下装；穿鞋（表记依对象区分）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-17db79943fcae2fc",
+      "index": 1881,
+      "word": "帽子",
+      "reading_hiragana": "ぼうし",
+      "context_meaning_zh": "帽子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "帽子",
+          "meaning_ja": "頭にかぶる衣類。",
+          "example_ja": "風が強いので、帽子をかぶって出かけます。",
+          "example_zh": "风很大，我戴上帽子出门。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "帽子をかぶる",
+          "zh": "戴帽子"
+        }
+      ],
+      "usage_note_zh": "帽子用动词「かぶる」，不要套用穿衣服的「着る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与外套搭配合适的是头戴帽子，词典中运动术语“cap”义不适用。",
+        "dictionary_sequences": [
+          1519170
+        ],
+        "identity": {
+          "word": "帽子",
+          "reading_hiragana": "ぼうし",
+          "meaning": "帽子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-80b8606ec1310707",
+      "index": 1882,
+      "word": "方",
+      "reading_hiragana": "ほう",
+      "context_meaning_zh": "方面、一方（ほう）",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "方面、一方（ほう）",
+          "meaning_ja": "方向。また、比べたときの一方を指す語。",
+          "example_ja": "黒い靴と茶色い靴では、黒い方が安いです。",
+          "example_zh": "黑鞋和棕鞋相比，黑色那双更便宜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "こちらの方",
+          "zh": "这一边／这一方"
+        }
+      ],
+      "usage_note_zh": "读「ほう」时可指方向或用于比较；比较句常用「AよりBの方が〜」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "大きい方意为较大的一边/那个，名词性比较选择；词头读ほう，非敬称かた。",
+        "dictionary_sequences": [
+          1516930
+        ],
+        "identity": {
+          "word": "方",
+          "reading_hiragana": "ほう",
+          "meaning": "方面、一方（ほう）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9ca3ea6e851bbd83",
+      "index": 1883,
+      "word": "外·他",
+      "reading_hiragana": "ほか",
+      "context_meaning_zh": "别处；其他",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "别处；其他",
+          "meaning_ja": "ある範囲の外側。また、そのほかのものや場所。",
+          "example_ja": "送料のほかに、手数料も必要です。",
+          "example_zh": "除了运费，还需要手续费。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "そのほかの品物",
+          "zh": "其他商品"
+        }
+      ],
+      "usage_note_zh": "词条代表「ほか」；可指别处或“其他”，「〜のほかに」表示除此之外。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「値段のほかに」以名词接续表示除价格以外的其他项目；本条提供的词典序列为空。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "外·他",
+          "reading_hiragana": "ほか",
+          "meaning": "别处；其他"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d2e5d7f190286c10",
+      "index": 1884,
+      "word": "不利",
+      "reading_hiragana": "ふり",
+      "context_meaning_zh": "不利",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不利",
+          "meaning_ja": "条件や状況がよくなく、目的を達成しにくいこと。",
+          "example_ja": "駅から遠い店は、時間の面で不利です。",
+          "example_zh": "离车站远的店在时间方面不利。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "不利な条件",
+          "zh": "不利的条件"
+        }
+      ],
+      "usage_note_zh": "ナ形容词；名词前用「不利な」，常与「有利」成对比较。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "从预算角度判断两人同行不划算，词典支持名词和ナ形容词；与有利相对的普通评价语。",
+        "dictionary_sequences": [
+          1495220
+        ],
+        "identity": {
+          "word": "不利",
+          "reading_hiragana": "ふり",
+          "meaning": "不利"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0433d96971527637",
+      "index": 1885,
+      "word": "迷う",
+      "reading_hiragana": "まよう",
+      "context_meaning_zh": "犹豫、不知如何选择",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "犹豫、不知如何选择",
+          "meaning_ja": "選択や判断をすぐに決められない。また、道がわからなくなる。",
+          "example_ja": "二つの色が気に入って、どちらにするか迷っています。",
+          "example_zh": "两种颜色我都喜欢，正在犹豫选哪种。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どちらにするか迷う",
+          "zh": "犹豫选哪一个"
+        }
+      ],
+      "usage_note_zh": "犹豫时常用「〜にするか迷う」；也可指迷路，需看上下文。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "少し迷う表示不确定、犹豫；辞书将精神犹疑义列为五段自动词。",
+        "dictionary_sequences": [
+          1532710
+        ],
+        "identity": {
+          "word": "迷う",
+          "reading_hiragana": "まよう",
+          "meaning": "犹豫、不知如何选择"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a09142c732233c68",
+      "index": 1886,
+      "word": "マフラー",
+      "reading_hiragana": "マフラー",
+      "context_meaning_zh": "围巾",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "围巾",
+          "meaning_ja": "首に巻いて使う細長い防寒具。",
+          "example_ja": "外が寒いので、首にマフラーを巻きました。",
+          "example_zh": "外面很冷，我把围巾围在脖子上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "マフラーを巻く",
+          "zh": "围围巾"
+        }
+      ],
+      "usage_note_zh": "日语中指围在脖子上的围巾；动作常用「巻く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课例句和教学说明限定为围在脖子上的围巾义，辞书另收车辆消音器义。",
+        "dictionary_sequences": [
+          1129210
+        ],
+        "identity": {
+          "word": "マフラー",
+          "reading_hiragana": "マフラー",
+          "meaning": "围巾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-172b3669cef27d47",
+      "index": 1887,
+      "word": "...向き",
+      "reading_hiragana": "むき",
+      "context_meaning_zh": "〜向き：适合某人或用途",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "〜向き：适合某人或用途",
+          "meaning_ja": "人や目的に合っていて使いやすいことを表す接尾表現。",
+          "example_ja": "この軽いかばんは、旅行向きです。",
+          "example_zh": "这个轻便的包适合旅行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "初心者向き",
+          "zh": "适合初学者"
+        }
+      ],
+      "usage_note_zh": "接在名词后表示“适合某类人或用途”；与「向け」（面向某对象制作）略有区别。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处是接在名词后的接尾词，表示适合某用途；例句讨论读书会适配性，不表示朝向。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "...向き",
+          "reading_hiragana": "むき",
+          "meaning": "〜向き：适合某人或用途"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e5369982692c5530",
+      "index": 1888,
+      "word": "長持ち",
+      "reading_hiragana": "ながもち",
+      "context_meaning_zh": "耐用、持久",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "耐用、持久",
+          "meaning_ja": "物が長い間使えること。",
+          "example_ja": "手入れをすれば、この靴は長持ちします。",
+          "example_zh": "好好保养的话，这双鞋能穿很久。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "長持ちする",
+          "zh": "耐用"
+        }
+      ],
+      "usage_note_zh": "常以「長持ちする」表示物品耐用；主语是能持续较久的物品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「長持ちする布」表示布料耐用持久，是词典名词兼サ变自动词义；排除古式长箱义。",
+        "dictionary_sequences": [
+          1429980
+        ],
+        "identity": {
+          "word": "長持ち",
+          "reading_hiragana": "ながもち",
+          "meaning": "耐用、持久"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-52f152860f468fa8",
+      "index": 1889,
+      "word": "適当",
+      "reading_hiragana": "てきとう",
+      "context_meaning_zh": "合适、适当",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "合适、适当",
+          "meaning_ja": "状況や目的に合っていること。文脈により、いいかげんの意味にもなる。",
+          "example_ja": "この靴は歩きやすく、旅行に適当です。",
+          "example_zh": "这双鞋走路舒服，适合旅行。"
+        },
+        {
+          "meaning_zh": "いいかげん",
+          "meaning_ja": "十分に考えず、注意を払わない様子。",
+          "example_ja": "サイズを適当に選ぶと、あとで困ります。",
+          "example_zh": "随便选尺码的话，之后会很麻烦。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "用途に適当なサイズ",
+          "zh": "适合用途的尺寸"
+        }
+      ],
+      "usage_note_zh": "本课取“合适”义；另有“随便、敷衍”义，褒贬取决于语境。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "声音、重量和尺码是否适合用途，取合适、恰当的ナ形容词义；词典另列马虎义，本句不适用。",
+        "dictionary_sequences": [
+          1437450
+        ],
+        "identity": {
+          "word": "適当",
+          "reading_hiragana": "てきとう",
+          "meaning": "合适、适当"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-090983baa3da0d0b",
+      "index": 1890,
+      "word": "それほど",
+      "reading_hiragana": "それほど",
+      "context_meaning_zh": "那么、那样的程度",
+      "pos_ja": "副詞・指示",
+      "pos_zh": "副词・指示",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "那么、那样的程度",
+          "meaning_ja": "前に示された程度を指す語。否定表現と使うことが多い。",
+          "example_ja": "この店はそれほど遠くありません。",
+          "example_zh": "这家店没那么远。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "それほど高くない",
+          "zh": "没那么贵"
+        }
+      ],
+      "usage_note_zh": "常与否定搭配表示“没到那种程度”；肯定句也可表示“那么、如此”。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "demonstrative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指示前文所述程度，否定句表示没有那么重；词典程度副词义吻合。",
+        "dictionary_sequences": [
+          1007060
+        ],
+        "identity": {
+          "word": "それほど",
+          "reading_hiragana": "それほど",
+          "meaning": "那么、那样的程度"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-880205a70d4fcfc4",
+      "index": 1891,
+      "word": "靴",
+      "reading_hiragana": "くつ",
+      "context_meaning_zh": "鞋子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "鞋子",
+          "meaning_ja": "足を覆い、保護するために履くもの。",
+          "example_ja": "雨の日は、防水の靴を履いて出かけます。",
+          "example_zh": "下雨天我穿防水鞋出门。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "靴を履く",
+          "zh": "穿鞋"
+        }
+      ],
+      "usage_note_zh": "鞋类总称；穿鞋用「履く」，脚上穿着可说「靴を履いている」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "いつもの靴指日常穿着的鞋，例句与词典鞋类名词义吻合。",
+        "dictionary_sequences": [
+          1246700
+        ],
+        "identity": {
+          "word": "靴",
+          "reading_hiragana": "くつ",
+          "meaning": "鞋子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fc54b67e4bfca1eb",
+      "index": 1892,
+      "word": "コート",
+      "reading_hiragana": "コート",
+      "context_meaning_zh": "大衣",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大衣",
+          "meaning_ja": "外出時に衣服の上から着る上着。",
+          "example_ja": "試着室で、二つのコートを着比べました。",
+          "example_zh": "我在试衣间试穿比较了两件大衣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "コートを着る",
+          "zh": "穿大衣"
+        }
+      ],
+      "usage_note_zh": "穿在外层的外套；穿用「着る」，试穿可说「コートを試着する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课程义为穿在衣服外的大衣，例句「コートを見たい」指衣物；词典的 coating 和球场义不适用。",
+        "dictionary_sequences": [
+          1049000
+        ],
+        "identity": {
+          "word": "コート",
+          "reading_hiragana": "コート",
+          "meaning": "大衣"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5e4104ec3a2ce472",
+      "index": 1893,
+      "word": "気に入る",
+      "reading_hiragana": "きにいる",
+      "context_meaning_zh": "喜欢、中意",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "喜欢、中意",
+          "meaning_ja": "好みに合い、よいと感じる。",
+          "example_ja": "姉は店で見つけた茶色のバッグが気に入りました。",
+          "example_zh": "姐姐喜欢上了在店里看到的棕色包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "色が気に入る",
+          "zh": "喜欢颜色"
+        }
+      ],
+      "usage_note_zh": "表示喜欢上、觉得合心意；喜欢的对象用「が」，而非通常的「を」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "喜欢的设计以が标记，固定构式表示中意；词典列为五段动词式惯用表达，不把对象格误判为を。",
+        "dictionary_sequences": [
+          1221740
+        ],
+        "identity": {
+          "word": "気に入る",
+          "reading_hiragana": "きにいる",
+          "meaning": "喜欢、中意"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9b758e360f996aef",
+      "index": 1894,
+      "word": "サイズ",
+      "reading_hiragana": "サイズ",
+      "context_meaning_zh": "尺寸",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "尺寸",
+          "meaning_ja": "物の大きさや寸法。衣服では体に合う大きさ。",
+          "example_ja": "このシャツはサイズが合わないので、交換します。",
+          "example_zh": "这件衬衫尺码不合适，我要换货。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "サイズが合う",
+          "zh": "尺码合适"
+        }
+      ],
+      "usage_note_zh": "指尺寸或规格；衣服场景常说「サイズが合う／大きい／小さい」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句中列举声音、重量和衣服的尺寸，义为大小或规格；属普通通用名词。",
+        "dictionary_sequences": [
+          1055780
+        ],
+        "identity": {
+          "word": "サイズ",
+          "reading_hiragana": "サイズ",
+          "meaning": "尺寸"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9fcf414280c2f12c",
+      "index": 1895,
+      "word": "センチ",
+      "reading_hiragana": "センチ",
+      "context_meaning_zh": "厘米",
+      "pos_ja": "名詞・助数詞・助数詞表現",
+      "pos_zh": "名词・量词・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "厘米",
+          "meaning_ja": "長さの単位センチメートルを短く言った語。",
+          "example_ja": "袖の長さを、あと二センチ短くしてください。",
+          "example_zh": "请把袖长再改短两厘米。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "三センチ長い",
+          "zh": "长三厘米"
+        }
+      ],
+      "usage_note_zh": "长度单位「センチメートル」的口语简称；数字后直接接单位。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "counter"
+        ],
+        "subtypes": [
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "三センチ长作为测量单位，支持厘米名词/计数单位义；未取字典另列的centi-或sentimental义。",
+        "dictionary_sequences": [
+          1075060
+        ],
+        "identity": {
+          "word": "センチ",
+          "reading_hiragana": "センチ",
+          "meaning": "厘米"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f59d7fe8f8512047",
+      "index": 1896,
+      "word": "ぴったり",
+      "reading_hiragana": "ぴったり",
+      "context_meaning_zh": "正合适；恰好贴合",
+      "pos_ja": "動詞・ナ形容詞・副詞・オノマトペ",
+      "pos_zh": "动词・な形容词・副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "正合适；恰好贴合",
+          "meaning_ja": "大きさや形がよく合い、隙間や余りがない様子。",
+          "example_ja": "この靴は足にぴったり合います。",
+          "example_zh": "这双鞋正好合脚。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "サイズがぴったり",
+          "zh": "尺码正合适"
+        }
+      ],
+      "usage_note_zh": "表示大小或形状正合适，也可表示时间恰好；常与「合う」连用。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "verb",
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「ぴったり」既可作副词或ナ形容词，也见「ぴったりする」表示贴合/恰合；JMdict列サ变自动词。",
+        "dictionary_sequences": [
+          1010900
+        ],
+        "identity": {
+          "word": "ぴったり",
+          "reading_hiragana": "ぴったり",
+          "meaning": "正合适；恰好贴合"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ba0ab029f5c0eca5",
+      "index": 1897,
+      "word": "デザイン",
+      "reading_hiragana": "デザイン",
+      "context_meaning_zh": "设计、款式",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "设计、款式",
+          "meaning_ja": "物の形、色、模様などを考えて作ること。また、その仕上がり。",
+          "example_ja": "このバッグは、形より色のデザインが気に入りました。",
+          "example_zh": "比起形状，我更喜欢这个包的配色设计。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "デザインがよい",
+          "zh": "设计好看"
+        }
+      ],
+      "usage_note_zh": "指产品的设计、款式；表达喜欢某设计常用「デザインが気に入る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课程义为设计款式，词典列名词及サ变他动词；本例是设计受喜爱的名词用法，允许相同词条的する用法。",
+        "dictionary_sequences": [
+          1082900
+        ],
+        "identity": {
+          "word": "デザイン",
+          "reading_hiragana": "デザイン",
+          "meaning": "设计、款式"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4f649e6c61942555",
+      "index": 1898,
+      "word": "きつい",
+      "reading_hiragana": "きつい",
+      "context_meaning_zh": "(衣服等)紧、瘦小;紧人",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(衣服等)紧、瘦小;紧人",
+          "meaning_ja": "衣服や靴に余裕がなく、体を強く締めつける様子。",
+          "example_ja": "この靴は幅がきつくて、長く歩けません。",
+          "example_zh": "这双鞋宽度太紧，不能走太久。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "靴がきつい",
+          "zh": "鞋子紧"
+        }
+      ],
+      "usage_note_zh": "衣物或鞋穿着紧；也可形容工作、气味等强烈，具体义看搭配。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条采用衣物穿着过紧的形容词义；肩部感到紧绷的例句印证此义，句末礼貌形式不改变词项语体。",
+        "dictionary_sequences": [
+          1003450
+        ],
+        "identity": {
+          "word": "きつい",
+          "reading_hiragana": "きつい",
+          "meaning": "(衣服等)紧、瘦小;紧人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-32d121fadb3e52f4",
+      "index": 1899,
+      "word": "買い得",
+      "reading_hiragana": "かいどく",
+      "context_meaning_zh": "合算",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "合算",
+          "meaning_ja": "値段に対して価値が高く、買うと得だと感じること。",
+          "example_ja": "この値段なら、お買い得だと思います。",
+          "example_zh": "这个价格的话，我觉得很划算。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "買い得な商品",
+          "zh": "划算的商品"
+        }
+      ],
+      "usage_note_zh": "表示价格和价值相比很划算；日常中更固定、更常见的说法是「お買い得」，也常见于「お買い得品」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句明确称价格划算，词典支持便宜合算义；身份译义“合算”需核对其词义数据。",
+        "dictionary_sequences": [
+          1752990
+        ],
+        "identity": {
+          "word": "買い得",
+          "reading_hiragana": "かいどく",
+          "meaning": "合算"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e29d6552eb8f9242",
+      "index": 1900,
+      "word": "似合う",
+      "reading_hiragana": "にあう",
+      "context_meaning_zh": "合适",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "合适",
+          "meaning_ja": "服や色などが人の外見に調和して見える。",
+          "example_ja": "青いネクタイは、白いシャツによく似合います。",
+          "example_zh": "蓝色领带和白衬衫很相配。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "服が似合う",
+          "zh": "衣服很衬人"
+        }
+      ],
+      "usage_note_zh": "某物适合某人常用「人に似合う」；主语是衣物、颜色等。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "ネクタイ与穿着者协调相衬，似合う是五段不及物动词，词典亦列suit/match义。",
+        "dictionary_sequences": [
+          1314680
+        ],
+        "identity": {
+          "word": "似合う",
+          "reading_hiragana": "にあう",
+          "meaning": "合适"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-38bc5971e8439b5e",
+      "index": 1901,
+      "word": "試着",
+      "reading_hiragana": "しちゃく",
+      "context_meaning_zh": "试穿",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "试穿",
+          "meaning_ja": "買う前に衣服を実際に着て、合うか確かめること。",
+          "example_ja": "買う前に、必ず試着してサイズを確かめます。",
+          "example_zh": "购买前一定试穿确认尺码。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "試着室",
+          "zh": "试衣间"
+        }
+      ],
+      "usage_note_zh": "名词；常说「試着する」，在店里试穿衣物，不用于鞋子时也可说「履いてみる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "试着穿衣物可说試着する，裤子是を对象；词典列名词サ变他动。",
+        "dictionary_sequences": [
+          1312500
+        ],
+        "identity": {
+          "word": "試着",
+          "reading_hiragana": "しちゃく",
+          "meaning": "试穿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b7c10bc53df23d91",
+      "index": 1902,
+      "word": "品質",
+      "reading_hiragana": "ひんしつ",
+      "context_meaning_zh": "质量",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "质量",
+          "meaning_ja": "品物や材料がどれだけよいかという性質。",
+          "example_ja": "値段は少し高くても、品質のよい靴を選びたいです。",
+          "example_zh": "即使价格稍贵，我也想选质量好的鞋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "品質がよい",
+          "zh": "质量好"
+        }
+      ],
+      "usage_note_zh": "指商品或材料本身的质量；评价时常说「品質がよい／高い」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "比较不同方案时确认质量和价格，词典品质名词义适用。",
+        "dictionary_sequences": [
+          1490580
+        ],
+        "identity": {
+          "word": "品質",
+          "reading_hiragana": "ひんしつ",
+          "meaning": "质量"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0567bd8a0fb032da",
+      "index": 1903,
+      "word": "種類",
+      "reading_hiragana": "しゅるい",
+      "context_meaning_zh": "种类",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "种类",
+          "meaning_ja": "共通する特徴によって分けた物のまとまり。",
+          "example_ja": "この店には、旅行用のかばんが何種類もあります。",
+          "example_zh": "这家店有好几种旅行包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "種類が多い",
+          "zh": "种类多"
+        }
+      ],
+      "usage_note_zh": "表示类别、种类；可用「何種類」「種類が豊富」说明数量多。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "商品类别丰富，種類为类别名词；本例没有计量数量的计数词语境。",
+        "dictionary_sequences": [
+          1328890
+        ],
+        "identity": {
+          "word": "種類",
+          "reading_hiragana": "しゅるい",
+          "meaning": "种类"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-540cd57d4acf1952",
+      "index": 1904,
+      "word": "又は",
+      "reading_hiragana": "または",
+      "context_meaning_zh": "或者",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "或者",
+          "meaning_ja": "二つ以上の選択肢を並べ、「あるいは」と示す語。",
+          "example_ja": "支払いは現金又はカードでお願いします。",
+          "example_zh": "付款请用现金或卡。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "A又はB",
+          "zh": "A或B"
+        }
+      ],
+      "usage_note_zh": "书面感较强的连接词，连接可选项目；日常会话更常说「または」「か」。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "现金或卡片二选一付款，连接并列选项；词典标为接续词。",
+        "dictionary_sequences": [
+          1524990
+        ],
+        "identity": {
+          "word": "又は",
+          "reading_hiragana": "または",
+          "meaning": "或者"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-26f491a89f3fa529",
+      "index": 1905,
+      "word": "いくらか",
+      "reading_hiragana": "いくらか",
+      "context_meaning_zh": "多少、稍微",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "多少、稍微",
+          "meaning_ja": "量や程度が少しあることを表す語。",
+          "example_ja": "この店のほうが、値段はいくらか安いです。",
+          "example_zh": "这家店的价格稍微便宜一些。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "いくらか安い",
+          "zh": "稍微便宜"
+        }
+      ],
+      "usage_note_zh": "表示少量或不大的程度；与疑问词「いくら」（多少钱）需区分。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「いくらか違います」表示程度稍微；该词亦可作不定数量名词，词典支持adv与n。",
+        "dictionary_sequences": [
+          1219990
+        ],
+        "identity": {
+          "word": "いくらか",
+          "reading_hiragana": "いくらか",
+          "meaning": "多少、稍微"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-91096852e8305b3c",
+      "index": 1906,
+      "word": "距離",
+      "reading_hiragana": "きょり",
+      "context_meaning_zh": "距离",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "距离",
+          "meaning_ja": "二つの場所や物の間の隔たり。",
+          "example_ja": "駅から店までの距離を、地図で調べました。",
+          "example_zh": "我在地图上查了从车站到店的距离。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "距離が近い",
+          "zh": "距离近"
+        }
+      ],
+      "usage_note_zh": "两地点之间的空间长度；起点和终点常用「から」「まで」标明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指公交车站等地点间的空间长度；学习注记用から、まで标出距离起终点。",
+        "dictionary_sequences": [
+          1232920
+        ],
+        "identity": {
+          "word": "距離",
+          "reading_hiragana": "きょり",
+          "meaning": "距离"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-380ded84d084f73c",
+      "index": 1907,
+      "word": "サンダル",
+      "reading_hiragana": "サンダル",
+      "context_meaning_zh": "凉鞋",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "凉鞋",
+          "meaning_ja": "足の一部が外に出る形の、軽い履物。",
+          "example_ja": "夏は、歩きやすいサンダルで買い物に行きます。",
+          "example_zh": "夏天我穿好走路的凉鞋去购物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "サンダルを履く",
+          "zh": "穿凉鞋"
+        }
+      ],
+      "usage_note_zh": "露出脚部或便于通风的鞋；穿鞋用「履く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "教材义为鞋类名词，例句以「サンダルではありません」作名词述语；词典选名词义。",
+        "dictionary_sequences": [
+          1058480
+        ],
+        "identity": {
+          "word": "サンダル",
+          "reading_hiragana": "サンダル",
+          "meaning": "凉鞋"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-afd4f5b358afe198",
+      "index": 1908,
+      "word": "その代わり",
+      "reading_hiragana": "そのかわり",
+      "context_meaning_zh": "代替前者;作为补偿",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "代替前者;作为补偿",
+          "meaning_ja": "前に述べた事柄に対し、代わるものや釣り合う別の面を示す語。",
+          "example_ja": "この店は駅から遠いです。その代わり、値段が安いです。",
+          "example_zh": "这家店离车站远，不过价格便宜。"
+        },
+        {
+          "meaning_zh": "代替するもの",
+          "meaning_ja": "前のものを使わず、同じ役目を果たす別のものを示す。",
+          "example_ja": "黒いコートがなかったので、その代わりに紺色を買いました。",
+          "example_zh": "没有黑色大衣，所以我买了藏青色的代替。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "その代わりに",
+          "zh": "作为补偿／相应地"
+        }
+      ],
+      "usage_note_zh": "承接前句，提出与前项相抵或相应的另一面；不一定表示实物替换。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课以その代わり引出替代方案或转折补偿，符合词典所列连接词义。",
+        "dictionary_sequences": [
+          1596650
+        ],
+        "identity": {
+          "word": "その代わり",
+          "reading_hiragana": "そのかわり",
+          "meaning": "代替前者;作为补偿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1c951167859e0e70",
+      "index": 1909,
+      "word": "程度",
+      "reading_hiragana": "ていど",
+      "context_meaning_zh": "程度",
+      "pos_ja": "名詞・副詞・接尾辞",
+      "pos_zh": "名词・副词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "程度",
+          "meaning_ja": "状態や性質の強さ、または数量のおおよその範囲。",
+          "example_ja": "この程度の荷物なら、一人で持てます。",
+          "example_zh": "这么点行李的话，一个人拿得动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "この程度",
+          "zh": "这种程度"
+        }
+      ],
+      "usage_note_zh": "表示水平、范围或数量；「この／その程度」可指前文提到的程度。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「この程度で」表示到这个程度/这样就如何，程度可作名词、副词及接续数量的后缀；此处为名词性指示。",
+        "dictionary_sequences": [
+          1436540
+        ],
+        "identity": {
+          "word": "程度",
+          "reading_hiragana": "ていど",
+          "meaning": "程度"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5a862132bb62de81",
+      "index": 1910,
+      "word": "スピード",
+      "reading_hiragana": "スピード",
+      "context_meaning_zh": "速度",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "速度",
+          "meaning_ja": "動いたり進んだりする速さ。",
+          "example_ja": "このバスはスピードが出るので、早く着きます。",
+          "example_zh": "这辆公交速度快，所以到得早。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "スピードが速い",
+          "zh": "速度快"
+        }
+      ],
+      "usage_note_zh": "表示移动或变化的速度；与路程长短的「距離」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处スピード表示公交车行驶速度，词典的普通名词义吻合；整句中速い是描述速度快，不构成特殊语域。",
+        "dictionary_sequences": [
+          1072310
+        ],
+        "identity": {
+          "word": "スピード",
+          "reading_hiragana": "スピード",
+          "meaning": "速度"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-95b2cf624c1ae742",
+      "index": 1911,
+      "word": "これほど",
+      "reading_hiragana": "これほど",
+      "context_meaning_zh": "这种程度",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "这种程度",
+          "meaning_ja": "話し手の近くにある事柄や直前の内容について、その程度を示す語。",
+          "example_ja": "これほど軽いコートなら、旅行にも持って行けます。",
+          "example_zh": "这么轻的大衣的话，旅行也能带去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "これほど便利",
+          "zh": "如此方便"
+        }
+      ],
+      "usage_note_zh": "指眼前或刚提到的程度；比「それほど」更直接指向说话人这边的事物。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典兼标副词与名词；本课「これほど軽い」作程度副词修饰形容词。",
+        "dictionary_sequences": [
+          1288800
+        ],
+        "identity": {
+          "word": "これほど",
+          "reading_hiragana": "これほど",
+          "meaning": "这种程度"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e695fdba05668f58",
+      "index": 1912,
+      "word": "区",
+      "reading_hiragana": "く",
+      "context_meaning_zh": "(行政区划)区",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(行政区划)区",
+          "meaning_ja": "行政上、都市などを分けた地域。",
+          "example_ja": "この店は中央区にあります。",
+          "example_zh": "这家店在中央区。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "区に住む",
+          "zh": "住在区内"
+        }
+      ],
+      "usage_note_zh": "行政区划单位；地点后接「に」表示存在位置。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "地址中的中央区是行政区名，取东京市区/行政区义而非选区、邮区等分区义。",
+        "dictionary_sequences": [
+          1244080
+        ],
+        "identity": {
+          "word": "区",
+          "reading_hiragana": "く",
+          "meaning": "(行政区划)区"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-623cb0a29595a9a0",
+      "index": 1913,
+      "word": "周辺",
+      "reading_hiragana": "しゅうへん",
+      "context_meaning_zh": "周围、四周",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "周围、四周",
+          "meaning_ja": "ある場所や物のすぐ近くを含む一帯。",
+          "example_ja": "駅周辺には、靴を売る店がいくつもあります。",
+          "example_zh": "车站周边有好几家卖鞋的店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅の周辺",
+          "zh": "车站周边"
+        }
+      ],
+      "usage_note_zh": "指某地点附近的一带；常与地点名组成「〜周辺」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "车站附近的周围区域名词，辞书亦列接尾用法及计算机外设义；本课上下文明确是空间周边。",
+        "dictionary_sequences": [
+          1331300
+        ],
+        "identity": {
+          "word": "周辺",
+          "reading_hiragana": "しゅうへん",
+          "meaning": "周围、四周"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a5402c6cbac1fdff",
+      "index": 1914,
+      "word": "...通り",
+      "reading_hiragana": "...どおり",
+      "context_meaning_zh": "表示街名",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "表示街名",
+          "meaning_ja": "通りの名前の後ろにつけ、その街路名を作る語。",
+          "example_ja": "店は桜通りの右側にあります。",
+          "example_zh": "商店在樱花街的右侧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "桜通り",
+          "zh": "樱花街"
+        }
+      ],
+      "usage_note_zh": "接在街道名称后构成路名；专名中常读「〜どおり」。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课项明确接在街名后构成路名后缀；该用法专读「どおり」，不能泛化到独立的通り。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "...通り",
+          "reading_hiragana": "...どおり",
+          "meaning": "表示街名"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b5bdd24db47fc2b2",
+      "index": 1915,
+      "word": "特色",
+      "reading_hiragana": "とくしょく",
+      "context_meaning_zh": "特色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "特色",
+          "meaning_ja": "ほかのものと異なる、目立った性質や特徴。",
+          "example_ja": "この店の特色は、外国のサイズもそろっていることです。",
+          "example_zh": "这家店的特色是也备有外国尺码。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "店の特色",
+          "zh": "店铺特色"
+        }
+      ],
+      "usage_note_zh": "指某事物特别显著、能与其他事物区分的特点；近义「特長」更偏优点。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "店铺的特色是外国服装丰富，作为店铺特征的名词。",
+        "dictionary_sequences": [
+          1455080
+        ],
+        "identity": {
+          "word": "特色",
+          "reading_hiragana": "とくしょく",
+          "meaning": "特色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1c1743dbf6776cc1",
+      "index": 1916,
+      "word": "より",
+      "reading_hiragana": "より",
+      "context_meaning_zh": "更",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "更",
+          "meaning_ja": "比較する基準を示し、「〜に比べて」の意味を表す助詞。",
+          "example_ja": "この靴は、前に見たものより軽いです。",
+          "example_zh": "这双鞋比之前看过的那双轻。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "Aより安い",
+          "zh": "比A便宜"
+        }
+      ],
+      "usage_note_zh": "接比较基准表示“比”；也可作较书面的“从”，需按句型判断。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条身份限定比较义「更」，修饰便利程度；词典中的起点格助词等其他义不并入。",
+        "dictionary_sequences": [
+          1013190
+        ],
+        "identity": {
+          "word": "より",
+          "reading_hiragana": "より",
+          "meaning": "更"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ae9a8126655da070",
+      "index": 1917,
+      "word": "地下",
+      "reading_hiragana": "ちか",
+      "context_meaning_zh": "地下",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "地下",
+          "meaning_ja": "地面より下の場所。また、建物の地面より下にある階。",
+          "example_ja": "食品売り場はデパートの地下にあります。",
+          "example_zh": "食品卖场在百货商店地下。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "地下にある",
+          "zh": "在地下"
+        }
+      ],
+      "usage_note_zh": "地面以下的空间或楼层；所在位置用「に」，移动目的地用「へ／に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "地图标示地点在地面以下，取地下空间义；词典列名词及ノ形用法，输入本身没有详细例句。",
+        "dictionary_sequences": [
+          1420840
+        ],
+        "identity": {
+          "word": "地下",
+          "reading_hiragana": "ちか",
+          "meaning": "地下"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ef4ae1a9a8c034a1",
+      "index": 1918,
+      "word": "地上",
+      "reading_hiragana": "ちじょう",
+      "context_meaning_zh": "地上、地面",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "地上、地面",
+          "meaning_ja": "地面の上。また、建物で地下に対する地上部分。",
+          "example_ja": "このデパートは、地上六階と地下二階があります。",
+          "example_zh": "这家百货商店有地上六层、地下两层。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "地上に出る",
+          "zh": "到地面上"
+        }
+      ],
+      "usage_note_zh": "地面及其上方，与「地下」相对；建筑楼层说明中常与「地下」并列。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "“地上二階”是复合名词式楼层表达；adj-no所支持的地上の～是名词加の结构。",
+        "dictionary_sequences": [
+          1421180
+        ],
+        "identity": {
+          "word": "地上",
+          "reading_hiragana": "ちじょう",
+          "meaning": "地上、地面"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e51aca80df1e2246",
+      "index": 1919,
+      "word": "イヤリング",
+      "reading_hiragana": "イヤリング",
+      "context_meaning_zh": "耳环、耳饰",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "耳环、耳饰",
+          "meaning_ja": "耳たぶにはさんでつける装身具。",
+          "example_ja": "このイヤリングは軽いので、一日着けても疲れません。",
+          "example_zh": "这副耳饰很轻，戴一整天也不累。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "イヤリングを着ける",
+          "zh": "戴耳环"
+        }
+      ],
+      "usage_note_zh": "通常指夹式耳饰；日语也常以「着ける」表示佩戴。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "イヤリング指耳部佩戴的耳饰，例句作「軽い」的主语，是普通具体名词。",
+        "dictionary_sequences": [
+          1021910
+        ],
+        "identity": {
+          "word": "イヤリング",
+          "reading_hiragana": "イヤリング",
+          "meaning": "耳环、耳饰"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-71e49bb0616fbd9e",
+      "index": 1920,
+      "word": "複数",
+      "reading_hiragana": "ふくすう",
+      "context_meaning_zh": "复数",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "复数",
+          "meaning_ja": "二つ以上の数や物があること。",
+          "example_ja": "複数の店で値段を調べてから買いました。",
+          "example_zh": "我在几家店查过价格后才买。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "複数の候補",
+          "zh": "多个候选项"
+        }
+      ],
+      "usage_note_zh": "表示两个以上但不具体说明数目；名词前用「複数の」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "複数の案表示数量不止一个而未指明具体数目，複数作名词性限定语。",
+        "dictionary_sequences": [
+          1501400
+        ],
+        "identity": {
+          "word": "複数",
+          "reading_hiragana": "ふくすう",
+          "meaning": "复数"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3ad581303d0318ef",
+      "index": 1921,
+      "word": "看板",
+      "reading_hiragana": "かんばん",
+      "context_meaning_zh": "招牌;打招牌的人(物)",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "招牌;打招牌的人(物)",
+          "meaning_ja": "店名や案内などを書いて、人に見える場所に掲げる板。",
+          "example_ja": "店の看板に営業時間が書いてあります。",
+          "example_zh": "店铺招牌上写着营业时间。"
+        },
+        {
+          "meaning_zh": "代表的な人や商品",
+          "meaning_ja": "店や組織を代表する人、または自慢の商品。",
+          "example_ja": "この店の看板商品は、手作りの靴です。",
+          "example_zh": "这家店的招牌商品是手工鞋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "看板を見る",
+          "zh": "看招牌"
+        }
+      ],
+      "usage_note_zh": "本义是店铺或场所的招牌；引申义“招牌人物／商品”需在相应语境使用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课指实体招牌并引申为店铺主打商品；青色路牌和面包店招牌语境可对应两义。",
+        "dictionary_sequences": [
+          1213990
+        ],
+        "identity": {
+          "word": "看板",
+          "reading_hiragana": "かんばん",
+          "meaning": "招牌;打招牌的人(物)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0c55bfbcc6a0a715",
+      "index": 1922,
+      "word": "この辺",
+      "reading_hiragana": "このへん",
+      "context_meaning_zh": "这里;附近;这种程度",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "这里;附近;这种程度",
+          "meaning_ja": "話し手の近くの場所や、その周囲の一帯。",
+          "example_ja": "この辺で、安い靴を売っている店を知りませんか。",
+          "example_zh": "你知道这附近有卖便宜鞋子的店吗？"
+        },
+        {
+          "meaning_zh": "到此为止；就说到这里",
+          "meaning_ja": "話や作業をここで終わりにするときに使う。",
+          "example_ja": "今日の相談はこの辺で切り上げましょう。",
+          "example_zh": "今天的讨论就到这里吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "この辺にある",
+          "zh": "在这附近"
+        }
+      ],
+      "usage_note_zh": "指附近一带时可说「この辺に店がある」；结束谈话或工作时，「この辺で」表示到此为止。两种用法均读「このへん」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "この辺可指附近，也可指谈话或活动的这一阶段；例句的「この辺で終わり」显示口语会话用法。",
+        "dictionary_sequences": [
+          1004750
+        ],
+        "identity": {
+          "word": "この辺",
+          "reading_hiragana": "このへん",
+          "meaning": "这里;附近;这种程度"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ae492fa70de905d4",
+      "index": 1923,
+      "word": "ディズニーランド",
+      "reading_hiragana": "ディズニーランド",
+      "context_meaning_zh": "迪士尼乐园",
+      "pos_ja": "名詞・固有名詞",
+      "pos_zh": "名词・专有名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "迪士尼乐园",
+          "meaning_ja": "ディズニーの物語やキャラクターを題材にしたテーマパークの名称。",
+          "example_ja": "家族とディズニーランドへ行く計画を立てています。",
+          "example_zh": "我正在计划和家人去迪士尼乐园。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ディズニーランドへ行く",
+          "zh": "去迪士尼乐园"
+        }
+      ],
+      "usage_note_zh": "专有名称，通常不需另补一般义；地点目的地用「へ／に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "proper_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典仅匹配迪士尼乐园专名；例句谈门票查询，属于地点名称的普通指称。",
+        "dictionary_sequences": [
+          2834463
+        ],
+        "identity": {
+          "word": "ディズニーランド",
+          "reading_hiragana": "ディズニーランド",
+          "meaning": "迪士尼乐园"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ed45122fe2b5328e",
+      "index": 1924,
+      "word": "様々",
+      "reading_hiragana": "さまざま",
+      "context_meaning_zh": "各种各样的",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "各种各样的",
+          "meaning_ja": "種類や内容が一つに限られず、いろいろある様子。",
+          "example_ja": "店には、様々な色とサイズの服があります。",
+          "example_zh": "店里有各种颜色和尺码的衣服。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "様々な種類",
+          "zh": "各种种类"
+        }
+      ],
+      "usage_note_zh": "ナ形容词；名词前用「様々な」，副词性用法可说「様々に」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "表示种类繁多，可作様々な修饰名词或様々です作述语；词典列形容动词及名词。",
+        "dictionary_sequences": [
+          1593830
+        ],
+        "identity": {
+          "word": "様々",
+          "reading_hiragana": "さまざま",
+          "meaning": "各种各样的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e064c1e226ce43ad",
+      "index": 1925,
+      "word": "目方",
+      "reading_hiragana": "めかた",
+      "context_meaning_zh": "重量",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "重量",
+          "meaning_ja": "物の重さ。",
+          "example_ja": "市場では、野菜の目方を量ってから値段を決めます。",
+          "example_zh": "在市场上，先称蔬菜的重量再定价。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "目方を量る",
+          "zh": "称重量"
+        }
+      ],
+      "usage_note_zh": "指物品的重量，略显传统；现代日常通常说「重さ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "询问箱子重量，目方是物体重量名词。",
+        "dictionary_sequences": [
+          1535680
+        ],
+        "identity": {
+          "word": "目方",
+          "reading_hiragana": "めかた",
+          "meaning": "重量"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d44c10fd040a358a",
+      "index": 1926,
+      "word": "手軽",
+      "reading_hiragana": "てがる",
+      "context_meaning_zh": "简便;轻易;简单",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "简便;轻易;简单",
+          "meaning_ja": "手間や時間があまりかからず、簡単にできる様子。",
+          "example_ja": "この小さな店なら、昼休みに手軽に買い物ができます。",
+          "example_zh": "在这家小店，午休时也能轻松购物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "手軽に使える",
+          "zh": "容易使用"
+        }
+      ],
+      "usage_note_zh": "ナ形容词；「手軽に」修饰动作，强调省事、不费力。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "手軽に修饰订购动作，指简便轻松；词典还列形容动词及名词用法。",
+        "dictionary_sequences": [
+          1327530
+        ],
+        "identity": {
+          "word": "手軽",
+          "reading_hiragana": "てがる",
+          "meaning": "简便;轻易;简单"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b66c63a0b392bb19",
+      "index": 1927,
+      "word": "案",
+      "reading_hiragana": "あん",
+      "context_meaning_zh": "计划、草案",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "计划、草案",
+          "meaning_ja": "これから行うことについて考えた計画や提案。",
+          "example_ja": "新しい店を開く案について、家族と話しました。",
+          "example_zh": "我和家人讨论了开一家新店的方案。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "案を出す",
+          "zh": "提出方案"
+        }
+      ],
+      "usage_note_zh": "指尚待讨论或决定的计划、提议；「案の定」另是固定副词，意为果然。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处是可比较的计划或提案，词典另列草稿、预期及台座义均不合语境。",
+        "dictionary_sequences": [
+          1154770
+        ],
+        "identity": {
+          "word": "案",
+          "reading_hiragana": "あん",
+          "meaning": "计划、草案"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-92a564f64382579c",
+      "index": 1928,
+      "word": "思い付く",
+      "reading_hiragana": "おもいつく",
+      "context_meaning_zh": "(忽然)想出、想起",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(忽然)想出、想起",
+          "meaning_ja": "考えた末に、考えや方法が頭に浮かぶ。",
+          "example_ja": "歩いているときに、よい買い物の方法を思い付きました。",
+          "example_zh": "走路时我想到了一个不错的购物方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "案を思い付く",
+          "zh": "想到方案"
+        }
+      ],
+      "usage_note_zh": "表示突然想到主意或办法；想出的内容常用「を」标记。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「思い付く」是五段カ行动词，可为想出主意或念头进入脑中，也可表示回想；词典同时列 vt/vi。",
+        "dictionary_sequences": [
+          1589330
+        ],
+        "identity": {
+          "word": "思い付く",
+          "reading_hiragana": "おもいつく",
+          "meaning": "(忽然)想出、想起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-055f65b4972ec188",
+      "index": 1929,
+      "word": "ハンドバッグ",
+      "reading_hiragana": "ハンドバッグ",
+      "context_meaning_zh": "(女式)手提包",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(女式)手提包",
+          "meaning_ja": "手で持ち歩く、小型のかばん。",
+          "example_ja": "母は財布をハンドバッグに入れて出かけました。",
+          "example_zh": "母亲把钱包放进手提包后出门了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ハンドバッグを持つ",
+          "zh": "拿手提包"
+        }
+      ],
+      "usage_note_zh": "手提的小型包，现多为泛称，不限女性；收纳地点用「に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "把棕色手提包送到服务台的例句指随身小包，辞书 handbag/purse 义相合。",
+        "dictionary_sequences": [
+          1096770
+        ],
+        "identity": {
+          "word": "ハンドバッグ",
+          "reading_hiragana": "ハンドバッグ",
+          "meaning": "(女式)手提包"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cb8b14412d370178",
+      "index": 1930,
+      "word": "沿線",
+      "reading_hiragana": "えんせん",
+      "context_meaning_zh": "沿线",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "沿线",
+          "meaning_ja": "鉄道や道路に沿った地域。",
+          "example_ja": "この路線の沿線には、駅前のデパートがあります。",
+          "example_zh": "这条线路沿线有车站前的百货商店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "沿線の店",
+          "zh": "沿线商店"
+        }
+      ],
+      "usage_note_zh": "指铁路或道路两侧沿途区域；常与线路名或交通路线连用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "沿線指铁路或道路沿线地域，例句以铁路沿线有许多店铺说明空间范围。",
+        "dictionary_sequences": [
+          1176750
+        ],
+        "identity": {
+          "word": "沿線",
+          "reading_hiragana": "えんせん",
+          "meaning": "沿线"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a633b817f27b1e04",
+      "index": 1931,
+      "word": "低め",
+      "reading_hiragana": "ひくめ",
+      "context_meaning_zh": "略低、稍低",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "略低、稍低",
+          "meaning_ja": "標準や比較対象より、少し低い程度。",
+          "example_ja": "試着室では、鏡の位置が少し低めでした。",
+          "example_zh": "试衣间里镜子的位置稍低。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "低めの値段",
+          "zh": "偏低的价格"
+        }
+      ],
+      "usage_note_zh": "接在形容词词干后，表示比通常或标准略低；对应「高め」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句是低めに作副词性补语；词典adj-na/n支持名词及な形容词，adj-no是名词加の，不列adnominal。",
+        "dictionary_sequences": [
+          1434750
+        ],
+        "identity": {
+          "word": "低め",
+          "reading_hiragana": "ひくめ",
+          "meaning": "略低、稍低"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d4d46706305aa879",
+      "index": 1932,
+      "word": "北東",
+      "reading_hiragana": "ほくとう",
+      "context_meaning_zh": "东北",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "东北",
+          "meaning_ja": "北と東の間にあたる方角。",
+          "example_ja": "駅はこの地図の北東にあります。",
+          "example_zh": "车站在这张地图的东北方向。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "北東の方角",
+          "zh": "东北方向"
+        }
+      ],
+      "usage_note_zh": "方位名词；用地图定位时常说「〜の北東」「北東にある」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "东町东北方有该地点，北東表示北与东之间的方位名词。",
+        "dictionary_sequences": [
+          1584190
+        ],
+        "identity": {
+          "word": "北東",
+          "reading_hiragana": "ほくとう",
+          "meaning": "东北"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ef7f87fbc5cd215c",
+      "index": 1933,
+      "word": "南西",
+      "reading_hiragana": "なんせい",
+      "context_meaning_zh": "西南",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "西南",
+          "meaning_ja": "南と西の間にあたる方角。",
+          "example_ja": "デパートは駅の南西にあります。",
+          "example_zh": "百货商店在车站西南方向。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "南西の方向",
+          "zh": "西南方向"
+        }
+      ],
+      "usage_note_zh": "方位名词；按北、南与东、西组合读作「なんせい」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "南西是东町以西南方向的位置词，词典列方向名词及no修饰用法。",
+        "dictionary_sequences": [
+          1582600
+        ],
+        "identity": {
+          "word": "南西",
+          "reading_hiragana": "なんせい",
+          "meaning": "西南"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-73834b415e26789e",
+      "index": 1934,
+      "word": "近所",
+      "reading_hiragana": "きんじょ",
+      "context_meaning_zh": "附近",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "附近",
+          "meaning_ja": "ある場所、特に住んでいる所の近く。",
+          "example_ja": "近所の人に、駅前の靴屋を教えてもらいました。",
+          "example_zh": "附近的人告诉了我车站前鞋店的位置。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "近所の店",
+          "zh": "附近的商店"
+        }
+      ],
+      "usage_note_zh": "指住处或某地点附近；「近所の人」可指邻居、附近居民。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「近所」是表示附近的名词，也可作「近所の」修饰名词；现有语料没有充分理由将其归为な形容词。",
+        "dictionary_sequences": [
+          1242350
+        ],
+        "identity": {
+          "word": "近所",
+          "reading_hiragana": "きんじょ",
+          "meaning": "附近"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3458b3dcfe3d211d",
+      "index": 1935,
+      "word": "茶色",
+      "reading_hiragana": "ちゃいろ",
+      "context_meaning_zh": "茶色、咖啡色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "茶色、咖啡色",
+          "meaning_ja": "赤みや黄色みを含む、茶の葉に似た色。",
+          "example_ja": "茶色のコートには、黒い靴がよく合います。",
+          "example_zh": "棕色大衣和黑鞋很搭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "茶色のかばん",
+          "zh": "棕色的包"
+        }
+      ],
+      "usage_note_zh": "颜色名词；修饰名词时说「茶色の〜」，也可用「茶色い〜」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "“茶色「のコート」”是颜色名词加助词「の」，不是独立连体词。",
+        "dictionary_sequences": [
+          1422720
+        ],
+        "identity": {
+          "word": "茶色",
+          "reading_hiragana": "ちゃいろ",
+          "meaning": "茶色、咖啡色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f1d19bc8aaf754ad",
+      "index": 1936,
+      "word": "地味",
+      "reading_hiragana": "じみ",
+      "context_meaning_zh": "(生活)质朴;(外表)朴素、朴实",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(生活)质朴;(外表)朴素、朴实",
+          "meaning_ja": "華やかさが少なく、控えめで目立たない様子。",
+          "example_ja": "母は派手な服より、地味な色の服をよく選びます。",
+          "example_zh": "母亲比起鲜艳的衣服，更常选朴素颜色的衣服。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "地味な服",
+          "zh": "朴素的衣服"
+        }
+      ],
+      "usage_note_zh": "ナ形容词；可描述外观朴素、不显眼，也可说生活简朴；并非总含贬义。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "衣着朴素、生活简朴两例符合ナ形容词及名词义；不采用词典另列的口语程度副词义。",
+        "dictionary_sequences": [
+          1421490
+        ],
+        "identity": {
+          "word": "地味",
+          "reading_hiragana": "じみ",
+          "meaning": "(生活)质朴;(外表)朴素、朴实"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e2e50de7fbda5d0c",
+      "index": 1937,
+      "word": "ブレザー",
+      "reading_hiragana": "ブレザー",
+      "context_meaning_zh": "西装夹克",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "西装夹克",
+          "meaning_ja": "襟があり、前をボタンで留める上着。",
+          "example_ja": "仕事の面接には、紺のブレザーを着て行きました。",
+          "example_zh": "我穿藏青色西装夹克去参加工作面试。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ブレザーを着る",
+          "zh": "穿西装夹克"
+        }
+      ],
+      "usage_note_zh": "带翻领和扣子的外套式上衣；穿上衣用「着る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "衣着例句中的ブレザー指西装式夹克，是具体服装名词。",
+        "dictionary_sequences": [
+          1114760
+        ],
+        "identity": {
+          "word": "ブレザー",
+          "reading_hiragana": "ブレザー",
+          "meaning": "西装夹克"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f921a5fdd1554ef4",
+      "index": 1938,
+      "word": "ブラウス",
+      "reading_hiragana": "ブラウス",
+      "context_meaning_zh": "罩衣;衬衫",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "罩衣;衬衫",
+          "meaning_ja": "柔らかい布で作られた、シャツ型の上着。",
+          "example_ja": "白いブラウスを洗う前に、ポケットを確認しました。",
+          "example_zh": "洗白衬衫前，我检查了口袋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ブラウスを着る",
+          "zh": "穿女式衬衫"
+        }
+      ],
+      "usage_note_zh": "轻薄的衬衫式上衣；现在不限女性穿着。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "白色ブラウス沾到咖啡，指女式罩衣；词典blouse名词吻合，句中没有限制正式程度。",
+        "dictionary_sequences": [
+          1113650
+        ],
+        "identity": {
+          "word": "ブラウス",
+          "reading_hiragana": "ブラウス",
+          "meaning": "罩衣;衬衫"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-59d0511e22fcf28d",
+      "index": 1939,
+      "word": "スカート",
+      "reading_hiragana": "スカート",
+      "context_meaning_zh": "裙子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "裙子",
+          "meaning_ja": "腰から下を覆う、脚を左右に分けない形の衣服。",
+          "example_ja": "長いスカートをはくと、自転車に乗りにくいです。",
+          "example_zh": "穿长裙骑自行车不方便。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "スカートをはく",
+          "zh": "穿裙子"
+        }
+      ],
+      "usage_note_zh": "下装；动词用「はく」，写作汉字时常作「穿く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句描述长度过长而不便行走的裙子；词典只列衣物名词义，课程补充常搭配「はく」。",
+        "dictionary_sequences": [
+          1067470
+        ],
+        "identity": {
+          "word": "スカート",
+          "reading_hiragana": "スカート",
+          "meaning": "裙子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f939d82542958ae6",
+      "index": 1940,
+      "word": "ワンピース",
+      "reading_hiragana": "ワンピース",
+      "context_meaning_zh": "连衣裙",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "连衣裙",
+          "meaning_ja": "上半身とスカート部分が一続きになった衣服。",
+          "example_ja": "旅行には、洗いやすいワンピースを一枚持って行きます。",
+          "example_zh": "旅行时我会带一件容易清洗的连衣裙。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ワンピースを着る",
+          "zh": "穿连衣裙"
+        }
+      ],
+      "usage_note_zh": "指上衣和裙身连成一体的衣服；穿用「着る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处ワンピース是有口袋的一件式连衣裙，词典dress义吻合；排除泳装及漫画作品义。",
+        "dictionary_sequences": [
+          1149240
+        ],
+        "identity": {
+          "word": "ワンピース",
+          "reading_hiragana": "ワンピース",
+          "meaning": "连衣裙"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e533b540cf2f6acb",
+      "index": 1941,
+      "word": "県",
+      "reading_hiragana": "けん",
+      "context_meaning_zh": "县",
+      "pos_ja": "名詞・接尾辞",
+      "pos_zh": "名词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "县",
+          "meaning_ja": "日本の都道府県を構成する行政区画の一つ。",
+          "example_ja": "この県では、冬に雪が多く降ります。",
+          "example_zh": "这个县冬天雪下得很多。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "県の名前",
+          "zh": "县名"
+        }
+      ],
+      "usage_note_zh": "日本的一级行政区名称后缀；具体行政区名后接「県」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "既可独立指日本县，也可构成岩手県等地名后缀；句中与市名并列作行政区名。",
+        "dictionary_sequences": [
+          1258810
+        ],
+        "identity": {
+          "word": "県",
+          "reading_hiragana": "けん",
+          "meaning": "县"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-71b4b458c938cbad",
+      "index": 1942,
+      "word": "比較的",
+      "reading_hiragana": "ひかくてき",
+      "context_meaning_zh": "比较的",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "比较的",
+          "meaning_ja": "ほかのものと比べたときに、ある傾向が見られる様子。",
+          "example_ja": "この靴は比較的軽く、長く歩いても疲れません。",
+          "example_zh": "这双鞋相对较轻，走很久也不累。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "比較的安い",
+          "zh": "相对便宜"
+        }
+      ],
+      "usage_note_zh": "副词，表示与其他情况相比程度较高或较低；直接修饰形容词、动词。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "副词比较店内服装价格的相对低廉程度；句末です只是句式礼貌，词项保持中性。",
+        "dictionary_sequences": [
+          1483600
+        ],
+        "identity": {
+          "word": "比較的",
+          "reading_hiragana": "ひかくてき",
+          "meaning": "比较的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a6851243e38c2554",
+      "index": 1943,
+      "word": "服装",
+      "reading_hiragana": "ふくそう",
+      "context_meaning_zh": "服装",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "服装",
+          "meaning_ja": "身につけている衣服の組み合わせや整え方。",
+          "example_ja": "式の会場に合わせて、服装を選びました。",
+          "example_zh": "我根据仪式场地选择了穿着。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "服装を整える",
+          "zh": "整理着装"
+        }
+      ],
+      "usage_note_zh": "泛指衣着及整体穿着风格；说具体一件衣服通常用「服」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "检查冬季穿着是否合适的语境中，指整体衣着或穿着方式。",
+        "dictionary_sequences": [
+          1500970
+        ],
+        "identity": {
+          "word": "服装",
+          "reading_hiragana": "ふくそう",
+          "meaning": "服装"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-49b943a8f7bcc528",
+      "index": 1944,
+      "word": "特長",
+      "reading_hiragana": "とくちょう",
+      "context_meaning_zh": "突出的优点、特色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "突出的优点、特色",
+          "meaning_ja": "ほかと比べて特に優れている点。",
+          "example_ja": "このバッグの特長は、軽くて丈夫なところです。",
+          "example_zh": "这个包的优点是又轻又结实。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "商品の特長",
+          "zh": "商品特点／优点"
+        }
+      ],
+      "usage_note_zh": "偏指值得肯定的突出优点；表示中性特点也可用「特色」「特徴」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "声音悦耳是商品的突出优点，符合词典strong point/merit名词义；不是一般身高意义的「特長」。",
+        "dictionary_sequences": [
+          1455200
+        ],
+        "identity": {
+          "word": "特長",
+          "reading_hiragana": "とくちょう",
+          "meaning": "突出的优点、特色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8b7679720d4b7190",
+      "index": 1945,
+      "word": "有利",
+      "reading_hiragana": "ゆうり",
+      "context_meaning_zh": "有利",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "有利",
+          "meaning_ja": "利益につながる条件があり、物事を進めやすい様子。",
+          "example_ja": "駅に近い店を選ぶと、時間の面で有利です。",
+          "example_zh": "选离车站近的店，在时间方面有利。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "有利な条件",
+          "zh": "有利的条件"
+        }
+      ],
+      "usage_note_zh": "ナ形容词；名词前用「有利な」，常与「に有利」「有利になる」搭配。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "时间方面具优势，词典列ナ形容词及名词；此处作判断谓语，未显特殊语体。",
+        "dictionary_sequences": [
+          1605720
+        ],
+        "identity": {
+          "word": "有利",
+          "reading_hiragana": "ゆうり",
+          "meaning": "有利"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a1bd5d113e6959e9",
+      "index": 1946,
+      "word": "地名",
+      "reading_hiragana": "ちめい",
+      "context_meaning_zh": "地名",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "地名",
+          "meaning_ja": "土地や場所につけられた名前。",
+          "example_ja": "住所を書く前に、地名の漢字を確認しました。",
+          "example_zh": "填写地址前，我确认了地名的汉字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "地名を調べる",
+          "zh": "查询地名"
+        }
+      ],
+      "usage_note_zh": "土地或地点的名称；与人名、店名等名称类别相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句询问地名读音，地名是地理位置的名称，词典place name义相合。",
+        "dictionary_sequences": [
+          1421500
+        ],
+        "identity": {
+          "word": "地名",
+          "reading_hiragana": "ちめい",
+          "meaning": "地名"
+        }
+      }
+    }
+  ]
+}

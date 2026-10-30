@@ -1,0 +1,2046 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 241.093,
+ "listening_review": "pending",
+ "source_chapter": 17,
+ "turns": [
+  {
+   "turn_id": "C17-D001",
+   "turn_index": 0,
+   "speaker": "マテオ",
+   "source_text": "リン、今日、二時から一緒に勉強しませんか。みどりセンターの部屋を使います。",
+   "sentence_ids": [
+    "C17-D001-S01",
+    "C17-D001-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 5.105,
+   "duration_sec": 5.105
+  },
+  {
+   "turn_id": "C17-D002",
+   "turn_index": 1,
+   "speaker": "林梅",
+   "source_text": "いいですね。私も勉強したいです。準備はもう終わりましたか。",
+   "sentence_ids": [
+    "C17-D002-S01",
+    "C17-D002-S02",
+    "C17-D002-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 5.455,
+   "end_sec": 10.435,
+   "duration_sec": 4.98
+  },
+  {
+   "turn_id": "C17-D003",
+   "turn_index": 2,
+   "speaker": "マテオ",
+   "source_text": "いいえ、まだ終わっていません。中村さんにはもう連絡しました。",
+   "sentence_ids": [
+    "C17-D003-S01",
+    "C17-D003-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 10.785,
+   "end_sec": 14.714,
+   "duration_sec": 3.929
+  },
+  {
+   "turn_id": "C17-D004",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "では、準備を手伝いましょうか。一時半に行きます。",
+   "sentence_ids": [
+    "C17-D004-S01",
+    "C17-D004-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 15.064,
+   "end_sec": 18.924,
+   "duration_sec": 3.86
+  },
+  {
+   "turn_id": "C17-D005",
+   "turn_index": 4,
+   "speaker": "マテオ",
+   "source_text": "お願いします。一時半に受付の前で待ちます。",
+   "sentence_ids": [
+    "C17-D005-S01",
+    "C17-D005-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 19.274,
+   "end_sec": 22.956,
+   "duration_sec": 3.682
+  },
+  {
+   "turn_id": "C17-D006",
+   "turn_index": 5,
+   "speaker": "林梅",
+   "source_text": "パクさんにも連絡しませんか。パクさんは今日は都合がいいですか。",
+   "sentence_ids": [
+    "C17-D006-S01",
+    "C17-D006-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 23.306,
+   "end_sec": 27.817,
+   "duration_sec": 4.511
+  },
+  {
+   "turn_id": "C17-D007",
+   "turn_index": 6,
+   "speaker": "マテオ",
+   "source_text": "まだ連絡していません。今、メッセージを送ります。",
+   "sentence_ids": [
+    "C17-D007-S01",
+    "C17-D007-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.167,
+   "end_sec": 30.944,
+   "duration_sec": 2.777
+  },
+  {
+   "turn_id": "C17-D008",
+   "turn_index": 7,
+   "speaker": "マテオ",
+   "source_text": "パク、今日、みどりセンターで一緒に勉強しませんか。二時からです。",
+   "sentence_ids": [
+    "C17-D008-S01",
+    "C17-D008-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 31.294,
+   "end_sec": 35.691,
+   "duration_sec": 4.397
+  },
+  {
+   "turn_id": "C17-D009",
+   "turn_index": 8,
+   "speaker": "パク",
+   "source_text": "ありがとう。午後はちょっと。今日は用事があるから、行かない。",
+   "sentence_ids": [
+    "C17-D009-S01",
+    "C17-D009-S02",
+    "C17-D009-S03"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "start_sec": 36.041,
+   "end_sec": 40.25,
+   "duration_sec": 4.209
+  },
+  {
+   "turn_id": "C17-D010",
+   "turn_index": 9,
+   "speaker": "マテオ",
+   "source_text": "はい。また来週。今日はリンと勉強する。",
+   "sentence_ids": [
+    "C17-D010-S01",
+    "C17-D010-S02",
+    "C17-D010-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 40.6,
+   "end_sec": 43.491,
+   "duration_sec": 2.891
+  },
+  {
+   "turn_id": "C17-D011",
+   "turn_index": 10,
+   "speaker": "パク",
+   "source_text": "はい。来週はまだちょっと。後で連絡する。",
+   "sentence_ids": [
+    "C17-D011-S01",
+    "C17-D011-S02",
+    "C17-D011-S03"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 43.841,
+   "end_sec": 47.361,
+   "duration_sec": 3.52
+  },
+  {
+   "turn_id": "C17-D012",
+   "turn_index": 11,
+   "speaker": "マテオ",
+   "source_text": "ありがとう。では、来週、もう一度メッセージを送る。",
+   "sentence_ids": [
+    "C17-D012-S01",
+    "C17-D012-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.711,
+   "end_sec": 51.028,
+   "duration_sec": 3.317
+  },
+  {
+   "turn_id": "C17-D013",
+   "turn_index": 12,
+   "speaker": "マテオ",
+   "source_text": "リン、パクさんから返事が来ました。今日は用事があります。",
+   "sentence_ids": [
+    "C17-D013-S01",
+    "C17-D013-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 51.378,
+   "end_sec": 55.156,
+   "duration_sec": 3.778
+  },
+  {
+   "turn_id": "C17-D014",
+   "turn_index": 13,
+   "speaker": "林梅",
+   "source_text": "では、今日は二人ですね。私は一時半に準備を手伝いに行きます。",
+   "sentence_ids": [
+    "C17-D014-S01",
+    "C17-D014-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 55.506,
+   "end_sec": 60.779,
+   "duration_sec": 5.273
+  },
+  {
+   "turn_id": "C17-D015",
+   "turn_index": 14,
+   "speaker": "マテオ",
+   "source_text": "はい。勉強の後で、駅の前へパンを買いに行きませんか。",
+   "sentence_ids": [
+    "C17-D015-S01",
+    "C17-D015-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 61.129,
+   "end_sec": 65.459,
+   "duration_sec": 4.33
+  },
+  {
+   "turn_id": "C17-D016",
+   "turn_index": 15,
+   "speaker": "林梅",
+   "source_text": "今日は買いに行きたくないです。家にパンがありますから。",
+   "sentence_ids": [
+    "C17-D016-S01",
+    "C17-D016-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 65.809,
+   "end_sec": 69.864,
+   "duration_sec": 4.055
+  },
+  {
+   "turn_id": "C17-D017",
+   "turn_index": 16,
+   "speaker": "マテオ",
+   "source_text": "では、私は四時にパンを買いに行きます。一時半は受付の前ですね。",
+   "sentence_ids": [
+    "C17-D017-S01",
+    "C17-D017-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 70.214,
+   "end_sec": 76.073,
+   "duration_sec": 5.859
+  },
+  {
+   "turn_id": "C17-D018",
+   "turn_index": 17,
+   "speaker": "林梅",
+   "source_text": "はい。一時半ですね。先にお昼ご飯を食べます。",
+   "sentence_ids": [
+    "C17-D018-S01",
+    "C17-D018-S02",
+    "C17-D018-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 76.423,
+   "end_sec": 80.969,
+   "duration_sec": 4.546
+  },
+  {
+   "turn_id": "C17-D019",
+   "turn_index": 18,
+   "speaker": "マテオ",
+   "source_text": "中村さん、こんにちは。今、部屋に入ってもいいですか。",
+   "sentence_ids": [
+    "C17-D019-S01",
+    "C17-D019-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.869,
+   "end_sec": 86.225,
+   "duration_sec": 4.356
+  },
+  {
+   "turn_id": "C17-D020",
+   "turn_index": 19,
+   "speaker": "中村",
+   "source_text": "まだ入ってはいけません。今、入口で机を運んでいます。一時半から一緒に準備をしましょう。",
+   "sentence_ids": [
+    "C17-D020-S01",
+    "C17-D020-S02",
+    "C17-D020-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 86.575,
+   "end_sec": 94.434,
+   "duration_sec": 7.859
+  },
+  {
+   "turn_id": "C17-D021",
+   "turn_index": 20,
+   "speaker": "マテオ",
+   "source_text": "ここは危険ですね。受付の前で待ちます。リンさんも一時半に来ます。",
+   "sentence_ids": [
+    "C17-D021-S01",
+    "C17-D021-S02",
+    "C17-D021-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 94.784,
+   "end_sec": 99.869,
+   "duration_sec": 5.085
+  },
+  {
+   "turn_id": "C17-D022",
+   "turn_index": 21,
+   "speaker": "中村",
+   "source_text": "はい。部屋の準備の前に、この注意を読んでください。部屋では水やお茶を飲んではいけません。",
+   "sentence_ids": [
+    "C17-D022-S01",
+    "C17-D022-S02",
+    "C17-D022-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 100.219,
+   "end_sec": 108.022,
+   "duration_sec": 7.803
+  },
+  {
+   "turn_id": "C17-D023",
+   "turn_index": 22,
+   "speaker": "マテオ",
+   "source_text": "読みました。水は廊下で飲みます。この机は使ってもいいですか。",
+   "sentence_ids": [
+    "C17-D023-S01",
+    "C17-D023-S02",
+    "C17-D023-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 108.372,
+   "end_sec": 113.046,
+   "duration_sec": 4.674
+  },
+  {
+   "turn_id": "C17-D024",
+   "turn_index": 23,
+   "speaker": "中村",
+   "source_text": "はい、使ってもいいです。一時半ですね。では、入ってください。",
+   "sentence_ids": [
+    "C17-D024-S01",
+    "C17-D024-S02",
+    "C17-D024-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 113.396,
+   "end_sec": 118.345,
+   "duration_sec": 4.949
+  },
+  {
+   "turn_id": "C17-D025",
+   "turn_index": 24,
+   "speaker": "林梅",
+   "source_text": "こんにちは。準備を手伝いに来ました。何をしましょうか。",
+   "sentence_ids": [
+    "C17-D025-S01",
+    "C17-D025-S02",
+    "C17-D025-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 118.695,
+   "end_sec": 122.977,
+   "duration_sec": 4.282
+  },
+  {
+   "turn_id": "C17-D026",
+   "turn_index": 25,
+   "speaker": "中村",
+   "source_text": "ありがとうございます。まず、二人でこの机を運んでください。",
+   "sentence_ids": [
+    "C17-D026-S01",
+    "C17-D026-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 123.327,
+   "end_sec": 127.655,
+   "duration_sec": 4.328
+  },
+  {
+   "turn_id": "C17-D027",
+   "turn_index": 26,
+   "speaker": "マテオ",
+   "source_text": "順番は、先に机ですね。その後で何をしますか。椅子ですか。",
+   "sentence_ids": [
+    "C17-D027-S01",
+    "C17-D027-S02",
+    "C17-D027-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 128.005,
+   "end_sec": 133.44,
+   "duration_sec": 5.435
+  },
+  {
+   "turn_id": "C17-D028",
+   "turn_index": 27,
+   "speaker": "中村",
+   "source_text": "はい、椅子を運んでください。二時からここで勉強してもいいです。",
+   "sentence_ids": [
+    "C17-D028-S01",
+    "C17-D028-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 133.79,
+   "end_sec": 138.346,
+   "duration_sec": 4.556
+  },
+  {
+   "turn_id": "C17-D029",
+   "turn_index": 28,
+   "speaker": "林梅",
+   "source_text": "はい。机を運んだ後で、椅子を運びます。",
+   "sentence_ids": [
+    "C17-D029-S01",
+    "C17-D029-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.696,
+   "end_sec": 142.284,
+   "duration_sec": 3.588
+  },
+  {
+   "turn_id": "C17-D030",
+   "turn_index": 29,
+   "speaker": "マテオ",
+   "source_text": "この机は大きいですね。一緒に運びましょう。椅子は入口にありますね。",
+   "sentence_ids": [
+    "C17-D030-S01",
+    "C17-D030-S02",
+    "C17-D030-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 142.634,
+   "end_sec": 149.152,
+   "duration_sec": 6.518
+  },
+  {
+   "turn_id": "C17-D031",
+   "turn_index": 30,
+   "speaker": "林梅",
+   "source_text": "はい。中村さん、入口の椅子はもう運びましたか。",
+   "sentence_ids": [
+    "C17-D031-S01",
+    "C17-D031-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 149.502,
+   "end_sec": 153.783,
+   "duration_sec": 4.281
+  },
+  {
+   "turn_id": "C17-D032",
+   "turn_index": 31,
+   "speaker": "中村",
+   "source_text": "いいえ、まだです。入口の椅子を二つお願いします。",
+   "sentence_ids": [
+    "C17-D032-S01",
+    "C17-D032-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 154.133,
+   "end_sec": 159.024,
+   "duration_sec": 4.891
+  },
+  {
+   "turn_id": "C17-D033",
+   "turn_index": 32,
+   "speaker": "マテオ",
+   "source_text": "はい。私はこの椅子を運びます。リンさん、もう一つの椅子をお願いします。",
+   "sentence_ids": [
+    "C17-D033-S01",
+    "C17-D033-S02",
+    "C17-D033-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 159.374,
+   "end_sec": 164.731,
+   "duration_sec": 5.357
+  },
+  {
+   "turn_id": "C17-D034",
+   "turn_index": 33,
+   "speaker": "林梅",
+   "source_text": "準備はもう終わりました。二時ですね。部屋の入口はもう大丈夫ですか。",
+   "sentence_ids": [
+    "C17-D034-S01",
+    "C17-D034-S02",
+    "C17-D034-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 165.081,
+   "end_sec": 170.761,
+   "duration_sec": 5.68
+  },
+  {
+   "turn_id": "C17-D035",
+   "turn_index": 34,
+   "speaker": "マテオ",
+   "source_text": "はい、大丈夫です。勉強の前に、水を飲みたいです。先に廊下へ行きます。",
+   "sentence_ids": [
+    "C17-D035-S01",
+    "C17-D035-S02",
+    "C17-D035-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 171.111,
+   "end_sec": 177.128,
+   "duration_sec": 6.017
+  },
+  {
+   "turn_id": "C17-D036",
+   "turn_index": 35,
+   "speaker": "林梅",
+   "source_text": "私はここで待ちます。後でメッセージを一緒に読みましょう。",
+   "sentence_ids": [
+    "C17-D036-S01",
+    "C17-D036-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 177.478,
+   "end_sec": 181.684,
+   "duration_sec": 4.206
+  },
+  {
+   "turn_id": "C17-D037",
+   "turn_index": 36,
+   "speaker": "マテオ",
+   "source_text": "この二つですね。相手はリンさんと中村さんです。中村さんには丁寧なメッセージを送りました。",
+   "sentence_ids": [
+    "C17-D037-S01",
+    "C17-D037-S02",
+    "C17-D037-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 182.034,
+   "end_sec": 188.615,
+   "duration_sec": 6.581
+  },
+  {
+   "turn_id": "C17-D038",
+   "turn_index": 37,
+   "speaker": "林梅",
+   "source_text": "このメッセージは短いですね。中村さんにも準備と勉強の時間を書きましたか。",
+   "sentence_ids": [
+    "C17-D038-S01",
+    "C17-D038-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 188.965,
+   "end_sec": 195.025,
+   "duration_sec": 6.06
+  },
+  {
+   "turn_id": "C17-D039",
+   "turn_index": 38,
+   "speaker": "マテオ",
+   "source_text": "はい、書きました。準備は一時半からです。日本語の勉強は二時から四時までです。パクさんは来ません。",
+   "sentence_ids": [
+    "C17-D039-S01",
+    "C17-D039-S02",
+    "C17-D039-S03",
+    "C17-D039-S04"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 195.375,
+   "end_sec": 202.498,
+   "duration_sec": 7.123
+  },
+  {
+   "turn_id": "C17-D040",
+   "turn_index": 39,
+   "speaker": "林梅",
+   "source_text": "はい。では、まず短いメッセージを読みましょう。その後で、私も中村さんに丁寧なメッセージを書きます。勉強の後で送ります。",
+   "sentence_ids": [
+    "C17-D040-S01",
+    "C17-D040-S02",
+    "C17-D040-S03",
+    "C17-D040-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 202.848,
+   "end_sec": 213.003,
+   "duration_sec": 10.155
+  },
+  {
+   "turn_id": "C17-D041",
+   "turn_index": 40,
+   "speaker": "林梅",
+   "source_text": "四時ですね。勉強は終わりました。中村さんにもメッセージを書きました。",
+   "sentence_ids": [
+    "C17-D041-S01",
+    "C17-D041-S02",
+    "C17-D041-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 213.903,
+   "end_sec": 219.697,
+   "duration_sec": 5.794
+  },
+  {
+   "turn_id": "C17-D042",
+   "turn_index": 41,
+   "speaker": "マテオ",
+   "source_text": "時間も書きましたか。中村さんは今、受付にいます。",
+   "sentence_ids": [
+    "C17-D042-S01",
+    "C17-D042-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 220.047,
+   "end_sec": 224.59,
+   "duration_sec": 4.543
+  },
+  {
+   "turn_id": "C17-D043",
+   "turn_index": 42,
+   "speaker": "林梅",
+   "source_text": "はい。「今日は二時から四時まで部屋を使いました。静かな部屋で、一緒に勉強しました。ありがとうございました。」今、送ります。",
+   "sentence_ids": [
+    "C17-D043-S01",
+    "C17-D043-S02",
+    "C17-D043-S03",
+    "C17-D043-S04",
+    "C17-D043-S05"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 224.94,
+   "end_sec": 235.204,
+   "duration_sec": 10.264
+  },
+  {
+   "turn_id": "C17-D044",
+   "turn_index": 43,
+   "speaker": "マテオ",
+   "source_text": "では、私は駅の前へ行きます。パンを買いたいです。また来週、連絡します。",
+   "sentence_ids": [
+    "C17-D044-S01",
+    "C17-D044-S02",
+    "C17-D044-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 235.554,
+   "end_sec": 241.087,
+   "duration_sec": 5.533
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C17-D001-S01",
+   "unit_id": "C17-D001",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リン、今日、二時から一緒に勉強しませんか。",
+   "start_sec": 0.0,
+   "end_sec": 2.998,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D001-S02",
+   "unit_id": "C17-D001",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "みどりセンターの部屋を使います。",
+   "start_sec": 3.148,
+   "end_sec": 5.105,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D002-S01",
+   "unit_id": "C17-D002",
+   "section": "D",
+   "speaker": "リン",
+   "text": "いいですね。",
+   "start_sec": 5.455,
+   "end_sec": 6.555,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D002-S02",
+   "unit_id": "C17-D002",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私も勉強したいです。",
+   "start_sec": 6.705,
+   "end_sec": 8.441,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D002-S03",
+   "unit_id": "C17-D002",
+   "section": "D",
+   "speaker": "リン",
+   "text": "準備はもう終わりましたか。",
+   "start_sec": 8.591,
+   "end_sec": 10.435,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D003-S01",
+   "unit_id": "C17-D003",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "いいえ、まだ終わっていません。",
+   "start_sec": 10.785,
+   "end_sec": 12.543,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D003-S02",
+   "unit_id": "C17-D003",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "中村さんにはもう連絡しました。",
+   "start_sec": 12.693,
+   "end_sec": 14.714,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D004-S01",
+   "unit_id": "C17-D004",
+   "section": "D",
+   "speaker": "リン",
+   "text": "では、準備を手伝いましょうか。",
+   "start_sec": 15.064,
+   "end_sec": 17.414,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D004-S02",
+   "unit_id": "C17-D004",
+   "section": "D",
+   "speaker": "リン",
+   "text": "一時半に行きます。",
+   "start_sec": 17.564,
+   "end_sec": 18.924,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D005-S01",
+   "unit_id": "C17-D005",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "お願いします。",
+   "start_sec": 19.274,
+   "end_sec": 20.246,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D005-S02",
+   "unit_id": "C17-D005",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "一時半に受付の前で待ちます。",
+   "start_sec": 20.396,
+   "end_sec": 22.956,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D006-S01",
+   "unit_id": "C17-D006",
+   "section": "D",
+   "speaker": "リン",
+   "text": "パクさんにも連絡しませんか。",
+   "start_sec": 23.306,
+   "end_sec": 25.477,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D006-S02",
+   "unit_id": "C17-D006",
+   "section": "D",
+   "speaker": "リン",
+   "text": "パクさんは今日は都合がいいですか。",
+   "start_sec": 25.627,
+   "end_sec": 27.817,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D007-S01",
+   "unit_id": "C17-D007",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "まだ連絡していません。",
+   "start_sec": 28.167,
+   "end_sec": 29.396,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D007-S02",
+   "unit_id": "C17-D007",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今、メッセージを送ります。",
+   "start_sec": 29.546,
+   "end_sec": 30.944,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D008-S01",
+   "unit_id": "C17-D008",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "パク、今日、みどりセンターで一緒に勉強しませんか。",
+   "start_sec": 31.294,
+   "end_sec": 34.576,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D008-S02",
+   "unit_id": "C17-D008",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "二時からです。",
+   "start_sec": 34.726,
+   "end_sec": 35.691,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D009-S01",
+   "unit_id": "C17-D009",
+   "section": "D",
+   "speaker": "パク",
+   "text": "ありがとう。",
+   "start_sec": 36.041,
+   "end_sec": 36.462,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D009-S02",
+   "unit_id": "C17-D009",
+   "section": "D",
+   "speaker": "パク",
+   "text": "午後はちょっと。",
+   "start_sec": 36.612,
+   "end_sec": 38.244,
+   "review_flags": [
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D009-S03",
+   "unit_id": "C17-D009",
+   "section": "D",
+   "speaker": "パク",
+   "text": "今日は用事があるから、行かない。",
+   "start_sec": 38.394,
+   "end_sec": 40.25,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D010-S01",
+   "unit_id": "C17-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 40.6,
+   "end_sec": 41.074,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D010-S02",
+   "unit_id": "C17-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "また来週。",
+   "start_sec": 41.224,
+   "end_sec": 42.01,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D010-S03",
+   "unit_id": "C17-D010",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今日はリンと勉強する。",
+   "start_sec": 42.16,
+   "end_sec": 43.491,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D011-S01",
+   "unit_id": "C17-D011",
+   "section": "D",
+   "speaker": "パク",
+   "text": "はい。",
+   "start_sec": 43.841,
+   "end_sec": 44.527,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D011-S02",
+   "unit_id": "C17-D011",
+   "section": "D",
+   "speaker": "パク",
+   "text": "来週はまだちょっと。",
+   "start_sec": 44.677,
+   "end_sec": 46.118,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D011-S03",
+   "unit_id": "C17-D011",
+   "section": "D",
+   "speaker": "パク",
+   "text": "後で連絡する。",
+   "start_sec": 46.268,
+   "end_sec": 47.361,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D012-S01",
+   "unit_id": "C17-D012",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ありがとう。",
+   "start_sec": 47.711,
+   "end_sec": 48.519,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D012-S02",
+   "unit_id": "C17-D012",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "では、来週、もう一度メッセージを送る。",
+   "start_sec": 48.669,
+   "end_sec": 51.028,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D013-S01",
+   "unit_id": "C17-D013",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リン、パクさんから返事が来ました。",
+   "start_sec": 51.378,
+   "end_sec": 53.656,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D013-S02",
+   "unit_id": "C17-D013",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今日は用事があります。",
+   "start_sec": 53.806,
+   "end_sec": 55.156,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D014-S01",
+   "unit_id": "C17-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "では、今日は二人ですね。",
+   "start_sec": 55.506,
+   "end_sec": 57.742,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D014-S02",
+   "unit_id": "C17-D014",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私は一時半に準備を手伝いに行きます。",
+   "start_sec": 57.892,
+   "end_sec": 60.779,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D015-S01",
+   "unit_id": "C17-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 61.129,
+   "end_sec": 61.892,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D015-S02",
+   "unit_id": "C17-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "勉強の後で、駅の前へパンを買いに行きませんか。",
+   "start_sec": 62.042,
+   "end_sec": 65.459,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D016-S01",
+   "unit_id": "C17-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今日は買いに行きたくないです。",
+   "start_sec": 65.809,
+   "end_sec": 68.031,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D016-S02",
+   "unit_id": "C17-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "家にパンがありますから。",
+   "start_sec": 68.181,
+   "end_sec": 69.864,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D017-S01",
+   "unit_id": "C17-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "では、私は四時にパンを買いに行きます。",
+   "start_sec": 70.214,
+   "end_sec": 73.793,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D017-S02",
+   "unit_id": "C17-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "一時半は受付の前ですね。",
+   "start_sec": 73.943,
+   "end_sec": 76.073,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D018-S01",
+   "unit_id": "C17-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 76.423,
+   "end_sec": 77.172,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D018-S02",
+   "unit_id": "C17-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "一時半ですね。",
+   "start_sec": 77.322,
+   "end_sec": 78.804,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D018-S03",
+   "unit_id": "C17-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "先にお昼ご飯を食べます。",
+   "start_sec": 78.954,
+   "end_sec": 80.969,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D019-S01",
+   "unit_id": "C17-D019",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "中村さん、こんにちは。",
+   "start_sec": 81.869,
+   "end_sec": 83.84,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D019-S02",
+   "unit_id": "C17-D019",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今、部屋に入ってもいいですか。",
+   "start_sec": 83.99,
+   "end_sec": 86.225,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D020-S01",
+   "unit_id": "C17-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "まだ入ってはいけません。",
+   "start_sec": 86.575,
+   "end_sec": 88.592,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D020-S02",
+   "unit_id": "C17-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今、入口で机を運んでいます。",
+   "start_sec": 88.742,
+   "end_sec": 91.522,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D020-S03",
+   "unit_id": "C17-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "一時半から一緒に準備をしましょう。",
+   "start_sec": 91.672,
+   "end_sec": 94.434,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D021-S01",
+   "unit_id": "C17-D021",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ここは危険ですね。",
+   "start_sec": 94.784,
+   "end_sec": 96.452,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D021-S02",
+   "unit_id": "C17-D021",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "受付の前で待ちます。",
+   "start_sec": 96.602,
+   "end_sec": 98.039,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D021-S03",
+   "unit_id": "C17-D021",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさんも一時半に来ます。",
+   "start_sec": 98.189,
+   "end_sec": 99.869,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D022-S01",
+   "unit_id": "C17-D022",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい。",
+   "start_sec": 100.219,
+   "end_sec": 100.861,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D022-S02",
+   "unit_id": "C17-D022",
+   "section": "D",
+   "speaker": "中村",
+   "text": "部屋の準備の前に、この注意を読んでください。",
+   "start_sec": 101.011,
+   "end_sec": 104.774,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D022-S03",
+   "unit_id": "C17-D022",
+   "section": "D",
+   "speaker": "中村",
+   "text": "部屋では水やお茶を飲んではいけません。",
+   "start_sec": 104.924,
+   "end_sec": 108.022,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D023-S01",
+   "unit_id": "C17-D023",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "読みました。",
+   "start_sec": 108.372,
+   "end_sec": 109.303,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D023-S02",
+   "unit_id": "C17-D023",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "水は廊下で飲みます。",
+   "start_sec": 109.453,
+   "end_sec": 110.953,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D023-S03",
+   "unit_id": "C17-D023",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "この机は使ってもいいですか。",
+   "start_sec": 111.103,
+   "end_sec": 113.046,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D024-S01",
+   "unit_id": "C17-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、使ってもいいです。",
+   "start_sec": 113.396,
+   "end_sec": 115.357,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D024-S02",
+   "unit_id": "C17-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "一時半ですね。",
+   "start_sec": 115.507,
+   "end_sec": 116.914,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D024-S03",
+   "unit_id": "C17-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "では、入ってください。",
+   "start_sec": 117.064,
+   "end_sec": 118.345,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D025-S01",
+   "unit_id": "C17-D025",
+   "section": "D",
+   "speaker": "リン",
+   "text": "こんにちは。",
+   "start_sec": 118.695,
+   "end_sec": 119.629,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D025-S02",
+   "unit_id": "C17-D025",
+   "section": "D",
+   "speaker": "リン",
+   "text": "準備を手伝いに来ました。",
+   "start_sec": 119.779,
+   "end_sec": 121.549,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D025-S03",
+   "unit_id": "C17-D025",
+   "section": "D",
+   "speaker": "リン",
+   "text": "何をしましょうか。",
+   "start_sec": 121.699,
+   "end_sec": 122.977,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D026-S01",
+   "unit_id": "C17-D026",
+   "section": "D",
+   "speaker": "中村",
+   "text": "ありがとうございます。",
+   "start_sec": 123.327,
+   "end_sec": 124.644,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D026-S02",
+   "unit_id": "C17-D026",
+   "section": "D",
+   "speaker": "中村",
+   "text": "まず、二人でこの机を運んでください。",
+   "start_sec": 124.794,
+   "end_sec": 127.655,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D027-S01",
+   "unit_id": "C17-D027",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "順番は、先に机ですね。",
+   "start_sec": 128.005,
+   "end_sec": 130.22,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D027-S02",
+   "unit_id": "C17-D027",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "その後で何をしますか。",
+   "start_sec": 130.37,
+   "end_sec": 132.302,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D027-S03",
+   "unit_id": "C17-D027",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "椅子ですか。",
+   "start_sec": 132.452,
+   "end_sec": 133.44,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D028-S01",
+   "unit_id": "C17-D028",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、椅子を運んでください。",
+   "start_sec": 133.79,
+   "end_sec": 135.972,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D028-S02",
+   "unit_id": "C17-D028",
+   "section": "D",
+   "speaker": "中村",
+   "text": "二時からここで勉強してもいいです。",
+   "start_sec": 136.122,
+   "end_sec": 138.346,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D029-S01",
+   "unit_id": "C17-D029",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 138.696,
+   "end_sec": 139.367,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D029-S02",
+   "unit_id": "C17-D029",
+   "section": "D",
+   "speaker": "リン",
+   "text": "机を運んだ後で、椅子を運びます。",
+   "start_sec": 139.517,
+   "end_sec": 142.284,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D030-S01",
+   "unit_id": "C17-D030",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "この机は大きいですね。",
+   "start_sec": 142.634,
+   "end_sec": 145.681,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D030-S02",
+   "unit_id": "C17-D030",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "一緒に運びましょう。",
+   "start_sec": 145.831,
+   "end_sec": 147.006,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D030-S03",
+   "unit_id": "C17-D030",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "椅子は入口にありますね。",
+   "start_sec": 147.156,
+   "end_sec": 149.152,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D031-S01",
+   "unit_id": "C17-D031",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 149.502,
+   "end_sec": 150.196,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D031-S02",
+   "unit_id": "C17-D031",
+   "section": "D",
+   "speaker": "リン",
+   "text": "中村さん、入口の椅子はもう運びましたか。",
+   "start_sec": 150.346,
+   "end_sec": 153.783,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D032-S01",
+   "unit_id": "C17-D032",
+   "section": "D",
+   "speaker": "中村",
+   "text": "いいえ、まだです。",
+   "start_sec": 154.133,
+   "end_sec": 156.013,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D032-S02",
+   "unit_id": "C17-D032",
+   "section": "D",
+   "speaker": "中村",
+   "text": "入口の椅子を二つお願いします。",
+   "start_sec": 156.163,
+   "end_sec": 159.024,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D033-S01",
+   "unit_id": "C17-D033",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 159.374,
+   "end_sec": 159.961,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D033-S02",
+   "unit_id": "C17-D033",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "私はこの椅子を運びます。",
+   "start_sec": 160.111,
+   "end_sec": 162.213,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D033-S03",
+   "unit_id": "C17-D033",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさん、もう一つの椅子をお願いします。",
+   "start_sec": 162.363,
+   "end_sec": 164.731,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D034-S01",
+   "unit_id": "C17-D034",
+   "section": "D",
+   "speaker": "リン",
+   "text": "準備はもう終わりました。",
+   "start_sec": 165.081,
+   "end_sec": 167.064,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D034-S02",
+   "unit_id": "C17-D034",
+   "section": "D",
+   "speaker": "リン",
+   "text": "二時ですね。",
+   "start_sec": 167.214,
+   "end_sec": 168.307,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D034-S03",
+   "unit_id": "C17-D034",
+   "section": "D",
+   "speaker": "リン",
+   "text": "部屋の入口はもう大丈夫ですか。",
+   "start_sec": 168.457,
+   "end_sec": 170.761,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D035-S01",
+   "unit_id": "C17-D035",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい、大丈夫です。",
+   "start_sec": 171.111,
+   "end_sec": 172.78,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D035-S02",
+   "unit_id": "C17-D035",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "勉強の前に、水を飲みたいです。",
+   "start_sec": 172.93,
+   "end_sec": 175.409,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D035-S03",
+   "unit_id": "C17-D035",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "先に廊下へ行きます。",
+   "start_sec": 175.559,
+   "end_sec": 177.128,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D036-S01",
+   "unit_id": "C17-D036",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私はここで待ちます。",
+   "start_sec": 177.478,
+   "end_sec": 179.365,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D036-S02",
+   "unit_id": "C17-D036",
+   "section": "D",
+   "speaker": "リン",
+   "text": "後でメッセージを一緒に読みましょう。",
+   "start_sec": 179.515,
+   "end_sec": 181.684,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D037-S01",
+   "unit_id": "C17-D037",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "この二つですね。",
+   "start_sec": 182.034,
+   "end_sec": 183.338,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D037-S02",
+   "unit_id": "C17-D037",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "相手はリンさんと中村さんです。",
+   "start_sec": 183.488,
+   "end_sec": 185.715,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D037-S03",
+   "unit_id": "C17-D037",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "中村さんには丁寧なメッセージを送りました。",
+   "start_sec": 185.865,
+   "end_sec": 188.615,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D038-S01",
+   "unit_id": "C17-D038",
+   "section": "D",
+   "speaker": "リン",
+   "text": "このメッセージは短いですね。",
+   "start_sec": 188.965,
+   "end_sec": 191.35,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D038-S02",
+   "unit_id": "C17-D038",
+   "section": "D",
+   "speaker": "リン",
+   "text": "中村さんにも準備と勉強の時間を書きましたか。",
+   "start_sec": 191.5,
+   "end_sec": 195.025,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D039-S01",
+   "unit_id": "C17-D039",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい、書きました。",
+   "start_sec": 195.375,
+   "end_sec": 196.547,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D039-S02",
+   "unit_id": "C17-D039",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "準備は一時半からです。",
+   "start_sec": 196.697,
+   "end_sec": 198.638,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D039-S03",
+   "unit_id": "C17-D039",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "日本語の勉強は二時から四時までです。",
+   "start_sec": 198.788,
+   "end_sec": 201.183,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D039-S04",
+   "unit_id": "C17-D039",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "パクさんは来ません。",
+   "start_sec": 201.333,
+   "end_sec": 202.498,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D040-S01",
+   "unit_id": "C17-D040",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 202.848,
+   "end_sec": 203.66,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D040-S02",
+   "unit_id": "C17-D040",
+   "section": "D",
+   "speaker": "リン",
+   "text": "では、まず短いメッセージを読みましょう。",
+   "start_sec": 203.81,
+   "end_sec": 206.733,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D040-S03",
+   "unit_id": "C17-D040",
+   "section": "D",
+   "speaker": "リン",
+   "text": "その後で、私も中村さんに丁寧なメッセージを書きます。",
+   "start_sec": 206.883,
+   "end_sec": 211.209,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D040-S04",
+   "unit_id": "C17-D040",
+   "section": "D",
+   "speaker": "リン",
+   "text": "勉強の後で送ります。",
+   "start_sec": 211.359,
+   "end_sec": 213.003,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D041-S01",
+   "unit_id": "C17-D041",
+   "section": "D",
+   "speaker": "リン",
+   "text": "四時ですね。",
+   "start_sec": 213.903,
+   "end_sec": 215.411,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D041-S02",
+   "unit_id": "C17-D041",
+   "section": "D",
+   "speaker": "リン",
+   "text": "勉強は終わりました。",
+   "start_sec": 215.561,
+   "end_sec": 217.124,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D041-S03",
+   "unit_id": "C17-D041",
+   "section": "D",
+   "speaker": "リン",
+   "text": "中村さんにもメッセージを書きました。",
+   "start_sec": 217.274,
+   "end_sec": 219.697,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D042-S01",
+   "unit_id": "C17-D042",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "時間も書きましたか。",
+   "start_sec": 220.047,
+   "end_sec": 221.989,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D042-S02",
+   "unit_id": "C17-D042",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "中村さんは今、受付にいます。",
+   "start_sec": 222.139,
+   "end_sec": 224.59,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D043-S01",
+   "unit_id": "C17-D043",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 224.94,
+   "end_sec": 225.717,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D043-S02",
+   "unit_id": "C17-D043",
+   "section": "D",
+   "speaker": "リン",
+   "text": "「今日は二時から四時まで部屋を使いました。",
+   "start_sec": 225.867,
+   "end_sec": 229.17,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D043-S03",
+   "unit_id": "C17-D043",
+   "section": "D",
+   "speaker": "リン",
+   "text": "静かな部屋で、一緒に勉強しました。",
+   "start_sec": 229.32,
+   "end_sec": 232.226,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D043-S04",
+   "unit_id": "C17-D043",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ありがとうございました。」",
+   "start_sec": 232.376,
+   "end_sec": 233.962,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D043-S05",
+   "unit_id": "C17-D043",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今、送ります。",
+   "start_sec": 234.112,
+   "end_sec": 235.204,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D044-S01",
+   "unit_id": "C17-D044",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "では、私は駅の前へ行きます。",
+   "start_sec": 235.554,
+   "end_sec": 238.23,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D044-S02",
+   "unit_id": "C17-D044",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "パンを買いたいです。",
+   "start_sec": 238.38,
+   "end_sec": 239.494,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C17-D044-S03",
+   "unit_id": "C17-D044",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "また来週、連絡します。",
+   "start_sec": 239.644,
+   "end_sec": 241.087,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

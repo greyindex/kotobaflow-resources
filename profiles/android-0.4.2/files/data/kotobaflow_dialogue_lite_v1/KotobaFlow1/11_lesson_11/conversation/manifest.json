@@ -1,0 +1,1158 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 143.345,
+ "listening_review": "pending",
+ "source_chapter": 11,
+ "turns": [
+  {
+   "turn_id": "C11-D001",
+   "turn_index": 0,
+   "speaker": "林梅",
+   "source_text": "マテオさん、こんばんは。それは何ですか。",
+   "sentence_ids": [
+    "C11-D001-S01",
+    "C11-D001-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.217,
+   "duration_sec": 3.217
+  },
+  {
+   "turn_id": "C11-D002",
+   "turn_index": 1,
+   "speaker": "マテオ",
+   "source_text": "土曜日のメモです。リンさんとさくら駅へ行きます。",
+   "sentence_ids": [
+    "C11-D002-S01",
+    "C11-D002-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 3.567,
+   "end_sec": 7.558,
+   "duration_sec": 3.991
+  },
+  {
+   "turn_id": "C11-D003",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "はい。何時に港駅で会いますか。",
+   "sentence_ids": [
+    "C11-D003-S01",
+    "C11-D003-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.908,
+   "end_sec": 10.72,
+   "duration_sec": 2.812
+  },
+  {
+   "turn_id": "C11-D004",
+   "turn_index": 3,
+   "speaker": "マテオ",
+   "source_text": "十一時です。それから、電車でさくら駅へ行きます。",
+   "sentence_ids": [
+    "C11-D004-S01",
+    "C11-D004-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.07,
+   "end_sec": 15.933,
+   "duration_sec": 4.863
+  },
+  {
+   "turn_id": "C11-D005",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "十一時半までみどりセンターで日本語を勉強しますよ。十一時はみどりセンターにいます。",
+   "sentence_ids": [
+    "C11-D005-S01",
+    "C11-D005-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.283,
+   "end_sec": 22.089,
+   "duration_sec": 5.806
+  },
+  {
+   "turn_id": "C11-D006",
+   "turn_index": 5,
+   "speaker": "マテオ",
+   "source_text": "あ、十一時はみどりセンターですね。パクさん、土曜日の電車は何時ですか。",
+   "sentence_ids": [
+    "C11-D006-S01",
+    "C11-D006-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 22.439,
+   "end_sec": 27.931,
+   "duration_sec": 5.492
+  },
+  {
+   "turn_id": "C11-D007",
+   "turn_index": 6,
+   "speaker": "パク",
+   "source_text": "港駅に十二時と十二時半に電車があります。",
+   "sentence_ids": [
+    "C11-D007-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.281,
+   "end_sec": 32.084,
+   "duration_sec": 3.803
+  },
+  {
+   "turn_id": "C11-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "十一時半までみどりセンターにいます。十二時に港駅で会いますか。",
+   "sentence_ids": [
+    "C11-D008-S01",
+    "C11-D008-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 32.434,
+   "end_sec": 39.2,
+   "duration_sec": 6.766
+  },
+  {
+   "turn_id": "C11-D009",
+   "turn_index": 8,
+   "speaker": "マテオ",
+   "source_text": "はい。十二時半の電車でさくら駅へ行きます。昼ご飯は一時、買い物は二時です。",
+   "sentence_ids": [
+    "C11-D009-S01",
+    "C11-D009-S02",
+    "C11-D009-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.55,
+   "end_sec": 46.838,
+   "duration_sec": 7.288
+  },
+  {
+   "turn_id": "C11-D010",
+   "turn_index": 9,
+   "speaker": "パク",
+   "source_text": "どのスーパーへ行きますか。",
+   "sentence_ids": [
+    "C11-D010-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.188,
+   "end_sec": 49.057,
+   "duration_sec": 1.869
+  },
+  {
+   "turn_id": "C11-D011",
+   "turn_index": 10,
+   "speaker": "マテオ",
+   "source_text": "駅の前の大きいスーパーです。値段は安いです。スーパーの買い物の予算は千円です。",
+   "sentence_ids": [
+    "C11-D011-S01",
+    "C11-D011-S02",
+    "C11-D011-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 49.407,
+   "end_sec": 56.016,
+   "duration_sec": 6.609
+  },
+  {
+   "turn_id": "C11-D012",
+   "turn_index": 11,
+   "speaker": "林梅",
+   "source_text": "何を買いますか。先週のメモもありますか。",
+   "sentence_ids": [
+    "C11-D012-S01",
+    "C11-D012-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 56.366,
+   "end_sec": 60.339,
+   "duration_sec": 3.973
+  },
+  {
+   "turn_id": "C11-D013",
+   "turn_index": 12,
+   "speaker": "マテオ",
+   "source_text": "これは先週の日曜日のメモです。土曜日に卵とキャベツとジュースと水を買いました。",
+   "sentence_ids": [
+    "C11-D013-S01",
+    "C11-D013-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 60.689,
+   "end_sec": 68.87,
+   "duration_sec": 8.181
+  },
+  {
+   "turn_id": "C11-D014",
+   "turn_index": 13,
+   "speaker": "パク",
+   "source_text": "ジュースは二本ですか。魚も買いましたか。",
+   "sentence_ids": [
+    "C11-D014-S01",
+    "C11-D014-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 69.22,
+   "end_sec": 72.656,
+   "duration_sec": 3.436
+  },
+  {
+   "turn_id": "C11-D015",
+   "turn_index": 14,
+   "speaker": "マテオ",
+   "source_text": "いいえ、ジュースは一本です。魚は買いませんでした。高かったです。今週も魚は買いません。",
+   "sentence_ids": [
+    "C11-D015-S01",
+    "C11-D015-S02",
+    "C11-D015-S03",
+    "C11-D015-S04"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 73.006,
+   "end_sec": 79.955,
+   "duration_sec": 6.949
+  },
+  {
+   "turn_id": "C11-D016",
+   "turn_index": 15,
+   "speaker": "林梅",
+   "source_text": "今週はパンも二つですね。牛乳は？",
+   "sentence_ids": [
+    "C11-D016-S01",
+    "C11-D016-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.305,
+   "end_sec": 84.008,
+   "duration_sec": 3.703
+  },
+  {
+   "turn_id": "C11-D017",
+   "turn_index": 16,
+   "speaker": "マテオ",
+   "source_text": "牛乳も欲しいです。二つ買います。パンと牛乳は日曜日の朝ご飯です。",
+   "sentence_ids": [
+    "C11-D017-S01",
+    "C11-D017-S02",
+    "C11-D017-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 84.358,
+   "end_sec": 90.199,
+   "duration_sec": 5.841
+  },
+  {
+   "turn_id": "C11-D018",
+   "turn_index": 17,
+   "speaker": "パク",
+   "source_text": "メニューもありますよ。昼ご飯はどれですか。",
+   "sentence_ids": [
+    "C11-D018-S01",
+    "C11-D018-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 90.549,
+   "end_sec": 93.604,
+   "duration_sec": 3.055
+  },
+  {
+   "turn_id": "C11-D019",
+   "turn_index": 18,
+   "speaker": "林梅",
+   "source_text": "私は魚とご飯です。千百円ですね。ジュースは一杯五百円ですか。",
+   "sentence_ids": [
+    "C11-D019-S01",
+    "C11-D019-S02",
+    "C11-D019-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.954,
+   "end_sec": 100.994,
+   "duration_sec": 7.04
+  },
+  {
+   "turn_id": "C11-D020",
+   "turn_index": 19,
+   "speaker": "パク",
+   "source_text": "はい。一杯五百円です。安くないですね。水もありますよ。",
+   "sentence_ids": [
+    "C11-D020-S01",
+    "C11-D020-S02",
+    "C11-D020-S03",
+    "C11-D020-S04"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 101.344,
+   "end_sec": 106.338,
+   "duration_sec": 4.994
+  },
+  {
+   "turn_id": "C11-D021",
+   "turn_index": 20,
+   "speaker": "マテオ",
+   "source_text": "私はパンと牛乳です。二人でその店へ行きます。パクさんも行きますか。",
+   "sentence_ids": [
+    "C11-D021-S01",
+    "C11-D021-S02",
+    "C11-D021-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 106.688,
+   "end_sec": 111.563,
+   "duration_sec": 4.875
+  },
+  {
+   "turn_id": "C11-D022",
+   "turn_index": 21,
+   "speaker": "パク",
+   "source_text": "いいえ、午後は家で休みます。土曜日は仕事が休みです。午前はみどりセンターで勉強します。週末の宿題は二つですね。",
+   "sentence_ids": [
+    "C11-D022-S01",
+    "C11-D022-S02",
+    "C11-D022-S03",
+    "C11-D022-S04"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 111.913,
+   "end_sec": 120.838,
+   "duration_sec": 8.925
+  },
+  {
+   "turn_id": "C11-D023",
+   "turn_index": 22,
+   "speaker": "マテオ",
+   "source_text": "はい。土曜日の夜、家で宿題をします。中村さん、さくら駅の地図を一枚ください。",
+   "sentence_ids": [
+    "C11-D023-S01",
+    "C11-D023-S02",
+    "C11-D023-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 121.188,
+   "end_sec": 127.273,
+   "duration_sec": 6.085
+  },
+  {
+   "turn_id": "C11-D024",
+   "turn_index": 23,
+   "speaker": "中村",
+   "source_text": "はい、地図です。スーパーはここ、店はその隣です。",
+   "sentence_ids": [
+    "C11-D024-S01",
+    "C11-D024-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 127.623,
+   "end_sec": 132.485,
+   "duration_sec": 4.862
+  },
+  {
+   "turn_id": "C11-D025",
+   "turn_index": 24,
+   "speaker": "林梅",
+   "source_text": "ありがとうございます。土曜日は十二時に港駅ですね。",
+   "sentence_ids": [
+    "C11-D025-S01",
+    "C11-D025-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 132.835,
+   "end_sec": 137.89,
+   "duration_sec": 5.055
+  },
+  {
+   "turn_id": "C11-D026",
+   "turn_index": 25,
+   "speaker": "マテオ",
+   "source_text": "はい。十二時半の電車ですね。三時に電車で港駅へ帰ります。",
+   "sentence_ids": [
+    "C11-D026-S01",
+    "C11-D026-S02",
+    "C11-D026-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.24,
+   "end_sec": 143.339,
+   "duration_sec": 5.099
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C11-D001-S01",
+   "unit_id": "C11-D001",
+   "section": "D",
+   "speaker": "リン",
+   "text": "マテオさん、こんばんは。",
+   "start_sec": 0.0,
+   "end_sec": 1.662,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D001-S02",
+   "unit_id": "C11-D001",
+   "section": "D",
+   "speaker": "リン",
+   "text": "それは何ですか。",
+   "start_sec": 1.812,
+   "end_sec": 3.217,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D002-S01",
+   "unit_id": "C11-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "土曜日のメモです。",
+   "start_sec": 3.567,
+   "end_sec": 5.018,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D002-S02",
+   "unit_id": "C11-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさんとさくら駅へ行きます。",
+   "start_sec": 5.168,
+   "end_sec": 7.558,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D003-S01",
+   "unit_id": "C11-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 7.908,
+   "end_sec": 8.615,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D003-S02",
+   "unit_id": "C11-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "何時に港駅で会いますか。",
+   "start_sec": 8.765,
+   "end_sec": 10.72,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D004-S01",
+   "unit_id": "C11-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "十一時です。",
+   "start_sec": 11.07,
+   "end_sec": 12.886,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D004-S02",
+   "unit_id": "C11-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "それから、電車でさくら駅へ行きます。",
+   "start_sec": 13.036,
+   "end_sec": 15.933,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D005-S01",
+   "unit_id": "C11-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "十一時半までみどりセンターで日本語を勉強しますよ。",
+   "start_sec": 16.283,
+   "end_sec": 19.914,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D005-S02",
+   "unit_id": "C11-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "十一時はみどりセンターにいます。",
+   "start_sec": 20.064,
+   "end_sec": 22.089,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D006-S01",
+   "unit_id": "C11-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "あ、十一時はみどりセンターですね。",
+   "start_sec": 22.439,
+   "end_sec": 25.442,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D006-S02",
+   "unit_id": "C11-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "パクさん、土曜日の電車は何時ですか。",
+   "start_sec": 25.592,
+   "end_sec": 27.931,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D007-S01",
+   "unit_id": "C11-D007",
+   "section": "D",
+   "speaker": "パク",
+   "text": "港駅に十二時と十二時半に電車があります。",
+   "start_sec": 28.281,
+   "end_sec": 32.084,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D008-S01",
+   "unit_id": "C11-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "十一時半までみどりセンターにいます。",
+   "start_sec": 32.434,
+   "end_sec": 35.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D008-S02",
+   "unit_id": "C11-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "十二時に港駅で会いますか。",
+   "start_sec": 35.594,
+   "end_sec": 39.2,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D009-S01",
+   "unit_id": "C11-D009",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 39.55,
+   "end_sec": 40.471,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D009-S02",
+   "unit_id": "C11-D009",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "十二時半の電車でさくら駅へ行きます。",
+   "start_sec": 40.621,
+   "end_sec": 44.011,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D009-S03",
+   "unit_id": "C11-D009",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "昼ご飯は一時、買い物は二時です。",
+   "start_sec": 44.161,
+   "end_sec": 46.838,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D010-S01",
+   "unit_id": "C11-D010",
+   "section": "D",
+   "speaker": "パク",
+   "text": "どのスーパーへ行きますか。",
+   "start_sec": 47.188,
+   "end_sec": 49.057,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D011-S01",
+   "unit_id": "C11-D011",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "駅の前の大きいスーパーです。",
+   "start_sec": 49.407,
+   "end_sec": 51.702,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D011-S02",
+   "unit_id": "C11-D011",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "値段は安いです。",
+   "start_sec": 51.852,
+   "end_sec": 53.218,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D011-S03",
+   "unit_id": "C11-D011",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "スーパーの買い物の予算は千円です。",
+   "start_sec": 53.368,
+   "end_sec": 56.016,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D012-S01",
+   "unit_id": "C11-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "何を買いますか。",
+   "start_sec": 56.366,
+   "end_sec": 58.093,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D012-S02",
+   "unit_id": "C11-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "先週のメモもありますか。",
+   "start_sec": 58.243,
+   "end_sec": 60.339,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D013-S01",
+   "unit_id": "C11-D013",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "これは先週の日曜日のメモです。",
+   "start_sec": 60.689,
+   "end_sec": 63.205,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D013-S02",
+   "unit_id": "C11-D013",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "土曜日に卵とキャベツとジュースと水を買いました。",
+   "start_sec": 63.355,
+   "end_sec": 68.87,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D014-S01",
+   "unit_id": "C11-D014",
+   "section": "D",
+   "speaker": "パク",
+   "text": "ジュースは二本ですか。",
+   "start_sec": 69.22,
+   "end_sec": 71.025,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D014-S02",
+   "unit_id": "C11-D014",
+   "section": "D",
+   "speaker": "パク",
+   "text": "魚も買いましたか。",
+   "start_sec": 71.175,
+   "end_sec": 72.656,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D015-S01",
+   "unit_id": "C11-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "いいえ、ジュースは一本です。",
+   "start_sec": 73.006,
+   "end_sec": 74.885,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D015-S02",
+   "unit_id": "C11-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "魚は買いませんでした。",
+   "start_sec": 75.035,
+   "end_sec": 76.61,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D015-S03",
+   "unit_id": "C11-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "高かったです。",
+   "start_sec": 76.76,
+   "end_sec": 77.868,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D015-S04",
+   "unit_id": "C11-D015",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今週も魚は買いません。",
+   "start_sec": 78.018,
+   "end_sec": 79.955,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D016-S01",
+   "unit_id": "C11-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今週はパンも二つですね。",
+   "start_sec": 80.305,
+   "end_sec": 82.896,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D016-S02",
+   "unit_id": "C11-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "牛乳は？",
+   "start_sec": 83.046,
+   "end_sec": 84.008,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D017-S01",
+   "unit_id": "C11-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "牛乳も欲しいです。",
+   "start_sec": 84.358,
+   "end_sec": 85.793,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D017-S02",
+   "unit_id": "C11-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "二つ買います。",
+   "start_sec": 85.943,
+   "end_sec": 86.886,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D017-S03",
+   "unit_id": "C11-D017",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "パンと牛乳は日曜日の朝ご飯です。",
+   "start_sec": 87.036,
+   "end_sec": 90.199,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D018-S01",
+   "unit_id": "C11-D018",
+   "section": "D",
+   "speaker": "パク",
+   "text": "メニューもありますよ。",
+   "start_sec": 90.549,
+   "end_sec": 91.938,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D018-S02",
+   "unit_id": "C11-D018",
+   "section": "D",
+   "speaker": "パク",
+   "text": "昼ご飯はどれですか。",
+   "start_sec": 92.088,
+   "end_sec": 93.604,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D019-S01",
+   "unit_id": "C11-D019",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私は魚とご飯です。",
+   "start_sec": 93.954,
+   "end_sec": 96.652,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D019-S02",
+   "unit_id": "C11-D019",
+   "section": "D",
+   "speaker": "リン",
+   "text": "千百円ですね。",
+   "start_sec": 96.802,
+   "end_sec": 98.252,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D019-S03",
+   "unit_id": "C11-D019",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ジュースは一杯五百円ですか。",
+   "start_sec": 98.402,
+   "end_sec": 100.994,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D020-S01",
+   "unit_id": "C11-D020",
+   "section": "D",
+   "speaker": "パク",
+   "text": "はい。",
+   "start_sec": 101.344,
+   "end_sec": 101.963,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D020-S02",
+   "unit_id": "C11-D020",
+   "section": "D",
+   "speaker": "パク",
+   "text": "一杯五百円です。",
+   "start_sec": 102.113,
+   "end_sec": 103.506,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D020-S03",
+   "unit_id": "C11-D020",
+   "section": "D",
+   "speaker": "パク",
+   "text": "安くないですね。",
+   "start_sec": 103.656,
+   "end_sec": 104.914,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D020-S04",
+   "unit_id": "C11-D020",
+   "section": "D",
+   "speaker": "パク",
+   "text": "水もありますよ。",
+   "start_sec": 105.064,
+   "end_sec": 106.338,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D021-S01",
+   "unit_id": "C11-D021",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "私はパンと牛乳です。",
+   "start_sec": 106.688,
+   "end_sec": 108.585,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D021-S02",
+   "unit_id": "C11-D021",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "二人でその店へ行きます。",
+   "start_sec": 108.735,
+   "end_sec": 110.341,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D021-S03",
+   "unit_id": "C11-D021",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "パクさんも行きますか。",
+   "start_sec": 110.491,
+   "end_sec": 111.563,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D022-S01",
+   "unit_id": "C11-D022",
+   "section": "D",
+   "speaker": "パク",
+   "text": "いいえ、午後は家で休みます。",
+   "start_sec": 111.913,
+   "end_sec": 114.202,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D022-S02",
+   "unit_id": "C11-D022",
+   "section": "D",
+   "speaker": "パク",
+   "text": "土曜日は仕事が休みです。",
+   "start_sec": 114.352,
+   "end_sec": 116.212,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D022-S03",
+   "unit_id": "C11-D022",
+   "section": "D",
+   "speaker": "パク",
+   "text": "午前はみどりセンターで勉強します。",
+   "start_sec": 116.362,
+   "end_sec": 118.667,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D022-S04",
+   "unit_id": "C11-D022",
+   "section": "D",
+   "speaker": "パク",
+   "text": "週末の宿題は二つですね。",
+   "start_sec": 118.817,
+   "end_sec": 120.838,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D023-S01",
+   "unit_id": "C11-D023",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 121.188,
+   "end_sec": 121.84,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D023-S02",
+   "unit_id": "C11-D023",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "土曜日の夜、家で宿題をします。",
+   "start_sec": 121.99,
+   "end_sec": 124.127,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D023-S03",
+   "unit_id": "C11-D023",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "中村さん、さくら駅の地図を一枚ください。",
+   "start_sec": 124.277,
+   "end_sec": 127.273,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D024-S01",
+   "unit_id": "C11-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、地図です。",
+   "start_sec": 127.623,
+   "end_sec": 129.177,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D024-S02",
+   "unit_id": "C11-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "スーパーはここ、店はその隣です。",
+   "start_sec": 129.327,
+   "end_sec": 132.485,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D025-S01",
+   "unit_id": "C11-D025",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ありがとうございます。",
+   "start_sec": 132.835,
+   "end_sec": 134.789,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D025-S02",
+   "unit_id": "C11-D025",
+   "section": "D",
+   "speaker": "リン",
+   "text": "土曜日は十二時に港駅ですね。",
+   "start_sec": 134.939,
+   "end_sec": 137.89,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D026-S01",
+   "unit_id": "C11-D026",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 138.24,
+   "end_sec": 138.943,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D026-S02",
+   "unit_id": "C11-D026",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "十二時半の電車ですね。",
+   "start_sec": 139.093,
+   "end_sec": 140.905,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C11-D026-S03",
+   "unit_id": "C11-D026",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "三時に電車で港駅へ帰ります。",
+   "start_sec": 141.055,
+   "end_sec": 143.339,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

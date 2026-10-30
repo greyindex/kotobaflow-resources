@@ -1,0 +1,2381 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 385.201,
+ "listening_review": "pending",
+ "source_chapter": 35,
+ "turns": [
+  {
+   "turn_id": "C35-D001",
+   "turn_index": 0,
+   "speaker": "田中",
+   "source_text": "四枚とも読み終わりましたか。まず、二つの案の条件を確認しましょう。",
+   "sentence_ids": [
+    "C35-D001-S01",
+    "C35-D001-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 5.486,
+   "duration_sec": 5.486
+  },
+  {
+   "turn_id": "C35-D002",
+   "turn_index": 1,
+   "speaker": "ラナ",
+   "source_text": "はい。六人で十時から十二時までですね。予算は一人三百円です。",
+   "sentence_ids": [
+    "C35-D002-S01",
+    "C35-D002-S02",
+    "C35-D002-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 5.836,
+   "end_sec": 12.796,
+   "duration_sec": 6.96
+  },
+  {
+   "turn_id": "C35-D003",
+   "turn_index": 2,
+   "speaker": "田中",
+   "source_text": "ええ。どちらも教室を使いますから、予約が必要ですね。",
+   "sentence_ids": [
+    "C35-D003-S01",
+    "C35-D003-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "replacement_audio"
+   ],
+   "start_sec": 13.146,
+   "end_sec": 17.49,
+   "duration_sec": 4.344
+  },
+  {
+   "turn_id": "C35-D004",
+   "turn_index": 3,
+   "speaker": "ラナ",
+   "source_text": "私は公園で写真を撮ってみようと思います。写真を見ながら話すのは楽しそうです。",
+   "sentence_ids": [
+    "C35-D004-S01",
+    "C35-D004-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 17.84,
+   "end_sec": 24.425,
+   "duration_sec": 6.585
+  },
+  {
+   "turn_id": "C35-D005",
+   "turn_index": 4,
+   "speaker": "田中",
+   "source_text": "公園で写真を撮る案ですね。私も楽しそうだと思います。",
+   "sentence_ids": [
+    "C35-D005-S01",
+    "C35-D005-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 24.775,
+   "end_sec": 29.345,
+   "duration_sec": 4.57
+  },
+  {
+   "turn_id": "C35-D006",
+   "turn_index": 5,
+   "speaker": "ラナ",
+   "source_text": "公園はきれいですし、写真を見ながら話せますし、初めて参加する人も話しやすいでしょう。",
+   "sentence_ids": [
+    "C35-D006-S01"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 29.695,
+   "end_sec": 36.368,
+   "duration_sec": 6.673
+  },
+  {
+   "turn_id": "C35-D007",
+   "turn_index": 6,
+   "speaker": "田中",
+   "source_text": "でも、先月の記録では、三人が疲れたと言っています。公園でも大丈夫でしょうか。",
+   "sentence_ids": [
+    "C35-D007-S01",
+    "C35-D007-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.718,
+   "end_sec": 43.948,
+   "duration_sec": 7.23
+  },
+  {
+   "turn_id": "C35-D008",
+   "turn_index": 7,
+   "speaker": "ラナ",
+   "source_text": "歩く時間は往復二十分ですね。写真を撮る時間は三十分ですから、合計五十分ですね。",
+   "sentence_ids": [
+    "C35-D008-S01",
+    "C35-D008-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 44.298,
+   "end_sec": 51.734,
+   "duration_sec": 7.436
+  },
+  {
+   "turn_id": "C35-D009",
+   "turn_index": 8,
+   "speaker": "田中",
+   "source_text": "そうですね。体調がよくない人には、五十分は長すぎるかもしれません。",
+   "sentence_ids": [
+    "C35-D009-S01",
+    "C35-D009-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.084,
+   "end_sec": 57.439,
+   "duration_sec": 5.355
+  },
+  {
+   "turn_id": "C35-D010",
+   "turn_index": 9,
+   "speaker": "ラナ",
+   "source_text": "そうですね。無理はしないほうがいいですね。教室の案も比べましょう。",
+   "sentence_ids": [
+    "C35-D010-S01",
+    "C35-D010-S02",
+    "C35-D010-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 57.789,
+   "end_sec": 63.396,
+   "duration_sec": 5.607
+  },
+  {
+   "turn_id": "C35-D011",
+   "turn_index": 10,
+   "speaker": "田中",
+   "source_text": "案Ｂでは公園まで歩きません。途中でも休憩しやすいです。私は案Ｂがいいと思います。",
+   "sentence_ids": [
+    "C35-D011-S01",
+    "C35-D011-S02",
+    "C35-D011-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.746,
+   "end_sec": 70.839,
+   "duration_sec": 7.093
+  },
+  {
+   "turn_id": "C35-D012",
+   "turn_index": 11,
+   "speaker": "ラナ",
+   "source_text": "料金はどうですか。案Ａは案Ｂより高くないですか。交通費も比べましょう。",
+   "sentence_ids": [
+    "C35-D012-S01",
+    "C35-D012-S02",
+    "C35-D012-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 71.189,
+   "end_sec": 77.827,
+   "duration_sec": 6.638
+  },
+  {
+   "turn_id": "C35-D013",
+   "turn_index": 12,
+   "speaker": "田中",
+   "source_text": "公園は無料ですし、バスも使いません。どちらも一人百円で、料金は同じです。",
+   "sentence_ids": [
+    "C35-D013-S01",
+    "C35-D013-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 78.177,
+   "end_sec": 84.064,
+   "duration_sec": 5.887
+  },
+  {
+   "turn_id": "C35-D014",
+   "turn_index": 13,
+   "speaker": "ラナ",
+   "source_text": "では、値段は同じですね。話す練習の時間は、案Ｂのほうが長いですね。",
+   "sentence_ids": [
+    "C35-D014-S01",
+    "C35-D014-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 84.414,
+   "end_sec": 91.412,
+   "duration_sec": 6.998
+  },
+  {
+   "turn_id": "C35-D015",
+   "turn_index": 14,
+   "speaker": "田中",
+   "source_text": "はい。案Ａでは五十分外にいますが、案Ｂの準備は三十分です。",
+   "sentence_ids": [
+    "C35-D015-S01",
+    "C35-D015-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 91.762,
+   "end_sec": 97.653,
+   "duration_sec": 5.891
+  },
+  {
+   "turn_id": "C35-D016",
+   "turn_index": 15,
+   "speaker": "ラナ",
+   "source_text": "案Ｂは案Ａほど移動に時間を使いませんね。でも、何を持っていきますか。",
+   "sentence_ids": [
+    "C35-D016-S01",
+    "C35-D016-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 98.003,
+   "end_sec": 104.171,
+   "duration_sec": 6.168
+  },
+  {
+   "turn_id": "C35-D017",
+   "turn_index": 16,
+   "speaker": "田中",
+   "source_text": "私は小さい時計を持っていくつもりです。毎日使っていますから、話しやすいです。",
+   "sentence_ids": [
+    "C35-D017-S01",
+    "C35-D017-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 104.521,
+   "end_sec": 109.718,
+   "duration_sec": 5.197
+  },
+  {
+   "turn_id": "C35-D018",
+   "turn_index": 17,
+   "speaker": "ラナ",
+   "source_text": "私はパンの写真を見せて話したいです。みんなでパンを食べながら話しませんか。",
+   "sentence_ids": [
+    "C35-D018-S01",
+    "C35-D018-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 110.068,
+   "end_sec": 116.037,
+   "duration_sec": 5.969
+  },
+  {
+   "turn_id": "C35-D019",
+   "turn_index": 18,
+   "speaker": "田中",
+   "source_text": "この教室ではパンなどを食べてはいけません。資料三をもう一度読みましょう。",
+   "sentence_ids": [
+    "C35-D019-S01",
+    "C35-D019-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 116.387,
+   "end_sec": 121.151,
+   "duration_sec": 4.764
+  },
+  {
+   "turn_id": "C35-D020",
+   "turn_index": 19,
+   "speaker": "ラナ",
+   "source_text": "本当ですね。では、パンの写真にします。パンは持っていきません。",
+   "sentence_ids": [
+    "C35-D020-S01",
+    "C35-D020-S02",
+    "C35-D020-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 121.501,
+   "end_sec": 126.809,
+   "duration_sec": 5.308
+  },
+  {
+   "turn_id": "C35-D021",
+   "turn_index": 20,
+   "speaker": "田中",
+   "source_text": "写真でも話せますね。教室の音量にも注意しましょう。音楽は使わないことにしませんか。",
+   "sentence_ids": [
+    "C35-D021-S01",
+    "C35-D021-S02",
+    "C35-D021-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 127.159,
+   "end_sec": 133.7,
+   "duration_sec": 6.541
+  },
+  {
+   "turn_id": "C35-D022",
+   "turn_index": 21,
+   "speaker": "ラナ",
+   "source_text": "分かりました。今は予算と時間と体調を比べていますが、田中さんは何が一番心配ですか。",
+   "sentence_ids": [
+    "C35-D022-S01",
+    "C35-D022-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 134.05,
+   "end_sec": 142.493,
+   "duration_sec": 8.443
+  },
+  {
+   "turn_id": "C35-D023",
+   "turn_index": 22,
+   "speaker": "田中",
+   "source_text": "体調です。六人とも最後まで参加できる案がいいです。案Ｂでは天気も心配しなくていいと思います。",
+   "sentence_ids": [
+    "C35-D023-S01",
+    "C35-D023-S02",
+    "C35-D023-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 142.843,
+   "end_sec": 150.991,
+   "duration_sec": 8.148
+  },
+  {
+   "turn_id": "C35-D024",
+   "turn_index": 23,
+   "speaker": "ラナ",
+   "source_text": "私は公園で新しい写真を撮りたいんです。でも、今度は長く話す練習をしたいですね。",
+   "sentence_ids": [
+    "C35-D024-S01",
+    "C35-D024-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 151.341,
+   "end_sec": 158.526,
+   "duration_sec": 7.185
+  },
+  {
+   "turn_id": "C35-D025",
+   "turn_index": 24,
+   "speaker": "田中",
+   "source_text": "公園の案もまた考えましょう。今度は教室で話しましょう。話す時間の目標は三分にしませんか。",
+   "sentence_ids": [
+    "C35-D025-S01",
+    "C35-D025-S02",
+    "C35-D025-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 158.876,
+   "end_sec": 166.374,
+   "duration_sec": 7.498
+  },
+  {
+   "turn_id": "C35-D026",
+   "turn_index": 25,
+   "speaker": "ラナ",
+   "source_text": "そうしましょう。先月は二分間話せるようになりましたから、少し長くしてみたいです。",
+   "sentence_ids": [
+    "C35-D026-S01",
+    "C35-D026-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 166.724,
+   "end_sec": 173.2,
+   "duration_sec": 6.476
+  },
+  {
+   "turn_id": "C35-D027",
+   "turn_index": 26,
+   "speaker": "田中",
+   "source_text": "メモの工夫も続けましょう。始めは、みんな長い文章を書きたがっていましたね。「もう少し書きます」と言って、ペンを持っていました。",
+   "sentence_ids": [
+    "C35-D027-S01",
+    "C35-D027-S02",
+    "C35-D027-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 173.55,
+   "end_sec": 183.273,
+   "duration_sec": 9.723
+  },
+  {
+   "turn_id": "C35-D028",
+   "turn_index": 27,
+   "speaker": "ラナ",
+   "source_text": "ええ。私のメモを見て「その紙をください」と言った人もいましたね。その紙をほしがっていました。でも、今は短いメモで話せます。",
+   "sentence_ids": [
+    "C35-D028-S01",
+    "C35-D028-S02",
+    "C35-D028-S03",
+    "C35-D028-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 183.623,
+   "end_sec": 194.052,
+   "duration_sec": 10.429
+  },
+  {
+   "turn_id": "C35-D029",
+   "turn_index": 28,
+   "speaker": "田中",
+   "source_text": "記録の期間は一か月で短いですが、話せる時間が長くなりましたね。練習を続ける理由になりますね。",
+   "sentence_ids": [
+    "C35-D029-S01",
+    "C35-D029-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 194.402,
+   "end_sec": 201.591,
+   "duration_sec": 7.189
+  },
+  {
+   "turn_id": "C35-D030",
+   "turn_index": 29,
+   "speaker": "ラナ",
+   "source_text": "では、三十分準備してから、十分休憩しましょう。その後、二人で練習します。",
+   "sentence_ids": [
+    "C35-D030-S01",
+    "C35-D030-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 201.941,
+   "end_sec": 208.295,
+   "duration_sec": 6.354
+  },
+  {
+   "turn_id": "C35-D031",
+   "turn_index": 30,
+   "speaker": "田中",
+   "source_text": "はい。疲れたら、途中でも休憩しましょう。三分間話すのが難しい日もあるでしょう。",
+   "sentence_ids": [
+    "C35-D031-S01",
+    "C35-D031-S02",
+    "C35-D031-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 208.645,
+   "end_sec": 215.292,
+   "duration_sec": 6.647
+  },
+  {
+   "turn_id": "C35-D032",
+   "turn_index": 31,
+   "speaker": "ラナ",
+   "source_text": "そうですね。時間だけで比べないようにします。体調も記録しますね。",
+   "sentence_ids": [
+    "C35-D032-S01",
+    "C35-D032-S02",
+    "C35-D032-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 215.642,
+   "end_sec": 220.683,
+   "duration_sec": 5.041
+  },
+  {
+   "turn_id": "C35-D033",
+   "turn_index": 32,
+   "speaker": "田中",
+   "source_text": "では、今度は案Ｂにすることにしましょう。予約は私が担当します。",
+   "sentence_ids": [
+    "C35-D033-S01",
+    "C35-D033-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 221.033,
+   "end_sec": 226.143,
+   "duration_sec": 5.11
+  },
+  {
+   "turn_id": "C35-D034",
+   "turn_index": 33,
+   "speaker": "ラナ",
+   "source_text": "お願いします。予約の締切は五月二十三日の十七時ですね。間に合いそうですか。",
+   "sentence_ids": [
+    "C35-D034-S01",
+    "C35-D034-S02",
+    "C35-D034-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 226.493,
+   "end_sec": 233.643,
+   "duration_sec": 7.15
+  },
+  {
+   "turn_id": "C35-D035",
+   "turn_index": 34,
+   "speaker": "田中",
+   "source_text": "はい。明日の昼に申し込むつもりです。今はまだ予約していませんから、教室を使えるかどうか分かりません。",
+   "sentence_ids": [
+    "C35-D035-S01",
+    "C35-D035-S02",
+    "C35-D035-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 233.993,
+   "end_sec": 242.336,
+   "duration_sec": 8.343
+  },
+  {
+   "turn_id": "C35-D036",
+   "turn_index": 35,
+   "speaker": "ラナ",
+   "source_text": "予約できない可能性もありますね。そのときは、また二人で相談しましょう。",
+   "sentence_ids": [
+    "C35-D036-S01",
+    "C35-D036-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 242.686,
+   "end_sec": 247.824,
+   "duration_sec": 5.138
+  },
+  {
+   "turn_id": "C35-D037",
+   "turn_index": 36,
+   "speaker": "田中",
+   "source_text": "ええ。予約できたら、すぐ連絡します。参加する人へのメールを書いていただけませんか。",
+   "sentence_ids": [
+    "C35-D037-S01",
+    "C35-D037-S02",
+    "C35-D037-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 248.174,
+   "end_sec": 254.262,
+   "duration_sec": 6.088
+  },
+  {
+   "turn_id": "C35-D038",
+   "turn_index": 37,
+   "speaker": "ラナ",
+   "source_text": "はい。今日書き始めます。予約を確認してから、日と時間と教室の番号をもう一度読みます。",
+   "sentence_ids": [
+    "C35-D038-S01",
+    "C35-D038-S02",
+    "C35-D038-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 254.612,
+   "end_sec": 262.906,
+   "duration_sec": 8.294
+  },
+  {
+   "turn_id": "C35-D039",
+   "turn_index": 38,
+   "speaker": "田中",
+   "source_text": "ありがとうございます。送る期限は五月二十四日ですね。それまでに私も読みます。",
+   "sentence_ids": [
+    "C35-D039-S01",
+    "C35-D039-S02",
+    "C35-D039-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 263.256,
+   "end_sec": 269.947,
+   "duration_sec": 6.691
+  },
+  {
+   "turn_id": "C35-D040",
+   "turn_index": 39,
+   "speaker": "ラナ",
+   "source_text": "はい。書き終わったら、まず田中さんに送ります。確認を手伝ってもらえるので、助かります。",
+   "sentence_ids": [
+    "C35-D040-S01",
+    "C35-D040-S02",
+    "C35-D040-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 270.297,
+   "end_sec": 277.058,
+   "duration_sec": 6.761
+  },
+  {
+   "turn_id": "C35-D041",
+   "turn_index": 40,
+   "speaker": "田中",
+   "source_text": "休憩の時間は水やお茶を飲めます。教室にも水がありますから、水を持ってこなくてもいいですね。",
+   "sentence_ids": [
+    "C35-D041-S01",
+    "C35-D041-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 277.408,
+   "end_sec": 285.02,
+   "duration_sec": 7.612
+  },
+  {
+   "turn_id": "C35-D042",
+   "turn_index": 41,
+   "speaker": "ラナ",
+   "source_text": "ええ。持っていく時計や写真と教室のルールも書きます。メールには長い文章を書かないようにしますね。",
+   "sentence_ids": [
+    "C35-D042-S01",
+    "C35-D042-S02",
+    "C35-D042-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 285.37,
+   "end_sec": 293.256,
+   "duration_sec": 7.886
+  },
+  {
+   "turn_id": "C35-D043",
+   "turn_index": 42,
+   "speaker": "田中",
+   "source_text": "今日の相談で、今度は教室で練習することになりましたね。次の予定は、今度の記録を見てから考えましょう。",
+   "sentence_ids": [
+    "C35-D043-S01",
+    "C35-D043-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 293.606,
+   "end_sec": 302.335,
+   "duration_sec": 8.729
+  },
+  {
+   "turn_id": "C35-D044",
+   "turn_index": 43,
+   "speaker": "ラナ",
+   "source_text": "はい。今度はこの計画を試してみましょう。六人が何を話すか聞きたいです。",
+   "sentence_ids": [
+    "C35-D044-S01",
+    "C35-D044-S02",
+    "C35-D044-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 302.685,
+   "end_sec": 308.448,
+   "duration_sec": 5.763
+  },
+  {
+   "turn_id": "C35-D045",
+   "turn_index": 44,
+   "speaker": "田中",
+   "source_text": "その前に、予算の条件が変わったときも考えましょう。一人五十円になったら、どちらの案も無理ですね。",
+   "sentence_ids": [
+    "C35-D045-S01",
+    "C35-D045-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 308.798,
+   "end_sec": 317.271,
+   "duration_sec": 8.473
+  },
+  {
+   "turn_id": "C35-D046",
+   "turn_index": 45,
+   "speaker": "ラナ",
+   "source_text": "教室の料金だけで一人百円ですからね。そのときは、別の日に公園で三十分練習する案はどうですか。教室は使いません。",
+   "sentence_ids": [
+    "C35-D046-S01",
+    "C35-D046-S02",
+    "C35-D046-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 317.621,
+   "end_sec": 327.659,
+   "duration_sec": 10.038
+  },
+  {
+   "turn_id": "C35-D047",
+   "turn_index": 46,
+   "speaker": "田中",
+   "source_text": "それは予備の案ですね。無料ですが、雨の日はできません。天気予報を見てから日を決めなければなりませんね。",
+   "sentence_ids": [
+    "C35-D047-S01",
+    "C35-D047-S02",
+    "C35-D047-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 328.009,
+   "end_sec": 335.933,
+   "duration_sec": 7.924
+  },
+  {
+   "turn_id": "C35-D048",
+   "turn_index": 47,
+   "speaker": "ラナ",
+   "source_text": "はい。でも、今の予算は三百円ですから、今日は案Ｂにしましょう。予算が変わったら、また相談します。",
+   "sentence_ids": [
+    "C35-D048-S01",
+    "C35-D048-S02",
+    "C35-D048-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 336.283,
+   "end_sec": 345.663,
+   "duration_sec": 9.38
+  },
+  {
+   "turn_id": "C35-D049",
+   "turn_index": 48,
+   "speaker": "田中",
+   "source_text": "では、案Ｂの練習の時間も確認しましょう。十時から三十分準備して、十時三十分から十分休憩しますね。",
+   "sentence_ids": [
+    "C35-D049-S01",
+    "C35-D049-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 346.013,
+   "end_sec": 354.83,
+   "duration_sec": 8.817
+  },
+  {
+   "turn_id": "C35-D050",
+   "turn_index": 49,
+   "speaker": "ラナ",
+   "source_text": "はい。十時四十分から十一時二十分まで二人で練習するつもりです。疲れたら途中で休みます。最後に順番に話します。",
+   "sentence_ids": [
+    "C35-D050-S01",
+    "C35-D050-S02",
+    "C35-D050-S03",
+    "C35-D050-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 355.18,
+   "end_sec": 365.971,
+   "duration_sec": 10.791
+  },
+  {
+   "turn_id": "C35-D051",
+   "turn_index": 50,
+   "speaker": "田中",
+   "source_text": "三分間の話を六人ですから、十八分ですね。十二時までに教室の机をきれいにする時間もあります。",
+   "sentence_ids": [
+    "C35-D051-S01",
+    "C35-D051-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 366.321,
+   "end_sec": 375.106,
+   "duration_sec": 8.785
+  },
+  {
+   "turn_id": "C35-D052",
+   "turn_index": 51,
+   "speaker": "ラナ",
+   "source_text": "分かりました。メールにはこの予定も書きます。予約の返事がまだ来ていなかったら、二十四日までに六人にそのことを知らせます。",
+   "sentence_ids": [
+    "C35-D052-S01",
+    "C35-D052-S02",
+    "C35-D052-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 375.456,
+   "end_sec": 385.194,
+   "duration_sec": 9.738
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C35-D001-S01",
+   "unit_id": "C35-D001",
+   "section": "D",
+   "speaker": "田中",
+   "text": "四枚とも読み終わりましたか。",
+   "start_sec": 0.0,
+   "end_sec": 2.025,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D001-S02",
+   "unit_id": "C35-D001",
+   "section": "D",
+   "speaker": "田中",
+   "text": "まず、二つの案の条件を確認しましょう。",
+   "start_sec": 2.175,
+   "end_sec": 5.486,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D002-S01",
+   "unit_id": "C35-D002",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "はい。",
+   "start_sec": 5.836,
+   "end_sec": 6.726,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D002-S02",
+   "unit_id": "C35-D002",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "六人で十時から十二時までですね。",
+   "start_sec": 6.876,
+   "end_sec": 10.041,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D002-S03",
+   "unit_id": "C35-D002",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "予算は一人三百円です。",
+   "start_sec": 10.191,
+   "end_sec": 12.796,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D003-S01",
+   "unit_id": "C35-D003",
+   "section": "D",
+   "speaker": "田中",
+   "text": "ええ。",
+   "start_sec": 13.146,
+   "end_sec": 13.956,
+   "review_flags": [
+    "replacement_audio",
+    "clip_asr_difference"
+   ],
+   "replacement": {
+    "text": "ええ。",
+    "voice": "ja-jp-storyteller-12",
+    "audio_file": "repairs\\C35-D003-S01.wav",
+    "origin": "bounded_same_voice_Lite_repair",
+    "repair": "M07-ack",
+    "repair_interval": [
+     0,
+     1.16
+    ],
+    "sha256": "147e2b420e53bd9c9f7e4cd6682908abe3ac4944be16e4421528dac0d6cb58d8"
+   }
+  },
+  {
+   "sentence_id": "C35-D003-S02",
+   "unit_id": "C35-D003",
+   "section": "D",
+   "speaker": "田中",
+   "text": "どちらも教室を使いますから、予約が必要ですね。",
+   "start_sec": 14.106,
+   "end_sec": 17.49,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D004-S01",
+   "unit_id": "C35-D004",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "私は公園で写真を撮ってみようと思います。",
+   "start_sec": 17.84,
+   "end_sec": 21.489,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D004-S02",
+   "unit_id": "C35-D004",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "写真を見ながら話すのは楽しそうです。",
+   "start_sec": 21.639,
+   "end_sec": 24.425,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D005-S01",
+   "unit_id": "C35-D005",
+   "section": "D",
+   "speaker": "田中",
+   "text": "公園で写真を撮る案ですね。",
+   "start_sec": 24.775,
+   "end_sec": 27.048,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D005-S02",
+   "unit_id": "C35-D005",
+   "section": "D",
+   "speaker": "田中",
+   "text": "私も楽しそうだと思います。",
+   "start_sec": 27.198,
+   "end_sec": 29.345,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D006-S01",
+   "unit_id": "C35-D006",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "公園はきれいですし、写真を見ながら話せますし、初めて参加する人も話しやすいでしょう。",
+   "start_sec": 29.695,
+   "end_sec": 36.368,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D007-S01",
+   "unit_id": "C35-D007",
+   "section": "D",
+   "speaker": "田中",
+   "text": "でも、先月の記録では、三人が疲れたと言っています。",
+   "start_sec": 36.718,
+   "end_sec": 42.002,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D007-S02",
+   "unit_id": "C35-D007",
+   "section": "D",
+   "speaker": "田中",
+   "text": "公園でも大丈夫でしょうか。",
+   "start_sec": 42.152,
+   "end_sec": 43.948,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D008-S01",
+   "unit_id": "C35-D008",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "歩く時間は往復二十分ですね。",
+   "start_sec": 44.298,
+   "end_sec": 47.144,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D008-S02",
+   "unit_id": "C35-D008",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "写真を撮る時間は三十分ですから、合計五十分ですね。",
+   "start_sec": 47.294,
+   "end_sec": 51.734,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D009-S01",
+   "unit_id": "C35-D009",
+   "section": "D",
+   "speaker": "田中",
+   "text": "そうですね。",
+   "start_sec": 52.084,
+   "end_sec": 53.379,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D009-S02",
+   "unit_id": "C35-D009",
+   "section": "D",
+   "speaker": "田中",
+   "text": "体調がよくない人には、五十分は長すぎるかもしれません。",
+   "start_sec": 53.529,
+   "end_sec": 57.439,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D010-S01",
+   "unit_id": "C35-D010",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "そうですね。",
+   "start_sec": 57.789,
+   "end_sec": 59.047,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D010-S02",
+   "unit_id": "C35-D010",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "無理はしないほうがいいですね。",
+   "start_sec": 59.197,
+   "end_sec": 61.337,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D010-S03",
+   "unit_id": "C35-D010",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "教室の案も比べましょう。",
+   "start_sec": 61.487,
+   "end_sec": 63.396,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D011-S01",
+   "unit_id": "C35-D011",
+   "section": "D",
+   "speaker": "田中",
+   "text": "案Ｂでは公園まで歩きません。",
+   "start_sec": 63.746,
+   "end_sec": 66.187,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D011-S02",
+   "unit_id": "C35-D011",
+   "section": "D",
+   "speaker": "田中",
+   "text": "途中でも休憩しやすいです。",
+   "start_sec": 66.337,
+   "end_sec": 68.565,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D011-S03",
+   "unit_id": "C35-D011",
+   "section": "D",
+   "speaker": "田中",
+   "text": "私は案Ｂがいいと思います。",
+   "start_sec": 68.715,
+   "end_sec": 70.839,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D012-S01",
+   "unit_id": "C35-D012",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "料金はどうですか。",
+   "start_sec": 71.189,
+   "end_sec": 72.783,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D012-S02",
+   "unit_id": "C35-D012",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "案Ａは案Ｂより高くないですか。",
+   "start_sec": 72.933,
+   "end_sec": 75.824,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D012-S03",
+   "unit_id": "C35-D012",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "交通費も比べましょう。",
+   "start_sec": 75.974,
+   "end_sec": 77.827,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D013-S01",
+   "unit_id": "C35-D013",
+   "section": "D",
+   "speaker": "田中",
+   "text": "公園は無料ですし、バスも使いません。",
+   "start_sec": 78.177,
+   "end_sec": 80.858,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D013-S02",
+   "unit_id": "C35-D013",
+   "section": "D",
+   "speaker": "田中",
+   "text": "どちらも一人百円で、料金は同じです。",
+   "start_sec": 81.008,
+   "end_sec": 84.064,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D014-S01",
+   "unit_id": "C35-D014",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "では、値段は同じですね。",
+   "start_sec": 84.414,
+   "end_sec": 87.295,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D014-S02",
+   "unit_id": "C35-D014",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "話す練習の時間は、案Ｂのほうが長いですね。",
+   "start_sec": 87.445,
+   "end_sec": 91.412,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D015-S01",
+   "unit_id": "C35-D015",
+   "section": "D",
+   "speaker": "田中",
+   "text": "はい。",
+   "start_sec": 91.762,
+   "end_sec": 92.443,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D015-S02",
+   "unit_id": "C35-D015",
+   "section": "D",
+   "speaker": "田中",
+   "text": "案Ａでは五十分外にいますが、案Ｂの準備は三十分です。",
+   "start_sec": 92.593,
+   "end_sec": 97.653,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D016-S01",
+   "unit_id": "C35-D016",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "案Ｂは案Ａほど移動に時間を使いませんね。",
+   "start_sec": 98.003,
+   "end_sec": 101.752,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D016-S02",
+   "unit_id": "C35-D016",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "でも、何を持っていきますか。",
+   "start_sec": 101.902,
+   "end_sec": 104.171,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D017-S01",
+   "unit_id": "C35-D017",
+   "section": "D",
+   "speaker": "田中",
+   "text": "私は小さい時計を持っていくつもりです。",
+   "start_sec": 104.521,
+   "end_sec": 107.084,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D017-S02",
+   "unit_id": "C35-D017",
+   "section": "D",
+   "speaker": "田中",
+   "text": "毎日使っていますから、話しやすいです。",
+   "start_sec": 107.234,
+   "end_sec": 109.718,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D018-S01",
+   "unit_id": "C35-D018",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "私はパンの写真を見せて話したいです。",
+   "start_sec": 110.068,
+   "end_sec": 113.119,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D018-S02",
+   "unit_id": "C35-D018",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "みんなでパンを食べながら話しませんか。",
+   "start_sec": 113.269,
+   "end_sec": 116.037,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D019-S01",
+   "unit_id": "C35-D019",
+   "section": "D",
+   "speaker": "田中",
+   "text": "この教室ではパンなどを食べてはいけません。",
+   "start_sec": 116.387,
+   "end_sec": 119.114,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D019-S02",
+   "unit_id": "C35-D019",
+   "section": "D",
+   "speaker": "田中",
+   "text": "資料三をもう一度読みましょう。",
+   "start_sec": 119.264,
+   "end_sec": 121.151,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D020-S01",
+   "unit_id": "C35-D020",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "本当ですね。",
+   "start_sec": 121.501,
+   "end_sec": 122.875,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D020-S02",
+   "unit_id": "C35-D020",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "では、パンの写真にします。",
+   "start_sec": 123.025,
+   "end_sec": 125.168,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D020-S03",
+   "unit_id": "C35-D020",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "パンは持っていきません。",
+   "start_sec": 125.318,
+   "end_sec": 126.809,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D021-S01",
+   "unit_id": "C35-D021",
+   "section": "D",
+   "speaker": "田中",
+   "text": "写真でも話せますね。",
+   "start_sec": 127.159,
+   "end_sec": 128.803,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D021-S02",
+   "unit_id": "C35-D021",
+   "section": "D",
+   "speaker": "田中",
+   "text": "教室の音量にも注意しましょう。",
+   "start_sec": 128.953,
+   "end_sec": 131.362,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D021-S03",
+   "unit_id": "C35-D021",
+   "section": "D",
+   "speaker": "田中",
+   "text": "音楽は使わないことにしませんか。",
+   "start_sec": 131.512,
+   "end_sec": 133.7,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D022-S01",
+   "unit_id": "C35-D022",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "分かりました。",
+   "start_sec": 134.05,
+   "end_sec": 135.249,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D022-S02",
+   "unit_id": "C35-D022",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "今は予算と時間と体調を比べていますが、田中さんは何が一番心配ですか。",
+   "start_sec": 135.399,
+   "end_sec": 142.493,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D023-S01",
+   "unit_id": "C35-D023",
+   "section": "D",
+   "speaker": "田中",
+   "text": "体調です。",
+   "start_sec": 142.843,
+   "end_sec": 144.218,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D023-S02",
+   "unit_id": "C35-D023",
+   "section": "D",
+   "speaker": "田中",
+   "text": "六人とも最後まで参加できる案がいいです。",
+   "start_sec": 144.368,
+   "end_sec": 147.751,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D023-S03",
+   "unit_id": "C35-D023",
+   "section": "D",
+   "speaker": "田中",
+   "text": "案Ｂでは天気も心配しなくていいと思います。",
+   "start_sec": 147.901,
+   "end_sec": 150.991,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D024-S01",
+   "unit_id": "C35-D024",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "私は公園で新しい写真を撮りたいんです。",
+   "start_sec": 151.341,
+   "end_sec": 154.877,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D024-S02",
+   "unit_id": "C35-D024",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "でも、今度は長く話す練習をしたいですね。",
+   "start_sec": 155.027,
+   "end_sec": 158.526,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D025-S01",
+   "unit_id": "C35-D025",
+   "section": "D",
+   "speaker": "田中",
+   "text": "公園の案もまた考えましょう。",
+   "start_sec": 158.876,
+   "end_sec": 161.136,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D025-S02",
+   "unit_id": "C35-D025",
+   "section": "D",
+   "speaker": "田中",
+   "text": "今度は教室で話しましょう。",
+   "start_sec": 161.286,
+   "end_sec": 163.323,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D025-S03",
+   "unit_id": "C35-D025",
+   "section": "D",
+   "speaker": "田中",
+   "text": "話す時間の目標は三分にしませんか。",
+   "start_sec": 163.473,
+   "end_sec": 166.374,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D026-S01",
+   "unit_id": "C35-D026",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "そうしましょう。",
+   "start_sec": 166.724,
+   "end_sec": 167.856,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D026-S02",
+   "unit_id": "C35-D026",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "先月は二分間話せるようになりましたから、少し長くしてみたいです。",
+   "start_sec": 168.006,
+   "end_sec": 173.2,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D027-S01",
+   "unit_id": "C35-D027",
+   "section": "D",
+   "speaker": "田中",
+   "text": "メモの工夫も続けましょう。",
+   "start_sec": 173.55,
+   "end_sec": 175.582,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D027-S02",
+   "unit_id": "C35-D027",
+   "section": "D",
+   "speaker": "田中",
+   "text": "始めは、みんな長い文章を書きたがっていましたね。",
+   "start_sec": 175.732,
+   "end_sec": 179.476,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D027-S03",
+   "unit_id": "C35-D027",
+   "section": "D",
+   "speaker": "田中",
+   "text": "「もう少し書きます」と言って、ペンを持っていました。",
+   "start_sec": 179.626,
+   "end_sec": 183.273,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D028-S01",
+   "unit_id": "C35-D028",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "ええ。",
+   "start_sec": 183.623,
+   "end_sec": 184.342,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D028-S02",
+   "unit_id": "C35-D028",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "私のメモを見て「その紙をください」と言った人もいましたね。",
+   "start_sec": 184.492,
+   "end_sec": 189.005,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D028-S03",
+   "unit_id": "C35-D028",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "その紙をほしがっていました。",
+   "start_sec": 189.155,
+   "end_sec": 191.192,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D028-S04",
+   "unit_id": "C35-D028",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "でも、今は短いメモで話せます。",
+   "start_sec": 191.342,
+   "end_sec": 194.052,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D029-S01",
+   "unit_id": "C35-D029",
+   "section": "D",
+   "speaker": "田中",
+   "text": "記録の期間は一か月で短いですが、話せる時間が長くなりましたね。",
+   "start_sec": 194.402,
+   "end_sec": 199.507,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D029-S02",
+   "unit_id": "C35-D029",
+   "section": "D",
+   "speaker": "田中",
+   "text": "練習を続ける理由になりますね。",
+   "start_sec": 199.657,
+   "end_sec": 201.591,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D030-S01",
+   "unit_id": "C35-D030",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "では、三十分準備してから、十分休憩しましょう。",
+   "start_sec": 201.941,
+   "end_sec": 206.032,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D030-S02",
+   "unit_id": "C35-D030",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "その後、二人で練習します。",
+   "start_sec": 206.182,
+   "end_sec": 208.295,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D031-S01",
+   "unit_id": "C35-D031",
+   "section": "D",
+   "speaker": "田中",
+   "text": "はい。",
+   "start_sec": 208.645,
+   "end_sec": 209.404,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D031-S02",
+   "unit_id": "C35-D031",
+   "section": "D",
+   "speaker": "田中",
+   "text": "疲れたら、途中でも休憩しましょう。",
+   "start_sec": 209.554,
+   "end_sec": 212.154,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D031-S03",
+   "unit_id": "C35-D031",
+   "section": "D",
+   "speaker": "田中",
+   "text": "三分間話すのが難しい日もあるでしょう。",
+   "start_sec": 212.304,
+   "end_sec": 215.292,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D032-S01",
+   "unit_id": "C35-D032",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "そうですね。",
+   "start_sec": 215.642,
+   "end_sec": 216.753,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D032-S02",
+   "unit_id": "C35-D032",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "時間だけで比べないようにします。",
+   "start_sec": 216.903,
+   "end_sec": 219.01,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D032-S03",
+   "unit_id": "C35-D032",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "体調も記録しますね。",
+   "start_sec": 219.16,
+   "end_sec": 220.683,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D033-S01",
+   "unit_id": "C35-D033",
+   "section": "D",
+   "speaker": "田中",
+   "text": "では、今度は案Ｂにすることにしましょう。",
+   "start_sec": 221.033,
+   "end_sec": 224.265,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D033-S02",
+   "unit_id": "C35-D033",
+   "section": "D",
+   "speaker": "田中",
+   "text": "予約は私が担当します。",
+   "start_sec": 224.415,
+   "end_sec": 226.143,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D034-S01",
+   "unit_id": "C35-D034",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "お願いします。",
+   "start_sec": 226.493,
+   "end_sec": 227.647,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D034-S02",
+   "unit_id": "C35-D034",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "予約の締切は五月二十三日の十七時ですね。",
+   "start_sec": 227.797,
+   "end_sec": 232.106,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D034-S03",
+   "unit_id": "C35-D034",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "間に合いそうですか。",
+   "start_sec": 232.256,
+   "end_sec": 233.643,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D035-S01",
+   "unit_id": "C35-D035",
+   "section": "D",
+   "speaker": "田中",
+   "text": "はい。",
+   "start_sec": 233.993,
+   "end_sec": 234.702,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D035-S02",
+   "unit_id": "C35-D035",
+   "section": "D",
+   "speaker": "田中",
+   "text": "明日の昼に申し込むつもりです。",
+   "start_sec": 234.852,
+   "end_sec": 237.639,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D035-S03",
+   "unit_id": "C35-D035",
+   "section": "D",
+   "speaker": "田中",
+   "text": "今はまだ予約していませんから、教室を使えるかどうか分かりません。",
+   "start_sec": 237.789,
+   "end_sec": 242.336,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D036-S01",
+   "unit_id": "C35-D036",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "予約できない可能性もありますね。",
+   "start_sec": 242.686,
+   "end_sec": 245.038,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D036-S02",
+   "unit_id": "C35-D036",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "そのときは、また二人で相談しましょう。",
+   "start_sec": 245.188,
+   "end_sec": 247.824,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D037-S01",
+   "unit_id": "C35-D037",
+   "section": "D",
+   "speaker": "田中",
+   "text": "ええ。",
+   "start_sec": 248.174,
+   "end_sec": 248.84,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D037-S02",
+   "unit_id": "C35-D037",
+   "section": "D",
+   "speaker": "田中",
+   "text": "予約できたら、すぐ連絡します。",
+   "start_sec": 248.99,
+   "end_sec": 251.269,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D037-S03",
+   "unit_id": "C35-D037",
+   "section": "D",
+   "speaker": "田中",
+   "text": "参加する人へのメールを書いていただけませんか。",
+   "start_sec": 251.419,
+   "end_sec": 254.262,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D038-S01",
+   "unit_id": "C35-D038",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "はい。",
+   "start_sec": 254.612,
+   "end_sec": 255.242,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D038-S02",
+   "unit_id": "C35-D038",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "今日書き始めます。",
+   "start_sec": 255.392,
+   "end_sec": 256.754,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D038-S03",
+   "unit_id": "C35-D038",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "予約を確認してから、日と時間と教室の番号をもう一度読みます。",
+   "start_sec": 256.904,
+   "end_sec": 262.906,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D039-S01",
+   "unit_id": "C35-D039",
+   "section": "D",
+   "speaker": "田中",
+   "text": "ありがとうございます。",
+   "start_sec": 263.256,
+   "end_sec": 264.571,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D039-S02",
+   "unit_id": "C35-D039",
+   "section": "D",
+   "speaker": "田中",
+   "text": "送る期限は五月二十四日ですね。",
+   "start_sec": 264.721,
+   "end_sec": 267.84,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D039-S03",
+   "unit_id": "C35-D039",
+   "section": "D",
+   "speaker": "田中",
+   "text": "それまでに私も読みます。",
+   "start_sec": 267.99,
+   "end_sec": 269.947,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D040-S01",
+   "unit_id": "C35-D040",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "はい。",
+   "start_sec": 270.297,
+   "end_sec": 270.924,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D040-S02",
+   "unit_id": "C35-D040",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "書き終わったら、まず田中さんに送ります。",
+   "start_sec": 271.074,
+   "end_sec": 273.962,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D040-S03",
+   "unit_id": "C35-D040",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "確認を手伝ってもらえるので、助かります。",
+   "start_sec": 274.112,
+   "end_sec": 277.058,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D041-S01",
+   "unit_id": "C35-D041",
+   "section": "D",
+   "speaker": "田中",
+   "text": "休憩の時間は水やお茶を飲めます。",
+   "start_sec": 277.408,
+   "end_sec": 281.14,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D041-S02",
+   "unit_id": "C35-D041",
+   "section": "D",
+   "speaker": "田中",
+   "text": "教室にも水がありますから、水を持ってこなくてもいいですね。",
+   "start_sec": 281.29,
+   "end_sec": 285.02,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D042-S01",
+   "unit_id": "C35-D042",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "ええ。",
+   "start_sec": 285.37,
+   "end_sec": 286.004,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D042-S02",
+   "unit_id": "C35-D042",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "持っていく時計や写真と教室のルールも書きます。",
+   "start_sec": 286.154,
+   "end_sec": 289.808,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D042-S03",
+   "unit_id": "C35-D042",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "メールには長い文章を書かないようにしますね。",
+   "start_sec": 289.958,
+   "end_sec": 293.256,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D043-S01",
+   "unit_id": "C35-D043",
+   "section": "D",
+   "speaker": "田中",
+   "text": "今日の相談で、今度は教室で練習することになりましたね。",
+   "start_sec": 293.606,
+   "end_sec": 298.587,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D043-S02",
+   "unit_id": "C35-D043",
+   "section": "D",
+   "speaker": "田中",
+   "text": "次の予定は、今度の記録を見てから考えましょう。",
+   "start_sec": 298.737,
+   "end_sec": 302.335,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D044-S01",
+   "unit_id": "C35-D044",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "はい。",
+   "start_sec": 302.685,
+   "end_sec": 303.379,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D044-S02",
+   "unit_id": "C35-D044",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "今度はこの計画を試してみましょう。",
+   "start_sec": 303.529,
+   "end_sec": 306.013,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D044-S03",
+   "unit_id": "C35-D044",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "六人が何を話すか聞きたいです。",
+   "start_sec": 306.163,
+   "end_sec": 308.448,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D045-S01",
+   "unit_id": "C35-D045",
+   "section": "D",
+   "speaker": "田中",
+   "text": "その前に、予算の条件が変わったときも考えましょう。",
+   "start_sec": 308.798,
+   "end_sec": 313.343,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D045-S02",
+   "unit_id": "C35-D045",
+   "section": "D",
+   "speaker": "田中",
+   "text": "一人五十円になったら、どちらの案も無理ですね。",
+   "start_sec": 313.493,
+   "end_sec": 317.271,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D046-S01",
+   "unit_id": "C35-D046",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "教室の料金だけで一人百円ですからね。",
+   "start_sec": 317.621,
+   "end_sec": 321.081,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D046-S02",
+   "unit_id": "C35-D046",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "そのときは、別の日に公園で三十分練習する案はどうですか。",
+   "start_sec": 321.231,
+   "end_sec": 326.17,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D046-S03",
+   "unit_id": "C35-D046",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "教室は使いません。",
+   "start_sec": 326.32,
+   "end_sec": 327.659,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D047-S01",
+   "unit_id": "C35-D047",
+   "section": "D",
+   "speaker": "田中",
+   "text": "それは予備の案ですね。",
+   "start_sec": 328.009,
+   "end_sec": 329.901,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D047-S02",
+   "unit_id": "C35-D047",
+   "section": "D",
+   "speaker": "田中",
+   "text": "無料ですが、雨の日はできません。",
+   "start_sec": 330.051,
+   "end_sec": 332.324,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D047-S03",
+   "unit_id": "C35-D047",
+   "section": "D",
+   "speaker": "田中",
+   "text": "天気予報を見てから日を決めなければなりませんね。",
+   "start_sec": 332.474,
+   "end_sec": 335.933,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D048-S01",
+   "unit_id": "C35-D048",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "はい。",
+   "start_sec": 336.283,
+   "end_sec": 337.371,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D048-S02",
+   "unit_id": "C35-D048",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "でも、今の予算は三百円ですから、今日は案Ｂにしましょう。",
+   "start_sec": 337.521,
+   "end_sec": 342.941,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D048-S03",
+   "unit_id": "C35-D048",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "予算が変わったら、また相談します。",
+   "start_sec": 343.091,
+   "end_sec": 345.663,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D049-S01",
+   "unit_id": "C35-D049",
+   "section": "D",
+   "speaker": "田中",
+   "text": "では、案Ｂの練習の時間も確認しましょう。",
+   "start_sec": 346.013,
+   "end_sec": 349.619,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D049-S02",
+   "unit_id": "C35-D049",
+   "section": "D",
+   "speaker": "田中",
+   "text": "十時から三十分準備して、十時三十分から十分休憩しますね。",
+   "start_sec": 349.769,
+   "end_sec": 354.83,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D050-S01",
+   "unit_id": "C35-D050",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "はい。",
+   "start_sec": 355.18,
+   "end_sec": 356.055,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D050-S02",
+   "unit_id": "C35-D050",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "十時四十分から十一時二十分まで二人で練習するつもりです。",
+   "start_sec": 356.205,
+   "end_sec": 361.513,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D050-S03",
+   "unit_id": "C35-D050",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "疲れたら途中で休みます。",
+   "start_sec": 361.663,
+   "end_sec": 363.796,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D050-S04",
+   "unit_id": "C35-D050",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "最後に順番に話します。",
+   "start_sec": 363.946,
+   "end_sec": 365.971,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D051-S01",
+   "unit_id": "C35-D051",
+   "section": "D",
+   "speaker": "田中",
+   "text": "三分間の話を六人ですから、十八分ですね。",
+   "start_sec": 366.321,
+   "end_sec": 371.458,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D051-S02",
+   "unit_id": "C35-D051",
+   "section": "D",
+   "speaker": "田中",
+   "text": "十二時までに教室の机をきれいにする時間もあります。",
+   "start_sec": 371.608,
+   "end_sec": 375.106,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D052-S01",
+   "unit_id": "C35-D052",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "分かりました。",
+   "start_sec": 375.456,
+   "end_sec": 376.668,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D052-S02",
+   "unit_id": "C35-D052",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "メールにはこの予定も書きます。",
+   "start_sec": 376.818,
+   "end_sec": 379.098,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C35-D052-S03",
+   "unit_id": "C35-D052",
+   "section": "D",
+   "speaker": "ラナ",
+   "text": "予約の返事がまだ来ていなかったら、二十四日までに六人にそのことを知らせます。",
+   "start_sec": 379.248,
+   "end_sec": 385.194,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

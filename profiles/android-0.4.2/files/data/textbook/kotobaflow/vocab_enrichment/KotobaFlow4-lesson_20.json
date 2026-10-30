@@ -1,0 +1,2030 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow4",
+  "lesson_id": "lesson_20",
+  "entries": [
+    {
+      "textbook_uid": "cfv-c7ce1275ebb79f89",
+      "index": 6489,
+      "word": "対象",
+      "reading_hiragana": "たいしょう",
+      "context_meaning_zh": "制度面向的对象",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "制度面向的对象",
+          "meaning_ja": "制度や調査などが向けられる人や物。目的は「何のためか」、対象は「誰・何に向けるか」を表す。",
+          "example_ja": "制度の対象を高校生に広げる。",
+          "example_zh": "把制度的适用对象扩大到高中生。"
+        },
+        {
+          "meaning_zh": "目标；对象物",
+          "meaning_ja": "行動や注意を向ける相手や物。制度の適用対象だけでなく、観察や操作の対象にも使う。",
+          "example_ja": "博物館では、古い道具を調査の対象にしている。",
+          "example_zh": "博物馆把古老的工具作为调查对象。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "対象者",
+          "zh": "适用对象"
+        }
+      ],
+      "usage_note_zh": "常用「制度の対象」「対象者」等表达制度或行动所面向的人、物或地区。可用「Aを対象にする」说明适用对象；成为对象的资格条件需另行说明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "“制度の対象”中の连接两个名词，対象作名词谓语；删除仅基于adj-no的adnominal类。",
+        "dictionary_sequences": [
+          1410120
+        ],
+        "identity": {
+          "word": "対象",
+          "reading_hiragana": "たいしょう",
+          "meaning": "制度面向的对象"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f455fa653e29678e",
+      "index": 6490,
+      "word": "範囲",
+      "reading_hiragana": "はんい",
+      "context_meaning_zh": "论断适用范围",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "论断适用范围",
+          "meaning_ja": "物事が及ぶ限りや、含まれる部分。適用先を指す対象とは異なり、こちらは境界や広さを表す。",
+          "example_ja": "説明の範囲を先に決める。",
+          "example_zh": "先确定说明的范围。"
+        },
+        {
+          "meaning_zh": "活动区域",
+          "meaning_ja": "人や物が動いたり活動したりする広さ。",
+          "example_ja": "子どもが遊べる範囲を柵で区切った。",
+          "example_zh": "用栅栏划出孩子可以玩耍的区域。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "適用範囲",
+          "zh": "适用范围"
+        }
+      ],
+      "usage_note_zh": "常用「範囲を広げる」「範囲内／範囲外」等形式，表示某事涉及或适用的界限。说明“针对谁”时用「対象」，说明“覆盖到哪里”时用「範囲」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "语境指保留作答者范围或群体信息，可能是调查覆盖对象；具体界定需结合前文核实。",
+        "dictionary_sequences": [
+          1481890
+        ],
+        "identity": {
+          "word": "範囲",
+          "reading_hiragana": "はんい",
+          "meaning": "论断适用范围"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-32471129eb722e5a",
+      "index": 6491,
+      "word": "根拠",
+      "reading_hiragana": "こんきょ",
+      "context_meaning_zh": "支持观点的依据",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "支持观点的依据",
+          "meaning_ja": "判断や主張を支える事実や資料。論拠より広く、資料そのものを支えとして指すことも多い。",
+          "example_ja": "その数字の根拠を資料で示してください。",
+          "example_zh": "请用资料说明那个数字的依据。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "根拠を示す",
+          "zh": "说明依据"
+        }
+      ],
+      "usage_note_zh": "常用「根拠を示す」「データを根拠にする」，说明判断凭什么成立。依据可以是事实或资料；「論拠」更侧重支撑论证的理由。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "没有依据写出B案让参与更容易，根拠作为判断支撑名词；例句不是正式文件体裁本身的证据。",
+        "dictionary_sequences": [
+          1290120
+        ],
+        "identity": {
+          "word": "根拠",
+          "reading_hiragana": "こんきょ",
+          "meaning": "支持观点的依据"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-13d3a3dec7173d82",
+      "index": 6492,
+      "word": "引用",
+      "reading_hiragana": "いんよう",
+      "context_meaning_zh": "引用他人资料",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "引用他人资料",
+          "meaning_ja": "他人の文章や資料の一部を自分の説明に取り入れること。引用部分と自分の意見を区別し、出典を示す。",
+          "example_ja": "引用した資料の出典を明記する。",
+          "example_zh": "明确注明所引用资料的出处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "文章を引用する",
+          "zh": "引用文章"
+        }
+      ],
+      "usage_note_zh": "「資料を引用する」「引用箇所」常用于写作和报告。引用他人内容时应让读者能分辨引文与自己的意见，并标明出典。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「数字を引用する」明确以数字为引用对象，与词典列出的引用名词及他动サ变用法相符。",
+        "dictionary_sequences": [
+          1169660
+        ],
+        "identity": {
+          "word": "引用",
+          "reading_hiragana": "いんよう",
+          "meaning": "引用他人资料"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b8ffc464ef37bd24",
+      "index": 6493,
+      "word": "予算",
+      "reading_hiragana": "よさん",
+      "context_meaning_zh": "预算",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "预算",
+          "meaning_ja": "一定期間に使うため、あらかじめ計画した金額。組織の収入全体ではなく、使途を決めた金額を指す。",
+          "example_ja": "来年度の予算を見直す。",
+          "example_zh": "重新审查下一年度的预算。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予算内",
+          "zh": "预算之内"
+        }
+      ],
+      "usage_note_zh": "常用「予算を立てる／組む」「予算内で」，指预先安排的可用金额；实际支出可说「予算を使う」，收入总额不叫预算。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "预算内表示可用费用范围，实例只显示名词结构；词典vs项未由此处判定及物性。",
+        "dictionary_sequences": [
+          1543000
+        ],
+        "identity": {
+          "word": "予算",
+          "reading_hiragana": "よさん",
+          "meaning": "预算"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7547d459bf30ab8a",
+      "index": 6494,
+      "word": "選択",
+      "reading_hiragana": "せんたく",
+      "context_meaning_zh": "选择",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "选择",
+          "meaning_ja": "複数の中から、目的や希望に合うものを決めること。選べる候補は「選択肢」と言う。",
+          "example_ja": "二つの案から一つを選択する。",
+          "example_zh": "从两个方案中选择一个。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "選択肢",
+          "zh": "选项"
+        }
+      ],
+      "usage_note_zh": "表示从多个候选中作决定，常用「AからBを選択する」；可选的候选项称为「選択肢」。“选择权”通常说「選択権」，是另一个复合词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "会场选择以多个条件为依据，選択作名词；词典还支持有对象的他动サ变用法。",
+        "dictionary_sequences": [
+          1392290
+        ],
+        "identity": {
+          "word": "選択",
+          "reading_hiragana": "せんたく",
+          "meaning": "选择"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b6a0a080c2939fc4",
+      "index": 6495,
+      "word": "制限",
+      "reading_hiragana": "せいげん",
+      "context_meaning_zh": "限制",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "限制",
+          "meaning_ja": "できることや量に、規則などで上限を設けること。能力の限界とは異なり、外から定めた枠を表す。",
+          "example_ja": "利用時間に制限を設ける。",
+          "example_zh": "对使用时间设定限制。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "制限時間",
+          "zh": "限时"
+        }
+      ],
+      "usage_note_zh": "常用「人数／時間を制限する」「制限を設ける」，表示通过规则设定上限；「限界」则偏向能力或自然条件所能达到的极限。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "人数或使用时间是否受限的名词用例；制限する可以对这些范围实施限制，词典列及物。",
+        "dictionary_sequences": [
+          1374700
+        ],
+        "identity": {
+          "word": "制限",
+          "reading_hiragana": "せいげん",
+          "meaning": "限制"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7339e5a6655e5fab",
+      "index": 6496,
+      "word": "対策",
+      "reading_hiragana": "たいさく",
+      "context_meaning_zh": "应对措施",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "应对措施",
+          "meaning_ja": "問題の解決や被害の防止のため、計画して行う方法。",
+          "example_ja": "雨の日のために、別の対策を用意した。",
+          "example_zh": "为下雨天准备了其他应对措施。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "対策を講じる",
+          "zh": "采取对策"
+        }
+      ],
+      "usage_note_zh": "常用「対策を立てる／講じる」，指为解决问题或减少损害而采取的措施。常与防止对象连用，如「事故対策」「災害対策」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "会场变更时所需的应对措施名词；词典匹配的措施义与语境一致。",
+        "dictionary_sequences": [
+          1410050
+        ],
+        "identity": {
+          "word": "対策",
+          "reading_hiragana": "たいさく",
+          "meaning": "应对措施"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-852bb9b76f6b5d5f",
+      "index": 6497,
+      "word": "判断",
+      "reading_hiragana": "はんだん",
+      "context_meaning_zh": "根据材料作判断",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "根据材料作判断",
+          "meaning_ja": "情報や状況を考え、どうするかを決めること。考える過程を指し、決まった内容そのものとは異なる。",
+          "example_ja": "今は判断を急がないほうがいい。",
+          "example_zh": "现在最好不要急于作判断。"
+        },
+        {
+          "meaning_zh": "判断；决断",
+          "meaning_ja": "状況を見て、取るべき行動を決めること。",
+          "example_ja": "現場の責任者が続行の判断をした。",
+          "example_zh": "现场负责人作出了继续进行的判断。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "判断を下す",
+          "zh": "作出判断"
+        }
+      ],
+      "usage_note_zh": "可说「情報をもとに判断する」「判断を下す」。它表示评估情况并作决定；检验一个主张是否成立则常用「検証する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "不能仅凭房租判断总支出是否在预算内，待判断内容是是否超预算；属于他动サ变用法。",
+        "dictionary_sequences": [
+          1478620
+        ],
+        "identity": {
+          "word": "判断",
+          "reading_hiragana": "はんだん",
+          "meaning": "根据材料作判断"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bd375ad027865e2a",
+      "index": 6498,
+      "word": "立場",
+      "reading_hiragana": "たちば",
+      "context_meaning_zh": "看问题的立场",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "看问题的立场",
+          "meaning_ja": "物事をどのように見るかという考え方、または人が置かれている状況。",
+          "example_ja": "相手の立場に立って考えてみよう。",
+          "example_zh": "试着站在对方的立场考虑一下吧。"
+        },
+        {
+          "meaning_zh": "身份；地位",
+          "meaning_ja": "組織などでその人が占めている役割や地位。",
+          "example_ja": "新しい立場になって、会議で意見を求められることが増えた。",
+          "example_zh": "换了新的职位后，在会议上被征求意见的次数增加了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "立場に立つ",
+          "zh": "站在……立场"
+        }
+      ],
+      "usage_note_zh": "首义指看问题的角度或所处的境况，如「相手の立場に立つ」；第二义指组织或社会中的身份、职位，如「責任ある立場」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "多数希望与其他立场的人相对，立场指不同的处境或观点；可作名词修饰语別の立場。",
+        "dictionary_sequences": [
+          1551710
+        ],
+        "identity": {
+          "word": "立場",
+          "reading_hiragana": "たちば",
+          "meaning": "看问题的立场"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5c6a1962a18433b9",
+      "index": 6499,
+      "word": "配慮",
+      "reading_hiragana": "はいりょ",
+      "context_meaning_zh": "照顾对方处境",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "照顾对方处境",
+          "meaning_ja": "相手の事情や周囲への影響を考えて、行動や言葉を選ぶこと。",
+          "example_ja": "小さな子どもにも配慮した会場にする。",
+          "example_zh": "把会场布置得也照顾到小孩子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "相手に配慮する",
+          "zh": "顾及对方"
+        }
+      ],
+      "usage_note_zh": "常用「相手に配慮する」「配慮が必要だ」，表示考虑他人的处境或周围影响后安排言行；比单纯“注意到”更强调顾及对方。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1473210支持名词及サ变自他；「配慮が必要」是名词构式，指顾及未及时查看通知者。",
+        "dictionary_sequences": [
+          1473210
+        ],
+        "identity": {
+          "word": "配慮",
+          "reading_hiragana": "はいりょ",
+          "meaning": "照顾对方处境"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-530ff8abcb00a141",
+      "index": 6500,
+      "word": "合意",
+      "reading_hiragana": "ごうい",
+      "context_meaning_zh": "达成共同意见",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "达成共同意见",
+          "meaning_ja": "関係する人たちの意見や希望が一致すること。一人の賛成より、当事者間の一致を表す。",
+          "example_ja": "条件について合意に達した。",
+          "example_zh": "就条件达成了协议。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "合意に達する",
+          "zh": "达成一致"
+        }
+      ],
+      "usage_note_zh": "常用「合意する」「合意に達する」「合意を得る」，强调相关各方达成一致；个人接受某项提议时也可用「同意する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指当天各方确认的共同决定；可名词化，也可表示各方协商一致的自サ动词。",
+        "dictionary_sequences": [
+          1284550
+        ],
+        "identity": {
+          "word": "合意",
+          "reading_hiragana": "ごうい",
+          "meaning": "达成共同意见"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0441a35e5e37edae",
+      "index": 6501,
+      "word": "要約",
+      "reading_hiragana": "ようやく",
+      "context_meaning_zh": "概括主要内容",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "概括主要内容",
+          "meaning_ja": "文章や話から大切な点を選び、短くまとめること。",
+          "example_ja": "会議の内容を三行に要約した。",
+          "example_zh": "把会议内容概括成了三行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "内容を要約する",
+          "zh": "概括内容"
+        }
+      ],
+      "usage_note_zh": "「文章を要約する」表示把主要内容简短归纳；「要約」也可指归纳后的摘要。抓住重点但不一定缩短成文，可用「要点をまとめる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": [
+          "educational"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "把听力要点概括出来，符合词典名词及サ变他动词义；要点为内容对象。",
+        "dictionary_sequences": [
+          1605860
+        ],
+        "identity": {
+          "word": "要約",
+          "reading_hiragana": "ようやく",
+          "meaning": "概括主要内容"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4772a0ef11b860a7",
+      "index": 6502,
+      "word": "結論",
+      "reading_hiragana": "けつろん",
+      "context_meaning_zh": "论证得到的结论",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "论证得到的结论",
+          "meaning_ja": "考えたり話し合ったりした後に出す、最終的な判断やまとめ。",
+          "example_ja": "結論を出す前に、反対意見も聞いた。",
+          "example_zh": "得出结论前也听取了反对意见。"
+        },
+        {
+          "meaning_zh": "结论部分",
+          "meaning_ja": "文章や発表で、最後に要点をまとめる部分。",
+          "example_ja": "発表の結論では、調査から分かったことを述べた。",
+          "example_zh": "在发表的结论部分说明了调查所得。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結論を出す",
+          "zh": "得出结论"
+        }
+      ],
+      "usage_note_zh": "常用「結論を出す／述べる」「結論に至る」，指讨论或推理后形成的最终判断；「結論から言うと」用于先说结果再解释理由。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句谈多数意见是否足以形成结论；词典收名词和自サ「結論する」，此处「結論を出す」是名词宾语搭配。",
+        "dictionary_sequences": [
+          1255020
+        ],
+        "identity": {
+          "word": "結論",
+          "reading_hiragana": "けつろん",
+          "meaning": "论证得到的结论"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e846b64e608a712f",
+      "index": 6503,
+      "word": "提案",
+      "reading_hiragana": "ていあん",
+      "context_meaning_zh": "提出方案",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "提出方案",
+          "meaning_ja": "考えや計画を、相手に検討してもらうために示すこと。示された案自体も提案と呼ぶ。",
+          "example_ja": "委員会に新しい方法を提案した。",
+          "example_zh": "向委员会提出了新方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "改善案を提案する",
+          "zh": "提出改进方案"
+        }
+      ],
+      "usage_note_zh": "「改善案を提案する」表示提出方案供对方考虑；「提案を受け入れる」中的提案则指被提出的方案本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "B案是提案する所提出的内容；提议这一名词义可作「提案を受け入れる」的对象。",
+        "dictionary_sequences": [
+          1436320
+        ],
+        "identity": {
+          "word": "提案",
+          "reading_hiragana": "ていあん",
+          "meaning": "提出方案"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5dca721a74edfec9",
+      "index": 6504,
+      "word": "確認",
+      "reading_hiragana": "かくにん",
+      "context_meaning_zh": "核实理解是否相同",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "核实理解是否相同",
+          "meaning_ja": "間違いがないか、情報や状態を調べて確かめること。証明するほど強く立証する意味ではない。",
+          "example_ja": "会議の最後に、合意内容を参加者全員で確認した。",
+          "example_zh": "会议最后，全体参与者共同确认了协议内容。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "内容を確認する",
+          "zh": "确认内容"
+        }
+      ],
+      "usage_note_zh": "本课重点是核实各方理解是否一致，可说「内容を全員で確認する」；也常用于核对信息，如「宛先を確認する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "确认今日共识，合意内容是核实对象；「ましょう」是句式，不改变词项语体。",
+        "dictionary_sequences": [
+          1205900
+        ],
+        "identity": {
+          "word": "確認",
+          "reading_hiragana": "かくにん",
+          "meaning": "核实理解是否相同"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-34396d0924bad765",
+      "index": 6505,
+      "word": "聞き返す",
+      "reading_hiragana": "ききかえす",
+      "context_meaning_zh": "请求对方再说一遍",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "请求对方再说一遍",
+          "meaning_ja": "聞こえなかったことや分からなかったことを、相手にもう一度尋ねる。驚いて問い直す場合もある。",
+          "example_ja": "名前が聞き取れず、もう一度聞き返した。",
+          "example_zh": "没听清名字，又问了一遍。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "聞き返して確かめる",
+          "zh": "再问一次确认"
+        }
+      ],
+      "usage_note_zh": "没听清或没理解时，可用「もう一度聞き返す」表示再问一次；也能带惊讶语气重复提问。礼貌请求重说可说「もう一度お願いします」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "询问是否可以再问一次，体现重听或重新提问义；许可语气由句末结构表达。",
+        "dictionary_sequences": [
+          1591060
+        ],
+        "identity": {
+          "word": "聞き返す",
+          "reading_hiragana": "ききかえす",
+          "meaning": "请求对方再说一遍"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a8c2bfa73e8d8bc3",
+      "index": 6506,
+      "word": "補足",
+      "reading_hiragana": "ほそく",
+      "context_meaning_zh": "补充不足的说明",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "补充不足的说明",
+          "meaning_ja": "説明などに足りない内容を後から加えること。付け加える内容自体にも使う。",
+          "example_ja": "分かりにくい点を図で補足した。",
+          "example_zh": "用图补充说明了难懂之处。"
+        },
+        {
+          "meaning_zh": "补充内容",
+          "meaning_ja": "不足を補うために後から付け加える情報や説明。",
+          "example_ja": "詳しい手順は補足として別紙に載せた。",
+          "example_zh": "详细步骤作为补充内容刊载在另一张纸上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "説明を補足する",
+          "zh": "补充说明"
+        }
+      ],
+      "usage_note_zh": "常用「説明を補足する」「補足資料」，表示在已有说明上添加缺少的信息；既可指补充的动作，也可指补充材料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "補足すると引入额外说明，词典所列サ变他动词可表示补充信息。",
+        "dictionary_sequences": [
+          1514700
+        ],
+        "identity": {
+          "word": "補足",
+          "reading_hiragana": "ほそく",
+          "meaning": "补充不足的说明"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-da431cae3957df57",
+      "index": 6507,
+      "word": "前提",
+      "reading_hiragana": "ぜんてい",
+      "context_meaning_zh": "论述的前提",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "论述的前提",
+          "meaning_ja": "考えや計画が成り立つため、先に正しいものとして置く条件。",
+          "example_ja": "安全を前提に計画を立てる。",
+          "example_zh": "以安全为前提制定计划。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "前提条件",
+          "zh": "前提条件"
+        }
+      ],
+      "usage_note_zh": "常用「Nを前提にする」「Nが前提だ」，表示讨论或计划赖以成立的条件。前提若不成立，后面的推论或安排也可能需要重看。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "提案的前提是开始前确认路线和会场，说明其条件/基础名词义；例句无特殊体裁特征。",
+        "dictionary_sequences": [
+          1393680
+        ],
+        "identity": {
+          "word": "前提",
+          "reading_hiragana": "ぜんてい",
+          "meaning": "论述的前提"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a1ddbc68992e4be9",
+      "index": 6508,
+      "word": "例外",
+      "reading_hiragana": "れいがい",
+      "context_meaning_zh": "与一般情况不同的实例",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "与一般情况不同的实例",
+          "meaning_ja": "普通の例や原則に当てはまらない場合、またその場合に当てはまるもの。",
+          "example_ja": "この規則には例外が一つある。",
+          "example_zh": "这项规则有一个例外。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "例外を認める",
+          "zh": "承认例外"
+        }
+      ],
+      "usage_note_zh": "常用「例外を認める」「例外として」，指不符合通常规则的个案，也可引出对该个案的特殊处理。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "省略路线确认的情况被作为规则外特殊例外，语境指名词。",
+        "dictionary_sequences": [
+          1556410
+        ],
+        "identity": {
+          "word": "例外",
+          "reading_hiragana": "れいがい",
+          "meaning": "与一般情况不同的实例"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1a64eaa8432fba0a",
+      "index": 6509,
+      "word": "出典",
+      "reading_hiragana": "しゅってん",
+      "context_meaning_zh": "引用信息的出处",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "引用信息的出处",
+          "meaning_ja": "情報や引用のよりどころとなった本・記事・資料など。",
+          "example_ja": "数字の出典を脚注に記した。",
+          "example_zh": "在脚注中注明了数字的出处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "出典を明記する",
+          "zh": "明确注明出处"
+        }
+      ],
+      "usage_note_zh": "指信息或引文所依据的来源，常用「出典を明記する」「出典を調べる」。资料或发布媒介都可成为出典，不必另分“最初发布来源”一义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "说明文也应注明材料来源，出典是出处名词。",
+        "dictionary_sequences": [
+          1339790
+        ],
+        "identity": {
+          "word": "出典",
+          "reading_hiragana": "しゅってん",
+          "meaning": "引用信息的出处"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bd4cec97c14ecf7a",
+      "index": 6510,
+      "word": "負担",
+      "reading_hiragana": "ふたん",
+      "context_meaning_zh": "承担的压力或费用",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "承担的压力或费用",
+          "meaning_ja": "費用や責任を引き受けること。また、引き受けたものの重さも表す。",
+          "example_ja": "交通費は会社が負担します。",
+          "example_zh": "交通费由公司承担。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "費用を負担する",
+          "zh": "承担费用"
+        }
+      ],
+      "usage_note_zh": "常用「費用を負担する」「負担を減らす」，可指承担费用、责任，也可指这些责任造成的压力或重荷。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "尚未开始而不能声称负担减少，负担为状态名词；另有词典支持的及物する用法。",
+        "dictionary_sequences": [
+          1498130
+        ],
+        "identity": {
+          "word": "負担",
+          "reading_hiragana": "ふたん",
+          "meaning": "承担的压力或费用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e1824acf43bbd5e7",
+      "index": 6511,
+      "word": "条件",
+      "reading_hiragana": "じょうけん",
+      "context_meaning_zh": "使用资格条件",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "使用资格条件",
+          "meaning_ja": "物事を成立させたり資格を得たりするために必要な事柄。契約上守る約束も指す。",
+          "example_ja": "応募条件をよく読んでから申し込む。",
+          "example_zh": "仔细阅读报名条件后再申请。"
+        },
+        {
+          "meaning_zh": "环境条件",
+          "meaning_ja": "物事の結果に影響する周囲の状態。",
+          "example_ja": "同じ条件で二つの機械を動かして比べた。",
+          "example_zh": "在相同条件下运行两台机器并进行了比较。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "条件を満たす",
+          "zh": "满足条件"
+        }
+      ],
+      "usage_note_zh": "常用「条件を満たす」「条件を付ける」，指取得资格或使某事成立所需的要求；描述天气等外部状态时也可说「条件が変わる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "制度对象与成为使用者的资格要求分别对应谁适用、需要哪些条件；词典义与例句相符。",
+        "dictionary_sequences": [
+          1356510
+        ],
+        "identity": {
+          "word": "条件",
+          "reading_hiragana": "じょうけん",
+          "meaning": "使用资格条件"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3726ed0c47763413",
+      "index": 6512,
+      "word": "留保",
+      "reading_hiragana": "りゅうほ",
+      "context_meaning_zh": "保留意见或条件",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "保留意见或条件",
+          "meaning_ja": "意見や条件などを、未解決の点として決定せずに残しておくこと。",
+          "example_ja": "安全面への不安は、留保事項として記録した。",
+          "example_zh": "将对安全方面的担忧作为保留事项记录下来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "判断を留保する",
+          "zh": "暂缓判断"
+        }
+      ],
+      "usage_note_zh": "可说「意見を留保する」「留保事項として記録する」，表示暂不消除的疑虑或尚未解决的条件；单纯延后答复也可用「回答を留保する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "要求将对地点的不安作为保留事项，留保作名词；词典另列他动サ变用法。",
+        "dictionary_sequences": [
+          1552830
+        ],
+        "identity": {
+          "word": "留保",
+          "reading_hiragana": "りゅうほ",
+          "meaning": "保留意见或条件"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8b02f50f6718fa36",
+      "index": 6513,
+      "word": "論拠",
+      "reading_hiragana": "ろんきょ",
+      "context_meaning_zh": "论述的依据",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "论述的依据",
+          "meaning_ja": "主張や結論を支える論理上の理由や証拠。資料全般も含む根拠より、議論の理由に焦点がある。",
+          "example_ja": "結論を支える論拠を二つ挙げる。",
+          "example_zh": "列举两个支撑结论的论据。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "論拠を示す",
+          "zh": "说明论据"
+        }
+      ],
+      "usage_note_zh": "常用「主張の論拠」「論拠を示す」，指论证中支撑主张或结论的理由、证据；「根拠」也可泛指事实和资料依据。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "支持论点的理由或证据，例句列出开课频次与费用作为论拠；词典义相符。",
+        "dictionary_sequences": [
+          1561690
+        ],
+        "identity": {
+          "word": "論拠",
+          "reading_hiragana": "ろんきょ",
+          "meaning": "论述的依据"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8cfe1f1aca36b64e",
+      "index": 6514,
+      "word": "共通点",
+      "reading_hiragana": "きょうつうてん",
+      "context_meaning_zh": "共同之处",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "共同之处",
+          "meaning_ja": "複数のものに同じように見られる性質や部分。",
+          "example_ja": "二つの制度の共通点を表にした。",
+          "example_zh": "把两种制度的共同点制成了表格。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "共通点を探す",
+          "zh": "寻找共同点"
+        }
+      ],
+      "usage_note_zh": "常用「共通点を探す／見つける」，指比较多个事物后发现的相同之处；不同之处可称「相違点」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指计划次数等多个事项的相同处，常与探寻、发现搭配；不同处称相違点。",
+        "dictionary_sequences": [
+          1234730
+        ],
+        "identity": {
+          "word": "共通点",
+          "reading_hiragana": "きょうつうてん",
+          "meaning": "共同之处"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b5e3000246418dd9",
+      "index": 6515,
+      "word": "相違点",
+      "reading_hiragana": "そういてん",
+      "context_meaning_zh": "不同之处",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不同之处",
+          "meaning_ja": "複数のものを比べたとき、異なっている部分。",
+          "example_ja": "両案の相違点を説明してください。",
+          "example_zh": "请说明两个方案的不同之处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "相違点を明らかにする",
+          "zh": "弄清差异"
+        }
+      ],
+      "usage_note_zh": "常用「相違点を確認する／明らかにする」，指比较后发现的差别；语体较正式，日常交谈也可说「違い」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "场地、费用及次数之间的不同项符合相違点名词义。",
+        "dictionary_sequences": [
+          1400830
+        ],
+        "identity": {
+          "word": "相違点",
+          "reading_hiragana": "そういてん",
+          "meaning": "不同之处"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a3010c118409823d",
+      "index": 6516,
+      "word": "経緯",
+      "reading_hiragana": "けいい",
+      "context_meaning_zh": "讨论发展的经过",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "讨论发展的经过",
+          "meaning_ja": "物事が現在の状態になるまでに起きた事情や進み方。背景や順序を説明するときに使う。",
+          "example_ja": "計画変更に至った経緯を説明する。",
+          "example_zh": "说明导致计划变更的经过。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "経緯を説明する",
+          "zh": "说明经过"
+        }
+      ],
+      "usage_note_zh": "常用「経緯を説明する」「これまでの経緯」，指事情发展到当前状态的过程及背景，不是单指某个最终结果。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「議論の経緯」说明判断变化前的讨论过程和顺序，符合事情经过义；用于正式记录但词本身保持中性。",
+        "dictionary_sequences": [
+          1251120
+        ],
+        "identity": {
+          "word": "経緯",
+          "reading_hiragana": "けいい",
+          "meaning": "讨论发展的经过"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0020791fa26d9ea9",
+      "index": 6517,
+      "word": "撤回",
+      "reading_hiragana": "てっかい",
+      "context_meaning_zh": "收回原有主张",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收回原有主张",
+          "meaning_ja": "一度示した意見や提案、申込みなどを取り下げること。訂正より、意思表示自体を取り消す意味がある。",
+          "example_ja": "説明を受けて、彼は反対意見を撤回した。",
+          "example_zh": "听完说明后，他撤回了反对意见。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "発言を撤回する",
+          "zh": "撤回发言"
+        }
+      ],
+      "usage_note_zh": "常用「発言／提案を撤回する」，表示收回先前已表达的意见、方案或申请；只改正其中错误时通常说「訂正する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "撤回的是说话者此前的陈述，词典支持名词、する他动词及名词修饰用法。",
+        "dictionary_sequences": [
+          1437710
+        ],
+        "identity": {
+          "word": "撤回",
+          "reading_hiragana": "てっかい",
+          "meaning": "收回原有主张"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-daf7718e674c0da1",
+      "index": 6518,
+      "word": "暫定",
+      "reading_hiragana": "ざんてい",
+      "context_meaning_zh": "暂时确定",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "暂时确定",
+          "meaning_ja": "最終的に決まるまでの間、いったん決めておくこと。また、その状態。決定を先送りする留保と異なり、仮の内容で運用する。",
+          "example_ja": "正式な日程が決まるまで、暫定の日程を使う。",
+          "example_zh": "正式日程确定前，先使用暂定日程。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "暫定案",
+          "zh": "暂定方案"
+        }
+      ],
+      "usage_note_zh": "「暫定の日程」「暫定的な案」表示最终确定前暂时采用的安排。名词修饰可用「暫定の」，也常用「暫定的な」；决定暂缓时则用「留保」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "暫定的に選ぶ中的暫定接派生后缀的副词形式；不支持独立adnominal。",
+        "dictionary_sequences": [
+          1304450
+        ],
+        "identity": {
+          "word": "暫定",
+          "reading_hiragana": "ざんてい",
+          "meaning": "暂时确定"
+        }
+      }
+    }
+  ]
+}

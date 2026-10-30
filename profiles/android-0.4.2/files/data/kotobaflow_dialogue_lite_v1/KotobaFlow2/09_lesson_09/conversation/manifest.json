@@ -1,0 +1,1452 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 231.889,
+ "listening_review": "pending",
+ "source_chapter": 27,
+ "turns": [
+  {
+   "turn_id": "C27-D001",
+   "turn_index": 0,
+   "speaker": "村田",
+   "source_text": "ミラさん、おはようございます。私は村田です。事務室の前で待っていました。今日は初めてですね。まず、ルールを確認しましょう。",
+   "sentence_ids": [
+    "C27-D001-S01",
+    "C27-D001-S02",
+    "C27-D001-S03",
+    "C27-D001-S04",
+    "C27-D001-S05"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 9.523,
+   "duration_sec": 9.523
+  },
+  {
+   "turn_id": "C27-D002",
+   "turn_index": 1,
+   "speaker": "ミラ",
+   "source_text": "おはようございます。13時から仕事があるので、12時20分に出なければならないんです。清掃も必要ですよね。",
+   "sentence_ids": [
+    "C27-D002-S01",
+    "C27-D002-S02",
+    "C27-D002-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 9.873,
+   "end_sec": 18.789,
+   "duration_sec": 8.916
+  },
+  {
+   "turn_id": "C27-D003",
+   "turn_index": 2,
+   "speaker": "村田",
+   "source_text": "清掃は12時半からですが、先に帰る人はしなくてもいいです。今は9時40分ですね。9時45分から準備を手伝ってください。",
+   "sentence_ids": [
+    "C27-D003-S01",
+    "C27-D003-S02",
+    "C27-D003-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 19.139,
+   "end_sec": 29.204,
+   "duration_sec": 10.065
+  },
+  {
+   "turn_id": "C27-D004",
+   "turn_index": 3,
+   "speaker": "ミラ",
+   "source_text": "はい。野菜を洗います。ここは学校の給食のキッチンですか。入口に子ども専用の椅子もありますね。",
+   "sentence_ids": [
+    "C27-D004-S01",
+    "C27-D004-S02",
+    "C27-D004-S03",
+    "C27-D004-S04"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 29.554,
+   "end_sec": 37.918,
+   "duration_sec": 8.364
+  },
+  {
+   "turn_id": "C27-D005",
+   "turn_index": 4,
+   "speaker": "村田",
+   "source_text": "いいえ、地域の料理の会で使っています。あの椅子は子どもの会で使います。では、受付で鍵を借りましょう。",
+   "sentence_ids": [
+    "C27-D005-S01",
+    "C27-D005-S02",
+    "C27-D005-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.268,
+   "end_sec": 46.411,
+   "duration_sec": 8.143
+  },
+  {
+   "turn_id": "C27-D006",
+   "turn_index": 5,
+   "speaker": "石井",
+   "source_text": "おはようございます。今日は10時から13時まで、600円です。準備は9時45分からで構いません。",
+   "sentence_ids": [
+    "C27-D006-S01",
+    "C27-D006-S02",
+    "C27-D006-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 46.761,
+   "end_sec": 54.891,
+   "duration_sec": 8.13
+  },
+  {
+   "turn_id": "C27-D007",
+   "turn_index": 6,
+   "speaker": "村田",
+   "source_text": "はい、600円です。今日の会費は無しですね。材料はめいめい持ってきました。",
+   "sentence_ids": [
+    "C27-D007-S01",
+    "C27-D007-S02",
+    "C27-D007-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 55.241,
+   "end_sec": 61.257,
+   "duration_sec": 6.016
+  },
+  {
+   "turn_id": "C27-D008",
+   "turn_index": 7,
+   "speaker": "石井",
+   "source_text": "はい。追加の支払いは不要です。人数は16人までです。今日は何人ですか。",
+   "sentence_ids": [
+    "C27-D008-S01",
+    "C27-D008-S02",
+    "C27-D008-S03",
+    "C27-D008-S04"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 61.607,
+   "end_sec": 70.116,
+   "duration_sec": 8.509
+  },
+  {
+   "turn_id": "C27-D009",
+   "turn_index": 8,
+   "speaker": "村田",
+   "source_text": "12人です。13時から次の教室ですね。私は最後に鍵を返します。ミラさんは戻らなくても大丈夫ですよ。",
+   "sentence_ids": [
+    "C27-D009-S01",
+    "C27-D009-S02",
+    "C27-D009-S03",
+    "C27-D009-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 70.466,
+   "end_sec": 78.85,
+   "duration_sec": 8.384
+  },
+  {
+   "turn_id": "C27-D010",
+   "turn_index": 9,
+   "speaker": "ミラ",
+   "source_text": "ありがとうございます。掲示の21時は最後の期限で、今日は13時前ですね。ちゃんと覚えました。",
+   "sentence_ids": [
+    "C27-D010-S01",
+    "C27-D010-S02",
+    "C27-D010-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 79.2,
+   "end_sec": 87.117,
+   "duration_sec": 7.917
+  },
+  {
+   "turn_id": "C27-D011",
+   "turn_index": 10,
+   "speaker": "石井",
+   "source_text": "ええ。遅れては困ります。次の人が入れませんから。それから、入口の立札は隣の会議室の注意です。事務室への出入りは管理人に相談してください。",
+   "sentence_ids": [
+    "C27-D011-S01",
+    "C27-D011-S02",
+    "C27-D011-S03",
+    "C27-D011-S04",
+    "C27-D011-S05"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 87.467,
+   "end_sec": 101.367,
+   "duration_sec": 13.9
+  },
+  {
+   "turn_id": "C27-D012",
+   "turn_index": 11,
+   "speaker": "ミラ",
+   "source_text": "「土足で入るべからず」ですか。「靴を脱いでください」という意味ですね。キッチンでも脱ぎますか。",
+   "sentence_ids": [
+    "C27-D012-S01",
+    "C27-D012-S02",
+    "C27-D012-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 101.717,
+   "end_sec": 109.467,
+   "duration_sec": 7.75
+  },
+  {
+   "turn_id": "C27-D013",
+   "turn_index": 12,
+   "speaker": "石井",
+   "source_text": "キッチンでは脱がなくてもいいです。ただし、たばこはどちらでも吸ってはいけません。マッチも使わないでください。",
+   "sentence_ids": [
+    "C27-D013-S01",
+    "C27-D013-S02",
+    "C27-D013-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.817,
+   "end_sec": 116.798,
+   "duration_sec": 6.981
+  },
+  {
+   "turn_id": "C27-D014",
+   "turn_index": 13,
+   "speaker": "村田",
+   "source_text": "では、準備を始めましょう。机を動かす前に、下の埃を掃きます。ミラさん、この箱を見てください。新しい箱を設置しましたから、物を床に置かなくてもいいです。",
+   "sentence_ids": [
+    "C27-D014-S01",
+    "C27-D014-S02",
+    "C27-D014-S03",
+    "C27-D014-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 117.148,
+   "end_sec": 129.579,
+   "duration_sec": 12.431
+  },
+  {
+   "turn_id": "C27-D015",
+   "turn_index": 14,
+   "speaker": "ミラ",
+   "source_text": "落し物の箱ですね。誰かの乾電池があります。でも、ごみですか。勝手に捨てるのはいけませんね。",
+   "sentence_ids": [
+    "C27-D015-S01",
+    "C27-D015-S02",
+    "C27-D015-S03",
+    "C27-D015-S04"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 129.929,
+   "end_sec": 137.773,
+   "duration_sec": 7.844
+  },
+  {
+   "turn_id": "C27-D016",
+   "turn_index": 15,
+   "speaker": "村田",
+   "source_text": "そうですね。管理人に聞きましょう。今日は大掃除ではありませんから、私たちの机の下だけでいいです。",
+   "sentence_ids": [
+    "C27-D016-S01",
+    "C27-D016-S02",
+    "C27-D016-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.123,
+   "end_sec": 145.593,
+   "duration_sec": 7.47
+  },
+  {
+   "turn_id": "C27-D017",
+   "turn_index": 16,
+   "speaker": "ミラ",
+   "source_text": "料理の後のごみはどうしますか。ビニールの袋に全部入れてもいいですか。紙とプラスチックは別ですか。",
+   "sentence_ids": [
+    "C27-D017-S01",
+    "C27-D017-S02",
+    "C27-D017-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 145.943,
+   "end_sec": 153.536,
+   "duration_sec": 7.593
+  },
+  {
+   "turn_id": "C27-D018",
+   "turn_index": 17,
+   "speaker": "村田",
+   "source_text": "別です。包み紙はこちら、生ゴミはあちらです。生ゴミは私が持ち帰ります。空き缶は洗って、受付の横の箱に入れてください。",
+   "sentence_ids": [
+    "C27-D018-S01",
+    "C27-D018-S02",
+    "C27-D018-S03",
+    "C27-D018-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 153.886,
+   "end_sec": 163.769,
+   "duration_sec": 9.883
+  },
+  {
+   "turn_id": "C27-D019",
+   "turn_index": 18,
+   "speaker": "ミラ",
+   "source_text": "承知しました。外のプラカードにも「ごみを散らかさないで」とありますね。人が手に持って、歩行者に見せています。",
+   "sentence_ids": [
+    "C27-D019-S01",
+    "C27-D019-S02",
+    "C27-D019-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 164.119,
+   "end_sec": 172.775,
+   "duration_sec": 8.656
+  },
+  {
+   "turn_id": "C27-D020",
+   "turn_index": 19,
+   "speaker": "村田",
+   "source_text": "広場でも今日は清掃の日なんです。前に子どもがごみでいたずらをして、大人が「こらっ、ふざけるな」と言いました。",
+   "sentence_ids": [
+    "C27-D020-S01",
+    "C27-D020-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 173.125,
+   "end_sec": 181.895,
+   "duration_sec": 8.77
+  },
+  {
+   "turn_id": "C27-D021",
+   "turn_index": 20,
+   "speaker": "ミラ",
+   "source_text": "強い言い方ですね。友達には「騒がないでください」でいいですか。大声で注意するのも困りますね。",
+   "sentence_ids": [
+    "C27-D021-S01",
+    "C27-D021-S02",
+    "C27-D021-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 182.245,
+   "end_sec": 190.132,
+   "duration_sec": 7.887
+  },
+  {
+   "turn_id": "C27-D022",
+   "turn_index": 21,
+   "speaker": "村田",
+   "source_text": "ええ。規律は大切ですが、理由も説明しましょう。秩序を守るのは、一人の仕事ではありません。私も絶対に時間を守ります。",
+   "sentence_ids": [
+    "C27-D022-S01",
+    "C27-D022-S02",
+    "C27-D022-S03",
+    "C27-D022-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 190.482,
+   "end_sec": 200.068,
+   "duration_sec": 9.586
+  },
+  {
+   "turn_id": "C27-D023",
+   "turn_index": 22,
+   "speaker": "ミラ",
+   "source_text": "私は12時20分に電気を消しますか。それとも、まだ料理をしていますか。",
+   "sentence_ids": [
+    "C27-D023-S01",
+    "C27-D023-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 200.418,
+   "end_sec": 207.071,
+   "duration_sec": 6.653
+  },
+  {
+   "turn_id": "C27-D024",
+   "turn_index": 23,
+   "speaker": "村田",
+   "source_text": "まだ料理をしていますから、消さないでください。最後に出る私の責任です。窓を閉めて、鍵もかけます。",
+   "sentence_ids": [
+    "C27-D024-S01",
+    "C27-D024-S02",
+    "C27-D024-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 207.421,
+   "end_sec": 215.24,
+   "duration_sec": 7.819
+  },
+  {
+   "turn_id": "C27-D025",
+   "turn_index": 24,
+   "speaker": "ミラ",
+   "source_text": "分かりました。午前の準備をちゃんと手伝います。次は仕事を片づけて、最後まで参加したいです。",
+   "sentence_ids": [
+    "C27-D025-S01",
+    "C27-D025-S02",
+    "C27-D025-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 215.59,
+   "end_sec": 223.155,
+   "duration_sec": 7.565
+  },
+  {
+   "turn_id": "C27-D026",
+   "turn_index": 25,
+   "speaker": "村田",
+   "source_text": "次は1月9日です。仕事の日程を確認したら、連絡してください。まだ参加を決めなくてもかまいませんよ。",
+   "sentence_ids": [
+    "C27-D026-S01",
+    "C27-D026-S02",
+    "C27-D026-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 223.505,
+   "end_sec": 231.882,
+   "duration_sec": 8.377
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C27-D001-S01",
+   "unit_id": "C27-D001",
+   "section": "D",
+   "speaker": "村田",
+   "text": "ミラさん、おはようございます。",
+   "start_sec": 0.0,
+   "end_sec": 2.135,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D001-S02",
+   "unit_id": "C27-D001",
+   "section": "D",
+   "speaker": "村田",
+   "text": "私は村田です。",
+   "start_sec": 2.285,
+   "end_sec": 3.681,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D001-S03",
+   "unit_id": "C27-D001",
+   "section": "D",
+   "speaker": "村田",
+   "text": "事務室の前で待っていました。",
+   "start_sec": 3.831,
+   "end_sec": 5.706,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D001-S04",
+   "unit_id": "C27-D001",
+   "section": "D",
+   "speaker": "村田",
+   "text": "今日は初めてですね。",
+   "start_sec": 5.856,
+   "end_sec": 7.505,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D001-S05",
+   "unit_id": "C27-D001",
+   "section": "D",
+   "speaker": "村田",
+   "text": "まず、ルールを確認しましょう。",
+   "start_sec": 7.655,
+   "end_sec": 9.523,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D002-S01",
+   "unit_id": "C27-D002",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "おはようございます。",
+   "start_sec": 9.873,
+   "end_sec": 11.298,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D002-S02",
+   "unit_id": "C27-D002",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "13時から仕事があるので、12時20分に出なければならないんです。",
+   "start_sec": 11.448,
+   "end_sec": 16.57,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D002-S03",
+   "unit_id": "C27-D002",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "清掃も必要ですよね。",
+   "start_sec": 16.72,
+   "end_sec": 18.789,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D003-S01",
+   "unit_id": "C27-D003",
+   "section": "D",
+   "speaker": "村田",
+   "text": "清掃は12時半からですが、先に帰る人はしなくてもいいです。",
+   "start_sec": 19.139,
+   "end_sec": 23.897,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D003-S02",
+   "unit_id": "C27-D003",
+   "section": "D",
+   "speaker": "村田",
+   "text": "今は9時40分ですね。",
+   "start_sec": 24.047,
+   "end_sec": 26.102,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D003-S03",
+   "unit_id": "C27-D003",
+   "section": "D",
+   "speaker": "村田",
+   "text": "9時45分から準備を手伝ってください。",
+   "start_sec": 26.252,
+   "end_sec": 29.204,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D004-S01",
+   "unit_id": "C27-D004",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "はい。",
+   "start_sec": 29.554,
+   "end_sec": 30.211,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D004-S02",
+   "unit_id": "C27-D004",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "野菜を洗います。",
+   "start_sec": 30.361,
+   "end_sec": 31.827,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D004-S03",
+   "unit_id": "C27-D004",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "ここは学校の給食のキッチンですか。",
+   "start_sec": 31.977,
+   "end_sec": 34.939,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D004-S04",
+   "unit_id": "C27-D004",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "入口に子ども専用の椅子もありますね。",
+   "start_sec": 35.089,
+   "end_sec": 37.918,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D005-S01",
+   "unit_id": "C27-D005",
+   "section": "D",
+   "speaker": "村田",
+   "text": "いいえ、地域の料理の会で使っています。",
+   "start_sec": 38.268,
+   "end_sec": 41.366,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D005-S02",
+   "unit_id": "C27-D005",
+   "section": "D",
+   "speaker": "村田",
+   "text": "あの椅子は子どもの会で使います。",
+   "start_sec": 41.516,
+   "end_sec": 43.838,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D005-S03",
+   "unit_id": "C27-D005",
+   "section": "D",
+   "speaker": "村田",
+   "text": "では、受付で鍵を借りましょう。",
+   "start_sec": 43.988,
+   "end_sec": 46.411,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D006-S01",
+   "unit_id": "C27-D006",
+   "section": "D",
+   "speaker": "石井",
+   "text": "おはようございます。",
+   "start_sec": 46.761,
+   "end_sec": 48.361,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D006-S02",
+   "unit_id": "C27-D006",
+   "section": "D",
+   "speaker": "石井",
+   "text": "今日は10時から13時まで、600円です。",
+   "start_sec": 48.511,
+   "end_sec": 51.676,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D006-S03",
+   "unit_id": "C27-D006",
+   "section": "D",
+   "speaker": "石井",
+   "text": "準備は9時45分からで構いません。",
+   "start_sec": 51.826,
+   "end_sec": 54.891,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D007-S01",
+   "unit_id": "C27-D007",
+   "section": "D",
+   "speaker": "村田",
+   "text": "はい、600円です。",
+   "start_sec": 55.241,
+   "end_sec": 57.102,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D007-S02",
+   "unit_id": "C27-D007",
+   "section": "D",
+   "speaker": "村田",
+   "text": "今日の会費は無しですね。",
+   "start_sec": 57.252,
+   "end_sec": 59.085,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D007-S03",
+   "unit_id": "C27-D007",
+   "section": "D",
+   "speaker": "村田",
+   "text": "材料はめいめい持ってきました。",
+   "start_sec": 59.235,
+   "end_sec": 61.257,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D008-S01",
+   "unit_id": "C27-D008",
+   "section": "D",
+   "speaker": "石井",
+   "text": "はい。",
+   "start_sec": 61.607,
+   "end_sec": 62.783,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D008-S02",
+   "unit_id": "C27-D008",
+   "section": "D",
+   "speaker": "石井",
+   "text": "追加の支払いは不要です。",
+   "start_sec": 62.933,
+   "end_sec": 64.972,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D008-S03",
+   "unit_id": "C27-D008",
+   "section": "D",
+   "speaker": "石井",
+   "text": "人数は16人までです。",
+   "start_sec": 65.122,
+   "end_sec": 68.029,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D008-S04",
+   "unit_id": "C27-D008",
+   "section": "D",
+   "speaker": "石井",
+   "text": "今日は何人ですか。",
+   "start_sec": 68.179,
+   "end_sec": 70.116,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D009-S01",
+   "unit_id": "C27-D009",
+   "section": "D",
+   "speaker": "村田",
+   "text": "12人です。",
+   "start_sec": 70.466,
+   "end_sec": 71.516,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D009-S02",
+   "unit_id": "C27-D009",
+   "section": "D",
+   "speaker": "村田",
+   "text": "13時から次の教室ですね。",
+   "start_sec": 71.666,
+   "end_sec": 74.043,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D009-S03",
+   "unit_id": "C27-D009",
+   "section": "D",
+   "speaker": "村田",
+   "text": "私は最後に鍵を返します。",
+   "start_sec": 74.193,
+   "end_sec": 76.396,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D009-S04",
+   "unit_id": "C27-D009",
+   "section": "D",
+   "speaker": "村田",
+   "text": "ミラさんは戻らなくても大丈夫ですよ。",
+   "start_sec": 76.546,
+   "end_sec": 78.85,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D010-S01",
+   "unit_id": "C27-D010",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "ありがとうございます。",
+   "start_sec": 79.2,
+   "end_sec": 80.599,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D010-S02",
+   "unit_id": "C27-D010",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "掲示の21時は最後の期限で、今日は13時前ですね。",
+   "start_sec": 80.749,
+   "end_sec": 85.772,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D010-S03",
+   "unit_id": "C27-D010",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "ちゃんと覚えました。",
+   "start_sec": 85.922,
+   "end_sec": 87.117,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D011-S01",
+   "unit_id": "C27-D011",
+   "section": "D",
+   "speaker": "石井",
+   "text": "ええ。",
+   "start_sec": 87.467,
+   "end_sec": 88.578,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D011-S02",
+   "unit_id": "C27-D011",
+   "section": "D",
+   "speaker": "石井",
+   "text": "遅れては困ります。",
+   "start_sec": 88.728,
+   "end_sec": 90.496,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D011-S03",
+   "unit_id": "C27-D011",
+   "section": "D",
+   "speaker": "石井",
+   "text": "次の人が入れませんから。",
+   "start_sec": 90.646,
+   "end_sec": 92.85,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D011-S04",
+   "unit_id": "C27-D011",
+   "section": "D",
+   "speaker": "石井",
+   "text": "それから、入口の立札は隣の会議室の注意です。",
+   "start_sec": 93.0,
+   "end_sec": 98.035,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D011-S05",
+   "unit_id": "C27-D011",
+   "section": "D",
+   "speaker": "石井",
+   "text": "事務室への出入りは管理人に相談してください。",
+   "start_sec": 98.185,
+   "end_sec": 101.367,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D012-S01",
+   "unit_id": "C27-D012",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "「土足で入るべからず」ですか。",
+   "start_sec": 101.717,
+   "end_sec": 104.437,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D012-S02",
+   "unit_id": "C27-D012",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "「靴を脱いでください」という意味ですね。",
+   "start_sec": 104.587,
+   "end_sec": 107.341,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D012-S03",
+   "unit_id": "C27-D012",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "キッチンでも脱ぎますか。",
+   "start_sec": 107.491,
+   "end_sec": 109.467,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D013-S01",
+   "unit_id": "C27-D013",
+   "section": "D",
+   "speaker": "石井",
+   "text": "キッチンでは脱がなくてもいいです。",
+   "start_sec": 109.817,
+   "end_sec": 111.978,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D013-S02",
+   "unit_id": "C27-D013",
+   "section": "D",
+   "speaker": "石井",
+   "text": "ただし、たばこはどちらでも吸ってはいけません。",
+   "start_sec": 112.128,
+   "end_sec": 114.928,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D013-S03",
+   "unit_id": "C27-D013",
+   "section": "D",
+   "speaker": "石井",
+   "text": "マッチも使わないでください。",
+   "start_sec": 115.078,
+   "end_sec": 116.798,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D014-S01",
+   "unit_id": "C27-D014",
+   "section": "D",
+   "speaker": "村田",
+   "text": "では、準備を始めましょう。",
+   "start_sec": 117.148,
+   "end_sec": 119.171,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D014-S02",
+   "unit_id": "C27-D014",
+   "section": "D",
+   "speaker": "村田",
+   "text": "机を動かす前に、下の埃を掃きます。",
+   "start_sec": 119.321,
+   "end_sec": 122.765,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D014-S03",
+   "unit_id": "C27-D014",
+   "section": "D",
+   "speaker": "村田",
+   "text": "ミラさん、この箱を見てください。",
+   "start_sec": 122.915,
+   "end_sec": 125.254,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D014-S04",
+   "unit_id": "C27-D014",
+   "section": "D",
+   "speaker": "村田",
+   "text": "新しい箱を設置しましたから、物を床に置かなくてもいいです。",
+   "start_sec": 125.404,
+   "end_sec": 129.579,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D015-S01",
+   "unit_id": "C27-D015",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "落し物の箱ですね。",
+   "start_sec": 129.929,
+   "end_sec": 131.933,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D015-S02",
+   "unit_id": "C27-D015",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "誰かの乾電池があります。",
+   "start_sec": 132.083,
+   "end_sec": 133.987,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D015-S03",
+   "unit_id": "C27-D015",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "でも、ごみですか。",
+   "start_sec": 134.137,
+   "end_sec": 135.721,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D015-S04",
+   "unit_id": "C27-D015",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "勝手に捨てるのはいけませんね。",
+   "start_sec": 135.871,
+   "end_sec": 137.773,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D016-S01",
+   "unit_id": "C27-D016",
+   "section": "D",
+   "speaker": "村田",
+   "text": "そうですね。",
+   "start_sec": 138.123,
+   "end_sec": 139.156,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D016-S02",
+   "unit_id": "C27-D016",
+   "section": "D",
+   "speaker": "村田",
+   "text": "管理人に聞きましょう。",
+   "start_sec": 139.306,
+   "end_sec": 140.915,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D016-S03",
+   "unit_id": "C27-D016",
+   "section": "D",
+   "speaker": "村田",
+   "text": "今日は大掃除ではありませんから、私たちの机の下だけでいいです。",
+   "start_sec": 141.065,
+   "end_sec": 145.593,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D017-S01",
+   "unit_id": "C27-D017",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "料理の後のごみはどうしますか。",
+   "start_sec": 145.943,
+   "end_sec": 148.261,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D017-S02",
+   "unit_id": "C27-D017",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "ビニールの袋に全部入れてもいいですか。",
+   "start_sec": 148.411,
+   "end_sec": 151.263,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D017-S03",
+   "unit_id": "C27-D017",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "紙とプラスチックは別ですか。",
+   "start_sec": 151.413,
+   "end_sec": 153.536,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D018-S01",
+   "unit_id": "C27-D018",
+   "section": "D",
+   "speaker": "村田",
+   "text": "別です。",
+   "start_sec": 153.886,
+   "end_sec": 154.73,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D018-S02",
+   "unit_id": "C27-D018",
+   "section": "D",
+   "speaker": "村田",
+   "text": "包み紙はこちら、生ゴミはあちらです。",
+   "start_sec": 154.88,
+   "end_sec": 157.859,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D018-S03",
+   "unit_id": "C27-D018",
+   "section": "D",
+   "speaker": "村田",
+   "text": "生ゴミは私が持ち帰ります。",
+   "start_sec": 158.009,
+   "end_sec": 160.225,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D018-S04",
+   "unit_id": "C27-D018",
+   "section": "D",
+   "speaker": "村田",
+   "text": "空き缶は洗って、受付の横の箱に入れてください。",
+   "start_sec": 160.375,
+   "end_sec": 163.769,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D019-S01",
+   "unit_id": "C27-D019",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "承知しました。",
+   "start_sec": 164.119,
+   "end_sec": 165.652,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D019-S02",
+   "unit_id": "C27-D019",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "外のプラカードにも「ごみを散らかさないで」とありますね。",
+   "start_sec": 165.802,
+   "end_sec": 170.011,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D019-S03",
+   "unit_id": "C27-D019",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "人が手に持って、歩行者に見せています。",
+   "start_sec": 170.161,
+   "end_sec": 172.775,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D020-S01",
+   "unit_id": "C27-D020",
+   "section": "D",
+   "speaker": "村田",
+   "text": "広場でも今日は清掃の日なんです。",
+   "start_sec": 173.125,
+   "end_sec": 176.088,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D020-S02",
+   "unit_id": "C27-D020",
+   "section": "D",
+   "speaker": "村田",
+   "text": "前に子どもがごみでいたずらをして、大人が「こらっ、ふざけるな」と言いました。",
+   "start_sec": 176.238,
+   "end_sec": 181.895,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D021-S01",
+   "unit_id": "C27-D021",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "強い言い方ですね。",
+   "start_sec": 182.245,
+   "end_sec": 184.257,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D021-S02",
+   "unit_id": "C27-D021",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "友達には「騒がないでください」でいいですか。",
+   "start_sec": 184.407,
+   "end_sec": 187.541,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D021-S03",
+   "unit_id": "C27-D021",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "大声で注意するのも困りますね。",
+   "start_sec": 187.691,
+   "end_sec": 190.132,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D022-S01",
+   "unit_id": "C27-D022",
+   "section": "D",
+   "speaker": "村田",
+   "text": "ええ。",
+   "start_sec": 190.482,
+   "end_sec": 190.954,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D022-S02",
+   "unit_id": "C27-D022",
+   "section": "D",
+   "speaker": "村田",
+   "text": "規律は大切ですが、理由も説明しましょう。",
+   "start_sec": 191.104,
+   "end_sec": 194.626,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D022-S03",
+   "unit_id": "C27-D022",
+   "section": "D",
+   "speaker": "村田",
+   "text": "秩序を守るのは、一人の仕事ではありません。",
+   "start_sec": 194.776,
+   "end_sec": 197.751,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D022-S04",
+   "unit_id": "C27-D022",
+   "section": "D",
+   "speaker": "村田",
+   "text": "私も絶対に時間を守ります。",
+   "start_sec": 197.901,
+   "end_sec": 200.068,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D023-S01",
+   "unit_id": "C27-D023",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "私は12時20分に電気を消しますか。",
+   "start_sec": 200.418,
+   "end_sec": 204.293,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D023-S02",
+   "unit_id": "C27-D023",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "それとも、まだ料理をしていますか。",
+   "start_sec": 204.443,
+   "end_sec": 207.071,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D024-S01",
+   "unit_id": "C27-D024",
+   "section": "D",
+   "speaker": "村田",
+   "text": "まだ料理をしていますから、消さないでください。",
+   "start_sec": 207.421,
+   "end_sec": 210.679,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D024-S02",
+   "unit_id": "C27-D024",
+   "section": "D",
+   "speaker": "村田",
+   "text": "最後に出る私の責任です。",
+   "start_sec": 210.829,
+   "end_sec": 213.003,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D024-S03",
+   "unit_id": "C27-D024",
+   "section": "D",
+   "speaker": "村田",
+   "text": "窓を閉めて、鍵もかけます。",
+   "start_sec": 213.153,
+   "end_sec": 215.24,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D025-S01",
+   "unit_id": "C27-D025",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "分かりました。",
+   "start_sec": 215.59,
+   "end_sec": 216.78,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D025-S02",
+   "unit_id": "C27-D025",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "午前の準備をちゃんと手伝います。",
+   "start_sec": 216.93,
+   "end_sec": 219.425,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D025-S03",
+   "unit_id": "C27-D025",
+   "section": "D",
+   "speaker": "ミラ",
+   "text": "次は仕事を片づけて、最後まで参加したいです。",
+   "start_sec": 219.575,
+   "end_sec": 223.155,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D026-S01",
+   "unit_id": "C27-D026",
+   "section": "D",
+   "speaker": "村田",
+   "text": "次は1月9日です。",
+   "start_sec": 223.505,
+   "end_sec": 225.878,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D026-S02",
+   "unit_id": "C27-D026",
+   "section": "D",
+   "speaker": "村田",
+   "text": "仕事の日程を確認したら、連絡してください。",
+   "start_sec": 226.028,
+   "end_sec": 229.185,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C27-D026-S03",
+   "unit_id": "C27-D026",
+   "section": "D",
+   "speaker": "村田",
+   "text": "まだ参加を決めなくてもかまいませんよ。",
+   "start_sec": 229.335,
+   "end_sec": 231.882,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

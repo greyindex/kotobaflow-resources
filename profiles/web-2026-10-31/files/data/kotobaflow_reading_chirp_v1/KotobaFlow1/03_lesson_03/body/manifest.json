@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "mode": "section",
+ "voice": "ja-JP-Chirp3-HD-Aoede",
+ "duration_sec": 24.705,
+ "source_chapter": 3,
+ "sentence_intervals": [
+  {
+   "sentence_id": "C03-A001-S01",
+   "section": "A",
+   "text": "これはわたしのかばんです。",
+   "start_sec": 0.0,
+   "end_sec": 2.033
+  },
+  {
+   "sentence_id": "C03-A001-S02",
+   "section": "A",
+   "text": "この本はわたしの本です。",
+   "start_sec": 2.233,
+   "end_sec": 4.387
+  },
+  {
+   "sentence_id": "C03-A001-S03",
+   "section": "A",
+   "text": "このノートもわたしのノートです。",
+   "start_sec": 4.587,
+   "end_sec": 6.8
+  },
+  {
+   "sentence_id": "C03-A002-S01",
+   "section": "A",
+   "text": "このペンは中村さんのペンです。",
+   "start_sec": 7.25,
+   "end_sec": 10.086
+  },
+  {
+   "sentence_id": "C03-A002-S02",
+   "section": "A",
+   "text": "わたしのペンではありません。",
+   "start_sec": 10.286,
+   "end_sec": 12.133
+  },
+  {
+   "sentence_id": "C03-A003-S01",
+   "section": "A",
+   "text": "この写真はパクさんの写真です。",
+   "start_sec": 12.583,
+   "end_sec": 15.336
+  },
+  {
+   "sentence_id": "C03-A003-S02",
+   "section": "A",
+   "text": "この人はパクさんです。",
+   "start_sec": 15.536,
+   "end_sec": 18.012
+  },
+  {
+   "sentence_id": "C03-A003-S03",
+   "section": "A",
+   "text": "この鍵もパクさんの鍵です。",
+   "start_sec": 18.212,
+   "end_sec": 20.605
+  },
+  {
+   "sentence_id": "C03-A003-S04",
+   "section": "A",
+   "text": "番号はゼロ、よん、に、きゅうです。",
+   "start_sec": 20.805,
+   "end_sec": 24.698
+  }
+ ]
+}

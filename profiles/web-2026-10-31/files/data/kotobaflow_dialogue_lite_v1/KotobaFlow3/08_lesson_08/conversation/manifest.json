@@ -1,0 +1,600 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 95.654,
+ "listening_review": "pending",
+ "source_chapter": 44,
+ "turns": [
+  {
+   "turn_id": "C44-D001",
+   "turn_index": 0,
+   "speaker": "アナ",
+   "source_text": "十二月十一日の準備を手伝える人はいますか。十七時から部屋を使えます。",
+   "sentence_ids": [
+    "C44-D001-S01",
+    "C44-D001-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 5.799,
+   "duration_sec": 5.799
+  },
+  {
+   "turn_id": "C44-D002",
+   "turn_index": 1,
+   "speaker": "ミン",
+   "source_text": "試験が十六時までなので、準備は休ませてください。十七時四十五分ごろ着きます。",
+   "sentence_ids": [
+    "C44-D002-S01",
+    "C44-D002-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 6.149,
+   "end_sec": 12.294,
+   "duration_sec": 6.145
+  },
+  {
+   "turn_id": "C44-D003",
+   "turn_index": 2,
+   "speaker": "アナ",
+   "source_text": "わかりました。十八時から三十分、受付を任せてもいいですか。",
+   "sentence_ids": [
+    "C44-D003-S01",
+    "C44-D003-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 12.644,
+   "end_sec": 17.715,
+   "duration_sec": 5.071
+  },
+  {
+   "turn_id": "C44-D004",
+   "turn_index": 3,
+   "speaker": "ミン",
+   "source_text": "はい。でも、前は一人で片付けをさせられました。今回は担当を外してください。",
+   "sentence_ids": [
+    "C44-D004-S01",
+    "C44-D004-S02",
+    "C44-D004-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.065,
+   "end_sec": 23.934,
+   "duration_sec": 5.869
+  },
+  {
+   "turn_id": "C44-D005",
+   "turn_index": 4,
+   "speaker": "アナ",
+   "source_text": "負担が大きかったですね。今回は三人で片付けます。佐藤さんはどうですか。",
+   "sentence_ids": [
+    "C44-D005-S01",
+    "C44-D005-S02",
+    "C44-D005-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 24.284,
+   "end_sec": 30.261,
+   "duration_sec": 5.977
+  },
+  {
+   "turn_id": "C44-D006",
+   "turn_index": 5,
+   "speaker": "佐藤",
+   "source_text": "仕事が十八時までなので、十八時四十分ごろ着きます。片付けと鍵の返却を引き受けます。",
+   "sentence_ids": [
+    "C44-D006-S01",
+    "C44-D006-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.611,
+   "end_sec": 38.136,
+   "duration_sec": 7.525
+  },
+  {
+   "turn_id": "C44-D007",
+   "turn_index": 6,
+   "speaker": "アナ",
+   "source_text": "私も片付けます。三人目はメールで聞きます。鍵は二十一時までに返してください。",
+   "sentence_ids": [
+    "C44-D007-S01",
+    "C44-D007-S02",
+    "C44-D007-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.486,
+   "end_sec": 44.83,
+   "duration_sec": 6.344
+  },
+  {
+   "turn_id": "C44-D008",
+   "turn_index": 7,
+   "speaker": "ミン",
+   "source_text": "時間があれば私も手伝わせてください。劇のほうは、だれが責任者ですか。",
+   "sentence_ids": [
+    "C44-D008-S01",
+    "C44-D008-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 45.18,
+   "end_sec": 50.268,
+   "duration_sec": 5.088
+  },
+  {
+   "turn_id": "C44-D009",
+   "turn_index": 8,
+   "speaker": "アナ",
+   "source_text": "監督役の田中さんです。会長から責任者に命じられました。白羽の矢が立ったのは経験があるからです。大役が務まるか心配していました。",
+   "sentence_ids": [
+    "C44-D009-S01",
+    "C44-D009-S02",
+    "C44-D009-S03",
+    "C44-D009-S04"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 50.618,
+   "end_sec": 60.634,
+   "duration_sec": 10.016
+  },
+  {
+   "turn_id": "C44-D010",
+   "turn_index": 9,
+   "speaker": "佐藤",
+   "source_text": "鶴の一声で決まったんですか。私は仕事柄、そういう決め方が気になります。",
+   "sentence_ids": [
+    "C44-D010-S01",
+    "C44-D010-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 60.984,
+   "end_sec": 66.875,
+   "duration_sec": 5.891
+  },
+  {
+   "turn_id": "C44-D011",
+   "turn_index": 10,
+   "speaker": "ミン",
+   "source_text": "田中さんには先に確認しましたよね。昨日「最後までやり抜いてみせる」と言っていました。私はキャラクターのなりきり写真を見せてもらいました。ウエスタン・スタイルでポーズも決まっていました。",
+   "sentence_ids": [
+    "C44-D011-S01",
+    "C44-D011-S02",
+    "C44-D011-S03",
+    "C44-D011-S04"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 67.225,
+   "end_sec": 78.757,
+   "duration_sec": 11.532
+  },
+  {
+   "turn_id": "C44-D012",
+   "turn_index": 11,
+   "speaker": "アナ",
+   "source_text": "はい、承諾をもらいました。最後はデュエットもあります。それと十九日十時から十二時の掃除は自由参加です。私とミンさんは参加、佐藤さんは会社の予定で辞退ですね。ほかの人の返事は四日まで待ちます。",
+   "sentence_ids": [
+    "C44-D012-S01",
+    "C44-D012-S02",
+    "C44-D012-S03",
+    "C44-D012-S04",
+    "C44-D012-S05"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 79.107,
+   "end_sec": 95.648,
+   "duration_sec": 16.541
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C44-D001-S01",
+   "unit_id": "C44-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "十二月十一日の準備を手伝える人はいますか。",
+   "start_sec": 0.0,
+   "end_sec": 3.625,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D001-S02",
+   "unit_id": "C44-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "十七時から部屋を使えます。",
+   "start_sec": 3.775,
+   "end_sec": 5.799,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D002-S01",
+   "unit_id": "C44-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "試験が十六時までなので、準備は休ませてください。",
+   "start_sec": 6.149,
+   "end_sec": 9.875,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D002-S02",
+   "unit_id": "C44-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "十七時四十五分ごろ着きます。",
+   "start_sec": 10.025,
+   "end_sec": 12.294,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D003-S01",
+   "unit_id": "C44-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "わかりました。",
+   "start_sec": 12.644,
+   "end_sec": 13.704,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D003-S02",
+   "unit_id": "C44-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "十八時から三十分、受付を任せてもいいですか。",
+   "start_sec": 13.854,
+   "end_sec": 17.715,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D004-S01",
+   "unit_id": "C44-D004",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "はい。",
+   "start_sec": 18.065,
+   "end_sec": 18.682,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D004-S02",
+   "unit_id": "C44-D004",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "でも、前は一人で片付けをさせられました。",
+   "start_sec": 18.832,
+   "end_sec": 21.696,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D004-S03",
+   "unit_id": "C44-D004",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "今回は担当を外してください。",
+   "start_sec": 21.846,
+   "end_sec": 23.934,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D005-S01",
+   "unit_id": "C44-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "負担が大きかったですね。",
+   "start_sec": 24.284,
+   "end_sec": 26.36,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D005-S02",
+   "unit_id": "C44-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "今回は三人で片付けます。",
+   "start_sec": 26.51,
+   "end_sec": 28.606,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D005-S03",
+   "unit_id": "C44-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "佐藤さんはどうですか。",
+   "start_sec": 28.756,
+   "end_sec": 30.261,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D006-S01",
+   "unit_id": "C44-D006",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "仕事が十八時までなので、十八時四十分ごろ着きます。",
+   "start_sec": 30.611,
+   "end_sec": 35.504,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D006-S02",
+   "unit_id": "C44-D006",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "片付けと鍵の返却を引き受けます。",
+   "start_sec": 35.654,
+   "end_sec": 38.136,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D007-S01",
+   "unit_id": "C44-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "私も片付けます。",
+   "start_sec": 38.486,
+   "end_sec": 39.95,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D007-S02",
+   "unit_id": "C44-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "三人目はメールで聞きます。",
+   "start_sec": 40.1,
+   "end_sec": 42.115,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D007-S03",
+   "unit_id": "C44-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "鍵は二十一時までに返してください。",
+   "start_sec": 42.265,
+   "end_sec": 44.83,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D008-S01",
+   "unit_id": "C44-D008",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "時間があれば私も手伝わせてください。",
+   "start_sec": 45.18,
+   "end_sec": 47.75,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D008-S02",
+   "unit_id": "C44-D008",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "劇のほうは、だれが責任者ですか。",
+   "start_sec": 47.9,
+   "end_sec": 50.268,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D009-S01",
+   "unit_id": "C44-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "監督役の田中さんです。",
+   "start_sec": 50.618,
+   "end_sec": 52.543,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D009-S02",
+   "unit_id": "C44-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "会長から責任者に命じられました。",
+   "start_sec": 52.693,
+   "end_sec": 55.142,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D009-S03",
+   "unit_id": "C44-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "白羽の矢が立ったのは経験があるからです。",
+   "start_sec": 55.292,
+   "end_sec": 58.082,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D009-S04",
+   "unit_id": "C44-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "大役が務まるか心配していました。",
+   "start_sec": 58.232,
+   "end_sec": 60.634,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D010-S01",
+   "unit_id": "C44-D010",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "鶴の一声で決まったんですか。",
+   "start_sec": 60.984,
+   "end_sec": 63.428,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D010-S02",
+   "unit_id": "C44-D010",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "私は仕事柄、そういう決め方が気になります。",
+   "start_sec": 63.578,
+   "end_sec": 66.875,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D011-S01",
+   "unit_id": "C44-D011",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "田中さんには先に確認しましたよね。",
+   "start_sec": 67.225,
+   "end_sec": 69.807,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D011-S02",
+   "unit_id": "C44-D011",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "昨日「最後までやり抜いてみせる」と言っていました。",
+   "start_sec": 69.957,
+   "end_sec": 73.138,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D011-S03",
+   "unit_id": "C44-D011",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "私はキャラクターのなりきり写真を見せてもらいました。",
+   "start_sec": 73.288,
+   "end_sec": 76.251,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D011-S04",
+   "unit_id": "C44-D011",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "ウエスタン・スタイルでポーズも決まっていました。",
+   "start_sec": 76.401,
+   "end_sec": 78.757,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D012-S01",
+   "unit_id": "C44-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "はい、承諾をもらいました。",
+   "start_sec": 79.107,
+   "end_sec": 81.426,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D012-S02",
+   "unit_id": "C44-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "最後はデュエットもあります。",
+   "start_sec": 81.576,
+   "end_sec": 83.516,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D012-S03",
+   "unit_id": "C44-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "それと十九日十時から十二時の掃除は自由参加です。",
+   "start_sec": 83.666,
+   "end_sec": 88.324,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D012-S04",
+   "unit_id": "C44-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "私とミンさんは参加、佐藤さんは会社の予定で辞退ですね。",
+   "start_sec": 88.474,
+   "end_sec": 93.165,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C44-D012-S05",
+   "unit_id": "C44-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ほかの人の返事は四日まで待ちます。",
+   "start_sec": 93.315,
+   "end_sec": 95.648,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

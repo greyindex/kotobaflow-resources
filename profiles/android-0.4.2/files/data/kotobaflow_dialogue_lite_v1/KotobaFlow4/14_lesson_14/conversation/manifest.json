@@ -1,0 +1,435 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 91.902,
+ "listening_review": "pending",
+ "source_chapter": 70,
+ "turns": [
+  {
+   "turn_id": "C70-D011",
+   "turn_index": 0,
+   "speaker": "林梅",
+   "source_text": "読書会の紹介を直しました。「人気だから誰もが楽しめる」とは書かず、私が読んだ限りでは、手紙の謎を考える楽しさがある、としました。",
+   "sentence_ids": [
+    "C70-D011-S01",
+    "C70-D011-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 10.454,
+   "duration_sec": 10.454
+  },
+  {
+   "turn_id": "C70-D012",
+   "turn_index": 1,
+   "speaker": "ハサン",
+   "source_text": "でも、スリラーが好きな人には静かすぎませんか。私は緊張するストーリーを期待して、少し物足りなく感じました。",
+   "sentence_ids": [
+    "C70-D012-S01",
+    "C70-D012-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 10.804,
+   "end_sec": 19.374,
+   "duration_sec": 8.57
+  },
+  {
+   "turn_id": "C70-D013",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "それは大切な反例ですね。あなたの感想も載せましょう。同じ本でも、期待するものが違えば評価も変わります。",
+   "sentence_ids": [
+    "C70-D013-S01",
+    "C70-D013-S02",
+    "C70-D013-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 19.724,
+   "end_sec": 27.781,
+   "duration_sec": 8.057
+  },
+  {
+   "turn_id": "C70-D014",
+   "turn_index": 3,
+   "speaker": "野口",
+   "source_text": "朗読の紹介には「オリジナルの演出」とありますが、誰が考えたのですか。既存の映画と同じなら、その説明は使えません。",
+   "sentence_ids": [
+    "C70-D014-S01",
+    "C70-D014-S02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.131,
+   "end_sec": 37.058,
+   "duration_sec": 8.927
+  },
+  {
+   "turn_id": "C70-D015",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "口拍子の部分は私たちの案です。まだ上演していないので、「今回考えた演出案」と書きます。今、正に練習を始めようとしていたところです。",
+   "sentence_ids": [
+    "C70-D015-S01",
+    "C70-D015-S02",
+    "C70-D015-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.408,
+   "end_sec": 48.346,
+   "duration_sec": 10.938
+  },
+  {
+   "turn_id": "C70-D016",
+   "turn_index": 5,
+   "speaker": "ハサン",
+   "source_text": "それなら、発音も確認しませんか。台詞のアクセントを一か所間違えると、別の意味に聞こえることがあります。",
+   "sentence_ids": [
+    "C70-D016-S01",
+    "C70-D016-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 48.696,
+   "end_sec": 55.8,
+   "duration_sec": 7.104
+  },
+  {
+   "turn_id": "C70-D017",
+   "turn_index": 6,
+   "speaker": "野口",
+   "source_text": "賛成です。ただ、今日は全てを決める時間はありません。まず短い場面を読み、聞き取りにくい所を記録しましょう。",
+   "sentence_ids": [
+    "C70-D017-S01",
+    "C70-D017-S02",
+    "C70-D017-S03"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 56.15,
+   "end_sec": 65.355,
+   "duration_sec": 9.205
+  },
+  {
+   "turn_id": "C70-D018",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "はい。案内図の報告も、残る四人の意見と八人の未回答を消していません。次の調査方法も日程もまだ案の段階ですね。",
+   "sentence_ids": [
+    "C70-D018-S01",
+    "C70-D018-S02",
+    "C70-D018-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 65.705,
+   "end_sec": 76.725,
+   "duration_sec": 11.02
+  },
+  {
+   "turn_id": "C70-D019",
+   "turn_index": 8,
+   "speaker": "野口",
+   "source_text": "ええ。紹介文も報告も、確認できた事実と期待を分けましょう。読み手が自分で判断できる材料を残すことが大事です。次回は参加者の反応も聞き、紹介が役立ったか確かめたいですね。",
+   "sentence_ids": [
+    "C70-D019-S01",
+    "C70-D019-S02",
+    "C70-D019-S03",
+    "C70-D019-S04"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.075,
+   "end_sec": 91.896,
+   "duration_sec": 14.821
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C70-D011-S01",
+   "unit_id": "C70-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "読書会の紹介を直しました。",
+   "start_sec": 0.0,
+   "end_sec": 2.299,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D011-S02",
+   "unit_id": "C70-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「人気だから誰もが楽しめる」とは書かず、私が読んだ限りでは、手紙の謎を考える楽しさがある、としました。",
+   "start_sec": 2.449,
+   "end_sec": 10.454,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D012-S01",
+   "unit_id": "C70-D012",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "でも、スリラーが好きな人には静かすぎませんか。",
+   "start_sec": 10.804,
+   "end_sec": 14.819,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D012-S02",
+   "unit_id": "C70-D012",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "私は緊張するストーリーを期待して、少し物足りなく感じました。",
+   "start_sec": 14.969,
+   "end_sec": 19.374,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D013-S01",
+   "unit_id": "C70-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "それは大切な反例ですね。",
+   "start_sec": 19.724,
+   "end_sec": 21.93,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D013-S02",
+   "unit_id": "C70-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "あなたの感想も載せましょう。",
+   "start_sec": 22.08,
+   "end_sec": 23.975,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D013-S03",
+   "unit_id": "C70-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "同じ本でも、期待するものが違えば評価も変わります。",
+   "start_sec": 24.125,
+   "end_sec": 27.781,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D014-S01",
+   "unit_id": "C70-D014",
+   "section": "D",
+   "speaker": "野口",
+   "text": "朗読の紹介には「オリジナルの演出」とありますが、誰が考えたのですか。",
+   "start_sec": 28.131,
+   "end_sec": 33.743,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D014-S02",
+   "unit_id": "C70-D014",
+   "section": "D",
+   "speaker": "野口",
+   "text": "既存の映画と同じなら、その説明は使えません。",
+   "start_sec": 33.893,
+   "end_sec": 37.058,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D015-S01",
+   "unit_id": "C70-D015",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "口拍子の部分は私たちの案です。",
+   "start_sec": 37.408,
+   "end_sec": 39.996,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D015-S02",
+   "unit_id": "C70-D015",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "まだ上演していないので、「今回考えた演出案」と書きます。",
+   "start_sec": 40.146,
+   "end_sec": 45.121,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D015-S03",
+   "unit_id": "C70-D015",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "今、正に練習を始めようとしていたところです。",
+   "start_sec": 45.271,
+   "end_sec": 48.346,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D016-S01",
+   "unit_id": "C70-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "それなら、発音も確認しませんか。",
+   "start_sec": 48.696,
+   "end_sec": 51.566,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D016-S02",
+   "unit_id": "C70-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "台詞のアクセントを一か所間違えると、別の意味に聞こえることがあります。",
+   "start_sec": 51.716,
+   "end_sec": 55.8,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D017-S01",
+   "unit_id": "C70-D017",
+   "section": "D",
+   "speaker": "野口",
+   "text": "賛成です。",
+   "start_sec": 56.15,
+   "end_sec": 57.372,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D017-S02",
+   "unit_id": "C70-D017",
+   "section": "D",
+   "speaker": "野口",
+   "text": "ただ、今日は全てを決める時間はありません。",
+   "start_sec": 57.522,
+   "end_sec": 61.056,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D017-S03",
+   "unit_id": "C70-D017",
+   "section": "D",
+   "speaker": "野口",
+   "text": "まず短い場面を読み、聞き取りにくい所を記録しましょう。",
+   "start_sec": 61.206,
+   "end_sec": 65.355,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D018-S01",
+   "unit_id": "C70-D018",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "はい。",
+   "start_sec": 65.705,
+   "end_sec": 66.526,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D018-S02",
+   "unit_id": "C70-D018",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "案内図の報告も、残る四人の意見と八人の未回答を消していません。",
+   "start_sec": 66.676,
+   "end_sec": 72.266,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D018-S03",
+   "unit_id": "C70-D018",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "次の調査方法も日程もまだ案の段階ですね。",
+   "start_sec": 72.416,
+   "end_sec": 76.725,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D019-S01",
+   "unit_id": "C70-D019",
+   "section": "D",
+   "speaker": "野口",
+   "text": "ええ。",
+   "start_sec": 77.075,
+   "end_sec": 77.766,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D019-S02",
+   "unit_id": "C70-D019",
+   "section": "D",
+   "speaker": "野口",
+   "text": "紹介文も報告も、確認できた事実と期待を分けましょう。",
+   "start_sec": 77.916,
+   "end_sec": 82.649,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D019-S03",
+   "unit_id": "C70-D019",
+   "section": "D",
+   "speaker": "野口",
+   "text": "読み手が自分で判断できる材料を残すことが大事です。",
+   "start_sec": 82.799,
+   "end_sec": 86.868,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C70-D019-S04",
+   "unit_id": "C70-D019",
+   "section": "D",
+   "speaker": "野口",
+   "text": "次回は参加者の反応も聞き、紹介が役立ったか確かめたいですね。",
+   "start_sec": 87.018,
+   "end_sec": 91.896,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

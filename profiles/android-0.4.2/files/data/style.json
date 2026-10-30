@@ -1,0 +1,73 @@
+{
+  "taxonomy_name": "style",
+  "taxonomy_kind": "enum",
+  "version": "2.0.0",
+  "unknown_code": "unknown",
+  "description": "style v2 closed vocabulary.",
+  "items": [
+    {
+      "code": "general",
+      "label_zh": "通用",
+      "label_ja": "一般",
+      "status": "active"
+    },
+    {
+      "code": "spoken",
+      "label_zh": "口语",
+      "label_ja": "話し言葉",
+      "status": "active"
+    },
+    {
+      "code": "written",
+      "label_zh": "书面",
+      "label_ja": "書き言葉",
+      "status": "active"
+    },
+    {
+      "code": "unknown",
+      "label_zh": "未知",
+      "label_ja": "不明",
+      "status": "active"
+    }
+  ],
+  "dimensions": {
+    "genres": [
+      {
+        "code": "literary",
+        "label_zh": "文学",
+        "label_ja": "文学",
+        "status": "active"
+      },
+      {
+        "code": "news",
+        "label_zh": "新闻",
+        "label_ja": "ニュース",
+        "status": "active"
+      },
+      {
+        "code": "academic",
+        "label_zh": "学术",
+        "label_ja": "学術",
+        "status": "active"
+      },
+      {
+        "code": "official",
+        "label_zh": "官方",
+        "label_ja": "公的",
+        "status": "active"
+      },
+      {
+        "code": "business",
+        "label_zh": "商务",
+        "label_ja": "ビジネス",
+        "status": "active"
+      },
+      {
+        "code": "educational",
+        "label_zh": "教学",
+        "label_ja": "教育",
+        "status": "active"
+      }
+    ]
+  }
+}

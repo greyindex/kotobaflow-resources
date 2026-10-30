@@ -1,0 +1,837 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 122.48,
+ "listening_review": "pending",
+ "source_chapter": 37,
+ "turns": [
+  {
+   "turn_id": "C37-D001",
+   "turn_index": 0,
+   "speaker": "西田",
+   "source_text": "写真を見せてください。私は設備の管理をしています。今は道具を触らないで、ここで静かでいてください。",
+   "sentence_ids": [
+    "C37-D001-S01",
+    "C37-D001-S02",
+    "C37-D001-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 7.805,
+   "duration_sec": 7.805
+  },
+  {
+   "turn_id": "C37-D002",
+   "turn_index": 1,
+   "speaker": "アナ",
+   "source_text": "はい。窓のそばの台が傾いています。箱を抱えて動かしてもいいですか。",
+   "sentence_ids": [
+    "C37-D002-S01",
+    "C37-D002-S02",
+    "C37-D002-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 8.155,
+   "end_sec": 14.177,
+   "duration_sec": 6.022
+  },
+  {
+   "turn_id": "C37-D003",
+   "turn_index": 2,
+   "speaker": "西田",
+   "source_text": "その前に箱の中を見ましょう。尖った部分があります。布を広げて包んでください。手を放す前に声を掛けてください。",
+   "sentence_ids": [
+    "C37-D003-S01",
+    "C37-D003-S02",
+    "C37-D003-S03",
+    "C37-D003-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 14.527,
+   "end_sec": 23.493,
+   "duration_sec": 8.966
+  },
+  {
+   "turn_id": "C37-D004",
+   "turn_index": 3,
+   "speaker": "アナ",
+   "source_text": "あっ、模型が飛び出しました。バッと手を出しましたが、受け止められませんでした。",
+   "sentence_ids": [
+    "C37-D004-S01",
+    "C37-D004-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 23.843,
+   "end_sec": 30.228,
+   "duration_sec": 6.385
+  },
+  {
+   "turn_id": "C37-D005",
+   "turn_index": 4,
+   "speaker": "西田",
+   "source_text": "机に当たりましたね。倒れた台を起こしてから、下の模型を引き出しましょう。壁に手を当てて、台を支えてください。",
+   "sentence_ids": [
+    "C37-D005-S01",
+    "C37-D005-S02",
+    "C37-D005-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.578,
+   "end_sec": 38.4,
+   "duration_sec": 7.822
+  },
+  {
+   "turn_id": "C37-D006",
+   "turn_index": 5,
+   "speaker": "アナ",
+   "source_text": "足を突っ張って支えています。模型は割れていませんが、横の飾りが砕けています。私が弾き飛ばしたのかもしれません。",
+   "sentence_ids": [
+    "C37-D006-S01",
+    "C37-D006-S02",
+    "C37-D006-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.75,
+   "end_sec": 47.166,
+   "duration_sec": 8.416
+  },
+  {
+   "turn_id": "C37-D007",
+   "turn_index": 6,
+   "speaker": "西田",
+   "source_text": "今のことも記録しましょう。棚の下に落としたボタンは拾えますか。服のボタンです。",
+   "sentence_ids": [
+    "C37-D007-S01",
+    "C37-D007-S02",
+    "C37-D007-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.516,
+   "end_sec": 53.064,
+   "duration_sec": 5.548
+  },
+  {
+   "turn_id": "C37-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "拾えました。床を濡らしたのも私ですか。流しから水が溢れています。",
+   "sentence_ids": [
+    "C37-D008-S01",
+    "C37-D008-S02",
+    "C37-D008-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 53.414,
+   "end_sec": 59.371,
+   "duration_sec": 5.957
+  },
+  {
+   "turn_id": "C37-D009",
+   "turn_index": 8,
+   "speaker": "西田",
+   "source_text": "水は先にありました。ホースの先を引き上げてください。今、水を止めます。布で机のインクを取れますか。",
+   "sentence_ids": [
+    "C37-D009-S01",
+    "C37-D009-S02",
+    "C37-D009-S03",
+    "C37-D009-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.721,
+   "end_sec": 67.974,
+   "duration_sec": 8.253
+  },
+  {
+   "turn_id": "C37-D010",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "はい。ほこりも払います。床には筆が一本と一束の紙があります。濡れた紙は外に放り出していいですか。",
+   "sentence_ids": [
+    "C37-D010-S01",
+    "C37-D010-S02",
+    "C37-D010-S03",
+    "C37-D010-S04"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.324,
+   "end_sec": 77.296,
+   "duration_sec": 8.972
+  },
+  {
+   "turn_id": "C37-D011",
+   "turn_index": 10,
+   "speaker": "西田",
+   "source_text": "いいえ、展示に使う紙です。ばらばらの紙を集めましょう。目の前の写真にも水を掛けないでください。処分するのは、写真ではなく、撮影に使った果物です。",
+   "sentence_ids": [
+    "C37-D011-S01",
+    "C37-D011-S02",
+    "C37-D011-S03",
+    "C37-D011-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.646,
+   "end_sec": 89.335,
+   "duration_sec": 11.689
+  },
+  {
+   "turn_id": "C37-D012",
+   "turn_index": 11,
+   "speaker": "アナ",
+   "source_text": "わかりました。犬一頭と鳥二羽の写真の隣ですね。冷めたお茶と果物が写っています。写真は残して、もう腐っている実物の果物を片付けます。",
+   "sentence_ids": [
+    "C37-D012-S01",
+    "C37-D012-S02",
+    "C37-D012-S03",
+    "C37-D012-S04"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.685,
+   "end_sec": 100.897,
+   "duration_sec": 11.212
+  },
+  {
+   "turn_id": "C37-D013",
+   "turn_index": 12,
+   "speaker": "西田",
+   "source_text": "果物は片付けます。燃えるごみの日を確認してください。机を汚したくないので、袋に入れましょう。",
+   "sentence_ids": [
+    "C37-D013-S01",
+    "C37-D013-S02",
+    "C37-D013-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 101.247,
+   "end_sec": 108.347,
+   "duration_sec": 7.1
+  },
+  {
+   "turn_id": "C37-D014",
+   "turn_index": 13,
+   "speaker": "アナ",
+   "source_text": "ベルが鳴りました。原さんですか。ずっと待っていて、髪も乱れています。",
+   "sentence_ids": [
+    "C37-D014-S01",
+    "C37-D014-S02",
+    "C37-D014-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 108.697,
+   "end_sec": 113.704,
+   "duration_sec": 5.007
+  },
+  {
+   "turn_id": "C37-D015",
+   "turn_index": 14,
+   "speaker": "西田",
+   "source_text": "原さんは明日です。今は日本語の会の人でしょう。私はベルを鳴らした人を迎えます。まず電気を点けてください。",
+   "sentence_ids": [
+    "C37-D015-S01",
+    "C37-D015-S02",
+    "C37-D015-S03",
+    "C37-D015-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 114.054,
+   "end_sec": 122.473,
+   "duration_sec": 8.419
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C37-D001-S01",
+   "unit_id": "C37-D001",
+   "section": "D",
+   "speaker": "西田",
+   "text": "写真を見せてください。",
+   "start_sec": 0.0,
+   "end_sec": 1.653,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D001-S02",
+   "unit_id": "C37-D001",
+   "section": "D",
+   "speaker": "西田",
+   "text": "私は設備の管理をしています。",
+   "start_sec": 1.803,
+   "end_sec": 4.078,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D001-S03",
+   "unit_id": "C37-D001",
+   "section": "D",
+   "speaker": "西田",
+   "text": "今は道具を触らないで、ここで静かでいてください。",
+   "start_sec": 4.228,
+   "end_sec": 7.805,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D002-S01",
+   "unit_id": "C37-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "はい。",
+   "start_sec": 8.155,
+   "end_sec": 8.833,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D002-S02",
+   "unit_id": "C37-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "窓のそばの台が傾いています。",
+   "start_sec": 8.983,
+   "end_sec": 11.353,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D002-S03",
+   "unit_id": "C37-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "箱を抱えて動かしてもいいですか。",
+   "start_sec": 11.503,
+   "end_sec": 14.177,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D003-S01",
+   "unit_id": "C37-D003",
+   "section": "D",
+   "speaker": "西田",
+   "text": "その前に箱の中を見ましょう。",
+   "start_sec": 14.527,
+   "end_sec": 17.127,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D003-S02",
+   "unit_id": "C37-D003",
+   "section": "D",
+   "speaker": "西田",
+   "text": "尖った部分があります。",
+   "start_sec": 17.277,
+   "end_sec": 18.872,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D003-S03",
+   "unit_id": "C37-D003",
+   "section": "D",
+   "speaker": "西田",
+   "text": "布を広げて包んでください。",
+   "start_sec": 19.022,
+   "end_sec": 21.032,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D003-S04",
+   "unit_id": "C37-D003",
+   "section": "D",
+   "speaker": "西田",
+   "text": "手を放す前に声を掛けてください。",
+   "start_sec": 21.182,
+   "end_sec": 23.493,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D004-S01",
+   "unit_id": "C37-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "あっ、模型が飛び出しました。",
+   "start_sec": 23.843,
+   "end_sec": 26.395,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D004-S02",
+   "unit_id": "C37-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "バッと手を出しましたが、受け止められませんでした。",
+   "start_sec": 26.545,
+   "end_sec": 30.228,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D005-S01",
+   "unit_id": "C37-D005",
+   "section": "D",
+   "speaker": "西田",
+   "text": "机に当たりましたね。",
+   "start_sec": 30.578,
+   "end_sec": 32.157,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D005-S02",
+   "unit_id": "C37-D005",
+   "section": "D",
+   "speaker": "西田",
+   "text": "倒れた台を起こしてから、下の模型を引き出しましょう。",
+   "start_sec": 32.307,
+   "end_sec": 35.723,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D005-S03",
+   "unit_id": "C37-D005",
+   "section": "D",
+   "speaker": "西田",
+   "text": "壁に手を当てて、台を支えてください。",
+   "start_sec": 35.873,
+   "end_sec": 38.4,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D006-S01",
+   "unit_id": "C37-D006",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "足を突っ張って支えています。",
+   "start_sec": 38.75,
+   "end_sec": 40.841,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D006-S02",
+   "unit_id": "C37-D006",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "模型は割れていませんが、横の飾りが砕けています。",
+   "start_sec": 40.991,
+   "end_sec": 44.68,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D006-S03",
+   "unit_id": "C37-D006",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "私が弾き飛ばしたのかもしれません。",
+   "start_sec": 44.83,
+   "end_sec": 47.166,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D007-S01",
+   "unit_id": "C37-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "今のことも記録しましょう。",
+   "start_sec": 47.516,
+   "end_sec": 49.164,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D007-S02",
+   "unit_id": "C37-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "棚の下に落としたボタンは拾えますか。",
+   "start_sec": 49.314,
+   "end_sec": 51.808,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D007-S03",
+   "unit_id": "C37-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "服のボタンです。",
+   "start_sec": 51.958,
+   "end_sec": 53.064,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D008-S01",
+   "unit_id": "C37-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "拾えました。",
+   "start_sec": 53.414,
+   "end_sec": 54.657,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D008-S02",
+   "unit_id": "C37-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "床を濡らしたのも私ですか。",
+   "start_sec": 54.807,
+   "end_sec": 57.119,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D008-S03",
+   "unit_id": "C37-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "流しから水が溢れています。",
+   "start_sec": 57.269,
+   "end_sec": 59.371,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D009-S01",
+   "unit_id": "C37-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "水は先にありました。",
+   "start_sec": 59.721,
+   "end_sec": 61.429,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D009-S02",
+   "unit_id": "C37-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ホースの先を引き上げてください。",
+   "start_sec": 61.579,
+   "end_sec": 63.893,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D009-S03",
+   "unit_id": "C37-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "今、水を止めます。",
+   "start_sec": 64.043,
+   "end_sec": 65.526,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D009-S04",
+   "unit_id": "C37-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "布で机のインクを取れますか。",
+   "start_sec": 65.676,
+   "end_sec": 67.974,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D010-S01",
+   "unit_id": "C37-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "はい。",
+   "start_sec": 68.324,
+   "end_sec": 69.022,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D010-S02",
+   "unit_id": "C37-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ほこりも払います。",
+   "start_sec": 69.172,
+   "end_sec": 70.708,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D010-S03",
+   "unit_id": "C37-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "床には筆が一本と一束の紙があります。",
+   "start_sec": 70.858,
+   "end_sec": 74.416,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D010-S04",
+   "unit_id": "C37-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "濡れた紙は外に放り出していいですか。",
+   "start_sec": 74.566,
+   "end_sec": 77.296,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D011-S01",
+   "unit_id": "C37-D011",
+   "section": "D",
+   "speaker": "西田",
+   "text": "いいえ、展示に使う紙です。",
+   "start_sec": 77.646,
+   "end_sec": 79.873,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D011-S02",
+   "unit_id": "C37-D011",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ばらばらの紙を集めましょう。",
+   "start_sec": 80.023,
+   "end_sec": 82.05,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D011-S03",
+   "unit_id": "C37-D011",
+   "section": "D",
+   "speaker": "西田",
+   "text": "目の前の写真にも水を掛けないでください。",
+   "start_sec": 82.2,
+   "end_sec": 84.982,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D011-S04",
+   "unit_id": "C37-D011",
+   "section": "D",
+   "speaker": "西田",
+   "text": "処分するのは、写真ではなく、撮影に使った果物です。",
+   "start_sec": 85.132,
+   "end_sec": 89.335,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D012-S01",
+   "unit_id": "C37-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "わかりました。",
+   "start_sec": 89.685,
+   "end_sec": 90.704,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D012-S02",
+   "unit_id": "C37-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "犬一頭と鳥二羽の写真の隣ですね。",
+   "start_sec": 90.854,
+   "end_sec": 94.153,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D012-S03",
+   "unit_id": "C37-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "冷めたお茶と果物が写っています。",
+   "start_sec": 94.303,
+   "end_sec": 96.636,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D012-S04",
+   "unit_id": "C37-D012",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "写真は残して、もう腐っている実物の果物を片付けます。",
+   "start_sec": 96.786,
+   "end_sec": 100.897,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D013-S01",
+   "unit_id": "C37-D013",
+   "section": "D",
+   "speaker": "西田",
+   "text": "果物は片付けます。",
+   "start_sec": 101.247,
+   "end_sec": 102.734,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D013-S02",
+   "unit_id": "C37-D013",
+   "section": "D",
+   "speaker": "西田",
+   "text": "燃えるごみの日を確認してください。",
+   "start_sec": 102.884,
+   "end_sec": 105.238,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D013-S03",
+   "unit_id": "C37-D013",
+   "section": "D",
+   "speaker": "西田",
+   "text": "机を汚したくないので、袋に入れましょう。",
+   "start_sec": 105.388,
+   "end_sec": 108.347,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D014-S01",
+   "unit_id": "C37-D014",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ベルが鳴りました。",
+   "start_sec": 108.697,
+   "end_sec": 109.91,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D014-S02",
+   "unit_id": "C37-D014",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "原さんですか。",
+   "start_sec": 110.06,
+   "end_sec": 111.319,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D014-S03",
+   "unit_id": "C37-D014",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ずっと待っていて、髪も乱れています。",
+   "start_sec": 111.469,
+   "end_sec": 113.704,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D015-S01",
+   "unit_id": "C37-D015",
+   "section": "D",
+   "speaker": "西田",
+   "text": "原さんは明日です。",
+   "start_sec": 114.054,
+   "end_sec": 115.56,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D015-S02",
+   "unit_id": "C37-D015",
+   "section": "D",
+   "speaker": "西田",
+   "text": "今は日本語の会の人でしょう。",
+   "start_sec": 115.71,
+   "end_sec": 117.934,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D015-S03",
+   "unit_id": "C37-D015",
+   "section": "D",
+   "speaker": "西田",
+   "text": "私はベルを鳴らした人を迎えます。",
+   "start_sec": 118.084,
+   "end_sec": 120.604,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C37-D015-S04",
+   "unit_id": "C37-D015",
+   "section": "D",
+   "speaker": "西田",
+   "text": "まず電気を点けてください。",
+   "start_sec": 120.754,
+   "end_sec": 122.473,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

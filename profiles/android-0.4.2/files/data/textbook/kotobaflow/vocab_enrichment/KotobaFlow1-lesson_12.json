@@ -1,0 +1,4649 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow1",
+  "lesson_id": "lesson_12",
+  "entries": [
+    {
+      "textbook_uid": "cfv-f6d2aeb9ef075b40",
+      "index": 478,
+      "word": "一緒",
+      "reading_hiragana": "いっしょ",
+      "context_meaning_zh": "一起",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一起",
+          "meaning_ja": "人と同じ場所で同じことをする様子。",
+          "example_ja": "妹と一緒に公園を散歩しました。",
+          "example_zh": "我和妹妹一起在公园散步。"
+        },
+        {
+          "meaning_zh": "同样；一样",
+          "meaning_ja": "二つ以上のものに違いがない様子。",
+          "example_ja": "私の答えは姉の答えと一緒でした。",
+          "example_zh": "我的答案和姐姐的一样。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一緒に行く",
+          "zh": "一起去"
+        },
+        {
+          "ja": "友達と一緒",
+          "zh": "和朋友一起"
+        }
+      ],
+      "usage_note_zh": "常用「人と一緒に＋动作」表示共同做某事；「一緒に」中的に连接后续动作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「一緒」在本义下作名词，例句通过「と一緒に／一緒の」表达共同或相同关系；词典adj-no不等于ナ形容词。",
+        "dictionary_sequences": [
+          1163400
+        ],
+        "identity": {
+          "word": "一緒",
+          "reading_hiragana": "いっしょ",
+          "meaning": "一起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1e2dae6746df3038",
+      "index": 479,
+      "word": "週末",
+      "reading_hiragana": "しゅうまつ",
+      "context_meaning_zh": "周末",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "周末",
+          "meaning_ja": "一周の終わりに当たる土曜日と日曜日。",
+          "example_ja": "週末は家でゆっくり休みます。",
+          "example_zh": "周末我在家好好休息。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "週末に出かける",
+          "zh": "周末出门"
+        },
+        {
+          "ja": "週末の予定",
+          "zh": "周末安排"
+        }
+      ],
+      "usage_note_zh": "「来週」可直接作时间状语，如「来週、友達に会います」；一般表达中通常不加「に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「週末」指一周末尾的时段；词典兼列名词与时间副词，例句多作时间名词并可充当时间状语。",
+        "dictionary_sequences": [
+          1333520
+        ],
+        "identity": {
+          "word": "週末",
+          "reading_hiragana": "しゅうまつ",
+          "meaning": "周末"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7de36cbb876dce9d",
+      "index": 480,
+      "word": "来週",
+      "reading_hiragana": "らいしゅう",
+      "context_meaning_zh": "下周",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "下周",
+          "meaning_ja": "今の週の次に来る週。",
+          "example_ja": "来週、図書館で日本語を勉強します。",
+          "example_zh": "下周我在图书馆学日语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "来週の月曜日",
+          "zh": "下周一"
+        },
+        {
+          "ja": "来週会う",
+          "zh": "下周见面"
+        }
+      ],
+      "usage_note_zh": "以当前所在周为基准表示下一周；常直接修饰日期或活动，也可用「来週に」标记时间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "来週の週末定位为下一周末；邀请语气来自「行きませんか」，时间名词本身没有专属口语媒介。",
+        "dictionary_sequences": [
+          1548010
+        ],
+        "identity": {
+          "word": "来週",
+          "reading_hiragana": "らいしゅう",
+          "meaning": "下周"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-136746be36a9cc6a",
+      "index": 481,
+      "word": "今度",
+      "reading_hiragana": "こんど",
+      "context_meaning_zh": "接下来的一次或不久的将来",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "接下来的一次或不久的将来",
+          "meaning_ja": "次に行う機会、または近い将来。",
+          "example_ja": "今度、駅の近くの店へ行きましょう。",
+          "example_zh": "下次我们去车站附近的店吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "今度会う",
+          "zh": "下次见面"
+        },
+        {
+          "ja": "今度の休み",
+          "zh": "下次休假"
+        }
+      ],
+      "usage_note_zh": "单独用于约定时常指下次；「今度の週末」则指最近将到的周末。具体时间依上下文确定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "今度の週末作为时间名词修饰周末，指即将到来的周末。",
+        "dictionary_sequences": [
+          1289370
+        ],
+        "identity": {
+          "word": "今度",
+          "reading_hiragana": "こんど",
+          "meaning": "接下来的一次或不久的将来"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e5e421f1810888de",
+      "index": 482,
+      "word": "映画",
+      "reading_hiragana": "えいが",
+      "context_meaning_zh": "电影",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "电影",
+          "meaning_ja": "俳優の演技や物語をスクリーンなどで見る作品。",
+          "example_ja": "姉は毎月一本映画を見ます。",
+          "example_zh": "姐姐每个月看一部电影。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "映画を見る",
+          "zh": "看电影"
+        },
+        {
+          "ja": "映画館で見る",
+          "zh": "在电影院看"
+        }
+      ],
+      "usage_note_zh": "作品本身称「映画」；观看用「映画を見る」，放映场所「映画館」不要与作品混为一谈。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示邀请朋友一起去看电影；礼貌邀请格式不影响名词分类。",
+        "dictionary_sequences": [
+          1173720
+        ],
+        "identity": {
+          "word": "映画",
+          "reading_hiragana": "えいが",
+          "meaning": "电影"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2a36b5b22c80bf9f",
+      "index": 483,
+      "word": "音楽",
+      "reading_hiragana": "おんがく",
+      "context_meaning_zh": "音乐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "音乐",
+          "meaning_ja": "音や声を組み合わせて作る芸術。また、その音のまとまり。",
+          "example_ja": "朝は静かな音楽を聞きます。",
+          "example_zh": "早上我听轻柔的音乐。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "音楽を聞く",
+          "zh": "听音乐"
+        },
+        {
+          "ja": "音楽が好き",
+          "zh": "喜欢音乐"
+        }
+      ],
+      "usage_note_zh": "指音乐这一艺术或具体乐曲；「音楽を聞く」用を标记听的对象。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "下午听音乐时，音楽作为聆听对象；词典music义清楚，时间信息不带来特殊文体。",
+        "dictionary_sequences": [
+          1183720
+        ],
+        "identity": {
+          "word": "音楽",
+          "reading_hiragana": "おんがく",
+          "meaning": "音乐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-521e57df5c4326ca",
+      "index": 484,
+      "word": "料理",
+      "reading_hiragana": "りょうり",
+      "context_meaning_zh": "烹饪活动或料理",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "烹饪活动或料理",
+          "meaning_ja": "食べ物を作ること、または作った食べ物。",
+          "example_ja": "父は魚の料理が得意です。",
+          "example_zh": "爸爸擅长做鱼料理。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "料理を作る",
+          "zh": "做菜"
+        },
+        {
+          "ja": "日本料理",
+          "zh": "日本料理"
+        }
+      ],
+      "usage_note_zh": "既可指烹饪活动，也可指菜肴；「料理する」表示做饭，「料理を食べる」中的料理是菜。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "料理可指烹饪活动或菜肴，周末料理する为活动义，野菜の料理为菜品义；例句礼貌来自句尾。",
+        "dictionary_sequences": [
+          1554310
+        ],
+        "identity": {
+          "word": "料理",
+          "reading_hiragana": "りょうり",
+          "meaning": "烹饪活动或料理"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1c8218a267093b06",
+      "index": 485,
+      "word": "歌う",
+      "reading_hiragana": "うたう",
+      "context_meaning_zh": "唱歌",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "唱歌",
+          "meaning_ja": "声を出して、歌詞や旋律を歌にする。",
+          "example_ja": "彼女は小さな声で歌を歌いました。",
+          "example_zh": "她小声唱了一首歌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歌を歌う",
+          "zh": "唱歌"
+        },
+        {
+          "ja": "みんなで歌う",
+          "zh": "大家一起唱"
+        }
+      ],
+      "usage_note_zh": "他动词，歌曲常用「歌を歌う」；「歌います」是礼貌体。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "虽省略歌曲名称，邀约仍以歌を唱作为动作对象；词典也列唱歌的自他两用义。",
+        "dictionary_sequences": [
+          1588120
+        ],
+        "identity": {
+          "word": "歌う",
+          "reading_hiragana": "うたう",
+          "meaning": "唱歌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-653b40937a9afa3f",
+      "index": 486,
+      "word": "聞く",
+      "reading_hiragana": "きく",
+      "context_meaning_zh": "听",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "听",
+          "meaning_ja": "耳で音や話の内容を受け取る。",
+          "example_ja": "窓の外から鳥の声を聞きました。",
+          "example_zh": "我听见了窗外传来的鸟叫声。"
+        },
+        {
+          "meaning_zh": "尋ねる",
+          "meaning_ja": "知りたいことを相手に質問する。",
+          "example_ja": "道が分からなくて、駅員に聞きました。",
+          "example_zh": "我不认识路，于是问了车站工作人员。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "話を聞く",
+          "zh": "听人说话"
+        },
+        {
+          "ja": "音楽を聞く",
+          "zh": "听音乐"
+        }
+      ],
+      "usage_note_zh": "听取对象用「を」；「聞く」还可表示询问，但本条例句和课内义取听觉义。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "听音乐以音楽を标出内容，聞く为五段他动词；无特殊媒介或语体限制。",
+        "dictionary_sequences": [
+          1591110
+        ],
+        "identity": {
+          "word": "聞く",
+          "reading_hiragana": "きく",
+          "meaning": "听"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-edcac6d0509db866",
+      "index": 487,
+      "word": "泳ぐ",
+      "reading_hiragana": "およぐ",
+      "context_meaning_zh": "游泳",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "游泳",
+          "meaning_ja": "水の中を進んで移動する。",
+          "example_ja": "休みの日にプールで泳ぎます。",
+          "example_zh": "休息日我在游泳池游泳。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "プールで泳ぐ",
+          "zh": "在泳池游泳"
+        },
+        {
+          "ja": "海を泳ぐ",
+          "zh": "在海里游泳"
+        }
+      ],
+      "usage_note_zh": "自动词，游泳地点通常用「で」；「泳ぎたい」是たい愿望形式。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「泳ぎたい」由五段自动词泳ぐ加愿望形式构成，夏休みに表示时间背景。",
+        "dictionary_sequences": [
+          1174340
+        ],
+        "identity": {
+          "word": "泳ぐ",
+          "reading_hiragana": "およぐ",
+          "meaning": "游泳"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aa0cf9242ef3a264",
+      "index": 488,
+      "word": "走る",
+      "reading_hiragana": "はしる",
+      "context_meaning_zh": "跑步",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "跑步",
+          "meaning_ja": "足を交互に速く動かして前へ進む。",
+          "example_ja": "毎朝、川のそばを三十分走ります。",
+          "example_zh": "我每天早上沿河跑三十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "公園を走る",
+          "zh": "在公园跑步"
+        },
+        {
+          "ja": "速く走る",
+          "zh": "快速跑"
+        }
+      ],
+      "usage_note_zh": "表示跑步时常用「場所を走る」表示经过的区域；「場所で走る」强调活动发生地点。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "公园で走る表示在公园跑步，七日邀请只是例句中的礼貌否定疑问，不使动词词条成为敬语。",
+        "dictionary_sequences": [
+          1402540
+        ],
+        "identity": {
+          "word": "走る",
+          "reading_hiragana": "はしる",
+          "meaning": "跑步"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8827ca4debfae5f5",
+      "index": 489,
+      "word": "待つ",
+      "reading_hiragana": "まつ",
+      "context_meaning_zh": "等待",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "等待",
+          "meaning_ja": "人や物が来るまで、その場で時間を過ごす。",
+          "example_ja": "バスが来るまでここで待ってください。",
+          "example_zh": "请在这里等到公交车来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人を待つ",
+          "zh": "等人"
+        },
+        {
+          "ja": "返事を待つ",
+          "zh": "等回复"
+        }
+      ],
+      "usage_note_zh": "等待的对象用「を」；「待ってください」是请求对方等待。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "キッチンで待つ表示在厨房等待，未出现直接宾语；词典还列await等及物义，词项整体兼有两种用法。",
+        "dictionary_sequences": [
+          1410590
+        ],
+        "identity": {
+          "word": "待つ",
+          "reading_hiragana": "まつ",
+          "meaning": "等待"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9a7a7a27261b97ec",
+      "index": 490,
+      "word": "手伝う",
+      "reading_hiragana": "てつだう",
+      "context_meaning_zh": "帮忙",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "帮忙",
+          "meaning_ja": "人の仕事を助けて、必要な作業を一緒にする。",
+          "example_ja": "妹は夕食の準備を手伝ってくれました。",
+          "example_zh": "妹妹帮我准备了晚饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "準備を手伝う",
+          "zh": "帮忙准备"
+        },
+        {
+          "ja": "仕事を手伝う",
+          "zh": "帮忙工作"
+        }
+      ],
+      "usage_note_zh": "被帮助的工作或事项用「を」；「手伝ってくれる」表示别人为说话人帮忙。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「準備を手伝う」把准备工作作为协助对象，手伝う为五段他动词；ます是句尾礼貌形式。",
+        "dictionary_sequences": [
+          1328190
+        ],
+        "identity": {
+          "word": "手伝う",
+          "reading_hiragana": "てつだう",
+          "meaning": "帮忙"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5d82adc2ea70b92c",
+      "index": 491,
+      "word": "参加する",
+      "reading_hiragana": "さんかする",
+      "context_meaning_zh": "参加活动",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "参加活动",
+          "meaning_ja": "集まりや行事の中に加わる。",
+          "example_ja": "学生たちは午後の発表会に参加します。",
+          "example_zh": "学生们参加下午的发表会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会議に参加する",
+          "zh": "参加会议"
+        },
+        {
+          "ja": "活動に参加する",
+          "zh": "参加活动"
+        }
+      ],
+      "usage_note_zh": "参加的活动用「に」标记；不说「活動を参加する」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「参加する」为サ变自动词，句中主体希望加入活动；「たいです」是例句活用形式而非新词类。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "参加する",
+          "reading_hiragana": "さんかする",
+          "meaning": "参加活动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d41c4a46b441d571",
+      "index": 492,
+      "word": "大丈夫",
+      "reading_hiragana": "だいじょうぶ",
+      "context_meaning_zh": "没有问题或可行",
+      "pos_ja": "ナ形容詞・副詞・感動詞",
+      "pos_zh": "な形容词・副词・感叹词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "没有问题或可行",
+          "meaning_ja": "問題がなく、安心してよい様子。",
+          "example_ja": "この席に座っても大丈夫です。",
+          "example_zh": "坐这个座位也没问题。"
+        },
+        {
+          "meaning_zh": "身体状况还好；没事",
+          "meaning_ja": "体の具合に問題がなく、心配しなくてよい様子。",
+          "example_ja": "頭が痛いですか。もう大丈夫ですか。",
+          "example_zh": "你头疼吗？已经没事了吗？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大丈夫ですか",
+          "zh": "没事吗／可以吗"
+        },
+        {
+          "ja": "もう大丈夫",
+          "zh": "已经没问题了"
+        }
+      ],
+      "usage_note_zh": "可确认安全、身体状况或是否方便；回答邀请时单说「大丈夫」也可能表示婉拒，需看语境。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na",
+          "adverb",
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处问下午是否方便，主要为大丈夫的安全、无碍义；词典另列副词及口语回应“没事／不用”，应依语境区分。",
+        "dictionary_sequences": [
+          1414150
+        ],
+        "identity": {
+          "word": "大丈夫",
+          "reading_hiragana": "だいじょうぶ",
+          "meaning": "没有问题或可行"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ae23b12a1f16a21d",
+      "index": 493,
+      "word": "ちょっと",
+      "reading_hiragana": "ちょっと",
+      "context_meaning_zh": "婉拒或犹豫时的缓冲用语",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性・口语・委婉",
+      "senses": [
+        {
+          "meaning_zh": "婉拒或犹豫时的缓冲用语",
+          "meaning_ja": "程度が少ないことを表すほか、返事をためらったり婉曲に断ったりするときにも使う。",
+          "example_ja": "その日はちょっと……。",
+          "example_zh": "那天我有点不方便……。"
+        },
+        {
+          "meaning_zh": "稍微；一点儿",
+          "meaning_ja": "量や程度が少ないこと。",
+          "example_ja": "コーヒーに砂糖をちょっと入れました。",
+          "example_zh": "我在咖啡里加了一点糖。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ちょっと待つ",
+          "zh": "稍等一下"
+        },
+        {
+          "ja": "ちょっと難しい",
+          "zh": "有点困难（常作委婉拒绝）"
+        }
+      ],
+      "usage_note_zh": "表示少量或轻微时修饰动词、形容词；在邀请回应中「ちょっと……」常委婉暗示不方便，后半句可省略。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial",
+          "euphemistic"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「土曜日はちょっと……」省略后续内容来婉拒，词典收录thanks-but-no表达；委婉性不等同于词本身敬语。",
+        "dictionary_sequences": [
+          1163940
+        ],
+        "identity": {
+          "word": "ちょっと",
+          "reading_hiragana": "ちょっと",
+          "meaning": "婉拒或犹豫时的缓冲用语"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-14dad8c20a978785",
+      "index": 494,
+      "word": "都合",
+      "reading_hiragana": "つごう",
+      "context_meaning_zh": "时间或安排是否方便",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "时间或安排是否方便",
+          "meaning_ja": "予定や状況が自分にとって都合よく整っているかどうか。",
+          "example_ja": "火曜日の午後は都合がいいです。",
+          "example_zh": "星期二下午我方便。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "都合がいい",
+          "zh": "方便"
+        },
+        {
+          "ja": "都合を聞く",
+          "zh": "询问是否方便"
+        }
+      ],
+      "usage_note_zh": "约时间常说「都合がいい／悪い」；询问对方安排可说「ご都合はいかがですか」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "都合在「都合がよい／悪い」及「午後の都合」中询问时间或安排是否方便；句子口语形式不构成词项专用口语标签。",
+        "dictionary_sequences": [
+          1444980
+        ],
+        "identity": {
+          "word": "都合",
+          "reading_hiragana": "つごう",
+          "meaning": "时间或安排是否方便"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-05600c9b1bb0dfec",
+      "index": 495,
+      "word": "予定",
+      "reading_hiragana": "よてい",
+      "context_meaning_zh": "预定安排",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "预定安排",
+          "meaning_ja": "これから行うつもりで、前もって決めたこと。",
+          "example_ja": "日曜日は友達と買い物をする予定です。",
+          "example_zh": "星期天我打算和朋友去购物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予定がある",
+          "zh": "有安排"
+        },
+        {
+          "ja": "予定を立てる",
+          "zh": "制定计划"
+        }
+      ],
+      "usage_note_zh": "「予定です」表示已安排或打算；「予定がある」表示已有安排，常用于婉拒邀约。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "询问周末安排的名词用法；疑问句口吻不使词项成为spoken专用，词典的予定する兼类保留。",
+        "dictionary_sequences": [
+          1543240
+        ],
+        "identity": {
+          "word": "予定",
+          "reading_hiragana": "よてい",
+          "meaning": "预定安排"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ccc5e29e84f460f4",
+      "index": 496,
+      "word": "残念",
+      "reading_hiragana": "ざんねん",
+      "context_meaning_zh": "遗憾",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "遗憾",
+          "meaning_ja": "期待したことにならず、心が少し沈む様子。",
+          "example_ja": "楽しみにしていた店が休みで残念でした。",
+          "example_zh": "期待已久的店休息了，真遗憾。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "残念です",
+          "zh": "真遗憾"
+        },
+        {
+          "ja": "残念に思う",
+          "zh": "觉得遗憾"
+        }
+      ],
+      "usage_note_zh": "常用「残念です」表达遗憾；修饰名词时接「な」，如「残念な知らせ」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "独立「残念です」表达未如期待的失望，词典兼列纳形容词和名词；丁寧语尾不作为词项敬语标记。",
+        "dictionary_sequences": [
+          1304680
+        ],
+        "identity": {
+          "word": "残念",
+          "reading_hiragana": "ざんねん",
+          "meaning": "遗憾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-49b71db07597a5a8",
+      "index": 497,
+      "word": "四日",
+      "reading_hiragana": "よっか",
+      "context_meaning_zh": "一个月的第四天",
+      "pos_ja": "名詞・数詞表現",
+      "pos_zh": "名词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个月的第四天",
+          "meaning_ja": "月の初めから数えて四番目の日。",
+          "example_ja": "四日に歯医者の予約があります。",
+          "example_zh": "四号有牙医预约。"
+        },
+        {
+          "meaning_zh": "四天",
+          "meaning_ja": "四日間続く期間。",
+          "example_ja": "四日間、家族と旅行しました。",
+          "example_zh": "和家人旅行了四天。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "四日に会う",
+          "zh": "四号见面"
+        },
+        {
+          "ja": "四日間休む",
+          "zh": "休息四天"
+        }
+      ],
+      "usage_note_zh": "「四日（よっか）」可指每月四号或从某日起算四天，具体由助词和上下文判断；本课语境是月内日期。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "四日读よっか，日程表的十一月四日为月中日期；词典另列四天义但当前语境排除。",
+        "dictionary_sequences": [
+          1307320
+        ],
+        "identity": {
+          "word": "四日",
+          "reading_hiragana": "よっか",
+          "meaning": "一个月的第四天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9babe44713b426ab",
+      "index": 498,
+      "word": "五日",
+      "reading_hiragana": "いつか",
+      "context_meaning_zh": "一个月的第五天",
+      "pos_ja": "名詞・数詞・時間名詞",
+      "pos_zh": "名词・数词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个月的第五天",
+          "meaning_ja": "月の初めから数えて五番目の日。",
+          "example_ja": "五日は店が休みです。",
+          "example_zh": "五号店休息。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "五日に出発する",
+          "zh": "五号出发"
+        },
+        {
+          "ja": "五日間旅行する",
+          "zh": "旅行五天"
+        }
+      ],
+      "usage_note_zh": "「五日（いつか）」既可表示每月五号，也可表示五天；「いつか」另可写作假名表示“某一天”，本条汉字读法是日期／时长。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "numeral"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典列五号和五天两项名词义；“周四、周五要上班”显示本例取月份第五日的日期义。",
+        "dictionary_sequences": [
+          1268570
+        ],
+        "identity": {
+          "word": "五日",
+          "reading_hiragana": "いつか",
+          "meaning": "一个月的第五天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-641c11500bf83470",
+      "index": 499,
+      "word": "六日",
+      "reading_hiragana": "むいか",
+      "context_meaning_zh": "一个月的第六天",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个月的第六天",
+          "meaning_ja": "月の初めから数えて六番目の日。",
+          "example_ja": "六日に新しい授業が始まります。",
+          "example_zh": "六号开始新课程。"
+        },
+        {
+          "meaning_zh": "六天",
+          "meaning_ja": "六日間続く期間。",
+          "example_ja": "六日間、京都に滞在しました。",
+          "example_zh": "在京都停留了六天。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "六日に着く",
+          "zh": "六号到达"
+        },
+        {
+          "ja": "六日間続く",
+          "zh": "持续六天"
+        }
+      ],
+      "usage_note_zh": "「六日（むいか）」可表示每月六号，也可表示六天；读音需作为不规则日期记忆。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五日与六日是星期和工作安排日期，取每月第六日义而非六日时长。",
+        "dictionary_sequences": [
+          1561470
+        ],
+        "identity": {
+          "word": "六日",
+          "reading_hiragana": "むいか",
+          "meaning": "一个月的第六天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-13eff3a37cd96bd7",
+      "index": 500,
+      "word": "七日",
+      "reading_hiragana": "なのか",
+      "context_meaning_zh": "一个月的第七天",
+      "pos_ja": "名詞・時間名詞・数詞表現",
+      "pos_zh": "名词・时间名词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个月的第七天",
+          "meaning_ja": "月の初めから数えて七番目の日。",
+          "example_ja": "七日は図書館で友達に会います。",
+          "example_zh": "七号我在图书馆见朋友。"
+        },
+        {
+          "meaning_zh": "七天",
+          "meaning_ja": "七日間続く期間。",
+          "example_ja": "七日間、毎日練習しました。",
+          "example_zh": "连续七天每天都练习。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "七日に集まる",
+          "zh": "七号集合"
+        },
+        {
+          "ja": "七日間休む",
+          "zh": "休息七天"
+        }
+      ],
+      "usage_note_zh": "「七日（なのか）」可指每月七号或七天；「七日間」明确表示持续时长。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun",
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课例日期明确七日对应星期六，词典首义是每月七号；学习说明另提醒相同读法也可表示七天。",
+        "dictionary_sequences": [
+          1579630
+        ],
+        "identity": {
+          "word": "七日",
+          "reading_hiragana": "なのか",
+          "meaning": "一个月的第七天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-24187ed5b4caa201",
+      "index": 501,
+      "word": "八日",
+      "reading_hiragana": "ようか",
+      "context_meaning_zh": "一个月的第八天",
+      "pos_ja": "名詞・数詞表現",
+      "pos_zh": "名词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个月的第八天",
+          "meaning_ja": "月の初めから数えて八番目の日。",
+          "example_ja": "八日は午前中に用事があります。",
+          "example_zh": "八号上午有事。"
+        },
+        {
+          "meaning_zh": "八天",
+          "meaning_ja": "八日間続く期間。",
+          "example_ja": "八日間、毎朝走りました。",
+          "example_zh": "连续八天每天早上跑步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "八日に開く",
+          "zh": "八号举行"
+        },
+        {
+          "ja": "八日間滞在する",
+          "zh": "停留八天"
+        }
+      ],
+      "usage_note_zh": "「八日（ようか）」可表示每月八号，也可表示八天；和「八日間」搭配时持续时长更明确。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "八日是带特殊读法的日期或八天表达，本句以本月限定八号；作为固定数词表达，不是可自由接名词的普通助数词。",
+        "dictionary_sequences": [
+          1476920
+        ],
+        "identity": {
+          "word": "八日",
+          "reading_hiragana": "ようか",
+          "meaning": "一个月的第八天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-06c3742cb6f420a4",
+      "index": 502,
+      "word": "九日",
+      "reading_hiragana": "ここのか",
+      "context_meaning_zh": "一个月的第九天",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个月的第九天",
+          "meaning_ja": "月の初めから数えて九番目の日。",
+          "example_ja": "九日に荷物が届く予定です。",
+          "example_zh": "包裹预计九号送到。"
+        },
+        {
+          "meaning_zh": "九天",
+          "meaning_ja": "九日間続く期間。",
+          "example_ja": "九日間、研修を受けました。",
+          "example_zh": "参加了为期九天的培训。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "九日に帰る",
+          "zh": "九号回来"
+        },
+        {
+          "ja": "九日間学ぶ",
+          "zh": "学习九天"
+        }
+      ],
+      "usage_note_zh": "「九日（ここのか）」指每月九号或九天；日期读法不按「きゅうにち」构成。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处是每月第九日，和十日并列指日期；词典另有九天时长义。",
+        "dictionary_sequences": [
+          1243850
+        ],
+        "identity": {
+          "word": "九日",
+          "reading_hiragana": "ここのか",
+          "meaning": "一个月的第九天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e1834c7869c31f91",
+      "index": 503,
+      "word": "十日",
+      "reading_hiragana": "とおか",
+      "context_meaning_zh": "一个月的第十天",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个月的第十天",
+          "meaning_ja": "月の初めから数えて十番目の日。",
+          "example_ja": "十日は午前九時に出発します。",
+          "example_zh": "十号上午九点出发。"
+        },
+        {
+          "meaning_zh": "十天",
+          "meaning_ja": "十日間続く期間。",
+          "example_ja": "十日間、毎日日本語を勉強しました。",
+          "example_zh": "连续十天每天学习日语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "十日に会う",
+          "zh": "十号见面"
+        },
+        {
+          "ja": "十日間休む",
+          "zh": "休息十天"
+        }
+      ],
+      "usage_note_zh": "「十日（とおか）」可表示每月十号，也可表示十天；具体按句中时间关系判断。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「九日と十日」指月内第十日，词典另列十天期间义；此例明确为日期名词。",
+        "dictionary_sequences": [
+          1335000
+        ],
+        "identity": {
+          "word": "十日",
+          "reading_hiragana": "とおか",
+          "meaning": "一个月的第十天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-062ef6da109e4db4",
+      "index": 504,
+      "word": "一年",
+      "reading_hiragana": "いちねん",
+      "context_meaning_zh": "一年；一年级（与一年生明确区分）",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一年；一年级（与一年生明确区分）",
+          "meaning_ja": "一年という時間。また、学校などで一番目の学年。",
+          "example_ja": "妹は大学で一年、日本語を勉強しました。",
+          "example_zh": "妹妹在大学学了一年日语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一年かかる",
+          "zh": "花一年"
+        },
+        {
+          "ja": "一年生",
+          "zh": "一年级学生"
+        }
+      ],
+      "usage_note_zh": "「一年」表示时长时可直接作期间；年级通常说「一年生」，仅说「一年」是否指年级需看学校语境。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「日本語の勉強は一年」指一年时长，「大学一年」指大学第一年；这些义项不构成教育体裁标签。",
+        "dictionary_sequences": [
+          1576280
+        ],
+        "identity": {
+          "word": "一年",
+          "reading_hiragana": "いちねん",
+          "meaning": "一年；一年级（与一年生明确区分）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f1a33663880fdbf3",
+      "index": 505,
+      "word": "二年",
+      "reading_hiragana": "にねん",
+      "context_meaning_zh": "二年;二年级",
+      "pos_ja": "名詞・助数詞・数詞表現・助数詞表現",
+      "pos_zh": "名词・量词・数词表达・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "二年;二年级",
+          "meaning_ja": "二年という時間。また、学校などで二番目の学年。",
+          "example_ja": "この町に住んで二年になります。",
+          "example_zh": "我住在这个镇上两年了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二年続く",
+          "zh": "持续两年"
+        },
+        {
+          "ja": "二年生",
+          "zh": "二年级学生"
+        }
+      ],
+      "usage_note_zh": "表示时长时常用「二年」；学校年级通常说「二年生」，不能仅凭「二年」一词断定是年级。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "noun",
+          "counter"
+        ],
+        "subtypes": [
+          "numeral_expression",
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context"
+        ],
+        "note_zh": "二年由数词二与年计数单位构成，可表示两年时长或学校年级；输入无词典条目，保留待复核。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "二年",
+          "reading_hiragana": "にねん",
+          "meaning": "二年;二年级"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fa6912e9709d1e59",
+      "index": 506,
+      "word": "三年",
+      "reading_hiragana": "さんねん",
+      "context_meaning_zh": "三年;三年级",
+      "pos_ja": "名詞・数詞・助数詞・助数詞表現",
+      "pos_zh": "名词・数词・量词・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "三年;三年级",
+          "meaning_ja": "三年という時間。また、学校などで三番目の学年。",
+          "example_ja": "祖父は三年間この町で働きました。",
+          "example_zh": "祖父在这个镇上工作了三年。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "三年住む",
+          "zh": "住三年"
+        },
+        {
+          "ja": "三年生",
+          "zh": "三年级学生"
+        }
+      ],
+      "usage_note_zh": "时长可用「三年」或明确持续的「三年間」；年级通常加「生」说「三年生」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "numeral",
+          "counter"
+        ],
+        "subtypes": [
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号1814070列三年时长与三年级；本句明确表示在校学习年限。",
+        "dictionary_sequences": [
+          1814070
+        ],
+        "identity": {
+          "word": "三年",
+          "reading_hiragana": "さんねん",
+          "meaning": "三年;三年级"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2013d4d6bd9c9950",
+      "index": 507,
+      "word": "ケーキ",
+      "reading_hiragana": "ケーキ",
+      "context_meaning_zh": "西式糕点",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "西式糕点",
+          "meaning_ja": "小麦粉や卵、砂糖などで作る甘い洋菓子。",
+          "example_ja": "誕生日にいちごのケーキを食べました。",
+          "example_zh": "生日时我吃了草莓蛋糕。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ケーキを焼く",
+          "zh": "烤蛋糕"
+        },
+        {
+          "ja": "ケーキを一切れ",
+          "zh": "一块蛋糕"
+        }
+      ],
+      "usage_note_zh": "指西式甜点蛋糕；切片时常用「一切れ」，整块数量也可用「一つ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "ケーキ是西式蛋糕名词，存在句说明有蛋糕供应；未见其他词类或特殊语域。",
+        "dictionary_sequences": [
+          1047860
+        ],
+        "identity": {
+          "word": "ケーキ",
+          "reading_hiragana": "ケーキ",
+          "meaning": "西式糕点"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6b74409b5553d1c1",
+      "index": 508,
+      "word": "さあ",
+      "reading_hiragana": "さあ",
+      "context_meaning_zh": "用于劝诱、催促或迟疑",
+      "pos_ja": "感動詞",
+      "pos_zh": "感叹词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "用于劝诱、催促或迟疑",
+          "meaning_ja": "相手を誘ったり、行動を始めたりするときに言う言葉。",
+          "example_ja": "さあ、みんなで写真を撮りましょう。",
+          "example_zh": "来吧，大家一起拍照吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "さあ、行こう",
+          "zh": "来，走吧"
+        },
+        {
+          "ja": "さあ、どうぞ",
+          "zh": "来，请吧"
+        }
+      ],
+      "usage_note_zh": "句首的「さあ」可鼓励行动；也可表示不确定，如「さあ、分かりません」，本条例句取催促义。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "买东西邀请句是催促义，拖长停顿的会期问句是迟疑义；两种感叹词语用均有语境支持。",
+        "dictionary_sequences": [
+          1005110
+        ],
+        "identity": {
+          "word": "さあ",
+          "reading_hiragana": "さあ",
+          "meaning": "用于劝诱、催促或迟疑"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6659d6f790c37102",
+      "index": 509,
+      "word": "皆",
+      "reading_hiragana": "みんな",
+      "context_meaning_zh": "全部、都",
+      "pos_ja": "副詞・代名詞",
+      "pos_zh": "副词・代词",
+      "register_zh": "中性・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "全部、都",
+          "meaning_ja": "そこにいる人たち全員。",
+          "example_ja": "みんなで机を運びました。",
+          "example_zh": "大家一起搬了桌子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "みんなで食べる",
+          "zh": "大家一起吃"
+        },
+        {
+          "ja": "みんなの意見",
+          "zh": "大家的意见"
+        }
+      ],
+      "usage_note_zh": "读作「みんな」时偏口语；表示“大家”可作主语或与で组成「みんなで」，修饰名词时用「みんなの」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "adverb",
+          "pronoun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "读みんな时指大家或全部；可作「皆で」的集体主语，也可副词性修饰料理，属口语常用形式。",
+        "dictionary_sequences": [
+          1202150
+        ],
+        "identity": {
+          "word": "皆",
+          "reading_hiragana": "みんな",
+          "meaning": "全部、都"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9b19a7122c62e148",
+      "index": 510,
+      "word": "これから",
+      "reading_hiragana": "これから",
+      "context_meaning_zh": "从现在起;现在",
+      "pos_ja": "副詞・表現",
+      "pos_zh": "副词・表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "从现在起;现在",
+          "meaning_ja": "今の時点から先の時間。また、今すぐ始めること。",
+          "example_ja": "これから駅まで歩きます。",
+          "example_zh": "接下来我走到车站。"
+        },
+        {
+          "meaning_zh": "五天",
+          "meaning_ja": "五日間続く期間。",
+          "example_ja": "五日間、家で過ごしました。",
+          "example_zh": "在家待了五天。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "これから始める",
+          "zh": "现在开始"
+        },
+        {
+          "ja": "これから先",
+          "zh": "今后"
+        }
+      ],
+      "usage_note_zh": "可表示从现在起的未来，也可指眼下即将开始的动作；「今から」更明确强调此刻开始。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb",
+          "expression"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "これから表示从当前时间开始或即将进行的动作，句中修饰邀请的买东西行动。",
+        "dictionary_sequences": [
+          1004790
+        ],
+        "identity": {
+          "word": "これから",
+          "reading_hiragana": "これから",
+          "meaning": "从现在起;现在"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6607fd670ccb39ae",
+      "index": 511,
+      "word": "大勢",
+      "reading_hiragana": "おおぜい",
+      "context_meaning_zh": "很多人",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "很多人",
+          "meaning_ja": "人の数が多いこと。",
+          "example_ja": "会場には大勢の客が来ました。",
+          "example_zh": "很多客人来到了会场。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大勢の人",
+          "zh": "很多人"
+        },
+        {
+          "ja": "大勢集まる",
+          "zh": "聚集许多人"
+        }
+      ],
+      "usage_note_zh": "主要用于人数，常说「大勢の人」；不能通常用来描述物品数量，物品多用「たくさん」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "大勢の人指许多人作名词结构，词典同时列群体名词与大量地的副词义；只用于人数。",
+        "dictionary_sequences": [
+          1414220
+        ],
+        "identity": {
+          "word": "大勢",
+          "reading_hiragana": "おおぜい",
+          "meaning": "很多人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c8ff6c6fd894095f",
+      "index": 512,
+      "word": "どのぐらい",
+      "reading_hiragana": "どのぐらい",
+      "context_meaning_zh": "多少",
+      "pos_ja": "名詞・副詞・表現・疑問",
+      "pos_zh": "名词・副词・表达・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "多少",
+          "meaning_ja": "量や程度がどれほどかを尋ねる言葉。",
+          "example_ja": "駅から学校まで、どのぐらいかかりますか。",
+          "example_zh": "从车站到学校要花多久？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どのぐらい時間がかかる",
+          "zh": "要花多久"
+        },
+        {
+          "ja": "どのぐらいある",
+          "zh": "有多少"
+        }
+      ],
+      "usage_note_zh": "可询问时间、距离、数量或程度；回答时常用「ぐらい／くらい」给出大致数值。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "noun",
+          "adverb",
+          "expression"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "疑问表达询问时间长度及程度；词典兼列表达、名词、副词，句尾「ですか」的礼貌不属于词条。",
+        "dictionary_sequences": [
+          1009250
+        ],
+        "identity": {
+          "word": "どのぐらい",
+          "reading_hiragana": "どのぐらい",
+          "meaning": "多少"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ce0a878bbada3d40",
+      "index": 513,
+      "word": "週",
+      "reading_hiragana": "しゅう",
+      "context_meaning_zh": "星期",
+      "pos_ja": "名詞・接尾辞・時間名詞",
+      "pos_zh": "名词・接尾词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "星期",
+          "meaning_ja": "月曜日から日曜日までの七日間。",
+          "example_ja": "忙しい週は、家で夕食を食べます。",
+          "example_zh": "忙碌的一周里，我在家吃晚饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一週間",
+          "zh": "一周"
+        },
+        {
+          "ja": "今週の週末",
+          "zh": "本周末"
+        }
+      ],
+      "usage_note_zh": "「週」指七天的时间单位；中文源义写“星期”，此处日语释义对应“一周”。「一週間」表示持续一周，「今週」指当前这一周。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "suffix"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "JMdict 1333450将週列名词兼名词后缀；「この週」指当前七日时间单位，取星期名词义。",
+        "dictionary_sequences": [
+          1333450
+        ],
+        "identity": {
+          "word": "週",
+          "reading_hiragana": "しゅう",
+          "meaning": "星期"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-36c7f542fb3f7414",
+      "index": 514,
+      "word": "何時間",
+      "reading_hiragana": "なんじかん",
+      "context_meaning_zh": "几小时",
+      "pos_ja": "表現・疑問・助数詞表現",
+      "pos_zh": "表达・疑问・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "几小时",
+          "meaning_ja": "一時間を何回含むかを尋ねる言葉。",
+          "example_ja": "この映画は何時間ありますか。",
+          "example_zh": "这部电影有几个小时？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何時間かかる",
+          "zh": "要花几小时"
+        },
+        {
+          "ja": "何時間働く",
+          "zh": "工作几小时"
+        }
+      ],
+      "usage_note_zh": "「何時間」询问时长或某活动持续几个小时；询问具体钟点应说「何時」，不要混淆。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "interrogative",
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "询问料理会持续几小时的疑问表达；问句中的です是句末礼貌形式，不属于何時間词条。",
+        "dictionary_sequences": [
+          1188950
+        ],
+        "identity": {
+          "word": "何時間",
+          "reading_hiragana": "なんじかん",
+          "meaning": "几小时"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-444cdff379a4cc26",
+      "index": 515,
+      "word": "一日",
+      "reading_hiragana": "いちにち",
+      "context_meaning_zh": "一天、一日、一昼夜",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一天、一日、一昼夜",
+          "meaning_ja": "朝から夜までを含む一日の時間。また、丸一日。",
+          "example_ja": "昨日は一日家で本を読みました。",
+          "example_zh": "昨天我一整天都在家看书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一日中",
+          "zh": "一整天"
+        },
+        {
+          "ja": "一日休む",
+          "zh": "休息一天"
+        }
+      ],
+      "usage_note_zh": "读作「いちにち」表示一天的时长或整日；日期“每月一号”通常读「ついたち」，本条不是该读音。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本课「一日、家で休む」表示整天在家休息，辞典all day义适用；词项也可作一天名词，保留副词功能。",
+        "dictionary_sequences": [
+          1576260
+        ],
+        "identity": {
+          "word": "一日",
+          "reading_hiragana": "いちにち",
+          "meaning": "一天、一日、一昼夜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4961046ac0135f61",
+      "index": 516,
+      "word": "夏休み",
+      "reading_hiragana": "なつやすみ",
+      "context_meaning_zh": "暑假",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "暑假",
+          "meaning_ja": "夏に学校や仕事が休みになる期間。",
+          "example_ja": "夏休みに家族と山へ行きます。",
+          "example_zh": "暑假我和家人去山里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "夏休みになる",
+          "zh": "进入暑假"
+        },
+        {
+          "ja": "夏休みの宿題",
+          "zh": "暑假作业"
+        }
+      ],
+      "usage_note_zh": "指夏季的休假期；活动安排可说「夏休みに旅行する」，用に标记时间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "夏休み是夏季假期，句中以该假期作为游泳愿望发生的时间；礼貌句尾不改变词项语体。",
+        "dictionary_sequences": [
+          1191420
+        ],
+        "identity": {
+          "word": "夏休み",
+          "reading_hiragana": "なつやすみ",
+          "meaning": "暑假"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-097d1ec4e01c637b",
+      "index": 517,
+      "word": "誕生日",
+      "reading_hiragana": "たんじょうび",
+      "context_meaning_zh": "生日",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "生日",
+          "meaning_ja": "人が生まれた日。また、毎年その日を祝う日。",
+          "example_ja": "父の誕生日に手紙を贈りました。",
+          "example_zh": "爸爸生日时我送了一封信。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "誕生日を祝う",
+          "zh": "庆祝生日"
+        },
+        {
+          "ja": "誕生日プレゼント",
+          "zh": "生日礼物"
+        }
+      ],
+      "usage_note_zh": "指出生日期或每年庆祝的生日；祝贺时说「誕生日おめでとうございます」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示出生日期及每年庆祝的生日，句中指今年本人的生日；词典列birthday。",
+        "dictionary_sequences": [
+          1419110
+        ],
+        "identity": {
+          "word": "誕生日",
+          "reading_hiragana": "たんじょうび",
+          "meaning": "生日"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ad094c0da26e141e",
+      "index": 518,
+      "word": "年月日",
+      "reading_hiragana": "ねんがっぴ",
+      "context_meaning_zh": "年月日",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "年月日",
+          "meaning_ja": "年、月、日を合わせた日付。",
+          "example_ja": "申込書に年月日を記入してください。",
+          "example_zh": "请在申请表上填写年月日。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "年月日を書く",
+          "zh": "写年月日"
+        },
+        {
+          "ja": "生年月日",
+          "zh": "出生年月日"
+        }
+      ],
+      "usage_note_zh": "常见于表格，要求填写完整日期；读作「ねんがっぴ」，不是把年月日三个词逐个读出。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "年月日整体指日期中的年、月、日，例句是填写当天日期。",
+        "dictionary_sequences": [
+          1468550
+        ],
+        "identity": {
+          "word": "年月日",
+          "reading_hiragana": "ねんがっぴ",
+          "meaning": "年月日"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-92b452fbcd2e2fd8",
+      "index": 519,
+      "word": "何か月",
+      "reading_hiragana": "なんかげつ",
+      "context_meaning_zh": "几个月",
+      "pos_ja": "名詞・助数詞・疑問・助数詞表現",
+      "pos_zh": "名词・量词・疑问・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "几个月",
+          "meaning_ja": "月を数えて、何か月あるかを尋ねる言葉。",
+          "example_ja": "この町に住んで何か月になりますか。",
+          "example_zh": "你住在这个镇上几个月了？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何か月住む",
+          "zh": "住几个月"
+        },
+        {
+          "ja": "何か月後",
+          "zh": "几个月后"
+        }
+      ],
+      "usage_note_zh": "询问持续几个月；「何か月になりますか」询问到现在为止的时长。询问某个月份则用「何月」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "counter"
+        ],
+        "subtypes": [
+          "interrogative",
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "询问暑假有几个月，「何」与月份计数单位合成疑问名词；例句明确为时间数量。",
+        "dictionary_sequences": [
+          1188640
+        ],
+        "identity": {
+          "word": "何か月",
+          "reading_hiragana": "なんかげつ",
+          "meaning": "几个月"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-721cbadecd007277",
+      "index": 520,
+      "word": "か月",
+      "reading_hiragana": "かげつ",
+      "context_meaning_zh": "...个月",
+      "pos_ja": "接尾辞・助数詞",
+      "pos_zh": "接尾词・量词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "...个月",
+          "meaning_ja": "月の数を数えるとき、数の後ろにつける言葉。",
+          "example_ja": "日本に三か月住みました。",
+          "example_zh": "我在日本住了三个月。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二か月休む",
+          "zh": "休息两个月"
+        },
+        {
+          "ja": "何か月かかる",
+          "zh": "要花几个月"
+        }
+      ],
+      "usage_note_zh": "接在数词后计算月份时长，如「三か月」；和月份名称的「月（がつ）」读法及用法不同。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "suffix",
+          "counter"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "か月接在数词后计月份时长，词典明确列计数词；不能与表示某月的月（がつ）混同。",
+        "dictionary_sequences": [
+          1194480
+        ],
+        "identity": {
+          "word": "か月",
+          "reading_hiragana": "かげつ",
+          "meaning": "...个月"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a1b89cf71123e2d5",
+      "index": 521,
+      "word": "今月",
+      "reading_hiragana": "こんげつ",
+      "context_meaning_zh": "这个月、本月",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "这个月、本月",
+          "meaning_ja": "今が含まれている月。",
+          "example_ja": "今月は三回病院へ行きます。",
+          "example_zh": "这个月我要去三次医院。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "今月中に",
+          "zh": "在本月内"
+        },
+        {
+          "ja": "今月の予定",
+          "zh": "本月安排"
+        }
+      ],
+      "usage_note_zh": "指当前月份；不加「に」也可直接作时间状语，如「今月行きます」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "今月指当前月份，可作时间名词或直接作时间副词；例句以今月八日限定活动日期。",
+        "dictionary_sequences": [
+          1289100
+        ],
+        "identity": {
+          "word": "今月",
+          "reading_hiragana": "こんげつ",
+          "meaning": "这个月、本月"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-86fae35a37f0ec01",
+      "index": 522,
+      "word": "何日",
+      "reading_hiragana": "なんにち",
+      "context_meaning_zh": "几号;几天",
+      "pos_ja": "名詞・助数詞・疑問・助数詞表現",
+      "pos_zh": "名词・量词・疑问・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "几号;几天",
+          "meaning_ja": "日にち、または日数がいくつかを尋ねる言葉。",
+          "example_ja": "図書館の休みは何日ですか。",
+          "example_zh": "图书馆休息几天？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何日ですか",
+          "zh": "几号／几天"
+        },
+        {
+          "ja": "何日間休む",
+          "zh": "休息几天"
+        }
+      ],
+      "usage_note_zh": "可问日期“几号”或天数“几天”；问某月几号常用「何月何日」，问几天可说「何日間」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "counter"
+        ],
+        "subtypes": [
+          "interrogative",
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "会は何日询问举行日期，休みは何日可问休息日数；原义覆盖日期与天数两种计数问题。",
+        "dictionary_sequences": [
+          1189240
+        ],
+        "identity": {
+          "word": "何日",
+          "reading_hiragana": "なんにち",
+          "meaning": "几号;几天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-45a4ca1ba3105c25",
+      "index": 523,
+      "word": "今年",
+      "reading_hiragana": "ことし",
+      "context_meaning_zh": "今年",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "今年",
+          "meaning_ja": "今が含まれている年。",
+          "example_ja": "今年は家族で海へ行く予定です。",
+          "example_zh": "今年计划和家人去海边。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "今年の夏",
+          "zh": "今年夏天"
+        },
+        {
+          "ja": "今年中に",
+          "zh": "在今年内"
+        }
+      ],
+      "usage_note_zh": "指当前年份；询问或回答年份时常用「今年は何年ですか」「今年は令和何年ですか」等，不绑定具体年份。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "今年指包含当前日期的这一年，可作名词定语并直接作时间副词修饰生日日期。",
+        "dictionary_sequences": [
+          1579130
+        ],
+        "identity": {
+          "word": "今年",
+          "reading_hiragana": "ことし",
+          "meaning": "今年"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6e7622712724e697",
+      "index": 524,
+      "word": "何年",
+      "reading_hiragana": "なんねん",
+      "context_meaning_zh": "几年;哪一年",
+      "pos_ja": "名詞・時間名詞・疑問",
+      "pos_zh": "名词・时间名词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "几年;哪一年",
+          "meaning_ja": "年数がいくつか、またはどの年かを尋ねる言葉。",
+          "example_ja": "この橋は何年にできましたか。",
+          "example_zh": "这座桥是哪一年建成的？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何年に始まる",
+          "zh": "哪一年开始"
+        },
+        {
+          "ja": "何年かかる",
+          "zh": "要花几年"
+        }
+      ],
+      "usage_note_zh": "「何年」结合「に」可问哪一年，结合「かかる」可问几年；询问年级通常说「何年生」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun",
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「何年」询问年份或持续年数；两例分别问纪年和学习年数，保留疑问及时间名词特征。",
+        "dictionary_sequences": [
+          1189250
+        ],
+        "identity": {
+          "word": "何年",
+          "reading_hiragana": "なんねん",
+          "meaning": "几年;哪一年"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b0a9c407f674fc04",
+      "index": 525,
+      "word": "パーティー",
+      "reading_hiragana": "パーティー",
+      "context_meaning_zh": "派对、聚会",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "派对、聚会",
+          "meaning_ja": "人が集まり、食事や会話などを楽しむ催し。",
+          "example_ja": "卒業のお祝いに小さなパーティーを開きました。",
+          "example_zh": "我们为庆祝毕业办了一场小聚会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "パーティーを開く",
+          "zh": "举办聚会"
+        },
+        {
+          "ja": "パーティーに招く",
+          "zh": "邀请参加聚会"
+        }
+      ],
+      "usage_note_zh": "指聚会或宴会；举办活动用「パーティーを開く」，参加则用「パーティーに参加する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处指料理聚会这一社交活动，词典支持普通名词；未见サ变谓语证据。",
+        "dictionary_sequences": [
+          1100760
+        ],
+        "identity": {
+          "word": "パーティー",
+          "reading_hiragana": "パーティー",
+          "meaning": "派对、聚会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-750fe5ff8ee24f77",
+      "index": 526,
+      "word": "ちょうど",
+      "reading_hiragana": "ちょうど",
+      "context_meaning_zh": "正好、恰好",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "正好、恰好",
+          "meaning_ja": "ずれがなく、期待や必要にぴったり合う様子。",
+          "example_ja": "電車はちょうど三時に出発しました。",
+          "example_zh": "电车正好三点出发。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ちょうどいい",
+          "zh": "正合适"
+        },
+        {
+          "ja": "ちょうど三時",
+          "zh": "正好三点"
+        }
+      ],
+      "usage_note_zh": "可修饰时间、数量或合适程度；「ちょうどいい」表示大小、数量等恰当。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「ちょうど二時間」为数量恰好相合的副词义；同序列其它同音异义词头并非本词。",
+        "dictionary_sequences": [
+          1427340
+        ],
+        "identity": {
+          "word": "ちょうど",
+          "reading_hiragana": "ちょうど",
+          "meaning": "正好、恰好"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-05663e3e92e13759",
+      "index": 527,
+      "word": "満",
+      "reading_hiragana": "まん",
+      "context_meaning_zh": "足、整（満～歳等）",
+      "pos_ja": "名詞・接頭辞",
+      "pos_zh": "名词・接头词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "足、整（満～歳等）",
+          "meaning_ja": "年齢などを数えるとき、端数を切り捨てずに数えた満ちた数。",
+          "example_ja": "申込書には満年齢を書いてください。",
+          "example_zh": "请在申请表上填写周岁。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "満二十歳",
+          "zh": "满二十岁"
+        },
+        {
+          "ja": "満年齢",
+          "zh": "周岁"
+        }
+      ],
+      "usage_note_zh": "常置于年龄数字前表示已满的年龄，如「満二十歳」；在本课中不单独表示“满足”。",
+      "pos": {
+        "primary": "prefix",
+        "classes": [
+          "noun",
+          "prefix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "満二十歳表示已满二十岁，満作为年龄数量前缀；词典同时列完成年数名词义。",
+        "dictionary_sequences": [
+          2405850
+        ],
+        "identity": {
+          "word": "満",
+          "reading_hiragana": "まん",
+          "meaning": "足、整（満～歳等）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6fa60218477aef12",
+      "index": 528,
+      "word": "皆さん",
+      "reading_hiragana": "みなさん",
+      "context_meaning_zh": "各位、大家",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・尊敬语",
+      "senses": [
+        {
+          "meaning_zh": "各位、大家",
+          "meaning_ja": "聞いている人や、その場にいる人たち全員への呼びかけ。",
+          "example_ja": "皆さん、資料を一枚ずつ取ってください。",
+          "example_zh": "各位，请每人拿一份资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "皆さんこんにちは",
+          "zh": "大家好"
+        },
+        {
+          "ja": "皆さんと話す",
+          "zh": "和大家交谈"
+        }
+      ],
+      "usage_note_zh": "礼貌地称呼在场众人；比口语「みんな」更客气，作称呼时常放在句首。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "honorific"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「皆さん」礼貌称呼在场全体，辞书明确标尊敬用法；本句以「との」连接交往对象，表示对听众的称呼。",
+        "dictionary_sequences": [
+          1202170
+        ],
+        "identity": {
+          "word": "皆さん",
+          "reading_hiragana": "みなさん",
+          "meaning": "各位、大家"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4a98c6bfd5f8ac03",
+      "index": 529,
+      "word": "歌",
+      "reading_hiragana": "うた",
+      "context_meaning_zh": "歌",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "歌",
+          "meaning_ja": "人が声に出して歌う旋律や言葉。",
+          "example_ja": "この歌の歌詞を覚えています。",
+          "example_zh": "我记得这首歌的歌词。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歌を覚える",
+          "zh": "记住歌曲"
+        },
+        {
+          "ja": "歌を作る",
+          "zh": "作歌"
+        }
+      ],
+      "usage_note_zh": "指歌曲本身；「歌う」是唱这一动作，「歌」是被唱的作品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "邀约一起唱歌时，歌曲是演唱对象；词典的歌曲／歌唱名词义适用，不取诗歌专义。",
+        "dictionary_sequences": [
+          1193180
+        ],
+        "identity": {
+          "word": "歌",
+          "reading_hiragana": "うた",
+          "meaning": "歌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-377eb40e07cb713a",
+      "index": 530,
+      "word": "連休",
+      "reading_hiragana": "れんきゅう",
+      "context_meaning_zh": "连休、长假",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "连休、长假",
+          "meaning_ja": "休日が二日以上続くこと。",
+          "example_ja": "連休に親戚の家を訪ねます。",
+          "example_zh": "连休时我去亲戚家拜访。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "連休を取る",
+          "zh": "休连假"
+        },
+        {
+          "ja": "連休中に旅行する",
+          "zh": "连休期间旅行"
+        }
+      ],
+      "usage_note_zh": "指多个休息日连续相接；「連休中」表示连休期间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "这一周没有连续假日，連休指两个或更多休息日相接，符合词典consecutive holidays义。",
+        "dictionary_sequences": [
+          1559380
+        ],
+        "identity": {
+          "word": "連休",
+          "reading_hiragana": "れんきゅう",
+          "meaning": "连休、长假"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5e94295eb0fafe5f",
+      "index": 531,
+      "word": "是非",
+      "reading_hiragana": "ぜひ",
+      "context_meaning_zh": "务必、一定（强烈愿望或邀请）",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "务必、一定（强烈愿望或邀请）",
+          "meaning_ja": "相手に強く勧めたり、ぜひ実現したい気持ちを表したりする言葉。",
+          "example_ja": "日本へ来たら、是非この町にも来てください。",
+          "example_zh": "来日本的话，请一定也来这个镇上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "是非来てください",
+          "zh": "请一定来"
+        },
+        {
+          "ja": "是非参加したい",
+          "zh": "非常想参加"
+        }
+      ],
+      "usage_note_zh": "常用于邀请、请求或表达强烈愿望；这里读「ぜひ」表示“务必”，不取名词“是非曲直”义。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「是非一緒に参加しましょう」是强烈邀请对方务必参加的副词用法；不取同形的善恶名词义。",
+        "dictionary_sequences": [
+          1374530
+        ],
+        "identity": {
+          "word": "是非",
+          "reading_hiragana": "ぜひ",
+          "meaning": "务必、一定（强烈愿望或邀请）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-db3a97c3b6f34db8",
+      "index": 532,
+      "word": "誘う",
+      "reading_hiragana": "さそう",
+      "context_meaning_zh": "邀请；引诱",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "邀请；引诱",
+          "meaning_ja": "人に一緒に何かをしようと声をかける。また、ある気持ちや結果を起こさせる。",
+          "example_ja": "同僚を昼食に誘いました。",
+          "example_zh": "我邀请同事一起吃午饭。"
+        },
+        {
+          "meaning_zh": "引起；招致",
+          "meaning_ja": "ある気持ちや結果が起こるきっかけを作る。",
+          "example_ja": "その歌は聞く人の涙を誘います。",
+          "example_zh": "那首歌催人落泪。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "友達を誘う",
+          "zh": "邀请朋友"
+        },
+        {
+          "ja": "食事に誘う",
+          "zh": "邀请吃饭"
+        }
+      ],
+      "usage_note_zh": "邀请的对象用「を」，活动常用「に」；也可用于引起情绪，如「涙を誘う」，但本课例句取邀请义。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "邀请朋友同行，誘う为五段他动词；例句省略を但词典标vt。",
+        "dictionary_sequences": [
+          1541900
+        ],
+        "identity": {
+          "word": "誘う",
+          "reading_hiragana": "さそう",
+          "meaning": "邀请；引诱"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6379aa1d3ec21a36",
+      "index": 533,
+      "word": "待ち合わせる",
+      "reading_hiragana": "まちあわせる",
+      "context_meaning_zh": "在约定的场所等候(见面)",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "在约定的场所等候(见面)",
+          "meaning_ja": "時間と場所を決めて、相手と会うためにそこで待つ。",
+          "example_ja": "駅の東口で先生と待ち合わせます。",
+          "example_zh": "我和老师约在车站东口碰面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅で待ち合わせる",
+          "zh": "约在车站见面"
+        },
+        {
+          "ja": "友達と待ち合わせる",
+          "zh": "和朋友碰头"
+        }
+      ],
+      "usage_note_zh": "常用「場所で人と待ち合わせる」说明约定地点和对象；「待つ」只说等待，不包含事先约好见面的意思。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与林女士约在一点碰面，符合预先约定会合义；词典兼列vt/vi，参与者以と连接。",
+        "dictionary_sequences": [
+          1410520
+        ],
+        "identity": {
+          "word": "待ち合わせる",
+          "reading_hiragana": "まちあわせる",
+          "meaning": "在约定的场所等候(见面)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-efd77342478d31d3",
+      "index": 534,
+      "word": "集まる",
+      "reading_hiragana": "あつまる",
+      "context_meaning_zh": "聚集、汇集",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "聚集、汇集",
+          "meaning_ja": "人や物がそれぞれ別の場所から一つの所に来る。",
+          "example_ja": "会議室に先生と学生が集まりました。",
+          "example_zh": "老师和学生聚集到了会议室。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人が集まる",
+          "zh": "人聚集"
+        },
+        {
+          "ja": "情報が集まる",
+          "zh": "信息汇集"
+        }
+      ],
+      "usage_note_zh": "自动词，聚集的人或物用「が」标记；地点常用「に」。对应他动词「集める」表示把东西收集起来。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "大勢の人が集まる表示许多人聚到一起；动词为五段る结尾的不及物词，ます仅是句尾礼貌。",
+        "dictionary_sequences": [
+          1333550
+        ],
+        "identity": {
+          "word": "集まる",
+          "reading_hiragana": "あつまる",
+          "meaning": "聚集、汇集"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cc73cd59df6d7530",
+      "index": 535,
+      "word": "今度",
+      "reading_hiragana": "こんど",
+      "context_meaning_zh": "这次；下次、不久后的一次",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "这次；下次、不久后的一次",
+          "meaning_ja": "今行っていること、または近いうちに次に行う機会。",
+          "example_ja": "今度の旅行は電車で行くつもりです。",
+          "example_zh": "这次旅行我打算坐电车去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "今度の旅行",
+          "zh": "这次旅行"
+        },
+        {
+          "ja": "今度また会う",
+          "zh": "下次再见"
+        }
+      ],
+      "usage_note_zh": "本条课文指当前安排时译“这次”；单独用于邀约常表示“下次”。结合「今度の＋名词」和上下文区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "会的料理指这一次，邀约句则指下次，均为时间名词或副词用法。",
+        "dictionary_sequences": [
+          1289370
+        ],
+        "identity": {
+          "word": "今度",
+          "reading_hiragana": "こんど",
+          "meaning": "这次；下次、不久后的一次"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8d23542030329701",
+      "index": 536,
+      "word": "招く",
+      "reading_hiragana": "まねく",
+      "context_meaning_zh": "邀请",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "邀请",
+          "meaning_ja": "人を自分の所へ呼び、来てもらう。",
+          "example_ja": "先生を家に招いて、お茶を出しました。",
+          "example_zh": "我邀请老师到家里来，并端上了茶。"
+        },
+        {
+          "meaning_zh": "招致；引き起こす",
+          "meaning_ja": "ある結果や問題が起こる原因を作る。",
+          "example_ja": "確認不足が大きな誤解を招きました。",
+          "example_zh": "确认不足造成了很大的误会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "式に招く",
+          "zh": "邀请参加仪式"
+        },
+        {
+          "ja": "先生を家に招く",
+          "zh": "邀请老师到家里"
+        }
+      ],
+      "usage_note_zh": "邀请对象用「を」，来访地点常用「に」；「誘う」更常用于邀对方一起做某事，「招く」突出请人到某处。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "邀请朋友到中心，邀请对象用を，地点用に；词典对应五段他动词的招待义。",
+        "dictionary_sequences": [
+          1349590
+        ],
+        "identity": {
+          "word": "招く",
+          "reading_hiragana": "まねく",
+          "meaning": "邀请"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a419107e6fbb087c",
+      "index": 537,
+      "word": "楽しみにする",
+      "reading_hiragana": "たのしみにする",
+      "context_meaning_zh": "期待、盼望",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "期待、盼望",
+          "meaning_ja": "これから起こることを楽しみなこととして待つ。",
+          "example_ja": "子どもたちは遠足の日を楽しみにしています。",
+          "example_zh": "孩子们期待着远足那天。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "旅行を楽しみにする",
+          "zh": "期待旅行"
+        },
+        {
+          "ja": "返事を楽しみに待つ",
+          "zh": "期待着回复"
+        }
+      ],
+      "usage_note_zh": "固定说法「～を楽しみにする」，期待的事情用「を」；常以「楽しみにしています」表达持续期待。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「～を楽しみにする」整体表示期待，词典明确列vs-i；「を」标示期待的内容，不足以判该短语为他动。",
+        "dictionary_sequences": [
+          1207260
+        ],
+        "identity": {
+          "word": "楽しみにする",
+          "reading_hiragana": "たのしみにする",
+          "meaning": "期待、盼望"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8c3f8a6e7d09c08b",
+      "index": 538,
+      "word": "暇",
+      "reading_hiragana": "ひま",
+      "context_meaning_zh": "空闲、闲暇",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "空闲、闲暇",
+          "meaning_ja": "することがなく、自由に使える時間がある様子。",
+          "example_ja": "午後は暇なので、買い物に行けます。",
+          "example_zh": "下午我有空，可以去购物。"
+        },
+        {
+          "meaning_zh": "空闲时间",
+          "meaning_ja": "仕事や用事がなく、自由に使える時間。",
+          "example_ja": "暇があれば、古い写真を整理したいです。",
+          "example_zh": "有空的话，我想整理旧照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "暇な時間",
+          "zh": "空闲时间"
+        },
+        {
+          "ja": "暇がある",
+          "zh": "有空"
+        }
+      ],
+      "usage_note_zh": "作ナ形容词时修饰名词接「な」；表示有空可说「暇です」或「暇がある」。也可指空闲时间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表示有空、空闲时间，既可作名词也可作ナ形容词；本记录教材义不取辞书另列的辞职等义。",
+        "dictionary_sequences": [
+          1577280
+        ],
+        "identity": {
+          "word": "暇",
+          "reading_hiragana": "ひま",
+          "meaning": "空闲、闲暇"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8e3c49e49ad9e5cd",
+      "index": 539,
+      "word": "乾杯",
+      "reading_hiragana": "かんぱい",
+      "context_meaning_zh": "干杯",
+      "pos_ja": "名詞・動詞・感動詞・サ変名詞",
+      "pos_zh": "名词・动词・感叹词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "干杯",
+          "meaning_ja": "祝いなどの気持ちを込めて、飲み物の入った杯を上げること。",
+          "example_ja": "合格を祝って、家族で乾杯しました。",
+          "example_zh": "家人举杯庆祝了合格。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "乾杯する",
+          "zh": "干杯"
+        },
+        {
+          "ja": "乾杯の音頭",
+          "zh": "干杯祝词"
+        }
+      ],
+      "usage_note_zh": "名词可与「する」构成「乾杯する」；说「乾杯」时通常举杯，但并不限定饮料必须是酒。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "interjection"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“以茶干杯”作为不及物サ变名词动作；词典也列举杯时的感叹用法。例句的提议形式不改变词本身文体。",
+        "dictionary_sequences": [
+          1590950
+        ],
+        "identity": {
+          "word": "乾杯",
+          "reading_hiragana": "かんぱい",
+          "meaning": "干杯"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7299d63d7bba2a91",
+      "index": 540,
+      "word": "スケジュール",
+      "reading_hiragana": "スケジュール",
+      "context_meaning_zh": "日程表、时间表",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日程表、时间表",
+          "meaning_ja": "予定や行事を時間の順に書いた表。また、予定全体。",
+          "example_ja": "出発前に旅行のスケジュールを確認します。",
+          "example_zh": "出发前确认旅行日程。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "スケジュールを確認する",
+          "zh": "确认日程"
+        },
+        {
+          "ja": "予定をスケジュールに入れる",
+          "zh": "把安排列入日程"
+        }
+      ],
+      "usage_note_zh": "既可指写下来的时间表，也可泛指安排；「スケジュールが合う」表示时间安排吻合。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "十一月日程条目展示按日期安排活动，符合日程表名词义；无特定商务或正式标记。",
+        "dictionary_sequences": [
+          1068870
+        ],
+        "identity": {
+          "word": "スケジュール",
+          "reading_hiragana": "スケジュール",
+          "meaning": "日程表、时间表"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-31c86af62930b266",
+      "index": 541,
+      "word": "気軽",
+      "reading_hiragana": "きがる",
+      "context_meaning_zh": "轻松的",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "轻松的",
+          "meaning_ja": "気を張らず、遠慮しすぎない様子。",
+          "example_ja": "分からないことは気軽に質問してください。",
+          "example_zh": "有不明白的地方请尽管提问。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "気軽に話す",
+          "zh": "轻松交谈"
+        },
+        {
+          "ja": "気軽な服装",
+          "zh": "轻便随意的穿着"
+        }
+      ],
+      "usage_note_zh": "常用副词形式「気軽に」表示不必拘谨地做某事；修饰名词用「気軽な」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "気軽な会描述轻松不拘谨的聚会，词典兼列な形容词和ease名词。",
+        "dictionary_sequences": [
+          1222110
+        ],
+        "identity": {
+          "word": "気軽",
+          "reading_hiragana": "きがる",
+          "meaning": "轻松的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3bb2399a716903ca",
+      "index": 542,
+      "word": "次回",
+      "reading_hiragana": "じかい",
+      "context_meaning_zh": "下次",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "下次",
+          "meaning_ja": "今行っている回の次に来る回。",
+          "example_ja": "次回の授業では新しい歌を習います。",
+          "example_zh": "下次课我们学习一首新歌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "次回の会議",
+          "zh": "下次会议"
+        },
+        {
+          "ja": "次回は来月",
+          "zh": "下次在下个月"
+        }
+      ],
+      "usage_note_zh": "明确指某活动或场合紧接着的下一回；与「今度」相比，「次回」较少用于泛指不久以后。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「次回は映画か音楽の会」指下一次活动，词典列名词与副词；此处作时间名词。",
+        "dictionary_sequences": [
+          1316470
+        ],
+        "identity": {
+          "word": "次回",
+          "reading_hiragana": "じかい",
+          "meaning": "下次"
+        }
+      }
+    }
+  ]
+}

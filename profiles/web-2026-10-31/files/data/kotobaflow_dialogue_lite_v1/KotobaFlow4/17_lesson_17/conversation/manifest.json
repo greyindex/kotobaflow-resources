@@ -1,0 +1,1007 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 240.41,
+ "listening_review": "pending",
+ "source_chapter": 73,
+ "turns": [
+  {
+   "turn_id": "C73-D101",
+   "turn_index": 0,
+   "speaker": "林梅",
+   "source_text": "歴史の部屋の紹介はまとまりました。次は食文化ですね。「日本的な食事」という見出しを、そのまま要約に使ってもいいでしょうか。",
+   "sentence_ids": [
+    "C73-D101-S01",
+    "C73-D101-S02",
+    "C73-D101-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 10.522,
+   "duration_sec": 10.522
+  },
+  {
+   "turn_id": "C73-D102",
+   "turn_index": 1,
+   "speaker": "ハサン",
+   "source_text": "少し広すぎます。ここでいう和食とは、今回選んだ日本料理の例です。すべての家庭が同じものを食べるという意味ではありません。",
+   "sentence_ids": [
+    "C73-D102-S01",
+    "C73-D102-S02",
+    "C73-D102-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 10.872,
+   "end_sec": 21.151,
+   "duration_sec": 10.279
+  },
+  {
+   "turn_id": "C73-D103",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "寿司の写真は分かりますが、イクラを生の魚の卵とだけ説明していました。塩で味を付けてあることも書く必要がありますね。",
+   "sentence_ids": [
+    "C73-D103-S01",
+    "C73-D103-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.501,
+   "end_sec": 32.083,
+   "duration_sec": 10.582
+  },
+  {
+   "turn_id": "C73-D104",
+   "turn_index": 3,
+   "speaker": "ハサン",
+   "source_text": "ええ。刺し身の写真には鯛と平目がありました。同じ皿の烏賊も魚だと思った人がいたので、材料名をまとめすぎない方がいいです。",
+   "sentence_ids": [
+    "C73-D104-S01",
+    "C73-D104-S02",
+    "C73-D104-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match",
+    "short_pause"
+   ],
+   "start_sec": 32.433,
+   "end_sec": 41.845,
+   "duration_sec": 9.412
+  },
+  {
+   "turn_id": "C73-D105",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "揚げ物の説明では、海老のてんぷらと蒲鉾を混同した質問がありました。蒲鉾は魚の身を加工した食品だと、別のカードにあります。",
+   "sentence_ids": [
+    "C73-D105-S01",
+    "C73-D105-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 42.195,
+   "end_sec": 52.855,
+   "duration_sec": 10.66
+  },
+  {
+   "turn_id": "C73-D106",
+   "turn_index": 5,
+   "speaker": "ハサン",
+   "source_text": "そのカードを参照できますね。それに、汁椀は器で、汁は中身です。鰹節を使った汁の写真だけでは、器の名前まで伝わりません。",
+   "sentence_ids": [
+    "C73-D106-S01",
+    "C73-D106-S02",
+    "C73-D106-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 53.205,
+   "end_sec": 64.001,
+   "duration_sec": 10.796
+  },
+  {
+   "turn_id": "C73-D107",
+   "turn_index": 6,
+   "speaker": "林梅",
+   "source_text": "漬物の味を全部「ぴりっと辛い」と書くのも直しましょう。展示の一品の感想でした。酢を使う料理も、味や作り方は違いますね。",
+   "sentence_ids": [
+    "C73-D107-S01",
+    "C73-D107-S02",
+    "C73-D107-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 64.351,
+   "end_sec": 75.621,
+   "duration_sec": 11.27
+  },
+  {
+   "turn_id": "C73-D108",
+   "turn_index": 7,
+   "speaker": "ハサン",
+   "source_text": "中華料理の説明も同じです。北京ダックと酢豚を紹介していますが、それだけで中国各地の料理を説明できるとは言えません。",
+   "sentence_ids": [
+    "C73-D108-S01",
+    "C73-D108-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 75.971,
+   "end_sec": 85.464,
+   "duration_sec": 9.493
+  },
+  {
+   "turn_id": "C73-D109",
+   "turn_index": 8,
+   "speaker": "林梅",
+   "source_text": "蟹の姿蒸しは、形を残して丸ごと蒸す料理ですね。田うなぎの写真を鰻と同じ説明にした箇所は、担当者に確認してもらいました。",
+   "sentence_ids": [
+    "C73-D109-S01",
+    "C73-D109-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 85.814,
+   "end_sec": 97.172,
+   "duration_sec": 11.358
+  },
+  {
+   "turn_id": "C73-D110",
+   "turn_index": 9,
+   "speaker": "ハサン",
+   "source_text": "結果は別の食材でした。うなぎの蒲焼きの写真は残し、田うなぎのカードは説明を直します。名前が似ているだけでまとめるのは危険ですね。",
+   "sentence_ids": [
+    "C73-D110-S01",
+    "C73-D110-S02",
+    "C73-D110-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.522,
+   "end_sec": 108.815,
+   "duration_sec": 11.293
+  },
+  {
+   "turn_id": "C73-D111",
+   "turn_index": 10,
+   "speaker": "林梅",
+   "source_text": "日常の食事の例には牛丼があり、特別な食卓の例にはすき焼きがありました。でも、いつ食べるかは家庭によると注記があります。",
+   "sentence_ids": [
+    "C73-D111-S01",
+    "C73-D111-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.165,
+   "end_sec": 118.919,
+   "duration_sec": 9.754
+  },
+  {
+   "turn_id": "C73-D112",
+   "turn_index": 11,
+   "speaker": "ハサン",
+   "source_text": "京料理の欄も同様ですね。昔の都の文化が他の地域へ伝わる過程を紹介していますが、今の京都の食事が全部そうだとは書いていません。",
+   "sentence_ids": [
+    "C73-D112-S01",
+    "C73-D112-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 119.269,
+   "end_sec": 130.07,
+   "duration_sec": 10.801
+  },
+  {
+   "turn_id": "C73-D113",
+   "turn_index": 12,
+   "speaker": "林梅",
+   "source_text": "松茸を使うドリアの写真もあります。「伝統は変わらない」という見出しと合いません。材料と調理法の組合せは変化すると説明できますね。",
+   "sentence_ids": [
+    "C73-D113-S01",
+    "C73-D113-S02",
+    "C73-D113-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 130.42,
+   "end_sec": 140.556,
+   "duration_sec": 10.136
+  },
+  {
+   "turn_id": "C73-D114",
+   "turn_index": 13,
+   "speaker": "ハサン",
+   "source_text": "はい。饅頭の写真には餡子の説明が付いています。団子と同じ名前に訳す案はやめましょう。形が似ていても、作り方まで同じではありません。",
+   "sentence_ids": [
+    "C73-D114-S01",
+    "C73-D114-S02",
+    "C73-D114-S03",
+    "C73-D114-S04"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 140.906,
+   "end_sec": 151.621,
+   "duration_sec": 10.715
+  },
+  {
+   "turn_id": "C73-D115",
+   "turn_index": 14,
+   "speaker": "林梅",
+   "source_text": "飲み物の紹介はどうしますか。清酒、紹興酒、白酒が一枚の写真にありますが、同じ種類のお酒だと読める説明になっています。",
+   "sentence_ids": [
+    "C73-D115-S01",
+    "C73-D115-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 151.971,
+   "end_sec": 161.653,
+   "duration_sec": 9.682
+  },
+  {
+   "turn_id": "C73-D116",
+   "turn_index": 15,
+   "speaker": "ハサン",
+   "source_text": "種類が違うと明記しましょう。白酒はここではパイチュウと読みます。ワインやウィスキーも、名前を並べるだけでは製法の違いは分かりません。",
+   "sentence_ids": [
+    "C73-D116-S01",
+    "C73-D116-S02",
+    "C73-D116-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 162.003,
+   "end_sec": 172.354,
+   "duration_sec": 10.351
+  },
+  {
+   "turn_id": "C73-D117",
+   "turn_index": 16,
+   "speaker": "林梅",
+   "source_text": "つまり、料理名を多く残すより、説明を直した理由が大切ですね。そのため、私たちの要約には具体例を二つだけ入れたいです。",
+   "sentence_ids": [
+    "C73-D117-S01",
+    "C73-D117-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 172.704,
+   "end_sec": 183.799,
+   "duration_sec": 11.095
+  },
+  {
+   "turn_id": "C73-D118",
+   "turn_index": 17,
+   "speaker": "ハサン",
+   "source_text": "賛成です。民族色のある写真を楽しむことと、違いを正確に学ぶことの両方を残しましょう。教養があるかどうかを料理名の知識だけで決める表現は避けます。",
+   "sentence_ids": [
+    "C73-D118-S01",
+    "C73-D118-S02",
+    "C73-D118-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 184.149,
+   "end_sec": 195.832,
+   "duration_sec": 11.683
+  },
+  {
+   "turn_id": "C73-D119",
+   "turn_index": 18,
+   "speaker": "林梅",
+   "source_text": "例えば、汁をすする音やフォークの使い方だけで、礼儀を判断しないことですね。「飯」は親しい場面でも使いますが、丁寧な紹介では「ご飯」に直します。",
+   "sentence_ids": [
+    "C73-D119-S01",
+    "C73-D119-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 196.182,
+   "end_sec": 207.967,
+   "duration_sec": 11.785
+  },
+  {
+   "turn_id": "C73-D120",
+   "turn_index": 19,
+   "speaker": "ハサン",
+   "source_text": "では、要約に入れる例は田うなぎと鰻、饅頭と団子に決めましょう。前者は似た名前でも食材が違い、後者は似た形でも作り方が違います。名前や外見だけでは区別できないことを示せます。",
+   "sentence_ids": [
+    "C73-D120-S01",
+    "C73-D120-S02",
+    "C73-D120-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 208.317,
+   "end_sec": 223.481,
+   "duration_sec": 15.164
+  },
+  {
+   "turn_id": "C73-D121",
+   "turn_index": 20,
+   "speaker": "林梅",
+   "source_text": "その二例を入れます。結びは「石井は親しみを入口とし、安田は出典の確認を求める。両者は交流を望むが、展示の拡大には説明を確かめる人も必要だ」とします。担当者はまだ未定だという条件も残せますね。",
+   "sentence_ids": [
+    "C73-D121-S01",
+    "C73-D121-S02",
+    "C73-D121-S03",
+    "C73-D121-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 223.831,
+   "end_sec": 240.403,
+   "duration_sec": 16.572
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C73-D101-S01",
+   "unit_id": "C73-D101",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "歴史の部屋の紹介はまとまりました。",
+   "start_sec": 0.0,
+   "end_sec": 2.618,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D101-S02",
+   "unit_id": "C73-D101",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "次は食文化ですね。",
+   "start_sec": 2.768,
+   "end_sec": 4.757,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D101-S03",
+   "unit_id": "C73-D101",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「日本的な食事」という見出しを、そのまま要約に使ってもいいでしょうか。",
+   "start_sec": 4.907,
+   "end_sec": 10.522,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D102-S01",
+   "unit_id": "C73-D102",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "少し広すぎます。",
+   "start_sec": 10.872,
+   "end_sec": 12.978,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D102-S02",
+   "unit_id": "C73-D102",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "ここでいう和食とは、今回選んだ日本料理の例です。",
+   "start_sec": 13.128,
+   "end_sec": 17.087,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D102-S03",
+   "unit_id": "C73-D102",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "すべての家庭が同じものを食べるという意味ではありません。",
+   "start_sec": 17.237,
+   "end_sec": 21.151,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D103-S01",
+   "unit_id": "C73-D103",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "寿司の写真は分かりますが、イクラを生の魚の卵とだけ説明していました。",
+   "start_sec": 21.501,
+   "end_sec": 28.625,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D103-S02",
+   "unit_id": "C73-D103",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "塩で味を付けてあることも書く必要がありますね。",
+   "start_sec": 28.775,
+   "end_sec": 32.083,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D104-S01",
+   "unit_id": "C73-D104",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "ええ。",
+   "start_sec": 32.433,
+   "end_sec": 32.861,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D104-S02",
+   "unit_id": "C73-D104",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "刺し身の写真には鯛と平目がありました。",
+   "start_sec": 33.011,
+   "end_sec": 36.415,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D104-S03",
+   "unit_id": "C73-D104",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "同じ皿の烏賊も魚だと思った人がいたので、材料名をまとめすぎない方がいいです。",
+   "start_sec": 36.565,
+   "end_sec": 41.845,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D105-S01",
+   "unit_id": "C73-D105",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "揚げ物の説明では、海老のてんぷらと蒲鉾を混同した質問がありました。",
+   "start_sec": 42.195,
+   "end_sec": 48.223,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D105-S02",
+   "unit_id": "C73-D105",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "蒲鉾は魚の身を加工した食品だと、別のカードにあります。",
+   "start_sec": 48.373,
+   "end_sec": 52.855,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D106-S01",
+   "unit_id": "C73-D106",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そのカードを参照できますね。",
+   "start_sec": 53.205,
+   "end_sec": 55.27,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D106-S02",
+   "unit_id": "C73-D106",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "それに、汁椀は器で、汁は中身です。",
+   "start_sec": 55.419,
+   "end_sec": 59.512,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D106-S03",
+   "unit_id": "C73-D106",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "鰹節を使った汁の写真だけでは、器の名前まで伝わりません。",
+   "start_sec": 59.662,
+   "end_sec": 64.001,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D107-S01",
+   "unit_id": "C73-D107",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "漬物の味を全部「ぴりっと辛い」と書くのも直しましょう。",
+   "start_sec": 64.351,
+   "end_sec": 68.482,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D107-S02",
+   "unit_id": "C73-D107",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "展示の一品の感想でした。",
+   "start_sec": 68.632,
+   "end_sec": 70.924,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D107-S03",
+   "unit_id": "C73-D107",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "酢を使う料理も、味や作り方は違いますね。",
+   "start_sec": 71.074,
+   "end_sec": 75.621,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D108-S01",
+   "unit_id": "C73-D108",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "中華料理の説明も同じです。",
+   "start_sec": 75.971,
+   "end_sec": 78.495,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D108-S02",
+   "unit_id": "C73-D108",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "北京ダックと酢豚を紹介していますが、それだけで中国各地の料理を説明できるとは言えません。",
+   "start_sec": 78.645,
+   "end_sec": 85.464,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D109-S01",
+   "unit_id": "C73-D109",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "蟹の姿蒸しは、形を残して丸ごと蒸す料理ですね。",
+   "start_sec": 85.814,
+   "end_sec": 90.974,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D109-S02",
+   "unit_id": "C73-D109",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "田うなぎの写真を鰻と同じ説明にした箇所は、担当者に確認してもらいました。",
+   "start_sec": 91.124,
+   "end_sec": 97.172,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D110-S01",
+   "unit_id": "C73-D110",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "結果は別の食材でした。",
+   "start_sec": 97.522,
+   "end_sec": 99.892,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D110-S02",
+   "unit_id": "C73-D110",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "うなぎの蒲焼きの写真は残し、田うなぎのカードは説明を直します。",
+   "start_sec": 100.042,
+   "end_sec": 105.664,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D110-S03",
+   "unit_id": "C73-D110",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "名前が似ているだけでまとめるのは危険ですね。",
+   "start_sec": 105.814,
+   "end_sec": 108.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D111-S01",
+   "unit_id": "C73-D111",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "日常の食事の例には牛丼があり、特別な食卓の例にはすき焼きがありました。",
+   "start_sec": 109.165,
+   "end_sec": 115.178,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D111-S02",
+   "unit_id": "C73-D111",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "でも、いつ食べるかは家庭によると注記があります。",
+   "start_sec": 115.328,
+   "end_sec": 118.919,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D112-S01",
+   "unit_id": "C73-D112",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "京料理の欄も同様ですね。",
+   "start_sec": 119.269,
+   "end_sec": 121.717,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D112-S02",
+   "unit_id": "C73-D112",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "昔の都の文化が他の地域へ伝わる過程を紹介していますが、今の京都の食事が全部そうだとは書いていません。",
+   "start_sec": 121.867,
+   "end_sec": 130.07,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D113-S01",
+   "unit_id": "C73-D113",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "松茸を使うドリアの写真もあります。",
+   "start_sec": 130.42,
+   "end_sec": 133.099,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D113-S02",
+   "unit_id": "C73-D113",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「伝統は変わらない」という見出しと合いません。",
+   "start_sec": 133.249,
+   "end_sec": 136.184,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D113-S03",
+   "unit_id": "C73-D113",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "材料と調理法の組合せは変化すると説明できますね。",
+   "start_sec": 136.334,
+   "end_sec": 140.556,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D114-S01",
+   "unit_id": "C73-D114",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "はい。",
+   "start_sec": 140.906,
+   "end_sec": 141.671,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D114-S02",
+   "unit_id": "C73-D114",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "饅頭の写真には餡子の説明が付いています。",
+   "start_sec": 141.821,
+   "end_sec": 145.207,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D114-S03",
+   "unit_id": "C73-D114",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "団子と同じ名前に訳す案はやめましょう。",
+   "start_sec": 145.357,
+   "end_sec": 148.145,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D114-S04",
+   "unit_id": "C73-D114",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "形が似ていても、作り方まで同じではありません。",
+   "start_sec": 148.295,
+   "end_sec": 151.621,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D115-S01",
+   "unit_id": "C73-D115",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "飲み物の紹介はどうしますか。",
+   "start_sec": 151.971,
+   "end_sec": 154.462,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D115-S02",
+   "unit_id": "C73-D115",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "清酒、紹興酒、白酒が一枚の写真にありますが、同じ種類のお酒だと読める説明になっています。",
+   "start_sec": 154.612,
+   "end_sec": 161.653,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D116-S01",
+   "unit_id": "C73-D116",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "種類が違うと明記しましょう。",
+   "start_sec": 162.003,
+   "end_sec": 164.748,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D116-S02",
+   "unit_id": "C73-D116",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "白酒はここではパイチュウと読みます。",
+   "start_sec": 164.898,
+   "end_sec": 167.781,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D116-S03",
+   "unit_id": "C73-D116",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "ワインやウィスキーも、名前を並べるだけでは製法の違いは分かりません。",
+   "start_sec": 167.931,
+   "end_sec": 172.354,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D117-S01",
+   "unit_id": "C73-D117",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "つまり、料理名を多く残すより、説明を直した理由が大切ですね。",
+   "start_sec": 172.704,
+   "end_sec": 179.038,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D117-S02",
+   "unit_id": "C73-D117",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "そのため、私たちの要約には具体例を二つだけ入れたいです。",
+   "start_sec": 179.188,
+   "end_sec": 183.799,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D118-S01",
+   "unit_id": "C73-D118",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "賛成です。",
+   "start_sec": 184.149,
+   "end_sec": 185.232,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D118-S02",
+   "unit_id": "C73-D118",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "民族色のある写真を楽しむことと、違いを正確に学ぶことの両方を残しましょう。",
+   "start_sec": 185.382,
+   "end_sec": 191.478,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D118-S03",
+   "unit_id": "C73-D118",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "教養があるかどうかを料理名の知識だけで決める表現は避けます。",
+   "start_sec": 191.628,
+   "end_sec": 195.832,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D119-S01",
+   "unit_id": "C73-D119",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "例えば、汁をすする音やフォークの使い方だけで、礼儀を判断しないことですね。",
+   "start_sec": 196.182,
+   "end_sec": 202.912,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D119-S02",
+   "unit_id": "C73-D119",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「飯」は親しい場面でも使いますが、丁寧な紹介では「ご飯」に直します。",
+   "start_sec": 203.062,
+   "end_sec": 207.967,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D120-S01",
+   "unit_id": "C73-D120",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "では、要約に入れる例は田うなぎと鰻、饅頭と団子に決めましょう。",
+   "start_sec": 208.317,
+   "end_sec": 214.749,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D120-S02",
+   "unit_id": "C73-D120",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "前者は似た名前でも食材が違い、後者は似た形でも作り方が違います。",
+   "start_sec": 214.899,
+   "end_sec": 220.088,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D120-S03",
+   "unit_id": "C73-D120",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "名前や外見だけでは区別できないことを示せます。",
+   "start_sec": 220.238,
+   "end_sec": 223.481,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D121-S01",
+   "unit_id": "C73-D121",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "その二例を入れます。",
+   "start_sec": 223.831,
+   "end_sec": 225.47,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D121-S02",
+   "unit_id": "C73-D121",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "結びは「石井は親しみを入口とし、安田は出典の確認を求める。",
+   "start_sec": 225.62,
+   "end_sec": 231.13,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D121-S03",
+   "unit_id": "C73-D121",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "両者は交流を望むが、展示の拡大には説明を確かめる人も必要だ」とします。",
+   "start_sec": 231.28,
+   "end_sec": 237.255,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C73-D121-S04",
+   "unit_id": "C73-D121",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "担当者はまだ未定だという条件も残せますね。",
+   "start_sec": 237.405,
+   "end_sec": 240.403,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

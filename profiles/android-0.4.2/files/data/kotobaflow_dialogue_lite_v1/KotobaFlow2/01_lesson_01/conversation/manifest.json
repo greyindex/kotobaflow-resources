@@ -1,0 +1,1407 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 186.364,
+ "listening_review": "pending",
+ "source_chapter": 19,
+ "turns": [
+  {
+   "turn_id": "C19-D001",
+   "turn_index": 0,
+   "speaker": "森",
+   "source_text": "おはようございます。センターの予定の確認ですね。私も一緒に行きます。",
+   "sentence_ids": [
+    "C19-D001-S01",
+    "C19-D001-S02",
+    "C19-D001-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 5.136,
+   "duration_sec": 5.136
+  },
+  {
+   "turn_id": "C19-D002",
+   "turn_index": 1,
+   "speaker": "ナディア",
+   "source_text": "ありがとうございます。今は10時10分です。10時半まで、ここで待ちましょう。",
+   "sentence_ids": [
+    "C19-D002-S01",
+    "C19-D002-S02",
+    "C19-D002-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 5.486,
+   "end_sec": 10.991,
+   "duration_sec": 5.505
+  },
+  {
+   "turn_id": "C19-D003",
+   "turn_index": 2,
+   "speaker": "森",
+   "source_text": "昨日のメッセージを読みました。理由がはっきりしていますね。",
+   "sentence_ids": [
+    "C19-D003-S01",
+    "C19-D003-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.341,
+   "end_sec": 15.846,
+   "duration_sec": 4.505
+  },
+  {
+   "turn_id": "C19-D004",
+   "turn_index": 3,
+   "speaker": "ナディア",
+   "source_text": "私も外で読みたいです。今回は感想も書きますから、机が欲しいです。",
+   "sentence_ids": [
+    "C19-D004-S01",
+    "C19-D004-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.196,
+   "end_sec": 22.128,
+   "duration_sec": 5.932
+  },
+  {
+   "turn_id": "C19-D005",
+   "turn_index": 4,
+   "speaker": "森",
+   "source_text": "なるほど。14日はセンターがいいと思います。公園には10月に行きましょう。",
+   "sentence_ids": [
+    "C19-D005-S01",
+    "C19-D005-S02",
+    "C19-D005-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 22.478,
+   "end_sec": 28.865,
+   "duration_sec": 6.387
+  },
+  {
+   "turn_id": "C19-D006",
+   "turn_index": 5,
+   "speaker": "ナディア",
+   "source_text": "10月の土曜日ですね。涼しい日の公園は、本当にいいですね。",
+   "sentence_ids": [
+    "C19-D006-S01",
+    "C19-D006-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 29.215,
+   "end_sec": 33.9,
+   "duration_sec": 4.685
+  },
+  {
+   "turn_id": "C19-D007",
+   "turn_index": 6,
+   "speaker": "森",
+   "source_text": "ええ。私はずっと、外の読書会はいいと思っています。雨の日も外で読みますよ。",
+   "sentence_ids": [
+    "C19-D007-S01",
+    "C19-D007-S02",
+    "C19-D007-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.25,
+   "end_sec": 40.363,
+   "duration_sec": 6.113
+  },
+  {
+   "turn_id": "C19-D008",
+   "turn_index": 7,
+   "speaker": "ナディア",
+   "source_text": "えっ、本当ですか。本は大丈夫ですか。驚きました。",
+   "sentence_ids": [
+    "C19-D008-S01",
+    "C19-D008-S02",
+    "C19-D008-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 40.713,
+   "end_sec": 46.011,
+   "duration_sec": 5.298
+  },
+  {
+   "turn_id": "C19-D009",
+   "turn_index": 8,
+   "speaker": "森",
+   "source_text": "すみません、うそです。雨の日は家で読みます。10月はたぶん涼しいと思います。",
+   "sentence_ids": [
+    "C19-D009-S01",
+    "C19-D009-S02",
+    "C19-D009-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 46.361,
+   "end_sec": 52.578,
+   "duration_sec": 6.217
+  },
+  {
+   "turn_id": "C19-D010",
+   "turn_index": 9,
+   "speaker": "ナディア",
+   "source_text": "10月の予定は全員で相談しましょう。木村さんの返事はどうですか。",
+   "sentence_ids": [
+    "C19-D010-S01",
+    "C19-D010-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.928,
+   "end_sec": 58.323,
+   "duration_sec": 5.395
+  },
+  {
+   "turn_id": "C19-D011",
+   "turn_index": 10,
+   "speaker": "森",
+   "source_text": "昨夜、私に「14日も公園で読みたいです」と言いました。電話の前には、まだナディアさんのメッセージを読んでいませんでした。",
+   "sentence_ids": [
+    "C19-D011-S01",
+    "C19-D011-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 58.673,
+   "end_sec": 68.234,
+   "duration_sec": 9.561
+  },
+  {
+   "turn_id": "C19-D012",
+   "turn_index": 11,
+   "speaker": "ナディア",
+   "source_text": "そうですか。木村さんの意見も直接聞きたいです。",
+   "sentence_ids": [
+    "C19-D012-S01",
+    "C19-D012-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.584,
+   "end_sec": 72.923,
+   "duration_sec": 4.339
+  },
+  {
+   "turn_id": "C19-D013",
+   "turn_index": 12,
+   "speaker": "森",
+   "source_text": "後で私が話します。今朝はトムさんが電話で連絡しました。「14日はセンターで会いたいです」と言いました。",
+   "sentence_ids": [
+    "C19-D013-S01",
+    "C19-D013-S02",
+    "C19-D013-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 73.273,
+   "end_sec": 81.169,
+   "duration_sec": 7.896
+  },
+  {
+   "turn_id": "C19-D014",
+   "turn_index": 13,
+   "speaker": "ナディア",
+   "source_text": "それぞれの意見を書きますね。現在、センターは三人、公園は一人。上田さんはまだですね。",
+   "sentence_ids": [
+    "C19-D014-S01",
+    "C19-D014-S02",
+    "C19-D014-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.519,
+   "end_sec": 89.195,
+   "duration_sec": 7.676
+  },
+  {
+   "turn_id": "C19-D015",
+   "turn_index": 14,
+   "speaker": "森",
+   "source_text": "はい。ところで、別の話題です。上田さんの料理の本の提案はどうですか。",
+   "sentence_ids": [
+    "C19-D015-S01",
+    "C19-D015-S02",
+    "C19-D015-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.545,
+   "end_sec": 95.32,
+   "duration_sec": 5.775
+  },
+  {
+   "turn_id": "C19-D016",
+   "turn_index": 15,
+   "speaker": "ナディア",
+   "source_text": "いいと思います。確か、短い本を読みたいと言いましたね。もう一度確認します。",
+   "sentence_ids": [
+    "C19-D016-S01",
+    "C19-D016-S02",
+    "C19-D016-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 95.67,
+   "end_sec": 101.677,
+   "duration_sec": 6.007
+  },
+  {
+   "turn_id": "C19-D017",
+   "turn_index": 16,
+   "speaker": "森",
+   "source_text": "上田さんはブログで料理の話も書いていますよ。昨日の発言の後で、私とメッセージのやり取りをしました。",
+   "sentence_ids": [
+    "C19-D017-S01",
+    "C19-D017-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 102.027,
+   "end_sec": 109.475,
+   "duration_sec": 7.448
+  },
+  {
+   "turn_id": "C19-D018",
+   "turn_index": 17,
+   "speaker": "ナディア",
+   "source_text": "へえ。例えば、どんな料理ですか。",
+   "sentence_ids": [
+    "C19-D018-S01",
+    "C19-D018-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.825,
+   "end_sec": 112.884,
+   "duration_sec": 3.059
+  },
+  {
+   "turn_id": "C19-D019",
+   "turn_index": 18,
+   "speaker": "森",
+   "source_text": "一つ例を挙げます。鍋に油を入れて、玉葱ともも肉を炒めます。それから、だしとみりんを入れて煮ます。最後にグリーンピースを入れます。",
+   "sentence_ids": [
+    "C19-D019-S01",
+    "C19-D019-S02",
+    "C19-D019-S03",
+    "C19-D019-S04"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 113.234,
+   "end_sec": 124.046,
+   "duration_sec": 10.812
+  },
+  {
+   "turn_id": "C19-D020",
+   "turn_index": 19,
+   "speaker": "ナディア",
+   "source_text": "ああ、おいしいと思います。だしは英語で何と言いますか。",
+   "sentence_ids": [
+    "C19-D020-S01",
+    "C19-D020-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 124.396,
+   "end_sec": 129.311,
+   "duration_sec": 4.915
+  },
+  {
+   "turn_id": "C19-D021",
+   "turn_index": 20,
+   "speaker": "森",
+   "source_text": "日本料理のだしは英語でも「dashi」と言います。私は昨日、餃子も作りました。小麦粉に水を入れて、よくこねました。",
+   "sentence_ids": [
+    "C19-D021-S01",
+    "C19-D021-S02",
+    "C19-D021-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 129.661,
+   "end_sec": 139.083,
+   "duration_sec": 9.422
+  },
+  {
+   "turn_id": "C19-D022",
+   "turn_index": 21,
+   "speaker": "ナディア",
+   "source_text": "すごいですね。皮も自分で作りましたか。",
+   "sentence_ids": [
+    "C19-D022-S01",
+    "C19-D022-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 139.433,
+   "end_sec": 143.066,
+   "duration_sec": 3.633
+  },
+  {
+   "turn_id": "C19-D023",
+   "turn_index": 22,
+   "speaker": "森",
+   "source_text": "もちろん。皮で肉を包みました。半分は蒸して、半分は焼きました。八時に出来上がりました。",
+   "sentence_ids": [
+    "C19-D023-S01",
+    "C19-D023-S02",
+    "C19-D023-S03",
+    "C19-D023-S04"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 143.416,
+   "end_sec": 151.316,
+   "duration_sec": 7.9
+  },
+  {
+   "turn_id": "C19-D024",
+   "turn_index": 23,
+   "speaker": "ナディア",
+   "source_text": "私はいつも餃子を茹でます。その方法もいいですね。今度、写真を見せてください。",
+   "sentence_ids": [
+    "C19-D024-S01",
+    "C19-D024-S02",
+    "C19-D024-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 151.666,
+   "end_sec": 157.563,
+   "duration_sec": 5.897
+  },
+  {
+   "turn_id": "C19-D025",
+   "turn_index": 24,
+   "speaker": "森",
+   "source_text": "ええ。今朝、上田さんに会って、写真を見せました。上田さんは頷いて、にっこりとしましたよ。",
+   "sentence_ids": [
+    "C19-D025-S01",
+    "C19-D025-S02",
+    "C19-D025-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 157.913,
+   "end_sec": 164.748,
+   "duration_sec": 6.835
+  },
+  {
+   "turn_id": "C19-D026",
+   "turn_index": 25,
+   "speaker": "ナディア",
+   "source_text": "楽しみです。まず、場所と本を決めましょう。センターの部屋はたぶん大丈夫だと思います。まだ確認していません。",
+   "sentence_ids": [
+    "C19-D026-S01",
+    "C19-D026-S02",
+    "C19-D026-S03",
+    "C19-D026-S04"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 165.098,
+   "end_sec": 172.932,
+   "duration_sec": 7.834
+  },
+  {
+   "turn_id": "C19-D027",
+   "turn_index": 26,
+   "speaker": "森",
+   "source_text": "全員の返事もまだですね。部屋の確認が先ですね。",
+   "sentence_ids": [
+    "C19-D027-S01",
+    "C19-D027-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 173.282,
+   "end_sec": 177.261,
+   "duration_sec": 3.979
+  },
+  {
+   "turn_id": "C19-D028",
+   "turn_index": 27,
+   "speaker": "ナディア",
+   "source_text": "はい。確認した後で、チャットで知らせます。トムさんの意見も伝えてください。",
+   "sentence_ids": [
+    "C19-D028-S01",
+    "C19-D028-S02",
+    "C19-D028-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 177.611,
+   "end_sec": 182.666,
+   "duration_sec": 5.055
+  },
+  {
+   "turn_id": "C19-D029",
+   "turn_index": 28,
+   "speaker": "森",
+   "source_text": "はい。あっ、10時半です。中に入りましょう。",
+   "sentence_ids": [
+    "C19-D029-S01",
+    "C19-D029-S02",
+    "C19-D029-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 183.016,
+   "end_sec": 186.358,
+   "duration_sec": 3.342
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C19-D001-S01",
+   "unit_id": "C19-D001",
+   "section": "D",
+   "speaker": "森",
+   "text": "おはようございます。",
+   "start_sec": 0.0,
+   "end_sec": 1.256,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D001-S02",
+   "unit_id": "C19-D001",
+   "section": "D",
+   "speaker": "森",
+   "text": "センターの予定の確認ですね。",
+   "start_sec": 1.406,
+   "end_sec": 3.603,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D001-S03",
+   "unit_id": "C19-D001",
+   "section": "D",
+   "speaker": "森",
+   "text": "私も一緒に行きます。",
+   "start_sec": 3.753,
+   "end_sec": 5.136,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D002-S01",
+   "unit_id": "C19-D002",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "ありがとうございます。",
+   "start_sec": 5.486,
+   "end_sec": 6.727,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D002-S02",
+   "unit_id": "C19-D002",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "今は10時10分です。",
+   "start_sec": 6.877,
+   "end_sec": 8.886,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D002-S03",
+   "unit_id": "C19-D002",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "10時半まで、ここで待ちましょう。",
+   "start_sec": 9.036,
+   "end_sec": 10.991,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D003-S01",
+   "unit_id": "C19-D003",
+   "section": "D",
+   "speaker": "森",
+   "text": "昨日のメッセージを読みました。",
+   "start_sec": 11.341,
+   "end_sec": 13.608,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D003-S02",
+   "unit_id": "C19-D003",
+   "section": "D",
+   "speaker": "森",
+   "text": "理由がはっきりしていますね。",
+   "start_sec": 13.758,
+   "end_sec": 15.846,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D004-S01",
+   "unit_id": "C19-D004",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "私も外で読みたいです。",
+   "start_sec": 16.196,
+   "end_sec": 17.983,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D004-S02",
+   "unit_id": "C19-D004",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "今回は感想も書きますから、机が欲しいです。",
+   "start_sec": 18.133,
+   "end_sec": 22.128,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D005-S01",
+   "unit_id": "C19-D005",
+   "section": "D",
+   "speaker": "森",
+   "text": "なるほど。",
+   "start_sec": 22.478,
+   "end_sec": 23.883,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D005-S02",
+   "unit_id": "C19-D005",
+   "section": "D",
+   "speaker": "森",
+   "text": "14日はセンターがいいと思います。",
+   "start_sec": 24.033,
+   "end_sec": 26.575,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D005-S03",
+   "unit_id": "C19-D005",
+   "section": "D",
+   "speaker": "森",
+   "text": "公園には10月に行きましょう。",
+   "start_sec": 26.725,
+   "end_sec": 28.865,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D006-S01",
+   "unit_id": "C19-D006",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "10月の土曜日ですね。",
+   "start_sec": 29.215,
+   "end_sec": 31.19,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D006-S02",
+   "unit_id": "C19-D006",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "涼しい日の公園は、本当にいいですね。",
+   "start_sec": 31.34,
+   "end_sec": 33.9,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D007-S01",
+   "unit_id": "C19-D007",
+   "section": "D",
+   "speaker": "森",
+   "text": "ええ。",
+   "start_sec": 34.25,
+   "end_sec": 35.064,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D007-S02",
+   "unit_id": "C19-D007",
+   "section": "D",
+   "speaker": "森",
+   "text": "私はずっと、外の読書会はいいと思っています。",
+   "start_sec": 35.214,
+   "end_sec": 38.35,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D007-S03",
+   "unit_id": "C19-D007",
+   "section": "D",
+   "speaker": "森",
+   "text": "雨の日も外で読みますよ。",
+   "start_sec": 38.5,
+   "end_sec": 40.363,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D008-S01",
+   "unit_id": "C19-D008",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "えっ、本当ですか。",
+   "start_sec": 40.713,
+   "end_sec": 42.724,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D008-S02",
+   "unit_id": "C19-D008",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "本は大丈夫ですか。",
+   "start_sec": 42.874,
+   "end_sec": 44.553,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D008-S03",
+   "unit_id": "C19-D008",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "驚きました。",
+   "start_sec": 44.703,
+   "end_sec": 46.011,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D009-S01",
+   "unit_id": "C19-D009",
+   "section": "D",
+   "speaker": "森",
+   "text": "すみません、うそです。",
+   "start_sec": 46.361,
+   "end_sec": 47.978,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D009-S02",
+   "unit_id": "C19-D009",
+   "section": "D",
+   "speaker": "森",
+   "text": "雨の日は家で読みます。",
+   "start_sec": 48.128,
+   "end_sec": 49.956,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D009-S03",
+   "unit_id": "C19-D009",
+   "section": "D",
+   "speaker": "森",
+   "text": "10月はたぶん涼しいと思います。",
+   "start_sec": 50.106,
+   "end_sec": 52.578,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D010-S01",
+   "unit_id": "C19-D010",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "10月の予定は全員で相談しましょう。",
+   "start_sec": 52.928,
+   "end_sec": 56.105,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D010-S02",
+   "unit_id": "C19-D010",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "木村さんの返事はどうですか。",
+   "start_sec": 56.255,
+   "end_sec": 58.323,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D011-S01",
+   "unit_id": "C19-D011",
+   "section": "D",
+   "speaker": "森",
+   "text": "昨夜、私に「14日も公園で読みたいです」と言いました。",
+   "start_sec": 58.673,
+   "end_sec": 63.628,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D011-S02",
+   "unit_id": "C19-D011",
+   "section": "D",
+   "speaker": "森",
+   "text": "電話の前には、まだナディアさんのメッセージを読んでいませんでした。",
+   "start_sec": 63.778,
+   "end_sec": 68.234,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D012-S01",
+   "unit_id": "C19-D012",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "そうですか。",
+   "start_sec": 68.584,
+   "end_sec": 70.039,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D012-S02",
+   "unit_id": "C19-D012",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "木村さんの意見も直接聞きたいです。",
+   "start_sec": 70.189,
+   "end_sec": 72.923,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D013-S01",
+   "unit_id": "C19-D013",
+   "section": "D",
+   "speaker": "森",
+   "text": "後で私が話します。",
+   "start_sec": 73.273,
+   "end_sec": 75.19,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D013-S02",
+   "unit_id": "C19-D013",
+   "section": "D",
+   "speaker": "森",
+   "text": "今朝はトムさんが電話で連絡しました。",
+   "start_sec": 75.34,
+   "end_sec": 78.096,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D013-S03",
+   "unit_id": "C19-D013",
+   "section": "D",
+   "speaker": "森",
+   "text": "「14日はセンターで会いたいです」と言いました。",
+   "start_sec": 78.246,
+   "end_sec": 81.169,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D014-S01",
+   "unit_id": "C19-D014",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "それぞれの意見を書きますね。",
+   "start_sec": 81.519,
+   "end_sec": 83.754,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D014-S02",
+   "unit_id": "C19-D014",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "現在、センターは三人、公園は一人。",
+   "start_sec": 83.904,
+   "end_sec": 87.5,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D014-S03",
+   "unit_id": "C19-D014",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "上田さんはまだですね。",
+   "start_sec": 87.65,
+   "end_sec": 89.195,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D015-S01",
+   "unit_id": "C19-D015",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい。",
+   "start_sec": 89.545,
+   "end_sec": 90.142,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D015-S02",
+   "unit_id": "C19-D015",
+   "section": "D",
+   "speaker": "森",
+   "text": "ところで、別の話題です。",
+   "start_sec": 90.292,
+   "end_sec": 92.257,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D015-S03",
+   "unit_id": "C19-D015",
+   "section": "D",
+   "speaker": "森",
+   "text": "上田さんの料理の本の提案はどうですか。",
+   "start_sec": 92.407,
+   "end_sec": 95.32,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D016-S01",
+   "unit_id": "C19-D016",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "いいと思います。",
+   "start_sec": 95.67,
+   "end_sec": 96.841,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D016-S02",
+   "unit_id": "C19-D016",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "確か、短い本を読みたいと言いましたね。",
+   "start_sec": 96.991,
+   "end_sec": 100.112,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D016-S03",
+   "unit_id": "C19-D016",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "もう一度確認します。",
+   "start_sec": 100.262,
+   "end_sec": 101.677,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D017-S01",
+   "unit_id": "C19-D017",
+   "section": "D",
+   "speaker": "森",
+   "text": "上田さんはブログで料理の話も書いていますよ。",
+   "start_sec": 102.027,
+   "end_sec": 105.175,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D017-S02",
+   "unit_id": "C19-D017",
+   "section": "D",
+   "speaker": "森",
+   "text": "昨日の発言の後で、私とメッセージのやり取りをしました。",
+   "start_sec": 105.325,
+   "end_sec": 109.475,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D018-S01",
+   "unit_id": "C19-D018",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "へえ。",
+   "start_sec": 109.825,
+   "end_sec": 110.903,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D018-S02",
+   "unit_id": "C19-D018",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "例えば、どんな料理ですか。",
+   "start_sec": 111.053,
+   "end_sec": 112.884,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D019-S01",
+   "unit_id": "C19-D019",
+   "section": "D",
+   "speaker": "森",
+   "text": "一つ例を挙げます。",
+   "start_sec": 113.234,
+   "end_sec": 114.876,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D019-S02",
+   "unit_id": "C19-D019",
+   "section": "D",
+   "speaker": "森",
+   "text": "鍋に油を入れて、玉葱ともも肉を炒めます。",
+   "start_sec": 115.026,
+   "end_sec": 118.877,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D019-S03",
+   "unit_id": "C19-D019",
+   "section": "D",
+   "speaker": "森",
+   "text": "それから、だしとみりんを入れて煮ます。",
+   "start_sec": 119.027,
+   "end_sec": 121.804,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D019-S04",
+   "unit_id": "C19-D019",
+   "section": "D",
+   "speaker": "森",
+   "text": "最後にグリーンピースを入れます。",
+   "start_sec": 121.954,
+   "end_sec": 124.046,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D020-S01",
+   "unit_id": "C19-D020",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "ああ、おいしいと思います。",
+   "start_sec": 124.396,
+   "end_sec": 126.769,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D020-S02",
+   "unit_id": "C19-D020",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "だしは英語で何と言いますか。",
+   "start_sec": 126.919,
+   "end_sec": 129.311,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D021-S01",
+   "unit_id": "C19-D021",
+   "section": "D",
+   "speaker": "森",
+   "text": "日本料理のだしは英語でも「dashi」と言います。",
+   "start_sec": 129.661,
+   "end_sec": 133.428,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D021-S02",
+   "unit_id": "C19-D021",
+   "section": "D",
+   "speaker": "森",
+   "text": "私は昨日、餃子も作りました。",
+   "start_sec": 133.578,
+   "end_sec": 136.259,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D021-S03",
+   "unit_id": "C19-D021",
+   "section": "D",
+   "speaker": "森",
+   "text": "小麦粉に水を入れて、よくこねました。",
+   "start_sec": 136.409,
+   "end_sec": 139.083,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D022-S01",
+   "unit_id": "C19-D022",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "すごいですね。",
+   "start_sec": 139.433,
+   "end_sec": 141.035,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D022-S02",
+   "unit_id": "C19-D022",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "皮も自分で作りましたか。",
+   "start_sec": 141.185,
+   "end_sec": 143.066,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D023-S01",
+   "unit_id": "C19-D023",
+   "section": "D",
+   "speaker": "森",
+   "text": "もちろん。",
+   "start_sec": 143.416,
+   "end_sec": 144.342,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D023-S02",
+   "unit_id": "C19-D023",
+   "section": "D",
+   "speaker": "森",
+   "text": "皮で肉を包みました。",
+   "start_sec": 144.492,
+   "end_sec": 146.403,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D023-S03",
+   "unit_id": "C19-D023",
+   "section": "D",
+   "speaker": "森",
+   "text": "半分は蒸して、半分は焼きました。",
+   "start_sec": 146.553,
+   "end_sec": 149.475,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D023-S04",
+   "unit_id": "C19-D023",
+   "section": "D",
+   "speaker": "森",
+   "text": "八時に出来上がりました。",
+   "start_sec": 149.625,
+   "end_sec": 151.316,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D024-S01",
+   "unit_id": "C19-D024",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "私はいつも餃子を茹でます。",
+   "start_sec": 151.666,
+   "end_sec": 153.875,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D024-S02",
+   "unit_id": "C19-D024",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "その方法もいいですね。",
+   "start_sec": 154.025,
+   "end_sec": 155.708,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D024-S03",
+   "unit_id": "C19-D024",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "今度、写真を見せてください。",
+   "start_sec": 155.858,
+   "end_sec": 157.563,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D025-S01",
+   "unit_id": "C19-D025",
+   "section": "D",
+   "speaker": "森",
+   "text": "ええ。",
+   "start_sec": 157.913,
+   "end_sec": 158.579,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D025-S02",
+   "unit_id": "C19-D025",
+   "section": "D",
+   "speaker": "森",
+   "text": "今朝、上田さんに会って、写真を見せました。",
+   "start_sec": 158.729,
+   "end_sec": 161.694,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D025-S03",
+   "unit_id": "C19-D025",
+   "section": "D",
+   "speaker": "森",
+   "text": "上田さんは頷いて、にっこりとしましたよ。",
+   "start_sec": 161.844,
+   "end_sec": 164.748,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D026-S01",
+   "unit_id": "C19-D026",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "楽しみです。",
+   "start_sec": 165.098,
+   "end_sec": 166.229,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D026-S02",
+   "unit_id": "C19-D026",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "まず、場所と本を決めましょう。",
+   "start_sec": 166.379,
+   "end_sec": 168.454,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D026-S03",
+   "unit_id": "C19-D026",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "センターの部屋はたぶん大丈夫だと思います。",
+   "start_sec": 168.604,
+   "end_sec": 171.412,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D026-S04",
+   "unit_id": "C19-D026",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "まだ確認していません。",
+   "start_sec": 171.562,
+   "end_sec": 172.932,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D027-S01",
+   "unit_id": "C19-D027",
+   "section": "D",
+   "speaker": "森",
+   "text": "全員の返事もまだですね。",
+   "start_sec": 173.282,
+   "end_sec": 175.395,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D027-S02",
+   "unit_id": "C19-D027",
+   "section": "D",
+   "speaker": "森",
+   "text": "部屋の確認が先ですね。",
+   "start_sec": 175.545,
+   "end_sec": 177.261,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D028-S01",
+   "unit_id": "C19-D028",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "はい。",
+   "start_sec": 177.611,
+   "end_sec": 178.26,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D028-S02",
+   "unit_id": "C19-D028",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "確認した後で、チャットで知らせます。",
+   "start_sec": 178.41,
+   "end_sec": 180.67,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D028-S03",
+   "unit_id": "C19-D028",
+   "section": "D",
+   "speaker": "ナディア",
+   "text": "トムさんの意見も伝えてください。",
+   "start_sec": 180.82,
+   "end_sec": 182.666,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D029-S01",
+   "unit_id": "C19-D029",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい。",
+   "start_sec": 183.016,
+   "end_sec": 183.455,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D029-S02",
+   "unit_id": "C19-D029",
+   "section": "D",
+   "speaker": "森",
+   "text": "あっ、10時半です。",
+   "start_sec": 183.605,
+   "end_sec": 185.037,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C19-D029-S03",
+   "unit_id": "C19-D029",
+   "section": "D",
+   "speaker": "森",
+   "text": "中に入りましょう。",
+   "start_sec": 185.187,
+   "end_sec": 186.358,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

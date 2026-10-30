@@ -1,0 +1,5211 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_03",
+  "entries": [
+    {
+      "textbook_uid": "cfv-9bd128ea463c5852",
+      "index": 1065,
+      "word": "都合",
+      "reading_hiragana": "つごう",
+      "context_meaning_zh": "时间等是否方便",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "时间等是否方便",
+          "meaning_ja": "予定や条件が合っていて、無理なく行動できる状態。",
+          "example_ja": "来週の火曜日なら都合がつきます。",
+          "example_zh": "下周二的话我能安排得开。"
+        },
+        {
+          "meaning_zh": "事情安排；情况",
+          "meaning_ja": "ある事をする際に関係する事情や条件。",
+          "example_ja": "家庭の都合で、転勤を断りました。",
+          "example_zh": "因为家庭原因，我拒绝了调职。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "都合がつく",
+          "zh": "安排得开"
+        }
+      ],
+      "usage_note_zh": "「都合がいい／悪い」说明时间等是否方便；「都合がつく」表示协调后有空。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "都合在「都合がよい／悪い」及「午後の都合」中询问时间或安排是否方便；句子口语形式不构成词项专用口语标签。",
+        "dictionary_sequences": [
+          1444980
+        ],
+        "identity": {
+          "word": "都合",
+          "reading_hiragana": "つごう",
+          "meaning": "时间等是否方便"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-20598231bc8d375d",
+      "index": 1066,
+      "word": "用事",
+      "reading_hiragana": "ようじ",
+      "context_meaning_zh": "要办的事",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "要办的事",
+          "meaning_ja": "しなければならない事柄。",
+          "example_ja": "今日は用事があるので、先に帰ります。",
+          "example_zh": "我今天有事要办，先回去了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "用事がある",
+          "zh": "有事"
+        }
+      ],
+      "usage_note_zh": "常说「用事がある／済む」；表示具体待办事项，不一定是工作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "预先已有用事表示已有要处理的事情，符合用事名词义。",
+        "dictionary_sequences": [
+          1546300
+        ],
+        "identity": {
+          "word": "用事",
+          "reading_hiragana": "ようじ",
+          "meaning": "要办的事"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-07f35db8ede11741",
+      "index": 1067,
+      "word": "変更",
+      "reading_hiragana": "へんこう",
+      "context_meaning_zh": "变更",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "变更",
+          "meaning_ja": "決まっていた内容を別のものに変えること。",
+          "example_ja": "会議の場所を変更しました。",
+          "example_zh": "更改了会议地点。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予定を変更する",
+          "zh": "更改计划"
+        }
+      ],
+      "usage_note_zh": "「変更する」以「を」标记被改动的内容；比口语「変える」稍正式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指对既定日程的变更，词典标サ变他动；此例叙述更改安排的意愿，学习说明指出以を标被改内容。",
+        "dictionary_sequences": [
+          1511040
+        ],
+        "identity": {
+          "word": "変更",
+          "reading_hiragana": "へんこう",
+          "meaning": "变更"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-98be7c51e4ae1cf3",
+      "index": 1068,
+      "word": "遅れる",
+      "reading_hiragana": "おくれる",
+      "context_meaning_zh": "迟到、延误",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "迟到、延误",
+          "meaning_ja": "予定した時刻や進み方より後になる。",
+          "example_ja": "バスが遅れて、授業に間に合いませんでした。",
+          "example_zh": "公交晚点，我没赶上上课。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "到着が遅れる",
+          "zh": "到达延误"
+        }
+      ],
+      "usage_note_zh": "人迟到常说「約束に遅れる」；交通工具或进度也可作主语。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "电车晚点导致赶去会馆，符合未按预定时间到达的一段不及物动词义。",
+        "dictionary_sequences": [
+          1589040
+        ],
+        "identity": {
+          "word": "遅れる",
+          "reading_hiragana": "おくれる",
+          "meaning": "迟到、延误"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6a5791191bd4dd00",
+      "index": 1069,
+      "word": "間に合う",
+      "reading_hiragana": "まにあう",
+      "context_meaning_zh": "赶得上",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "赶得上",
+          "meaning_ja": "決められた時刻や機会に遅れずにできる。",
+          "example_ja": "急げば、最終電車に間に合います。",
+          "example_zh": "赶快的话还能赶上末班车。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電車に間に合う",
+          "zh": "赶上电车"
+        }
+      ],
+      "usage_note_zh": "常用「時間に／電車に間に合う」；助词「に」标记赶上的时刻或对象。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1215260列五段自动词；「5時半には」表示在限定时刻前来得及，未带受事宾语。",
+        "dictionary_sequences": [
+          1215260
+        ],
+        "identity": {
+          "word": "間に合う",
+          "reading_hiragana": "まにあう",
+          "meaning": "赶得上"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0295e46df186020c",
+      "index": 1070,
+      "word": "困る",
+      "reading_hiragana": "こまる",
+      "context_meaning_zh": "为难",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "为难",
+          "meaning_ja": "問題があって、どうすればよいか分からなくなる。",
+          "example_ja": "道が分からなくて困っています。",
+          "example_zh": "我不知道路，正发愁。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "困ったこと",
+          "zh": "棘手的事"
+        }
+      ],
+      "usage_note_zh": "常说「困る」表示遇到麻烦；「困らせる」才是使别人为难。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "困る为五段自動詞，困りました表示陷入为难；不带直接受事宾语。",
+        "dictionary_sequences": [
+          1289590
+        ],
+        "identity": {
+          "word": "困る",
+          "reading_hiragana": "こまる",
+          "meaning": "为难"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-281a1e6060d025fa",
+      "index": 1071,
+      "word": "急ぐ",
+      "reading_hiragana": "いそぐ",
+      "context_meaning_zh": "赶紧",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "赶紧",
+          "meaning_ja": "時間が足りないなどの理由で、早く行動する。",
+          "example_ja": "忘れ物に気づいて、家へ急ぎました。",
+          "example_zh": "发现忘带东西后，我赶紧回家。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅へ急ぐ",
+          "zh": "赶往车站"
+        }
+      ],
+      "usage_note_zh": "「急いで＋动作」表示赶着做某事；不及物动词，目的地常用「へ／に」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此例急いで前往会馆，表示行动者加快脚步；词典兼标vi/vt，但句中未使用促使事件提前的他动义。",
+        "dictionary_sequences": [
+          1228650
+        ],
+        "identity": {
+          "word": "急ぐ",
+          "reading_hiragana": "いそぐ",
+          "meaning": "赶紧"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4ba84d1b67e6355c",
+      "index": 1072,
+      "word": "急用",
+      "reading_hiragana": "きゅうよう",
+      "context_meaning_zh": "急事",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "急事",
+          "meaning_ja": "すぐに対応しなければならない大切な用事。",
+          "example_ja": "急用ができたので、会議の途中で退席しました。",
+          "example_zh": "突然有急事，我中途离开了会议。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "急用ができる",
+          "zh": "有急事"
+        }
+      ],
+      "usage_note_zh": "常说「急用ができる／ある」；「急用」强调必须尽快处理的事情。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号1228990释为急事；疑问句询问对方是否有急事。",
+        "dictionary_sequences": [
+          1228990
+        ],
+        "identity": {
+          "word": "急用",
+          "reading_hiragana": "きゅうよう",
+          "meaning": "急事"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ebd41d81eecc4a84",
+      "index": 1073,
+      "word": "約束",
+      "reading_hiragana": "やくそく",
+      "context_meaning_zh": "约定",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "约定",
+          "meaning_ja": "人と前もって決めたこと。また、その内容を決めること。",
+          "example_ja": "友人と駅で会う約束をしました。",
+          "example_zh": "我和朋友约好在车站见面。"
+        },
+        {
+          "meaning_zh": "承诺；约定的内容",
+          "meaning_ja": "相手にすると言ったこと。",
+          "example_ja": "約束を忘れないように、手帳に書きました。",
+          "example_zh": "为了不忘记约定，我把它写在了记事本上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "約束を守る",
+          "zh": "遵守约定"
+        }
+      ],
+      "usage_note_zh": "「人と約束する」「～する約束」均常见；也可指承诺。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与石井约好准备料理教室，約束是约定名词，词典兼列约束する他动サ変。",
+        "dictionary_sequences": [
+          1538130
+        ],
+        "identity": {
+          "word": "約束",
+          "reading_hiragana": "やくそく",
+          "meaning": "约定"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fc07c275da04d310",
+      "index": 1074,
+      "word": "待つ",
+      "reading_hiragana": "まつ",
+      "context_meaning_zh": "等待",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "等待",
+          "meaning_ja": "人や物が来るまで、その場で時間を過ごす。",
+          "example_ja": "受付の前で名前を呼ばれるのを待ちました。",
+          "example_zh": "我在接待处前等着被叫到名字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "返事を待つ",
+          "zh": "等待回复"
+        }
+      ],
+      "usage_note_zh": "等待对象用「を」；等待地点常用「で」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "待つ可不带对象地在入口等待，也可直接等待具体参加者；JMdict同列vt和vi，按词项自他两用标注。",
+        "dictionary_sequences": [
+          1410590
+        ],
+        "identity": {
+          "word": "待つ",
+          "reading_hiragana": "まつ",
+          "meaning": "等待"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c636bb30c4b37b03",
+      "index": 1075,
+      "word": "休む",
+      "reading_hiragana": "やすむ",
+      "context_meaning_zh": "因故不上课／不上班（缺席义）",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "因故不上课／不上班（缺席义）",
+          "meaning_ja": "学校や仕事へ行かず、家などで過ごす。",
+          "example_ja": "熱があるので、今日は学校を休みます。",
+          "example_zh": "我发烧了，今天不去学校。"
+        },
+        {
+          "meaning_zh": "休息",
+          "meaning_ja": "仕事や活動をやめて、体を休める。",
+          "example_ja": "疲れたので、少し休みます。",
+          "example_zh": "我累了，休息一会儿。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会社を休む",
+          "zh": "请假不上班"
+        }
+      ],
+      "usage_note_zh": "「学校を休む」中的「を」标记缺席的场所或所属；也可表示休息。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条取因事缺席义；「18日は休みます」不带直接宾语，词典该义标自五段。",
+        "dictionary_sequences": [
+          1227560
+        ],
+        "identity": {
+          "word": "休む",
+          "reading_hiragana": "やすむ",
+          "meaning": "因故不上课／不上班（缺席义）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-22e785c19d789e3d",
+      "index": 1076,
+      "word": "連絡する",
+      "reading_hiragana": "れんらくする",
+      "context_meaning_zh": "联系",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "联系",
+          "meaning_ja": "知らせたいことを相手に伝える。",
+          "example_ja": "着いたら、入口から電話で連絡してください。",
+          "example_zh": "到了以后请从入口打电话联系我。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "本人に連絡する",
+          "zh": "联系本人"
+        }
+      ],
+      "usage_note_zh": "对象用「に」；「連絡をする」也可说。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context"
+        ],
+        "note_zh": "连絡「する」的基本形表示联系行为；例句中的「します」/「してください」是礼貌活用或请求构式，不属于词头polite属性。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "連絡する",
+          "reading_hiragana": "れんらくする",
+          "meaning": "联系"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-69ceab63c3ca7cca",
+      "index": 1077,
+      "word": "申し訳ない",
+      "reading_hiragana": "もうしわけない",
+      "context_meaning_zh": "抱歉",
+      "pos_ja": "イ形容詞・表現・定型表現",
+      "pos_zh": "い形容词・表达・固定表达",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "抱歉",
+          "meaning_ja": "相手に迷惑をかけたことを深く詫びる言葉。",
+          "example_ja": "ご連絡が遅くなり、申し訳ありません。",
+          "example_zh": "联系晚了，非常抱歉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "申し訳ありません",
+          "zh": "非常抱歉"
+        }
+      ],
+      "usage_note_zh": "常以「申し訳ありません／ございません」道歉；「申し訳ない」语气郑重。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "申し訳ない是道歉或感谢帮助的固定表达并有い形容词形态，词项本身具正式歉意；本例使用です。",
+        "dictionary_sequences": [
+          1612040
+        ],
+        "identity": {
+          "word": "申し訳ない",
+          "reading_hiragana": "もうしわけない",
+          "meaning": "抱歉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c22bae07fb5d38cf",
+      "index": 1078,
+      "word": "実は",
+      "reading_hiragana": "じつは",
+      "context_meaning_zh": "其实",
+      "pos_ja": "副詞・定型表現",
+      "pos_zh": "副词・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "其实",
+          "meaning_ja": "本当のことをこれから話すときに使う言葉。",
+          "example_ja": "実は、相談したいことがあります。",
+          "example_zh": "其实，我有件事想和你商量。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "実はね",
+          "zh": "其实啊"
+        }
+      ],
+      "usage_note_zh": "常放在句首，引出此前未说的真实情况；语气取决于句尾。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「実は」常在句首引出真实情况；此处委婉说明当天安排不便，例句是会话场景但词本身不局限口语。",
+        "dictionary_sequences": [
+          1320830
+        ],
+        "identity": {
+          "word": "実は",
+          "reading_hiragana": "じつは",
+          "meaning": "其实"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-04bf82b6da125424",
+      "index": 1079,
+      "word": "それで",
+      "reading_hiragana": "それで",
+      "context_meaning_zh": "因此、于是",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "因此、于是",
+          "meaning_ja": "前の出来事を理由として、次の結果を述べる。",
+          "example_ja": "雨が強くなりました。それで、試合は中止です。",
+          "example_zh": "雨下大了。因此比赛取消。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "それでどうなった",
+          "zh": "那之后怎么样了"
+        }
+      ],
+      "usage_note_zh": "句首承接前因表示结果；疑问句「それで？」也可催促对方继续说。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「それで」连接前后事项并引出因此／于是的结果，当前延期通知符合接续词用法；无特殊语体或体裁证据。",
+        "dictionary_sequences": [
+          1007000
+        ],
+        "identity": {
+          "word": "それで",
+          "reading_hiragana": "それで",
+          "meaning": "因此、于是"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7af40ffb7bf3f8ed",
+      "index": 1080,
+      "word": "代わり",
+      "reading_hiragana": "かわり",
+      "context_meaning_zh": "替代",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "替代",
+          "meaning_ja": "別の人や物が、本来の人や物の役目をすること。",
+          "example_ja": "今日は私の代わりに妹が受付をします。",
+          "example_zh": "今天妹妹代替我负责接待。"
+        },
+        {
+          "meaning_zh": "（作为交换）代价；相应回报",
+          "meaning_ja": "何かをしてもらったことへのお返しとして、別のことをすること。",
+          "example_ja": "手伝ってもらった代わりに、昼ご飯をごちそうしました。",
+          "example_zh": "作为对方帮忙的回报，我请他吃了午饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "私の代わりに",
+          "zh": "代替我"
+        }
+      ],
+      "usage_note_zh": "「Aの代わりにB」表示B替代A；也可表示以B换取A。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "代わり指代替者或代替关系；例句中的お願いします、敬语接待和电话服务礼貌来自完整句式，并非词项本身。",
+        "dictionary_sequences": [
+          1590770
+        ],
+        "identity": {
+          "word": "代わり",
+          "reading_hiragana": "かわり",
+          "meaning": "替代"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-216da4ec8a91eab9",
+      "index": 1081,
+      "word": "日程",
+      "reading_hiragana": "にってい",
+      "context_meaning_zh": "日程",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日程",
+          "meaning_ja": "行事や予定を行う日と順序をまとめたもの。",
+          "example_ja": "旅行の日程を家族と相談しています。",
+          "example_zh": "我正在和家人商量旅行日程。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日程を決める",
+          "zh": "确定日程"
+        }
+      ],
+      "usage_note_zh": "用于安排事项的日期与流程；单说某天是否方便通常用「都合」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "改变日程后改日帮忙准备，日程指工作和活动的时间安排，符合schedule义。",
+        "dictionary_sequences": [
+          1464300
+        ],
+        "identity": {
+          "word": "日程",
+          "reading_hiragana": "にってい",
+          "meaning": "日程"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bf9df28de4fdd5e9",
+      "index": 1082,
+      "word": "もう一度",
+      "reading_hiragana": "もういちど",
+      "context_meaning_zh": "再一次",
+      "pos_ja": "副詞・表現",
+      "pos_zh": "副词・表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "再一次",
+          "meaning_ja": "同じことをもう一回行うことを表す。",
+          "example_ja": "聞き取れなかったので、名前をもう一度教えてください。",
+          "example_zh": "我没听清，请再告诉我一次名字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "もう一度言う",
+          "zh": "再说一次"
+        }
+      ],
+      "usage_note_zh": "修饰动词，表示重复一次；「もう一度」本身不说明之前做了几次。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb",
+          "expression"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号2005860标 adv 与 expression，例句用于约定日期后再次联系，表示重复一次。",
+        "dictionary_sequences": [
+          2005860
+        ],
+        "identity": {
+          "word": "もう一度",
+          "reading_hiragana": "もういちど",
+          "meaning": "再一次"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0bda4225a64907bc",
+      "index": 1083,
+      "word": "延期",
+      "reading_hiragana": "えんき",
+      "context_meaning_zh": "延期",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "延期",
+          "meaning_ja": "予定していた時より後の日に移すこと。",
+          "example_ja": "台風のため、運動会は来週に延期になりました。",
+          "example_zh": "因为台风，运动会延期到下周了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "出発を延期する",
+          "zh": "推迟出发"
+        }
+      ],
+      "usage_note_zh": "可说「延期する」「延期になる」；只表示推后，和取消不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「延期」表示把课程等日期延后，例句中延期作谓语结果；词汇可「延期する」，延后的事项为对象，按サ变他动词处理。",
+        "dictionary_sequences": [
+          1176430
+        ],
+        "identity": {
+          "word": "延期",
+          "reading_hiragana": "えんき",
+          "meaning": "延期"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e5930848b9e57c36",
+      "index": 1084,
+      "word": "中止",
+      "reading_hiragana": "ちゅうし",
+      "context_meaning_zh": "取消举办",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "取消举办",
+          "meaning_ja": "予定していた行事や活動を行わないことにする。",
+          "example_ja": "強い風のため、花火大会は中止になりました。",
+          "example_zh": "因为风很大，烟火大会取消了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "イベントを中止する",
+          "zh": "中止活动"
+        }
+      ],
+      "usage_note_zh": "「中止」指活动停止或不举行；预约个人取消常用「キャンセル」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示雨天也不停办活动；词典列中止为名词兼他动サ变词。",
+        "dictionary_sequences": [
+          1424410
+        ],
+        "identity": {
+          "word": "中止",
+          "reading_hiragana": "ちゅうし",
+          "meaning": "取消举办"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e8468e94da432973",
+      "index": 1085,
+      "word": "キャンセル",
+      "reading_hiragana": "キャンセル",
+      "context_meaning_zh": "取消预约",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "取消预约",
+          "meaning_ja": "予約や申し込みを取り消すこと。",
+          "example_ja": "店に電話して、予約をキャンセルしました。",
+          "example_zh": "我给店里打电话取消了预约。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予約をキャンセルする",
+          "zh": "取消预约"
+        }
+      ],
+      "usage_note_zh": "常与预约、申请、订单搭配；正式通知也可用「取り消す」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "预约取消既可作名词，也可构成「キャンセルする」这一サ变他动词，如「予約をキャンセルする」；当前记录对应预约义。",
+        "dictionary_sequences": [
+          1042050
+        ],
+        "identity": {
+          "word": "キャンセル",
+          "reading_hiragana": "キャンセル",
+          "meaning": "取消预约"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1f98d53c71833496",
+      "index": 1086,
+      "word": "事情",
+      "reading_hiragana": "じじょう",
+      "context_meaning_zh": "情况、缘由",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "情况、缘由",
+          "meaning_ja": "ある出来事が起きた背景や、その人が置かれている状態。",
+          "example_ja": "事情を聞いてから、返事を決めます。",
+          "example_zh": "听完情况后再决定答复。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事情を説明する",
+          "zh": "说明情况"
+        }
+      ],
+      "usage_note_zh": "可指背景缘由，也可泛指状况；「事情がある」常委婉表示有原因。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "缺席的情况通过电话说明，指具体缘由或背景；词典circumstances/reasons义均合语境。",
+        "dictionary_sequences": [
+          1314010
+        ],
+        "identity": {
+          "word": "事情",
+          "reading_hiragana": "じじょう",
+          "meaning": "情况、缘由"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-80b13a9c8a2fea48",
+      "index": 1087,
+      "word": "故障",
+      "reading_hiragana": "こしょう",
+      "context_meaning_zh": "故障",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "故障",
+          "meaning_ja": "機械や装置が正常に動かなくなること。",
+          "example_ja": "プリンターの故障で、資料を印刷できません。",
+          "example_zh": "打印机故障，资料无法打印。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "機械が故障する",
+          "zh": "机器发生故障"
+        }
+      ],
+      "usage_note_zh": "常说设备「が故障する」或「の故障」；一般不用于人身体不适。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本句指烤箱发生故障，语境是设备状态；词典同一词有vt/vi义，但本条未出现造成故障的宾语。",
+        "dictionary_sequences": [
+          1267180
+        ],
+        "identity": {
+          "word": "故障",
+          "reading_hiragana": "こしょう",
+          "meaning": "故障"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6b877b92a35c4a80",
+      "index": 1088,
+      "word": "渋滞",
+      "reading_hiragana": "じゅうたい",
+      "context_meaning_zh": "交通堵塞",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "交通堵塞",
+          "meaning_ja": "車や人が多く、道を進みにくい状態。",
+          "example_ja": "事故のため、高速道路が渋滞しています。",
+          "example_zh": "因为事故，高速公路堵车了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "渋滞に巻き込まれる",
+          "zh": "遇上堵车"
+        }
+      ],
+      "usage_note_zh": "常说「道路が渋滞する」「渋滞に巻き込まれる」；交通语境中多指车流堵塞。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与拥挤和公交延误并列提醒交通堵塞；渋滞可作名词或不及物する动词。",
+        "dictionary_sequences": [
+          1335570
+        ],
+        "identity": {
+          "word": "渋滞",
+          "reading_hiragana": "じゅうたい",
+          "meaning": "交通堵塞"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3c2fc5c01205d385",
+      "index": 1089,
+      "word": "工事",
+      "reading_hiragana": "こうじ",
+      "context_meaning_zh": "施工",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "施工",
+          "meaning_ja": "建物や道路などを作ったり、修理したりする作業。",
+          "example_ja": "駅前で工事をしているので、道が狭いです。",
+          "example_zh": "车站前正在施工，所以路很窄。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道路工事",
+          "zh": "道路施工"
+        }
+      ],
+      "usage_note_zh": "「工事をする／行う」表示施工；读音为「こうじ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条指工程施工，可作施工名词并能构成工事する；未提供可判断工事する配价的完整例句，保留两种语义角色。",
+        "dictionary_sequences": [
+          1278130
+        ],
+        "identity": {
+          "word": "工事",
+          "reading_hiragana": "こうじ",
+          "meaning": "施工"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6df8ae42e38932df",
+      "index": 1090,
+      "word": "混雑",
+      "reading_hiragana": "こんざつ",
+      "context_meaning_zh": "拥挤",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拥挤",
+          "meaning_ja": "人や物が多く集まり、ゆとりがない状態。",
+          "example_ja": "昼休みの食堂はとても混雑します。",
+          "example_zh": "午休时食堂非常拥挤。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "店内が混雑する",
+          "zh": "店内拥挤"
+        }
+      ],
+      "usage_note_zh": "可描述场所里人多；与「渋滞」相比，不专指道路车辆。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与公交延误和堵车并列，指交通拥堵；混雑する为自动词。",
+        "dictionary_sequences": [
+          1290390
+        ],
+        "identity": {
+          "word": "混雑",
+          "reading_hiragana": "こんざつ",
+          "meaning": "拥挤"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8d46e14458f13e59",
+      "index": 1091,
+      "word": "急に",
+      "reading_hiragana": "きゅうに",
+      "context_meaning_zh": "突然",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "突然",
+          "meaning_ja": "予想していなかったことが急に起きる様子。",
+          "example_ja": "帰る途中で、急に雨が降り始めました。",
+          "example_zh": "回家途中突然下起雨来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "急に寒くなる",
+          "zh": "突然变冷"
+        }
+      ],
+      "usage_note_zh": "常修饰动作或变化；形容词「急な」后接名词，如「急な変更」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "故障突然发生，由急に修饰事件发生方式；词典确认副词，ですん句尾不改变其语体。",
+        "dictionary_sequences": [
+          2269050
+        ],
+        "identity": {
+          "word": "急に",
+          "reading_hiragana": "きゅうに",
+          "meaning": "突然"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-650f09ba9a742e45",
+      "index": 1092,
+      "word": "先ほど",
+      "reading_hiragana": "さきほど",
+      "context_meaning_zh": "刚才",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "刚才",
+          "meaning_ja": "少し前の時を丁寧に指す言葉。",
+          "example_ja": "先ほど受付で田中さんに会いました。",
+          "example_zh": "刚才我在接待处见到了田中。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先ほどお伝えした",
+          "zh": "刚才告知的"
+        }
+      ],
+      "usage_note_zh": "比「さっき」礼貌；用于不久之前，不适合指很久以前。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "先ほど表示不久前，修饰发送日程变更邮件的动作；辞典同时列名词和副词，句中为时间副词。",
+        "dictionary_sequences": [
+          1388170
+        ],
+        "identity": {
+          "word": "先ほど",
+          "reading_hiragana": "さきほど",
+          "meaning": "刚才"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b59e07b27bda84e7",
+      "index": 1093,
+      "word": "しばらく",
+      "reading_hiragana": "しばらく",
+      "context_meaning_zh": "一会儿",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一会儿",
+          "meaning_ja": "短い間、またはある程度の間を表す。",
+          "example_ja": "ここでしばらく休みましょう。",
+          "example_zh": "我们在这里休息一会儿吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "しばらく待つ",
+          "zh": "稍等一会儿"
+        }
+      ],
+      "usage_note_zh": "时间长短依语境；可指片刻，也可指一段时间。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「しばらく待つ」表示持续一段短时间；词典问候语义不适用于本课请求等待。",
+        "dictionary_sequences": [
+          1304420
+        ],
+        "identity": {
+          "word": "しばらく",
+          "reading_hiragana": "しばらく",
+          "meaning": "一会儿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eadb55ece7a8e5b3",
+      "index": 1094,
+      "word": "無理",
+      "reading_hiragana": "むり",
+      "context_meaning_zh": "勉强、难以实现",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "勉强、难以实现",
+          "meaning_ja": "能力や条件を超えていて、実現が難しいこと。",
+          "example_ja": "この値段では、今は買うのが無理です。",
+          "example_zh": "这个价格的话，现在很难买。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "無理をする",
+          "zh": "勉强自己"
+        }
+      ],
+      "usage_note_zh": "可作「無理だ」或「無理をする」；拒绝请求时也常说「それは無理です」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "日期安排不方便或难以实现，符合无理的名词及ナ形容词义；词典也支持表示勉强自己的自サ动词用法。",
+        "dictionary_sequences": [
+          1530970
+        ],
+        "identity": {
+          "word": "無理",
+          "reading_hiragana": "むり",
+          "meaning": "勉强、难以实现"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5c9f1b464b7d4b39",
+      "index": 1095,
+      "word": "承知",
+      "reading_hiragana": "しょうち",
+      "context_meaning_zh": "知悉、同意",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "知悉、同意",
+          "meaning_ja": "相手の話を理解し、その内容を受け入れることを丁寧に伝える語。",
+          "example_ja": "変更の件、承知しました。",
+          "example_zh": "关于变更一事，我知道了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "承知しました",
+          "zh": "明白了／同意了"
+        }
+      ],
+      "usage_note_zh": "对上级或客户常用的郑重表达；回答「承知しました」表示已理解并接受安排。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "承知是知悉/同意的名词及サ变动词；例句「承知しました」的礼貌来自ました活用，不属于词头polite属性。",
+        "dictionary_sequences": [
+          1349480
+        ],
+        "identity": {
+          "word": "承知",
+          "reading_hiragana": "しょうち",
+          "meaning": "知悉、同意"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aa8376da9aef8195",
+      "index": 1096,
+      "word": "了承",
+      "reading_hiragana": "りょうしょう",
+      "context_meaning_zh": "理解并同意",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "理解并同意",
+          "meaning_ja": "相手の事情や提案を理解して、受け入れること。",
+          "example_ja": "新しい条件を了承しました。",
+          "example_zh": "我理解并同意了新的条件。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "了承を得る",
+          "zh": "取得同意"
+        }
+      ],
+      "usage_note_zh": "常用于接受方案或条件；「承知」偏向表示已领会指示，「了承」强调同意内容。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词条是表示理解并同意的名词及他动サ变；「しました」是句中礼貌活用，不标成词项敬语。",
+        "dictionary_sequences": [
+          1606280
+        ],
+        "identity": {
+          "word": "了承",
+          "reading_hiragana": "りょうしょう",
+          "meaning": "理解并同意"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-201bc2a479770057",
+      "index": 1097,
+      "word": "欠席",
+      "reading_hiragana": "けっせき",
+      "context_meaning_zh": "缺席",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "缺席",
+          "meaning_ja": "出席する必要のある会や授業に出ないこと。",
+          "example_ja": "連絡をせずに授業を欠席してはいけません。",
+          "example_zh": "不能不打招呼就缺席课程。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "授業を欠席する",
+          "zh": "缺席课程"
+        }
+      ],
+      "usage_note_zh": "常说「授業／会議を欠席する」；说明缺席理由可用「欠席の理由」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「欠席の事情」中作缺席名词；欠席する表示未参加活动，属于不及物用法。",
+        "dictionary_sequences": [
+          1254020
+        ],
+        "identity": {
+          "word": "欠席",
+          "reading_hiragana": "けっせき",
+          "meaning": "缺席"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1f071c39e126a00a",
+      "index": 1098,
+      "word": "休暇",
+      "reading_hiragana": "きゅうか",
+      "context_meaning_zh": "休假",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "休假",
+          "meaning_ja": "仕事や学校を休む期間。",
+          "example_ja": "来月は三日間の休暇を取ります。",
+          "example_zh": "下个月我要休假三天。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "休暇を取る",
+          "zh": "休假"
+        }
+      ],
+      "usage_note_zh": "「休暇を取る」表示请休假；通常指一段休息时间，不特指缺席手续。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "友人以休假身份来访，指离开工作或学校的假期；普通名词。",
+        "dictionary_sequences": [
+          1227610
+        ],
+        "identity": {
+          "word": "休暇",
+          "reading_hiragana": "きゅうか",
+          "meaning": "休假"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1866044c351bacb1",
+      "index": 1099,
+      "word": "出張",
+      "reading_hiragana": "しゅっちょう",
+      "context_meaning_zh": "出差",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "出差",
+          "meaning_ja": "仕事のために、いつもの勤務先を離れて別の場所へ行くこと。",
+          "example_ja": "父は大阪へ二日間出張します。",
+          "example_zh": "父亲要去大阪出差两天。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "出張に行く",
+          "zh": "去出差"
+        }
+      ],
+      "usage_note_zh": "常说「出張する」「出張に行く」；目的地用「へ／に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "公务出差促使双方改约见面，出張する为词典所列名词兼サ变自动词。",
+        "dictionary_sequences": [
+          1339660
+        ],
+        "identity": {
+          "word": "出張",
+          "reading_hiragana": "しゅっちょう",
+          "meaning": "出差"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-566226454f68fb4f",
+      "index": 1100,
+      "word": "所",
+      "reading_hiragana": "ところ",
+      "context_meaning_zh": "地方",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "地方",
+          "meaning_ja": "人や物がある場所。",
+          "example_ja": "駅の近くに静かな所があります。",
+          "example_zh": "车站附近有个安静的地方。"
+        },
+        {
+          "meaning_zh": "（抽象的）方面；情形",
+          "meaning_ja": "物事の状態や、話題にしている点。",
+          "example_ja": "分からない所は、先生に質問してください。",
+          "example_zh": "不懂的地方请向老师提问。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "住んでいる所",
+          "zh": "居住的地方"
+        }
+      ],
+      "usage_note_zh": "「所」可指具体地点；读作「ところ」时还可作形式名词表示方面或情形，本条按给定读音和本课地点义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "住在远处的地方，取具体地点名词义；词典还列有地址、区域及其他用法。",
+        "dictionary_sequences": [
+          1343100
+        ],
+        "identity": {
+          "word": "所",
+          "reading_hiragana": "ところ",
+          "meaning": "地方"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f66a1b5829efaa97",
+      "index": 1101,
+      "word": "残業",
+      "reading_hiragana": "ざんぎょう",
+      "context_meaning_zh": "加班",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "加班",
+          "meaning_ja": "決められた勤務時間を過ぎても仕事をすること。",
+          "example_ja": "今日は残業があるので、夕食は遅くなります。",
+          "example_zh": "我今天要加班，所以晚饭会晚些。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "残業をする",
+          "zh": "加班"
+        }
+      ],
+      "usage_note_zh": "常说「残業する／残業がある」；表示超出正常工作时间继续工作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「残業」指超出规定工时继续工作，可作名词并接「する」；课文谈当天没有加班，工作场景常用。",
+        "dictionary_sequences": [
+          1304560
+        ],
+        "identity": {
+          "word": "残業",
+          "reading_hiragana": "ざんぎょう",
+          "meaning": "加班"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e87a17ea70e7f561",
+      "index": 1102,
+      "word": "暫く",
+      "reading_hiragana": "しばらく",
+      "context_meaning_zh": "许久;暂时、不久",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "许久;暂时、不久",
+          "meaning_ja": "短い間、またはある程度の期間。文脈によって、少しの間にも長い期間にもなる。",
+          "example_ja": "暫くこの町に住む予定です。",
+          "example_zh": "我打算暂时住在这个镇上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "暫くお待ちください",
+          "zh": "请稍候"
+        }
+      ],
+      "usage_note_zh": "「暫く」是「しばらく」的汉字写法；可指短暂等待，也可指一段时间。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "しばらく在三例分别表示短暂等待、长时间未见和暂时等待；按副词处理，不取词典问候感叹义。",
+        "dictionary_sequences": [
+          1304420
+        ],
+        "identity": {
+          "word": "暫く",
+          "reading_hiragana": "しばらく",
+          "meaning": "许久;暂时、不久"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c33f6ebb0215311b",
+      "index": 1103,
+      "word": "そろそろ",
+      "reading_hiragana": "そろそろ",
+      "context_meaning_zh": "就要、该……了；慢慢地",
+      "pos_ja": "副詞・オノマトペ",
+      "pos_zh": "副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "就要、该……了；慢慢地",
+          "meaning_ja": "ある時刻や変化が近づいている様子。",
+          "example_ja": "もう遅いので、そろそろ帰りましょう。",
+          "example_zh": "已经很晚了，我们差不多该回去了。"
+        },
+        {
+          "meaning_zh": "逐渐；渐渐",
+          "meaning_ja": "変化が少しずつ進んでいく様子。",
+          "example_ja": "新しい仕事にそろそろ慣れてきました。",
+          "example_zh": "我渐渐适应了新工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "そろそろ始める",
+          "zh": "差不多要开始"
+        }
+      ],
+      "usage_note_zh": "也可表示动作渐渐进行，如「そろそろ分かってきた」；本课取临近时点义。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课兼有临近时点和缓慢谨慎义，例句前者为该去工作、后者为窄路慢走；词典均列副词。",
+        "dictionary_sequences": [
+          1345605
+        ],
+        "identity": {
+          "word": "そろそろ",
+          "reading_hiragana": "そろそろ",
+          "meaning": "就要、该……了；慢慢地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9832c9e9453719ba",
+      "index": 1104,
+      "word": "延ばす",
+      "reading_hiragana": "のばす",
+      "context_meaning_zh": "延长、推迟；伸展",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "延长、推迟；伸展",
+          "meaning_ja": "時間や期限を、予定より後まで続ける。",
+          "example_ja": "話し合いの時間を三十分延ばしました。",
+          "example_zh": "把讨论时间延长了三十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "期限を延ばす",
+          "zh": "延长期限"
+        }
+      ],
+      "usage_note_zh": "「時間／期限を延ばす」表示延后或延长；身体伸展通常写作「伸ばす」，与本词条的「延ばす」区分。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句以准备时间、工程日程和道路为宾语，表示延长、推迟或延伸；身体伸展一般写伸ばす。",
+        "dictionary_sequences": [
+          1600290
+        ],
+        "identity": {
+          "word": "延ばす",
+          "reading_hiragana": "のばす",
+          "meaning": "延长、推迟；伸展"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-450d4ba09ddb8337",
+      "index": 1105,
+      "word": "日時",
+      "reading_hiragana": "にちじ",
+      "context_meaning_zh": "日期和时间",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日期和时间",
+          "meaning_ja": "ある予定を行う日と時刻。",
+          "example_ja": "面接の日時をメールで確認しました。",
+          "example_zh": "我通过邮件确认了面试日期和时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日時を指定する",
+          "zh": "指定日期和时间"
+        }
+      ],
+      "usage_note_zh": "常用于通知或安排；比只说「日付」多包含具体时刻。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "会议安排的日期与时刻合成日時名词，例句的18日10至12时具体展示此义。",
+        "dictionary_sequences": [
+          1464110
+        ],
+        "identity": {
+          "word": "日時",
+          "reading_hiragana": "にちじ",
+          "meaning": "日期和时间"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-77e3c4777e2b7024",
+      "index": 1106,
+      "word": "それとも",
+      "reading_hiragana": "それとも",
+      "context_meaning_zh": "(表示两者选一)或是、还是",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(表示两者选一)或是、还是",
+          "meaning_ja": "疑問文で、二つの選択肢のどちらかを尋ねる。",
+          "example_ja": "昼にしますか。それとも夜にしますか。",
+          "example_zh": "定在中午吗？还是晚上？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "Aですか、それともBですか",
+          "zh": "是A还是B"
+        }
+      ],
+      "usage_note_zh": "用于疑问句中连接备选项；通常不用于普通陈述句表示“或者”。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "疑问句中连接下午三点和傍晚两个备选时间，符合or选择义。",
+        "dictionary_sequences": [
+          1007010
+        ],
+        "identity": {
+          "word": "それとも",
+          "reading_hiragana": "それとも",
+          "meaning": "(表示两者选一)或是、还是"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a67238c196ddd406",
+      "index": 1107,
+      "word": "当日",
+      "reading_hiragana": "とうじつ",
+      "context_meaning_zh": "当天",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "当天",
+          "meaning_ja": "話題になっている予定や出来事がある、その日。",
+          "example_ja": "当日は受付で学生証を見せてください。",
+          "example_zh": "当天请在接待处出示学生证。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "当日の朝",
+          "zh": "当天早上"
+        }
+      ],
+      "usage_note_zh": "指前文提到的活动所在日期；不等同于「今日」，所指日期由上下文决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指某事件当天，词典兼副词用法；车站施工发生的那天是名词指称。",
+        "dictionary_sequences": [
+          1449210
+        ],
+        "identity": {
+          "word": "当日",
+          "reading_hiragana": "とうじつ",
+          "meaning": "当天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-16929c6cf0e016eb",
+      "index": 1108,
+      "word": "年末",
+      "reading_hiragana": "ねんまつ",
+      "context_meaning_zh": "年末、年底",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "年末、年底",
+          "meaning_ja": "一年の終わりごろ。",
+          "example_ja": "年末は店が休みになることがあります。",
+          "example_zh": "年底店铺有时会休息。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "年末年始",
+          "zh": "年末年初"
+        }
+      ],
+      "usage_note_zh": "大致指一年的最后一段时间；「年末年始」合指年底到新年期间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "年底出差与七月中旬见面形成时间对照；长时间用作年末的名词修饰语。",
+        "dictionary_sequences": [
+          1469210
+        ],
+        "identity": {
+          "word": "年末",
+          "reading_hiragana": "ねんまつ",
+          "meaning": "年末、年底"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cfd1bc44d5fb2001",
+      "index": 1109,
+      "word": "半年",
+      "reading_hiragana": "はんとし",
+      "context_meaning_zh": "半年",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "半年",
+          "meaning_ja": "一年を二つに分けたときの一つ分の期間。",
+          "example_ja": "日本に来てから、半年が過ぎました。",
+          "example_zh": "来日本以后，已经过了半年。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "半年間",
+          "zh": "半年时间"
+        }
+      ],
+      "usage_note_zh": "「半年」即六个月；「半年会っていない」表示有半年没见。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "半年会っていません表示六个月这一时段；词典兼列名词和副词使用，本条作为时长名词。",
+        "dictionary_sequences": [
+          1583190
+        ],
+        "identity": {
+          "word": "半年",
+          "reading_hiragana": "はんとし",
+          "meaning": "半年"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a86440917769b9a4",
+      "index": 1110,
+      "word": "欠席届",
+      "reading_hiragana": "けっせきとどけ",
+      "context_meaning_zh": "缺席通知单、请假单",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "缺席通知单、请假单",
+          "meaning_ja": "欠席することを学校などに知らせるための書類。",
+          "example_ja": "欠席届に理由を書いて、先生に出しました。",
+          "example_zh": "我在请假单上写了理由，交给老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "欠席届を出す",
+          "zh": "提交缺席通知"
+        }
+      ],
+      "usage_note_zh": "通常指学校等要求提交的缺席申报表；本课形式读作「けっせきとどけ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "向学校等申报缺席的书面表格，本句说无需提交；其实际事务功能明确但不特属教学表达。",
+        "dictionary_sequences": [
+          1254030
+        ],
+        "identity": {
+          "word": "欠席届",
+          "reading_hiragana": "けっせきとどけ",
+          "meaning": "缺席通知单、请假单"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cf29c931d7cbf172",
+      "index": 1111,
+      "word": "急",
+      "reading_hiragana": "きゅう",
+      "context_meaning_zh": "突然;急剧",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "突然;急剧",
+          "meaning_ja": "変化や進み方が速く、すぐに対応が必要な様子。",
+          "example_ja": "急な予定変更で、皆に連絡しました。",
+          "example_zh": "因为日程突然变更，我联系了大家。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "急な用事",
+          "zh": "急事"
+        }
+      ],
+      "usage_note_zh": "作名词修饰语时用「急な」；「急に」作副词修饰动作，均读「きゅう」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "急な変更、急な変化表示突然发生，身份释义还含急剧；词典亦列紧急、陡峭等な形容词义及名词义。",
+        "dictionary_sequences": [
+          1228560
+        ],
+        "identity": {
+          "word": "急",
+          "reading_hiragana": "きゅう",
+          "meaning": "突然;急剧"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-476ffb183d652b79",
+      "index": 1112,
+      "word": "休校",
+      "reading_hiragana": "きゅうこう",
+      "context_meaning_zh": "(学校)停课",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(学校)停课",
+          "meaning_ja": "学校が授業を行わず、休みになること。",
+          "example_ja": "台風が近づいたため、明日は休校です。",
+          "example_zh": "因为台风临近，明天学校停课。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "休校になる",
+          "zh": "停课"
+        }
+      ],
+      "usage_note_zh": "主要指学校因天气或其他原因暂停授课；不是个人请假。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "临时停课可名词化或接する；大雪导致学校处于休校状态，属不及物变化。",
+        "dictionary_sequences": [
+          1227760
+        ],
+        "identity": {
+          "word": "休校",
+          "reading_hiragana": "きゅうこう",
+          "meaning": "(学校)停课"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-234d511d822d0e42",
+      "index": 1113,
+      "word": "...目",
+      "reading_hiragana": "め",
+      "context_meaning_zh": "序数后缀〜目",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "序数后缀〜目",
+          "meaning_ja": "数を表す語の後ろにつき、順番や回数を表す。",
+          "example_ja": "この店に来るのは三回目です。",
+          "example_zh": "这是我第三次来这家店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二日目",
+          "zh": "第二天"
+        }
+      ],
+      "usage_note_zh": "接在数量词后表示第几次、个或天等；与次数单位搭配时注意读音变化。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "数量词后缀目表示顺序或次数，如2回目；不独立承担名词或动词功能。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "...目",
+          "reading_hiragana": "め",
+          "meaning": "序数后缀〜目"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-198527494266217e",
+      "index": 1114,
+      "word": "用",
+      "reading_hiragana": "よう",
+      "context_meaning_zh": "事情、用事；用途（分义）",
+      "pos_ja": "名詞・接尾辞",
+      "pos_zh": "名词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "事情、用事；用途（分义）",
+          "meaning_ja": "しなければならない事柄、または物を使う目的。",
+          "example_ja": "午前中に用があるので、午後に行きます。",
+          "example_zh": "我上午有事，下午再去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "急な用",
+          "zh": "急事"
+        }
+      ],
+      "usage_note_zh": "「用がある」指有事要办；「試験用」等复合词中「用」读「よう」，表示用途，本课例句取前者。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示另有事务，也表示供儿童使用；词典另列用途后缀，例句覆盖事项和用途两类。",
+        "dictionary_sequences": [
+          1546200
+        ],
+        "identity": {
+          "word": "用",
+          "reading_hiragana": "よう",
+          "meaning": "事情、用事；用途（分义）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-46d744a7908036ec",
+      "index": 1115,
+      "word": "込み合う",
+      "reading_hiragana": "こみあう",
+      "context_meaning_zh": "人多拥挤",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "人多拥挤",
+          "meaning_ja": "人や物が一か所に多く集まる。",
+          "example_ja": "連休は空港が込み合います。",
+          "example_zh": "连休时机场会很拥挤。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "込み合う時間",
+          "zh": "拥挤时段"
+        }
+      ],
+      "usage_note_zh": "自动词，拥挤的地点用「が」；与「混雑する」意思接近，口语中也常用「混む」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "入口本身拥挤，词典列五段自动词，主语为人群聚集的场所而非拥挤动作的受事。",
+        "dictionary_sequences": [
+          1288770
+        ],
+        "identity": {
+          "word": "込み合う",
+          "reading_hiragana": "こみあう",
+          "meaning": "人多拥挤"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2a9e3b240e2e856e",
+      "index": 1116,
+      "word": "都合がいい",
+      "reading_hiragana": "つごうがいい",
+      "context_meaning_zh": "适合、方便",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "适合、方便",
+          "meaning_ja": "予定や条件が自分にとってよく、問題なくできる。",
+          "example_ja": "土曜日の午後は都合がいいです。",
+          "example_zh": "星期六下午我方便。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "都合がいい日",
+          "zh": "方便的日子"
+        }
+      ],
+      "usage_note_zh": "时间作主语时用「は／が都合がいい」；此处「いい」说明安排合适，不表示天气好。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「都合がいい」整体表示日期安排方便，词典以表达整体收录；ですか的礼貌不转标到词项。",
+        "dictionary_sequences": [
+          2264750
+        ],
+        "identity": {
+          "word": "都合がいい",
+          "reading_hiragana": "つごうがいい",
+          "meaning": "适合、方便"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ff859f053b11a2bd",
+      "index": 1117,
+      "word": "数日",
+      "reading_hiragana": "すうじつ",
+      "context_meaning_zh": "数日",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数日",
+          "meaning_ja": "二日以上で、はっきり数を決めない短い期間。",
+          "example_ja": "修理には数日かかるそうです。",
+          "example_zh": "听说维修要花几天。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "数日後",
+          "zh": "几天后"
+        }
+      ],
+      "usage_note_zh": "表示不确定的几天；读「すうじつ」，不是固定三天。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "数日表示若干天，修理需要数日的问句符合辞典few days义；是数量时间名词。",
+        "dictionary_sequences": [
+          1373200
+        ],
+        "identity": {
+          "word": "数日",
+          "reading_hiragana": "すうじつ",
+          "meaning": "数日"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-29a3d9ff615963b7",
+      "index": 1118,
+      "word": "再来週",
+      "reading_hiragana": "さらいしゅう",
+      "context_meaning_zh": "下下星期",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "下下星期",
+          "meaning_ja": "今週から数えて二週間後の週。",
+          "example_ja": "再来週、京都へ旅行に行きます。",
+          "example_zh": "下下周我去京都旅行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "再来週の月曜日",
+          "zh": "下下周一"
+        }
+      ],
+      "usage_note_zh": "以当前周为基准往后数两周；与「来週」（下周）相隔一周。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「再来週」指从现在起的第二周，可修饰具体日期并作约见时间。",
+        "dictionary_sequences": [
+          1293650
+        ],
+        "identity": {
+          "word": "再来週",
+          "reading_hiragana": "さらいしゅう",
+          "meaning": "下下星期"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cbb6808765110884",
+      "index": 1119,
+      "word": "遅刻",
+      "reading_hiragana": "ちこく",
+      "context_meaning_zh": "迟到",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "迟到",
+          "meaning_ja": "決められた時刻までに、行くべき場所に着かないこと。",
+          "example_ja": "寝坊して、会議に遅刻しました。",
+          "example_zh": "我睡过头了，开会迟到了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "授業に遅刻する",
+          "zh": "上课迟到"
+        }
+      ],
+      "usage_note_zh": "「授業に遅刻する」用「に」标记迟到的场合；不同于交通工具「遅れる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "迟到这一事件可作名词，也可「遅刻する」；场合用に标记，词典标自サ。",
+        "dictionary_sequences": [
+          1422050
+        ],
+        "identity": {
+          "word": "遅刻",
+          "reading_hiragana": "ちこく",
+          "meaning": "迟到"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dfee06e042e6ea8a",
+      "index": 1120,
+      "word": "明日",
+      "reading_hiragana": "あす",
+      "context_meaning_zh": "明天",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "明天",
+          "meaning_ja": "今日の次の日。",
+          "example_ja": "明日、資料を持ってきます。",
+          "example_zh": "我明天把资料带来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "明日の朝",
+          "zh": "明天早上"
+        }
+      ],
+      "usage_note_zh": "本词条指定读作「あす」；「あした」也常用于明天，但不在此混作同一读音义项。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「明日（あす）」用于课程日期改期通知，取后一天义；辞书还列近未来，当前明确日期排除该扩展义。",
+        "dictionary_sequences": [
+          1584660
+        ],
+        "identity": {
+          "word": "明日",
+          "reading_hiragana": "あす",
+          "meaning": "明天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-669762a46da1565c",
+      "index": 1121,
+      "word": "気がかり",
+      "reading_hiragana": "きがかり",
+      "context_meaning_zh": "挂念、担心",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "挂念、担心",
+          "meaning_ja": "気になることがあり、心から離れない様子。",
+          "example_ja": "試験の結果が気がかりです。",
+          "example_zh": "我很挂念考试结果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "気がかりなこと",
+          "zh": "令人挂心的事"
+        }
+      ],
+      "usage_note_zh": "常用「～が気がかりだ」或「気がかりな＋名词」；表示持续挂心。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "担心的内容作主语而述以気がかりです，辞书兼名词和ナ形容词，形式也可修饰名词。",
+        "dictionary_sequences": [
+          1222020
+        ],
+        "identity": {
+          "word": "気がかり",
+          "reading_hiragana": "きがかり",
+          "meaning": "挂念、担心"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a6c3d5a7f19eb448",
+      "index": 1122,
+      "word": "代わり",
+      "reading_hiragana": "かわり",
+      "context_meaning_zh": "代替; 代理；替代",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "代替; 代理；替代",
+          "meaning_ja": "本来の人の代わりを務めること。",
+          "example_ja": "担当者の代わりに、私が説明します。",
+          "example_zh": "我代替负责人来说明。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先生の代わりに説明する",
+          "zh": "代替老师说明"
+        }
+      ],
+      "usage_note_zh": "本课义与同课另一条「代わり」重叠，均指替代；不是独立新义。常用「人の代わりに」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "代わり指代替者或代替关系；例句中的お願いします、敬语接待和电话服务礼貌来自完整句式，并非词项本身。",
+        "dictionary_sequences": [
+          1590770
+        ],
+        "identity": {
+          "word": "代わり",
+          "reading_hiragana": "かわり",
+          "meaning": "代替; 代理；替代"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ac528eedf407a5e2",
+      "index": 1123,
+      "word": "今回",
+      "reading_hiragana": "こんかい",
+      "context_meaning_zh": "这次",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "这次",
+          "meaning_ja": "今行っている、または話題にしている一回。",
+          "example_ja": "今回の旅行は家族と行きます。",
+          "example_zh": "这次旅行我和家人一起去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "今回の予定",
+          "zh": "这次的安排"
+        }
+      ],
+      "usage_note_zh": "指当前这一回；「今度」有时也指下次，使用时需看时间方向。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1289070列名词与副词；「今回が初めて」将其作当前这一回的时间名词。",
+        "dictionary_sequences": [
+          1289070
+        ],
+        "identity": {
+          "word": "今回",
+          "reading_hiragana": "こんかい",
+          "meaning": "这次"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8819fddab9d05834",
+      "index": 1124,
+      "word": "悩む",
+      "reading_hiragana": "なやむ",
+      "context_meaning_zh": "苦恼",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "苦恼",
+          "meaning_ja": "解決しにくい問題について、あれこれ考える。",
+          "example_ja": "進学するかどうかで悩んでいます。",
+          "example_zh": "我正和家人苦恼要不要升学。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "進路に悩む",
+          "zh": "为前途苦恼"
+        }
+      ],
+      "usage_note_zh": "烦恼对象常用「に／で」；不及物动词，强调反复思考而难以决定。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "对日程变更而苦恼，句中以に标记困扰主题；辞书五段自动态。",
+        "dictionary_sequences": [
+          1469870
+        ],
+        "identity": {
+          "word": "悩む",
+          "reading_hiragana": "なやむ",
+          "meaning": "苦恼"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fd7808dbf6dad4de",
+      "index": 1125,
+      "word": "驚かす",
+      "reading_hiragana": "おどろかす",
+      "context_meaning_zh": "使吃惊、惊动",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "使吃惊、惊动",
+          "meaning_ja": "人を驚かせることをして、強い反応を起こさせる。",
+          "example_ja": "大きな音が、隣の部屋の人を驚かしました。",
+          "example_zh": "巨大的声音吓到了隔壁房间的人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人を驚かす",
+          "zh": "使人吃惊"
+        }
+      ],
+      "usage_note_zh": "他动词，受影响的人用「を」；「驚く」表示自己感到吃惊。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段サ行他动词，以を标受惊者；本例急电话使朋友吃惊，符合词典surprise义。",
+        "dictionary_sequences": [
+          1238650
+        ],
+        "identity": {
+          "word": "驚かす",
+          "reading_hiragana": "おどろかす",
+          "meaning": "使吃惊、惊动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3f946d5cc30e5719",
+      "index": 1126,
+      "word": "数秒",
+      "reading_hiragana": "すうびょう",
+      "context_meaning_zh": "数秒",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数秒",
+          "meaning_ja": "二秒以上で、正確な数を決めない短い時間。",
+          "example_ja": "数秒待つと、画面に答えが出ます。",
+          "example_zh": "等几秒，画面上就会出现答案。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "数秒後",
+          "zh": "几秒后"
+        }
+      ],
+      "usage_note_zh": "读「すうびょう」，表示不确定的几秒，不是精确时长。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "数秒表示几秒的短时间，句中无助词作沉默持续时间。",
+        "dictionary_sequences": [
+          1373270
+        ],
+        "identity": {
+          "word": "数秒",
+          "reading_hiragana": "すうびょう",
+          "meaning": "数秒"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-40b00807b0a3ae6b",
+      "index": 1127,
+      "word": "慌てる",
+      "reading_hiragana": "あわてる",
+      "context_meaning_zh": "惊慌",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "惊慌",
+          "meaning_ja": "突然の出来事に驚いて、落ち着いて行動できなくなる。",
+          "example_ja": "道に迷っても、慌てないでください。",
+          "example_zh": "即使迷路，也请不要慌张。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "慌てて答える",
+          "zh": "慌忙回答"
+        }
+      ],
+      "usage_note_zh": "常说「慌てる」「慌てて～する」；表示自己慌乱，「驚かす」则是使别人吃惊。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "慌てて修饰读取通知的动作，主体因意外而惊慌或匆忙；词典将该义列为一段自动词。",
+        "dictionary_sequences": [
+          1278830
+        ],
+        "identity": {
+          "word": "慌てる",
+          "reading_hiragana": "あわてる",
+          "meaning": "惊慌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7d1d4d9b18fa56c7",
+      "index": 1128,
+      "word": "どうした",
+      "reading_hiragana": "どうした",
+      "context_meaning_zh": "怎么",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "怎么",
+          "meaning_ja": "相手の様子を見て、何が起きたか尋ねる言葉。",
+          "example_ja": "顔色が悪いですね。どうしたんですか。",
+          "example_zh": "你脸色不好，怎么了？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どうしたの",
+          "zh": "怎么了"
+        }
+      ],
+      "usage_note_zh": "口语「どうした」是「どうしたの」的简略问法；由语气可询问状况或原因。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「どうしたの」是询问对方出了什么状况的口语套语；例句明确将它作为整句问语，而非连体词。",
+        "dictionary_sequences": [
+          2272480
+        ],
+        "identity": {
+          "word": "どうした",
+          "reading_hiragana": "どうした",
+          "meaning": "怎么"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f25b2165a8edc6a4",
+      "index": 1129,
+      "word": "ご免",
+      "reading_hiragana": "ごめん",
+      "context_meaning_zh": "对不起、请原谅;(拒绝)不干",
+      "pos_ja": "名詞・表現・感動詞・定型表現",
+      "pos_zh": "名词・表达・感叹词・固定表达",
+      "register_zh": "非正式・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "对不起、请原谅;(拒绝)不干",
+          "meaning_ja": "親しい相手に謝るとき、または誘いを断るときに使う言葉。",
+          "example_ja": "ごめん、今日は予定があるから行けない。",
+          "example_zh": "对不起，我今天有安排，去不了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ごめんね",
+          "zh": "对不起啊"
+        }
+      ],
+      "usage_note_zh": "「ごめん」较随意，只对亲近的人使用；本课读「ごめん」，书写「ご免」较少见。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "noun",
+          "expression",
+          "interjection"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课程例句分别为亲近者道歉与「ごめんです」强烈拒绝；不把词典旧敬语名词义套入。",
+        "dictionary_sequences": [
+          1270670
+        ],
+        "identity": {
+          "word": "ご免",
+          "reading_hiragana": "ごめん",
+          "meaning": "对不起、请原谅;(拒绝)不干"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-153d1b8e69fd524d",
+      "index": 1130,
+      "word": "かち合う·打ち合う",
+      "reading_hiragana": "かちあう",
+      "context_meaning_zh": "相撞、碰在一起",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相撞、碰在一起",
+          "meaning_ja": "二つの予定や物事が同じ時に重なって、都合が悪くなる。",
+          "example_ja": "出張の日が試験とかち合いました。",
+          "example_zh": "出差日期和考试撞在了一起。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予定がかち合う",
+          "zh": "安排撞期"
+        }
+      ],
+      "usage_note_zh": "本课读「かちあう」，用于安排时间重合；不采用「打ち合う」等其他读法或义项。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句「予定が何かとかち合う」表示日程冲突；动词为五段活用且不及物，宾语并非该词直接支配。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "かち合う·打ち合う",
+          "reading_hiragana": "かちあう",
+          "meaning": "相撞、碰在一起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3bc747d59d22df41",
+      "index": 1131,
+      "word": "恥ずかしい",
+      "reading_hiragana": "はずかしい",
+      "context_meaning_zh": "害羞、惭愧",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "害羞、惭愧",
+          "meaning_ja": "人に見られたり失敗したりして、気まずく感じる。",
+          "example_ja": "みんなの前で名前を間違えて、恥ずかしかったです。",
+          "example_zh": "我在大家面前叫错了名字，觉得很难为情。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "恥ずかしい思い",
+          "zh": "难为情的经历"
+        }
+      ],
+      "usage_note_zh": "可指害羞，也可指因失误或失态感到难堪；不等于「恥じる」的深刻羞愧。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "因睡过头引起的难为情属于恥ずかしい的尴尬义，辞典adj-i分类吻合；礼貌句尾不表示词项敬语。",
+        "dictionary_sequences": [
+          1421630
+        ],
+        "identity": {
+          "word": "恥ずかしい",
+          "reading_hiragana": "はずかしい",
+          "meaning": "害羞、惭愧"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7fe756f2292f530a",
+      "index": 1132,
+      "word": "どうかなる",
+      "reading_hiragana": "どうかなる",
+      "context_meaning_zh": "变得不正常或发生某种变化；原释“总会有办法”应另用どうにかなる",
+      "pos_ja": "動詞・表現",
+      "pos_zh": "动词・表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "变得不正常或发生某种变化；原释“总会有办法”应另用どうにかなる",
+          "meaning_ja": "物事に何か変化が起き、いつもと違う状態になる。",
+          "example_ja": "機械がどうかなると、音が出なくなることがあります。",
+          "example_zh": "机器发生故障时，有时会发不出声音。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "機械がどうかなる",
+          "zh": "机器出故障"
+        }
+      ],
+      "usage_note_zh": "原文释义已注明需与「どうにかなる」（总会有办法）区分；本词按「どうかなる」解释为发生变化／出问题。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「電話がどうかなった」由副词どうか与五段动词なる组成，询问电话发生何种变化；非一段动词固定搭配，精确语义仍需上下文核实。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "どうかなる",
+          "reading_hiragana": "どうかなる",
+          "meaning": "变得不正常或发生某种变化；原释“总会有办法”应另用どうにかなる"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-554313f6cadd546a",
+      "index": 1133,
+      "word": "だって",
+      "reading_hiragana": "だって",
+      "context_meaning_zh": "(用于辩解)可是、但是",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "非正式・口语",
+      "senses": [
+        {
+          "meaning_zh": "(用于辩解)可是、但是",
+          "meaning_ja": "理由を述べたり、反論したりするときに使う言葉。",
+          "example_ja": "だって、まだ宿題が終わっていないんです。",
+          "example_zh": "可是，我作业还没做完呢。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "だって忙しいんだ",
+          "zh": "可是我很忙嘛"
+        }
+      ],
+      "usage_note_zh": "句首常用于解释或辩解，语气较随意；句尾「だって」另有“甚至”义，本条不混入。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "对话中句首「だって」引出工作繁忙作为辩解，词典标为口语连接词；不取句尾或助词的其他义。",
+        "dictionary_sequences": [
+          2643970
+        ],
+        "identity": {
+          "word": "だって",
+          "reading_hiragana": "だって",
+          "meaning": "(用于辩解)可是、但是"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-13b06d197edba436",
+      "index": 1134,
+      "word": "面倒",
+      "reading_hiragana": "めんどう",
+      "context_meaning_zh": "麻烦、棘手",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "麻烦、棘手",
+          "meaning_ja": "手間がかかり、簡単には扱えない様子。",
+          "example_ja": "この手続きは少し面倒です。",
+          "example_zh": "这个手续有点麻烦。"
+        },
+        {
+          "meaning_zh": "照料；照顾",
+          "meaning_ja": "人の世話をして、生活に必要なことを助ける。",
+          "example_ja": "旅行中、友人が犬の面倒を見てくれました。",
+          "example_zh": "旅行期间，朋友帮我照看了狗。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "面倒な手続き",
+          "zh": "麻烦的手续"
+        }
+      ],
+      "usage_note_zh": "可作「面倒だ／面倒な」；「面倒を見る」表示照料，如本条第二义。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「面倒なお願い」把事情说成麻烦棘手，辞典支持ナ形容词及名词用法；本句取前者。",
+        "dictionary_sequences": [
+          1533550
+        ],
+        "identity": {
+          "word": "面倒",
+          "reading_hiragana": "めんどう",
+          "meaning": "麻烦、棘手"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1a509b5da5af9e13",
+      "index": 1135,
+      "word": "数分",
+      "reading_hiragana": "すうふん",
+      "context_meaning_zh": "几分钟",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "几分钟",
+          "meaning_ja": "二分以上で、正確な数を決めない短い時間。",
+          "example_ja": "数分歩くと、図書館に着きます。",
+          "example_zh": "走几分钟就到图书馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "数分後",
+          "zh": "几分钟后"
+        }
+      ],
+      "usage_note_zh": "读「すうふん」，表示不确定的几分钟；不是精确时长。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「数分休む」表示休息几分钟，词典名词义相符；不作为计数助数词标注。",
+        "dictionary_sequences": [
+          2182750
+        ],
+        "identity": {
+          "word": "数分",
+          "reading_hiragana": "すうふん",
+          "meaning": "几分钟"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1ac899a68e9a46d4",
+      "index": 1136,
+      "word": "其れが",
+      "reading_hiragana": "それが",
+      "context_meaning_zh": "可是",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "可是",
+          "meaning_ja": "前の話から予想されることと違う内容を続ける。",
+          "example_ja": "参加するつもりでした。それが、急に仕事が入りました。",
+          "example_zh": "我本来打算参加，可是突然有工作了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "それがね",
+          "zh": "可是啊"
+        }
+      ],
+      "usage_note_zh": "句首用来引出意外或转折信息；本课写作「其れが」但常用表记为假名「それが」。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "grammar",
+          "usage"
+        ],
+        "note_zh": "石井先说「それが」再告知课程延期，以意外信息转折；该课指出此表达常写假名，本输入的汉字表记不改变词类。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "其れが",
+          "reading_hiragana": "それが",
+          "meaning": "可是"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6c919015d2fa815c",
+      "index": 1137,
+      "word": "何も",
+      "reading_hiragana": "なにも",
+      "context_meaning_zh": "(下接否定)何必...、什么也不...",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(下接否定)何必...、什么也不...",
+          "meaning_ja": "後ろに否定の言葉を置き、どの物事も当てはまらないことを表す。",
+          "example_ja": "今日は何も食べていません。",
+          "example_zh": "我今天什么也没吃。"
+        },
+        {
+          "meaning_zh": "何必……；没必要……",
+          "meaning_ja": "「何も～ない」の形で、ある行動をする必要がないと表す。",
+          "example_ja": "何もそんなに心配しなくてもいいですよ。",
+          "example_zh": "没必要那么担心。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何も言わない",
+          "zh": "什么也不说"
+        }
+      ],
+      "usage_note_zh": "「何も～ない」通常与否定呼应，表示什么也不；「何もそんなに心配しなくてもいい」中的「何も」则表示没必要。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "何も与否定搭配表示什么也不；例句中几秒钟内什么都没说，取该否定义。",
+        "dictionary_sequences": [
+          1188490
+        ],
+        "identity": {
+          "word": "何も",
+          "reading_hiragana": "なにも",
+          "meaning": "(下接否定)何必...、什么也不..."
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-af0ab47df6df737f",
+      "index": 1138,
+      "word": "出前",
+      "reading_hiragana": "でまえ",
+      "context_meaning_zh": "送外卖",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "送外卖",
+          "meaning_ja": "料理を店から客の家などへ届けること。",
+          "example_ja": "雨なので、昼ご飯は出前を頼みました。",
+          "example_zh": "因为下雨，午饭叫了外卖。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "出前を取る",
+          "zh": "叫外卖"
+        }
+      ],
+      "usage_note_zh": "「出前を頼む／取る」表示点外送；本词也可指送餐服务本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "点外卖以菜品外送服务为对象，词典列名词及サ变他动词；句中具体用名词请求。",
+        "dictionary_sequences": [
+          1339530
+        ],
+        "identity": {
+          "word": "出前",
+          "reading_hiragana": "でまえ",
+          "meaning": "送外卖"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b5a9164aab414e8b",
+      "index": 1139,
+      "word": "寝坊",
+      "reading_hiragana": "ねぼう",
+      "context_meaning_zh": "睡懒觉",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "非正式・口语・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "睡懒觉",
+          "meaning_ja": "朝、起きる予定の時刻より遅くまで寝ること。",
+          "example_ja": "寝坊して、朝ご飯を食べる時間がありませんでした。",
+          "example_zh": "我睡过头了，没有时间吃早饭。"
+        },
+        {
+          "meaning_zh": "爱睡懒觉的人",
+          "meaning_ja": "朝なかなか起きない人を、親しみを込めて言う語。",
+          "example_ja": "弟は寝坊で、休日は昼まで寝ています。",
+          "example_zh": "弟弟很爱睡懒觉，休息日一直睡到中午。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "寝坊をする",
+          "zh": "睡过头"
+        }
+      ],
+      "usage_note_zh": "「寝坊する」表示睡过头；「寝坊助」可指爱睡懒觉的人，语气较随意。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial",
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课「寝坊ではありません」指睡过头这一行为名词；可寝坊する，词典另列爱睡懒觉的人及形容动词用法。",
+        "dictionary_sequences": [
+          1360320
+        ],
+        "identity": {
+          "word": "寝坊",
+          "reading_hiragana": "ねぼう",
+          "meaning": "睡懒觉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4d69fcb258d788c5",
+      "index": 1140,
+      "word": "中頃",
+      "reading_hiragana": "なかごろ",
+      "context_meaning_zh": "(时间上的)中间;(场所的)中央",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(时间上的)中间;(场所的)中央",
+          "meaning_ja": "時間や場所の、端ではないあたり。",
+          "example_ja": "六月の中頃に、引っ越す予定です。",
+          "example_zh": "我计划六月中旬搬家。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "月の中頃",
+          "zh": "月中旬"
+        }
+      ],
+      "usage_note_zh": "表示时间时为中旬左右，场所时表示中间一带；本课例句取时间义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "年末前的七月中頃表示时间中段，房间中頃表示空间中央附近；词典列名词及副词用法。",
+        "dictionary_sequences": [
+          1424330
+        ],
+        "identity": {
+          "word": "中頃",
+          "reading_hiragana": "なかごろ",
+          "meaning": "(时间上的)中间;(场所的)中央"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d9fd00cc85ad8036",
+      "index": 1141,
+      "word": "何で",
+      "reading_hiragana": "なんで",
+      "context_meaning_zh": "何故、为什么",
+      "pos_ja": "副詞・疑問",
+      "pos_zh": "副词・疑问",
+      "register_zh": "非正式・口语",
+      "senses": [
+        {
+          "meaning_zh": "何故、为什么",
+          "meaning_ja": "理由や原因を尋ねる言葉。",
+          "example_ja": "何でそんなに早く帰るんですか。",
+          "example_zh": "为什么这么早回去呢？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何でですか",
+          "zh": "为什么呢"
+        }
+      ],
+      "usage_note_zh": "本词条按给定读音「なんで」表示询问理由；源中文义“何故、为什么”原样保留。表示工具的「なにで」读音不同，不混入。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "给定读音なんで和例句询问改期理由，判为疑问副词“为什么”；工具手段义通常读なにで，不纳入本身份。",
+        "dictionary_sequences": [
+          1611020
+        ],
+        "identity": {
+          "word": "何で",
+          "reading_hiragana": "なんで",
+          "meaning": "何故、为什么"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-153b3423535cda97",
+      "index": 1142,
+      "word": "記念日",
+      "reading_hiragana": "きねんび",
+      "context_meaning_zh": "纪念日",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "纪念日",
+          "meaning_ja": "出来事や人を記憶に残すために定めた日。",
+          "example_ja": "結婚記念日に、二人で食事をしました。",
+          "example_zh": "结婚纪念日那天，两个人一起吃了饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結婚記念日",
+          "zh": "结婚纪念日"
+        }
+      ],
+      "usage_note_zh": "常以名词修饰纪念日的对象，如「開店記念日」「結婚記念日」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "開館記念日指纪念设施开馆的周年日；記念日通常以事件为名词前项限定。",
+        "dictionary_sequences": [
+          1223380
+        ],
+        "identity": {
+          "word": "記念日",
+          "reading_hiragana": "きねんび",
+          "meaning": "纪念日"
+        }
+      }
+    }
+  ]
+}

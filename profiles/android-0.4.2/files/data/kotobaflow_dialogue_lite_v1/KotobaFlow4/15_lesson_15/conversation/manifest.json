@@ -1,0 +1,654 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 130.94,
+ "listening_review": "pending",
+ "source_chapter": 71,
+ "turns": [
+  {
+   "turn_id": "C71-D001",
+   "turn_index": 0,
+   "speaker": "林梅",
+   "source_text": "青木さんから返事が来たね。見出しはまだ確認中だけど、お父さんの話を足すと、昔を懐かしむだけの展示ではなくなるね。",
+   "sentence_ids": [
+    "C71-D001-S01",
+    "C71-D001-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 8.944,
+   "duration_sec": 8.944
+  },
+  {
+   "turn_id": "C71-D002",
+   "turn_index": 1,
+   "speaker": "ハサン",
+   "source_text": "うん。でも文字が多い。写真の前で話に花が咲く余地も残そう。青木さんは昔の写真部の仲間との思い出話も楽しみにしているよ。",
+   "sentence_ids": [
+    "C71-D002-S01",
+    "C71-D002-S02",
+    "C71-D002-S03",
+    "C71-D002-S04"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 9.294,
+   "end_sec": 20.497,
+   "duration_sec": 11.203
+  },
+  {
+   "turn_id": "C71-D003",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "案内の「オービー」は「卒業生」に直すね。それから、この「弛みない努力の賜物」は誰の言葉？",
+   "sentence_ids": [
+    "C71-D003-S01",
+    "C71-D003-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 20.847,
+   "end_sec": 28.218,
+   "duration_sec": 7.371
+  },
+  {
+   "turn_id": "C71-D004",
+   "turn_index": 3,
+   "speaker": "ハサン",
+   "source_text": "僕が書いた。作品に心血を注いだ経験をほめたかったけど、ずっと努力し続けたかは聞いていない。本人の言葉に戻そう。",
+   "sentence_ids": [
+    "C71-D004-S01",
+    "C71-D004-S02",
+    "C71-D004-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.568,
+   "end_sec": 37.445,
+   "duration_sec": 8.877
+  },
+  {
+   "turn_id": "C71-D005",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "「先覚者」「博学多才」も大げさかな。写真の保存に長けているとは聞いたけど、幅広い学識があるかは、この写真だけでは分からないよ。",
+   "sentence_ids": [
+    "C71-D005-S01",
+    "C71-D005-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.795,
+   "end_sec": 47.888,
+   "duration_sec": 10.093
+  },
+  {
+   "turn_id": "C71-D006",
+   "turn_index": 5,
+   "speaker": "ハサン",
+   "source_text": "そうだね。去年の保存セミナーで知り合った人に聞いて、方法だけ紹介しよう。新しい試みがものになるまでの過程なら、ほかの人の励みにもなる。",
+   "sentence_ids": [
+    "C71-D006-S01",
+    "C71-D006-S02",
+    "C71-D006-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 48.238,
+   "end_sec": 59.516,
+   "duration_sec": 11.278
+  },
+  {
+   "turn_id": "C71-D009",
+   "turn_index": 6,
+   "speaker": "林梅",
+   "source_text": "でも成功ばかり強調したら、また本人の話から離れるよ。「自慢の作品」より「残したい一枚」はどう？",
+   "sentence_ids": [
+    "C71-D009-S01",
+    "C71-D009-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.866,
+   "end_sec": 69.395,
+   "duration_sec": 9.529
+  },
+  {
+   "turn_id": "C71-D010",
+   "turn_index": 7,
+   "speaker": "ハサン",
+   "source_text": "いいね。見る人の心を鷲掴みにする見出しを考えて、内容を変えてしまった。反語の「撮るものか」も、目立たせるためだけには使わない。",
+   "sentence_ids": [
+    "C71-D010-S01",
+    "C71-D010-S02",
+    "C71-D010-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 69.745,
+   "end_sec": 80.215,
+   "duration_sec": 10.47
+  },
+  {
+   "turn_id": "C71-D011",
+   "turn_index": 8,
+   "speaker": "林梅",
+   "source_text": "当時の気持ちが伝わる文章を選ぼう。ところで、これは川に昔の橋の名残りがある写真？",
+   "sentence_ids": [
+    "C71-D011-S01",
+    "C71-D011-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.565,
+   "end_sec": 88.327,
+   "duration_sec": 7.762
+  },
+  {
+   "turn_id": "C71-D016",
+   "turn_index": 9,
+   "speaker": "ハサン",
+   "source_text": "うん。「わあ、まだある」と美咲さんがびっくりして、二人で大笑いしたんだって。流行の撮り方をまねした写真より印象的だと言っていたよ。",
+   "sentence_ids": [
+    "C71-D016-S01",
+    "C71-D016-S02",
+    "C71-D016-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 88.677,
+   "end_sec": 98.44,
+   "duration_sec": 9.763
+  },
+  {
+   "turn_id": "C71-D017",
+   "turn_index": 10,
+   "speaker": "林梅",
+   "source_text": "たくさん語ってくれたんだね。二人がわくわくと町を歩く姿が浮かぶ。私もどの写真が選ばれるか楽しみ。",
+   "sentence_ids": [
+    "C71-D017-S01",
+    "C71-D017-S02",
+    "C71-D017-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 98.79,
+   "end_sec": 107.413,
+   "duration_sec": 8.623
+  },
+  {
+   "turn_id": "C71-D018",
+   "turn_index": 11,
+   "speaker": "ハサン",
+   "source_text": "今は六枚が候補で、二枚の人物の許可はまだだよ。興奮して全部載せてしまわないように、案内の枚数欄は空けておこう。",
+   "sentence_ids": [
+    "C71-D018-S01",
+    "C71-D018-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 107.763,
+   "end_sec": 116.332,
+   "duration_sec": 8.569
+  },
+  {
+   "turn_id": "C71-D021",
+   "turn_index": 12,
+   "speaker": "林梅",
+   "source_text": "分かった。タイトルも青木さんの確認を待つ。再会の時に抱き合うほど喜ぶかどうかも、私たちには決められないね。",
+   "sentence_ids": [
+    "C71-D021-S01",
+    "C71-D021-S02",
+    "C71-D021-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 116.682,
+   "end_sec": 125.662,
+   "duration_sec": 8.98
+  },
+  {
+   "turn_id": "C71-D022",
+   "turn_index": 13,
+   "speaker": "ハサン",
+   "source_text": "そうだね。感激を期待しすぎず、本人のペースで語れる場にしよう。",
+   "sentence_ids": [
+    "C71-D022-S01",
+    "C71-D022-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 126.012,
+   "end_sec": 130.934,
+   "duration_sec": 4.922
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C71-D001-S01",
+   "unit_id": "C71-D001",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "青木さんから返事が来たね。",
+   "start_sec": 0.0,
+   "end_sec": 1.817,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D001-S02",
+   "unit_id": "C71-D001",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "見出しはまだ確認中だけど、お父さんの話を足すと、昔を懐かしむだけの展示ではなくなるね。",
+   "start_sec": 1.967,
+   "end_sec": 8.944,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D002-S01",
+   "unit_id": "C71-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "うん。",
+   "start_sec": 9.294,
+   "end_sec": 10.205,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D002-S02",
+   "unit_id": "C71-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "でも文字が多い。",
+   "start_sec": 10.355,
+   "end_sec": 12.263,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D002-S03",
+   "unit_id": "C71-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "写真の前で話に花が咲く余地も残そう。",
+   "start_sec": 12.413,
+   "end_sec": 16.089,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D002-S04",
+   "unit_id": "C71-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "青木さんは昔の写真部の仲間との思い出話も楽しみにしているよ。",
+   "start_sec": 16.239,
+   "end_sec": 20.497,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D003-S01",
+   "unit_id": "C71-D003",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "案内の「オービー」は「卒業生」に直すね。",
+   "start_sec": 20.847,
+   "end_sec": 23.889,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D003-S02",
+   "unit_id": "C71-D003",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "それから、この「弛みない努力の賜物」は誰の言葉？",
+   "start_sec": 24.039,
+   "end_sec": 28.218,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D004-S01",
+   "unit_id": "C71-D004",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "僕が書いた。",
+   "start_sec": 28.568,
+   "end_sec": 29.515,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D004-S02",
+   "unit_id": "C71-D004",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "作品に心血を注いだ経験をほめたかったけど、ずっと努力し続けたかは聞いていない。",
+   "start_sec": 29.665,
+   "end_sec": 35.657,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D004-S03",
+   "unit_id": "C71-D004",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "本人の言葉に戻そう。",
+   "start_sec": 35.807,
+   "end_sec": 37.445,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D005-S01",
+   "unit_id": "C71-D005",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「先覚者」「博学多才」も大げさかな。",
+   "start_sec": 37.795,
+   "end_sec": 41.117,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D005-S02",
+   "unit_id": "C71-D005",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "写真の保存に長けているとは聞いたけど、幅広い学識があるかは、この写真だけでは分からないよ。",
+   "start_sec": 41.267,
+   "end_sec": 47.888,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D006-S01",
+   "unit_id": "C71-D006",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そうだね。",
+   "start_sec": 48.238,
+   "end_sec": 49.501,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D006-S02",
+   "unit_id": "C71-D006",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "去年の保存セミナーで知り合った人に聞いて、方法だけ紹介しよう。",
+   "start_sec": 49.651,
+   "end_sec": 54.57,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D006-S03",
+   "unit_id": "C71-D006",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "新しい試みがものになるまでの過程なら、ほかの人の励みにもなる。",
+   "start_sec": 54.72,
+   "end_sec": 59.516,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D009-S01",
+   "unit_id": "C71-D009",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "でも成功ばかり強調したら、また本人の話から離れるよ。",
+   "start_sec": 59.866,
+   "end_sec": 65.179,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D009-S02",
+   "unit_id": "C71-D009",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「自慢の作品」より「残したい一枚」はどう？",
+   "start_sec": 65.329,
+   "end_sec": 69.395,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D010-S01",
+   "unit_id": "C71-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "いいね。",
+   "start_sec": 69.745,
+   "end_sec": 70.948,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D010-S02",
+   "unit_id": "C71-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "見る人の心を鷲掴みにする見出しを考えて、内容を変えてしまった。",
+   "start_sec": 71.098,
+   "end_sec": 75.969,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D010-S03",
+   "unit_id": "C71-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "反語の「撮るものか」も、目立たせるためだけには使わない。",
+   "start_sec": 76.119,
+   "end_sec": 80.215,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D011-S01",
+   "unit_id": "C71-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "当時の気持ちが伝わる文章を選ぼう。",
+   "start_sec": 80.565,
+   "end_sec": 83.418,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D011-S02",
+   "unit_id": "C71-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "ところで、これは川に昔の橋の名残りがある写真？",
+   "start_sec": 83.569,
+   "end_sec": 88.327,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D016-S01",
+   "unit_id": "C71-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "うん。",
+   "start_sec": 88.677,
+   "end_sec": 89.666,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D016-S02",
+   "unit_id": "C71-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "「わあ、まだある」と美咲さんがびっくりして、二人で大笑いしたんだって。",
+   "start_sec": 89.816,
+   "end_sec": 94.828,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D016-S03",
+   "unit_id": "C71-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "流行の撮り方をまねした写真より印象的だと言っていたよ。",
+   "start_sec": 94.978,
+   "end_sec": 98.44,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D017-S01",
+   "unit_id": "C71-D017",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "たくさん語ってくれたんだね。",
+   "start_sec": 98.79,
+   "end_sec": 101.554,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D017-S02",
+   "unit_id": "C71-D017",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "二人がわくわくと町を歩く姿が浮かぶ。",
+   "start_sec": 101.704,
+   "end_sec": 104.755,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D017-S03",
+   "unit_id": "C71-D017",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "私もどの写真が選ばれるか楽しみ。",
+   "start_sec": 104.905,
+   "end_sec": 107.413,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D018-S01",
+   "unit_id": "C71-D018",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "今は六枚が候補で、二枚の人物の許可はまだだよ。",
+   "start_sec": 107.763,
+   "end_sec": 112.353,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D018-S02",
+   "unit_id": "C71-D018",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "興奮して全部載せてしまわないように、案内の枚数欄は空けておこう。",
+   "start_sec": 112.503,
+   "end_sec": 116.332,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D021-S01",
+   "unit_id": "C71-D021",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "分かった。",
+   "start_sec": 116.682,
+   "end_sec": 117.667,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D021-S02",
+   "unit_id": "C71-D021",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "タイトルも青木さんの確認を待つ。",
+   "start_sec": 117.817,
+   "end_sec": 120.432,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D021-S03",
+   "unit_id": "C71-D021",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "再会の時に抱き合うほど喜ぶかどうかも、私たちには決められないね。",
+   "start_sec": 120.582,
+   "end_sec": 125.662,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D022-S01",
+   "unit_id": "C71-D022",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そうだね。",
+   "start_sec": 126.012,
+   "end_sec": 127.028,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C71-D022-S02",
+   "unit_id": "C71-D022",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "感激を期待しすぎず、本人のペースで語れる場にしよう。",
+   "start_sec": 127.178,
+   "end_sec": 130.934,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

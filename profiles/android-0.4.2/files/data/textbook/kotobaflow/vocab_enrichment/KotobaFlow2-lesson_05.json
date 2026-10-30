@@ -1,0 +1,1438 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_05",
+  "entries": [
+    {
+      "textbook_uid": "cfv-787d442693516ac1",
+      "index": 1212,
+      "word": "意見",
+      "reading_hiragana": "いけん",
+      "context_meaning_zh": "意见",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "意见",
+          "meaning_ja": "人や物事について、自分がどう考えるかという内容。",
+          "example_ja": "旅行の計画について、みんなの意見を聞きました。",
+          "example_zh": "关于旅行计划，我听取了大家的意见。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意見を言う",
+          "zh": "发表意见"
+        },
+        {
+          "ja": "意見を聞く",
+          "zh": "听取意见"
+        }
+      ],
+      "usage_note_zh": "「意見を聞く」是听取他人的看法；「意見に賛成する」则表示赞同某项主张。意見指人或团体对某件事的看法。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「家族の意見を聞く」取看法义；该词另有意見する的批评义，因此保留する兼类及辞书两类自他性。",
+        "dictionary_sequences": [
+          1156530
+        ],
+        "identity": {
+          "word": "意見",
+          "reading_hiragana": "いけん",
+          "meaning": "意见"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f32ee62227f50d26",
+      "index": 1213,
+      "word": "返事",
+      "reading_hiragana": "へんじ",
+      "context_meaning_zh": "回复",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "回复",
+          "meaning_ja": "質問や連絡を受けて、相手に返す言葉や知らせ。",
+          "example_ja": "メールを確認してから、店に返事を書きます。",
+          "example_zh": "确认邮件后，我给店里写回复。"
+        },
+        {
+          "meaning_zh": "（对呼唤的）应答",
+          "meaning_ja": "名前を呼ばれたときなどに、声や言葉を返すこと。",
+          "example_ja": "先生に名前を呼ばれて、すぐに返事をしました。",
+          "example_zh": "老师叫到我的名字后，我马上应了一声。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "返事をする",
+          "zh": "作出回复"
+        },
+        {
+          "ja": "返事を待つ",
+          "zh": "等待回复"
+        }
+      ],
+      "usage_note_zh": "可用「返事をする／返事を書く」表示答复；既可回应问题或联络，也可回应他人的呼唤。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "明天回复咨询体现回复名词义；词典另列返事する的自动用法。发送或写下回复属于相关句法搭配，不把其名词宾语误当他动词证据。",
+        "dictionary_sequences": [
+          1512220
+        ],
+        "identity": {
+          "word": "返事",
+          "reading_hiragana": "へんじ",
+          "meaning": "回复"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9229f77a650b9da3",
+      "index": 1214,
+      "word": "伝える",
+      "reading_hiragana": "つたえる",
+      "context_meaning_zh": "传达",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "传达",
+          "meaning_ja": "言葉や知らせを、聞く人に分かるように知らせる。",
+          "example_ja": "集合時間が変わったことを友達に伝えました。",
+          "example_zh": "我把集合时间变了这件事告诉了朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人に伝える",
+          "zh": "告诉某人"
+        },
+        {
+          "ja": "用件を伝える",
+          "zh": "转达事情"
+        }
+      ],
+      "usage_note_zh": "传达的内容用助词「を」，接收对象用「に」；自动词「伝わる」表示信息传到对方，重点在内容抵达。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一段他动词，请在柜台传达情况；事情为传达内容。",
+        "dictionary_sequences": [
+          1441870
+        ],
+        "identity": {
+          "word": "伝える",
+          "reading_hiragana": "つたえる",
+          "meaning": "传达"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-93ad302bdfd557c0",
+      "index": 1215,
+      "word": "探す",
+      "reading_hiragana": "さがす",
+      "context_meaning_zh": "寻找",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "寻找",
+          "meaning_ja": "見つけたい人や物がどこにあるか、あちこち調べる。",
+          "example_ja": "駅で青い傘を探しましたが、見つかりませんでした。",
+          "example_zh": "我在车站找了蓝色雨伞，但没找到。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鍵を探す",
+          "zh": "找钥匙"
+        },
+        {
+          "ja": "仕事を探す",
+          "zh": "找工作"
+        }
+      ],
+      "usage_note_zh": "探す是寻找的过程，不保证已经找到；找到结果可说「見つける」。寻找的对象用「を」标记。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "寻找帽子的过程，帽子を是寻找对象；教材特意区分寻找到达结果的見つける。",
+        "dictionary_sequences": [
+          1593670
+        ],
+        "identity": {
+          "word": "探す",
+          "reading_hiragana": "さがす",
+          "meaning": "寻找"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d93462d8d3b38b1c",
+      "index": 1216,
+      "word": "特徴",
+      "reading_hiragana": "とくちょう",
+      "context_meaning_zh": "特征",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "特征",
+          "meaning_ja": "ほかのものと見分ける手がかりになる性質や形。",
+          "example_ja": "この鳥の特徴は、長い尾です。",
+          "example_zh": "这种鸟的特征是尾巴很长。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "特徴がある",
+          "zh": "有特征"
+        },
+        {
+          "ja": "特徴を説明する",
+          "zh": "说明特征"
+        }
+      ],
+      "usage_note_zh": "常用「物の特徴」「特徴を説明する」。指可帮助识别或理解对象的性质，不等于单纯的外表。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "受付中说明帽子特征以便辨认，符合词典特征、特点名词义。",
+        "dictionary_sequences": [
+          1455170
+        ],
+        "identity": {
+          "word": "特徴",
+          "reading_hiragana": "とくちょう",
+          "meaning": "特征"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a84be8f4bf412745",
+      "index": 1217,
+      "word": "都合",
+      "reading_hiragana": "つごう",
+      "context_meaning_zh": "时间等是否方便",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "时间等是否方便",
+          "meaning_ja": "予定や条件が合っていて、無理なく行動できる状態。",
+          "example_ja": "来週の火曜日は都合がいいです。",
+          "example_zh": "下周二时间方便。"
+        },
+        {
+          "meaning_zh": "情况；缘由",
+          "meaning_ja": "物事が行われるときの事情や、そうなった理由。",
+          "example_ja": "交通の都合で、到着が少し遅れました。",
+          "example_zh": "由于交通方面的原因，到达时间稍晚了一些。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "都合がいい",
+          "zh": "方便；合适"
+        },
+        {
+          "ja": "都合が悪い",
+          "zh": "不方便"
+        }
+      ],
+      "usage_note_zh": "常说「都合がいい／悪い」，询问安排是否方便。「都合」也可指情况或缘故，如「都合により」，具体义随搭配变化。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "都合在「都合がよい／悪い」及「午後の都合」中询问时间或安排是否方便；句子口语形式不构成词项专用口语标签。",
+        "dictionary_sequences": [
+          1444980
+        ],
+        "identity": {
+          "word": "都合",
+          "reading_hiragana": "つごう",
+          "meaning": "时间等是否方便"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-799369b15d435ef1",
+      "index": 1218,
+      "word": "変更",
+      "reading_hiragana": "へんこう",
+      "context_meaning_zh": "变更",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "变更",
+          "meaning_ja": "決めていた内容を別のものに改めること。",
+          "example_ja": "雨が降りそうなので、出発時間を変更します。",
+          "example_zh": "因为好像要下雨，所以我会更改出发时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予定を変更する",
+          "zh": "更改计划"
+        },
+        {
+          "ja": "変更になる",
+          "zh": "发生变更"
+        }
+      ],
+      "usage_note_zh": "他动用法常以「内容を変更する」表示主动改动；「変更になる」表示安排发生变化。「延期」特指把日期或时间往后推。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指向窗口申报修改安排，词典标サ变他动；「予定の変更」为名词形式。",
+        "dictionary_sequences": [
+          1511040
+        ],
+        "identity": {
+          "word": "変更",
+          "reading_hiragana": "へんこう",
+          "meaning": "变更"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3360b2d5b8b6210d",
+      "index": 1219,
+      "word": "約束",
+      "reading_hiragana": "やくそく",
+      "context_meaning_zh": "约定",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "约定",
+          "meaning_ja": "人と、これから何をするかを前もって決めること。",
+          "example_ja": "友達と駅で会う約束をしました。",
+          "example_zh": "我和朋友约好在车站见面。"
+        },
+        {
+          "meaning_zh": "承诺；诺言",
+          "meaning_ja": "必ずすると人に言ったこと。",
+          "example_ja": "自分でした約束は、最後まで守りたいです。",
+          "example_zh": "自己许下的承诺，我想一直遵守到底。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人と約束する",
+          "zh": "和某人约定"
+        },
+        {
+          "ja": "約束を守る",
+          "zh": "遵守约定"
+        }
+      ],
+      "usage_note_zh": "「人と約束する」表示和某人约好；约定内容可用动词辞书形修饰「約束」，如「会う約束」。也可指必须遵守的承诺。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与田村约好参加摄影散步，取约定／承诺义；亦保留词典サ変类。",
+        "dictionary_sequences": [
+          1538130
+        ],
+        "identity": {
+          "word": "約束",
+          "reading_hiragana": "やくそく",
+          "meaning": "约定"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e854b22323123814",
+      "index": 1220,
+      "word": "経験",
+      "reading_hiragana": "けいけん",
+      "context_meaning_zh": "经历、经验",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "经历、经验",
+          "meaning_ja": "実際に何かをしたり見聞きしたりして、知識や力を得ること。また、その内容。",
+          "example_ja": "一人で外国を旅行した経験があります。",
+          "example_zh": "我有独自出国旅行的经历。"
+        },
+        {
+          "meaning_zh": "亲身体验",
+          "meaning_ja": "実際に身をもって知ったこと。",
+          "example_ja": "初めて雪山で厳しい寒さを経験しました。",
+          "example_zh": "我第一次在雪山经历了严寒。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "経験がある",
+          "zh": "有经验"
+        },
+        {
+          "ja": "経験を積む",
+          "zh": "积累经验"
+        }
+      ],
+      "usage_note_zh": "可用「経験がある／ない」说明是否做过某事；经历内容常用「～した経験」表示。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「海で釣りをした経験」把经历作名词；该词也可作サ变他动词表示经历某事。",
+        "dictionary_sequences": [
+          1251270
+        ],
+        "identity": {
+          "word": "経験",
+          "reading_hiragana": "けいけん",
+          "meaning": "经历、经验"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-de52df5a1e4a8dd5",
+      "index": 1221,
+      "word": "旅行",
+      "reading_hiragana": "りょこう",
+      "context_meaning_zh": "旅行",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "旅行",
+          "meaning_ja": "住んでいる場所を離れ、別の土地へ行って過ごすこと。",
+          "example_ja": "休みの日に、姉と京都を旅行しました。",
+          "example_zh": "休息日我和姐姐去京都旅行了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "旅行に行く",
+          "zh": "去旅行"
+        },
+        {
+          "ja": "旅行を楽しむ",
+          "zh": "享受旅行"
+        }
+      ],
+      "usage_note_zh": "可说「旅行に行く」或「日本を旅行する」；前者用「に」表示目的地，后者用「を」表示旅行经过的范围。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "登山发生于旅行期间，旅行作名词；词典列自サ变vi，目的地不构成直接宾语。",
+        "dictionary_sequences": [
+          1553170
+        ],
+        "identity": {
+          "word": "旅行",
+          "reading_hiragana": "りょこう",
+          "meaning": "旅行"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0c1fe8896f5ad33f",
+      "index": 1222,
+      "word": "初めて",
+      "reading_hiragana": "はじめて",
+      "context_meaning_zh": "第一次",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "第一次",
+          "meaning_ja": "それまで経験したことがない状態で、初回に何かをするさま。",
+          "example_ja": "私は初めて一人で料理を作りました。",
+          "example_zh": "我第一次独自做了饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "初めて会う",
+          "zh": "初次见面"
+        },
+        {
+          "ja": "初めての経験",
+          "zh": "第一次经历"
+        }
+      ],
+      "usage_note_zh": "修饰动作时常放在动词前，如「初めて行く」；修饰名词时用「初めての」。表示顺序上的第一时用法不同，例如「一番目」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「初めて」「の」釣「り」中「初めて」是副词或名词加「の」结构；移除adnominal兼类。",
+        "dictionary_sequences": [
+          1342550
+        ],
+        "identity": {
+          "word": "初めて",
+          "reading_hiragana": "はじめて",
+          "meaning": "第一次"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1bebab39f47b6593",
+      "index": 1223,
+      "word": "趣味",
+      "reading_hiragana": "しゅみ",
+      "context_meaning_zh": "兴趣爱好",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "兴趣爱好",
+          "meaning_ja": "仕事や義務ではなく、楽しみとして続けている活動や関心。",
+          "example_ja": "母の趣味は庭で花を育てることです。",
+          "example_zh": "妈妈的兴趣爱好是在院子里种花。"
+        },
+        {
+          "meaning_zh": "品味；审美趣味",
+          "meaning_ja": "物のよさを感じ取る好みや判断のしかた。",
+          "example_ja": "彼女は趣味のいい服を選びます。",
+          "example_zh": "她会挑选品味很好的衣服。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "趣味は～です",
+          "zh": "爱好是……"
+        },
+        {
+          "ja": "趣味を楽しむ",
+          "zh": "享受爱好"
+        }
+      ],
+      "usage_note_zh": "常用「趣味は～です」介绍爱好。也可泛指对某事的兴趣，但“品味”义通常见于「趣味がいい」等特定表达。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中个人趣味是拍照，明确取hobby兴趣爱好义。",
+        "dictionary_sequences": [
+          1329000
+        ],
+        "identity": {
+          "word": "趣味",
+          "reading_hiragana": "しゅみ",
+          "meaning": "兴趣爱好"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1dee0f5de7fe8cc2",
+      "index": 1224,
+      "word": "提案",
+      "reading_hiragana": "ていあん",
+      "context_meaning_zh": "提议",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "提议",
+          "meaning_ja": "会議などで、よいと思う考えや方法を人に示すこと。",
+          "example_ja": "彼女は駅の近くに集合する案を提案しました。",
+          "example_zh": "她提议在车站附近集合。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "案を提案する",
+          "zh": "提出方案"
+        },
+        {
+          "ja": "改善策を提案する",
+          "zh": "提出改进措施"
+        }
+      ],
+      "usage_note_zh": "提出的内容用「を」标记。「提案する」强调把想法交给他人讨论；是否采纳还需另行决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「提案がある」中作方案名词，也可提案する并向他人提交内容供讨论；提案不表示方案必被采纳。",
+        "dictionary_sequences": [
+          1436320
+        ],
+        "identity": {
+          "word": "提案",
+          "reading_hiragana": "ていあん",
+          "meaning": "提议"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f1916ba08bc4ea11",
+      "index": 1225,
+      "word": "確認",
+      "reading_hiragana": "かくにん",
+      "context_meaning_zh": "确认",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "确认",
+          "meaning_ja": "内容に間違いがないか、実際に見たり調べたりすること。",
+          "example_ja": "出かける前に、切符の日付を確認してください。",
+          "example_zh": "出门前请确认车票上的日期。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "内容を確認する",
+          "zh": "确认内容"
+        },
+        {
+          "ja": "確認が必要だ",
+          "zh": "需要确认"
+        }
+      ],
+      "usage_note_zh": "核对的内容用「を」标记；「確認してから」表示核对之后再行动。确认不代表把信息证明为真，重点是先查明是否无误。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "去确认帽子时，帽子是核实对象；「確認する」为名词兼サ变他动词。",
+        "dictionary_sequences": [
+          1205900
+        ],
+        "identity": {
+          "word": "確認",
+          "reading_hiragana": "かくにん",
+          "meaning": "确认"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3380563f0bf254df",
+      "index": 1226,
+      "word": "持ち主",
+      "reading_hiragana": "もちぬし",
+      "context_meaning_zh": "物主",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "物主",
+          "meaning_ja": "物を持っていたり、その物を自分のものとしていたりする人。",
+          "example_ja": "このかばんの持ち主を知っていますか。",
+          "example_zh": "你知道这个包的主人是谁吗？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "持ち主を探す",
+          "zh": "寻找物主"
+        },
+        {
+          "ja": "持ち主に返す",
+          "zh": "归还给物主"
+        }
+      ],
+      "usage_note_zh": "常用来说明物品属于谁，常见「かばんの持ち主」。「所有者」也指所有人，语体较正式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "持ち主指物品或特质的所有者，例句询问此人的身份。",
+        "dictionary_sequences": [
+          1605230
+        ],
+        "identity": {
+          "word": "持ち主",
+          "reading_hiragana": "もちぬし",
+          "meaning": "物主"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3a0d65bfb67fc08c",
+      "index": 1227,
+      "word": "落とし物",
+      "reading_hiragana": "おとしもの",
+      "context_meaning_zh": "遗失物",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "遗失物",
+          "meaning_ja": "持っていた人がどこかに置き忘れたり、落としたりした物。",
+          "example_ja": "バスの中に落とし物がありました。",
+          "example_zh": "公交车里有一件遗失物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "落とし物を届ける",
+          "zh": "上交捡到的失物"
+        },
+        {
+          "ja": "落とし物を受け取る",
+          "zh": "领取遗失物"
+        }
+      ],
+      "usage_note_zh": "指遗失的物品；捡到后可说「落とし物を届ける」。它不是“掉落的东西”这一动作，而是遗失后等待认领的物品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "教室里发现的遗失物符合辞书lost property义，不是丢失这一动作本身。",
+        "dictionary_sequences": [
+          1589250
+        ],
+        "identity": {
+          "word": "落とし物",
+          "reading_hiragana": "おとしもの",
+          "meaning": "遗失物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-44b928bee8b17eb6",
+      "index": 1228,
+      "word": "延期",
+      "reading_hiragana": "えんき",
+      "context_meaning_zh": "延期",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "延期",
+          "meaning_ja": "予定していた日時を、後の日に移すこと。",
+          "example_ja": "台風のため、運動会は来週に延期されました。",
+          "example_zh": "由于台风，运动会延期到了下周。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "出発を延期する",
+          "zh": "推迟出发"
+        },
+        {
+          "ja": "延期を決める",
+          "zh": "决定延期"
+        }
+      ],
+      "usage_note_zh": "通常用于活动、会议、出发等日期向后推迟；单纯换时间或地点不一定叫「延期」。「予定を変更する」范围更广。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处摄影活动被改到10月3日，词义为延后预定日期；具有延期する的サ变用法，所延期事项为对象。",
+        "dictionary_sequences": [
+          1176430
+        ],
+        "identity": {
+          "word": "延期",
+          "reading_hiragana": "えんき",
+          "meaning": "延期"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9f6af7454bae9886",
+      "index": 1229,
+      "word": "事情",
+      "reading_hiragana": "じじょう",
+      "context_meaning_zh": "情况、缘由",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "情况、缘由",
+          "meaning_ja": "物事の背景にある事情や、そのときの細かな状態。",
+          "example_ja": "事情を説明して、予約を取り消しました。",
+          "example_zh": "说明了缘由后，我取消了预约。"
+        },
+        {
+          "meaning_zh": "（个人或家庭的）缘故",
+          "meaning_ja": "ある行動をしなければならない個人的な理由。",
+          "example_ja": "家庭の事情で、今日は早く帰ります。",
+          "example_zh": "因为家里的原因，我今天要早点回去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事情を説明する",
+          "zh": "说明缘由"
+        },
+        {
+          "ja": "家庭の事情",
+          "zh": "家庭情况"
+        }
+      ],
+      "usage_note_zh": "可指事情发生的缘由，也可指周围情况。「事情を説明する」是说明背景；「事情がある」常表示有不便明说的缘由。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "在接待处说明事情，所指是取消参与的具体内情；词典列circumstances及reasons，不是固定的抽象原因单义。",
+        "dictionary_sequences": [
+          1314010
+        ],
+        "identity": {
+          "word": "事情",
+          "reading_hiragana": "じじょう",
+          "meaning": "情况、缘由"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2df406ada356e61f",
+      "index": 1230,
+      "word": "思い出",
+      "reading_hiragana": "おもいで",
+      "context_meaning_zh": "回忆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "回忆",
+          "meaning_ja": "過去にあったことで、心に残っていて思い返す内容。",
+          "example_ja": "古い写真を見ると、学生時代の思い出が浮かびます。",
+          "example_zh": "看到旧照片，我就想起学生时代的回忆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "思い出を話す",
+          "zh": "讲述回忆"
+        },
+        {
+          "ja": "楽しい思い出",
+          "zh": "快乐的回忆"
+        }
+      ],
+      "usage_note_zh": "通常指留在记忆中的往事或相关回忆。「思い出す」是回想起来的动作；本词「思い出」是名词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句子「いい思い出だ」把它作为过去经历留下的名词，不与动作动词「思い出す」混淆。",
+        "dictionary_sequences": [
+          1589340
+        ],
+        "identity": {
+          "word": "思い出",
+          "reading_hiragana": "おもいで",
+          "meaning": "回忆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-646816ac1c1afcab",
+      "index": 1231,
+      "word": "何度も",
+      "reading_hiragana": "なんども",
+      "context_meaning_zh": "多次",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "多次",
+          "meaning_ja": "同じことが一回ではなく、何回も行われるさま。",
+          "example_ja": "道に迷ったので、地図を何度も見ました。",
+          "example_zh": "因为迷路了，我看了好几次地图。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何度も聞く",
+          "zh": "多次询问"
+        },
+        {
+          "ja": "何度も練習する",
+          "zh": "反复练习"
+        }
+      ],
+      "usage_note_zh": "修饰动作，表示同一动作重复多次。「何度」也可用于询问次数或程度；加「も」后变为“好几次／无数次”的陈述。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句说明田村有多次钓鱼经历，何度も修饰动作发生次数，属于通用副词。",
+        "dictionary_sequences": [
+          1189200
+        ],
+        "identity": {
+          "word": "何度も",
+          "reading_hiragana": "なんども",
+          "meaning": "多次"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1928 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 284.616,
+ "listening_review": "pending",
+ "source_chapter": 23,
+ "turns": [
+  {
+   "turn_id": "C23-D001",
+   "turn_index": 0,
+   "speaker": "森",
+   "source_text": "はい、港公民館の受付です。",
+   "sentence_ids": [
+    "C23-D001-S01"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 2.125,
+   "duration_sec": 2.125
+  },
+  {
+   "turn_id": "C23-D002",
+   "turn_index": 1,
+   "speaker": "ウェン",
+   "source_text": "こんにちは。ウェンです。20日の釣りに参加しました。紺色の帽子を探しているんです。",
+   "sentence_ids": [
+    "C23-D002-S01",
+    "C23-D002-S02",
+    "C23-D002-S03",
+    "C23-D002-S04"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match",
+    "manual_nonsilent_boundary"
+   ],
+   "start_sec": 2.475,
+   "end_sec": 8.751,
+   "duration_sec": 6.276
+  },
+  {
+   "turn_id": "C23-D003",
+   "turn_index": 2,
+   "speaker": "森",
+   "source_text": "20日はありがとうございました。教室に紺色の帽子が二つありました。特徴をお願いします。",
+   "sentence_ids": [
+    "C23-D003-S01",
+    "C23-D003-S02",
+    "C23-D003-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 9.101,
+   "end_sec": 16.337,
+   "duration_sec": 7.236
+  },
+  {
+   "turn_id": "C23-D004",
+   "turn_index": 3,
+   "speaker": "ウェン",
+   "source_text": "細いしまの模様があります。中に名前もあります。名前はウェンです。",
+   "sentence_ids": [
+    "C23-D004-S01",
+    "C23-D004-S02",
+    "C23-D004-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.687,
+   "end_sec": 22.14,
+   "duration_sec": 5.453
+  },
+  {
+   "turn_id": "C23-D005",
+   "turn_index": 4,
+   "speaker": "森",
+   "source_text": "この帽子には細いしまがあります。でも、中の名前は、はっきり分かりません。受付で確認しましょう。",
+   "sentence_ids": [
+    "C23-D005-S01",
+    "C23-D005-S02",
+    "C23-D005-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 22.49,
+   "end_sec": 30.717,
+   "duration_sec": 8.227
+  },
+  {
+   "turn_id": "C23-D006",
+   "turn_index": 5,
+   "speaker": "ウェン",
+   "source_text": "はい、名前はウェンです。20日はその帽子をかぶって公民館に行きました。家でも探しましたが、ありませんでした。",
+   "sentence_ids": [
+    "C23-D006-S01",
+    "C23-D006-S02",
+    "C23-D006-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 31.067,
+   "end_sec": 39.135,
+   "duration_sec": 8.068
+  },
+  {
+   "turn_id": "C23-D007",
+   "turn_index": 6,
+   "speaker": "森",
+   "source_text": "ウェンさんの帽子だと思います。でも、受付で一緒に確認しましょう。",
+   "sentence_ids": [
+    "C23-D007-S01",
+    "C23-D007-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.485,
+   "end_sec": 44.449,
+   "duration_sec": 4.964
+  },
+  {
+   "turn_id": "C23-D008",
+   "turn_index": 7,
+   "speaker": "ウェン",
+   "source_text": "はい。26日の土曜日、10時に受付に行ってもいいですか。",
+   "sentence_ids": [
+    "C23-D008-S01",
+    "C23-D008-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 44.799,
+   "end_sec": 49.589,
+   "duration_sec": 4.79
+  },
+  {
+   "turn_id": "C23-D009",
+   "turn_index": 8,
+   "speaker": "森",
+   "source_text": "はい。受付で名前を言ってください。その日に帽子を見て、確認しましょう。",
+   "sentence_ids": [
+    "C23-D009-S01",
+    "C23-D009-S02",
+    "C23-D009-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 49.939,
+   "end_sec": 55.394,
+   "duration_sec": 5.455
+  },
+  {
+   "turn_id": "C23-D010",
+   "turn_index": 9,
+   "speaker": "ウェン",
+   "source_text": "ありがとうございます。写真散歩の変更も読みました。26日は公園の工事の日なんですね。",
+   "sentence_ids": [
+    "C23-D010-S01",
+    "C23-D010-S02",
+    "C23-D010-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 55.744,
+   "end_sec": 64.393,
+   "duration_sec": 8.649
+  },
+  {
+   "turn_id": "C23-D011",
+   "turn_index": 10,
+   "speaker": "森",
+   "source_text": "はい。写真散歩は10月3日の9時から11時までです。公民館の前に来てください。",
+   "sentence_ids": [
+    "C23-D011-S01",
+    "C23-D011-S02",
+    "C23-D011-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 64.743,
+   "end_sec": 72.066,
+   "duration_sec": 7.323
+  },
+  {
+   "turn_id": "C23-D012",
+   "turn_index": 11,
+   "speaker": "ウェン",
+   "source_text": "わたしは大丈夫です。同僚の田村さんも行きたいと言っていましたが、3日の都合はまだ聞いていません。",
+   "sentence_ids": [
+    "C23-D012-S01",
+    "C23-D012-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 72.416,
+   "end_sec": 80.148,
+   "duration_sec": 7.732
+  },
+  {
+   "turn_id": "C23-D013",
+   "turn_index": 12,
+   "speaker": "森",
+   "source_text": "分かりました。田村さんの予定も確認してください。都合がよくない人は、電話で連絡してもいいです。",
+   "sentence_ids": [
+    "C23-D013-S01",
+    "C23-D013-S02",
+    "C23-D013-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.498,
+   "end_sec": 87.979,
+   "duration_sec": 7.481
+  },
+  {
+   "turn_id": "C23-D014",
+   "turn_index": 13,
+   "speaker": "ウェン",
+   "source_text": "はい。4日の釣りも確認したいんです。雨の日も釣りをしますか。",
+   "sentence_ids": [
+    "C23-D014-S01",
+    "C23-D014-S02",
+    "C23-D014-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 88.329,
+   "end_sec": 94.643,
+   "duration_sec": 6.314
+  },
+  {
+   "turn_id": "C23-D015",
+   "turn_index": 14,
+   "speaker": "森",
+   "source_text": "雨の日の予定はまだ決めていません。4日に釣りがあるかどうか、3日に電話で確認してください。",
+   "sentence_ids": [
+    "C23-D015-S01",
+    "C23-D015-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 94.993,
+   "end_sec": 102.646,
+   "duration_sec": 7.653
+  },
+  {
+   "turn_id": "C23-D016",
+   "turn_index": 15,
+   "speaker": "ウェン",
+   "source_text": "分かりました。3日に電話をします。まず、26日の10時に帽子を確認しに行きます。",
+   "sentence_ids": [
+    "C23-D016-S01",
+    "C23-D016-S02",
+    "C23-D016-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 102.996,
+   "end_sec": 110.543,
+   "duration_sec": 7.547
+  },
+  {
+   "turn_id": "C23-D017",
+   "turn_index": 16,
+   "speaker": "田村",
+   "source_text": "ウェンさん、帽子はありましたか。20日は家に帰った後で探していましたね。",
+   "sentence_ids": [
+    "C23-D017-S01",
+    "C23-D017-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 111.443,
+   "end_sec": 116.586,
+   "duration_sec": 5.143
+  },
+  {
+   "turn_id": "C23-D018",
+   "turn_index": 17,
+   "speaker": "ウェン",
+   "source_text": "受付には紺色の帽子があります。森さんは「ウェンさんの帽子だと思います」と言いました。でも、わたしはまだ見ていません。",
+   "sentence_ids": [
+    "C23-D018-S01",
+    "C23-D018-S02",
+    "C23-D018-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 116.936,
+   "end_sec": 125.676,
+   "duration_sec": 8.74
+  },
+  {
+   "turn_id": "C23-D019",
+   "turn_index": 18,
+   "speaker": "田村",
+   "source_text": "そうですか。では、まだウェンさんの帽子かどうかは分からないんですね。いつ見に行きますか。",
+   "sentence_ids": [
+    "C23-D019-S01",
+    "C23-D019-S02",
+    "C23-D019-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 126.026,
+   "end_sec": 132.342,
+   "duration_sec": 6.316
+  },
+  {
+   "turn_id": "C23-D020",
+   "turn_index": 19,
+   "speaker": "ウェン",
+   "source_text": "はい。土曜日に確認します。それから、写真散歩が10月3日に延期なんです。3日は都合がいいですか。",
+   "sentence_ids": [
+    "C23-D020-S01",
+    "C23-D020-S02",
+    "C23-D020-S03",
+    "C23-D020-S04"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 132.692,
+   "end_sec": 141.597,
+   "duration_sec": 8.905
+  },
+  {
+   "turn_id": "C23-D021",
+   "turn_index": 20,
+   "speaker": "田村",
+   "source_text": "3日は家族の用事を手伝う約束があるんです。どうして延期なんですか。",
+   "sentence_ids": [
+    "C23-D021-S01",
+    "C23-D021-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 141.947,
+   "end_sec": 146.669,
+   "duration_sec": 4.722
+  },
+  {
+   "turn_id": "C23-D022",
+   "turn_index": 21,
+   "speaker": "ウェン",
+   "source_text": "26日は公園の工事の日だからです。わたしは受付の連絡を読みました。3日に行きます。",
+   "sentence_ids": [
+    "C23-D022-S01",
+    "C23-D022-S02",
+    "C23-D022-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 147.019,
+   "end_sec": 155.156,
+   "duration_sec": 8.137
+  },
+  {
+   "turn_id": "C23-D023",
+   "turn_index": 22,
+   "speaker": "田村",
+   "source_text": "では、わたしは写真散歩をキャンセルします。土曜日に受付で事情を伝えてください。",
+   "sentence_ids": [
+    "C23-D023-S01",
+    "C23-D023-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 155.506,
+   "end_sec": 160.851,
+   "duration_sec": 5.345
+  },
+  {
+   "turn_id": "C23-D024",
+   "turn_index": 23,
+   "speaker": "ウェン",
+   "source_text": "はい。「田村さんは家族の用事があるので、3日の写真散歩をキャンセルします」と伝えます。",
+   "sentence_ids": [
+    "C23-D024-S01",
+    "C23-D024-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 161.201,
+   "end_sec": 168.265,
+   "duration_sec": 7.064
+  },
+  {
+   "turn_id": "C23-D025",
+   "turn_index": 24,
+   "speaker": "田村",
+   "source_text": "ありがとうございます。一緒に写真を撮りたいと思っていたので、残念です。",
+   "sentence_ids": [
+    "C23-D025-S01",
+    "C23-D025-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 168.615,
+   "end_sec": 174.172,
+   "duration_sec": 5.557
+  },
+  {
+   "turn_id": "C23-D026",
+   "turn_index": 25,
+   "speaker": "ウェン",
+   "source_text": "では、一つ提案があります。4日の日曜日に、釣りに行きませんか。時間は7時から10時までです。",
+   "sentence_ids": [
+    "C23-D026-S01",
+    "C23-D026-S02",
+    "C23-D026-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 174.522,
+   "end_sec": 182.775,
+   "duration_sec": 8.253
+  },
+  {
+   "turn_id": "C23-D027",
+   "turn_index": 26,
+   "speaker": "田村",
+   "source_text": "4日の朝ですね。家族の意見も聞きたいです。今日の夜、相談して、明日返事をします。",
+   "sentence_ids": [
+    "C23-D027-S01",
+    "C23-D027-S02",
+    "C23-D027-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 183.125,
+   "end_sec": 189.923,
+   "duration_sec": 6.798
+  },
+  {
+   "turn_id": "C23-D028",
+   "turn_index": 27,
+   "speaker": "ウェン",
+   "source_text": "分かりました。わたしも行きたいです。20日は初めての釣りでしたが、とても楽しかったです。",
+   "sentence_ids": [
+    "C23-D028-S01",
+    "C23-D028-S02",
+    "C23-D028-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 190.273,
+   "end_sec": 196.772,
+   "duration_sec": 6.499
+  },
+  {
+   "turn_id": "C23-D029",
+   "turn_index": 28,
+   "speaker": "田村",
+   "source_text": "海の写真も撮りましたね。旅行で釣りをしたことはありませんでしたか。",
+   "sentence_ids": [
+    "C23-D029-S01",
+    "C23-D029-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 197.122,
+   "end_sec": 201.862,
+   "duration_sec": 4.74
+  },
+  {
+   "turn_id": "C23-D030",
+   "turn_index": 29,
+   "speaker": "ウェン",
+   "source_text": "はい、ありませんでした。旅行では山に登ったことがあります。写真を撮るのが好きなので、山の写真を集めています。",
+   "sentence_ids": [
+    "C23-D030-S01",
+    "C23-D030-S02",
+    "C23-D030-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 202.212,
+   "end_sec": 211.201,
+   "duration_sec": 8.989
+  },
+  {
+   "turn_id": "C23-D031",
+   "turn_index": 30,
+   "speaker": "田村",
+   "source_text": "わたしは釣りには何度も行きました。でも、山には登ったことがありません。山の写真も見たいです。",
+   "sentence_ids": [
+    "C23-D031-S01",
+    "C23-D031-S02",
+    "C23-D031-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 211.551,
+   "end_sec": 218.816,
+   "duration_sec": 7.265
+  },
+  {
+   "turn_id": "C23-D032",
+   "turn_index": 31,
+   "speaker": "ウェン",
+   "source_text": "では、明日、会社で写真を見ましょう。4日も釣りをしたり、写真を撮ったりしたいです。",
+   "sentence_ids": [
+    "C23-D032-S01",
+    "C23-D032-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 219.166,
+   "end_sec": 225.065,
+   "duration_sec": 5.899
+  },
+  {
+   "turn_id": "C23-D033",
+   "turn_index": 32,
+   "speaker": "田村",
+   "source_text": "いいですね。4日は雨ですか。雨の日の釣りは、わたしも経験がありません。",
+   "sentence_ids": [
+    "C23-D033-S01",
+    "C23-D033-S02",
+    "C23-D033-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 225.415,
+   "end_sec": 231.715,
+   "duration_sec": 6.3
+  },
+  {
+   "turn_id": "C23-D034",
+   "turn_index": 33,
+   "speaker": "ウェン",
+   "source_text": "天気はまだ分かりません。雨の日の予定も決めていないと言っていました。3日に電話で確認します。",
+   "sentence_ids": [
+    "C23-D034-S01",
+    "C23-D034-S02",
+    "C23-D034-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 232.065,
+   "end_sec": 239.212,
+   "duration_sec": 7.147
+  },
+  {
+   "turn_id": "C23-D035",
+   "turn_index": 34,
+   "speaker": "田村",
+   "source_text": "昨日の返事です。家族と話しました。4日の朝は大丈夫です。一緒に釣りに行きましょう。",
+   "sentence_ids": [
+    "C23-D035-S01",
+    "C23-D035-S02",
+    "C23-D035-S03",
+    "C23-D035-S04"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 240.112,
+   "end_sec": 246.451,
+   "duration_sec": 6.339
+  },
+  {
+   "turn_id": "C23-D036",
+   "turn_index": 35,
+   "speaker": "ウェン",
+   "source_text": "ありがとうございます。では、3日に電話で4日の釣りを確認して、それから連絡します。",
+   "sentence_ids": [
+    "C23-D036-S01",
+    "C23-D036-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 246.801,
+   "end_sec": 253.587,
+   "duration_sec": 6.786
+  },
+  {
+   "turn_id": "C23-D037",
+   "turn_index": 36,
+   "speaker": "田村",
+   "source_text": "お願いします。3日の写真散歩のキャンセルは、いつ伝えますか。釣りの確認も3日なので、少し心配です。",
+   "sentence_ids": [
+    "C23-D037-S01",
+    "C23-D037-S02",
+    "C23-D037-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 253.937,
+   "end_sec": 262.005,
+   "duration_sec": 8.068
+  },
+  {
+   "turn_id": "C23-D038",
+   "turn_index": 37,
+   "speaker": "ウェン",
+   "source_text": "キャンセルの連絡は明日、26日にします。釣りの確認は3日です。まず、予定をノートに書きます。",
+   "sentence_ids": [
+    "C23-D038-S01",
+    "C23-D038-S02",
+    "C23-D038-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 262.355,
+   "end_sec": 271.774,
+   "duration_sec": 9.419
+  },
+  {
+   "turn_id": "C23-D039",
+   "turn_index": 38,
+   "speaker": "田村",
+   "source_text": "分かりました。では、3日の連絡を待っています。まだ釣りがあるかどうかは分からないんですね。",
+   "sentence_ids": [
+    "C23-D039-S01",
+    "C23-D039-S02",
+    "C23-D039-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 272.124,
+   "end_sec": 277.934,
+   "duration_sec": 5.81
+  },
+  {
+   "turn_id": "C23-D040",
+   "turn_index": 39,
+   "speaker": "ウェン",
+   "source_text": "はい。4日に行く前に確認します。明日は、帽子の名前も見ます。",
+   "sentence_ids": [
+    "C23-D040-S01",
+    "C23-D040-S02",
+    "C23-D040-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 278.284,
+   "end_sec": 284.609,
+   "duration_sec": 6.325
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C23-D001-S01",
+   "unit_id": "C23-D001",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい、港公民館の受付です。",
+   "start_sec": 0.0,
+   "end_sec": 2.125,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D002-S01",
+   "unit_id": "C23-D002",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "こんにちは。",
+   "start_sec": 2.475,
+   "end_sec": 3.293,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D002-S02",
+   "unit_id": "C23-D002",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "ウェンです。",
+   "start_sec": 3.443,
+   "end_sec": 4.122,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference",
+    "manual_nonsilent_boundary"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D002-S03",
+   "unit_id": "C23-D002",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "20日の釣りに参加しました。",
+   "start_sec": 4.272,
+   "end_sec": 6.3,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D002-S04",
+   "unit_id": "C23-D002",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "紺色の帽子を探しているんです。",
+   "start_sec": 6.45,
+   "end_sec": 8.751,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D003-S01",
+   "unit_id": "C23-D003",
+   "section": "D",
+   "speaker": "森",
+   "text": "20日はありがとうございました。",
+   "start_sec": 9.101,
+   "end_sec": 11.449,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D003-S02",
+   "unit_id": "C23-D003",
+   "section": "D",
+   "speaker": "森",
+   "text": "教室に紺色の帽子が二つありました。",
+   "start_sec": 11.599,
+   "end_sec": 14.758,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D003-S03",
+   "unit_id": "C23-D003",
+   "section": "D",
+   "speaker": "森",
+   "text": "特徴をお願いします。",
+   "start_sec": 14.908,
+   "end_sec": 16.337,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D004-S01",
+   "unit_id": "C23-D004",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "細いしまの模様があります。",
+   "start_sec": 16.687,
+   "end_sec": 18.951,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D004-S02",
+   "unit_id": "C23-D004",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "中に名前もあります。",
+   "start_sec": 19.101,
+   "end_sec": 20.543,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D004-S03",
+   "unit_id": "C23-D004",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "名前はウェンです。",
+   "start_sec": 20.693,
+   "end_sec": 22.14,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D005-S01",
+   "unit_id": "C23-D005",
+   "section": "D",
+   "speaker": "森",
+   "text": "この帽子には細いしまがあります。",
+   "start_sec": 22.49,
+   "end_sec": 25.575,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D005-S02",
+   "unit_id": "C23-D005",
+   "section": "D",
+   "speaker": "森",
+   "text": "でも、中の名前は、はっきり分かりません。",
+   "start_sec": 25.725,
+   "end_sec": 29.025,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D005-S03",
+   "unit_id": "C23-D005",
+   "section": "D",
+   "speaker": "森",
+   "text": "受付で確認しましょう。",
+   "start_sec": 29.175,
+   "end_sec": 30.717,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D006-S01",
+   "unit_id": "C23-D006",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "はい、名前はウェンです。",
+   "start_sec": 31.067,
+   "end_sec": 32.763,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D006-S02",
+   "unit_id": "C23-D006",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "20日はその帽子をかぶって公民館に行きました。",
+   "start_sec": 32.913,
+   "end_sec": 36.205,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D006-S03",
+   "unit_id": "C23-D006",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "家でも探しましたが、ありませんでした。",
+   "start_sec": 36.355,
+   "end_sec": 39.135,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D007-S01",
+   "unit_id": "C23-D007",
+   "section": "D",
+   "speaker": "森",
+   "text": "ウェンさんの帽子だと思います。",
+   "start_sec": 39.485,
+   "end_sec": 41.726,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D007-S02",
+   "unit_id": "C23-D007",
+   "section": "D",
+   "speaker": "森",
+   "text": "でも、受付で一緒に確認しましょう。",
+   "start_sec": 41.876,
+   "end_sec": 44.449,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D008-S01",
+   "unit_id": "C23-D008",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "はい。",
+   "start_sec": 44.799,
+   "end_sec": 45.56,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D008-S02",
+   "unit_id": "C23-D008",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "26日の土曜日、10時に受付に行ってもいいですか。",
+   "start_sec": 45.71,
+   "end_sec": 49.589,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D009-S01",
+   "unit_id": "C23-D009",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい。",
+   "start_sec": 49.939,
+   "end_sec": 50.639,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D009-S02",
+   "unit_id": "C23-D009",
+   "section": "D",
+   "speaker": "森",
+   "text": "受付で名前を言ってください。",
+   "start_sec": 50.789,
+   "end_sec": 52.724,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D009-S03",
+   "unit_id": "C23-D009",
+   "section": "D",
+   "speaker": "森",
+   "text": "その日に帽子を見て、確認しましょう。",
+   "start_sec": 52.874,
+   "end_sec": 55.394,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D010-S01",
+   "unit_id": "C23-D010",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "ありがとうございます。",
+   "start_sec": 55.744,
+   "end_sec": 57.407,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D010-S02",
+   "unit_id": "C23-D010",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "写真散歩の変更も読みました。",
+   "start_sec": 57.557,
+   "end_sec": 60.241,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D010-S03",
+   "unit_id": "C23-D010",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "26日は公園の工事の日なんですね。",
+   "start_sec": 60.391,
+   "end_sec": 64.393,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D011-S01",
+   "unit_id": "C23-D011",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい。",
+   "start_sec": 64.743,
+   "end_sec": 65.359,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D011-S02",
+   "unit_id": "C23-D011",
+   "section": "D",
+   "speaker": "森",
+   "text": "写真散歩は10月3日の9時から11時までです。",
+   "start_sec": 65.509,
+   "end_sec": 70.028,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D011-S03",
+   "unit_id": "C23-D011",
+   "section": "D",
+   "speaker": "森",
+   "text": "公民館の前に来てください。",
+   "start_sec": 70.178,
+   "end_sec": 72.066,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D012-S01",
+   "unit_id": "C23-D012",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "わたしは大丈夫です。",
+   "start_sec": 72.416,
+   "end_sec": 74.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D012-S02",
+   "unit_id": "C23-D012",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "同僚の田村さんも行きたいと言っていましたが、3日の都合はまだ聞いていません。",
+   "start_sec": 74.594,
+   "end_sec": 80.148,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D013-S01",
+   "unit_id": "C23-D013",
+   "section": "D",
+   "speaker": "森",
+   "text": "分かりました。",
+   "start_sec": 80.498,
+   "end_sec": 81.616,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D013-S02",
+   "unit_id": "C23-D013",
+   "section": "D",
+   "speaker": "森",
+   "text": "田村さんの予定も確認してください。",
+   "start_sec": 81.766,
+   "end_sec": 84.314,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D013-S03",
+   "unit_id": "C23-D013",
+   "section": "D",
+   "speaker": "森",
+   "text": "都合がよくない人は、電話で連絡してもいいです。",
+   "start_sec": 84.464,
+   "end_sec": 87.979,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D014-S01",
+   "unit_id": "C23-D014",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "はい。",
+   "start_sec": 88.329,
+   "end_sec": 89.45,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D014-S02",
+   "unit_id": "C23-D014",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "4日の釣りも確認したいんです。",
+   "start_sec": 89.6,
+   "end_sec": 92.269,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D014-S03",
+   "unit_id": "C23-D014",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "雨の日も釣りをしますか。",
+   "start_sec": 92.419,
+   "end_sec": 94.643,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D015-S01",
+   "unit_id": "C23-D015",
+   "section": "D",
+   "speaker": "森",
+   "text": "雨の日の予定はまだ決めていません。",
+   "start_sec": 94.993,
+   "end_sec": 97.621,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D015-S02",
+   "unit_id": "C23-D015",
+   "section": "D",
+   "speaker": "森",
+   "text": "4日に釣りがあるかどうか、3日に電話で確認してください。",
+   "start_sec": 97.771,
+   "end_sec": 102.646,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D016-S01",
+   "unit_id": "C23-D016",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "分かりました。",
+   "start_sec": 102.996,
+   "end_sec": 104.264,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D016-S02",
+   "unit_id": "C23-D016",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "3日に電話をします。",
+   "start_sec": 104.414,
+   "end_sec": 106.077,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D016-S03",
+   "unit_id": "C23-D016",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "まず、26日の10時に帽子を確認しに行きます。",
+   "start_sec": 106.227,
+   "end_sec": 110.543,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D017-S01",
+   "unit_id": "C23-D017",
+   "section": "D",
+   "speaker": "田村",
+   "text": "ウェンさん、帽子はありましたか。",
+   "start_sec": 111.443,
+   "end_sec": 113.651,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D017-S02",
+   "unit_id": "C23-D017",
+   "section": "D",
+   "speaker": "田村",
+   "text": "20日は家に帰った後で探していましたね。",
+   "start_sec": 113.801,
+   "end_sec": 116.586,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D018-S01",
+   "unit_id": "C23-D018",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "受付には紺色の帽子があります。",
+   "start_sec": 116.936,
+   "end_sec": 119.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D018-S02",
+   "unit_id": "C23-D018",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "森さんは「ウェンさんの帽子だと思います」と言いました。",
+   "start_sec": 119.965,
+   "end_sec": 123.455,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D018-S03",
+   "unit_id": "C23-D018",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "でも、わたしはまだ見ていません。",
+   "start_sec": 123.605,
+   "end_sec": 125.676,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D019-S01",
+   "unit_id": "C23-D019",
+   "section": "D",
+   "speaker": "田村",
+   "text": "そうですか。",
+   "start_sec": 126.026,
+   "end_sec": 127.274,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D019-S02",
+   "unit_id": "C23-D019",
+   "section": "D",
+   "speaker": "田村",
+   "text": "では、まだウェンさんの帽子かどうかは分からないんですね。",
+   "start_sec": 127.424,
+   "end_sec": 130.786,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D019-S03",
+   "unit_id": "C23-D019",
+   "section": "D",
+   "speaker": "田村",
+   "text": "いつ見に行きますか。",
+   "start_sec": 130.936,
+   "end_sec": 132.342,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D020-S01",
+   "unit_id": "C23-D020",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "はい。",
+   "start_sec": 132.692,
+   "end_sec": 133.383,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D020-S02",
+   "unit_id": "C23-D020",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "土曜日に確認します。",
+   "start_sec": 133.533,
+   "end_sec": 135.314,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D020-S03",
+   "unit_id": "C23-D020",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "それから、写真散歩が10月3日に延期なんです。",
+   "start_sec": 135.464,
+   "end_sec": 139.569,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D020-S04",
+   "unit_id": "C23-D020",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "3日は都合がいいですか。",
+   "start_sec": 139.719,
+   "end_sec": 141.597,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D021-S01",
+   "unit_id": "C23-D021",
+   "section": "D",
+   "speaker": "田村",
+   "text": "3日は家族の用事を手伝う約束があるんです。",
+   "start_sec": 141.947,
+   "end_sec": 144.948,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D021-S02",
+   "unit_id": "C23-D021",
+   "section": "D",
+   "speaker": "田村",
+   "text": "どうして延期なんですか。",
+   "start_sec": 145.098,
+   "end_sec": 146.669,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D022-S01",
+   "unit_id": "C23-D022",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "26日は公園の工事の日だからです。",
+   "start_sec": 147.019,
+   "end_sec": 150.761,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D022-S02",
+   "unit_id": "C23-D022",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "わたしは受付の連絡を読みました。",
+   "start_sec": 150.911,
+   "end_sec": 153.606,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D022-S03",
+   "unit_id": "C23-D022",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "3日に行きます。",
+   "start_sec": 153.756,
+   "end_sec": 155.156,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D023-S01",
+   "unit_id": "C23-D023",
+   "section": "D",
+   "speaker": "田村",
+   "text": "では、わたしは写真散歩をキャンセルします。",
+   "start_sec": 155.506,
+   "end_sec": 158.315,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D023-S02",
+   "unit_id": "C23-D023",
+   "section": "D",
+   "speaker": "田村",
+   "text": "土曜日に受付で事情を伝えてください。",
+   "start_sec": 158.465,
+   "end_sec": 160.851,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D024-S01",
+   "unit_id": "C23-D024",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "はい。",
+   "start_sec": 161.201,
+   "end_sec": 162.473,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D024-S02",
+   "unit_id": "C23-D024",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "「田村さんは家族の用事があるので、3日の写真散歩をキャンセルします」と伝えます。",
+   "start_sec": 162.623,
+   "end_sec": 168.265,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D025-S01",
+   "unit_id": "C23-D025",
+   "section": "D",
+   "speaker": "田村",
+   "text": "ありがとうございます。",
+   "start_sec": 168.615,
+   "end_sec": 170.238,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D025-S02",
+   "unit_id": "C23-D025",
+   "section": "D",
+   "speaker": "田村",
+   "text": "一緒に写真を撮りたいと思っていたので、残念です。",
+   "start_sec": 170.388,
+   "end_sec": 174.172,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D026-S01",
+   "unit_id": "C23-D026",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "では、一つ提案があります。",
+   "start_sec": 174.522,
+   "end_sec": 176.827,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D026-S02",
+   "unit_id": "C23-D026",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "4日の日曜日に、釣りに行きませんか。",
+   "start_sec": 176.977,
+   "end_sec": 179.937,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D026-S03",
+   "unit_id": "C23-D026",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "時間は7時から10時までです。",
+   "start_sec": 180.087,
+   "end_sec": 182.775,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D027-S01",
+   "unit_id": "C23-D027",
+   "section": "D",
+   "speaker": "田村",
+   "text": "4日の朝ですね。",
+   "start_sec": 183.125,
+   "end_sec": 185.066,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D027-S02",
+   "unit_id": "C23-D027",
+   "section": "D",
+   "speaker": "田村",
+   "text": "家族の意見も聞きたいです。",
+   "start_sec": 185.216,
+   "end_sec": 186.967,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D027-S03",
+   "unit_id": "C23-D027",
+   "section": "D",
+   "speaker": "田村",
+   "text": "今日の夜、相談して、明日返事をします。",
+   "start_sec": 187.117,
+   "end_sec": 189.923,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D028-S01",
+   "unit_id": "C23-D028",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "分かりました。",
+   "start_sec": 190.273,
+   "end_sec": 191.29,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D028-S02",
+   "unit_id": "C23-D028",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "わたしも行きたいです。",
+   "start_sec": 191.44,
+   "end_sec": 192.918,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D028-S03",
+   "unit_id": "C23-D028",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "20日は初めての釣りでしたが、とても楽しかったです。",
+   "start_sec": 193.068,
+   "end_sec": 196.772,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D029-S01",
+   "unit_id": "C23-D029",
+   "section": "D",
+   "speaker": "田村",
+   "text": "海の写真も撮りましたね。",
+   "start_sec": 197.122,
+   "end_sec": 199.129,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D029-S02",
+   "unit_id": "C23-D029",
+   "section": "D",
+   "speaker": "田村",
+   "text": "旅行で釣りをしたことはありませんでしたか。",
+   "start_sec": 199.279,
+   "end_sec": 201.862,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D030-S01",
+   "unit_id": "C23-D030",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "はい、ありませんでした。",
+   "start_sec": 202.212,
+   "end_sec": 204.565,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D030-S02",
+   "unit_id": "C23-D030",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "旅行では山に登ったことがあります。",
+   "start_sec": 204.715,
+   "end_sec": 207.537,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D030-S03",
+   "unit_id": "C23-D030",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "写真を撮るのが好きなので、山の写真を集めています。",
+   "start_sec": 207.687,
+   "end_sec": 211.201,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D031-S01",
+   "unit_id": "C23-D031",
+   "section": "D",
+   "speaker": "田村",
+   "text": "わたしは釣りには何度も行きました。",
+   "start_sec": 211.551,
+   "end_sec": 214.012,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D031-S02",
+   "unit_id": "C23-D031",
+   "section": "D",
+   "speaker": "田村",
+   "text": "でも、山には登ったことがありません。",
+   "start_sec": 214.162,
+   "end_sec": 217.011,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D031-S03",
+   "unit_id": "C23-D031",
+   "section": "D",
+   "speaker": "田村",
+   "text": "山の写真も見たいです。",
+   "start_sec": 217.161,
+   "end_sec": 218.816,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D032-S01",
+   "unit_id": "C23-D032",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "では、明日、会社で写真を見ましょう。",
+   "start_sec": 219.166,
+   "end_sec": 221.83,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D032-S02",
+   "unit_id": "C23-D032",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "4日も釣りをしたり、写真を撮ったりしたいです。",
+   "start_sec": 221.98,
+   "end_sec": 225.065,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D033-S01",
+   "unit_id": "C23-D033",
+   "section": "D",
+   "speaker": "田村",
+   "text": "いいですね。",
+   "start_sec": 225.415,
+   "end_sec": 226.635,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D033-S02",
+   "unit_id": "C23-D033",
+   "section": "D",
+   "speaker": "田村",
+   "text": "4日は雨ですか。",
+   "start_sec": 226.785,
+   "end_sec": 228.565,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D033-S03",
+   "unit_id": "C23-D033",
+   "section": "D",
+   "speaker": "田村",
+   "text": "雨の日の釣りは、わたしも経験がありません。",
+   "start_sec": 228.715,
+   "end_sec": 231.715,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D034-S01",
+   "unit_id": "C23-D034",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "天気はまだ分かりません。",
+   "start_sec": 232.065,
+   "end_sec": 234.216,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D034-S02",
+   "unit_id": "C23-D034",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "雨の日の予定も決めていないと言っていました。",
+   "start_sec": 234.366,
+   "end_sec": 237.05,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D034-S03",
+   "unit_id": "C23-D034",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "3日に電話で確認します。",
+   "start_sec": 237.2,
+   "end_sec": 239.212,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D035-S01",
+   "unit_id": "C23-D035",
+   "section": "D",
+   "speaker": "田村",
+   "text": "昨日の返事です。",
+   "start_sec": 240.112,
+   "end_sec": 241.346,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D035-S02",
+   "unit_id": "C23-D035",
+   "section": "D",
+   "speaker": "田村",
+   "text": "家族と話しました。",
+   "start_sec": 241.496,
+   "end_sec": 242.85,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D035-S03",
+   "unit_id": "C23-D035",
+   "section": "D",
+   "speaker": "田村",
+   "text": "4日の朝は大丈夫です。",
+   "start_sec": 243.0,
+   "end_sec": 244.959,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D035-S04",
+   "unit_id": "C23-D035",
+   "section": "D",
+   "speaker": "田村",
+   "text": "一緒に釣りに行きましょう。",
+   "start_sec": 245.109,
+   "end_sec": 246.451,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D036-S01",
+   "unit_id": "C23-D036",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "ありがとうございます。",
+   "start_sec": 246.801,
+   "end_sec": 248.492,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D036-S02",
+   "unit_id": "C23-D036",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "では、3日に電話で4日の釣りを確認して、それから連絡します。",
+   "start_sec": 248.642,
+   "end_sec": 253.587,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D037-S01",
+   "unit_id": "C23-D037",
+   "section": "D",
+   "speaker": "田村",
+   "text": "お願いします。",
+   "start_sec": 253.937,
+   "end_sec": 255.024,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D037-S02",
+   "unit_id": "C23-D037",
+   "section": "D",
+   "speaker": "田村",
+   "text": "3日の写真散歩のキャンセルは、いつ伝えますか。",
+   "start_sec": 255.174,
+   "end_sec": 258.586,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D037-S03",
+   "unit_id": "C23-D037",
+   "section": "D",
+   "speaker": "田村",
+   "text": "釣りの確認も3日なので、少し心配です。",
+   "start_sec": 258.736,
+   "end_sec": 262.005,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D038-S01",
+   "unit_id": "C23-D038",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "キャンセルの連絡は明日、26日にします。",
+   "start_sec": 262.355,
+   "end_sec": 266.463,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D038-S02",
+   "unit_id": "C23-D038",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "釣りの確認は3日です。",
+   "start_sec": 266.613,
+   "end_sec": 269.114,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D038-S03",
+   "unit_id": "C23-D038",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "まず、予定をノートに書きます。",
+   "start_sec": 269.264,
+   "end_sec": 271.774,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D039-S01",
+   "unit_id": "C23-D039",
+   "section": "D",
+   "speaker": "田村",
+   "text": "分かりました。",
+   "start_sec": 272.124,
+   "end_sec": 273.1,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D039-S02",
+   "unit_id": "C23-D039",
+   "section": "D",
+   "speaker": "田村",
+   "text": "では、3日の連絡を待っています。",
+   "start_sec": 273.25,
+   "end_sec": 275.259,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D039-S03",
+   "unit_id": "C23-D039",
+   "section": "D",
+   "speaker": "田村",
+   "text": "まだ釣りがあるかどうかは分からないんですね。",
+   "start_sec": 275.409,
+   "end_sec": 277.934,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D040-S01",
+   "unit_id": "C23-D040",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "はい。",
+   "start_sec": 278.284,
+   "end_sec": 279.501,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D040-S02",
+   "unit_id": "C23-D040",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "4日に行く前に確認します。",
+   "start_sec": 279.651,
+   "end_sec": 281.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C23-D040-S03",
+   "unit_id": "C23-D040",
+   "section": "D",
+   "speaker": "ウェン",
+   "text": "明日は、帽子の名前も見ます。",
+   "start_sec": 281.965,
+   "end_sec": 284.609,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

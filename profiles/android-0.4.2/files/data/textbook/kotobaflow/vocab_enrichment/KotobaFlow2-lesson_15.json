@@ -1,0 +1,7655 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_15",
+  "entries": [
+    {
+      "textbook_uid": "cfv-e4b17769df105dfd",
+      "index": 2063,
+      "word": "試す",
+      "reading_hiragana": "ためす",
+      "context_meaning_zh": "尝试",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "尝试",
+          "meaning_ja": "実際に行って、よいかどうかを確かめる。",
+          "example_ja": "新しい方法を一週間試しました。",
+          "example_zh": "我试用了一周新方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "方法を試す",
+          "zh": "尝试"
+        }
+      ],
+      "usage_note_zh": "「方法を試す」中「方法」是「試す」的对象，用「を」标记；这是亲自做来确认效果，不等于仅仅考虑或计划。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "试す为五段他动词，方法を是亲自测试的对象；试してみる强调实际尝试确认效果。",
+        "dictionary_sequences": [
+          1312260
+        ],
+        "identity": {
+          "word": "試す",
+          "reading_hiragana": "ためす",
+          "meaning": "尝试"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-40e87a1569ed7642",
+      "index": 2064,
+      "word": "慣れる",
+      "reading_hiragana": "なれる",
+      "context_meaning_zh": "习惯、适应",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "习惯、适应",
+          "meaning_ja": "何度も経験して、特別に意識しなくてもできるようになる。",
+          "example_ja": "新しい生活に少しずつ慣れてきました。",
+          "example_zh": "我渐渐习惯了新生活。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "生活に慣れる",
+          "zh": "习惯、适应"
+        }
+      ],
+      "usage_note_zh": "表示逐渐熟悉某种环境时，熟悉的对象用「に」（生活に慣れる）；「慣れる」是不及物动词，与使人适应的「慣らす」区分。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "不习惯早起导致散步只持续三天，慣れる表示逐渐适应；词典标一段自动词，对象用に而非直接宾语。",
+        "dictionary_sequences": [
+          1212670
+        ],
+        "identity": {
+          "word": "慣れる",
+          "reading_hiragana": "なれる",
+          "meaning": "习惯、适应"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-df9f3959ac250c1d",
+      "index": 2065,
+      "word": "続く",
+      "reading_hiragana": "つづく",
+      "context_meaning_zh": "持续",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "持续",
+          "meaning_ja": "同じ状態が途中で終わらず保たれる。",
+          "example_ja": "雨は夕方まで続くそうです。",
+          "example_zh": "听说雨会一直下到傍晚。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "雨が続く",
+          "zh": "持续"
+        }
+      ],
+      "usage_note_zh": "表示某事物持续时，持续的主体用「が」（雨が続く）；若由人继续某项活动，则用他动词「続ける」并以「を」标活动。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "散步仅持续三天，时间长度作主语；JMdict将“続く”列为五段く不及物动词。",
+        "dictionary_sequences": [
+          1405790
+        ],
+        "identity": {
+          "word": "続く",
+          "reading_hiragana": "つづく",
+          "meaning": "持续"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e779fe86957baa79",
+      "index": 2066,
+      "word": "変わる",
+      "reading_hiragana": "かわる",
+      "context_meaning_zh": "变化",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "变化",
+          "meaning_ja": "前と同じではなくなり、別の状態になる。",
+          "example_ja": "毎日練習すると、走る速さが変わります。",
+          "example_zh": "每天练习，跑步速度会发生变化。"
+        },
+        {
+          "meaning_zh": "別の人や物に交替する。",
+          "meaning_ja": "前に担当していた人や物の代わりに、別のものが担当する。",
+          "example_ja": "来月から担当の先生が変わります。",
+          "example_zh": "从下个月起，负责的老师会换人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "様子が変わる",
+          "zh": "变化"
+        }
+      ],
+      "usage_note_zh": "「変わる」表示状态自行发生变化，变化对象常用「が」；主动改变某物则用他动词「変える」，对象用「を」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "体力是否改变由变化后的状态判断，变わる为五段自动词。",
+        "dictionary_sequences": [
+          1510790
+        ],
+        "identity": {
+          "word": "変わる",
+          "reading_hiragana": "かわる",
+          "meaning": "变化"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-07d4268e7567efc7",
+      "index": 2067,
+      "word": "増える",
+      "reading_hiragana": "ふえる",
+      "context_meaning_zh": "增加",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "增加",
+          "meaning_ja": "数や量が前より多くなる。",
+          "example_ja": "春になると、この公園の花が増えます。",
+          "example_zh": "到了春天，这座公园里的花会变多。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "数が増える",
+          "zh": "增加"
+        }
+      ],
+      "usage_note_zh": "数量或程度增加时用「増える」，增加的对象作「が」主语；人为增加某物要用「増やす」，并用「を」标对象。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "外出次数作为主语而增加，词典对应数目变多义；増える是下一段自动词。",
+        "dictionary_sequences": [
+          1602440
+        ],
+        "identity": {
+          "word": "増える",
+          "reading_hiragana": "ふえる",
+          "meaning": "增加"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-67b08f86cb8597e7",
+      "index": 2068,
+      "word": "減る",
+      "reading_hiragana": "へる",
+      "context_meaning_zh": "减少",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "减少",
+          "meaning_ja": "数や量が前より少なくなる。",
+          "example_ja": "駅まで歩けば、交通費が減ります。",
+          "example_zh": "走到车站的话，交通费会减少。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "量が減る",
+          "zh": "减少"
+        }
+      ],
+      "usage_note_zh": "表示数量自然减少时用「減る」，减少的对象用「が」；主动削减某物则用「減らす」并接「を」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "朝の負担が减轻是数量／程度变少；JMdict 1263120标五段自动词。",
+        "dictionary_sequences": [
+          1263120
+        ],
+        "identity": {
+          "word": "減る",
+          "reading_hiragana": "へる",
+          "meaning": "减少"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8567aca8db2359b6",
+      "index": 2069,
+      "word": "習慣",
+      "reading_hiragana": "しゅうかん",
+      "context_meaning_zh": "习惯",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "习惯",
+          "meaning_ja": "くり返して行ううちに、いつものやり方になったこと。",
+          "example_ja": "寝る前に本を読む習慣があります。",
+          "example_zh": "我有睡前读书的习惯。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "習慣になる",
+          "zh": "习惯"
+        }
+      ],
+      "usage_note_zh": "常说「習慣になる」（成为习惯）或「習慣をつける」（养成习惯）；前者用「に」标变化结果，后者用「を」标养成对象。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "習慣指反复养成的习惯，本例以散步逐渐成为习惯描述形成过程。",
+        "dictionary_sequences": [
+          1333090
+        ],
+        "identity": {
+          "word": "習慣",
+          "reading_hiragana": "しゅうかん",
+          "meaning": "习惯"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-19aa5555eedd65ae",
+      "index": 2070,
+      "word": "毎週",
+      "reading_hiragana": "まいしゅう",
+      "context_meaning_zh": "每周",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "每周",
+          "meaning_ja": "一週間ごとに同じことをする様子。",
+          "example_ja": "毎週金曜日に友達と料理します。",
+          "example_zh": "我每周五和朋友一起做饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "毎週一回",
+          "zh": "每周"
+        }
+      ],
+      "usage_note_zh": "「毎週」直接放在时间位置修饰动作，通常不加「に」；要说频次，可接「毎週一回」等数量表达。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "每周三次限定步行频率，毎週兼时间名词和副词用法。",
+        "dictionary_sequences": [
+          1524690
+        ],
+        "identity": {
+          "word": "毎週",
+          "reading_hiragana": "まいしゅう",
+          "meaning": "每周"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bc33b5e55c75b9e6",
+      "index": 2071,
+      "word": "記録",
+      "reading_hiragana": "きろく",
+      "context_meaning_zh": "记录",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "记录",
+          "meaning_ja": "あとで分かるように、出来事や数を書き残すこと。",
+          "example_ja": "歩いた時間を手帳に記録しました。",
+          "example_zh": "我把步行时间记在了手册上。"
+        },
+        {
+          "meaning_zh": "競技などで、これまでで最もよい数値や結果。",
+          "meaning_ja": "競技や活動で残された、成績を示す数値や結果。",
+          "example_ja": "彼は大会で新しい記録を作りました。",
+          "example_zh": "他在比赛中创造了新的纪录。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "記録を残す",
+          "zh": "记录"
+        }
+      ],
+      "usage_note_zh": "「記録を取る」表示做记录，「記録に残す」表示把内容留作记录；前者以「を」标记录行为的对象，后者用「に」标保存结果。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "記録する可对成果作记录，词典明确名词及他动サ变；当前句省略宾语但搭配「成果を」可见支配关系。",
+        "dictionary_sequences": [
+          1223440
+        ],
+        "identity": {
+          "word": "記録",
+          "reading_hiragana": "きろく",
+          "meaning": "记录"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6fd4d0bff7f7d2ff",
+      "index": 2072,
+      "word": "達成",
+      "reading_hiragana": "たっせい",
+      "context_meaning_zh": "达成",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "达成",
+          "meaning_ja": "決めていた目標を実現すること。",
+          "example_ja": "今月の目標を予定より早く達成しました。",
+          "example_zh": "我比预定时间更早达成了本月目标。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "目標を達成する",
+          "zh": "达成"
+        }
+      ],
+      "usage_note_zh": "通常说「目標を達成する」，以「を」标达成的目标；「目標が達成される」则把目标放在被实现的位置。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "達成兼有成就名词和する动词用法；每周完成三次的目标由を标记为达成对象。",
+        "dictionary_sequences": [
+          1416260
+        ],
+        "identity": {
+          "word": "達成",
+          "reading_hiragana": "たっせい",
+          "meaning": "达成"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-801280fc66446bef",
+      "index": 2073,
+      "word": "続ける",
+      "reading_hiragana": "つづける",
+      "context_meaning_zh": "继续",
+      "pos_ja": "動詞・助動詞",
+      "pos_zh": "动词・助动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "继续",
+          "meaning_ja": "始めたことをやめずに、さらに行う。",
+          "example_ja": "毎晩、短い日記を書き続けています。",
+          "example_zh": "我每天晚上继续写简短的日记。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "練習を続ける",
+          "zh": "继续"
+        }
+      ],
+      "usage_note_zh": "把某项活动继续下去时，活动用「を」接「続ける」；若句子强调活动本身持续，则改用「活動が続く」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb",
+          "auxiliary"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "继续计划是他动词独立用法，计划为对象；辞书也列其作为补助动词的持续义。",
+        "dictionary_sequences": [
+          1405800
+        ],
+        "identity": {
+          "word": "続ける",
+          "reading_hiragana": "つづける",
+          "meaning": "继续"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0f4ce582a64ca6f4",
+      "index": 2074,
+      "word": "始める",
+      "reading_hiragana": "はじめる",
+      "context_meaning_zh": "开始",
+      "pos_ja": "動詞・動詞型助動詞",
+      "pos_zh": "动词・动词型助动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "开始",
+          "meaning_ja": "それまでしていなかったことに手をつける。",
+          "example_ja": "来週から昼休みに歩き始めます。",
+          "example_zh": "我从下周开始在午休时走路。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "仕事を始める",
+          "zh": "开始"
+        }
+      ],
+      "usage_note_zh": "「仕事を始める」由人开始某事，事项用「を」；「仕事が始まる」表示工作开始这一事件发生，不突出执行者。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [
+          "auxiliary_verb"
+        ],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「朝の散歩を始めました」中的始める表示启动一项活动，是一段他动词；词典还列接动词连用形作辅助动词的用法。",
+        "dictionary_sequences": [
+          1307550
+        ],
+        "identity": {
+          "word": "始める",
+          "reading_hiragana": "はじめる",
+          "meaning": "开始"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ca6ef5fe1d035b5c",
+      "index": 2075,
+      "word": "終わる",
+      "reading_hiragana": "おわる",
+      "context_meaning_zh": "结束",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "结束",
+          "meaning_ja": "続いていたことがそこで止まり最後になる。",
+          "example_ja": "会議は五時に終わりました。",
+          "example_zh": "会议五点结束了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "授業が終わる",
+          "zh": "结束"
+        }
+      ],
+      "usage_note_zh": "「授業が終わる」表示课程自然结束；若强调某人完成一项工作，可用他动词「終える」并以「を」标事项。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本句中事件本身结束，词典同一词条也明确收录完成某事的他动用法；因此词项整体保留自他两用。",
+        "dictionary_sequences": [
+          1589600
+        ],
+        "identity": {
+          "word": "終わる",
+          "reading_hiragana": "おわる",
+          "meaning": "结束"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-12cfc76d90537873",
+      "index": 2076,
+      "word": "直す",
+      "reading_hiragana": "なおす",
+      "context_meaning_zh": "改正、修正",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "改正、修正",
+          "meaning_ja": "よくない所や間違いを正しい状態にする。",
+          "example_ja": "作文の間違いを自分で直しました。",
+          "example_zh": "我自己改正了作文里的错误。"
+        },
+        {
+          "meaning_zh": "壊れた物を使える状態に戻す。",
+          "meaning_ja": "故障した物に手を加えて、また使えるようにする。",
+          "example_ja": "父が壊れた時計を直してくれました。",
+          "example_zh": "父亲帮我修好了坏掉的钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "間違いを直す",
+          "zh": "改正、修正"
+        }
+      ],
+      "usage_note_zh": "改正错误时常说「間違いを直す」，错误用「を」标对象；「直る」是不及物形式，表示问题自行得到修正。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "忙碌一周时调整目标，目标为修正对象；词典另列复合词后缀用法，但本条身份是独立修正动词。",
+        "dictionary_sequences": [
+          1599390
+        ],
+        "identity": {
+          "word": "直す",
+          "reading_hiragana": "なおす",
+          "meaning": "改正、修正"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fba3e98fe0134b55",
+      "index": 2077,
+      "word": "早起き",
+      "reading_hiragana": "はやおき",
+      "context_meaning_zh": "早起",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "早起",
+          "meaning_ja": "いつもより早い時刻に起きること。",
+          "example_ja": "旅行の日は六時に早起きしました。",
+          "example_zh": "旅行那天我六点早起了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "早起きする",
+          "zh": "早起"
+        }
+      ],
+      "usage_note_zh": "「早起きする」是“早起”这一习惯或行动；具体说起床时间可用「早く起きる」，这里「早く」修饰动词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "早起这一习惯可作名词并接する；词典标vs/vi，例句说尚未适应早起活动。",
+        "dictionary_sequences": [
+          1400200
+        ],
+        "identity": {
+          "word": "早起き",
+          "reading_hiragana": "はやおき",
+          "meaning": "早起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a3717b5ec0598da7",
+      "index": 2078,
+      "word": "散歩",
+      "reading_hiragana": "さんぽ",
+      "context_meaning_zh": "散步",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "散步",
+          "meaning_ja": "健康や気分転換のために外を歩くこと。",
+          "example_ja": "夕食のあと近所を散歩しました。",
+          "example_zh": "晚饭后我在附近散了步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "公園を散歩する",
+          "zh": "散步"
+        }
+      ],
+      "usage_note_zh": "说在某个地方散步时，地点常用「を」表示走过的范围（公園を散歩する）；单纯指出地点也可用「で」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课程中「朝の散歩」是名词活动；词典列不及物サ变动词，地点格的 を 可表示路线而非宾语。",
+        "dictionary_sequences": [
+          1303620
+        ],
+        "identity": {
+          "word": "散歩",
+          "reading_hiragana": "さんぽ",
+          "meaning": "散步"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-20fb50f3af839597",
+      "index": 2079,
+      "word": "運動",
+      "reading_hiragana": "うんどう",
+      "context_meaning_zh": "运动",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "运动",
+          "meaning_ja": "体を動かして健康や体力を保つこと。",
+          "example_ja": "雨の日は家で軽い運動をします。",
+          "example_zh": "下雨天我在家做些轻运动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "運動をする",
+          "zh": "运动"
+        }
+      ],
+      "usage_note_zh": "「運動する」可直接作动词；「運動をする」把名词「運動」作为「する」的对象，日常表达中两种形式都自然。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「運動を始める」是名词宾语结构，词本身表示开始锻炼；另可与「する」构成サ变自动词。",
+        "dictionary_sequences": [
+          1172910
+        ],
+        "identity": {
+          "word": "運動",
+          "reading_hiragana": "うんどう",
+          "meaning": "运动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6c236e759ea450f1",
+      "index": 2080,
+      "word": "だんだん",
+      "reading_hiragana": "だんだん",
+      "context_meaning_zh": "逐渐",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "逐渐",
+          "meaning_ja": "変化が一度に起きず、少しずつ進む様子。",
+          "example_ja": "毎日練習すると、漢字がだんだん読めるようになります。",
+          "example_zh": "每天练习的话，汉字会渐渐变得能读。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "だんだん上手になる",
+          "zh": "逐渐进步"
+        }
+      ],
+      "usage_note_zh": "「だんだん」放在变化或状态动词前，强调变化逐步发生；它不表示动作速度快，不能简单等同于「すぐ」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条语境表达变化逐渐发生，匹配词典副词义；不采用同一词条的阶梯名词和感谢感叹词义。",
+        "dictionary_sequences": [
+          1597350
+        ],
+        "identity": {
+          "word": "だんだん",
+          "reading_hiragana": "だんだん",
+          "meaning": "逐渐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-187acef58d81dcce",
+      "index": 2081,
+      "word": "目標",
+      "reading_hiragana": "もくひょう",
+      "context_meaning_zh": "目标",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "目标",
+          "meaning_ja": "これから実現しようと決めたこと。",
+          "example_ja": "今週の目標は毎日十分歩くことです。",
+          "example_zh": "这周的目标是每天走十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "目標を立てる",
+          "zh": "目标"
+        }
+      ],
+      "usage_note_zh": "设定目标说「目標を立てる」，实现目标说「目標を達成する」；两处都用「を」标作为处理对象的目标。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "每周运动次数的目标，语境为设定并达成的基准。",
+        "dictionary_sequences": [
+          1535650
+        ],
+        "identity": {
+          "word": "目標",
+          "reading_hiragana": "もくひょう",
+          "meaning": "目标"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-15fdec57122c6d0b",
+      "index": 2082,
+      "word": "成果",
+      "reading_hiragana": "せいか",
+      "context_meaning_zh": "成果",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "成果",
+          "meaning_ja": "努力や活動をした結果として得られたもの。",
+          "example_ja": "練習の成果が発表会でよく分かりました。",
+          "example_zh": "练习的成果在发表会上清楚地体现了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "成果が出る",
+          "zh": "取得成果"
+        }
+      ],
+      "usage_note_zh": "「成果が出る」强调努力后出现的结果，用「が」标成果；「成果を出す」则强调某人取得成果。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「今日の成果」指当天活动所取得的结果，词典支持成果、努力果实等名词义。",
+        "dictionary_sequences": [
+          1375650
+        ],
+        "identity": {
+          "word": "成果",
+          "reading_hiragana": "せいか",
+          "meaning": "成果"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-60b545663cbd5f79",
+      "index": 2083,
+      "word": "工夫",
+      "reading_hiragana": "くふう",
+      "context_meaning_zh": "想办法、改进办法",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "想办法、改进办法",
+          "meaning_ja": "目的に合うように、方法を考えて変えること。",
+          "example_ja": "荷物を軽くするため、服のたたみ方を工夫しました。",
+          "example_zh": "为了减轻行李，我在叠衣服的方法上动了脑筋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "工夫を凝らす",
+          "zh": "下功夫"
+        }
+      ],
+      "usage_note_zh": "「工夫する／工夫をする」表示想办法调整做法；常用「工夫を凝らす」强调在细节上费心设计。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "工夫可指思考办法这一名词，也可工夫する表示动脑筹划；本例把时间段调整称为一种办法。",
+        "dictionary_sequences": [
+          1278220
+        ],
+        "identity": {
+          "word": "工夫",
+          "reading_hiragana": "くふう",
+          "meaning": "想办法、改进办法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fe4d6248f5878f64",
+      "index": 2084,
+      "word": "改善",
+      "reading_hiragana": "かいぜん",
+      "context_meaning_zh": "改善",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "改善",
+          "meaning_ja": "悪い所を直して前よりよい状態にすること。",
+          "example_ja": "寝る時間を決めて生活を改善しました。",
+          "example_zh": "我固定睡觉时间，改善了生活。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "生活を改善する",
+          "zh": "改善"
+        }
+      ],
+      "usage_note_zh": "「生活を改善する」以「を」标需要改进的对象；若说状态本身改善，可用「生活が改善する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "改善是名词并可接する；词条说明对象を改善する为他动、状态が改善する为自动，例句标题是名词用法。",
+        "dictionary_sequences": [
+          1200960
+        ],
+        "identity": {
+          "word": "改善",
+          "reading_hiragana": "かいぜん",
+          "meaning": "改善"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c066a07c0b5197cb",
+      "index": 2085,
+      "word": "中断",
+      "reading_hiragana": "ちゅうだん",
+      "context_meaning_zh": "中断",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "中断",
+          "meaning_ja": "続いていることを、途中で一時的に止めること。",
+          "example_ja": "雨が強くなったので、試合は中断されました。",
+          "example_zh": "因为雨势变大，比赛中断了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "作業を中断する",
+          "zh": "中断工作"
+        }
+      ],
+      "usage_note_zh": "「中断する」通常表示把正在进行的事情暂时停下，事项用「を」；它保留稍后恢复的可能，与彻底停止并非同一重点。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "工作忙而中断的例句表示事态停止；辞书列名词和自动、他动サ变，结合常见「作業を中断する」保留两种配价。",
+        "dictionary_sequences": [
+          1424900
+        ],
+        "identity": {
+          "word": "中断",
+          "reading_hiragana": "ちゅうだん",
+          "meaning": "中断"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d38cbf54c6676acc",
+      "index": 2086,
+      "word": "再開",
+      "reading_hiragana": "さいかい",
+      "context_meaning_zh": "重新开始",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "重新开始",
+          "meaning_ja": "一度止めた活動を、もう一度始めること。",
+          "example_ja": "昼休みのあと、会議を再開します。",
+          "example_zh": "午休后重新开始会议。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "営業を再開する",
+          "zh": "重新营业"
+        }
+      ],
+      "usage_note_zh": "重新开始已暂停或结束的活动时说「活動を再開する」，活动用「を」；若主语是活动本身，可说「活動が再開する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指暂停后重启活动；词典列サ变自他两用，教材说明分别给「活動を再開する」和「活動が再開する」。",
+        "dictionary_sequences": [
+          1292400
+        ],
+        "identity": {
+          "word": "再開",
+          "reading_hiragana": "さいかい",
+          "meaning": "重新开始"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-469d1aeb2022947b",
+      "index": 2087,
+      "word": "挑戦",
+      "reading_hiragana": "ちょうせん",
+      "context_meaning_zh": "挑战、尝试",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "挑战、尝试",
+          "meaning_ja": "難しいことや新しいことに取り組むこと。",
+          "example_ja": "今年は一人で料理することに挑戦します。",
+          "example_zh": "今年我挑战独自做饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新しいことに挑戦する",
+          "zh": "挑战、尝试"
+        }
+      ],
+      "usage_note_zh": "表示着手挑战某事时，目标常用「に」连接（新しいことに挑戦する）；「を」通常标记的是「挑戦する」前的具体行动，不直接替代这里的「に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "早起是挑战的目标，挑戦する为名词兼自サ；词典支持该语法类别，目标通常以に标记。",
+        "dictionary_sequences": [
+          1428240
+        ],
+        "identity": {
+          "word": "挑戦",
+          "reading_hiragana": "ちょうせん",
+          "meaning": "挑战、尝试"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3b1c7d389c365cf8",
+      "index": 2088,
+      "word": "負担",
+      "reading_hiragana": "ふたん",
+      "context_meaning_zh": "负担",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "负担",
+          "meaning_ja": "引き受ける仕事や費用、心身の重さ。",
+          "example_ja": "予定を減らすと家族の負担も軽くなります。",
+          "example_zh": "减少安排也能减轻家人的负担。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "負担を減らす",
+          "zh": "负担"
+        }
+      ],
+      "usage_note_zh": "「負担がかかる」表示负担落到某人或某事上；「負担を減らす」则把负担作为削减对象，分别用「が」和「を」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "早晨的负担作主语名词，词典亦列把费用或责任作为宾语的負担する用法。",
+        "dictionary_sequences": [
+          1498130
+        ],
+        "identity": {
+          "word": "負担",
+          "reading_hiragana": "ふたん",
+          "meaning": "负担"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-609984f87b382e5c",
+      "index": 2089,
+      "word": "振り返り",
+      "reading_hiragana": "ふりかえり",
+      "context_meaning_zh": "回顾",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "回顾",
+          "meaning_ja": "自分の行動や出来事を思い出し、見直して考えること。",
+          "example_ja": "週末に一週間の振り返りをノートに書きました。",
+          "example_zh": "周末我在笔记本上写下了一周的回顾。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一日を振り返る",
+          "zh": "回顾一天"
+        }
+      ],
+      "usage_note_zh": "「振り返り」是名词，可指回顾或回顾环节；动作说「一日を振り返る」，其中「振り返る」是动词，回顾内容用「を」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "标题中「振り返り」作回顾环节名词，形式源于「振り返る」但本条没有独立する用例，故不判为サ变名词。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "振り返り",
+          "reading_hiragana": "ふりかえり",
+          "meaning": "回顾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-631f9627922ceaaf",
+      "index": 2090,
+      "word": "体力",
+      "reading_hiragana": "たいりょく",
+      "context_meaning_zh": "体力",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "体力",
+          "meaning_ja": "長く動いたり力を出したりできる体の強さ。",
+          "example_ja": "階段を使うと少しずつ体力がつきます。",
+          "example_zh": "走楼梯会逐渐增强体力。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "体力がつく",
+          "zh": "体力"
+        }
+      ],
+      "usage_note_zh": "「体力がある」说有体力，「体力がつく」说体力逐渐增强；用「が」标记所具备或发生变化的体力。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "体力是否改变是关于身体能力的普通名词用法；其他经济力量引申义与当前例句无关。",
+        "dictionary_sequences": [
+          1409760
+        ],
+        "identity": {
+          "word": "体力",
+          "reading_hiragana": "たいりょく",
+          "meaning": "体力"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fb7f3aa6321fd778",
+      "index": 2091,
+      "word": "睡眠",
+      "reading_hiragana": "すいみん",
+      "context_meaning_zh": "睡眠",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "睡眠",
+          "meaning_ja": "眠って体を休ませること。",
+          "example_ja": "よい睡眠のために寝る前はスマートフォンを見ません。",
+          "example_zh": "为了获得良好睡眠，我睡前不看手机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "睡眠を取る",
+          "zh": "睡眠"
+        }
+      ],
+      "usage_note_zh": "「睡眠を取る」是获得充足睡眠的常见说法；谈时长时用「睡眠時間」，不把「睡眠」当作可数的一觉来数。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「睡眠」是睡觉和休息状态的名词；词典adj-no只说明「睡眠の」修饰用法，不等于ナ形容词。",
+        "dictionary_sequences": [
+          1372370
+        ],
+        "identity": {
+          "word": "睡眠",
+          "reading_hiragana": "すいみん",
+          "meaning": "睡眠"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3a8b5751bfd56cc5",
+      "index": 2092,
+      "word": "時間帯",
+      "reading_hiragana": "じかんたい",
+      "context_meaning_zh": "时间段",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "时间段",
+          "meaning_ja": "一日の中の、ある程度まとまった時間の区分。",
+          "example_ja": "この時間帯は電車が空いています。",
+          "example_zh": "这个时间段电车比较空。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "朝の時間帯",
+          "zh": "早晨时段"
+        }
+      ],
+      "usage_note_zh": "「時間帯」指一段时间范围，如「朝の時間帯」；若只指出具体时刻或时间点，通常用「時間」或钟点表达。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "時間帯指可划分活动的时间区间，句中是需要调整的时段；词典另列时区义，当前语境不取。",
+        "dictionary_sequences": [
+          1316010
+        ],
+        "identity": {
+          "word": "時間帯",
+          "reading_hiragana": "じかんたい",
+          "meaning": "时间段"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7f1ba2b1a368f10d",
+      "index": 2093,
+      "word": "回数",
+      "reading_hiragana": "かいすう",
+      "context_meaning_zh": "次数",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "次数",
+          "meaning_ja": "同じ動作や出来事が起きた数。",
+          "example_ja": "薬を飲む回数を医師に確認しました。",
+          "example_zh": "我向医生确认了服药次数。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "回数を数える",
+          "zh": "数次数"
+        }
+      ],
+      "usage_note_zh": "「回数」回答做了几次，常与「回」的次数表达连用；「回数を重ねる」表示反复进行、次数逐渐累积。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表示外出次数增加，符合number of times义；词典及学习说明未显示特殊语体。",
+        "dictionary_sequences": [
+          1199510
+        ],
+        "identity": {
+          "word": "回数",
+          "reading_hiragana": "かいすう",
+          "meaning": "次数"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d11a8757b915421b",
+      "index": 2094,
+      "word": "手帳",
+      "reading_hiragana": "てちょう",
+      "context_meaning_zh": "记事本",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "记事本",
+          "meaning_ja": "予定や大切なことを書き留める携帯用の小さな本。",
+          "example_ja": "次の予定を手帳に書き込みました。",
+          "example_zh": "我把下一个安排写进了记事本。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "手帳に記入する",
+          "zh": "记在记事本上"
+        }
+      ],
+      "usage_note_zh": "「手帳に予定を書く」用「に」标记写入的载体或位置；表示把手帐带在身边则说「手帳を持つ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "记录时间和感想的随身记事本，例句中由に标记书写媒介；不取词典证件义。",
+        "dictionary_sequences": [
+          1598330
+        ],
+        "identity": {
+          "word": "手帳",
+          "reading_hiragana": "てちょう",
+          "meaning": "记事本"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c090de3cc8374b2d",
+      "index": 2095,
+      "word": "酒",
+      "reading_hiragana": "さけ",
+      "context_meaning_zh": "酒",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "酒",
+          "meaning_ja": "飲むために作られたアルコール飲料。",
+          "example_ja": "父は食事のとき少しだけ酒を飲みます。",
+          "example_zh": "父亲吃饭时只喝一点酒。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "酒を飲む",
+          "zh": "酒"
+        }
+      ],
+      "usage_note_zh": "读作「さけ」时，「酒」通常泛指酒类或饮酒；若特指日本清酒，语境中也常用「日本酒」以免歧义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「酒を口にしない」指不饮用含酒精饮料；辞典alcohol/sake名词义支持。",
+        "dictionary_sequences": [
+          1329010
+        ],
+        "identity": {
+          "word": "酒",
+          "reading_hiragana": "さけ",
+          "meaning": "酒"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2c8581c27bad3752",
+      "index": 2096,
+      "word": "レモン",
+      "reading_hiragana": "レモン",
+      "context_meaning_zh": "柠檬",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "柠檬",
+          "meaning_ja": "黄色く、酸っぱい果汁を多く含む柑橘類。",
+          "example_ja": "水にレモンを入れると、さっぱりします。",
+          "example_zh": "水里加柠檬会更清爽。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "レモンを絞る",
+          "zh": "挤柠檬汁"
+        }
+      ],
+      "usage_note_zh": "「レモンを絞る」用「を」标被挤压的柠檬；「レモン汁」指挤出的柠檬汁，可用于说明调味或饮料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "柠檬果实名词，例句把柠檬加入饮品，词典只列植物果实义；普通食物名无特殊语体。",
+        "dictionary_sequences": [
+          1146020
+        ],
+        "identity": {
+          "word": "レモン",
+          "reading_hiragana": "レモン",
+          "meaning": "柠檬"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3e2edbfed127a053",
+      "index": 2097,
+      "word": "林檎",
+      "reading_hiragana": "りんご",
+      "context_meaning_zh": "苹果",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "苹果",
+          "meaning_ja": "皮が赤や緑の、丸い果物。",
+          "example_ja": "林檎を洗って、朝食のあとに食べました。",
+          "example_zh": "我洗了苹果，早餐后吃了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "林檎をむく",
+          "zh": "苹果"
+        }
+      ],
+      "usage_note_zh": "「林檎」读作「りんご」，是苹果的汉字写法，日常文本也常写平假名「りんご」；两种写法词义相同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "携带苹果水果，词典区分苹果果实与苹果树义，本例为果实。",
+        "dictionary_sequences": [
+          1555480
+        ],
+        "identity": {
+          "word": "林檎",
+          "reading_hiragana": "りんご",
+          "meaning": "苹果"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c7e8402058d40373",
+      "index": 2098,
+      "word": "蒟蒻",
+      "reading_hiragana": "こんにゃく",
+      "context_meaning_zh": "魔芋、魔芋食品",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "魔芋、魔芋食品",
+          "meaning_ja": "こんにゃく芋から作る、弾力のある食品。",
+          "example_ja": "蒟蒻を薄く切って、煮物に入れました。",
+          "example_zh": "我把魔芋切薄后放进炖菜里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "蒟蒻を煮る",
+          "zh": "煮魔芋"
+        }
+      ],
+      "usage_note_zh": "「蒟蒻」读作「こんにゃく」，指由魔芋制成的食品；不等同于植物本身，菜谱里常见「蒟蒻を煮る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与蔬菜一起煮的是魔芋食品而非植物本体；词典列蒟蒻食品及果冻食品义。",
+        "dictionary_sequences": [
+          1571630
+        ],
+        "identity": {
+          "word": "蒟蒻",
+          "reading_hiragana": "こんにゃく",
+          "meaning": "魔芋、魔芋食品"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c907a1ab2c1c768",
+      "index": 2099,
+      "word": "牛肉",
+      "reading_hiragana": "ぎゅうにく",
+      "context_meaning_zh": "牛肉",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "牛肉",
+          "meaning_ja": "牛から取れる食肉。",
+          "example_ja": "牛肉を薄く切って、野菜と炒めました。",
+          "example_zh": "我把牛肉切薄后和蔬菜一起炒了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "牛肉を焼く",
+          "zh": "牛肉"
+        }
+      ],
+      "usage_note_zh": "「牛肉」专指牛的肉，常作菜肴或食材名称；说整头牛或牛这种动物时用「牛」，不要把两者混用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与猪肉并列购买的牛肉，词典beef义明确。",
+        "dictionary_sequences": [
+          1231580
+        ],
+        "identity": {
+          "word": "牛肉",
+          "reading_hiragana": "ぎゅうにく",
+          "meaning": "牛肉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8c8f209a0499596b",
+      "index": 2100,
+      "word": "ラジオ体操",
+      "reading_hiragana": "ラジオたいそう",
+      "context_meaning_zh": "广播体操",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "广播体操",
+          "meaning_ja": "ラジオの音楽や合図に合わせて行う決まった体操。",
+          "example_ja": "近所の人と公園でラジオ体操をしました。",
+          "example_zh": "我和附近的人在公园做了广播体操。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ラジオ体操をする",
+          "zh": "做广播体操"
+        }
+      ],
+      "usage_note_zh": "「ラジオ体操をする」表示做广播体操；「体操」是运动项目名，「ラジオ」限定跟随广播进行的那套操。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指在家做的广播体操活动，词典直接列为该名词义。",
+        "dictionary_sequences": [
+          2221140
+        ],
+        "identity": {
+          "word": "ラジオ体操",
+          "reading_hiragana": "ラジオたいそう",
+          "meaning": "广播体操"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-34866d2ccb7b8360",
+      "index": 2101,
+      "word": "うどん",
+      "reading_hiragana": "うどん",
+      "context_meaning_zh": "乌冬面",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乌冬面",
+          "meaning_ja": "小麦粉で作った太い麺。また、その麺を使った料理。",
+          "example_ja": "寒いので、昼は温かいうどんにしました。",
+          "example_zh": "天气冷，午饭我吃了热乌冬面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "うどんをゆでる",
+          "zh": "煮乌冬面"
+        }
+      ],
+      "usage_note_zh": "「うどん」指乌冬面这一面食，常与「食べる」「ゆでる」搭配；说煮面时「うどんをゆでる」的「を」标食材。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "乌冬面为食物名词；例中与三明治并列作购买对象，を是食材名词的宾语标记，不使名词具有动词自他性。",
+        "dictionary_sequences": [
+          1574470
+        ],
+        "identity": {
+          "word": "うどん",
+          "reading_hiragana": "うどん",
+          "meaning": "乌冬面"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7f7b20829b99789e",
+      "index": 2102,
+      "word": "肉まんじゅう",
+      "reading_hiragana": "にくまんじゅう",
+      "context_meaning_zh": "肉包子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "肉包子",
+          "meaning_ja": "小麦粉の皮で肉の具を包み、蒸した食べ物。",
+          "example_ja": "寒い日に、駅で温かい肉まんじゅうを買いました。",
+          "example_zh": "天冷时我在车站买了热乎乎的肉包子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "肉まんじゅうを蒸す",
+          "zh": "肉包子"
+        }
+      ],
+      "usage_note_zh": "「肉まんじゅう」指包有肉馅并蒸制的包子，日本日常也常简称「肉まん」；在日本语境中不宜直按中国包子的品种细分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "寒冷早晨买到热的肉馒头，符合JMdict 1463730肉馅馒头名词义。",
+        "dictionary_sequences": [
+          1463730
+        ],
+        "identity": {
+          "word": "肉まんじゅう",
+          "reading_hiragana": "にくまんじゅう",
+          "meaning": "肉包子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b7cacd718cb09d95",
+      "index": 2103,
+      "word": "ラーメン",
+      "reading_hiragana": "ラーメン",
+      "context_meaning_zh": "拉面",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拉面",
+          "meaning_ja": "中華風の麺をスープに入れた料理。",
+          "example_ja": "この店は野菜の多いラーメンが人気です。",
+          "example_zh": "这家店蔬菜丰富的拉面很受欢迎。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ラーメンを注文する",
+          "zh": "点拉面"
+        }
+      ],
+      "usage_note_zh": "「ラーメン」指拉面这道面食；点餐说「ラーメンを一杯」，「杯」用量词「杯」计，不用食材的「本」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "好き与饮食语境表明此处为拉面食物名词，不取刚性框架同音义。",
+        "dictionary_sequences": [
+          1137720
+        ],
+        "identity": {
+          "word": "ラーメン",
+          "reading_hiragana": "ラーメン",
+          "meaning": "拉面"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a444cbc5c772be5c",
+      "index": 2104,
+      "word": "なる",
+      "reading_hiragana": "なる",
+      "context_meaning_zh": "成为、变成（现代动词；不扩展古典助动词なり）",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "成为、变成（现代动词；不扩展古典助动词なり）",
+          "meaning_ja": "人や物の状態が別のものへ移ることを表す。",
+          "example_ja": "毎日練習すれば、もっと上手になります。",
+          "example_zh": "每天练习的话，会变得更擅长。"
+        },
+        {
+          "meaning_zh": "時間が過ぎて、ある時刻や時期に達する。",
+          "meaning_ja": "時刻が進み、その時点に達する。",
+          "example_ja": "もうすぐ七時になります。",
+          "example_zh": "马上就要七点了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "医者になる",
+          "zh": "成为医生"
+        }
+      ],
+      "usage_note_zh": "此处读「なる」，表示状态或身份变成某结果，结果用「に」（医者になる）；表示变化原因或素材时可用「から／で」说明。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本条是「習慣になる」中的变化义「なる」；昼休み散步逐渐成为习惯，属于状态变化的五段自动词。",
+        "dictionary_sequences": [
+          1375610
+        ],
+        "identity": {
+          "word": "なる",
+          "reading_hiragana": "なる",
+          "meaning": "成为、变成（现代动词；不扩展古典助动词なり）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3936c7fbbb38e9fd",
+      "index": 2105,
+      "word": "ビール",
+      "reading_hiragana": "ビール",
+      "context_meaning_zh": "啤酒",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "啤酒",
+          "meaning_ja": "麦芽などを発酵させて作る、苦みのある酒。",
+          "example_ja": "父は夕食のとき、ビールを一杯飲みました。",
+          "example_zh": "父亲晚饭时喝了一杯啤酒。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ビールを冷やす",
+          "zh": "冰镇啤酒"
+        }
+      ],
+      "usage_note_zh": "「ビール」是啤酒，点或数瓶装啤酒时常用「一本、二本」；说饮用则用「ビールを飲む」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "普通饮料名词，句中明确是含酒精的啤酒；两个同义词典条目均支持。",
+        "dictionary_sequences": [
+          1104550,
+          2796520
+        ],
+        "identity": {
+          "word": "ビール",
+          "reading_hiragana": "ビール",
+          "meaning": "啤酒"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-28099f637b9f84df",
+      "index": 2106,
+      "word": "納豆",
+      "reading_hiragana": "なっとう",
+      "context_meaning_zh": "蒸后发酵的大豆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蒸后发酵的大豆",
+          "meaning_ja": "大豆を発酵させた、ねばりのある食品。",
+          "example_ja": "納豆にねぎを入れて、ご飯と食べました。",
+          "example_zh": "我在纳豆里加了葱，配米饭吃了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "納豆を混ぜる",
+          "zh": "蒸后发酵的大豆"
+        }
+      ],
+      "usage_note_zh": "「納豆」是发酵大豆制成的食品，常作主食配菜；它是具体食品名，和泛指大豆的「大豆」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "询问是否能吃纳豆，納豆指发酵大豆食品。",
+        "dictionary_sequences": [
+          1470070
+        ],
+        "identity": {
+          "word": "納豆",
+          "reading_hiragana": "なっとう",
+          "meaning": "蒸后发酵的大豆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7ee28874daa018ca",
+      "index": 2107,
+      "word": "甘い",
+      "reading_hiragana": "あまい",
+      "context_meaning_zh": "甜；宽松、不严格",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "甜；宽松、不严格",
+          "meaning_ja": "味覚で、砂糖を感じるような味がする。",
+          "example_ja": "この果物はよく熟していて甘いです。",
+          "example_zh": "这个水果熟透了，很甜。"
+        },
+        {
+          "meaning_zh": "宽松；不严格（判断、态度）",
+          "meaning_ja": "相手に厳しい条件を求めず、許すことが多い様子。",
+          "example_ja": "兄は妹に甘く、何でも許してしまいます。",
+          "example_zh": "哥哥对妹妹很宽容，什么都原谅她。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "甘いケーキ",
+          "zh": "甜；宽松、不严格"
+        }
+      ],
+      "usage_note_zh": "「甘い」既可描述味觉上的甜，也可形容判断、估计或要求宽松（判断が甘い）；具体义由被修饰对象判断。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1213400的甜味义对应红茶；输入注释也指出另有宽松判断义，但不改变い形容词词类。",
+        "dictionary_sequences": [
+          1213400
+        ],
+        "identity": {
+          "word": "甘い",
+          "reading_hiragana": "あまい",
+          "meaning": "甜；宽松、不严格"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5ad8379464bde0fa",
+      "index": 2108,
+      "word": "塩辛い",
+      "reading_hiragana": "しおからい",
+      "context_meaning_zh": "咸的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "咸的",
+          "meaning_ja": "塩の味が強い。",
+          "example_ja": "このスープは少し塩辛いです。",
+          "example_zh": "这个汤有点咸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "塩辛い味",
+          "zh": "咸的"
+        }
+      ],
+      "usage_note_zh": "「塩辛い」形容味道咸，常修饰「味」「料理」；口语「しょっぱい」也表示咸，但「塩辛い」更明确指盐味重。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "塩辛い是味觉形容词，明确表示盐味重；例句泛指咸味食物。",
+        "dictionary_sequences": [
+          1609860
+        ],
+        "identity": {
+          "word": "塩辛い",
+          "reading_hiragana": "しおからい",
+          "meaning": "咸的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c9af1dff2558e29",
+      "index": 2109,
+      "word": "生鮮食品",
+      "reading_hiragana": "せいせんしょくひん",
+      "context_meaning_zh": "生鲜食品",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "生鲜食品",
+          "meaning_ja": "肉や魚、野菜など、新鮮なうちに食べる食品。",
+          "example_ja": "生鮮食品は帰宅したらすぐ冷蔵庫に入れます。",
+          "example_zh": "生鲜食品回家后马上放进冰箱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "生鮮食品を冷やす",
+          "zh": "生鲜食品"
+        }
+      ],
+      "usage_note_zh": "「生鮮食品」是尚未加工或深度加工的鲜食商品类别，通常包括蔬菜、鱼肉等；它说的是食品类别，不是单指生食。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与罐头并列购买的易腐生鲜食品，词典perishables义吻合。",
+        "dictionary_sequences": [
+          2834915
+        ],
+        "identity": {
+          "word": "生鮮食品",
+          "reading_hiragana": "せいせんしょくひん",
+          "meaning": "生鲜食品"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f232a7dc452b759e",
+      "index": 2110,
+      "word": "欠かす",
+      "reading_hiragana": "かかす",
+      "context_meaning_zh": "缺少、遗漏；使中断",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "缺少、遗漏；使中断",
+          "meaning_ja": "必要なものを抜かしたり習慣をしなかったりする。",
+          "example_ja": "健康のために朝食を欠かさないようにしています。",
+          "example_zh": "为了健康，我尽量不漏掉早餐。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "朝食を欠かさない",
+          "zh": "缺少、遗漏；使中断"
+        }
+      ],
+      "usage_note_zh": "「朝食を欠かさない」以「を欠かさない」表示坚持每次都做到、不遗漏；此词常与否定形组合，单说「欠かす」是使某项必要之事缺失。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「記録を欠かさない」指不漏做每日记录，记录是受事；词典两义均为五段他动词。",
+        "dictionary_sequences": [
+          1253890
+        ],
+        "identity": {
+          "word": "欠かす",
+          "reading_hiragana": "かかす",
+          "meaning": "缺少、遗漏；使中断"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eae50b7dd984c3c2",
+      "index": 2111,
+      "word": "日常",
+      "reading_hiragana": "にちじょう",
+      "context_meaning_zh": "日常",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日常",
+          "meaning_ja": "特別なことのない、いつもの生活。",
+          "example_ja": "日常の小さな出来事を日記に書きます。",
+          "example_zh": "我把日常生活中的小事写进日记。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日常生活",
+          "zh": "日常"
+        }
+      ],
+      "usage_note_zh": "「日常」可作名词，常见「日常生活」；「日常的な」则作连体修饰，表示日常性的，需接名词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "日常可作名词或副词；此处以“日常的生活”表示平时生活，日常修饰形式也可与“の”搭配。",
+        "dictionary_sequences": [
+          1464180
+        ],
+        "identity": {
+          "word": "日常",
+          "reading_hiragana": "にちじょう",
+          "meaning": "日常"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d2f696d13c6daa94",
+      "index": 2112,
+      "word": "ほとんど",
+      "reading_hiragana": "ほとんど",
+      "context_meaning_zh": "几乎；大部分",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "几乎；大部分",
+          "meaning_ja": "全体の大部分。また否定と使い、ほぼ…ないの意。",
+          "example_ja": "宿題はほとんど終わりました。",
+          "example_zh": "作业几乎都做完了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ほとんど全部",
+          "zh": "几乎；大部分"
+        }
+      ],
+      "usage_note_zh": "「ほとんど」后接肯定表达时可表示“大部分／几乎全部”，后接否定形「ほとんど～ない」则表示“几乎不”；句末形式会影响中文理解。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "肯定句可说几乎／大部分，ほとんどの人又具名词修饰形式；否定句才产生几乎不的解释。",
+        "dictionary_sequences": [
+          1522050
+        ],
+        "identity": {
+          "word": "ほとんど",
+          "reading_hiragana": "ほとんど",
+          "meaning": "几乎；大部分"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6eb13ee600facb3c",
+      "index": 2113,
+      "word": "缶詰",
+      "reading_hiragana": "かんづめ",
+      "context_meaning_zh": "罐头",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "罐头",
+          "meaning_ja": "食品を缶に入れて密封し、保存できるようにしたもの。",
+          "example_ja": "非常用に魚の缶詰を棚に置いています。",
+          "example_zh": "我把鱼罐头放在架子上以备应急。"
+        },
+        {
+          "meaning_zh": "仕事などに集中するため、外へ出ずに長時間取り組むこと。",
+          "meaning_ja": "仕事に集中するため、外出せずにその場所にとどまる状態。",
+          "example_ja": "作家は締め切り前、ホテルで三日間缶詰になりました。",
+          "example_zh": "作家在截稿前连续三天闭门待在酒店里工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "缶詰を開ける",
+          "zh": "打开罐头"
+        }
+      ],
+      "usage_note_zh": "本条按「かんづめ」指罐装食品；搭配可说「缶詰を開ける／保存する」。另有「缶詰になる」的比喻用法表示闭门集中工作，语境不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「缶詰も使う」指可储存食品罐头；词典的罐装食品义与用餐语境相符。",
+        "dictionary_sequences": [
+          1214560
+        ],
+        "identity": {
+          "word": "缶詰",
+          "reading_hiragana": "かんづめ",
+          "meaning": "罐头"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2a2f10c4050d95bb",
+      "index": 2114,
+      "word": "醤油",
+      "reading_hiragana": "しょうゆ",
+      "context_meaning_zh": "酱油",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "酱油",
+          "meaning_ja": "大豆などを発酵させて作る、塩味の調味料。",
+          "example_ja": "焼き魚に醤油を少しかけました。",
+          "example_zh": "我在烤鱼上浇了一点酱油。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "醤油をかける",
+          "zh": "酱油"
+        }
+      ],
+      "usage_note_zh": "「醤油をかける」表示把酱油淋在食物上；若强调用酱油调味，可说「醤油で味付けする」，「で」标手段或材料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "醤油与盐并列作为烹调调味料加入食物，符合词典soy sauce义。",
+        "dictionary_sequences": [
+          1595020
+        ],
+        "identity": {
+          "word": "醤油",
+          "reading_hiragana": "しょうゆ",
+          "meaning": "酱油"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f26a002283733234",
+      "index": 2115,
+      "word": "止める",
+      "reading_hiragana": "やめる",
+      "context_meaning_zh": "停止某行为；辞去工作",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "停止某行为；辞去工作",
+          "meaning_ja": "続けていた行動をやめる。",
+          "example_ja": "夜ふかしを止めて早く寝ることにしました。",
+          "example_zh": "我决定不再熬夜，早点睡觉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "仕事を止める",
+          "zh": "停止某行为；辞去工作"
+        }
+      ],
+      "usage_note_zh": "本条读「やめる」，表示停止某项行为或辞去职务，常说「仕事をやめる」；同字读「とめる」时可表示让移动中的物体停下，读音和用法不同。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "停止练习习惯及辞去店铺工作都属于停止、放弃持续活动；词典一段他动词义吻合。",
+        "dictionary_sequences": [
+          1310680
+        ],
+        "identity": {
+          "word": "止める",
+          "reading_hiragana": "やめる",
+          "meaning": "停止某行为；辞去工作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-844985d460f153f5",
+      "index": 2116,
+      "word": "塩",
+      "reading_hiragana": "しお",
+      "context_meaning_zh": "盐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "盐",
+          "meaning_ja": "料理に塩味をつけるために使う白い調味料。",
+          "example_ja": "スープに塩を少し足しました。",
+          "example_zh": "我在汤里加了一点盐。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "塩を振る",
+          "zh": "盐"
+        }
+      ],
+      "usage_note_zh": "「塩を振る」是把盐撒在食物上的说法；「塩味」指咸味，描述味道时不必把「塩」误作形容词使用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例与酱油并列作料理调味品，明确取食盐义；词典的艰辛、冷淡等引申义不适用于此处。",
+        "dictionary_sequences": [
+          1576630
+        ],
+        "identity": {
+          "word": "塩",
+          "reading_hiragana": "しお",
+          "meaning": "盐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-14c6802bdccb065a",
+      "index": 2117,
+      "word": "調味料",
+      "reading_hiragana": "ちょうみりょう",
+      "context_meaning_zh": "调味品",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "调味品",
+          "meaning_ja": "料理に味や香りを加えるために使うもの。",
+          "example_ja": "味を見ながら調味料を加えます。",
+          "example_zh": "我一边尝味道一边添加调味料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "調味料を加える",
+          "zh": "调味品"
+        }
+      ],
+      "usage_note_zh": "「調味料」是烹调时用来调味的材料类别，具体可指酱油、盐等；加某种调味料说「調味料を加える」，对象用「を」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "烹饪中尝味后加入的调味品是食品材料名词。",
+        "dictionary_sequences": [
+          1429290
+        ],
+        "identity": {
+          "word": "調味料",
+          "reading_hiragana": "ちょうみりょう",
+          "meaning": "调味品"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5248d1a9e4f34771",
+      "index": 2118,
+      "word": "砂糖",
+      "reading_hiragana": "さとう",
+      "context_meaning_zh": "砂糖",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "砂糖",
+          "meaning_ja": "甘い味をつけるために使う食品。",
+          "example_ja": "コーヒーには砂糖を入れません。",
+          "example_zh": "我不在咖啡里加糖。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "砂糖を入れる",
+          "zh": "砂糖"
+        }
+      ],
+      "usage_note_zh": "「砂糖」专指糖这种甜味材料；加入饮料或菜肴时说「砂糖を入れる」，若说糖分含量可用「砂糖の量」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "砂糖是食物甜味材料名词，例句说明将糖加入红茶。",
+        "dictionary_sequences": [
+          1291600
+        ],
+        "identity": {
+          "word": "砂糖",
+          "reading_hiragana": "さとう",
+          "meaning": "砂糖"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a22970d51650ab47",
+      "index": 2119,
+      "word": "カップケーキ",
+      "reading_hiragana": "カップケーキ",
+      "context_meaning_zh": "纸杯蛋糕",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "纸杯蛋糕",
+          "meaning_ja": "紙のカップに生地を入れて焼いた小さなケーキ。",
+          "example_ja": "子どもたちは飾りをつけたカップケーキを喜びました。",
+          "example_zh": "孩子们很喜欢装饰过的纸杯蛋糕。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "カップケーキを焼く",
+          "zh": "烤纸杯蛋糕"
+        }
+      ],
+      "usage_note_zh": "「カップケーキ」是用小纸杯或模具烤成的单人份小蛋糕；这里的「カップ」指烘烤形状，不是装在杯中的蛋糕。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句把「カップケーキ」作为食物名词并作食べる的对象；没有词汇层面的特殊语体或体裁依据。",
+        "dictionary_sequences": [
+          1037680
+        ],
+        "identity": {
+          "word": "カップケーキ",
+          "reading_hiragana": "カップケーキ",
+          "meaning": "纸杯蛋糕"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-994e3cff07e333d2",
+      "index": 2120,
+      "word": "サンドイッチ",
+      "reading_hiragana": "サンドイッチ",
+      "context_meaning_zh": "三明治",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "三明治",
+          "meaning_ja": "パンの間に肉や野菜などの具をはさんだ食べ物。",
+          "example_ja": "昼食に卵のサンドイッチを持って行きます。",
+          "example_zh": "我带鸡蛋三明治去吃午饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "サンドイッチを作る",
+          "zh": "做三明治"
+        }
+      ],
+      "usage_note_zh": "「サンドイッチ」指以面包夹入食材制成的食物；说制作或购买时用「を」，夹入的内容可用「に」或「を」依动词结构表达。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指夹有馅料的面包食品，例句与乌冬并列作为午餐购买对象；词典只列三明治名词义。",
+        "dictionary_sequences": [
+          1058580
+        ],
+        "identity": {
+          "word": "サンドイッチ",
+          "reading_hiragana": "サンドイッチ",
+          "meaning": "三明治"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-38a1ccbadcf15b13",
+      "index": 2121,
+      "word": "近頃",
+      "reading_hiragana": "ちかごろ",
+      "context_meaning_zh": "近来、最近这段时间",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "近来、最近这段时间",
+          "meaning_ja": "今に近い時期。最近のことを話すときに使う。",
+          "example_ja": "近頃、駅前に新しい店ができました。",
+          "example_zh": "近来车站前开了一家新店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "近頃よく",
+          "zh": "近来常常"
+        }
+      ],
+      "usage_note_zh": "「近頃」指最近这一段时间，常用于谈近来的变化或近况；「近頃どうですか」是在询问近期情况。与「この頃」意思相近，二者常可互换。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "时间名词，可用「近頃は」作时间主题，表示最近一段时期；此处谈近期生活变化。",
+        "dictionary_sequences": [
+          1242300
+        ],
+        "identity": {
+          "word": "近頃",
+          "reading_hiragana": "ちかごろ",
+          "meaning": "近来、最近这段时间"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7e56f3769825bbf6",
+      "index": 2122,
+      "word": "この頃",
+      "reading_hiragana": "このごろ",
+      "context_meaning_zh": "近来、这些日子",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "近来、这些日子",
+          "meaning_ja": "今に近い時期。また、最近の習慣や様子。",
+          "example_ja": "この頃は朝早く目が覚めます。",
+          "example_zh": "最近我早上醒得很早。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "この頃は",
+          "zh": "最近"
+        }
+      ],
+      "usage_note_zh": "「この頃」可指最近一段时间，也可指“最近这些日子”的生活状态；常说「この頃は忙しい」。比较不同年代时应使用「この頃」并由上下文说明所指时期。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「この頃」指近来一段时间，可作时间名词并修饰句子；本课近来义与近期习惯用法相符。",
+        "dictionary_sequences": [
+          1004710
+        ],
+        "identity": {
+          "word": "この頃",
+          "reading_hiragana": "このごろ",
+          "meaning": "近来、这些日子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b80c5e870afbcd1c",
+      "index": 2123,
+      "word": "すっかり",
+      "reading_hiragana": "すっかり",
+      "context_meaning_zh": "完全、彻底",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "完全、彻底",
+          "meaning_ja": "残りがないほど、完全にそうなる様子。",
+          "example_ja": "雨がやんで、空はすっかり明るくなりました。",
+          "example_zh": "雨停后，天空完全亮了起来。"
+        },
+        {
+          "meaning_zh": "全部なくなったり、残らなくなったりする様子。",
+          "meaning_ja": "残っているものがなくなるまで、すべて行われる様子。",
+          "example_ja": "用意したケーキは子どもたちがすっかり食べました。",
+          "example_zh": "孩子们把准备好的蛋糕全吃光了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "すっかり忘れる",
+          "zh": "完全忘记"
+        }
+      ],
+      "usage_note_zh": "「すっかり」表示变化已经彻底完成，常与「忘れる」「治る」「変わる」等动词连用；表示“全部吃完”时也可说「すっかり食べる」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "习惯发生了彻底变化，符合词典中的完全、彻底副词义。",
+        "dictionary_sequences": [
+          1006110
+        ],
+        "identity": {
+          "word": "すっかり",
+          "reading_hiragana": "すっかり",
+          "meaning": "完全、彻底"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-336f096f80f05217",
+      "index": 2124,
+      "word": "ギョーザ",
+      "reading_hiragana": "ギョーザ",
+      "context_meaning_zh": "饺子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饺子",
+          "meaning_ja": "肉や野菜などの具を小麦粉の皮で包んだ料理。",
+          "example_ja": "週末に家族でギョーザを包みました。",
+          "example_zh": "周末我和家人一起包了饺子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ギョーザを焼く",
+          "zh": "煎饺子"
+        }
+      ],
+      "usage_note_zh": "「ギョーザ」是饺子类食品；常说「ギョーザを焼く／包む」。在日本餐馆里煎饺较常见，中文“饺子”还可指水煮、蒸等不同做法。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "ギョーザ是食品名词，例句作进食对象；词典的日式煎饺描述不应将中文饺子限缩为一种做法。",
+        "dictionary_sequences": [
+          1574430
+        ],
+        "identity": {
+          "word": "ギョーザ",
+          "reading_hiragana": "ギョーザ",
+          "meaning": "饺子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6e3eb15fa834a6b8",
+      "index": 2125,
+      "word": "豚肉",
+      "reading_hiragana": "ぶたにく",
+      "context_meaning_zh": "猪肉",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "猪肉",
+          "meaning_ja": "豚から取れる食肉。",
+          "example_ja": "豚肉をゆでて、冷たい麺にのせました。",
+          "example_zh": "我把猪肉煮熟后放在凉面上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "豚肉を炒める",
+          "zh": "猪肉"
+        }
+      ],
+      "usage_note_zh": "「豚肉」专指猪肉，常用作食材名称；说“猪肉片”可说「豚肉の薄切り」。指猪这种动物时则说「豚」，不要混用肉名和动物名。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "豚肉是供食用的猪肉食材；本课与牛肉并列采购，区别动物豚。",
+        "dictionary_sequences": [
+          1457440
+        ],
+        "identity": {
+          "word": "豚肉",
+          "reading_hiragana": "ぶたにく",
+          "meaning": "猪肉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d3ccc70726fd71a0",
+      "index": 2126,
+      "word": "どんどん",
+      "reading_hiragana": "どんどん",
+      "context_meaning_zh": "不断地；顺利迅速地",
+      "pos_ja": "副詞・オノマトペ",
+      "pos_zh": "副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不断地；顺利迅速地",
+          "meaning_ja": "物事が勢いよく次々と進む様子。",
+          "example_ja": "分からないことがあれば、どんどん聞いてください。",
+          "example_zh": "有不懂的地方请尽管问。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どんどん進む",
+          "zh": "顺利推进"
+        }
+      ],
+      "usage_note_zh": "「どんどん」可形容事情接连快速推进（どんどん進む），也可表示数量不断增加（どんどん増える）；描述敲门声等连续响声时也会用到。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条两例分别表示计划接连增加、工作快速进展，取辞典迅速及连续义；没有鼓声语境。",
+        "dictionary_sequences": [
+          1009320
+        ],
+        "identity": {
+          "word": "どんどん",
+          "reading_hiragana": "どんどん",
+          "meaning": "不断地；顺利迅速地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-59216a21b46296aa",
+      "index": 2127,
+      "word": "菓子",
+      "reading_hiragana": "かし",
+      "context_meaning_zh": "点心、糕点、糖果",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "点心、糕点、糖果",
+          "meaning_ja": "甘いものや、軽く食べるために作られた食品。",
+          "example_ja": "友達に渡す菓子を箱に詰めました。",
+          "example_zh": "我把要送给朋友的点心装进了盒子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "菓子を配る",
+          "zh": "点心、糕点、糖果"
+        }
+      ],
+      "usage_note_zh": "「菓子」是点心、糖果等食品的总称，常见于「菓子を配る」「菓子売り場」；比日常口语的「おやつ」更像食品类别名称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「菓子」泛指糕点和糖果，例句为无意识间吃点心；词典普通名词义吻合。",
+        "dictionary_sequences": [
+          1195670
+        ],
+        "identity": {
+          "word": "菓子",
+          "reading_hiragana": "かし",
+          "meaning": "点心、糕点、糖果"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a99a336d0eb9a875",
+      "index": 2128,
+      "word": "ゆっくり",
+      "reading_hiragana": "ゆっくり",
+      "context_meaning_zh": "慢慢地；从容舒适地（补后义）",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "慢慢地；从容舒适地（补后义）",
+          "meaning_ja": "急がずに時間をかける様子。また、くつろいでいる様子。",
+          "example_ja": "休みの日は家でゆっくり過ごしました。",
+          "example_zh": "休息日我在家悠闲地度过。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ゆっくり休む",
+          "zh": "好好休息"
+        }
+      ],
+      "usage_note_zh": "「ゆっくり」可修饰动作表示速度慢，也可表示从容休息（ゆっくり休む）；要表达“慢慢地走”可说「ゆっくり歩く」，不能把它理解成“逐渐”。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "修饰吃早饭，表达可悠闲安排时间；本例重点是从容而非移动速度或渐进变化。",
+        "dictionary_sequences": [
+          1013050
+        ],
+        "identity": {
+          "word": "ゆっくり",
+          "reading_hiragana": "ゆっくり",
+          "meaning": "慢慢地；从容舒适地（补后义）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9084ec79d4582de6",
+      "index": 2129,
+      "word": "食習慣",
+      "reading_hiragana": "しょくしゅうかん",
+      "context_meaning_zh": "饮食习惯",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饮食习惯",
+          "meaning_ja": "ふだん何をどのように食べるかという、くり返しの習慣。",
+          "example_ja": "食習慣を見直して、朝食に野菜を加えました。",
+          "example_zh": "我重新审视饮食习惯，在早餐中加入了蔬菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "食習慣を見直す",
+          "zh": "重新审视饮食习惯"
+        }
+      ],
+      "usage_note_zh": "「食習慣」指长期反复形成的饮食方式，如吃饭时间或食物选择；常说「食習慣を見直す」。若泛指一天三餐的生活，则可用「食生活」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "食習慣是长期形成的饮食方式，本课询问能否一次改变；与涵盖整体饮食生活的食生活范围不同。",
+        "dictionary_sequences": [
+          2260830
+        ],
+        "identity": {
+          "word": "食習慣",
+          "reading_hiragana": "しょくしゅうかん",
+          "meaning": "饮食习惯"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1193657c4d58d081",
+      "index": 2130,
+      "word": "米",
+      "reading_hiragana": "こめ",
+      "context_meaning_zh": "大米",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大米",
+          "meaning_ja": "稲から取れる穀物で、炊いて主食として食べるもの。",
+          "example_ja": "米を洗ってから、水を入れて炊きます。",
+          "example_zh": "淘米后加水煮饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "米を炊く",
+          "zh": "煮米饭"
+        }
+      ],
+      "usage_note_zh": "「米」读「こめ」时指未煮的稻米，煮熟后通常称「ご飯」；「米を炊く」是煮米饭。读作「べい」时常见于复合词，本条按给定读音使用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "由吐司改煮米饭的语境指食用稻米；词典网络评论义和抽象必需品义不适用。",
+        "dictionary_sequences": [
+          1508750
+        ],
+        "identity": {
+          "word": "米",
+          "reading_hiragana": "こめ",
+          "meaning": "大米"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-844f1421afeb95f8",
+      "index": 2131,
+      "word": "主食",
+      "reading_hiragana": "しゅしょく",
+      "context_meaning_zh": "主食",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "主食",
+          "meaning_ja": "食事の中心として食べる、ご飯やパンなど。",
+          "example_ja": "この定食は主食をうどんに変えられます。",
+          "example_zh": "这份套餐可以把主食换成乌冬面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "主食を選ぶ",
+          "zh": "选择主食"
+        }
+      ],
+      "usage_note_zh": "「主食」指一餐中作为主要能量来源的食物，如米饭、面包或面条；它是饮食类别词，常与「主食を選ぶ／主食にする」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指日常饮食中的主粮，课文讨论主食选择，词典staple food义相符。",
+        "dictionary_sequences": [
+          1325640
+        ],
+        "identity": {
+          "word": "主食",
+          "reading_hiragana": "しゅしょく",
+          "meaning": "主食"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bdde05ac7df8a6b4",
+      "index": 2132,
+      "word": "食生活",
+      "reading_hiragana": "しょくせいかつ",
+      "context_meaning_zh": "饮食生活",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饮食生活",
+          "meaning_ja": "毎日の食事の内容や食べ方を含む生活。",
+          "example_ja": "忙しくても、食生活のバランスを考えています。",
+          "example_zh": "即使忙，我也会考虑饮食生活的均衡。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "食生活を整える",
+          "zh": "调整饮食生活"
+        }
+      ],
+      "usage_note_zh": "「食生活」涵盖日常吃什么、何时吃及饮食方式；常说「食生活を見直す／整える」。若只指重复形成的饮食偏好，可用「食習慣」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "饮食生活、饮食习惯的名词；本句指出近来饮食生活有所改变，词典dietary pattern义对应。",
+        "dictionary_sequences": [
+          1358510
+        ],
+        "identity": {
+          "word": "食生活",
+          "reading_hiragana": "しょくせいかつ",
+          "meaning": "饮食生活"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7ab9672b6e1706de",
+      "index": 2133,
+      "word": "乳製品",
+      "reading_hiragana": "にゅうせいひん",
+      "context_meaning_zh": "乳制品",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乳制品",
+          "meaning_ja": "牛乳を原料にした、チーズやヨーグルトなどの食品。",
+          "example_ja": "朝食に乳製品を一つ加えるようにしています。",
+          "example_zh": "我尽量在早餐中加一种乳制品。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "乳製品を取る",
+          "zh": "摄取乳制品"
+        }
+      ],
+      "usage_note_zh": "「乳製品」指以牛奶等乳为原料制作的食品，如奶酪和酸奶；常用于食品类别或营养说明，不等于单指牛奶「牛乳」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "牛奶与酸奶归入乳制品类别，词典dairy products义相符。",
+        "dictionary_sequences": [
+          1465260
+        ],
+        "identity": {
+          "word": "乳製品",
+          "reading_hiragana": "にゅうせいひん",
+          "meaning": "乳制品"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cce7064d2fa1bea9",
+      "index": 2134,
+      "word": "紅茶",
+      "reading_hiragana": "こうちゃ",
+      "context_meaning_zh": "红茶",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "红茶",
+          "meaning_ja": "茶葉を発酵させて作る、赤褐色の飲み物。",
+          "example_ja": "午後のお茶に紅茶をいれました。",
+          "example_zh": "我泡了红茶作为下午茶。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "紅茶をいれる",
+          "zh": "泡红茶"
+        }
+      ],
+      "usage_note_zh": "「紅茶」指红茶这种饮品；说冲泡用「紅茶をいれる」，说喝用「紅茶を飲む」。日语中的「紅茶」不是中文的泛称“茶”，通常与绿茶相区别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "饮品红茶名词，教材说明与绿茶相区别，常搭配入れる、飲む。",
+        "dictionary_sequences": [
+          1280770
+        ],
+        "identity": {
+          "word": "紅茶",
+          "reading_hiragana": "こうちゃ",
+          "meaning": "红茶"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6dc0c2e606b3fd6b",
+      "index": 2135,
+      "word": "コーラ",
+      "reading_hiragana": "コーラ",
+      "context_meaning_zh": "可乐(饮料名)",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "可乐(饮料名)",
+          "meaning_ja": "甘く、炭酸の入った清涼飲料の一種。",
+          "example_ja": "氷を入れたコーラを一杯ください。",
+          "example_zh": "请给我一杯加冰的可乐。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "コーラを飲む",
+          "zh": "喝可乐"
+        }
+      ],
+      "usage_note_zh": "「コーラ」指可乐饮料，常说「コーラを飲む／一本買う」；它是饮料名，不宜把“可乐”义扩展为所有碳酸饮料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "原义限定为可乐饮料，本例以购买次数为话题；词典饮料义适用，树木义不适用。",
+        "dictionary_sequences": [
+          1049330
+        ],
+        "identity": {
+          "word": "コーラ",
+          "reading_hiragana": "コーラ",
+          "meaning": "可乐(饮料名)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-46880ce04139f4af",
+      "index": 2136,
+      "word": "ファーストフード",
+      "reading_hiragana": "ファーストフード",
+      "context_meaning_zh": "快餐（现常写ファストフード）",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "快餐（现常写ファストフード）",
+          "meaning_ja": "短い時間で用意して食べられる料理や、その店。",
+          "example_ja": "忙しい日にファーストフードで昼食を済ませました。",
+          "example_zh": "忙碌的一天里我吃快餐解决了午饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ファーストフード店",
+          "zh": "快餐店"
+        }
+      ],
+      "usage_note_zh": "「ファーストフード」指快速供应的餐食或这类餐馆；现代日语中「ファストフード」也很常见。说去店里吃可说「ファストフード店に行く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "输入词形与例句的日文拼写存在长音差异，但语境及词典均为快餐义；不影响名词词类判断。",
+        "dictionary_sequences": [
+          1108150
+        ],
+        "identity": {
+          "word": "ファーストフード",
+          "reading_hiragana": "ファーストフード",
+          "meaning": "快餐（现常写ファストフード）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3fabbf0a13e0c35a",
+      "index": 2137,
+      "word": "カップ麺",
+      "reading_hiragana": "カップめん",
+      "context_meaning_zh": "(纸杯等包装的)快餐面",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(纸杯等包装的)快餐面",
+          "meaning_ja": "容器に入った麺に湯を注いで作る即席食品。",
+          "example_ja": "昼休みにカップ麺を食べました。",
+          "example_zh": "午休时我吃了杯面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "カップ麺に湯を注ぐ",
+          "zh": "(纸杯等包装的)快餐面"
+        }
+      ],
+      "usage_note_zh": "「カップ麺」指装在杯状容器里的方便面，通常加热水冲泡；「カップ麺に湯を注ぐ」中用「に」标注水注入的容器。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词头指杯装即食面，课程例句以其充当解决一餐的食物；词典食品领域标签只说明语义领域，不是语体标签。",
+        "dictionary_sequences": [
+          2083350
+        ],
+        "identity": {
+          "word": "カップ麺",
+          "reading_hiragana": "カップめん",
+          "meaning": "(纸杯等包装的)快餐面"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6abcff8f2f370a87",
+      "index": 2138,
+      "word": "常に",
+      "reading_hiragana": "つねに",
+      "context_meaning_zh": "经常",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "经常",
+          "meaning_ja": "ある状態や行動がいつも続いている様子。",
+          "example_ja": "健康のために常に水を持ち歩いています。",
+          "example_zh": "为了健康，我总是随身带水。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "常に意識する",
+          "zh": "经常"
+        }
+      ],
+      "usage_note_zh": "「常に」强调持续处于某种状态或始终保持某种做法，语气比「いつも」稍正式；说日常反复发生的个人习惯时，「いつも」更自然。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「常に手作りではない」表达并非始终手工制作，词典中的始终、常常副词义适用。",
+        "dictionary_sequences": [
+          1355970
+        ],
+        "identity": {
+          "word": "常に",
+          "reading_hiragana": "つねに",
+          "meaning": "经常"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9538923dbd251f33",
+      "index": 2139,
+      "word": "心掛ける",
+      "reading_hiragana": "こころがける",
+      "context_meaning_zh": "留心、留意",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "留心、留意",
+          "meaning_ja": "そうなるように、いつも注意して行う。",
+          "example_ja": "野菜を毎食食べるよう心掛けています。",
+          "example_zh": "我一直注意做到每餐都吃蔬菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "野菜を食べるよう心掛ける",
+          "zh": "注意做到吃蔬菜"
+        }
+      ],
+      "usage_note_zh": "表示把某事当作目标并持续提醒自己去做，常用「～ように心掛ける」，如「野菜を食べるよう心掛ける」；目标内容也可直接用「を」标记。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "把饭前洗手作为持续留意的事项，ことを是心掛ける的内容对象；一段他动词。",
+        "dictionary_sequences": [
+          1360610
+        ],
+        "identity": {
+          "word": "心掛ける",
+          "reading_hiragana": "こころがける",
+          "meaning": "留心、留意"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9165f459dcbf13d9",
+      "index": 2140,
+      "word": "育てる",
+      "reading_hiragana": "そだてる",
+      "context_meaning_zh": "养育、抚养",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "养育、抚养",
+          "meaning_ja": "世話をして成長するようにする。",
+          "example_ja": "ベランダで小さなトマトを育てています。",
+          "example_zh": "我在阳台上种着小番茄。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "野菜を育てる",
+          "zh": "养育、抚养"
+        }
+      ],
+      "usage_note_zh": "「育てる」是他动词，养育或培育的对象用「を」；和「育つ」相对，前者表示有人付出照料使其成长，后者表示对象自身成长。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "姐姐养育两个孩子，孩子是直接对象；育てる为一段他动词，句尾礼貌形式不属于词项属性。",
+        "dictionary_sequences": [
+          1160570
+        ],
+        "identity": {
+          "word": "育てる",
+          "reading_hiragana": "そだてる",
+          "meaning": "养育、抚养"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-076a97a98b627c35",
+      "index": 2141,
+      "word": "のんびり",
+      "reading_hiragana": "のんびり",
+      "context_meaning_zh": "舒舒服服、悠闲自得",
+      "pos_ja": "動詞・副詞",
+      "pos_zh": "动词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "舒舒服服、悠闲自得",
+          "meaning_ja": "急がず、気持ちに余裕を持って過ごす様子。",
+          "example_ja": "旅行の最終日は宿でのんびりしました。",
+          "example_zh": "旅行的最后一天我在旅馆悠闲地休息。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "のんびり過ごす",
+          "zh": "悠闲度日"
+        }
+      ],
+      "usage_note_zh": "「のんびり」形容不赶时间、心情放松地度过；常修饰「過ごす」「休む」。它强调悠闲状态，与只说动作速度慢的「ゆっくり」略有不同。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "verb",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "JMdict 1010050 同时标副词／副词と和自サ动词；本例为“悠闲地聊”，动词用法是不及物「のんびりする」。",
+        "dictionary_sequences": [
+          1010050
+        ],
+        "identity": {
+          "word": "のんびり",
+          "reading_hiragana": "のんびり",
+          "meaning": "舒舒服服、悠闲自得"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f3613b8aa092c7c3",
+      "index": 2142,
+      "word": "リラックス",
+      "reading_hiragana": "リラックス",
+      "context_meaning_zh": "放松",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "放松",
+          "meaning_ja": "緊張や疲れが取れて、心身が楽になること。",
+          "example_ja": "お風呂に入るとリラックスできます。",
+          "example_zh": "泡澡能让我放松。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "リラックスする",
+          "zh": "放松"
+        }
+      ],
+      "usage_note_zh": "「リラックスする」表示放松身心，外来语后接「する」构成动词；也可说「リラックスした気分」。比「休む」更强调解除紧张。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「リラックス」可作名词，也常以「する」构成自动词，表示解除身心紧张。",
+        "dictionary_sequences": [
+          1143240
+        ],
+        "identity": {
+          "word": "リラックス",
+          "reading_hiragana": "リラックス",
+          "meaning": "放松"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c6ac5bbd124a3fd6",
+      "index": 2143,
+      "word": "暮らし",
+      "reading_hiragana": "くらし",
+      "context_meaning_zh": "日常生活、生活状态",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日常生活、生活状态",
+          "meaning_ja": "毎日の生活の様子や、生活の仕方。",
+          "example_ja": "この町の暮らしにも少しずつ慣れました。",
+          "example_zh": "我也渐渐习惯了在这座城市的生活。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "暮らしを楽しむ",
+          "zh": "享受生活"
+        }
+      ],
+      "usage_note_zh": "「暮らし」指生活本身或生活状态，常见「一人暮らし」「暮らしを楽しむ」；说较抽象的生活方式也可用「生活」，两者搭配习惯不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "适合日常生活的时间段，暮らし指生活方式或生活状况；词典way of life义对应。",
+        "dictionary_sequences": [
+          1514930
+        ],
+        "identity": {
+          "word": "暮らし",
+          "reading_hiragana": "くらし",
+          "meaning": "日常生活、生活状态"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-51ecdcd43e0bdf70",
+      "index": 2144,
+      "word": "弁当",
+      "reading_hiragana": "べんとう",
+      "context_meaning_zh": "盒饭",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "盒饭",
+          "meaning_ja": "ご飯やおかずを容器に入れ、持ち運べるようにした食事。",
+          "example_ja": "母は毎朝、家族の弁当を作ります。",
+          "example_zh": "母亲每天早上给家人做便当。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "弁当を作る",
+          "zh": "做便当"
+        }
+      ],
+      "usage_note_zh": "「弁当」指装在盒中的一顿饭，常说「弁当を作る／持って行く」；在店里买的也叫「弁当」，不限于自家制作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指装在盒中的一顿饭，既可自制也可购买；例句问是否做便当。",
+        "dictionary_sequences": [
+          1513060
+        ],
+        "identity": {
+          "word": "弁当",
+          "reading_hiragana": "べんとう",
+          "meaning": "盒饭"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8188c482026f12b3",
+      "index": 2145,
+      "word": "だいぶ",
+      "reading_hiragana": "だいぶ",
+      "context_meaning_zh": "相当、(数量)不少",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相当、(数量)不少",
+          "meaning_ja": "程度や量がかなり大きい様子。",
+          "example_ja": "休んだので、疲れはだいぶ取れました。",
+          "example_zh": "休息之后，疲劳消除了不少。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "だいぶ良くなる",
+          "zh": "好转不少"
+        }
+      ],
+      "usage_note_zh": "「だいぶ」修饰形容词或动词，表示程度或数量相当大（だいぶ良くなった）；常用于与之前相比的变化，不表示精确数量。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "询问负担减少幅度，「だいぶ」修饰減る表示相当程度；选择副词词条而非同形古官职义。",
+        "dictionary_sequences": [
+          1414920
+        ],
+        "identity": {
+          "word": "だいぶ",
+          "reading_hiragana": "だいぶ",
+          "meaning": "相当、(数量)不少"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9f313cc433a88263",
+      "index": 2146,
+      "word": "目覚める",
+      "reading_hiragana": "めざめる",
+      "context_meaning_zh": "睡醒;觉醒",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "睡醒;觉醒",
+          "meaning_ja": "眠りから起きる。また、心の中で関心や意識が生まれる。",
+          "example_ja": "今朝は鳥の声で目覚めました。",
+          "example_zh": "今天早上我被鸟叫声唤醒。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "朝目覚める",
+          "zh": "早晨醒来"
+        }
+      ],
+      "usage_note_zh": "「目覚める」可表示从睡眠中醒来（朝目覚める），也可比喻兴趣或意识开始出现；说普通的“起床、离开床”常用「起きる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "既可从睡眠醒来，也可觉醒兴趣或意识；本课吃菜后开始体会蔬菜美味属比喻义，区别起床。",
+        "dictionary_sequences": [
+          1535350
+        ],
+        "identity": {
+          "word": "目覚める",
+          "reading_hiragana": "めざめる",
+          "meaning": "睡醒;觉醒"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e5ee9f04b515e318",
+      "index": 2147,
+      "word": "取り入れる",
+      "reading_hiragana": "とりいれる",
+      "context_meaning_zh": "吸收、吸取",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吸收、吸取",
+          "meaning_ja": "外から中へ入れる。また、よい考えや方法を自分の中で使う。",
+          "example_ja": "先生の助言を取り入れて、発表を直しました。",
+          "example_zh": "我采纳老师的建议，修改了发表内容。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意見を取り入れる",
+          "zh": "采纳意见"
+        }
+      ],
+      "usage_note_zh": "「取り入れる」可指把外面的东西拿进来，也可指采纳意见、吸收方法；后接内容时常用「意見を取り入れる」，对象用「を」标记。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "把新事物纳入生活，事物为直接宾语，符合一段他动词的吸收／引入义；「たいです」的礼貌属于句式，不标词语礼貌。",
+        "dictionary_sequences": [
+          1326880
+        ],
+        "identity": {
+          "word": "取り入れる",
+          "reading_hiragana": "とりいれる",
+          "meaning": "吸收、吸取"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-187e77949f61e5de",
+      "index": 2148,
+      "word": "記憶",
+      "reading_hiragana": "きおく",
+      "context_meaning_zh": "记忆",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "记忆",
+          "meaning_ja": "経験したことや知識を心に覚えておくこと。",
+          "example_ja": "旅行で見た景色をよく記憶しています。",
+          "example_zh": "我清楚地记得旅行时看到的景色。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "記憶に残る",
+          "zh": "记忆"
+        }
+      ],
+      "usage_note_zh": "表示把内容记在脑中或记忆本身；可说「内容を記憶する」，也常说「記憶に残る」（留在记忆中）。「覚える」更侧重记住这一动作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此例将记忆作名词；词典另列及物サ变用法「記憶する」，应保留名词兼动词类别。",
+        "dictionary_sequences": [
+          1223150
+        ],
+        "identity": {
+          "word": "記憶",
+          "reading_hiragana": "きおく",
+          "meaning": "记忆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-afda1960f827bb30",
+      "index": 2149,
+      "word": "保つ",
+      "reading_hiragana": "たもつ",
+      "context_meaning_zh": "保持",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "保持",
+          "meaning_ja": "ある状態を変えずに続ける。",
+          "example_ja": "水分を取って体温を保ちましょう。",
+          "example_zh": "补充水分，保持体温吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "健康を保つ",
+          "zh": "保持健康"
+        }
+      ],
+      "usage_note_zh": "「保つ」表示使某种状态继续维持，维持的对象用「を」；如体温を保つ。它不是表示拥有物品的「持つ」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "保持散步习惯是他动用法；词典也列持续、耐久等自动用法，故按完整词项保留自他两类。",
+        "dictionary_sequences": [
+          1513250
+        ],
+        "identity": {
+          "word": "保つ",
+          "reading_hiragana": "たもつ",
+          "meaning": "保持"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3ecbcb634e603229",
+      "index": 2150,
+      "word": "チャレンジ",
+      "reading_hiragana": "チャレンジ",
+      "context_meaning_zh": "挑战",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "挑战",
+          "meaning_ja": "難しいことや初めてのことをやってみること。",
+          "example_ja": "今年は一人で海外旅行にチャレンジします。",
+          "example_zh": "今年我挑战独自出国旅行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新しいことにチャレンジする",
+          "zh": "挑战新事物"
+        }
+      ],
+      "usage_note_zh": "「チャレンジ」是外来名词，也可接「する」作动词，表示尝试有难度或新鲜的事情；常说「新しいことにチャレンジする」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「日記にチャレンジする」把挑战作为名词及する自动词使用；辞书明确列vs/vi，体育录像复核义不适用。",
+        "dictionary_sequences": [
+          1078020
+        ],
+        "identity": {
+          "word": "チャレンジ",
+          "reading_hiragana": "チャレンジ",
+          "meaning": "挑战"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-712ad995554e2e07",
+      "index": 2151,
+      "word": "手入れ",
+      "reading_hiragana": "ていれ",
+      "context_meaning_zh": "修整、拾掇;维护",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "修整、拾掇;维护",
+          "meaning_ja": "よい状態を保つために、掃除や修理などをすること。",
+          "example_ja": "長く使えるように、靴を定期的に手入れします。",
+          "example_zh": "为了让鞋子耐穿，我定期保养。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道具の手入れ",
+          "zh": "保养工具"
+        }
+      ],
+      "usage_note_zh": "「手入れ」指为维持良好状态而清洁、修理或照料，常说「庭の手入れ」「道具を手入れする」；人的护理也可用「肌の手入れ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "植物手入れ为照料维护名词及サ变他动词，词典也有维护和警方搜查义。",
+        "dictionary_sequences": [
+          1328250
+        ],
+        "identity": {
+          "word": "手入れ",
+          "reading_hiragana": "ていれ",
+          "meaning": "修整、拾掇;维护"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6f3fb36be82b78c1",
+      "index": 2152,
+      "word": "フルーツ",
+      "reading_hiragana": "フルーツ",
+      "context_meaning_zh": "水果",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "水果",
+          "meaning_ja": "果物をまとめて呼ぶ言い方。",
+          "example_ja": "朝食にヨーグルトとフルーツを食べました。",
+          "example_zh": "早餐我吃了酸奶和水果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "フルーツを切る",
+          "zh": "切水果"
+        }
+      ],
+      "usage_note_zh": "「フルーツ」常用于水果或水果制品的日常称呼，如「フルーツを食べる」；在成分或营养类别说明中，更常见正式词「果物」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处フルーツ是可食水果的集合名词，例句指散步后食用；不带特殊领域或体裁属性。",
+        "dictionary_sequences": [
+          1112040
+        ],
+        "identity": {
+          "word": "フルーツ",
+          "reading_hiragana": "フルーツ",
+          "meaning": "水果"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-606058e510a328bd",
+      "index": 2153,
+      "word": "思い切って",
+      "reading_hiragana": "おもいきって",
+      "context_meaning_zh": "大胆地、断然地",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大胆地、断然地",
+          "meaning_ja": "迷いを捨てて、勇気を出して行動する様子。",
+          "example_ja": "思い切って髪を短くしました。",
+          "example_zh": "我鼓起勇气把头发剪短了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "思い切って始める",
+          "zh": "下定决心开始"
+        }
+      ],
+      "usage_note_zh": "「思い切って」修饰后面的行动，表示克服犹豫后果断去做；常接「始める」「買う」「聞く」，不单独作名词使用。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "修饰挑战行动，表示克服犹豫后果断尝试；不作名词，也非固定敬语。",
+        "dictionary_sequences": [
+          1609450
+        ],
+        "identity": {
+          "word": "思い切って",
+          "reading_hiragana": "おもいきって",
+          "meaning": "大胆地、断然地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-733ee35aa3f725ff",
+      "index": 2154,
+      "word": "増やす",
+      "reading_hiragana": "ふやす",
+      "context_meaning_zh": "增加",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "增加",
+          "meaning_ja": "数や量を前より多くする。",
+          "example_ja": "健康のために、歩く時間を少し増やしました。",
+          "example_zh": "为了健康，我稍微增加了步行时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "回数を増やす",
+          "zh": "增加次数"
+        }
+      ],
+      "usage_note_zh": "「増やす」是他动词，主动增加的对象用「を」（回数を増やす）；数量自己变多时用自动词「増える」，如「回数が増える」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "五段他动词，买物次数为增加的宾语，词典标vt。",
+        "dictionary_sequences": [
+          1602880
+        ],
+        "identity": {
+          "word": "増やす",
+          "reading_hiragana": "ふやす",
+          "meaning": "增加"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e1654236981bc371",
+      "index": 2155,
+      "word": "無駄遣い",
+      "reading_hiragana": "むだづかい",
+      "context_meaning_zh": "浪费、乱花钱",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "浪费、乱花钱",
+          "meaning_ja": "必要のないものに、お金や物を使うこと。",
+          "example_ja": "買い物の前にリストを作り、無駄遣いを防ぎます。",
+          "example_zh": "购物前先列清单，避免乱花钱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "お金を無駄遣いする",
+          "zh": "乱花钱"
+        }
+      ],
+      "usage_note_zh": "「無駄遣い」指把钱或物花在不必要的地方，可说「お金を無駄遣いする」；也常用「無駄遣いを減らす」表达节省开支。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "减少饮料浪费指避免不必要的消耗；词典列名词及浪費する他动用法。",
+        "dictionary_sequences": [
+          1530520
+        ],
+        "identity": {
+          "word": "無駄遣い",
+          "reading_hiragana": "むだづかい",
+          "meaning": "浪费、乱花钱"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-76ba2ea909d6456b",
+      "index": 2156,
+      "word": "使い過ぎ",
+      "reading_hiragana": "つかいすぎ",
+      "context_meaning_zh": "用过量、用过头",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "用过量、用过头",
+          "meaning_ja": "必要な量や程度を超えて使うこと。",
+          "example_ja": "目を休めるため、スマートフォンの使い過ぎに注意します。",
+          "example_zh": "为了让眼睛休息，我注意不过度使用手机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "使い過ぎに注意する",
+          "zh": "注意避免过度使用"
+        }
+      ],
+      "usage_note_zh": "「使い過ぎ」由「使う」加「過ぎ」构成，表示使用超过适当程度；可接对象「スマホの使い過ぎ」，也可说「使い過ぎに注意する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "使い過ぎ是超过适当限度的使用行为名词，句中表示需要注意过度使用；词典列overuse义。",
+        "dictionary_sequences": [
+          2027710
+        ],
+        "identity": {
+          "word": "使い過ぎ",
+          "reading_hiragana": "つかいすぎ",
+          "meaning": "用过量、用过头"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-21eb872703c6c3ed",
+      "index": 2157,
+      "word": "愛用",
+      "reading_hiragana": "あいよう",
+      "context_meaning_zh": "喜欢用",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "喜欢用",
+          "meaning_ja": "気に入った物を長い間よく使うこと。",
+          "example_ja": "この水筒を毎日愛用しています。",
+          "example_zh": "我每天都喜欢用这个水壶。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道具を愛用する",
+          "zh": "常用喜爱的工具"
+        }
+      ],
+      "usage_note_zh": "「愛用する」表示因喜欢而长期使用某物，使用对象用「を」；常见「愛用の手帳」「この道具を愛用する」，带有个人喜爱之意。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "爱用の手帳表示长期喜欢并惯常使用的记事本；辞典列サ变他动和形容动词连接用法，本句取名词修饰用法。",
+        "dictionary_sequences": [
+          1151090
+        ],
+        "identity": {
+          "word": "愛用",
+          "reading_hiragana": "あいよう",
+          "meaning": "喜欢用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d6bce9d3c506957f",
+      "index": 2158,
+      "word": "飽きる・厭きる",
+      "reading_hiragana": "あきる",
+      "context_meaning_zh": "满足、腻烦",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "满足、腻烦",
+          "meaning_ja": "同じことが続いて、もうしたくないと感じる。",
+          "example_ja": "同じ味に飽きたので別の料理を選びました。",
+          "example_zh": "我吃腻了同一种口味，所以选了别的菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "仕事に飽きる",
+          "zh": "满足、腻烦"
+        }
+      ],
+      "usage_note_zh": "本课按“厌倦、腻了”理解，常说「同じ味に飽きる」或「食べ飽きる」。它也可表示充分体验后觉得够了、不再想要；若表达积极的满足、满意，通常说「満足する」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context"
+        ],
+        "note_zh": "每天吃同样吐司而感到腻烦，符合一段自动词的厌倦义；未提供匹配词典来源。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "飽きる・厭きる",
+          "reading_hiragana": "あきる",
+          "meaning": "满足、腻烦"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8352fb793dc827d2",
+      "index": 2159,
+      "word": "間食",
+      "reading_hiragana": "かんしょく",
+      "context_meaning_zh": "吃点心、吃零食;零食",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吃点心、吃零食;零食",
+          "meaning_ja": "食事と食事の間に食べる軽い食べ物。また、それを食べること。",
+          "example_ja": "夕食前の間食をやめたら、食事がおいしくなりました。",
+          "example_zh": "停止晚饭前吃零食后，吃饭变得更香了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "間食をする",
+          "zh": "吃零食"
+        }
+      ],
+      "usage_note_zh": "「間食」既可指正餐之间吃的零食，也可指吃零食这一行为；说行为用「間食をする」，说停止则用「間食を控える」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "詞典将間食する列为不及物サ变用法；本例是把行为记录下来，没有支配宾语的动词义。",
+        "dictionary_sequences": [
+          1215500
+        ],
+        "identity": {
+          "word": "間食",
+          "reading_hiragana": "かんしょく",
+          "meaning": "吃点心、吃零食;零食"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-594373444659a079",
+      "index": 2160,
+      "word": "ダイエット",
+      "reading_hiragana": "ダイエット",
+      "context_meaning_zh": "节食减肥",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "节食减肥",
+          "meaning_ja": "体重を減らすため、食事や運動を調整すること。",
+          "example_ja": "無理をせず、食事と運動を組み合わせてダイエットします。",
+          "example_zh": "我不过度勉强自己，将饮食和运动结合起来减肥。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ダイエットをする",
+          "zh": "减肥"
+        }
+      ],
+      "usage_note_zh": "日语「ダイエット」常指为减重而调整饮食或运动，也可具体指节食；表达开始减肥说「ダイエットを始める」，不等于泛指任何饮食。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "过度减肥是名词短语；词典另列“进行减肥”的自サ动词用法，动作主体减重而不支配减重宾语。",
+        "dictionary_sequences": [
+          1076730
+        ],
+        "identity": {
+          "word": "ダイエット",
+          "reading_hiragana": "ダイエット",
+          "meaning": "节食减肥"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b0e36ed434c1332c",
+      "index": 2161,
+      "word": "癖",
+      "reading_hiragana": "くせ",
+      "context_meaning_zh": "习惯、习气",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "习惯、习气",
+          "meaning_ja": "気づかないうちに、いつもしてしまう行動や傾向。",
+          "example_ja": "考えるとき、ペンを回す癖があります。",
+          "example_zh": "我有思考时转笔的习惯。"
+        },
+        {
+          "meaning_zh": "物事や人に特有の、変わった性質や傾向。",
+          "meaning_ja": "ほかのものと違う独特の性質があり、扱いに慣れが必要な様子。",
+          "example_ja": "この古い道具は少し癖があり、使い方に慣れが必要です。",
+          "example_zh": "这件旧工具有些特殊，使用方法需要适应。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "癖がつく",
+          "zh": "习惯、习气"
+        }
+      ],
+      "usage_note_zh": "说某人有某种习惯或特有倾向时常用「癖がある」；「癖になる」表示某做法渐渐成了习惯。与较中性的「習慣」相比，「癖」常带个人习性或不易改掉的意味。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "记录饮食后发现自己的习惯，癖取个人行为倾向义；词典也列皱褶义，与此无关。",
+        "dictionary_sequences": [
+          1509350
+        ],
+        "identity": {
+          "word": "癖",
+          "reading_hiragana": "くせ",
+          "meaning": "习惯、习气"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ad4c52daf2710f6c",
+      "index": 2162,
+      "word": "つい",
+      "reading_hiragana": "つい",
+      "context_meaning_zh": "不由得、无意中",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不由得、无意中",
+          "meaning_ja": "意識していないのに思わずそうしてしまう様子。",
+          "example_ja": "甘い物を見ると、つい手が伸びます。",
+          "example_zh": "一看到甜食，我就不由得伸手去拿。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "つい買う",
+          "zh": "不由得、无意中"
+        }
+      ],
+      "usage_note_zh": "「つい～てしまう」常表示没留神就做了某事，常带事后觉得不该如此的语气；只说意外发生时不一定能用「つい」，它侧重动作出乎行为者本意。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本例因喜欢拉面而不由得把汤喝完，取词典所列无意中义；同音的“成对物”词项无关。",
+        "dictionary_sequences": [
+          1008030
+        ],
+        "identity": {
+          "word": "つい",
+          "reading_hiragana": "つい",
+          "meaning": "不由得、无意中"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a0d53bc18a658a0a",
+      "index": 2163,
+      "word": "知らず知らず",
+      "reading_hiragana": "しらずしらず",
+      "context_meaning_zh": "不知不觉中",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不知不觉中",
+          "meaning_ja": "自分では気づかないうちに物事が進む様子。",
+          "example_ja": "知らず知らずのうちに歩く距離が長くなりました。",
+          "example_zh": "不知不觉间，步行距离变长了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "知らず知らずのうちに",
+          "zh": "不知不觉中"
+        }
+      ],
+      "usage_note_zh": "常以「知らず知らずのうちに」表示本人没有察觉、变化逐渐发生；与「つい」常说一时没忍住做了某动作不同，这个词更突出不知情的持续变化。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「知らず知らずのうちに」修饰无意识发生的吃点心行为，符合词典所列不知情、未察觉地这一副词义。",
+        "dictionary_sequences": [
+          1609970
+        ],
+        "identity": {
+          "word": "知らず知らず",
+          "reading_hiragana": "しらずしらず",
+          "meaning": "不知不觉中"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b601ab61fe8fbb88",
+      "index": 2164,
+      "word": "自然に／自然と",
+      "reading_hiragana": "しぜんに／しぜんと",
+      "context_meaning_zh": "自然而然地",
+      "pos_ja": "副詞・表現",
+      "pos_zh": "副词・表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "自然而然地",
+          "meaning_ja": "無理にそうしなくても、自然な流れでその状態になる様子。",
+          "example_ja": "毎日使っているうちに、その表現を自然に覚えました。",
+          "example_zh": "每天使用的过程中，我自然记住了那个表达。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "自然に覚える",
+          "zh": "自然而然记住"
+        }
+      ],
+      "usage_note_zh": "「自然に／自然と」表示没有刻意强求而自然发生；常修饰变化或习得，如「自然に覚える」。这里读音和词形按条目给定的两种副词用法理解。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb",
+          "expression"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "low",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "自然に／自然と在两条例句中均表示植物自行生长或笑容自然出现，作副词性表达；因词典来源缺失，保留表达边界待核。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "自然に／自然と",
+          "reading_hiragana": "しぜんに／しぜんと",
+          "meaning": "自然而然地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e5c528d5a609a628",
+      "index": 2165,
+      "word": "栽培",
+      "reading_hiragana": "さいばい",
+      "context_meaning_zh": "栽培",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "栽培",
+          "meaning_ja": "植物を植えて、食べ物や花などを育てること。",
+          "example_ja": "祖父は畑でトマトを栽培しています。",
+          "example_zh": "祖父在田里栽培西红柿。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "野菜を栽培する",
+          "zh": "栽培"
+        }
+      ],
+      "usage_note_zh": "栽培的对象用「を」标记，如「野菜を栽培する」；常用于有计划地种植作物或植物。单说植物自然生长时一般用「育つ」，不表示人为栽培。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「栽培」表示种植培育这一活动，作名词并可接「する」构成他动词；因此名词为主类。",
+        "dictionary_sequences": [
+          1294910
+        ],
+        "identity": {
+          "word": "栽培",
+          "reading_hiragana": "さいばい",
+          "meaning": "栽培"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ff86a4a063da4560",
+      "index": 2166,
+      "word": "缶詰",
+      "reading_hiragana": "かんづめ",
+      "context_meaning_zh": "罐头食品",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "罐头食品",
+          "meaning_ja": "食品を缶に入れて密封し、保存できるようにしたもの。",
+          "example_ja": "非常用に魚の缶詰を棚に置いています。",
+          "example_zh": "我把鱼罐头放在架子上以备应急。"
+        },
+        {
+          "meaning_zh": "仕事などに集中するため、外へ出ずに長時間取り組むこと。",
+          "meaning_ja": "仕事に集中するため、外出せずにその場所にとどまる状態。",
+          "example_ja": "作家は締め切り前、ホテルで三日間缶詰になりました。",
+          "example_zh": "作家在截稿前连续三天闭门待在酒店里工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "缶詰を開ける",
+          "zh": "打开罐头"
+        }
+      ],
+      "usage_note_zh": "本条按「かんづめ」指罐装食品；搭配可说「缶詰を開ける／保存する」。另有「缶詰になる」的比喻用法表示闭门集中工作，语境不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处指罐装食品，可作罐头名词；词典同列罐装食品义及其他禁闭义，当前语境排除后者。",
+        "dictionary_sequences": [
+          1214560
+        ],
+        "identity": {
+          "word": "缶詰",
+          "reading_hiragana": "かんづめ",
+          "meaning": "罐头食品"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a58bbac6f3210843",
+      "index": 2167,
+      "word": "果汁",
+      "reading_hiragana": "かじゅう",
+      "context_meaning_zh": "果汁",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "果汁",
+          "meaning_ja": "果物をしぼって得た液体。",
+          "example_ja": "朝食にオレンジの果汁を飲みました。",
+          "example_zh": "早餐我喝了橙汁。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "果汁を絞る",
+          "zh": "榨果汁"
+        }
+      ],
+      "usage_note_zh": "「果汁」指从水果中榨出的液体，可说「果汁を絞る」「果汁を飲む」；它不指完整水果，日常说果汁饮料时也常直接说「ジュース」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "果实榨出的汁液名词；本课用于果汁饮料成分标示语境。",
+        "dictionary_sequences": [
+          1192990
+        ],
+        "identity": {
+          "word": "果汁",
+          "reading_hiragana": "かじゅう",
+          "meaning": "果汁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-31a21d96684548b2",
+      "index": 2168,
+      "word": "トースト",
+      "reading_hiragana": "トースト",
+      "context_meaning_zh": "烤面包(片)、吐司",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "烤面包(片)、吐司",
+          "meaning_ja": "食パンを焼いたもの。",
+          "example_ja": "トーストにバターを塗って食べました。",
+          "example_zh": "我在烤面包片上抹了黄油吃。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "トーストを焼く",
+          "zh": "烤吐司"
+        }
+      ],
+      "usage_note_zh": "「トースト」通常指烤过的食パン，常说「トーストにバターを塗る」；说一片时可用「一枚」，不要按杯或个计数。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "语境所指烤好的吐司食物，词典食物义是名词；虽条目另有烤制动词义，本词义不采用。",
+        "dictionary_sequences": [
+          1084540
+        ],
+        "identity": {
+          "word": "トースト",
+          "reading_hiragana": "トースト",
+          "meaning": "烤面包(片)、吐司"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f2d745487816fb57",
+      "index": 2169,
+      "word": "茶漬け",
+      "reading_hiragana": "ちゃづけ",
+      "context_meaning_zh": "茶泡饭",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "茶泡饭",
+          "meaning_ja": "ご飯に茶やだしをかけた料理。",
+          "example_ja": "残ったご飯に熱いお茶をかけて、茶漬けにしました。",
+          "example_zh": "我把热茶浇在剩饭上，做成了茶泡饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "茶漬けを作る",
+          "zh": "做茶泡饭"
+        }
+      ],
+      "usage_note_zh": "「茶漬け」是把茶或高汤浇在米饭上的料理；常说「茶漬けを食べる／作る」。名字虽含「茶」，也可以用汤汁而不一定是红茶。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "剩饭做成茶泡饭，符合词典料理名词义；同一条目另列茶泡物，但此处为食品。",
+        "dictionary_sequences": [
+          1597520
+        ],
+        "identity": {
+          "word": "茶漬け",
+          "reading_hiragana": "ちゃづけ",
+          "meaning": "茶泡饭"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cf210f044358b416",
+      "index": 2170,
+      "word": "餌",
+      "reading_hiragana": "えさ",
+      "context_meaning_zh": "饵料;诱饵",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饵料;诱饵",
+          "meaning_ja": "動物に与える食べ物。また魚を釣るための食べ物。",
+          "example_ja": "池の魚に餌を少しあげました。",
+          "example_zh": "我给池塘里的鱼喂了一点饵料。"
+        },
+        {
+          "meaning_zh": "相手を誘い出すために利用するもの。",
+          "meaning_ja": "人や動物を近づけたり、誘い出したりするために使うもの。",
+          "example_ja": "犯人は偽の知らせを餌に、相手を呼び出しました。",
+          "example_zh": "犯人用假消息作诱饵，把对方叫了出来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "餌を与える",
+          "zh": "喂饵料"
+        }
+      ],
+      "usage_note_zh": "动物吃的食物说「動物に餌をやる／与える」，动物用「に」标记；钓鱼时也指鱼饵。比喻中可说「～を餌に誘う」，表示拿某物作诱饵，需结合句型区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "包含动物饲料及比喻诱饵两义；给猫喂食和以高工资招人分别对应。",
+        "dictionary_sequences": [
+          1173340
+        ],
+        "identity": {
+          "word": "餌",
+          "reading_hiragana": "えさ",
+          "meaning": "饵料;诱饵"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4651ff258671f342",
+      "index": 2171,
+      "word": "育つ",
+      "reading_hiragana": "そだつ",
+      "context_meaning_zh": "发育、成长",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发育、成长",
+          "meaning_ja": "生き物が成長する。また能力が伸びる。",
+          "example_ja": "この苗は日当たりのよい場所で育ちます。",
+          "example_zh": "这株幼苗在阳光充足处生长。"
+        },
+        {
+          "meaning_zh": "子どもが成長し、大人になる。",
+          "meaning_ja": "人が幼少期を過ごし、成長して大人になる。",
+          "example_ja": "彼は海の近くの町で育ちました。",
+          "example_zh": "他在海边的城镇长大。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "元気に育つ",
+          "zh": "发育、成长"
+        }
+      ],
+      "usage_note_zh": "「育つ」是不及物动词，成长的对象用「が」标记；成长地点可用「で」。与他动词「育てる」不同，它着眼于对象自身成长，而非照料者的培育行为。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段动词「育つ」表示生长、被养育或成长，植物作主语时仍是不及物；教材句中的主语为植物。",
+        "dictionary_sequences": [
+          1160540
+        ],
+        "identity": {
+          "word": "育つ",
+          "reading_hiragana": "そだつ",
+          "meaning": "发育、成长"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c02aa54540183913",
+      "index": 2172,
+      "word": "芽",
+      "reading_hiragana": "め",
+      "context_meaning_zh": "芽",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "芽",
+          "meaning_ja": "植物から出てくる成長の始まりの部分。",
+          "example_ja": "枝に小さな芽が出てきました。",
+          "example_zh": "树枝上长出了小芽。"
+        },
+        {
+          "meaning_zh": "新しい計画や考えが生まれ始めたしるし。",
+          "meaning_ja": "これから形になりそうな考えや計画の初めの兆候。",
+          "example_ja": "話し合いから、新しい計画の芽が出てきました。",
+          "example_zh": "通过讨论，一个新计划开始萌芽。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "芽が出る",
+          "zh": "发芽"
+        }
+      ],
+      "usage_note_zh": "说植物长芽常用「芽が出る」；「芽」也可比喻新想法或计划刚出现的苗头，如「計画の芽」。比喻用法仍表示初步迹象，不能直接理解为计划已经完成。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「芽が出る」指植物萌芽，词典sprout义与例句助词结构相符。",
+        "dictionary_sequences": [
+          1197710
+        ],
+        "identity": {
+          "word": "芽",
+          "reading_hiragana": "め",
+          "meaning": "芽"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a74e7b50a143df63",
+      "index": 2173,
+      "word": "枯れる",
+      "reading_hiragana": "かれる",
+      "context_meaning_zh": "枯萎、枯死",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "枯萎、枯死",
+          "meaning_ja": "植物が水分を失い、生き生きした状態でなくなる。",
+          "example_ja": "水を忘れて鉢の花が枯れました。",
+          "example_zh": "忘了浇水，盆里的花枯萎了。"
+        },
+        {
+          "meaning_zh": "声が出にくくなり、かすれた状態になる。",
+          "meaning_ja": "声帯に負担がかかり、声がかすれて出しにくくなる。",
+          "example_ja": "長く話したので、声が枯れてしまいました。",
+          "example_zh": "因为说了很久，嗓子都哑了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "花が枯れる",
+          "zh": "花枯萎"
+        }
+      ],
+      "usage_note_zh": "植物枯萎时植物作主语并用「が」，如「花が枯れる」；嗓音沙哑也可说「声が枯れる」。若要说某人把植物弄枯，则用他动词「枯らす」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此例草木缺水后枯死，花作が标记主语；词典另有成熟义但当前未取，及物使枯萎应为枯らす。",
+        "dictionary_sequences": [
+          1267220
+        ],
+        "identity": {
+          "word": "枯れる",
+          "reading_hiragana": "かれる",
+          "meaning": "枯萎、枯死"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8ba601533db0dc4e",
+      "index": 2174,
+      "word": "植物",
+      "reading_hiragana": "しょくぶつ",
+      "context_meaning_zh": "植物",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "植物",
+          "meaning_ja": "草や木など、自分で栄養を作りながら育つ生き物。",
+          "example_ja": "窓辺の植物に、朝水をあげました。",
+          "example_zh": "早上我给窗边的植物浇了水。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "植物を育てる",
+          "zh": "培育植物"
+        }
+      ],
+      "usage_note_zh": "「植物」是草、树等生物的总称，常与「育つ」「育てる」搭配；它是生物类别词，不等同于只指观赏盆栽的「観葉植物」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例为照料植物的活动，植物指植物个体或植被总称，符合词典名词义。",
+        "dictionary_sequences": [
+          1357300
+        ],
+        "identity": {
+          "word": "植物",
+          "reading_hiragana": "しょくぶつ",
+          "meaning": "植物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a3fdf5d423429a15",
+      "index": 2175,
+      "word": "こつこつ",
+      "reading_hiragana": "こつこつ",
+      "context_meaning_zh": "孜孜不倦、勤勉",
+      "pos_ja": "副詞・オノマトペ",
+      "pos_zh": "副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "孜孜不倦、勤勉",
+          "meaning_ja": "目立たなくても少しずつ努力を重ねる様子。",
+          "example_ja": "彼女は毎日こつこつ漢字を覚えています。",
+          "example_zh": "她每天勤恳地记汉字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "こつこつ努力する",
+          "zh": "孜孜不倦、勤勉"
+        }
+      ],
+      "usage_note_zh": "常放在表示持续努力的动词前，如「こつこつ勉強する／貯金する」，强调一点一点积累、不急于求成；它侧重稳步积累，与「せっせと」着重忙着持续做事的语感不同。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课文用持续努力义，课程说明可带と；词典亦有敲击声义，但当前词义及例句均不取该义。",
+        "dictionary_sequences": [
+          1004530
+        ],
+        "identity": {
+          "word": "こつこつ",
+          "reading_hiragana": "こつこつ",
+          "meaning": "孜孜不倦、勤勉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8ba55c84624a2724",
+      "index": 2176,
+      "word": "規則的",
+      "reading_hiragana": "きそくてき",
+      "context_meaning_zh": "有规律的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "有规律的",
+          "meaning_ja": "決まった間隔や順序がくり返される様子。",
+          "example_ja": "規則的な生活をすると朝起きやすくなります。",
+          "example_zh": "规律生活的话早上会更容易起床。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "規則的に運動する",
+          "zh": "有规律地运动"
+        }
+      ],
+      "usage_note_zh": "修饰名词用「規則的な～」，修饰动作或状态用「規則的に～」；强调间隔或顺序有规律。描述生活作息时也常用「規則正しい生活」，比单说「規則的な生活」更固定。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "規則的修饰生活，表示依照一定规则持续进行；ナ形容词，句末礼貌不改变词项类别。",
+        "dictionary_sequences": [
+          1223050
+        ],
+        "identity": {
+          "word": "規則的",
+          "reading_hiragana": "きそくてき",
+          "meaning": "有规律的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6a0c2287d00b2e20",
+      "index": 2177,
+      "word": "ちりも積もれば山となる",
+      "reading_hiragana": "ちりもつもればやまとなる",
+      "context_meaning_zh": "积少成多",
+      "pos_ja": "表現・ことわざ",
+      "pos_zh": "表达・谚语",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "积少成多",
+          "meaning_ja": "小さな努力でも、長く積み重ねれば大きな結果につながるという教え。",
+          "example_ja": "毎日一ページずつ読もう。ちりも積もれば山となるから。",
+          "example_zh": "每天读一页吧，积少成多嘛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ちりも積もれば山となる",
+          "zh": "积少成多（谚语）"
+        }
+      ],
+      "usage_note_zh": "这句谚语用来说明小的积累也能带来大的成果，常用于鼓励持续学习或储蓄；可单独成句，也可接在理由之后。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "proverb"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "JMdict 2418420 标proverb；整句以尘积成山比喻小额储蓄累积，句中动词变化不把整个谚语判作裸动词。",
+        "dictionary_sequences": [
+          2418420
+        ],
+        "identity": {
+          "word": "ちりも積もれば山となる",
+          "reading_hiragana": "ちりもつもればやまとなる",
+          "meaning": "积少成多"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-56636563461cfdd5",
+      "index": 2178,
+      "word": "せっせと",
+      "reading_hiragana": "せっせと",
+      "context_meaning_zh": "不停地、一个劲儿地",
+      "pos_ja": "副詞・オノマトペ",
+      "pos_zh": "副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不停地、一个劲儿地",
+          "meaning_ja": "休まず熱心に続けて何かをする様子。",
+          "example_ja": "母は庭でせっせと草を抜いています。",
+          "example_zh": "母亲正在院子里不停地拔草。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "せっせと働く",
+          "zh": "勤奋工作"
+        }
+      ],
+      "usage_note_zh": "「せっせと」放在动词前，描述不休息、勤快地做事，如劳动、整理或搬运；重点是持续忙着行动，与「こつこつ」强调稳步积累的语感不同。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "副词拟态语表示不间断、勤勉地做事；例句中修饰料理をする，不具独立动词配价。",
+        "dictionary_sequences": [
+          2008620
+        ],
+        "identity": {
+          "word": "せっせと",
+          "reading_hiragana": "せっせと",
+          "meaning": "不停地、一个劲儿地"
+        }
+      }
+    }
+  ]
+}

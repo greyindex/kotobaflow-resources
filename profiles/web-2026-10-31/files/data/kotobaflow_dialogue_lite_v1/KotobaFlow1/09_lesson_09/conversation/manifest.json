@@ -1,0 +1,1047 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 119.079,
+ "listening_review": "pending",
+ "source_chapter": 9,
+ "turns": [
+  {
+   "turn_id": "C09-D001",
+   "turn_index": 0,
+   "speaker": "中村",
+   "source_text": "マテオさん、こんばんは。今日は寒いですね。",
+   "sentence_ids": [
+    "C09-D001-S01",
+    "C09-D001-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.742,
+   "duration_sec": 3.742
+  },
+  {
+   "turn_id": "C09-D002",
+   "turn_index": 1,
+   "speaker": "マテオ",
+   "source_text": "こんばんは。今朝も寒かったです。昨日も仕事でしたか。",
+   "sentence_ids": [
+    "C09-D002-S01",
+    "C09-D002-S02",
+    "C09-D002-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 4.092,
+   "end_sec": 8.104,
+   "duration_sec": 4.012
+  },
+  {
+   "turn_id": "C09-D003",
+   "turn_index": 2,
+   "speaker": "中村",
+   "source_text": "いいえ、一昨日も昨日も休みでした。一昨日は公園で散歩しました。週末は休みでしたか。",
+   "sentence_ids": [
+    "C09-D003-S01",
+    "C09-D003-S02",
+    "C09-D003-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 8.454,
+   "end_sec": 15.943,
+   "duration_sec": 7.489
+  },
+  {
+   "turn_id": "C09-D004",
+   "turn_index": 3,
+   "speaker": "マテオ",
+   "source_text": "土曜日は日本語を勉強しました。日曜日はリンさんと一緒に遊びました。",
+   "sentence_ids": [
+    "C09-D004-S01",
+    "C09-D004-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.293,
+   "end_sec": 21.216,
+   "duration_sec": 4.923
+  },
+  {
+   "turn_id": "C09-D005",
+   "turn_index": 4,
+   "speaker": "中村",
+   "source_text": "映画を見ましたか。",
+   "sentence_ids": [
+    "C09-D005-S01"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.567,
+   "end_sec": 23.099,
+   "duration_sec": 1.532
+  },
+  {
+   "turn_id": "C09-D006",
+   "turn_index": 5,
+   "speaker": "マテオ",
+   "source_text": "はい、日本の映画でした。",
+   "sentence_ids": [
+    "C09-D006-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 23.449,
+   "end_sec": 24.963,
+   "duration_sec": 1.514
+  },
+  {
+   "turn_id": "C09-D007",
+   "turn_index": 6,
+   "speaker": "林梅",
+   "source_text": "こんばんは。映画の音楽がよかったです。",
+   "sentence_ids": [
+    "C09-D007-S01",
+    "C09-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 25.313,
+   "end_sec": 28.354,
+   "duration_sec": 3.041
+  },
+  {
+   "turn_id": "C09-D008",
+   "turn_index": 7,
+   "speaker": "中村",
+   "source_text": "難しかったですか。",
+   "sentence_ids": [
+    "C09-D008-S01"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.704,
+   "end_sec": 30.291,
+   "duration_sec": 1.587
+  },
+  {
+   "turn_id": "C09-D009",
+   "turn_index": 8,
+   "speaker": "林梅",
+   "source_text": "いいえ、難しくありませんでした。",
+   "sentence_ids": [
+    "C09-D009-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.641,
+   "end_sec": 33.027,
+   "duration_sec": 2.386
+  },
+  {
+   "turn_id": "C09-D010",
+   "turn_index": 9,
+   "speaker": "中村",
+   "source_text": "この前の映画もよかったですね。",
+   "sentence_ids": [
+    "C09-D010-S01"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 33.377,
+   "end_sec": 36.145,
+   "duration_sec": 2.768
+  },
+  {
+   "turn_id": "C09-D011",
+   "turn_index": 10,
+   "speaker": "マテオ",
+   "source_text": "はい。この間はどうもありがとうございました。",
+   "sentence_ids": [
+    "C09-D011-S01",
+    "C09-D011-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.495,
+   "end_sec": 39.98,
+   "duration_sec": 3.485
+  },
+  {
+   "turn_id": "C09-D012",
+   "turn_index": 11,
+   "speaker": "パク",
+   "source_text": "こんばんは。中村さん、先月の旅行はどうでしたか。",
+   "sentence_ids": [
+    "C09-D012-S01",
+    "C09-D012-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 40.33,
+   "end_sec": 44.083,
+   "duration_sec": 3.753
+  },
+  {
+   "turn_id": "C09-D013",
+   "turn_index": 12,
+   "speaker": "中村",
+   "source_text": "天気はよかったです。空港からホテルへは電車でした。前日は時刻表をよく見ました。",
+   "sentence_ids": [
+    "C09-D013-S01",
+    "C09-D013-S02",
+    "C09-D013-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 44.433,
+   "end_sec": 51.481,
+   "duration_sec": 7.048
+  },
+  {
+   "turn_id": "C09-D014",
+   "turn_index": 13,
+   "speaker": "パク",
+   "source_text": "行き先は港駅でしたか。",
+   "sentence_ids": [
+    "C09-D014-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 51.831,
+   "end_sec": 53.681,
+   "duration_sec": 1.85
+  },
+  {
+   "turn_id": "C09-D015",
+   "turn_index": 14,
+   "speaker": "中村",
+   "source_text": "いいえ、川駅でした。駅員さんと話しました。「川駅はここからいくつ目ですか。」「終点ですよ。」",
+   "sentence_ids": [
+    "C09-D015-S01",
+    "C09-D015-S02",
+    "C09-D015-S03",
+    "C09-D015-S04"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 54.031,
+   "end_sec": 62.044,
+   "duration_sec": 8.013
+  },
+  {
+   "turn_id": "C09-D016",
+   "turn_index": 15,
+   "speaker": "林梅",
+   "source_text": "プラットホームはどこでしたか。",
+   "sentence_ids": [
+    "C09-D016-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 62.394,
+   "end_sec": 64.281,
+   "duration_sec": 1.887
+  },
+  {
+   "turn_id": "C09-D017",
+   "turn_index": 16,
+   "speaker": "中村",
+   "source_text": "改札口のすぐ前でした。川駅行きの電車の発車は二時でした。各駅に止まりました。",
+   "sentence_ids": [
+    "C09-D017-S01",
+    "C09-D017-S02",
+    "C09-D017-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 64.631,
+   "end_sec": 71.616,
+   "duration_sec": 6.985
+  },
+  {
+   "turn_id": "C09-D018",
+   "turn_index": 17,
+   "speaker": "中村",
+   "source_text": "ホテルでは一晩休みました。翌日は早々とタクシーで空港へ行きました。運賃は高くありませんでした。",
+   "sentence_ids": [
+    "C09-D018-S01",
+    "C09-D018-S02",
+    "C09-D018-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 71.966,
+   "end_sec": 79.66,
+   "duration_sec": 7.694
+  },
+  {
+   "turn_id": "C09-D019",
+   "turn_index": 18,
+   "speaker": "マテオ",
+   "source_text": "その頃は暖かかったですか。去年の一月は雪でしたね。",
+   "sentence_ids": [
+    "C09-D019-S01",
+    "C09-D019-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.01,
+   "end_sec": 84.896,
+   "duration_sec": 4.886
+  },
+  {
+   "turn_id": "C09-D020",
+   "turn_index": 19,
+   "speaker": "中村",
+   "source_text": "はい。次の日、空港でも暖かかったです。ホテルは静かじゃありませんでした。",
+   "sentence_ids": [
+    "C09-D020-S01",
+    "C09-D020-S02",
+    "C09-D020-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 85.246,
+   "end_sec": 90.865,
+   "duration_sec": 5.619
+  },
+  {
+   "turn_id": "C09-D021",
+   "turn_index": 20,
+   "speaker": "パク",
+   "source_text": "中村さんの日記ですか。",
+   "sentence_ids": [
+    "C09-D021-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 91.215,
+   "end_sec": 92.949,
+   "duration_sec": 1.734
+  },
+  {
+   "turn_id": "C09-D022",
+   "turn_index": 21,
+   "speaker": "中村",
+   "source_text": "はい、過去の旅行の記録です。昨年は山へ行きました。今まで、毎年写真も撮りました。",
+   "sentence_ids": [
+    "C09-D022-S01",
+    "C09-D022-S02",
+    "C09-D022-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.299,
+   "end_sec": 100.345,
+   "duration_sec": 7.046
+  },
+  {
+   "turn_id": "C09-D023",
+   "turn_index": 22,
+   "speaker": "林梅",
+   "source_text": "さっき、新しい学生と会いました。名前はアリさんです。今、教室にいます。",
+   "sentence_ids": [
+    "C09-D023-S01",
+    "C09-D023-S02",
+    "C09-D023-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 100.695,
+   "end_sec": 107.2,
+   "duration_sec": 6.505
+  },
+  {
+   "turn_id": "C09-D024",
+   "turn_index": 23,
+   "speaker": "アリ",
+   "source_text": "アリです。学生で、パクさんの友達です。よろしくおねがいします。",
+   "sentence_ids": [
+    "C09-D024-S01",
+    "C09-D024-S02",
+    "C09-D024-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 107.55,
+   "end_sec": 112.426,
+   "duration_sec": 4.876
+  },
+  {
+   "turn_id": "C09-D025",
+   "turn_index": 24,
+   "speaker": "中村",
+   "source_text": "中村です。よろしくお願いします。さあ、七時です。静かに教室へ行きます。",
+   "sentence_ids": [
+    "C09-D025-S01",
+    "C09-D025-S02",
+    "C09-D025-S03",
+    "C09-D025-S04"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 112.776,
+   "end_sec": 119.072,
+   "duration_sec": 6.296
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C09-D001-S01",
+   "unit_id": "C09-D001",
+   "section": "D",
+   "speaker": "中村",
+   "text": "マテオさん、こんばんは。",
+   "start_sec": 0.0,
+   "end_sec": 1.757,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D001-S02",
+   "unit_id": "C09-D001",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今日は寒いですね。",
+   "start_sec": 1.907,
+   "end_sec": 3.742,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D002-S01",
+   "unit_id": "C09-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "こんばんは。",
+   "start_sec": 4.092,
+   "end_sec": 5.051,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D002-S02",
+   "unit_id": "C09-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今朝も寒かったです。",
+   "start_sec": 5.201,
+   "end_sec": 6.641,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D002-S03",
+   "unit_id": "C09-D002",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "昨日も仕事でしたか。",
+   "start_sec": 6.791,
+   "end_sec": 8.104,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D003-S01",
+   "unit_id": "C09-D003",
+   "section": "D",
+   "speaker": "中村",
+   "text": "いいえ、一昨日も昨日も休みでした。",
+   "start_sec": 8.454,
+   "end_sec": 11.4,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D003-S02",
+   "unit_id": "C09-D003",
+   "section": "D",
+   "speaker": "中村",
+   "text": "一昨日は公園で散歩しました。",
+   "start_sec": 11.55,
+   "end_sec": 13.935,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D003-S03",
+   "unit_id": "C09-D003",
+   "section": "D",
+   "speaker": "中村",
+   "text": "週末は休みでしたか。",
+   "start_sec": 14.085,
+   "end_sec": 15.943,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D004-S01",
+   "unit_id": "C09-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "土曜日は日本語を勉強しました。",
+   "start_sec": 16.293,
+   "end_sec": 18.755,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D004-S02",
+   "unit_id": "C09-D004",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "日曜日はリンさんと一緒に遊びました。",
+   "start_sec": 18.905,
+   "end_sec": 21.216,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D005-S01",
+   "unit_id": "C09-D005",
+   "section": "D",
+   "speaker": "中村",
+   "text": "映画を見ましたか。",
+   "start_sec": 21.567,
+   "end_sec": 23.099,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D006-S01",
+   "unit_id": "C09-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい、日本の映画でした。",
+   "start_sec": 23.449,
+   "end_sec": 24.963,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D007-S01",
+   "unit_id": "C09-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "こんばんは。",
+   "start_sec": 25.313,
+   "end_sec": 26.314,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D007-S02",
+   "unit_id": "C09-D007",
+   "section": "D",
+   "speaker": "リン",
+   "text": "映画の音楽がよかったです。",
+   "start_sec": 26.464,
+   "end_sec": 28.354,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D008-S01",
+   "unit_id": "C09-D008",
+   "section": "D",
+   "speaker": "中村",
+   "text": "難しかったですか。",
+   "start_sec": 28.704,
+   "end_sec": 30.291,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D009-S01",
+   "unit_id": "C09-D009",
+   "section": "D",
+   "speaker": "リン",
+   "text": "いいえ、難しくありませんでした。",
+   "start_sec": 30.641,
+   "end_sec": 33.027,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D010-S01",
+   "unit_id": "C09-D010",
+   "section": "D",
+   "speaker": "中村",
+   "text": "この前の映画もよかったですね。",
+   "start_sec": 33.377,
+   "end_sec": 36.145,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D011-S01",
+   "unit_id": "C09-D011",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい。",
+   "start_sec": 36.495,
+   "end_sec": 37.251,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D011-S02",
+   "unit_id": "C09-D011",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "この間はどうもありがとうございました。",
+   "start_sec": 37.401,
+   "end_sec": 39.98,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D012-S01",
+   "unit_id": "C09-D012",
+   "section": "D",
+   "speaker": "パク",
+   "text": "こんばんは。",
+   "start_sec": 40.33,
+   "end_sec": 41.338,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D012-S02",
+   "unit_id": "C09-D012",
+   "section": "D",
+   "speaker": "パク",
+   "text": "中村さん、先月の旅行はどうでしたか。",
+   "start_sec": 41.488,
+   "end_sec": 44.083,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D013-S01",
+   "unit_id": "C09-D013",
+   "section": "D",
+   "speaker": "中村",
+   "text": "天気はよかったです。",
+   "start_sec": 44.433,
+   "end_sec": 46.137,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D013-S02",
+   "unit_id": "C09-D013",
+   "section": "D",
+   "speaker": "中村",
+   "text": "空港からホテルへは電車でした。",
+   "start_sec": 46.287,
+   "end_sec": 48.766,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D013-S03",
+   "unit_id": "C09-D013",
+   "section": "D",
+   "speaker": "中村",
+   "text": "前日は時刻表をよく見ました。",
+   "start_sec": 48.916,
+   "end_sec": 51.481,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D014-S01",
+   "unit_id": "C09-D014",
+   "section": "D",
+   "speaker": "パク",
+   "text": "行き先は港駅でしたか。",
+   "start_sec": 51.831,
+   "end_sec": 53.681,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D015-S01",
+   "unit_id": "C09-D015",
+   "section": "D",
+   "speaker": "中村",
+   "text": "いいえ、川駅でした。",
+   "start_sec": 54.031,
+   "end_sec": 55.866,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D015-S02",
+   "unit_id": "C09-D015",
+   "section": "D",
+   "speaker": "中村",
+   "text": "駅員さんと話しました。",
+   "start_sec": 56.016,
+   "end_sec": 57.981,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D015-S03",
+   "unit_id": "C09-D015",
+   "section": "D",
+   "speaker": "中村",
+   "text": "「川駅はここからいくつ目ですか。」",
+   "start_sec": 58.131,
+   "end_sec": 60.736,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D015-S04",
+   "unit_id": "C09-D015",
+   "section": "D",
+   "speaker": "中村",
+   "text": "「終点ですよ。」",
+   "start_sec": 60.886,
+   "end_sec": 62.044,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D016-S01",
+   "unit_id": "C09-D016",
+   "section": "D",
+   "speaker": "リン",
+   "text": "プラットホームはどこでしたか。",
+   "start_sec": 62.394,
+   "end_sec": 64.281,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D017-S01",
+   "unit_id": "C09-D017",
+   "section": "D",
+   "speaker": "中村",
+   "text": "改札口のすぐ前でした。",
+   "start_sec": 64.631,
+   "end_sec": 66.843,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D017-S02",
+   "unit_id": "C09-D017",
+   "section": "D",
+   "speaker": "中村",
+   "text": "川駅行きの電車の発車は二時でした。",
+   "start_sec": 66.993,
+   "end_sec": 69.895,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D017-S03",
+   "unit_id": "C09-D017",
+   "section": "D",
+   "speaker": "中村",
+   "text": "各駅に止まりました。",
+   "start_sec": 70.045,
+   "end_sec": 71.616,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D018-S01",
+   "unit_id": "C09-D018",
+   "section": "D",
+   "speaker": "中村",
+   "text": "ホテルでは一晩休みました。",
+   "start_sec": 71.966,
+   "end_sec": 74.153,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D018-S02",
+   "unit_id": "C09-D018",
+   "section": "D",
+   "speaker": "中村",
+   "text": "翌日は早々とタクシーで空港へ行きました。",
+   "start_sec": 74.303,
+   "end_sec": 77.613,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D018-S03",
+   "unit_id": "C09-D018",
+   "section": "D",
+   "speaker": "中村",
+   "text": "運賃は高くありませんでした。",
+   "start_sec": 77.763,
+   "end_sec": 79.66,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D019-S01",
+   "unit_id": "C09-D019",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "その頃は暖かかったですか。",
+   "start_sec": 80.01,
+   "end_sec": 82.576,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D019-S02",
+   "unit_id": "C09-D019",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "去年の一月は雪でしたね。",
+   "start_sec": 82.726,
+   "end_sec": 84.896,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D020-S01",
+   "unit_id": "C09-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい。",
+   "start_sec": 85.246,
+   "end_sec": 85.937,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D020-S02",
+   "unit_id": "C09-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "次の日、空港でも暖かかったです。",
+   "start_sec": 86.087,
+   "end_sec": 88.538,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D020-S03",
+   "unit_id": "C09-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "ホテルは静かじゃありませんでした。",
+   "start_sec": 88.688,
+   "end_sec": 90.865,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D021-S01",
+   "unit_id": "C09-D021",
+   "section": "D",
+   "speaker": "パク",
+   "text": "中村さんの日記ですか。",
+   "start_sec": 91.215,
+   "end_sec": 92.949,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D022-S01",
+   "unit_id": "C09-D022",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、過去の旅行の記録です。",
+   "start_sec": 93.299,
+   "end_sec": 95.835,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D022-S02",
+   "unit_id": "C09-D022",
+   "section": "D",
+   "speaker": "中村",
+   "text": "昨年は山へ行きました。",
+   "start_sec": 95.985,
+   "end_sec": 98.019,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D022-S03",
+   "unit_id": "C09-D022",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今まで、毎年写真も撮りました。",
+   "start_sec": 98.169,
+   "end_sec": 100.345,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D023-S01",
+   "unit_id": "C09-D023",
+   "section": "D",
+   "speaker": "リン",
+   "text": "さっき、新しい学生と会いました。",
+   "start_sec": 100.695,
+   "end_sec": 103.674,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D023-S02",
+   "unit_id": "C09-D023",
+   "section": "D",
+   "speaker": "リン",
+   "text": "名前はアリさんです。",
+   "start_sec": 103.824,
+   "end_sec": 105.457,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D023-S03",
+   "unit_id": "C09-D023",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今、教室にいます。",
+   "start_sec": 105.607,
+   "end_sec": 107.2,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D024-S01",
+   "unit_id": "C09-D024",
+   "section": "D",
+   "speaker": "アリ",
+   "text": "アリです。",
+   "start_sec": 107.55,
+   "end_sec": 108.443,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D024-S02",
+   "unit_id": "C09-D024",
+   "section": "D",
+   "speaker": "アリ",
+   "text": "学生で、パクさんの友達です。",
+   "start_sec": 108.593,
+   "end_sec": 111.152,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D024-S03",
+   "unit_id": "C09-D024",
+   "section": "D",
+   "speaker": "アリ",
+   "text": "よろしくおねがいします。",
+   "start_sec": 111.302,
+   "end_sec": 112.426,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D025-S01",
+   "unit_id": "C09-D025",
+   "section": "D",
+   "speaker": "中村",
+   "text": "中村です。",
+   "start_sec": 112.776,
+   "end_sec": 113.756,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D025-S02",
+   "unit_id": "C09-D025",
+   "section": "D",
+   "speaker": "中村",
+   "text": "よろしくお願いします。",
+   "start_sec": 113.906,
+   "end_sec": 115.505,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D025-S03",
+   "unit_id": "C09-D025",
+   "section": "D",
+   "speaker": "中村",
+   "text": "さあ、七時です。",
+   "start_sec": 115.655,
+   "end_sec": 117.048,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C09-D025-S04",
+   "unit_id": "C09-D025",
+   "section": "D",
+   "speaker": "中村",
+   "text": "静かに教室へ行きます。",
+   "start_sec": 117.198,
+   "end_sec": 119.072,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

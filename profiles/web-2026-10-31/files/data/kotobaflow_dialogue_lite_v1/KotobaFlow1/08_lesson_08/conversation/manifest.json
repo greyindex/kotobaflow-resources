@@ -1,0 +1,1080 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 118.6,
+ "listening_review": "pending",
+ "source_chapter": 8,
+ "turns": [
+  {
+   "turn_id": "C08-D001",
+   "turn_index": 0,
+   "speaker": "マテオ",
+   "source_text": "中村さん、こんばんは。今日は寒いですね。",
+   "sentence_ids": [
+    "C08-D001-S01",
+    "C08-D001-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.184,
+   "duration_sec": 3.184
+  },
+  {
+   "turn_id": "C08-D002",
+   "turn_index": 1,
+   "speaker": "中村",
+   "source_text": "こんばんは。はい、とても寒いですね。",
+   "sentence_ids": [
+    "C08-D002-S01",
+    "C08-D002-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 3.534,
+   "end_sec": 6.856,
+   "duration_sec": 3.322
+  },
+  {
+   "turn_id": "C08-D003",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "すみません。わたしの時計は入口の机の上にありますか。",
+   "sentence_ids": [
+    "C08-D003-S01",
+    "C08-D003-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.206,
+   "end_sec": 12.134,
+   "duration_sec": 4.928
+  },
+  {
+   "turn_id": "C08-D004",
+   "turn_index": 3,
+   "speaker": "中村",
+   "source_text": "時計はこちらです。リンさんの時計はどんな時計ですか。",
+   "sentence_ids": [
+    "C08-D004-S01",
+    "C08-D004-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 12.484,
+   "end_sec": 16.433,
+   "duration_sec": 3.949
+  },
+  {
+   "turn_id": "C08-D005",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "小さい時計です。そんなに高くありません。",
+   "sentence_ids": [
+    "C08-D005-S01",
+    "C08-D005-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.783,
+   "end_sec": 19.952,
+   "duration_sec": 3.169
+  },
+  {
+   "turn_id": "C08-D006",
+   "turn_index": 5,
+   "speaker": "マテオ",
+   "source_text": "あそこにわすれものの紙がありますよ。二と三は小さい時計です。",
+   "sentence_ids": [
+    "C08-D006-S01",
+    "C08-D006-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 20.302,
+   "end_sec": 24.484,
+   "duration_sec": 4.182
+  },
+  {
+   "turn_id": "C08-D007",
+   "turn_index": 6,
+   "speaker": "中村",
+   "source_text": "三は新しい時計です。この時計ですか。",
+   "sentence_ids": [
+    "C08-D007-S01",
+    "C08-D007-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 24.834,
+   "end_sec": 28.357,
+   "duration_sec": 3.523
+  },
+  {
+   "turn_id": "C08-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "いいえ、それはわたしの時計ではありません。わたしの時計はあまり新しくないです。",
+   "sentence_ids": [
+    "C08-D008-S01",
+    "C08-D008-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.707,
+   "end_sec": 34.973,
+   "duration_sec": 6.266
+  },
+  {
+   "turn_id": "C08-D009",
+   "turn_index": 8,
+   "speaker": "中村",
+   "source_text": "二は古い時計です。これですか。",
+   "sentence_ids": [
+    "C08-D009-S01",
+    "C08-D009-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 35.323,
+   "end_sec": 39.122,
+   "duration_sec": 3.799
+  },
+  {
+   "turn_id": "C08-D010",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "はい、それです。この可愛い時計が好きです。ありがとうございます。",
+   "sentence_ids": [
+    "C08-D010-S01",
+    "C08-D010-S02",
+    "C08-D010-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.472,
+   "end_sec": 44.531,
+   "duration_sec": 5.059
+  },
+  {
+   "turn_id": "C08-D011",
+   "turn_index": 10,
+   "speaker": "マテオ",
+   "source_text": "リンさん、今、教室に行きますか。",
+   "sentence_ids": [
+    "C08-D011-S01"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 44.881,
+   "end_sec": 46.872,
+   "duration_sec": 1.991
+  },
+  {
+   "turn_id": "C08-D012",
+   "turn_index": 11,
+   "speaker": "林梅",
+   "source_text": "はい。教室でこの本を読みます。村の写真の本です。",
+   "sentence_ids": [
+    "C08-D012-S01",
+    "C08-D012-S02",
+    "C08-D012-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.222,
+   "end_sec": 51.865,
+   "duration_sec": 4.643
+  },
+  {
+   "turn_id": "C08-D013",
+   "turn_index": 12,
+   "speaker": "中村",
+   "source_text": "素敵な写真ですね。真ん中に小さい家がありますね。",
+   "sentence_ids": [
+    "C08-D013-S01",
+    "C08-D013-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.215,
+   "end_sec": 57.237,
+   "duration_sec": 5.022
+  },
+  {
+   "turn_id": "C08-D014",
+   "turn_index": 13,
+   "speaker": "マテオ",
+   "source_text": "こんな静かな村が好きです。リンさんの家の周りはどうですか。",
+   "sentence_ids": [
+    "C08-D014-S01",
+    "C08-D014-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 57.587,
+   "end_sec": 61.933,
+   "duration_sec": 4.346
+  },
+  {
+   "turn_id": "C08-D015",
+   "turn_index": 14,
+   "speaker": "林梅",
+   "source_text": "高層ビルがあります。昼は騒がしいです。夜はそんなにうるさくないです。",
+   "sentence_ids": [
+    "C08-D015-S01",
+    "C08-D015-S02",
+    "C08-D015-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 62.283,
+   "end_sec": 68.035,
+   "duration_sec": 5.752
+  },
+  {
+   "turn_id": "C08-D016",
+   "turn_index": 15,
+   "speaker": "マテオ",
+   "source_text": "わたしの家の周りは静かです。いい環境ですよ。",
+   "sentence_ids": [
+    "C08-D016-S01",
+    "C08-D016-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.385,
+   "end_sec": 71.505,
+   "duration_sec": 3.12
+  },
+  {
+   "turn_id": "C08-D017",
+   "turn_index": 16,
+   "speaker": "中村",
+   "source_text": "今は六時四十分です。日本語クラスは七時からですよ。",
+   "sentence_ids": [
+    "C08-D017-S01",
+    "C08-D017-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 71.855,
+   "end_sec": 76.942,
+   "duration_sec": 5.087
+  },
+  {
+   "turn_id": "C08-D018",
+   "turn_index": 17,
+   "speaker": "林梅",
+   "source_text": "はい。六時五十分まで教室で本を読みます。この本はおもしろいです。",
+   "sentence_ids": [
+    "C08-D018-S01",
+    "C08-D018-S02",
+    "C08-D018-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.292,
+   "end_sec": 84.115,
+   "duration_sec": 6.823
+  },
+  {
+   "turn_id": "C08-D019",
+   "turn_index": 18,
+   "speaker": "パク",
+   "source_text": "こんばんは。寒いですね。リンさんの国は今、暑いですか。",
+   "sentence_ids": [
+    "C08-D019-S01",
+    "C08-D019-S02",
+    "C08-D019-S03"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "no_silence_between_anchors"
+   ],
+   "start_sec": 84.465,
+   "end_sec": 88.723,
+   "duration_sec": 4.258
+  },
+  {
+   "turn_id": "C08-D020",
+   "turn_index": 19,
+   "speaker": "林梅",
+   "source_text": "はい、とても暑いです。パクさん、そのマフラーは真っ白ですね。",
+   "sentence_ids": [
+    "C08-D020-S01",
+    "C08-D020-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.073,
+   "end_sec": 94.291,
+   "duration_sec": 5.218
+  },
+  {
+   "turn_id": "C08-D021",
+   "turn_index": 20,
+   "speaker": "マテオ",
+   "source_text": "いいマフラーですね。わたしは寒い夜が嫌いです。",
+   "sentence_ids": [
+    "C08-D021-S01",
+    "C08-D021-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 94.641,
+   "end_sec": 98.56,
+   "duration_sec": 3.919
+  },
+  {
+   "turn_id": "C08-D022",
+   "turn_index": 21,
+   "speaker": "パク",
+   "source_text": "これは手触りがいいですよ。今日は会社で働きます。夜は忙しいです。",
+   "sentence_ids": [
+    "C08-D022-S01",
+    "C08-D022-S02",
+    "C08-D022-S03"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 98.91,
+   "end_sec": 103.903,
+   "duration_sec": 4.993
+  },
+  {
+   "turn_id": "C08-D023",
+   "turn_index": 22,
+   "speaker": "林梅",
+   "source_text": "今日は日本語クラスに来ますか。",
+   "sentence_ids": [
+    "C08-D023-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 104.253,
+   "end_sec": 106.351,
+   "duration_sec": 2.098
+  },
+  {
+   "turn_id": "C08-D024",
+   "turn_index": 23,
+   "speaker": "パク",
+   "source_text": "いいえ、今日は来ません。今、駅に行きます。",
+   "sentence_ids": [
+    "C08-D024-S01",
+    "C08-D024-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 106.701,
+   "end_sec": 109.603,
+   "duration_sec": 2.902
+  },
+  {
+   "turn_id": "C08-D025",
+   "turn_index": 24,
+   "speaker": "林梅",
+   "source_text": "駅の前の店においしいパンがありますよ。",
+   "sentence_ids": [
+    "C08-D025-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.953,
+   "end_sec": 113.179,
+   "duration_sec": 3.226
+  },
+  {
+   "turn_id": "C08-D026",
+   "turn_index": 25,
+   "speaker": "パク",
+   "source_text": "ありがとうございます。あの店のパンは安いですね。店でパンを買います。",
+   "sentence_ids": [
+    "C08-D026-S01",
+    "C08-D026-S02",
+    "C08-D026-S03"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 113.529,
+   "end_sec": 118.594,
+   "duration_sec": 5.065
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C08-D001-S01",
+   "unit_id": "C08-D001",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "中村さん、こんばんは。",
+   "start_sec": 0.0,
+   "end_sec": 1.464,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D001-S02",
+   "unit_id": "C08-D001",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今日は寒いですね。",
+   "start_sec": 1.614,
+   "end_sec": 3.184,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D002-S01",
+   "unit_id": "C08-D002",
+   "section": "D",
+   "speaker": "中村",
+   "text": "こんばんは。",
+   "start_sec": 3.534,
+   "end_sec": 4.536,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D002-S02",
+   "unit_id": "C08-D002",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、とても寒いですね。",
+   "start_sec": 4.686,
+   "end_sec": 6.856,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D003-S01",
+   "unit_id": "C08-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "すみません。",
+   "start_sec": 7.206,
+   "end_sec": 8.27,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D003-S02",
+   "unit_id": "C08-D003",
+   "section": "D",
+   "speaker": "リン",
+   "text": "わたしの時計は入口の机の上にありますか。",
+   "start_sec": 8.42,
+   "end_sec": 12.134,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D004-S01",
+   "unit_id": "C08-D004",
+   "section": "D",
+   "speaker": "中村",
+   "text": "時計はこちらです。",
+   "start_sec": 12.484,
+   "end_sec": 13.979,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D004-S02",
+   "unit_id": "C08-D004",
+   "section": "D",
+   "speaker": "中村",
+   "text": "リンさんの時計はどんな時計ですか。",
+   "start_sec": 14.129,
+   "end_sec": 16.433,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D005-S01",
+   "unit_id": "C08-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "小さい時計です。",
+   "start_sec": 16.783,
+   "end_sec": 18.058,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D005-S02",
+   "unit_id": "C08-D005",
+   "section": "D",
+   "speaker": "リン",
+   "text": "そんなに高くありません。",
+   "start_sec": 18.208,
+   "end_sec": 19.952,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D006-S01",
+   "unit_id": "C08-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "あそこにわすれものの紙がありますよ。",
+   "start_sec": 20.302,
+   "end_sec": 22.439,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D006-S02",
+   "unit_id": "C08-D006",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "二と三は小さい時計です。",
+   "start_sec": 22.589,
+   "end_sec": 24.484,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D007-S01",
+   "unit_id": "C08-D007",
+   "section": "D",
+   "speaker": "中村",
+   "text": "三は新しい時計です。",
+   "start_sec": 24.834,
+   "end_sec": 26.973,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D007-S02",
+   "unit_id": "C08-D007",
+   "section": "D",
+   "speaker": "中村",
+   "text": "この時計ですか。",
+   "start_sec": 27.123,
+   "end_sec": 28.357,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D008-S01",
+   "unit_id": "C08-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "いいえ、それはわたしの時計ではありません。",
+   "start_sec": 28.707,
+   "end_sec": 31.814,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D008-S02",
+   "unit_id": "C08-D008",
+   "section": "D",
+   "speaker": "リン",
+   "text": "わたしの時計はあまり新しくないです。",
+   "start_sec": 31.964,
+   "end_sec": 34.973,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D009-S01",
+   "unit_id": "C08-D009",
+   "section": "D",
+   "speaker": "中村",
+   "text": "二は古い時計です。",
+   "start_sec": 35.323,
+   "end_sec": 37.642,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D009-S02",
+   "unit_id": "C08-D009",
+   "section": "D",
+   "speaker": "中村",
+   "text": "これですか。",
+   "start_sec": 37.792,
+   "end_sec": 39.122,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D010-S01",
+   "unit_id": "C08-D010",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい、それです。",
+   "start_sec": 39.472,
+   "end_sec": 40.818,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D010-S02",
+   "unit_id": "C08-D010",
+   "section": "D",
+   "speaker": "リン",
+   "text": "この可愛い時計が好きです。",
+   "start_sec": 40.968,
+   "end_sec": 43.015,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D010-S03",
+   "unit_id": "C08-D010",
+   "section": "D",
+   "speaker": "リン",
+   "text": "ありがとうございます。",
+   "start_sec": 43.165,
+   "end_sec": 44.531,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D011-S01",
+   "unit_id": "C08-D011",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさん、今、教室に行きますか。",
+   "start_sec": 44.881,
+   "end_sec": 46.872,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D012-S01",
+   "unit_id": "C08-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 47.222,
+   "end_sec": 47.931,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D012-S02",
+   "unit_id": "C08-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "教室でこの本を読みます。",
+   "start_sec": 48.081,
+   "end_sec": 49.957,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D012-S03",
+   "unit_id": "C08-D012",
+   "section": "D",
+   "speaker": "リン",
+   "text": "村の写真の本です。",
+   "start_sec": 50.107,
+   "end_sec": 51.865,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D013-S01",
+   "unit_id": "C08-D013",
+   "section": "D",
+   "speaker": "中村",
+   "text": "素敵な写真ですね。",
+   "start_sec": 52.215,
+   "end_sec": 54.083,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D013-S02",
+   "unit_id": "C08-D013",
+   "section": "D",
+   "speaker": "中村",
+   "text": "真ん中に小さい家がありますね。",
+   "start_sec": 54.233,
+   "end_sec": 57.237,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D014-S01",
+   "unit_id": "C08-D014",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "こんな静かな村が好きです。",
+   "start_sec": 57.587,
+   "end_sec": 59.441,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D014-S02",
+   "unit_id": "C08-D014",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさんの家の周りはどうですか。",
+   "start_sec": 59.591,
+   "end_sec": 61.933,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D015-S01",
+   "unit_id": "C08-D015",
+   "section": "D",
+   "speaker": "リン",
+   "text": "高層ビルがあります。",
+   "start_sec": 62.283,
+   "end_sec": 64.003,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D015-S02",
+   "unit_id": "C08-D015",
+   "section": "D",
+   "speaker": "リン",
+   "text": "昼は騒がしいです。",
+   "start_sec": 64.153,
+   "end_sec": 65.75,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D015-S03",
+   "unit_id": "C08-D015",
+   "section": "D",
+   "speaker": "リン",
+   "text": "夜はそんなにうるさくないです。",
+   "start_sec": 65.9,
+   "end_sec": 68.035,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D016-S01",
+   "unit_id": "C08-D016",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "わたしの家の周りは静かです。",
+   "start_sec": 68.385,
+   "end_sec": 70.183,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D016-S02",
+   "unit_id": "C08-D016",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "いい環境ですよ。",
+   "start_sec": 70.333,
+   "end_sec": 71.505,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D017-S01",
+   "unit_id": "C08-D017",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今は六時四十分です。",
+   "start_sec": 71.855,
+   "end_sec": 74.452,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D017-S02",
+   "unit_id": "C08-D017",
+   "section": "D",
+   "speaker": "中村",
+   "text": "日本語クラスは七時からですよ。",
+   "start_sec": 74.602,
+   "end_sec": 76.942,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D018-S01",
+   "unit_id": "C08-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 77.292,
+   "end_sec": 78.357,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D018-S02",
+   "unit_id": "C08-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "六時五十分まで教室で本を読みます。",
+   "start_sec": 78.507,
+   "end_sec": 81.959,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D018-S03",
+   "unit_id": "C08-D018",
+   "section": "D",
+   "speaker": "リン",
+   "text": "この本はおもしろいです。",
+   "start_sec": 82.109,
+   "end_sec": 84.115,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D019-S01",
+   "unit_id": "C08-D019",
+   "section": "D",
+   "speaker": "パク",
+   "text": "こんばんは。",
+   "start_sec": 84.465,
+   "end_sec": 85.273,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D019-S02",
+   "unit_id": "C08-D019",
+   "section": "D",
+   "speaker": "パク",
+   "text": "寒いですね。",
+   "start_sec": 85.423,
+   "end_sec": 86.484,
+   "review_flags": [
+    "no_silence_between_anchors",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D019-S03",
+   "unit_id": "C08-D019",
+   "section": "D",
+   "speaker": "パク",
+   "text": "リンさんの国は今、暑いですか。",
+   "start_sec": 86.634,
+   "end_sec": 88.723,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D020-S01",
+   "unit_id": "C08-D020",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい、とても暑いです。",
+   "start_sec": 89.073,
+   "end_sec": 91.191,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D020-S02",
+   "unit_id": "C08-D020",
+   "section": "D",
+   "speaker": "リン",
+   "text": "パクさん、そのマフラーは真っ白ですね。",
+   "start_sec": 91.341,
+   "end_sec": 94.291,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D021-S01",
+   "unit_id": "C08-D021",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "いいマフラーですね。",
+   "start_sec": 94.641,
+   "end_sec": 96.354,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D021-S02",
+   "unit_id": "C08-D021",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "わたしは寒い夜が嫌いです。",
+   "start_sec": 96.504,
+   "end_sec": 98.56,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D022-S01",
+   "unit_id": "C08-D022",
+   "section": "D",
+   "speaker": "パク",
+   "text": "これは手触りがいいですよ。",
+   "start_sec": 98.91,
+   "end_sec": 100.577,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D022-S02",
+   "unit_id": "C08-D022",
+   "section": "D",
+   "speaker": "パク",
+   "text": "今日は会社で働きます。",
+   "start_sec": 100.727,
+   "end_sec": 102.477,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D022-S03",
+   "unit_id": "C08-D022",
+   "section": "D",
+   "speaker": "パク",
+   "text": "夜は忙しいです。",
+   "start_sec": 102.627,
+   "end_sec": 103.903,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D023-S01",
+   "unit_id": "C08-D023",
+   "section": "D",
+   "speaker": "リン",
+   "text": "今日は日本語クラスに来ますか。",
+   "start_sec": 104.253,
+   "end_sec": 106.351,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D024-S01",
+   "unit_id": "C08-D024",
+   "section": "D",
+   "speaker": "パク",
+   "text": "いいえ、今日は来ません。",
+   "start_sec": 106.701,
+   "end_sec": 108.259,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D024-S02",
+   "unit_id": "C08-D024",
+   "section": "D",
+   "speaker": "パク",
+   "text": "今、駅に行きます。",
+   "start_sec": 108.409,
+   "end_sec": 109.603,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D025-S01",
+   "unit_id": "C08-D025",
+   "section": "D",
+   "speaker": "リン",
+   "text": "駅の前の店においしいパンがありますよ。",
+   "start_sec": 109.953,
+   "end_sec": 113.179,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D026-S01",
+   "unit_id": "C08-D026",
+   "section": "D",
+   "speaker": "パク",
+   "text": "ありがとうございます。",
+   "start_sec": 113.529,
+   "end_sec": 114.855,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D026-S02",
+   "unit_id": "C08-D026",
+   "section": "D",
+   "speaker": "パク",
+   "text": "あの店のパンは安いですね。",
+   "start_sec": 115.005,
+   "end_sec": 117.066,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C08-D026-S03",
+   "unit_id": "C08-D026",
+   "section": "D",
+   "speaker": "パク",
+   "text": "店でパンを買います。",
+   "start_sec": 117.216,
+   "end_sec": 118.594,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

@@ -1,0 +1,1482 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 202.355,
+ "listening_review": "pending",
+ "source_chapter": 61,
+ "turns": [
+  {
+   "turn_id": "C61-D001",
+   "turn_index": 0,
+   "speaker": "林梅",
+   "source_text": "1月の表計算講座について伺います。",
+   "sentence_ids": [
+    "C61-D001-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.012,
+   "duration_sec": 3.012
+  },
+  {
+   "turn_id": "C61-D002",
+   "turn_index": 1,
+   "speaker": "佐野",
+   "source_text": "はい。お知らせはお読みになりましたか。",
+   "sentence_ids": [
+    "C61-D002-S01",
+    "C61-D002-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 3.362,
+   "end_sec": 6.545,
+   "duration_sec": 3.183
+  },
+  {
+   "turn_id": "C61-D003",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "はい。会社の学習会の林です。席はありますか。",
+   "sentence_ids": [
+    "C61-D003-S01",
+    "C61-D003-S02",
+    "C61-D003-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 6.895,
+   "end_sec": 11.043,
+   "duration_sec": 4.148
+  },
+  {
+   "turn_id": "C61-D004",
+   "turn_index": 3,
+   "speaker": "佐野",
+   "source_text": "今は残り9席です。",
+   "sentence_ids": [
+    "C61-D004-S01"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.393,
+   "end_sec": 13.299,
+   "duration_sec": 1.906
+  },
+  {
+   "turn_id": "C61-D005",
+   "turn_index": 4,
+   "speaker": "ハサン",
+   "source_text": "思ったより少ないですね。",
+   "sentence_ids": [
+    "C61-D005-S01"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.649,
+   "end_sec": 15.849,
+   "duration_sec": 2.2
+  },
+  {
+   "turn_id": "C61-D006",
+   "turn_index": 5,
+   "speaker": "林梅",
+   "source_text": "別の案の返事を待っています。14日まで6席を取っておいていただけませんか。",
+   "sentence_ids": [
+    "C61-D006-S01",
+    "C61-D006-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.199,
+   "end_sec": 21.53,
+   "duration_sec": 5.331
+  },
+  {
+   "turn_id": "C61-D007",
+   "turn_index": 6,
+   "speaker": "佐野",
+   "source_text": "申し訳ありませんが、順番に受け付けるので、お受けしかねます。",
+   "sentence_ids": [
+    "C61-D007-S01"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.88,
+   "end_sec": 25.687,
+   "duration_sec": 3.807
+  },
+  {
+   "turn_id": "C61-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "公平のためなら、やむを得ませんね。",
+   "sentence_ids": [
+    "C61-D008-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 26.037,
+   "end_sec": 28.589,
+   "duration_sec": 2.552
+  },
+  {
+   "turn_id": "C61-D009",
+   "turn_index": 8,
+   "speaker": "ハサン",
+   "source_text": "あと10日で満員になるでしょうか。",
+   "sentence_ids": [
+    "C61-D009-S01"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.939,
+   "end_sec": 31.66,
+   "duration_sec": 2.721
+  },
+  {
+   "turn_id": "C61-D010",
+   "turn_index": 9,
+   "speaker": "佐野",
+   "source_text": "あり得ます。去年の秋は三日で定員になりました。",
+   "sentence_ids": [
+    "C61-D010-S01",
+    "C61-D010-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 32.01,
+   "end_sec": 36.134,
+   "duration_sec": 4.124
+  },
+  {
+   "turn_id": "C61-D011",
+   "turn_index": 10,
+   "speaker": "林梅",
+   "source_text": "待つと席が取れなくなりかねませんね。",
+   "sentence_ids": [
+    "C61-D011-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.484,
+   "end_sec": 39.26,
+   "duration_sec": 2.776
+  },
+  {
+   "turn_id": "C61-D012",
+   "turn_index": 11,
+   "speaker": "佐野",
+   "source_text": "ただ、15日まで電話で取り消せます。",
+   "sentence_ids": [
+    "C61-D012-S01"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.61,
+   "end_sec": 42.319,
+   "duration_sec": 2.709
+  },
+  {
+   "turn_id": "C61-D013",
+   "turn_index": 12,
+   "speaker": "林梅",
+   "source_text": "取消料はかかりますか。",
+   "sentence_ids": [
+    "C61-D013-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 42.669,
+   "end_sec": 44.68,
+   "duration_sec": 2.011
+  },
+  {
+   "turn_id": "C61-D014",
+   "turn_index": 13,
+   "speaker": "佐野",
+   "source_text": "15日までなら無料です。受講料は1月9日にいただきます。",
+   "sentence_ids": [
+    "C61-D014-S01",
+    "C61-D014-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 45.03,
+   "end_sec": 49.707,
+   "duration_sec": 4.677
+  },
+  {
+   "turn_id": "C61-D015",
+   "turn_index": 14,
+   "speaker": "ハサン",
+   "source_text": "先に申し込めば、別案に決まっても取り消せますね。",
+   "sentence_ids": [
+    "C61-D015-S01"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 50.057,
+   "end_sec": 53.572,
+   "duration_sec": 3.515
+  },
+  {
+   "turn_id": "C61-D016",
+   "turn_index": 15,
+   "speaker": "佐野",
+   "source_text": "はい。待っている方もいますので、早めにお願いします。",
+   "sentence_ids": [
+    "C61-D016-S01",
+    "C61-D016-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 53.922,
+   "end_sec": 57.848,
+   "duration_sec": 3.926
+  },
+  {
+   "turn_id": "C61-D017",
+   "turn_index": 16,
+   "speaker": "林梅",
+   "source_text": "すぐに連絡しないわけにはいきませんね。",
+   "sentence_ids": [
+    "C61-D017-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 58.198,
+   "end_sec": 61.317,
+   "duration_sec": 3.119
+  },
+  {
+   "turn_id": "C61-D018",
+   "turn_index": 17,
+   "speaker": "ハサン",
+   "source_text": "では、今日申し込みますか。",
+   "sentence_ids": [
+    "C61-D018-S01"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 61.667,
+   "end_sec": 63.092,
+   "duration_sec": 1.425
+  },
+  {
+   "turn_id": "C61-D019",
+   "turn_index": 18,
+   "speaker": "林梅",
+   "source_text": "はい。6人の同意は昨日までに確かめました。名前はこちらです。",
+   "sentence_ids": [
+    "C61-D019-S01",
+    "C61-D019-S02",
+    "C61-D019-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.442,
+   "end_sec": 68.991,
+   "duration_sec": 5.549
+  },
+  {
+   "turn_id": "C61-D020",
+   "turn_index": 19,
+   "speaker": "佐野",
+   "source_text": "6人ですね。パソコンは何台必要ですか。",
+   "sentence_ids": [
+    "C61-D020-S01",
+    "C61-D020-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 69.341,
+   "end_sec": 72.889,
+   "duration_sec": 3.548
+  },
+  {
+   "turn_id": "C61-D021",
+   "turn_index": 20,
+   "speaker": "林梅",
+   "source_text": "わたしと他の4人が借ります。ハサンさんは持参します。",
+   "sentence_ids": [
+    "C61-D021-S01",
+    "C61-D021-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 73.239,
+   "end_sec": 77.416,
+   "duration_sec": 4.177
+  },
+  {
+   "turn_id": "C61-D022",
+   "turn_index": 21,
+   "speaker": "ハサン",
+   "source_text": "自分のパソコンをネットワークにつなげますか。",
+   "sentence_ids": [
+    "C61-D022-S01"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.766,
+   "end_sec": 80.26,
+   "duration_sec": 2.494
+  },
+  {
+   "turn_id": "C61-D023",
+   "turn_index": 22,
+   "speaker": "佐野",
+   "source_text": "安全上の理由で認めかねます。",
+   "sentence_ids": [
+    "C61-D023-S01"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.61,
+   "end_sec": 83.146,
+   "duration_sec": 2.536
+  },
+  {
+   "turn_id": "C61-D024",
+   "turn_index": 23,
+   "speaker": "ハサン",
+   "source_text": "USBメモリでファイルを持参してもいいですか。",
+   "sentence_ids": [
+    "C61-D024-S01"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 83.496,
+   "end_sec": 85.938,
+   "duration_sec": 2.442
+  },
+  {
+   "turn_id": "C61-D025",
+   "turn_index": 24,
+   "speaker": "佐野",
+   "source_text": "はい。ただ、自分の機器の故障には責任を負いかねます。",
+   "sentence_ids": [
+    "C61-D025-S01",
+    "C61-D025-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 86.288,
+   "end_sec": 90.423,
+   "duration_sec": 4.135
+  },
+  {
+   "turn_id": "C61-D026",
+   "turn_index": 25,
+   "speaker": "ハサン",
+   "source_text": "故障に備えて二か所に保存します。",
+   "sentence_ids": [
+    "C61-D026-S01"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 90.773,
+   "end_sec": 93.093,
+   "duration_sec": 2.32
+  },
+  {
+   "turn_id": "C61-D027",
+   "turn_index": 26,
+   "speaker": "林梅",
+   "source_text": "貸出機もファイルが失われるおそれはありますね。",
+   "sentence_ids": [
+    "C61-D027-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.443,
+   "end_sec": 96.901,
+   "duration_sec": 3.458
+  },
+  {
+   "turn_id": "C61-D028",
+   "turn_index": 27,
+   "speaker": "佐野",
+   "source_text": "はい。毎回点検しますが、作業中も保存してください。",
+   "sentence_ids": [
+    "C61-D028-S01",
+    "C61-D028-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.251,
+   "end_sec": 101.277,
+   "duration_sec": 4.026
+  },
+  {
+   "turn_id": "C61-D029",
+   "turn_index": 28,
+   "speaker": "林梅",
+   "source_text": "雪で中止になり、補講も来られない場合はどうなりますか。",
+   "sentence_ids": [
+    "C61-D029-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 101.627,
+   "end_sec": 105.738,
+   "duration_sec": 4.111
+  },
+  {
+   "turn_id": "C61-D030",
+   "turn_index": 29,
+   "speaker": "佐野",
+   "source_text": "補講は2月6日だけです。別日の用意は困難ですが、講座の後で窓口で資料をお渡しします。",
+   "sentence_ids": [
+    "C61-D030-S01",
+    "C61-D030-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 106.088,
+   "end_sec": 113.064,
+   "duration_sec": 6.976
+  },
+  {
+   "turn_id": "C61-D031",
+   "turn_index": 30,
+   "speaker": "林梅",
+   "source_text": "それは助かります。",
+   "sentence_ids": [
+    "C61-D031-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 113.414,
+   "end_sec": 115.151,
+   "duration_sec": 1.737
+  },
+  {
+   "turn_id": "C61-D032",
+   "turn_index": 31,
+   "speaker": "ハサン",
+   "source_text": "総務の返事はまだです。担当者は今週出張なので、来週水曜に聞きます。",
+   "sentence_ids": [
+    "C61-D032-S01",
+    "C61-D032-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 115.501,
+   "end_sec": 120.858,
+   "duration_sec": 5.357
+  },
+  {
+   "turn_id": "C61-D033",
+   "turn_index": 32,
+   "speaker": "林梅",
+   "source_text": "学習の窓には月曜に電話します。14日には判断しましょう。",
+   "sentence_ids": [
+    "C61-D033-S01",
+    "C61-D033-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 121.208,
+   "end_sec": 125.712,
+   "duration_sec": 4.504
+  },
+  {
+   "turn_id": "C61-D034",
+   "turn_index": 33,
+   "speaker": "佐野",
+   "source_text": "今日は6人とパソコン5台を受け付けました。変更は15日までに電話でお願いします。",
+   "sentence_ids": [
+    "C61-D034-S01",
+    "C61-D034-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 126.062,
+   "end_sec": 131.871,
+   "duration_sec": 5.809
+  },
+  {
+   "turn_id": "C61-D035",
+   "turn_index": 34,
+   "speaker": "林梅",
+   "source_text": "ありがとうございます。教材のリスク表も少し見せていただけますか。",
+   "sentence_ids": [
+    "C61-D035-S01",
+    "C61-D035-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 132.221,
+   "end_sec": 138.013,
+   "duration_sec": 5.792
+  },
+  {
+   "turn_id": "C61-D036",
+   "turn_index": 35,
+   "speaker": "佐野",
+   "source_text": "こちらです。災害だけでなく、詐欺や盗聴も扱います。被害の統計を表にして、危機感を具体的な対策につなげます。",
+   "sentence_ids": [
+    "C61-D036-S01",
+    "C61-D036-S02",
+    "C61-D036-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.363,
+   "end_sec": 147.329,
+   "duration_sec": 8.966
+  },
+  {
+   "turn_id": "C61-D037",
+   "turn_index": 36,
+   "speaker": "ハサン",
+   "source_text": "詐欺の罠は恐ろしいですね。方法が変わるたびに対策を変えるだけでは、いたちごっこになりませんか。",
+   "sentence_ids": [
+    "C61-D037-S01",
+    "C61-D037-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 147.679,
+   "end_sec": 154.558,
+   "duration_sec": 6.879
+  },
+  {
+   "turn_id": "C61-D038",
+   "turn_index": 37,
+   "speaker": "佐野",
+   "source_text": "はい。恐れを感じても、慌てて送金しないことが大事です。別の欄にはデータ消失の事例があります。データの消失は仕事に支障を来すので、保存方法も練習します。",
+   "sentence_ids": [
+    "C61-D038-S01",
+    "C61-D038-S02",
+    "C61-D038-S03",
+    "C61-D038-S04"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 154.908,
+   "end_sec": 167.759,
+   "duration_sec": 12.851
+  },
+  {
+   "turn_id": "C61-D039",
+   "turn_index": 38,
+   "speaker": "林梅",
+   "source_text": "機械が暴走してファイルが消えたら、元のデータなしでは直しようがないですね。損失も生じます。",
+   "sentence_ids": [
+    "C61-D039-S01",
+    "C61-D039-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 168.109,
+   "end_sec": 175.911,
+   "duration_sec": 7.802
+  },
+  {
+   "turn_id": "C61-D040",
+   "turn_index": 39,
+   "speaker": "ハサン",
+   "source_text": "この事例では、差し迫る危機にどう対応するかが大問題ですね。説明を全部読むのがやっとで、今は他の人に教える余裕がありません。",
+   "sentence_ids": [
+    "C61-D040-S01",
+    "C61-D040-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 176.261,
+   "end_sec": 186.476,
+   "duration_sec": 10.215
+  },
+  {
+   "turn_id": "C61-D041",
+   "turn_index": 40,
+   "speaker": "佐野",
+   "source_text": "まず一件の事例を読みましょう。原因を確かめずに「もうどうにもならない」と決めると、回復の機会を失います。",
+   "sentence_ids": [
+    "C61-D041-S01",
+    "C61-D041-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 186.826,
+   "end_sec": 194.444,
+   "duration_sec": 7.618
+  },
+  {
+   "turn_id": "C61-D042",
+   "turn_index": 41,
+   "speaker": "林梅",
+   "source_text": "不安を全部排除するのは難しいですが、心配してはいられませんね。保存の練習から始めます。",
+   "sentence_ids": [
+    "C61-D042-S01",
+    "C61-D042-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 194.794,
+   "end_sec": 202.348,
+   "duration_sec": 7.554
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C61-D001-S01",
+   "unit_id": "C61-D001",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "1月の表計算講座について伺います。",
+   "start_sec": 0.0,
+   "end_sec": 3.012,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D002-S01",
+   "unit_id": "C61-D002",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "はい。",
+   "start_sec": 3.362,
+   "end_sec": 4.431,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D002-S02",
+   "unit_id": "C61-D002",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "お知らせはお読みになりましたか。",
+   "start_sec": 4.581,
+   "end_sec": 6.545,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D003-S01",
+   "unit_id": "C61-D003",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "はい。",
+   "start_sec": 6.895,
+   "end_sec": 7.519,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D003-S02",
+   "unit_id": "C61-D003",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "会社の学習会の林です。",
+   "start_sec": 7.669,
+   "end_sec": 9.494,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D003-S03",
+   "unit_id": "C61-D003",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "席はありますか。",
+   "start_sec": 9.644,
+   "end_sec": 11.043,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D004-S01",
+   "unit_id": "C61-D004",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "今は残り9席です。",
+   "start_sec": 11.393,
+   "end_sec": 13.299,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D005-S01",
+   "unit_id": "C61-D005",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "思ったより少ないですね。",
+   "start_sec": 13.649,
+   "end_sec": 15.849,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D006-S01",
+   "unit_id": "C61-D006",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "別の案の返事を待っています。",
+   "start_sec": 16.199,
+   "end_sec": 18.204,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D006-S02",
+   "unit_id": "C61-D006",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "14日まで6席を取っておいていただけませんか。",
+   "start_sec": 18.354,
+   "end_sec": 21.53,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D007-S01",
+   "unit_id": "C61-D007",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "申し訳ありませんが、順番に受け付けるので、お受けしかねます。",
+   "start_sec": 21.88,
+   "end_sec": 25.687,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D008-S01",
+   "unit_id": "C61-D008",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "公平のためなら、やむを得ませんね。",
+   "start_sec": 26.037,
+   "end_sec": 28.589,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D009-S01",
+   "unit_id": "C61-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "あと10日で満員になるでしょうか。",
+   "start_sec": 28.939,
+   "end_sec": 31.66,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D010-S01",
+   "unit_id": "C61-D010",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "あり得ます。",
+   "start_sec": 32.01,
+   "end_sec": 33.077,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D010-S02",
+   "unit_id": "C61-D010",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "去年の秋は三日で定員になりました。",
+   "start_sec": 33.227,
+   "end_sec": 36.134,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D011-S01",
+   "unit_id": "C61-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "待つと席が取れなくなりかねませんね。",
+   "start_sec": 36.484,
+   "end_sec": 39.26,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D012-S01",
+   "unit_id": "C61-D012",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "ただ、15日まで電話で取り消せます。",
+   "start_sec": 39.61,
+   "end_sec": 42.319,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D013-S01",
+   "unit_id": "C61-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "取消料はかかりますか。",
+   "start_sec": 42.669,
+   "end_sec": 44.68,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D014-S01",
+   "unit_id": "C61-D014",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "15日までなら無料です。",
+   "start_sec": 45.03,
+   "end_sec": 46.985,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D014-S02",
+   "unit_id": "C61-D014",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "受講料は1月9日にいただきます。",
+   "start_sec": 47.135,
+   "end_sec": 49.707,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D015-S01",
+   "unit_id": "C61-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "先に申し込めば、別案に決まっても取り消せますね。",
+   "start_sec": 50.057,
+   "end_sec": 53.572,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D016-S01",
+   "unit_id": "C61-D016",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "はい。",
+   "start_sec": 53.922,
+   "end_sec": 54.579,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D016-S02",
+   "unit_id": "C61-D016",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "待っている方もいますので、早めにお願いします。",
+   "start_sec": 54.729,
+   "end_sec": 57.848,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D017-S01",
+   "unit_id": "C61-D017",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "すぐに連絡しないわけにはいきませんね。",
+   "start_sec": 58.198,
+   "end_sec": 61.317,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D018-S01",
+   "unit_id": "C61-D018",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "では、今日申し込みますか。",
+   "start_sec": 61.667,
+   "end_sec": 63.092,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D019-S01",
+   "unit_id": "C61-D019",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "はい。",
+   "start_sec": 63.442,
+   "end_sec": 64.085,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D019-S02",
+   "unit_id": "C61-D019",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "6人の同意は昨日までに確かめました。",
+   "start_sec": 64.235,
+   "end_sec": 67.369,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D019-S03",
+   "unit_id": "C61-D019",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "名前はこちらです。",
+   "start_sec": 67.519,
+   "end_sec": 68.991,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D020-S01",
+   "unit_id": "C61-D020",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "6人ですね。",
+   "start_sec": 69.341,
+   "end_sec": 70.564,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D020-S02",
+   "unit_id": "C61-D020",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "パソコンは何台必要ですか。",
+   "start_sec": 70.714,
+   "end_sec": 72.889,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D021-S01",
+   "unit_id": "C61-D021",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "わたしと他の4人が借ります。",
+   "start_sec": 73.239,
+   "end_sec": 75.579,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D021-S02",
+   "unit_id": "C61-D021",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "ハサンさんは持参します。",
+   "start_sec": 75.729,
+   "end_sec": 77.416,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D022-S01",
+   "unit_id": "C61-D022",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "自分のパソコンをネットワークにつなげますか。",
+   "start_sec": 77.766,
+   "end_sec": 80.26,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D023-S01",
+   "unit_id": "C61-D023",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "安全上の理由で認めかねます。",
+   "start_sec": 80.61,
+   "end_sec": 83.146,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D024-S01",
+   "unit_id": "C61-D024",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "USBメモリでファイルを持参してもいいですか。",
+   "start_sec": 83.496,
+   "end_sec": 85.938,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D025-S01",
+   "unit_id": "C61-D025",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "はい。",
+   "start_sec": 86.288,
+   "end_sec": 86.925,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D025-S02",
+   "unit_id": "C61-D025",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "ただ、自分の機器の故障には責任を負いかねます。",
+   "start_sec": 87.075,
+   "end_sec": 90.423,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D026-S01",
+   "unit_id": "C61-D026",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "故障に備えて二か所に保存します。",
+   "start_sec": 90.773,
+   "end_sec": 93.093,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D027-S01",
+   "unit_id": "C61-D027",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "貸出機もファイルが失われるおそれはありますね。",
+   "start_sec": 93.443,
+   "end_sec": 96.901,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D028-S01",
+   "unit_id": "C61-D028",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "はい。",
+   "start_sec": 97.251,
+   "end_sec": 97.954,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D028-S02",
+   "unit_id": "C61-D028",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "毎回点検しますが、作業中も保存してください。",
+   "start_sec": 98.104,
+   "end_sec": 101.277,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D029-S01",
+   "unit_id": "C61-D029",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "雪で中止になり、補講も来られない場合はどうなりますか。",
+   "start_sec": 101.627,
+   "end_sec": 105.738,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D030-S01",
+   "unit_id": "C61-D030",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "補講は2月6日だけです。",
+   "start_sec": 106.088,
+   "end_sec": 108.394,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D030-S02",
+   "unit_id": "C61-D030",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "別日の用意は困難ですが、講座の後で窓口で資料をお渡しします。",
+   "start_sec": 108.544,
+   "end_sec": 113.064,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D031-S01",
+   "unit_id": "C61-D031",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "それは助かります。",
+   "start_sec": 113.414,
+   "end_sec": 115.151,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D032-S01",
+   "unit_id": "C61-D032",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "総務の返事はまだです。",
+   "start_sec": 115.501,
+   "end_sec": 117.131,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D032-S02",
+   "unit_id": "C61-D032",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "担当者は今週出張なので、来週水曜に聞きます。",
+   "start_sec": 117.281,
+   "end_sec": 120.858,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D033-S01",
+   "unit_id": "C61-D033",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "学習の窓には月曜に電話します。",
+   "start_sec": 121.208,
+   "end_sec": 123.81,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D033-S02",
+   "unit_id": "C61-D033",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "14日には判断しましょう。",
+   "start_sec": 123.96,
+   "end_sec": 125.712,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D034-S01",
+   "unit_id": "C61-D034",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "今日は6人とパソコン5台を受け付けました。",
+   "start_sec": 126.062,
+   "end_sec": 129.041,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D034-S02",
+   "unit_id": "C61-D034",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "変更は15日までに電話でお願いします。",
+   "start_sec": 129.191,
+   "end_sec": 131.871,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D035-S01",
+   "unit_id": "C61-D035",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "ありがとうございます。",
+   "start_sec": 132.221,
+   "end_sec": 133.841,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D035-S02",
+   "unit_id": "C61-D035",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "教材のリスク表も少し見せていただけますか。",
+   "start_sec": 133.991,
+   "end_sec": 138.013,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D036-S01",
+   "unit_id": "C61-D036",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "こちらです。",
+   "start_sec": 138.363,
+   "end_sec": 139.297,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D036-S02",
+   "unit_id": "C61-D036",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "災害だけでなく、詐欺や盗聴も扱います。",
+   "start_sec": 139.447,
+   "end_sec": 142.767,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D036-S03",
+   "unit_id": "C61-D036",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "被害の統計を表にして、危機感を具体的な対策につなげます。",
+   "start_sec": 142.917,
+   "end_sec": 147.329,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D037-S01",
+   "unit_id": "C61-D037",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "詐欺の罠は恐ろしいですね。",
+   "start_sec": 147.679,
+   "end_sec": 150.034,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D037-S02",
+   "unit_id": "C61-D037",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "方法が変わるたびに対策を変えるだけでは、いたちごっこになりませんか。",
+   "start_sec": 150.184,
+   "end_sec": 154.558,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D038-S01",
+   "unit_id": "C61-D038",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "はい。",
+   "start_sec": 154.908,
+   "end_sec": 155.646,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D038-S02",
+   "unit_id": "C61-D038",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "恐れを感じても、慌てて送金しないことが大事です。",
+   "start_sec": 155.796,
+   "end_sec": 159.582,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D038-S03",
+   "unit_id": "C61-D038",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "別の欄にはデータ消失の事例があります。",
+   "start_sec": 159.732,
+   "end_sec": 162.92,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D038-S04",
+   "unit_id": "C61-D038",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "データの消失は仕事に支障を来すので、保存方法も練習します。",
+   "start_sec": 163.07,
+   "end_sec": 167.759,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D039-S01",
+   "unit_id": "C61-D039",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "機械が暴走してファイルが消えたら、元のデータなしでは直しようがないですね。",
+   "start_sec": 168.109,
+   "end_sec": 173.733,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D039-S02",
+   "unit_id": "C61-D039",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "損失も生じます。",
+   "start_sec": 173.883,
+   "end_sec": 175.911,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D040-S01",
+   "unit_id": "C61-D040",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "この事例では、差し迫る危機にどう対応するかが大問題ですね。",
+   "start_sec": 176.261,
+   "end_sec": 181.561,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D040-S02",
+   "unit_id": "C61-D040",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "説明を全部読むのがやっとで、今は他の人に教える余裕がありません。",
+   "start_sec": 181.711,
+   "end_sec": 186.476,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D041-S01",
+   "unit_id": "C61-D041",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "まず一件の事例を読みましょう。",
+   "start_sec": 186.826,
+   "end_sec": 188.991,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D041-S02",
+   "unit_id": "C61-D041",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "原因を確かめずに「もうどうにもならない」と決めると、回復の機会を失います。",
+   "start_sec": 189.141,
+   "end_sec": 194.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D042-S01",
+   "unit_id": "C61-D042",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "不安を全部排除するのは難しいですが、心配してはいられませんね。",
+   "start_sec": 194.794,
+   "end_sec": 200.375,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C61-D042-S02",
+   "unit_id": "C61-D042",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "保存の練習から始めます。",
+   "start_sec": 200.525,
+   "end_sec": 202.348,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

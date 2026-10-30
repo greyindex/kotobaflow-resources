@@ -1,0 +1,2187 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 248.96,
+ "listening_review": "pending",
+ "source_chapter": 20,
+ "turns": [
+  {
+   "turn_id": "C20-D001",
+   "turn_index": 0,
+   "speaker": "ルカ",
+   "source_text": "すみません。学校のチャットを読みました。かばんを探しています。",
+   "sentence_ids": [
+    "C20-D001-S01",
+    "C20-D001-S02",
+    "C20-D001-S03"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 4.226,
+   "duration_sec": 4.226
+  },
+  {
+   "turn_id": "C20-D002",
+   "turn_index": 1,
+   "speaker": "小林",
+   "source_text": "かばんは二つあります。どんなかばんですか。名前もお願いします。",
+   "sentence_ids": [
+    "C20-D002-S01",
+    "C20-D002-S02",
+    "C20-D002-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 4.576,
+   "end_sec": 9.392,
+   "duration_sec": 4.816
+  },
+  {
+   "turn_id": "C20-D003",
+   "turn_index": 2,
+   "speaker": "ルカ",
+   "source_text": "ルカです。この近くに住んでいます。紺色のかばんです。",
+   "sentence_ids": [
+    "C20-D003-S01",
+    "C20-D003-S02",
+    "C20-D003-S03"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 9.742,
+   "end_sec": 13.86,
+   "duration_sec": 4.118
+  },
+  {
+   "turn_id": "C20-D004",
+   "turn_index": 3,
+   "speaker": "小林",
+   "source_text": "この四角いかばんですか。水玉の模様があります。",
+   "sentence_ids": [
+    "C20-D004-S01",
+    "C20-D004-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 14.21,
+   "end_sec": 18.11,
+   "duration_sec": 3.9
+  },
+  {
+   "turn_id": "C20-D005",
+   "turn_index": 4,
+   "speaker": "ルカ",
+   "source_text": "形は似ていますが、私の物はしまの模様です。",
+   "sentence_ids": [
+    "C20-D005-S01"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.46,
+   "end_sec": 21.95,
+   "duration_sec": 3.49
+  },
+  {
+   "turn_id": "C20-D006",
+   "turn_index": 5,
+   "speaker": "小林",
+   "source_text": "では、こちらですね。目印はありますか。",
+   "sentence_ids": [
+    "C20-D006-S01",
+    "C20-D006-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 22.3,
+   "end_sec": 25.515,
+   "duration_sec": 3.215
+  },
+  {
+   "turn_id": "C20-D007",
+   "turn_index": 6,
+   "speaker": "ルカ",
+   "source_text": "中に丸い財布があります。財布の中の紙に名前があります。",
+   "sentence_ids": [
+    "C20-D007-S01",
+    "C20-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 25.865,
+   "end_sec": 30.129,
+   "duration_sec": 4.264
+  },
+  {
+   "turn_id": "C20-D008",
+   "turn_index": 7,
+   "speaker": "小林",
+   "source_text": "開けてもいいですか。……はい、ルカさんですね。",
+   "sentence_ids": [
+    "C20-D008-S01",
+    "C20-D008-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.479,
+   "end_sec": 33.702,
+   "duration_sec": 3.223
+  },
+  {
+   "turn_id": "C20-D009",
+   "turn_index": 8,
+   "speaker": "ルカ",
+   "source_text": "それです。友人が選んだかばんです。私はかばんを二つ持っています。これは毎日使っています。",
+   "sentence_ids": [
+    "C20-D009-S01",
+    "C20-D009-S02",
+    "C20-D009-S03",
+    "C20-D009-S04"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.052,
+   "end_sec": 40.504,
+   "duration_sec": 6.452
+  },
+  {
+   "turn_id": "C20-D010",
+   "turn_index": 9,
+   "speaker": "小林",
+   "source_text": "この紙に名前を書いてください。昨日の席の番号もお願いします。",
+   "sentence_ids": [
+    "C20-D010-S01",
+    "C20-D010-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 40.854,
+   "end_sec": 46.056,
+   "duration_sec": 5.202
+  },
+  {
+   "turn_id": "C20-D011",
+   "turn_index": 10,
+   "speaker": "ルカ",
+   "source_text": "三番です。窓の近くでした。",
+   "sentence_ids": [
+    "C20-D011-S01",
+    "C20-D011-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 46.406,
+   "end_sec": 48.716,
+   "duration_sec": 2.31
+  },
+  {
+   "turn_id": "C20-D012",
+   "turn_index": 11,
+   "speaker": "小林",
+   "source_text": "その席の下にありました。名前も確認しました。どうぞ。",
+   "sentence_ids": [
+    "C20-D012-S01",
+    "C20-D012-S02",
+    "C20-D012-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 49.066,
+   "end_sec": 53.367,
+   "duration_sec": 4.301
+  },
+  {
+   "turn_id": "C20-D013",
+   "turn_index": 12,
+   "speaker": "ルカ",
+   "source_text": "ありがとうございます。友達もかばんを探しています。水玉の模様だと言いました。",
+   "sentence_ids": [
+    "C20-D013-S01",
+    "C20-D013-S02",
+    "C20-D013-S03"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 53.717,
+   "end_sec": 58.793,
+   "duration_sec": 5.076
+  },
+  {
+   "turn_id": "C20-D014",
+   "turn_index": 13,
+   "speaker": "小林",
+   "source_text": "このかばんかどうか、友達と確認します。今どこにいますか。",
+   "sentence_ids": [
+    "C20-D014-S01",
+    "C20-D014-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.143,
+   "end_sec": 64.065,
+   "duration_sec": 4.922
+  },
+  {
+   "turn_id": "C20-D015",
+   "turn_index": 14,
+   "speaker": "ルカ",
+   "source_text": "入口の近くです。ほら、帽子をかぶっている人です。",
+   "sentence_ids": [
+    "C20-D015-S01",
+    "C20-D015-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 64.415,
+   "end_sec": 67.833,
+   "duration_sec": 3.418
+  },
+  {
+   "turn_id": "C20-D016",
+   "turn_index": 15,
+   "speaker": "小林",
+   "source_text": "窓の近くで本を読んでいる人ですか。",
+   "sentence_ids": [
+    "C20-D016-S01"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.183,
+   "end_sec": 70.858,
+   "duration_sec": 2.675
+  },
+  {
+   "turn_id": "C20-D017",
+   "turn_index": 16,
+   "speaker": "ルカ",
+   "source_text": "いいえ。眼鏡をかけています。紺色のシャツを着ています。小さい袋も持っています。",
+   "sentence_ids": [
+    "C20-D017-S01",
+    "C20-D017-S02",
+    "C20-D017-S03",
+    "C20-D017-S04"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 71.208,
+   "end_sec": 77.052,
+   "duration_sec": 5.844
+  },
+  {
+   "turn_id": "C20-D018",
+   "turn_index": 17,
+   "speaker": "小林",
+   "source_text": "スマートフォンを使っている人ですね。髪は短いですね。",
+   "sentence_ids": [
+    "C20-D018-S01",
+    "C20-D018-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.402,
+   "end_sec": 81.443,
+   "duration_sec": 4.041
+  },
+  {
+   "turn_id": "C20-D019",
+   "turn_index": 18,
+   "speaker": "ルカ",
+   "source_text": "はい。身長も言いますか。",
+   "sentence_ids": [
+    "C20-D019-S01",
+    "C20-D019-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.793,
+   "end_sec": 83.915,
+   "duration_sec": 2.122
+  },
+  {
+   "turn_id": "C20-D020",
+   "turn_index": 19,
+   "speaker": "小林",
+   "source_text": "いいえ、わかりました。日本語を勉強しているマヤさんですね。",
+   "sentence_ids": [
+    "C20-D020-S01",
+    "C20-D020-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 84.265,
+   "end_sec": 88.587,
+   "duration_sec": 4.322
+  },
+  {
+   "turn_id": "C20-D021",
+   "turn_index": 20,
+   "speaker": "ルカ",
+   "source_text": "はい。私が呼びます。マヤさん、受付に来てください。",
+   "sentence_ids": [
+    "C20-D021-S01",
+    "C20-D021-S02",
+    "C20-D021-S03"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 88.937,
+   "end_sec": 92.701,
+   "duration_sec": 3.764
+  },
+  {
+   "turn_id": "C20-D022",
+   "turn_index": 21,
+   "speaker": "マヤ",
+   "source_text": "こんにちは。かばんを見つけましたか。",
+   "sentence_ids": [
+    "C20-D022-S01",
+    "C20-D022-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.051,
+   "end_sec": 95.849,
+   "duration_sec": 2.798
+  },
+  {
+   "turn_id": "C20-D023",
+   "turn_index": 22,
+   "speaker": "ルカ",
+   "source_text": "はい。これはマヤさんのかばんですか。",
+   "sentence_ids": [
+    "C20-D023-S01",
+    "C20-D023-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 96.199,
+   "end_sec": 99.152,
+   "duration_sec": 2.953
+  },
+  {
+   "turn_id": "C20-D024",
+   "turn_index": 23,
+   "speaker": "マヤ",
+   "source_text": "たぶんそうです。中に日本語のノートがあります。私は文章を書くのが好きです。",
+   "sentence_ids": [
+    "C20-D024-S01",
+    "C20-D024-S02",
+    "C20-D024-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 99.502,
+   "end_sec": 106.351,
+   "duration_sec": 6.849
+  },
+  {
+   "turn_id": "C20-D025",
+   "turn_index": 24,
+   "speaker": "小林",
+   "source_text": "ノートに名前はありますか。",
+   "sentence_ids": [
+    "C20-D025-S01"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 106.701,
+   "end_sec": 108.751,
+   "duration_sec": 2.05
+  },
+  {
+   "turn_id": "C20-D026",
+   "turn_index": 25,
+   "speaker": "マヤ",
+   "source_text": "はい。上の小さい紙にもマヤと書きました。",
+   "sentence_ids": [
+    "C20-D026-S01",
+    "C20-D026-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.101,
+   "end_sec": 113.094,
+   "duration_sec": 3.993
+  },
+  {
+   "turn_id": "C20-D027",
+   "turn_index": 26,
+   "speaker": "小林",
+   "source_text": "確認しました。この紙に名前を書いてください。それから、かばんをどうぞ。",
+   "sentence_ids": [
+    "C20-D027-S01",
+    "C20-D027-S02",
+    "C20-D027-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 113.444,
+   "end_sec": 119.182,
+   "duration_sec": 5.738
+  },
+  {
+   "turn_id": "C20-D028",
+   "turn_index": 27,
+   "speaker": "マヤ",
+   "source_text": "ありがとうございます。この細いペンを使ってもいいですか。",
+   "sentence_ids": [
+    "C20-D028-S01",
+    "C20-D028-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 119.532,
+   "end_sec": 123.893,
+   "duration_sec": 4.361
+  },
+  {
+   "turn_id": "C20-D029",
+   "turn_index": 28,
+   "speaker": "小林",
+   "source_text": "それも落とし物です。私の太いペンを使ってください。",
+   "sentence_ids": [
+    "C20-D029-S01",
+    "C20-D029-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 124.243,
+   "end_sec": 128.368,
+   "duration_sec": 4.125
+  },
+  {
+   "turn_id": "C20-D030",
+   "turn_index": 29,
+   "speaker": "マヤ",
+   "source_text": "はい。袋やペンの持ち主はまだ来ていませんか。",
+   "sentence_ids": [
+    "C20-D030-S01",
+    "C20-D030-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 128.718,
+   "end_sec": 133.024,
+   "duration_sec": 4.306
+  },
+  {
+   "turn_id": "C20-D031",
+   "turn_index": 30,
+   "speaker": "小林",
+   "source_text": "ええ。だれの物か、まだわかりません。六時まで待っています。",
+   "sentence_ids": [
+    "C20-D031-S01",
+    "C20-D031-S02",
+    "C20-D031-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 133.374,
+   "end_sec": 137.892,
+   "duration_sec": 4.518
+  },
+  {
+   "turn_id": "C20-D032",
+   "turn_index": 31,
+   "speaker": "マヤ",
+   "source_text": "袋の中のノートは友達の物だと思います。昨日、探していました。",
+   "sentence_ids": [
+    "C20-D032-S01",
+    "C20-D032-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.242,
+   "end_sec": 143.449,
+   "duration_sec": 5.207
+  },
+  {
+   "turn_id": "C20-D033",
+   "turn_index": 32,
+   "speaker": "小林",
+   "source_text": "まずその友達に確認します。受付に電話をかけてくださいと伝えてください。",
+   "sentence_ids": [
+    "C20-D033-S01",
+    "C20-D033-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 143.799,
+   "end_sec": 149.268,
+   "duration_sec": 5.469
+  },
+  {
+   "turn_id": "C20-D034",
+   "turn_index": 33,
+   "speaker": "マヤ",
+   "source_text": "私は持ち主ではありませんから、友達に連絡します。今日は学校に来ません。",
+   "sentence_ids": [
+    "C20-D034-S01",
+    "C20-D034-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 149.618,
+   "end_sec": 155.407,
+   "duration_sec": 5.789
+  },
+  {
+   "turn_id": "C20-D035",
+   "turn_index": 34,
+   "speaker": "小林",
+   "source_text": "では、受付の電話番号を伝えてください。",
+   "sentence_ids": [
+    "C20-D035-S01"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 155.757,
+   "end_sec": 158.881,
+   "duration_sec": 3.124
+  },
+  {
+   "turn_id": "C20-D036",
+   "turn_index": 35,
+   "speaker": "マヤ",
+   "source_text": "はい。今、メッセージを送ります。ありがとうございました。",
+   "sentence_ids": [
+    "C20-D036-S01",
+    "C20-D036-S02",
+    "C20-D036-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 159.231,
+   "end_sec": 163.314,
+   "duration_sec": 4.083
+  },
+  {
+   "turn_id": "C20-D037",
+   "turn_index": 36,
+   "speaker": "マヤ",
+   "source_text": "ルカさん、明日は私の両親も来ます。この写真を見てください。白い服の人は母です。赤い服の人は姉です。",
+   "sentence_ids": [
+    "C20-D037-S01",
+    "C20-D037-S02",
+    "C20-D037-S03",
+    "C20-D037-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 164.214,
+   "end_sec": 173.538,
+   "duration_sec": 9.324
+  },
+  {
+   "turn_id": "C20-D038",
+   "turn_index": 37,
+   "speaker": "ルカ",
+   "source_text": "お母さんとお姉さんは顔が似ていますね。黒い帽子の人はお父さんですか。",
+   "sentence_ids": [
+    "C20-D038-S01",
+    "C20-D038-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 173.888,
+   "end_sec": 179.641,
+   "duration_sec": 5.753
+  },
+  {
+   "turn_id": "C20-D039",
+   "turn_index": 38,
+   "speaker": "マヤ",
+   "source_text": "はい、父です。髭があります。隣の若い男は兄です。兄の妻は中国で生まれました。",
+   "sentence_ids": [
+    "C20-D039-S01",
+    "C20-D039-S02",
+    "C20-D039-S03",
+    "C20-D039-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 179.991,
+   "end_sec": 188.023,
+   "duration_sec": 8.032
+  },
+  {
+   "turn_id": "C20-D040",
+   "turn_index": 39,
+   "speaker": "ルカ",
+   "source_text": "この女の人ですね。お兄さんの奥さんは、昨日の会議にも来ましたね。",
+   "sentence_ids": [
+    "C20-D040-S01",
+    "C20-D040-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 188.373,
+   "end_sec": 193.145,
+   "duration_sec": 4.772
+  },
+  {
+   "turn_id": "C20-D041",
+   "turn_index": 40,
+   "speaker": "マヤ",
+   "source_text": "はい。彼女は「夫は料理が好きです」と言いました。これは二人の息子で、私の甥です。",
+   "sentence_ids": [
+    "C20-D041-S01",
+    "C20-D041-S02",
+    "C20-D041-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 193.495,
+   "end_sec": 200.844,
+   "duration_sec": 7.349
+  },
+  {
+   "turn_id": "C20-D042",
+   "turn_index": 41,
+   "speaker": "ルカ",
+   "source_text": "黄色い服の男の子ですね。にこにこしていますね。隣の女の子も二人の子供ですか。",
+   "sentence_ids": [
+    "C20-D042-S01",
+    "C20-D042-S02",
+    "C20-D042-S03"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 201.194,
+   "end_sec": 207.723,
+   "duration_sec": 6.529
+  },
+  {
+   "turn_id": "C20-D043",
+   "turn_index": 42,
+   "speaker": "マヤ",
+   "source_text": "はい、娘です。二人は年が同じです。大人の服を着るのが好きです。",
+   "sentence_ids": [
+    "C20-D043-S01",
+    "C20-D043-S02",
+    "C20-D043-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 208.073,
+   "end_sec": 213.931,
+   "duration_sec": 5.858
+  },
+  {
+   "turn_id": "C20-D044",
+   "turn_index": 43,
+   "speaker": "ルカ",
+   "source_text": "この絵も面白いですね。大きな帽子の少年と小さな帽子の少女がいます。",
+   "sentence_ids": [
+    "C20-D044-S01",
+    "C20-D044-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 214.281,
+   "end_sec": 220.048,
+   "duration_sec": 5.767
+  },
+  {
+   "turn_id": "C20-D045",
+   "turn_index": 44,
+   "speaker": "マヤ",
+   "source_text": "弟が描きました。彼は絵に興味を持っています。妹も絵が好きです。わたしたちはよく一緒に描きます。",
+   "sentence_ids": [
+    "C20-D045-S01",
+    "C20-D045-S02",
+    "C20-D045-S03",
+    "C20-D045-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 220.398,
+   "end_sec": 228.369,
+   "duration_sec": 7.971
+  },
+  {
+   "turn_id": "C20-D046",
+   "turn_index": 45,
+   "speaker": "ルカ",
+   "source_text": "明日は弟さんたちも来ますか。",
+   "sentence_ids": [
+    "C20-D046-S01"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 228.719,
+   "end_sec": 230.676,
+   "duration_sec": 1.957
+  },
+  {
+   "turn_id": "C20-D047",
+   "turn_index": 46,
+   "speaker": "マヤ",
+   "source_text": "はい。彼らは今、受付の外にいます。青色の植木鉢の隣です。",
+   "sentence_ids": [
+    "C20-D047-S01",
+    "C20-D047-S02",
+    "C20-D047-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 231.026,
+   "end_sec": 237.023,
+   "duration_sec": 5.997
+  },
+  {
+   "turn_id": "C20-D048",
+   "turn_index": 47,
+   "speaker": "ルカ",
+   "source_text": "ああ、あの二人ですね。マヤさんと同じ名字ですか。",
+   "sentence_ids": [
+    "C20-D048-S01",
+    "C20-D048-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 237.373,
+   "end_sec": 240.857,
+   "duration_sec": 3.484
+  },
+  {
+   "turn_id": "C20-D049",
+   "turn_index": 48,
+   "speaker": "マヤ",
+   "source_text": "はい。姓は林です。妹の名は花です。家ではハナちゃんと呼びます。愛称です。",
+   "sentence_ids": [
+    "C20-D049-S01",
+    "C20-D049-S02",
+    "C20-D049-S03",
+    "C20-D049-S04",
+    "C20-D049-S05"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 241.207,
+   "end_sec": 248.954,
+   "duration_sec": 7.747
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C20-D001-S01",
+   "unit_id": "C20-D001",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "すみません。",
+   "start_sec": 0.0,
+   "end_sec": 0.883,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D001-S02",
+   "unit_id": "C20-D001",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "学校のチャットを読みました。",
+   "start_sec": 1.033,
+   "end_sec": 2.577,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D001-S03",
+   "unit_id": "C20-D001",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "かばんを探しています。",
+   "start_sec": 2.727,
+   "end_sec": 4.226,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D002-S01",
+   "unit_id": "C20-D002",
+   "section": "D",
+   "speaker": "小林",
+   "text": "かばんは二つあります。",
+   "start_sec": 4.576,
+   "end_sec": 6.265,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D002-S02",
+   "unit_id": "C20-D002",
+   "section": "D",
+   "speaker": "小林",
+   "text": "どんなかばんですか。",
+   "start_sec": 6.415,
+   "end_sec": 7.745,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D002-S03",
+   "unit_id": "C20-D002",
+   "section": "D",
+   "speaker": "小林",
+   "text": "名前もお願いします。",
+   "start_sec": 7.895,
+   "end_sec": 9.392,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D003-S01",
+   "unit_id": "C20-D003",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "ルカです。",
+   "start_sec": 9.742,
+   "end_sec": 10.656,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D003-S02",
+   "unit_id": "C20-D003",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "この近くに住んでいます。",
+   "start_sec": 10.806,
+   "end_sec": 12.205,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D003-S03",
+   "unit_id": "C20-D003",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "紺色のかばんです。",
+   "start_sec": 12.355,
+   "end_sec": 13.86,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D004-S01",
+   "unit_id": "C20-D004",
+   "section": "D",
+   "speaker": "小林",
+   "text": "この四角いかばんですか。",
+   "start_sec": 14.21,
+   "end_sec": 16.283,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D004-S02",
+   "unit_id": "C20-D004",
+   "section": "D",
+   "speaker": "小林",
+   "text": "水玉の模様があります。",
+   "start_sec": 16.433,
+   "end_sec": 18.11,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D005-S01",
+   "unit_id": "C20-D005",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "形は似ていますが、私の物はしまの模様です。",
+   "start_sec": 18.46,
+   "end_sec": 21.95,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D006-S01",
+   "unit_id": "C20-D006",
+   "section": "D",
+   "speaker": "小林",
+   "text": "では、こちらですね。",
+   "start_sec": 22.3,
+   "end_sec": 23.825,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D006-S02",
+   "unit_id": "C20-D006",
+   "section": "D",
+   "speaker": "小林",
+   "text": "目印はありますか。",
+   "start_sec": 23.975,
+   "end_sec": 25.515,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D007-S01",
+   "unit_id": "C20-D007",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "中に丸い財布があります。",
+   "start_sec": 25.865,
+   "end_sec": 27.867,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D007-S02",
+   "unit_id": "C20-D007",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "財布の中の紙に名前があります。",
+   "start_sec": 28.017,
+   "end_sec": 30.129,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D008-S01",
+   "unit_id": "C20-D008",
+   "section": "D",
+   "speaker": "小林",
+   "text": "開けてもいいですか。",
+   "start_sec": 30.479,
+   "end_sec": 31.749,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D008-S02",
+   "unit_id": "C20-D008",
+   "section": "D",
+   "speaker": "小林",
+   "text": "……はい、ルカさんですね。",
+   "start_sec": 31.899,
+   "end_sec": 33.702,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D009-S01",
+   "unit_id": "C20-D009",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "それです。",
+   "start_sec": 34.052,
+   "end_sec": 34.898,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D009-S02",
+   "unit_id": "C20-D009",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "友人が選んだかばんです。",
+   "start_sec": 35.048,
+   "end_sec": 36.675,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D009-S03",
+   "unit_id": "C20-D009",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "私はかばんを二つ持っています。",
+   "start_sec": 36.825,
+   "end_sec": 38.802,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D009-S04",
+   "unit_id": "C20-D009",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "これは毎日使っています。",
+   "start_sec": 38.952,
+   "end_sec": 40.504,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D010-S01",
+   "unit_id": "C20-D010",
+   "section": "D",
+   "speaker": "小林",
+   "text": "この紙に名前を書いてください。",
+   "start_sec": 40.854,
+   "end_sec": 43.344,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D010-S02",
+   "unit_id": "C20-D010",
+   "section": "D",
+   "speaker": "小林",
+   "text": "昨日の席の番号もお願いします。",
+   "start_sec": 43.494,
+   "end_sec": 46.056,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D011-S01",
+   "unit_id": "C20-D011",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "三番です。",
+   "start_sec": 46.406,
+   "end_sec": 47.363,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D011-S02",
+   "unit_id": "C20-D011",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "窓の近くでした。",
+   "start_sec": 47.513,
+   "end_sec": 48.716,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D012-S01",
+   "unit_id": "C20-D012",
+   "section": "D",
+   "speaker": "小林",
+   "text": "その席の下にありました。",
+   "start_sec": 49.066,
+   "end_sec": 50.919,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D012-S02",
+   "unit_id": "C20-D012",
+   "section": "D",
+   "speaker": "小林",
+   "text": "名前も確認しました。",
+   "start_sec": 51.069,
+   "end_sec": 52.602,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D012-S03",
+   "unit_id": "C20-D012",
+   "section": "D",
+   "speaker": "小林",
+   "text": "どうぞ。",
+   "start_sec": 52.752,
+   "end_sec": 53.367,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D013-S01",
+   "unit_id": "C20-D013",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "ありがとうございます。",
+   "start_sec": 53.717,
+   "end_sec": 54.84,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D013-S02",
+   "unit_id": "C20-D013",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "友達もかばんを探しています。",
+   "start_sec": 54.99,
+   "end_sec": 56.733,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D013-S03",
+   "unit_id": "C20-D013",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "水玉の模様だと言いました。",
+   "start_sec": 56.883,
+   "end_sec": 58.793,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D014-S01",
+   "unit_id": "C20-D014",
+   "section": "D",
+   "speaker": "小林",
+   "text": "このかばんかどうか、友達と確認します。",
+   "start_sec": 59.143,
+   "end_sec": 62.456,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D014-S02",
+   "unit_id": "C20-D014",
+   "section": "D",
+   "speaker": "小林",
+   "text": "今どこにいますか。",
+   "start_sec": 62.606,
+   "end_sec": 64.065,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D015-S01",
+   "unit_id": "C20-D015",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "入口の近くです。",
+   "start_sec": 64.415,
+   "end_sec": 65.616,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D015-S02",
+   "unit_id": "C20-D015",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "ほら、帽子をかぶっている人です。",
+   "start_sec": 65.766,
+   "end_sec": 67.833,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D016-S01",
+   "unit_id": "C20-D016",
+   "section": "D",
+   "speaker": "小林",
+   "text": "窓の近くで本を読んでいる人ですか。",
+   "start_sec": 68.183,
+   "end_sec": 70.858,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D017-S01",
+   "unit_id": "C20-D017",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "いいえ。",
+   "start_sec": 71.208,
+   "end_sec": 71.991,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D017-S02",
+   "unit_id": "C20-D017",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "眼鏡をかけています。",
+   "start_sec": 72.141,
+   "end_sec": 73.52,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D017-S03",
+   "unit_id": "C20-D017",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "紺色のシャツを着ています。",
+   "start_sec": 73.67,
+   "end_sec": 75.365,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D017-S04",
+   "unit_id": "C20-D017",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "小さい袋も持っています。",
+   "start_sec": 75.515,
+   "end_sec": 77.052,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D018-S01",
+   "unit_id": "C20-D018",
+   "section": "D",
+   "speaker": "小林",
+   "text": "スマートフォンを使っている人ですね。",
+   "start_sec": 77.402,
+   "end_sec": 79.633,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D018-S02",
+   "unit_id": "C20-D018",
+   "section": "D",
+   "speaker": "小林",
+   "text": "髪は短いですね。",
+   "start_sec": 79.783,
+   "end_sec": 81.443,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D019-S01",
+   "unit_id": "C20-D019",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "はい。",
+   "start_sec": 81.793,
+   "end_sec": 82.369,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D019-S02",
+   "unit_id": "C20-D019",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "身長も言いますか。",
+   "start_sec": 82.519,
+   "end_sec": 83.915,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D020-S01",
+   "unit_id": "C20-D020",
+   "section": "D",
+   "speaker": "小林",
+   "text": "いいえ、わかりました。",
+   "start_sec": 84.265,
+   "end_sec": 86.043,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D020-S02",
+   "unit_id": "C20-D020",
+   "section": "D",
+   "speaker": "小林",
+   "text": "日本語を勉強しているマヤさんですね。",
+   "start_sec": 86.193,
+   "end_sec": 88.587,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D021-S01",
+   "unit_id": "C20-D021",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "はい。",
+   "start_sec": 88.937,
+   "end_sec": 89.376,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D021-S02",
+   "unit_id": "C20-D021",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "私が呼びます。",
+   "start_sec": 89.526,
+   "end_sec": 90.733,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D021-S03",
+   "unit_id": "C20-D021",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "マヤさん、受付に来てください。",
+   "start_sec": 90.883,
+   "end_sec": 92.701,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D022-S01",
+   "unit_id": "C20-D022",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "こんにちは。",
+   "start_sec": 93.051,
+   "end_sec": 94.006,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D022-S02",
+   "unit_id": "C20-D022",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "かばんを見つけましたか。",
+   "start_sec": 94.156,
+   "end_sec": 95.849,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D023-S01",
+   "unit_id": "C20-D023",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "はい。",
+   "start_sec": 96.199,
+   "end_sec": 97.035,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D023-S02",
+   "unit_id": "C20-D023",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "これはマヤさんのかばんですか。",
+   "start_sec": 97.185,
+   "end_sec": 99.152,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D024-S01",
+   "unit_id": "C20-D024",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "たぶんそうです。",
+   "start_sec": 99.502,
+   "end_sec": 100.966,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D024-S02",
+   "unit_id": "C20-D024",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "中に日本語のノートがあります。",
+   "start_sec": 101.116,
+   "end_sec": 103.813,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D024-S03",
+   "unit_id": "C20-D024",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "私は文章を書くのが好きです。",
+   "start_sec": 103.963,
+   "end_sec": 106.351,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D025-S01",
+   "unit_id": "C20-D025",
+   "section": "D",
+   "speaker": "小林",
+   "text": "ノートに名前はありますか。",
+   "start_sec": 106.701,
+   "end_sec": 108.751,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D026-S01",
+   "unit_id": "C20-D026",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "はい。",
+   "start_sec": 109.101,
+   "end_sec": 109.899,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D026-S02",
+   "unit_id": "C20-D026",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "上の小さい紙にもマヤと書きました。",
+   "start_sec": 110.049,
+   "end_sec": 113.094,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D027-S01",
+   "unit_id": "C20-D027",
+   "section": "D",
+   "speaker": "小林",
+   "text": "確認しました。",
+   "start_sec": 113.444,
+   "end_sec": 114.617,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D027-S02",
+   "unit_id": "C20-D027",
+   "section": "D",
+   "speaker": "小林",
+   "text": "この紙に名前を書いてください。",
+   "start_sec": 114.767,
+   "end_sec": 117.157,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D027-S03",
+   "unit_id": "C20-D027",
+   "section": "D",
+   "speaker": "小林",
+   "text": "それから、かばんをどうぞ。",
+   "start_sec": 117.307,
+   "end_sec": 119.182,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D028-S01",
+   "unit_id": "C20-D028",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "ありがとうございます。",
+   "start_sec": 119.532,
+   "end_sec": 121.294,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D028-S02",
+   "unit_id": "C20-D028",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "この細いペンを使ってもいいですか。",
+   "start_sec": 121.444,
+   "end_sec": 123.893,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D029-S01",
+   "unit_id": "C20-D029",
+   "section": "D",
+   "speaker": "小林",
+   "text": "それも落とし物です。",
+   "start_sec": 124.243,
+   "end_sec": 126.014,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D029-S02",
+   "unit_id": "C20-D029",
+   "section": "D",
+   "speaker": "小林",
+   "text": "私の太いペンを使ってください。",
+   "start_sec": 126.164,
+   "end_sec": 128.368,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D030-S01",
+   "unit_id": "C20-D030",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "はい。",
+   "start_sec": 128.718,
+   "end_sec": 129.589,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D030-S02",
+   "unit_id": "C20-D030",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "袋やペンの持ち主はまだ来ていませんか。",
+   "start_sec": 129.739,
+   "end_sec": 133.024,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D031-S01",
+   "unit_id": "C20-D031",
+   "section": "D",
+   "speaker": "小林",
+   "text": "ええ。",
+   "start_sec": 133.374,
+   "end_sec": 134.052,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D031-S02",
+   "unit_id": "C20-D031",
+   "section": "D",
+   "speaker": "小林",
+   "text": "だれの物か、まだわかりません。",
+   "start_sec": 134.202,
+   "end_sec": 136.336,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D031-S03",
+   "unit_id": "C20-D031",
+   "section": "D",
+   "speaker": "小林",
+   "text": "六時まで待っています。",
+   "start_sec": 136.486,
+   "end_sec": 137.892,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D032-S01",
+   "unit_id": "C20-D032",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "袋の中のノートは友達の物だと思います。",
+   "start_sec": 138.242,
+   "end_sec": 141.68,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D032-S02",
+   "unit_id": "C20-D032",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "昨日、探していました。",
+   "start_sec": 141.83,
+   "end_sec": 143.449,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D033-S01",
+   "unit_id": "C20-D033",
+   "section": "D",
+   "speaker": "小林",
+   "text": "まずその友達に確認します。",
+   "start_sec": 143.799,
+   "end_sec": 146.187,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D033-S02",
+   "unit_id": "C20-D033",
+   "section": "D",
+   "speaker": "小林",
+   "text": "受付に電話をかけてくださいと伝えてください。",
+   "start_sec": 146.337,
+   "end_sec": 149.268,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D034-S01",
+   "unit_id": "C20-D034",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "私は持ち主ではありませんから、友達に連絡します。",
+   "start_sec": 149.618,
+   "end_sec": 153.741,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D034-S02",
+   "unit_id": "C20-D034",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "今日は学校に来ません。",
+   "start_sec": 153.891,
+   "end_sec": 155.407,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D035-S01",
+   "unit_id": "C20-D035",
+   "section": "D",
+   "speaker": "小林",
+   "text": "では、受付の電話番号を伝えてください。",
+   "start_sec": 155.757,
+   "end_sec": 158.881,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D036-S01",
+   "unit_id": "C20-D036",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "はい。",
+   "start_sec": 159.231,
+   "end_sec": 160.117,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D036-S02",
+   "unit_id": "C20-D036",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "今、メッセージを送ります。",
+   "start_sec": 160.267,
+   "end_sec": 161.819,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D036-S03",
+   "unit_id": "C20-D036",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "ありがとうございました。",
+   "start_sec": 161.969,
+   "end_sec": 163.314,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D037-S01",
+   "unit_id": "C20-D037",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "ルカさん、明日は私の両親も来ます。",
+   "start_sec": 164.214,
+   "end_sec": 167.401,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D037-S02",
+   "unit_id": "C20-D037",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "この写真を見てください。",
+   "start_sec": 167.551,
+   "end_sec": 169.24,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D037-S03",
+   "unit_id": "C20-D037",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "白い服の人は母です。",
+   "start_sec": 169.39,
+   "end_sec": 171.551,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D037-S04",
+   "unit_id": "C20-D037",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "赤い服の人は姉です。",
+   "start_sec": 171.701,
+   "end_sec": 173.538,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D038-S01",
+   "unit_id": "C20-D038",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "お母さんとお姉さんは顔が似ていますね。",
+   "start_sec": 173.888,
+   "end_sec": 177.014,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D038-S02",
+   "unit_id": "C20-D038",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "黒い帽子の人はお父さんですか。",
+   "start_sec": 177.164,
+   "end_sec": 179.641,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D039-S01",
+   "unit_id": "C20-D039",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "はい、父です。",
+   "start_sec": 179.991,
+   "end_sec": 181.405,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D039-S02",
+   "unit_id": "C20-D039",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "髭があります。",
+   "start_sec": 181.555,
+   "end_sec": 182.881,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D039-S03",
+   "unit_id": "C20-D039",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "隣の若い男は兄です。",
+   "start_sec": 183.031,
+   "end_sec": 185.545,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D039-S04",
+   "unit_id": "C20-D039",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "兄の妻は中国で生まれました。",
+   "start_sec": 185.695,
+   "end_sec": 188.023,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D040-S01",
+   "unit_id": "C20-D040",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "この女の人ですね。",
+   "start_sec": 188.373,
+   "end_sec": 190.04,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D040-S02",
+   "unit_id": "C20-D040",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "お兄さんの奥さんは、昨日の会議にも来ましたね。",
+   "start_sec": 190.19,
+   "end_sec": 193.145,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D041-S01",
+   "unit_id": "C20-D041",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "はい。",
+   "start_sec": 193.495,
+   "end_sec": 194.406,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D041-S02",
+   "unit_id": "C20-D041",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "彼女は「夫は料理が好きです」と言いました。",
+   "start_sec": 194.556,
+   "end_sec": 197.925,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D041-S03",
+   "unit_id": "C20-D041",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "これは二人の息子で、私の甥です。",
+   "start_sec": 198.075,
+   "end_sec": 200.844,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D042-S01",
+   "unit_id": "C20-D042",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "黄色い服の男の子ですね。",
+   "start_sec": 201.194,
+   "end_sec": 203.419,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D042-S02",
+   "unit_id": "C20-D042",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "にこにこしていますね。",
+   "start_sec": 203.569,
+   "end_sec": 205.221,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D042-S03",
+   "unit_id": "C20-D042",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "隣の女の子も二人の子供ですか。",
+   "start_sec": 205.371,
+   "end_sec": 207.723,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D043-S01",
+   "unit_id": "C20-D043",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "はい、娘です。",
+   "start_sec": 208.073,
+   "end_sec": 209.821,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D043-S02",
+   "unit_id": "C20-D043",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "二人は年が同じです。",
+   "start_sec": 209.971,
+   "end_sec": 211.822,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D043-S03",
+   "unit_id": "C20-D043",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "大人の服を着るのが好きです。",
+   "start_sec": 211.972,
+   "end_sec": 213.931,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D044-S01",
+   "unit_id": "C20-D044",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "この絵も面白いですね。",
+   "start_sec": 214.281,
+   "end_sec": 216.105,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D044-S02",
+   "unit_id": "C20-D044",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "大きな帽子の少年と小さな帽子の少女がいます。",
+   "start_sec": 216.255,
+   "end_sec": 220.048,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D045-S01",
+   "unit_id": "C20-D045",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "弟が描きました。",
+   "start_sec": 220.398,
+   "end_sec": 222.034,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D045-S02",
+   "unit_id": "C20-D045",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "彼は絵に興味を持っています。",
+   "start_sec": 222.184,
+   "end_sec": 224.613,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D045-S03",
+   "unit_id": "C20-D045",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "妹も絵が好きです。",
+   "start_sec": 224.763,
+   "end_sec": 226.322,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D045-S04",
+   "unit_id": "C20-D045",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "わたしたちはよく一緒に描きます。",
+   "start_sec": 226.472,
+   "end_sec": 228.369,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D046-S01",
+   "unit_id": "C20-D046",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "明日は弟さんたちも来ますか。",
+   "start_sec": 228.719,
+   "end_sec": 230.676,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D047-S01",
+   "unit_id": "C20-D047",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "はい。",
+   "start_sec": 231.026,
+   "end_sec": 231.837,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D047-S02",
+   "unit_id": "C20-D047",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "彼らは今、受付の外にいます。",
+   "start_sec": 231.987,
+   "end_sec": 234.652,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D047-S03",
+   "unit_id": "C20-D047",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "青色の植木鉢の隣です。",
+   "start_sec": 234.802,
+   "end_sec": 237.023,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D048-S01",
+   "unit_id": "C20-D048",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "ああ、あの二人ですね。",
+   "start_sec": 237.373,
+   "end_sec": 238.867,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D048-S02",
+   "unit_id": "C20-D048",
+   "section": "D",
+   "speaker": "ルカ",
+   "text": "マヤさんと同じ名字ですか。",
+   "start_sec": 239.017,
+   "end_sec": 240.857,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D049-S01",
+   "unit_id": "C20-D049",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "はい。",
+   "start_sec": 241.207,
+   "end_sec": 242.008,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D049-S02",
+   "unit_id": "C20-D049",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "姓は林です。",
+   "start_sec": 242.158,
+   "end_sec": 243.727,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D049-S03",
+   "unit_id": "C20-D049",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "妹の名は花です。",
+   "start_sec": 243.877,
+   "end_sec": 245.957,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D049-S04",
+   "unit_id": "C20-D049",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "家ではハナちゃんと呼びます。",
+   "start_sec": 246.107,
+   "end_sec": 247.963,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C20-D049-S05",
+   "unit_id": "C20-D049",
+   "section": "D",
+   "speaker": "マヤ",
+   "text": "愛称です。",
+   "start_sec": 248.113,
+   "end_sec": 248.954,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

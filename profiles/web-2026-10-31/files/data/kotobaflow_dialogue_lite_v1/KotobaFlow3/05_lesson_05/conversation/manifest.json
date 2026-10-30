@@ -1,0 +1,939 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 140.953,
+ "listening_review": "pending",
+ "source_chapter": 41,
+ "turns": [
+  {
+   "turn_id": "C41-D001",
+   "turn_index": 0,
+   "speaker": "アナ",
+   "source_text": "おや、ベンチに紙袋。だれかの忘れ物みたいです。",
+   "sentence_ids": [
+    "C41-D001-S01",
+    "C41-D001-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 5.131,
+   "duration_sec": 5.131
+  },
+  {
+   "turn_id": "C41-D002",
+   "turn_index": 1,
+   "speaker": "西田",
+   "source_text": "ふと目をやったら、袋がありましたね。心当たりはありますか。",
+   "sentence_ids": [
+    "C41-D002-S01",
+    "C41-D002-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 5.481,
+   "end_sec": 9.796,
+   "duration_sec": 4.315
+  },
+  {
+   "turn_id": "C41-D003",
+   "turn_index": 2,
+   "speaker": "アナ",
+   "source_text": "いいえ。中はパン二つと牛乳一本。レシートは今日の五時五十二分です。",
+   "sentence_ids": [
+    "C41-D003-S01",
+    "C41-D003-S02",
+    "C41-D003-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 10.146,
+   "end_sec": 16.202,
+   "duration_sec": 6.056
+  },
+  {
+   "turn_id": "C41-D004",
+   "turn_index": 3,
+   "speaker": "西田",
+   "source_text": "今日のレシートが昨日入っていたはずがありません。六時二十分の足音は恐らく書道教室の人でしょう。",
+   "sentence_ids": [
+    "C41-D004-S01",
+    "C41-D004-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.552,
+   "end_sec": 24.793,
+   "duration_sec": 8.241
+  },
+  {
+   "turn_id": "C41-D005",
+   "turn_index": 4,
+   "speaker": "アナ",
+   "source_text": "入口で急ぐ人をちらりと見ました。知っているような、知らないような…。でも、袋は見ていません。",
+   "sentence_ids": [
+    "C41-D005-S01",
+    "C41-D005-S02",
+    "C41-D005-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 25.143,
+   "end_sec": 32.386,
+   "duration_sec": 7.243
+  },
+  {
+   "turn_id": "C41-D006",
+   "turn_index": 5,
+   "speaker": "西田",
+   "source_text": "見ただけでは、やはりわかりませんね。予定を確認します。",
+   "sentence_ids": [
+    "C41-D006-S01",
+    "C41-D006-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 32.736,
+   "end_sec": 37.175,
+   "duration_sec": 4.439
+  },
+  {
+   "turn_id": "C41-D007",
+   "turn_index": 6,
+   "speaker": "西田",
+   "source_text": "勘違いでした。教室は木曜日です。今日はだれもいないようです。原さんの話では小川さんが来たそうです。",
+   "sentence_ids": [
+    "C41-D007-S01",
+    "C41-D007-S02",
+    "C41-D007-S03",
+    "C41-D007-S04"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.075,
+   "end_sec": 46.934,
+   "duration_sec": 8.859
+  },
+  {
+   "turn_id": "C41-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "どうやらその足音ですね。写真を見せたら？",
+   "sentence_ids": [
+    "C41-D008-S01",
+    "C41-D008-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.284,
+   "end_sec": 50.94,
+   "duration_sec": 3.656
+  },
+  {
+   "turn_id": "C41-D009",
+   "turn_index": 8,
+   "speaker": "西田",
+   "source_text": "見せました。首を傾げて、「私の物ではない」と。どことなく悲しげに見えましたが、事情はまるでわかりません。",
+   "sentence_ids": [
+    "C41-D009-S01",
+    "C41-D009-S02",
+    "C41-D009-S03"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 51.29,
+   "end_sec": 60.194,
+   "duration_sec": 8.904
+  },
+  {
+   "turn_id": "C41-D010",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "わかったふりはできませんね。まず証拠が必要なように思います。あ、電話です。",
+   "sentence_ids": [
+    "C41-D010-S01",
+    "C41-D010-S02",
+    "C41-D010-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 60.544,
+   "end_sec": 67.152,
+   "duration_sec": 6.608
+  },
+  {
+   "turn_id": "C41-D011",
+   "turn_index": 10,
+   "speaker": "松井",
+   "source_text": "松井です。六時過ぎ、留守の事務室前で待っていて紙袋を忘れました。「こむぎ」のクリームパン二つと牛乳一本です。",
+   "sentence_ids": [
+    "C41-D011-S01",
+    "C41-D011-S02",
+    "C41-D011-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.052,
+   "end_sec": 76.771,
+   "duration_sec": 8.719
+  },
+  {
+   "turn_id": "C41-D012",
+   "turn_index": 11,
+   "speaker": "西田",
+   "source_text": "数も店名も一致します。七時四十分に来られますか。",
+   "sentence_ids": [
+    "C41-D012-S01",
+    "C41-D012-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.121,
+   "end_sec": 81.335,
+   "duration_sec": 4.214
+  },
+  {
+   "turn_id": "C41-D013",
+   "turn_index": 12,
+   "speaker": "松井",
+   "source_text": "はい。八時まで開いているそうですね。",
+   "sentence_ids": [
+    "C41-D013-S01",
+    "C41-D013-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.685,
+   "end_sec": 84.744,
+   "duration_sec": 3.059
+  },
+  {
+   "turn_id": "C41-D014",
+   "turn_index": 13,
+   "speaker": "西田",
+   "source_text": "ええ。来たら名前と中身をもう一度確認します。",
+   "sentence_ids": [
+    "C41-D014-S01",
+    "C41-D014-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 85.094,
+   "end_sec": 88.93,
+   "duration_sec": 3.836
+  },
+  {
+   "turn_id": "C41-D015",
+   "turn_index": 14,
+   "speaker": "アナ",
+   "source_text": "展示の物音には、はっとしました。犬が吠える声も、けたたましい音も、録音だったんですね。",
+   "sentence_ids": [
+    "C41-D015-S01",
+    "C41-D015-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.83,
+   "end_sec": 97.123,
+   "duration_sec": 7.293
+  },
+  {
+   "turn_id": "C41-D016",
+   "turn_index": 15,
+   "speaker": "西田",
+   "source_text": "ええ。扉をトントンとたたく音も。",
+   "sentence_ids": [
+    "C41-D016-S01",
+    "C41-D016-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.473,
+   "end_sec": 100.49,
+   "duration_sec": 3.017
+  },
+  {
+   "turn_id": "C41-D017",
+   "turn_index": 16,
+   "speaker": "アナ",
+   "source_text": "ははあ、だから扉の向こうを覗いてもだれもいなかったんですね。じっと立って聞くと、同じ音でした。",
+   "sentence_ids": [
+    "C41-D017-S01",
+    "C41-D017-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 100.84,
+   "end_sec": 109.167,
+   "duration_sec": 8.327
+  },
+  {
+   "turn_id": "C41-D018",
+   "turn_index": 17,
+   "speaker": "西田",
+   "source_text": "ずいぶん本物らしい音でしたね。どうも機械の音とは思えませんでした。",
+   "sentence_ids": [
+    "C41-D018-S01",
+    "C41-D018-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.517,
+   "end_sec": 115.413,
+   "duration_sec": 5.896
+  },
+  {
+   "turn_id": "C41-D019",
+   "turn_index": 18,
+   "speaker": "アナ",
+   "source_text": "本物の犬の録音だそうです。よく似ているはずですね。犬がそこにいるような気がしました。",
+   "sentence_ids": [
+    "C41-D019-S01",
+    "C41-D019-S02",
+    "C41-D019-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 115.763,
+   "end_sec": 122.731,
+   "duration_sec": 6.968
+  },
+  {
+   "turn_id": "C41-D020",
+   "turn_index": 19,
+   "speaker": "西田",
+   "source_text": "私はさっき説明を読んだはずですが、驚きました。七時には帰れるはずだったのに、今日は予想が外れてばかりです。",
+   "sentence_ids": [
+    "C41-D020-S01",
+    "C41-D020-S02"
+   ],
+   "voice_id": "ja-jp-concierge-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 123.081,
+   "end_sec": 131.949,
+   "duration_sec": 8.868
+  },
+  {
+   "turn_id": "C41-D021",
+   "turn_index": 20,
+   "speaker": "アナ",
+   "source_text": "待つ時間も、こうして話せば発見がありますね。雨の音はもう小さいように思います。窓の外の様子を見ましょうか。",
+   "sentence_ids": [
+    "C41-D021-S01",
+    "C41-D021-S02",
+    "C41-D021-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 132.299,
+   "end_sec": 140.947,
+   "duration_sec": 8.648
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C41-D001-S01",
+   "unit_id": "C41-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "おや、ベンチに紙袋。",
+   "start_sec": 0.0,
+   "end_sec": 2.968,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D001-S02",
+   "unit_id": "C41-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "だれかの忘れ物みたいです。",
+   "start_sec": 3.118,
+   "end_sec": 5.131,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D002-S01",
+   "unit_id": "C41-D002",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ふと目をやったら、袋がありましたね。",
+   "start_sec": 5.481,
+   "end_sec": 8.046,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D002-S02",
+   "unit_id": "C41-D002",
+   "section": "D",
+   "speaker": "西田",
+   "text": "心当たりはありますか。",
+   "start_sec": 8.196,
+   "end_sec": 9.796,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D003-S01",
+   "unit_id": "C41-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "いいえ。",
+   "start_sec": 10.146,
+   "end_sec": 10.821,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D003-S02",
+   "unit_id": "C41-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "中はパン二つと牛乳一本。",
+   "start_sec": 10.971,
+   "end_sec": 13.402,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D003-S03",
+   "unit_id": "C41-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "レシートは今日の五時五十二分です。",
+   "start_sec": 13.552,
+   "end_sec": 16.202,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D004-S01",
+   "unit_id": "C41-D004",
+   "section": "D",
+   "speaker": "西田",
+   "text": "今日のレシートが昨日入っていたはずがありません。",
+   "start_sec": 16.552,
+   "end_sec": 20.179,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D004-S02",
+   "unit_id": "C41-D004",
+   "section": "D",
+   "speaker": "西田",
+   "text": "六時二十分の足音は恐らく書道教室の人でしょう。",
+   "start_sec": 20.329,
+   "end_sec": 24.793,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D005-S01",
+   "unit_id": "C41-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "入口で急ぐ人をちらりと見ました。",
+   "start_sec": 25.143,
+   "end_sec": 27.993,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D005-S02",
+   "unit_id": "C41-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "知っているような、知らないような…。",
+   "start_sec": 28.143,
+   "end_sec": 30.372,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D005-S03",
+   "unit_id": "C41-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "でも、袋は見ていません。",
+   "start_sec": 30.522,
+   "end_sec": 32.386,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D006-S01",
+   "unit_id": "C41-D006",
+   "section": "D",
+   "speaker": "西田",
+   "text": "見ただけでは、やはりわかりませんね。",
+   "start_sec": 32.736,
+   "end_sec": 35.68,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D006-S02",
+   "unit_id": "C41-D006",
+   "section": "D",
+   "speaker": "西田",
+   "text": "予定を確認します。",
+   "start_sec": 35.83,
+   "end_sec": 37.175,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D007-S01",
+   "unit_id": "C41-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "勘違いでした。",
+   "start_sec": 38.075,
+   "end_sec": 39.573,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D007-S02",
+   "unit_id": "C41-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "教室は木曜日です。",
+   "start_sec": 39.723,
+   "end_sec": 41.61,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D007-S03",
+   "unit_id": "C41-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "今日はだれもいないようです。",
+   "start_sec": 41.76,
+   "end_sec": 43.918,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D007-S04",
+   "unit_id": "C41-D007",
+   "section": "D",
+   "speaker": "西田",
+   "text": "原さんの話では小川さんが来たそうです。",
+   "start_sec": 44.068,
+   "end_sec": 46.934,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D008-S01",
+   "unit_id": "C41-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "どうやらその足音ですね。",
+   "start_sec": 47.284,
+   "end_sec": 49.424,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D008-S02",
+   "unit_id": "C41-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "写真を見せたら？",
+   "start_sec": 49.574,
+   "end_sec": 50.94,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D009-S01",
+   "unit_id": "C41-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "見せました。",
+   "start_sec": 51.29,
+   "end_sec": 52.396,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D009-S02",
+   "unit_id": "C41-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "首を傾げて、「私の物ではない」と。",
+   "start_sec": 52.546,
+   "end_sec": 56.071,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D009-S03",
+   "unit_id": "C41-D009",
+   "section": "D",
+   "speaker": "西田",
+   "text": "どことなく悲しげに見えましたが、事情はまるでわかりません。",
+   "start_sec": 56.221,
+   "end_sec": 60.194,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D010-S01",
+   "unit_id": "C41-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "わかったふりはできませんね。",
+   "start_sec": 60.544,
+   "end_sec": 62.895,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D010-S02",
+   "unit_id": "C41-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "まず証拠が必要なように思います。",
+   "start_sec": 63.045,
+   "end_sec": 65.858,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D010-S03",
+   "unit_id": "C41-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "あ、電話です。",
+   "start_sec": 66.008,
+   "end_sec": 67.152,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D011-S01",
+   "unit_id": "C41-D011",
+   "section": "D",
+   "speaker": "松井",
+   "text": "松井です。",
+   "start_sec": 68.052,
+   "end_sec": 68.964,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D011-S02",
+   "unit_id": "C41-D011",
+   "section": "D",
+   "speaker": "松井",
+   "text": "六時過ぎ、留守の事務室前で待っていて紙袋を忘れました。",
+   "start_sec": 69.114,
+   "end_sec": 73.488,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D011-S03",
+   "unit_id": "C41-D011",
+   "section": "D",
+   "speaker": "松井",
+   "text": "「こむぎ」のクリームパン二つと牛乳一本です。",
+   "start_sec": 73.638,
+   "end_sec": 76.771,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D012-S01",
+   "unit_id": "C41-D012",
+   "section": "D",
+   "speaker": "西田",
+   "text": "数も店名も一致します。",
+   "start_sec": 77.121,
+   "end_sec": 79.166,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D012-S02",
+   "unit_id": "C41-D012",
+   "section": "D",
+   "speaker": "西田",
+   "text": "七時四十分に来られますか。",
+   "start_sec": 79.316,
+   "end_sec": 81.335,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D013-S01",
+   "unit_id": "C41-D013",
+   "section": "D",
+   "speaker": "松井",
+   "text": "はい。",
+   "start_sec": 81.685,
+   "end_sec": 82.47,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D013-S02",
+   "unit_id": "C41-D013",
+   "section": "D",
+   "speaker": "松井",
+   "text": "八時まで開いているそうですね。",
+   "start_sec": 82.62,
+   "end_sec": 84.744,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D014-S01",
+   "unit_id": "C41-D014",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ええ。",
+   "start_sec": 85.094,
+   "end_sec": 85.704,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D014-S02",
+   "unit_id": "C41-D014",
+   "section": "D",
+   "speaker": "西田",
+   "text": "来たら名前と中身をもう一度確認します。",
+   "start_sec": 85.854,
+   "end_sec": 88.93,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D015-S01",
+   "unit_id": "C41-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "展示の物音には、はっとしました。",
+   "start_sec": 89.83,
+   "end_sec": 92.471,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D015-S02",
+   "unit_id": "C41-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "犬が吠える声も、けたたましい音も、録音だったんですね。",
+   "start_sec": 92.621,
+   "end_sec": 97.123,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D016-S01",
+   "unit_id": "C41-D016",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ええ。",
+   "start_sec": 97.473,
+   "end_sec": 98.192,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D016-S02",
+   "unit_id": "C41-D016",
+   "section": "D",
+   "speaker": "西田",
+   "text": "扉をトントンとたたく音も。",
+   "start_sec": 98.342,
+   "end_sec": 100.49,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D017-S01",
+   "unit_id": "C41-D017",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ははあ、だから扉の向こうを覗いてもだれもいなかったんですね。",
+   "start_sec": 100.84,
+   "end_sec": 105.838,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D017-S02",
+   "unit_id": "C41-D017",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "じっと立って聞くと、同じ音でした。",
+   "start_sec": 105.988,
+   "end_sec": 109.167,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D018-S01",
+   "unit_id": "C41-D018",
+   "section": "D",
+   "speaker": "西田",
+   "text": "ずいぶん本物らしい音でしたね。",
+   "start_sec": 109.517,
+   "end_sec": 112.176,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D018-S02",
+   "unit_id": "C41-D018",
+   "section": "D",
+   "speaker": "西田",
+   "text": "どうも機械の音とは思えませんでした。",
+   "start_sec": 112.326,
+   "end_sec": 115.413,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D019-S01",
+   "unit_id": "C41-D019",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "本物の犬の録音だそうです。",
+   "start_sec": 115.763,
+   "end_sec": 118.2,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D019-S02",
+   "unit_id": "C41-D019",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "よく似ているはずですね。",
+   "start_sec": 118.35,
+   "end_sec": 120.235,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D019-S03",
+   "unit_id": "C41-D019",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "犬がそこにいるような気がしました。",
+   "start_sec": 120.385,
+   "end_sec": 122.731,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D020-S01",
+   "unit_id": "C41-D020",
+   "section": "D",
+   "speaker": "西田",
+   "text": "私はさっき説明を読んだはずですが、驚きました。",
+   "start_sec": 123.081,
+   "end_sec": 127.275,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D020-S02",
+   "unit_id": "C41-D020",
+   "section": "D",
+   "speaker": "西田",
+   "text": "七時には帰れるはずだったのに、今日は予想が外れてばかりです。",
+   "start_sec": 127.425,
+   "end_sec": 131.949,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D021-S01",
+   "unit_id": "C41-D021",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "待つ時間も、こうして話せば発見がありますね。",
+   "start_sec": 132.299,
+   "end_sec": 135.753,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D021-S02",
+   "unit_id": "C41-D021",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "雨の音はもう小さいように思います。",
+   "start_sec": 135.903,
+   "end_sec": 138.783,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C41-D021-S03",
+   "unit_id": "C41-D021",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "窓の外の様子を見ましょうか。",
+   "start_sec": 138.933,
+   "end_sec": 140.947,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

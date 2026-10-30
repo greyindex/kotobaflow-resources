@@ -1,0 +1,740 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 138.937,
+ "listening_review": "pending",
+ "source_chapter": 63,
+ "turns": [
+  {
+   "turn_id": "C63-D001",
+   "turn_index": 0,
+   "speaker": "ハサン",
+   "source_text": "林さん、記事を読みましたか。祖父の話を書きながら、家族の声にどれほど助けられているか分からないと感じました。",
+   "sentence_ids": [
+    "C63-D001-S01",
+    "C63-D001-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 8.163,
+   "duration_sec": 8.163
+  },
+  {
+   "turn_id": "C63-D002",
+   "turn_index": 1,
+   "speaker": "林梅",
+   "source_text": "読みました。精神の支えになるんですね。私は先週、あまりにも忙しくて、食事中も次の仕事を考えていました。",
+   "sentence_ids": [
+    "C63-D002-S01",
+    "C63-D002-S02",
+    "C63-D002-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 8.513,
+   "end_sec": 18.496,
+   "duration_sec": 9.983
+  },
+  {
+   "turn_id": "C63-D003",
+   "turn_index": 2,
+   "speaker": "ハサン",
+   "source_text": "ゆっくり噛む時間もなかったんですか。今日の夕方の学習会の相談が終わったら、早めに帰れそうですか。",
+   "sentence_ids": [
+    "C63-D003-S01",
+    "C63-D003-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.846,
+   "end_sec": 25.939,
+   "duration_sec": 7.093
+  },
+  {
+   "turn_id": "C63-D004",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "はい。どちらの案も説明できるように準備しました。まだ緊張で胸がどきどきしますが、数字は同僚にも確認してもらいました。",
+   "sentence_ids": [
+    "C63-D004-S01",
+    "C63-D004-S02",
+    "C63-D004-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 26.289,
+   "end_sec": 35.502,
+   "duration_sec": 9.213
+  },
+  {
+   "turn_id": "C63-D005",
+   "turn_index": 4,
+   "speaker": "ハサン",
+   "source_text": "確認してもらうと安心ですね。顔色が真っ青だったので心配でしたが、今日は少し元気そうですね。",
+   "sentence_ids": [
+    "C63-D005-S01",
+    "C63-D005-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 35.852,
+   "end_sec": 43.02,
+   "duration_sec": 7.168
+  },
+  {
+   "turn_id": "C63-D006",
+   "turn_index": 5,
+   "speaker": "林梅",
+   "source_text": "週末に休めました。前は間違いばかり気にしていましたが、今は集中できそうです。姿勢も変えて、時々立つようにします。",
+   "sentence_ids": [
+    "C63-D006-S01",
+    "C63-D006-S02",
+    "C63-D006-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 43.37,
+   "end_sec": 52.563,
+   "duration_sec": 9.193
+  },
+  {
+   "turn_id": "C63-D007",
+   "turn_index": 6,
+   "speaker": "ハサン",
+   "source_text": "体重はどうですか。数字が変わると、頻りに測りたくなる人もいますね。",
+   "sentence_ids": [
+    "C63-D007-S01",
+    "C63-D007-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.913,
+   "end_sec": 58.273,
+   "duration_sec": 5.36
+  },
+  {
+   "turn_id": "C63-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "私は決めた日に測ります。毎日の小さな変化で不安にならないように、睡眠や栄養の記録と一緒に見ます。",
+   "sentence_ids": [
+    "C63-D008-S01",
+    "C63-D008-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 58.623,
+   "end_sec": 66.389,
+   "duration_sec": 7.766
+  },
+  {
+   "turn_id": "C63-D009",
+   "turn_index": 8,
+   "speaker": "ハサン",
+   "source_text": "一度に何もかも変えるのは大変ですね。私も「現代人は皆ストレスが多い」と言われると、何だか違う気がします。",
+   "sentence_ids": [
+    "C63-D009-S01",
+    "C63-D009-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 66.739,
+   "end_sec": 77.06,
+   "duration_sec": 10.321
+  },
+  {
+   "turn_id": "C63-D010",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "そうですね。人によって違います。私はまずコーヒーを一日2杯までにして、夜12時までに寝ます。朝の散歩も週3回に戻します。",
+   "sentence_ids": [
+    "C63-D010-S01",
+    "C63-D010-S02",
+    "C63-D010-S03",
+    "C63-D010-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.41,
+   "end_sec": 88.448,
+   "duration_sec": 11.038
+  },
+  {
+   "turn_id": "C63-D011",
+   "turn_index": 10,
+   "speaker": "ハサン",
+   "source_text": "日曜のフットサルもどうですか。上手な人ばかりではありませんし、見ているだけでも平気ですよ。",
+   "sentence_ids": [
+    "C63-D011-S01",
+    "C63-D011-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 88.798,
+   "end_sec": 94.948,
+   "duration_sec": 6.15
+  },
+  {
+   "turn_id": "C63-D012",
+   "turn_index": 11,
+   "speaker": "林梅",
+   "source_text": "誘ってもらえてうれしいですが、今週は散歩だけにします。無理して嫌な思いをするより、自分のペースで続けたいんです。",
+   "sentence_ids": [
+    "C63-D012-S01",
+    "C63-D012-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 95.298,
+   "end_sec": 104.67,
+   "duration_sec": 9.372
+  },
+  {
+   "turn_id": "C63-D013",
+   "turn_index": 12,
+   "speaker": "ハサン",
+   "source_text": "分かりました。参加を急がせません。ところで記事の感想を話す時、体形を褒めれば喜ぶと決めつけないようにしたいですね。",
+   "sentence_ids": [
+    "C63-D013-S01",
+    "C63-D013-S02",
+    "C63-D013-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 105.02,
+   "end_sec": 114.939,
+   "duration_sec": 9.919
+  },
+  {
+   "turn_id": "C63-D014",
+   "turn_index": 13,
+   "speaker": "林梅",
+   "source_text": "ええ。悪気がなくても傷つく人はいます。食事の話でも、アルコールを飲まない人に理由を聞き続けるのはやめたいです。",
+   "sentence_ids": [
+    "C63-D014-S01",
+    "C63-D014-S02",
+    "C63-D014-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match",
+    "short_pause"
+   ],
+   "start_sec": 115.289,
+   "end_sec": 124.091,
+   "duration_sec": 8.802
+  },
+  {
+   "turn_id": "C63-D015",
+   "turn_index": 14,
+   "speaker": "ハサン",
+   "source_text": "相手に気を配ることも大切ですね。では来週、記録を見ながらまた話しましょう。",
+   "sentence_ids": [
+    "C63-D015-S01",
+    "C63-D015-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 124.441,
+   "end_sec": 130.47,
+   "duration_sec": 6.029
+  },
+  {
+   "turn_id": "C63-D016",
+   "turn_index": 15,
+   "speaker": "林梅",
+   "source_text": "はい。できなかった日も書きます。誰かと比べるためではなく、私に合った生活を考えるための記録にします。",
+   "sentence_ids": [
+    "C63-D016-S01",
+    "C63-D016-S02",
+    "C63-D016-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 130.82,
+   "end_sec": 138.931,
+   "duration_sec": 8.111
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C63-D001-S01",
+   "unit_id": "C63-D001",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "林さん、記事を読みましたか。",
+   "start_sec": 0.0,
+   "end_sec": 2.534,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D001-S02",
+   "unit_id": "C63-D001",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "祖父の話を書きながら、家族の声にどれほど助けられているか分からないと感じました。",
+   "start_sec": 2.684,
+   "end_sec": 8.163,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D002-S01",
+   "unit_id": "C63-D002",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "読みました。",
+   "start_sec": 8.513,
+   "end_sec": 9.593,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D002-S02",
+   "unit_id": "C63-D002",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "精神の支えになるんですね。",
+   "start_sec": 9.743,
+   "end_sec": 12.197,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D002-S03",
+   "unit_id": "C63-D002",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "私は先週、あまりにも忙しくて、食事中も次の仕事を考えていました。",
+   "start_sec": 12.347,
+   "end_sec": 18.496,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D003-S01",
+   "unit_id": "C63-D003",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "ゆっくり噛む時間もなかったんですか。",
+   "start_sec": 18.846,
+   "end_sec": 21.618,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D003-S02",
+   "unit_id": "C63-D003",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "今日の夕方の学習会の相談が終わったら、早めに帰れそうですか。",
+   "start_sec": 21.768,
+   "end_sec": 25.939,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D004-S01",
+   "unit_id": "C63-D004",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "はい。",
+   "start_sec": 26.289,
+   "end_sec": 27.065,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D004-S02",
+   "unit_id": "C63-D004",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "どちらの案も説明できるように準備しました。",
+   "start_sec": 27.215,
+   "end_sec": 30.146,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D004-S03",
+   "unit_id": "C63-D004",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "まだ緊張で胸がどきどきしますが、数字は同僚にも確認してもらいました。",
+   "start_sec": 30.296,
+   "end_sec": 35.502,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D005-S01",
+   "unit_id": "C63-D005",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "確認してもらうと安心ですね。",
+   "start_sec": 35.852,
+   "end_sec": 38.42,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D005-S02",
+   "unit_id": "C63-D005",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "顔色が真っ青だったので心配でしたが、今日は少し元気そうですね。",
+   "start_sec": 38.57,
+   "end_sec": 43.02,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D006-S01",
+   "unit_id": "C63-D006",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "週末に休めました。",
+   "start_sec": 43.37,
+   "end_sec": 45.369,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D006-S02",
+   "unit_id": "C63-D006",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "前は間違いばかり気にしていましたが、今は集中できそうです。",
+   "start_sec": 45.519,
+   "end_sec": 49.765,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D006-S03",
+   "unit_id": "C63-D006",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "姿勢も変えて、時々立つようにします。",
+   "start_sec": 49.915,
+   "end_sec": 52.563,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D007-S01",
+   "unit_id": "C63-D007",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "体重はどうですか。",
+   "start_sec": 52.913,
+   "end_sec": 54.549,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D007-S02",
+   "unit_id": "C63-D007",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "数字が変わると、頻りに測りたくなる人もいますね。",
+   "start_sec": 54.699,
+   "end_sec": 58.273,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D008-S01",
+   "unit_id": "C63-D008",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "私は決めた日に測ります。",
+   "start_sec": 58.623,
+   "end_sec": 60.625,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D008-S02",
+   "unit_id": "C63-D008",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "毎日の小さな変化で不安にならないように、睡眠や栄養の記録と一緒に見ます。",
+   "start_sec": 60.775,
+   "end_sec": 66.389,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D009-S01",
+   "unit_id": "C63-D009",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "一度に何もかも変えるのは大変ですね。",
+   "start_sec": 66.739,
+   "end_sec": 70.49,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D009-S02",
+   "unit_id": "C63-D009",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "私も「現代人は皆ストレスが多い」と言われると、何だか違う気がします。",
+   "start_sec": 70.641,
+   "end_sec": 77.06,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D010-S01",
+   "unit_id": "C63-D010",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "そうですね。",
+   "start_sec": 77.41,
+   "end_sec": 78.887,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D010-S02",
+   "unit_id": "C63-D010",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "人によって違います。",
+   "start_sec": 79.037,
+   "end_sec": 80.676,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D010-S03",
+   "unit_id": "C63-D010",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "私はまずコーヒーを一日2杯までにして、夜12時までに寝ます。",
+   "start_sec": 80.826,
+   "end_sec": 86.017,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D010-S04",
+   "unit_id": "C63-D010",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "朝の散歩も週3回に戻します。",
+   "start_sec": 86.168,
+   "end_sec": 88.448,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D011-S01",
+   "unit_id": "C63-D011",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "日曜のフットサルもどうですか。",
+   "start_sec": 88.798,
+   "end_sec": 90.986,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D011-S02",
+   "unit_id": "C63-D011",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "上手な人ばかりではありませんし、見ているだけでも平気ですよ。",
+   "start_sec": 91.136,
+   "end_sec": 94.948,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D012-S01",
+   "unit_id": "C63-D012",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "誘ってもらえてうれしいですが、今週は散歩だけにします。",
+   "start_sec": 95.298,
+   "end_sec": 99.856,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D012-S02",
+   "unit_id": "C63-D012",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "無理して嫌な思いをするより、自分のペースで続けたいんです。",
+   "start_sec": 100.006,
+   "end_sec": 104.67,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D013-S01",
+   "unit_id": "C63-D013",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "分かりました。",
+   "start_sec": 105.02,
+   "end_sec": 105.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D013-S02",
+   "unit_id": "C63-D013",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "参加を急がせません。",
+   "start_sec": 105.965,
+   "end_sec": 107.913,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D013-S03",
+   "unit_id": "C63-D013",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "ところで記事の感想を話す時、体形を褒めれば喜ぶと決めつけないようにしたいですね。",
+   "start_sec": 108.063,
+   "end_sec": 114.939,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D014-S01",
+   "unit_id": "C63-D014",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "ええ。",
+   "start_sec": 115.289,
+   "end_sec": 115.789,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D014-S02",
+   "unit_id": "C63-D014",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "悪気がなくても傷つく人はいます。",
+   "start_sec": 115.939,
+   "end_sec": 118.56,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D014-S03",
+   "unit_id": "C63-D014",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "食事の話でも、アルコールを飲まない人に理由を聞き続けるのはやめたいです。",
+   "start_sec": 118.71,
+   "end_sec": 124.091,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D015-S01",
+   "unit_id": "C63-D015",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "相手に気を配ることも大切ですね。",
+   "start_sec": 124.441,
+   "end_sec": 127.529,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D015-S02",
+   "unit_id": "C63-D015",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "では来週、記録を見ながらまた話しましょう。",
+   "start_sec": 127.679,
+   "end_sec": 130.47,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D016-S01",
+   "unit_id": "C63-D016",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "はい。",
+   "start_sec": 130.82,
+   "end_sec": 131.554,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D016-S02",
+   "unit_id": "C63-D016",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "できなかった日も書きます。",
+   "start_sec": 131.704,
+   "end_sec": 133.526,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C63-D016-S03",
+   "unit_id": "C63-D016",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "誰かと比べるためではなく、私に合った生活を考えるための記録にします。",
+   "start_sec": 133.676,
+   "end_sec": 138.931,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

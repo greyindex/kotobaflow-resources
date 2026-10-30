@@ -1,0 +1,4619 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow1",
+  "lesson_id": "lesson_08",
+  "entries": [
+    {
+      "textbook_uid": "cfv-f3c95094a22083c8",
+      "index": 245,
+      "word": "大きい",
+      "reading_hiragana": "おおきい",
+      "context_meaning_zh": "体积或规模大",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "体积或规模大",
+          "meaning_ja": "物の寸法や、組織などの規模が相当ある様子。",
+          "example_ja": "この箱は大きいです。",
+          "example_zh": "这个箱子很大。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大きい箱",
+          "zh": "大箱子"
+        }
+      ],
+      "usage_note_zh": "形容物体尺寸或组织规模；名词前也可用「大きな」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "大学は大きい描述大学规模大；语境决定体积或规模义，不取音量等其他词典义。",
+        "dictionary_sequences": [
+          1588880
+        ],
+        "identity": {
+          "word": "大きい",
+          "reading_hiragana": "おおきい",
+          "meaning": "体积或规模大"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6c3be0ae001c6242",
+      "index": 246,
+      "word": "小さい",
+      "reading_hiragana": "ちいさい",
+      "context_meaning_zh": "体积或规模小",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "体积或规模小",
+          "meaning_ja": "物の大きさや規模があまりない様子。",
+          "example_ja": "小さいかばんを買いました。",
+          "example_zh": "我买了一个小包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "小さいかばん",
+          "zh": "小包"
+        }
+      ],
+      "usage_note_zh": "主要表示尺寸或规模小；说年纪小通常用「年が若い」或「年齢が低い」等表达。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "小さい为イ形容词，修饰手表；词典收尺寸、程度及幼小等多义。",
+        "dictionary_sequences": [
+          1347750
+        ],
+        "identity": {
+          "word": "小さい",
+          "reading_hiragana": "ちいさい",
+          "meaning": "体积或规模小"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-079e150d6721ebfd",
+      "index": 247,
+      "word": "新しい",
+      "reading_hiragana": "あたらしい",
+      "context_meaning_zh": "新",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "新",
+          "meaning_ja": "できてから時間があまりたっていない様子。",
+          "example_ja": "新しい靴を履いて出かけます。",
+          "example_zh": "穿着新鞋出门。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新しい靴",
+          "zh": "新鞋"
+        }
+      ],
+      "usage_note_zh": "可指新买或新出现的事物，也可指新的方法、想法；与「古い」相对。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "新しい修饰建筑，指新建或较新的状态，词典adj-i义匹配；时间表达本身无特殊语域。",
+        "dictionary_sequences": [
+          1361490
+        ],
+        "identity": {
+          "word": "新しい",
+          "reading_hiragana": "あたらしい",
+          "meaning": "新"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-61f3de878907c743",
+      "index": 248,
+      "word": "古い",
+      "reading_hiragana": "ふるい",
+      "context_meaning_zh": "旧或年代久",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "旧或年代久",
+          "meaning_ja": "できてから長い時間がたっている様子。",
+          "example_ja": "祖父は古い写真を見ています。",
+          "example_zh": "祖父正在看旧照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "古い写真",
+          "zh": "旧照片"
+        }
+      ],
+      "usage_note_zh": "修饰物品时表示年代久；评价制度或想法时也可表示陈旧。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "旧公寓语境取年代久、老旧义，与词典い形容词义吻合；不涉及陈旧观念等引申义。",
+        "dictionary_sequences": [
+          1265070
+        ],
+        "identity": {
+          "word": "古い",
+          "reading_hiragana": "ふるい",
+          "meaning": "旧或年代久"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-235c39622cdd8960",
+      "index": 249,
+      "word": "高い",
+      "reading_hiragana": "たかい",
+      "context_meaning_zh": "价格高",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "价格高",
+          "meaning_ja": "値段が高く、買うのに多くのお金が必要な様子。",
+          "example_ja": "この店の時計は高いです。",
+          "example_zh": "这家店的表很贵。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "値段が高い",
+          "zh": "价格高"
+        }
+      ],
+      "usage_note_zh": "本条按价格义；说高度高同形词另列于本课第271号。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "高くありません否定形式谈价格不贵，匹配词典价格义；否定活用不改变词类。",
+        "dictionary_sequences": [
+          1283190
+        ],
+        "identity": {
+          "word": "高い",
+          "reading_hiragana": "たかい",
+          "meaning": "价格高"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5d8d6ff56a20c9c9",
+      "index": 250,
+      "word": "安い",
+      "reading_hiragana": "やすい",
+      "context_meaning_zh": "价格低",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "价格低",
+          "meaning_ja": "買うために必要なお金が少ない様子。",
+          "example_ja": "駅の近くの店は野菜が安いです。",
+          "example_zh": "车站附近的店蔬菜很便宜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "安い店",
+          "zh": "便宜的店"
+        }
+      ],
+      "usage_note_zh": "主要形容价格低廉或费用便宜；声音音调低用「低い声」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "单句「安いですよ」报告价格便宜，符合词典低价义；同形平静义没有语境支持。",
+        "dictionary_sequences": [
+          1153670
+        ],
+        "identity": {
+          "word": "安い",
+          "reading_hiragana": "やすい",
+          "meaning": "价格低"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-518c822a32e49c33",
+      "index": 251,
+      "word": "暑い",
+      "reading_hiragana": "あつい",
+      "context_meaning_zh": "天气炎热",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "天气炎热",
+          "meaning_ja": "夏の天気や気温が高く、汗をかくような様子。",
+          "example_ja": "今日は暑いので、窓を開けます。",
+          "example_zh": "今天很热，所以我开窗。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "暑い日",
+          "zh": "炎热的日子"
+        }
+      ],
+      "usage_note_zh": "主要说天气或环境热；形容物体摸起来热时用「熱い」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "询问对方国家当前天气是否炎热；暑い本身是い形容词，です属句法礼貌。",
+        "dictionary_sequences": [
+          1343460
+        ],
+        "identity": {
+          "word": "暑い",
+          "reading_hiragana": "あつい",
+          "meaning": "天气炎热"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-db4286879f05f2f8",
+      "index": 252,
+      "word": "寒い",
+      "reading_hiragana": "さむい",
+      "context_meaning_zh": "天气寒冷",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "天气寒冷",
+          "meaning_ja": "冬の天気や気温が低く、体に冷たく感じる様子。",
+          "example_ja": "朝は寒いから、上着を着ます。",
+          "example_zh": "早上很冷，所以我穿外套。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "寒い朝",
+          "zh": "寒冷的早晨"
+        }
+      ],
+      "usage_note_zh": "说天气、空气使人感到冷；物体摸起来冷通常说「冷たい」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "询问式地评价当天天气寒冷，寒い为い形容词。",
+        "dictionary_sequences": [
+          1210360
+        ],
+        "identity": {
+          "word": "寒い",
+          "reading_hiragana": "さむい",
+          "meaning": "天气寒冷"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ec8f7f0c7cee6713",
+      "index": 253,
+      "word": "おいしい",
+      "reading_hiragana": "おいしい",
+      "context_meaning_zh": "食物味道好",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "食物味道好",
+          "meaning_ja": "食べ物の味がよく、食べて満足できる様子。",
+          "example_ja": "母の作ったスープはおいしいです。",
+          "example_zh": "妈妈做的汤很好喝。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "おいしい料理",
+          "zh": "好吃的菜"
+        }
+      ],
+      "usage_note_zh": "常修饰食物或饮料；主观感受不同，评价宜用「私はおいしいと思います」等表达。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本条指食物味道好，词典对应い形容词义；不采纳引申的有利、诱人义。",
+        "dictionary_sequences": [
+          1486650
+        ],
+        "identity": {
+          "word": "おいしい",
+          "reading_hiragana": "おいしい",
+          "meaning": "食物味道好"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-772369157ed55d4f",
+      "index": 254,
+      "word": "楽しい",
+      "reading_hiragana": "たのしい",
+      "context_meaning_zh": "使人感到愉快",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "使人感到愉快",
+          "meaning_ja": "何かをして、心が明るく満足する様子。",
+          "example_ja": "友達と公園で遊ぶのは楽しいです。",
+          "example_zh": "和朋友在公园玩很开心。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "楽しい時間",
+          "zh": "愉快的时光"
+        }
+      ],
+      "usage_note_zh": "描述活动带来的愉快感；人或活动可作主语，常用「～が楽しい」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "夜间日语课被评价为楽しい，表达主观愉快感受；词典i形容词条吻合，ます句尾不改变词的礼貌类别。",
+        "dictionary_sequences": [
+          1207240
+        ],
+        "identity": {
+          "word": "楽しい",
+          "reading_hiragana": "たのしい",
+          "meaning": "使人感到愉快"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ebf154b171544f1d",
+      "index": 255,
+      "word": "忙しい",
+      "reading_hiragana": "いそがしい",
+      "context_meaning_zh": "忙碌",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "忙碌",
+          "meaning_ja": "することが多く、自由な時間が少ない様子。",
+          "example_ja": "姉は仕事が多くて忙しいです。",
+          "example_zh": "姐姐工作很多，很忙。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "忙しい毎日",
+          "zh": "忙碌的每一天"
+        }
+      ],
+      "usage_note_zh": "描述人的事务繁多；可说「仕事で忙しい」「忙しくて行けない」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "星期四事务繁忙，词典busy/occupied义相符；礼貌句尾です不改变形容词自身语域。",
+        "dictionary_sequences": [
+          1519290
+        ],
+        "identity": {
+          "word": "忙しい",
+          "reading_hiragana": "いそがしい",
+          "meaning": "忙碌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5055e0d2fee0c90b",
+      "index": 256,
+      "word": "静か",
+      "reading_hiragana": "しずか",
+      "context_meaning_zh": "安静",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "安静",
+          "meaning_ja": "音や人の動きが少なく、落ち着いている様子。",
+          "example_ja": "図書館の中は静かです。",
+          "example_zh": "图书馆里面很安静。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "静かな場所",
+          "zh": "安静的地方"
+        }
+      ],
+      "usage_note_zh": "な形容词；名词前用「静かな」，句末用「静かです」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处说周围安静，匹配JMdict 1381820 quiet义；です是句末礼貌，不把普通形容词判为敬语词。",
+        "dictionary_sequences": [
+          1381820
+        ],
+        "identity": {
+          "word": "静か",
+          "reading_hiragana": "しずか",
+          "meaning": "安静"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-09ec6a26fb1a2b21",
+      "index": 257,
+      "word": "便利",
+      "reading_hiragana": "べんり",
+      "context_meaning_zh": "方便",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "方便",
+          "meaning_ja": "使う人にとって都合がよく、役に立つ様子。",
+          "example_ja": "大学の近くに店があって便利です。",
+          "example_zh": "大学附近有商店，很方便。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "便利な道具",
+          "zh": "方便的工具"
+        }
+      ],
+      "usage_note_zh": "な形容词；常说「～に便利」，表示对某用途方便。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「便利です」单独作谓语表达方便，虽然无上下文说明具体便利之处，词典义仍明确为な形容词。",
+        "dictionary_sequences": [
+          1512610
+        ],
+        "identity": {
+          "word": "便利",
+          "reading_hiragana": "べんり",
+          "meaning": "方便"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-08b07414f7626e7b",
+      "index": 258,
+      "word": "きれい",
+      "reading_hiragana": "きれい",
+      "context_meaning_zh": "干净或整洁",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "干净或整洁",
+          "meaning_ja": "汚れがなく、整っている様子。",
+          "example_ja": "毎晩、部屋をきれいにします。",
+          "example_zh": "我每天晚上把房间收拾干净。"
+        },
+        {
+          "meaning_zh": "漂亮的",
+          "meaning_ja": "見た目が美しく、好ましい様子。",
+          "example_ja": "きれいな花を一輪飾りました。",
+          "example_zh": "我装饰了一枝漂亮的花。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "きれいな部屋",
+          "zh": "干净的房间"
+        }
+      ],
+      "usage_note_zh": "な形容词，可表示干净或漂亮；写作「きれい」时注意不是い形容词。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本课以干净整洁义为学习目标；きれい是ナ形容词，不因末尾い误判为い形容词。",
+        "dictionary_sequences": [
+          1591900
+        ],
+        "identity": {
+          "word": "きれい",
+          "reading_hiragana": "きれい",
+          "meaning": "干净或整洁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4d6f194172d70671",
+      "index": 259,
+      "word": "好き",
+      "reading_hiragana": "すき",
+      "context_meaning_zh": "喜欢",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "喜欢",
+          "meaning_ja": "人や物に好ましい気持ちを持つこと。",
+          "example_ja": "私は静かな町が好きです。",
+          "example_zh": "我喜欢安静的城镇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "～が好き",
+          "zh": "喜欢……"
+        }
+      ],
+      "usage_note_zh": "な形容词；喜欢的对象用「が」，说谁喜欢可用「私は～が好きです」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "教材明确为ナ形容词，喜欢的对象以が标记；词典也收名词用法。",
+        "dictionary_sequences": [
+          1277450
+        ],
+        "identity": {
+          "word": "好き",
+          "reading_hiragana": "すき",
+          "meaning": "喜欢"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a3286d28e8db67bc",
+      "index": 260,
+      "word": "嫌い",
+      "reading_hiragana": "きらい",
+      "context_meaning_zh": "不喜欢",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不喜欢",
+          "meaning_ja": "人や物に好ましくない気持ちを持つこと。",
+          "example_ja": "弟は魚が嫌いです。",
+          "example_zh": "弟弟不喜欢鱼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "～が嫌い",
+          "zh": "不喜欢……"
+        }
+      ],
+      "usage_note_zh": "な形容词；对象用「が」。直接评价别人可能显得失礼。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "对寒冷夜晚有不喜欢的感受；该词兼名词与ナ形容词，可作述语或修饰名词。",
+        "dictionary_sequences": [
+          1257240
+        ],
+        "identity": {
+          "word": "嫌い",
+          "reading_hiragana": "きらい",
+          "meaning": "不喜欢"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f69f24cfb6b247e1",
+      "index": 261,
+      "word": "とても",
+      "reading_hiragana": "とても",
+      "context_meaning_zh": "程度很高",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "程度很高",
+          "meaning_ja": "程度が高いことを表す言葉。",
+          "example_ja": "この問題はとても難しいです。",
+          "example_zh": "这道题非常难。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "とても便利",
+          "zh": "非常方便"
+        }
+      ],
+      "usage_note_zh": "程度副词，放在形容词或副词前；肯定句中表示“很、非常”。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例以とても修饰寒い表示高程度；词典另列否定环境义，但本语境取程度义。",
+        "dictionary_sequences": [
+          1008630
+        ],
+        "identity": {
+          "word": "とても",
+          "reading_hiragana": "とても",
+          "meaning": "程度很高"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-56f0d35b3bb3d411",
+      "index": 262,
+      "word": "あまり",
+      "reading_hiragana": "あまり",
+      "context_meaning_zh": "与否定呼应表示不太",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "与否定呼应表示不太",
+          "meaning_ja": "後ろに否定を置き、程度が高くないことを表す言葉。",
+          "example_ja": "この町は冬でもあまり寒くないです。",
+          "example_zh": "这个城镇即使冬天也不太冷。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "あまり～ない",
+          "zh": "不太……"
+        }
+      ],
+      "usage_note_zh": "本课所学为「あまり＋否定」；放在被修饰内容前。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本课限定「あまり＋否定」表示程度不高；词典另列剩余义，此处不据此标名词。",
+        "dictionary_sequences": [
+          1584930
+        ],
+        "identity": {
+          "word": "あまり",
+          "reading_hiragana": "あまり",
+          "meaning": "与否定呼应表示不太"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eb2a3ab709abefcc",
+      "index": 263,
+      "word": "にぎやか",
+      "reading_hiragana": "にぎやか",
+      "context_meaning_zh": "热闹",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "热闹",
+          "meaning_ja": "人や音が多く、活気がある様子。",
+          "example_ja": "祭りの日は町がにぎやかです。",
+          "example_zh": "节庆那天城里很热闹。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "にぎやかな町",
+          "zh": "热闹的城镇"
+        }
+      ],
+      "usage_note_zh": "な形容词；「にぎやかな＋名词」，也常说「町がにぎやかだ」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本条为ナ形容词，描写车站前热闹；句末礼貌助动形式不代表词项有敬语语体。",
+        "dictionary_sequences": [
+          1463480
+        ],
+        "identity": {
+          "word": "にぎやか",
+          "reading_hiragana": "にぎやか",
+          "meaning": "热闹"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-673d116e3f81487f",
+      "index": 264,
+      "word": "不便",
+      "reading_hiragana": "ふべん",
+      "context_meaning_zh": "不方便",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不方便",
+          "meaning_ja": "使うのに都合が悪く、手間がかかる様子。",
+          "example_ja": "この駅は家から遠くて不便です。",
+          "example_zh": "这个车站离家远，很不方便。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "不便な場所",
+          "zh": "不方便的地方"
+        }
+      ],
+      "usage_note_zh": "な形容词；常用「～に不便」说明对某人或用途不方便。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "电车不方便的判断以不便です作ナ形容词述语，词典也列不便名词用法。",
+        "dictionary_sequences": [
+          1494860
+        ],
+        "identity": {
+          "word": "不便",
+          "reading_hiragana": "ふべん",
+          "meaning": "不方便"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-26bf6ffbabe4f834",
+      "index": 265,
+      "word": "近い",
+      "reading_hiragana": "ちかい",
+      "context_meaning_zh": "距离近",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "距离近",
+          "meaning_ja": "二つの場所の間があまり離れていない様子。",
+          "example_ja": "郵便局は学校に近いです。",
+          "example_zh": "邮局离学校很近。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅に近い",
+          "zh": "离车站近"
+        }
+      ],
+      "usage_note_zh": "距离近用「場所に近い」；「～から近い」也常见。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "超市距离近，符合词典首义和普通イ形容词句法。",
+        "dictionary_sequences": [
+          1242130
+        ],
+        "identity": {
+          "word": "近い",
+          "reading_hiragana": "ちかい",
+          "meaning": "距离近"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-099c61408f4a40fd",
+      "index": 266,
+      "word": "遠い",
+      "reading_hiragana": "とおい",
+      "context_meaning_zh": "距离远",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "距离远",
+          "meaning_ja": "二つの場所の間が大きく離れている様子。",
+          "example_ja": "病院はここから遠いです。",
+          "example_zh": "医院离这里很远。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "家から遠い",
+          "zh": "离家远"
+        }
+      ],
+      "usage_note_zh": "表示距离远时常以「から」标出起点；与「近い」相对。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "车站距离的明确语境对应JMdict 1177800首义far/distant；です是句末礼貌，不改变形容词词项的语体。",
+        "dictionary_sequences": [
+          1177800
+        ],
+        "identity": {
+          "word": "遠い",
+          "reading_hiragana": "とおい",
+          "meaning": "距离远"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1766e080f2db2ffc",
+      "index": 267,
+      "word": "暖かい",
+      "reading_hiragana": "あたたかい",
+      "context_meaning_zh": "气候温暖",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "气候温暖",
+          "meaning_ja": "気温がほどよく高く、寒さを感じない様子。",
+          "example_ja": "春の午後は暖かいです。",
+          "example_zh": "春天的下午很暖和。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "暖かい天気",
+          "zh": "暖和的天气"
+        }
+      ],
+      "usage_note_zh": "常说气候、空气或身体感到温暖；比「暑い」舒适、不显闷热。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "十月午后气候温暖的い形容词，词典义项明确包含温和宜人的暖。",
+        "dictionary_sequences": [
+          1586420
+        ],
+        "identity": {
+          "word": "暖かい",
+          "reading_hiragana": "あたたかい",
+          "meaning": "气候温暖"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2be5833b113b6673",
+      "index": 268,
+      "word": "涼しい",
+      "reading_hiragana": "すずしい",
+      "context_meaning_zh": "凉爽",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "凉爽",
+          "meaning_ja": "暑さがなく、気持ちよく少し冷たい様子。",
+          "example_ja": "雨のあと、外の空気が涼しいです。",
+          "example_zh": "下雨后，外面的空气很凉爽。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "涼しい風",
+          "zh": "凉爽的风"
+        }
+      ],
+      "usage_note_zh": "多说天气、风或地方；与「冷たい」的触感冷不同。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "夜间天气凉爽，词典cool、refreshing义直接对应。",
+        "dictionary_sequences": [
+          1554370
+        ],
+        "identity": {
+          "word": "涼しい",
+          "reading_hiragana": "すずしい",
+          "meaning": "凉爽"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c3389dbe8a14bebd",
+      "index": 269,
+      "word": "難しい",
+      "reading_hiragana": "むずかしい",
+      "context_meaning_zh": "困难",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "困难",
+          "meaning_ja": "理解したり、うまくしたりするのに大きな努力がいる様子。",
+          "example_ja": "この漢字は書くのが難しいです。",
+          "example_zh": "这个汉字很难写。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "難しい問題",
+          "zh": "难题"
+        }
+      ],
+      "usage_note_zh": "描述任务或内容不容易；「～のが難しい」可说明难做的动作。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "图书馆把难易书籍对举，指内容难懂或复杂；按辞典i形容词常用义判断。",
+        "dictionary_sequences": [
+          1460850
+        ],
+        "identity": {
+          "word": "難しい",
+          "reading_hiragana": "むずかしい",
+          "meaning": "困难"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1c81d3bc7d641ab5",
+      "index": 270,
+      "word": "易しい",
+      "reading_hiragana": "やさしい",
+      "context_meaning_zh": "容易",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "容易",
+          "meaning_ja": "理解したり、うまくしたりするのに大きな努力がいらない様子。",
+          "example_ja": "この本の説明は易しいです。",
+          "example_zh": "这本书的说明很浅显。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "易しい日本語",
+          "zh": "浅显易懂的日语"
+        }
+      ],
+      "usage_note_zh": "表示容易、简单；常写作「易しい」，与读作同一音的「優しい（温柔）」区分。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "图书馆中的“易しい日本語”指容易理解的日语，JMdict易、简单义与例句吻合；不标一般教学体裁。",
+        "dictionary_sequences": [
+          1157000
+        ],
+        "identity": {
+          "word": "易しい",
+          "reading_hiragana": "やさしい",
+          "meaning": "容易"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7ee98496437a0226",
+      "index": 271,
+      "word": "高い",
+      "reading_hiragana": "たかい",
+      "context_meaning_zh": "高度高；价格贵（分别依据对象判断）",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "高度高；价格贵（分别依据对象判断）",
+          "meaning_ja": "地面などから上の位置までの距離が大きい様子。",
+          "example_ja": "この建物はとても高いです。",
+          "example_zh": "这栋建筑很高。"
+        },
+        {
+          "meaning_zh": "价格贵",
+          "meaning_ja": "値段が高く、買うために多くのお金が必要な様子。",
+          "example_ja": "このかばんは高いです。",
+          "example_zh": "这个包很贵。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "高い建物",
+          "zh": "高楼"
+        }
+      ],
+      "usage_note_zh": "高い可说高度或价格；须看修饰对象，本条例句对应高度义。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "高いビル描述建筑物高度，取高、 tall义；价格义取决于对象而非本例。",
+        "dictionary_sequences": [
+          1283190
+        ],
+        "identity": {
+          "word": "高い",
+          "reading_hiragana": "たかい",
+          "meaning": "高度高；价格贵（分别依据对象判断）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-270bfd6374697c01",
+      "index": 272,
+      "word": "ポスト",
+      "reading_hiragana": "ポスト",
+      "context_meaning_zh": "邮筒、信箱",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "邮筒、信箱",
+          "meaning_ja": "手紙を入れて、郵便局の人に届けてもらう箱。",
+          "example_ja": "帰りにポストへ手紙を入れました。",
+          "example_zh": "回家路上我把信投进了邮筒。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ポストに手紙を入れる",
+          "zh": "把信投进邮筒"
+        }
+      ],
+      "usage_note_zh": "可指街边邮筒或住宅收信箱；投寄信件用「ポストに入れる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课指大学门前收寄邮件的邮筒；同形词虽有职位、球门柱及网络发布义，均非此处对象。",
+        "dictionary_sequences": [
+          1125150
+        ],
+        "identity": {
+          "word": "ポスト",
+          "reading_hiragana": "ポスト",
+          "meaning": "邮筒、信箱"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a55202043b9b700f",
+      "index": 273,
+      "word": "辺り",
+      "reading_hiragana": "あたり",
+      "context_meaning_zh": "附近、周围",
+      "pos_ja": "名詞・副詞・接尾辞",
+      "pos_zh": "名词・副词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "附近、周围",
+          "meaning_ja": "ある場所の近くにある範囲。",
+          "example_ja": "駅の辺りで友達に会いました。",
+          "example_zh": "我在车站附近见到了朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅の辺り",
+          "zh": "车站附近"
+        }
+      ],
+      "usage_note_zh": "通常接在地点名词后，指其周边一带；范围不必很精确。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本条及例句表示某地点附近；「駅の辺り」等可作接尾用法，词典也列副词类别。当前并非时间词。",
+        "dictionary_sequences": [
+          1512080
+        ],
+        "identity": {
+          "word": "辺り",
+          "reading_hiragana": "あたり",
+          "meaning": "附近、周围"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-875ce392bf186e60",
+      "index": 274,
+      "word": "建物",
+      "reading_hiragana": "たてもの",
+      "context_meaning_zh": "建筑物",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "建筑物",
+          "meaning_ja": "人が住んだり、仕事をしたりするために作られた物。",
+          "example_ja": "あの建物には小さな図書館があります。",
+          "example_zh": "那栋建筑里有一间小图书馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大きな建物",
+          "zh": "大型建筑"
+        }
+      ],
+      "usage_note_zh": "泛指建筑物；具体种类可说「家」「学校」「ビル」等。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "图书馆所在的新建筑是具体建筑物，词典释义building吻合。",
+        "dictionary_sequences": [
+          1257540
+        ],
+        "identity": {
+          "word": "建物",
+          "reading_hiragana": "たてもの",
+          "meaning": "建筑物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-721d003db006ec83",
+      "index": 275,
+      "word": "池",
+      "reading_hiragana": "いけ",
+      "context_meaning_zh": "池、池塘",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "池、池塘",
+          "meaning_ja": "地面に水がたまってできた、小さな水の場所。",
+          "example_ja": "池に魚がたくさんいます。",
+          "example_zh": "池塘里有很多鱼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "池の魚",
+          "zh": "池塘里的鱼"
+        }
+      ],
+      "usage_note_zh": "一般指公园、庭院等处的池塘；「池に魚がいる」用「に」表示存在位置。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "池塘旁有长椅的地点名词用例，符合pond义。",
+        "dictionary_sequences": [
+          1421700
+        ],
+        "identity": {
+          "word": "池",
+          "reading_hiragana": "いけ",
+          "meaning": "池、池塘"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-49a320e5269d1dae",
+      "index": 276,
+      "word": "綺麗",
+      "reading_hiragana": "きれい",
+      "context_meaning_zh": "漂亮的；干净、整洁的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "漂亮的；干净、整洁的",
+          "meaning_ja": "見た目が美しく、心を引かれる様子。",
+          "example_ja": "この町には綺麗な公園があります。",
+          "example_zh": "这个城镇有一座漂亮的公园。"
+        },
+        {
+          "meaning_zh": "干净、整洁的",
+          "meaning_ja": "汚れがなく、よく整っている様子。",
+          "example_ja": "机の上を綺麗に片づけました。",
+          "example_zh": "我把桌面收拾干净了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "綺麗な景色",
+          "zh": "美丽的景色"
+        }
+      ],
+      "usage_note_zh": "な形容词，可表漂亮或干净；本词也常写作假名「きれい」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "绿色景色很漂亮，此处取「きれい」的审美义；洁净义及完全义须由其他语境触发。",
+        "dictionary_sequences": [
+          1591900
+        ],
+        "identity": {
+          "word": "綺麗",
+          "reading_hiragana": "きれい",
+          "meaning": "漂亮的；干净、整洁的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-05a1ac7dc7f8ad81",
+      "index": 277,
+      "word": "広い",
+      "reading_hiragana": "ひろい",
+      "context_meaning_zh": "宽敞的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "宽敞的",
+          "meaning_ja": "横や内側に十分な空間がある様子。",
+          "example_ja": "この教室は広いので、学生が多く入れます。",
+          "example_zh": "这间教室很宽敞，可以容纳很多学生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "広い部屋",
+          "zh": "宽敞的房间"
+        }
+      ],
+      "usage_note_zh": "可形容面积、范围或知识面宽广；空间义常与「狭い」相对。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "宽敞的教室符合広い的空间宽度义；词典及い形容词词形一致。",
+        "dictionary_sequences": [
+          1278410
+        ],
+        "identity": {
+          "word": "広い",
+          "reading_hiragana": "ひろい",
+          "meaning": "宽敞的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1265b9136601fdde",
+      "index": 278,
+      "word": "賑やか",
+      "reading_hiragana": "にぎやか",
+      "context_meaning_zh": "热闹的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "热闹的",
+          "meaning_ja": "人や音が多く、活気がある様子。",
+          "example_ja": "駅の前は夜も賑やかです。",
+          "example_zh": "车站前夜里也很热闹。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "賑やかな通り",
+          "zh": "热闹的街道"
+        }
+      ],
+      "usage_note_zh": "「にぎやか」的汉字写法；な形容词，名词前用「賑やかな」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "车站前热闹，词形「賑やかです」为ナ形容词谓语；句末礼貌形式不把词汇本身改标正式或敬语。",
+        "dictionary_sequences": [
+          1463480
+        ],
+        "identity": {
+          "word": "賑やか",
+          "reading_hiragana": "にぎやか",
+          "meaning": "热闹的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-74986a64773ad18f",
+      "index": 279,
+      "word": "ビル",
+      "reading_hiragana": "ビル",
+      "context_meaning_zh": "大楼、大厦",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大楼、大厦",
+          "meaning_ja": "中に会社や店などが入っている大きな建物。",
+          "example_ja": "父の会社は駅前のビルにあります。",
+          "example_zh": "父亲的公司在车站前的大楼里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ビルの中",
+          "zh": "大楼里面"
+        }
+      ],
+      "usage_note_zh": "外来语，常指多层的办公楼或商业楼；独立住宅通常不称ビル。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「高いビル」指多层建筑；词典候选中的账单义与此建筑语境无关。",
+        "dictionary_sequences": [
+          1106010
+        ],
+        "identity": {
+          "word": "ビル",
+          "reading_hiragana": "ビル",
+          "meaning": "大楼、大厦"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-019920778e5d21eb",
+      "index": 280,
+      "word": "おもしろい",
+      "reading_hiragana": "おもしろい",
+      "context_meaning_zh": "有趣的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "有趣的",
+          "meaning_ja": "見たり聞いたりして、もっと知りたいと思う様子。",
+          "example_ja": "この映画の最後はとてもおもしろいです。",
+          "example_zh": "这部电影的结尾很有意思。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "おもしろい話",
+          "zh": "有趣的故事"
+        }
+      ],
+      "usage_note_zh": "可表示有趣、引人入胜，也可表示有意思；具体含义随对象而定。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本条义为有趣；例句以い形容词作谓语，句末です只体现句子礼貌，不是词汇敬语。",
+        "dictionary_sequences": [
+          1533580
+        ],
+        "identity": {
+          "word": "おもしろい",
+          "reading_hiragana": "おもしろい",
+          "meaning": "有趣的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4a938951b6f85f6a",
+      "index": 281,
+      "word": "有名",
+      "reading_hiragana": "ゆうめい",
+      "context_meaning_zh": "有名的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "有名的",
+          "meaning_ja": "多くの人に名前や存在を知られている様子。",
+          "example_ja": "この大学は日本語の研究で有名です。",
+          "example_zh": "这所大学以日语研究闻名。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "有名な大学",
+          "zh": "有名的大学"
+        }
+      ],
+      "usage_note_zh": "な形容词；常说「～で有名」，表示因某事而出名。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "面包因该店有名而成为其特征，符合词典famous/well-known的ナ形容词义。",
+        "dictionary_sequences": [
+          1541620
+        ],
+        "identity": {
+          "word": "有名",
+          "reading_hiragana": "ゆうめい",
+          "meaning": "有名的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-86324e9efa65b3b1",
+      "index": 282,
+      "word": "町",
+      "reading_hiragana": "まち",
+      "context_meaning_zh": "城镇;街",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "城镇;街",
+          "meaning_ja": "人が住み、家や店が集まっている場所。",
+          "example_ja": "私の町には大きな公園があります。",
+          "example_zh": "我的城镇有一座大公园。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "町に住む",
+          "zh": "住在城镇里"
+        }
+      ],
+      "usage_note_zh": "可指城镇，也可在复合词中指街区；具体范围随语境变化。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "喜爱的是这座城镇，词典town/neighbourhood义相符；街道义不适用。",
+        "dictionary_sequences": [
+          1603990
+        ],
+        "identity": {
+          "word": "町",
+          "reading_hiragana": "まち",
+          "meaning": "城镇;街"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-80384806a885a4bd",
+      "index": 283,
+      "word": "明るい",
+      "reading_hiragana": "あかるい",
+      "context_meaning_zh": "明亮的、艳丽的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "明亮的、艳丽的",
+          "meaning_ja": "光が多く、よく見える様子。また、色が鮮やかな様子。",
+          "example_ja": "明るい色のシャツを選びました。",
+          "example_zh": "我选了一件颜色鲜艳的衬衫。"
+        },
+        {
+          "meaning_zh": "开朗的",
+          "meaning_ja": "性格や気分が前向きで、親しみやすい様子。",
+          "example_ja": "彼女は明るい人です。",
+          "example_zh": "她是个开朗的人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "明るい部屋",
+          "zh": "明亮的房间"
+        }
+      ],
+      "usage_note_zh": "可形容光线、颜色，也可形容性格开朗；本例为光线义。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "教室光线充足与围巾颜色鲜亮均是い形容词的物理明亮义。",
+        "dictionary_sequences": [
+          1532350
+        ],
+        "identity": {
+          "word": "明るい",
+          "reading_hiragana": "あかるい",
+          "meaning": "明亮的、艳丽的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3887a3c7147e391f",
+      "index": 284,
+      "word": "どう",
+      "reading_hiragana": "どう",
+      "context_meaning_zh": "怎么样、如何",
+      "pos_ja": "副詞・疑問",
+      "pos_zh": "副词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "怎么样、如何",
+          "meaning_ja": "方法や状態をたずねるときに使う言葉。",
+          "example_ja": "新しい町での生活はどうですか。",
+          "example_zh": "在新城镇的生活怎么样？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どうですか",
+          "zh": "怎么样？"
+        }
+      ],
+      "usage_note_zh": "疑问副词，询问评价、状态或方法；答句常用「いいです」「便利です」等。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「周りはどうですか」用どう询问状态或评价，属疑问副词；提供的其他同音词典条目不对应此义。",
+        "dictionary_sequences": [
+          1008910
+        ],
+        "identity": {
+          "word": "どう",
+          "reading_hiragana": "どう",
+          "meaning": "怎么样、如何"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7b3ac29076dabf84",
+      "index": 285,
+      "word": "側·傍",
+      "reading_hiragana": "そば",
+      "context_meaning_zh": "附近、旁边",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "附近、旁边",
+          "meaning_ja": "物や場所の横、またはすぐ近く。",
+          "example_ja": "銀行の側に小さな店があります。",
+          "example_zh": "银行旁边有一家小店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅の側",
+          "zh": "车站旁边"
+        }
+      ],
+      "usage_note_zh": "「そば」可写「側」「傍」，常用「～のそば」表示紧邻；可与「近く」对比，距离感更贴近。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "池边长椅中そば表示空间附近名词；该输入未提供可引用词典序号，按例句和词义直接判断。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "側·傍",
+          "reading_hiragana": "そば",
+          "meaning": "附近、旁边"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-223c6bb4300eb0dd",
+      "index": 286,
+      "word": "ベンチ",
+      "reading_hiragana": "ベンチ",
+      "context_meaning_zh": "长椅",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "长椅",
+          "meaning_ja": "公園などで、人が座るために置いてある長い椅子。",
+          "example_ja": "昼休みにベンチでお弁当を食べました。",
+          "example_zh": "午休时我在长椅上吃了便当。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ベンチに座る",
+          "zh": "坐在长椅上"
+        }
+      ],
+      "usage_note_zh": "外来语名词；坐在长椅上用「ベンチに座る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "池塘旁设置的“ベンチ”是供人坐的长椅，教材例句与JMdict bench义一致。",
+        "dictionary_sequences": [
+          1120280
+        ],
+        "identity": {
+          "word": "ベンチ",
+          "reading_hiragana": "ベンチ",
+          "meaning": "长椅"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-22588a058d9f63d6",
+      "index": 287,
+      "word": "騒がしい",
+      "reading_hiragana": "さわがしい",
+      "context_meaning_zh": "吵闹的、喧闹的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吵闹的、喧闹的",
+          "meaning_ja": "音が大きく、落ち着いて聞いていられない様子。",
+          "example_ja": "隣の部屋が騒がしくて眠れません。",
+          "example_zh": "隔壁房间很吵，睡不着。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "騒がしい声",
+          "zh": "嘈杂的声音"
+        }
+      ],
+      "usage_note_zh": "常描述场所或声音很喧闹；「うるさい」还常表达说话者觉得吵或烦。两者的差别要结合语境判断。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "白天很喧闹，描述环境声音状况，属于い形容词。",
+        "dictionary_sequences": [
+          1403000
+        ],
+        "identity": {
+          "word": "騒がしい",
+          "reading_hiragana": "さわがしい",
+          "meaning": "吵闹的、喧闹的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f6d997c20aafcd81",
+      "index": 288,
+      "word": "大好き",
+      "reading_hiragana": "だいすき",
+      "context_meaning_zh": "非常喜欢",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "非常喜欢",
+          "meaning_ja": "人や物をとても好ましく思うこと。",
+          "example_ja": "妹は動物が大好きです。",
+          "example_zh": "妹妹非常喜欢动物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "～が大好き",
+          "zh": "非常喜欢……"
+        }
+      ],
+      "usage_note_zh": "「好き」加强后的表达；对象用「が」，语气比「好き」更强。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表达非常喜欢某城镇，辞书标ナ形容词，句中以が标示喜爱对象。",
+        "dictionary_sequences": [
+          1413660
+        ],
+        "identity": {
+          "word": "大好き",
+          "reading_hiragana": "だいすき",
+          "meaning": "非常喜欢"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5804274cecfc8d9a",
+      "index": 289,
+      "word": "汚い",
+      "reading_hiragana": "きたない",
+      "context_meaning_zh": "不干净、肮脏",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不干净、肮脏",
+          "meaning_ja": "汚れがあったり、清潔でなかったりする様子。",
+          "example_ja": "雨で靴が汚くなりました。",
+          "example_zh": "鞋子被雨弄脏了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "汚い部屋",
+          "zh": "脏乱的房间"
+        }
+      ],
+      "usage_note_zh": "可形容物体脏，也可形容字迹、行为不体面；评价时注意语气直接。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "汚い为い形容词，此处指长椅不干净；不依据其词典其他义项添加污言或卑鄙标签。",
+        "dictionary_sequences": [
+          1178940
+        ],
+        "identity": {
+          "word": "汚い",
+          "reading_hiragana": "きたない",
+          "meaning": "不干净、肮脏"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-43b3ce3a3a6b94b3",
+      "index": 290,
+      "word": "特に",
+      "reading_hiragana": "とくに",
+      "context_meaning_zh": "尤其、特别",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "尤其、特别",
+          "meaning_ja": "ほかと比べて、そのものを取り上げることを表す言葉。",
+          "example_ja": "私は特に果物が好きです。",
+          "example_zh": "我尤其喜欢水果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "特に好き",
+          "zh": "尤其喜欢"
+        }
+      ],
+      "usage_note_zh": "副词，用于突出某一项；可与「特に～ない」表示没有特别突出的对象。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "副词突出特别柔软的面包；句尾です是普通礼貌句式，不使词汇具有敬语属性。",
+        "dictionary_sequences": [
+          1454670
+        ],
+        "identity": {
+          "word": "特に",
+          "reading_hiragana": "とくに",
+          "meaning": "尤其、特别"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3e51ca74aa86cadd",
+      "index": 291,
+      "word": "漢字",
+      "reading_hiragana": "かんじ",
+      "context_meaning_zh": "汉字",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "汉字",
+          "meaning_ja": "中国から伝わり、日本語で使われる文字。",
+          "example_ja": "名前を漢字で書いてください。",
+          "example_zh": "请用汉字写名字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "漢字で書く",
+          "zh": "用汉字写"
+        }
+      ],
+      "usage_note_zh": "名词；「漢字で」表示使用汉字这种方式书写。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "汉字名词，例句指汉字类图书；与使用汉字书写的方式义区分。",
+        "dictionary_sequences": [
+          1213170
+        ],
+        "identity": {
+          "word": "漢字",
+          "reading_hiragana": "かんじ",
+          "meaning": "汉字"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-07c59e50bdbe2001",
+      "index": 292,
+      "word": "可愛い",
+      "reading_hiragana": "かわいい",
+      "context_meaning_zh": "可爱的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "可爱的",
+          "meaning_ja": "見た目や様子が愛らしく、好ましいと感じられること。",
+          "example_ja": "友達の犬はとても可愛いです。",
+          "example_zh": "朋友的狗非常可爱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "可愛い犬",
+          "zh": "可爱的小狗"
+        }
+      ],
+      "usage_note_zh": "可形容人、动物或物品；写作「可愛い」，常见读音为「かわいい」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "かわいい修饰钟表，表示讨人喜欢、可爱；词典cute、charming义相符，です句尾不影响词项语体。",
+        "dictionary_sequences": [
+          1577200
+        ],
+        "identity": {
+          "word": "可愛い",
+          "reading_hiragana": "かわいい",
+          "meaning": "可爱的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4756982724d40f02",
+      "index": 293,
+      "word": "環境",
+      "reading_hiragana": "かんきょう",
+      "context_meaning_zh": "环境",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "环境",
+          "meaning_ja": "人や生き物を取り囲み、暮らしに影響するもの。",
+          "example_ja": "きれいな環境で勉強したいです。",
+          "example_zh": "我想在干净的环境里学习。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "自然環境",
+          "zh": "自然环境"
+        }
+      ],
+      "usage_note_zh": "可指自然或生活、工作条件；常与「環境を守る」「環境がいい」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「いい環境」指周围状况或条件，是普通名词；句尾よ为说话语气而非词汇语体。",
+        "dictionary_sequences": [
+          1213280
+        ],
+        "identity": {
+          "word": "環境",
+          "reading_hiragana": "かんきょう",
+          "meaning": "环境"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a4c8c20cd595662a",
+      "index": 294,
+      "word": "周り",
+      "reading_hiragana": "まわり",
+      "context_meaning_zh": "周围、附近",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "周围、附近",
+          "meaning_ja": "ある場所や物を囲む近くの範囲。",
+          "example_ja": "家の周りに木がたくさんあります。",
+          "example_zh": "房子周围有很多树。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "家の周り",
+          "zh": "房子周围"
+        }
+      ],
+      "usage_note_zh": "常用「～の周り」表示周边；也可指人的周围环境或身边的人。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "树木和花坛环绕某处的例句指周边环境义；词典同序另列周长及身边的人，不能混为此处用法。",
+        "dictionary_sequences": [
+          1604290
+        ],
+        "identity": {
+          "word": "周り",
+          "reading_hiragana": "まわり",
+          "meaning": "周围、附近"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-df2026645f71234f",
+      "index": 295,
+      "word": "うるさい",
+      "reading_hiragana": "うるさい",
+      "context_meaning_zh": "吵闹；烦人",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吵闹；烦人",
+          "meaning_ja": "音が大きくていやに感じる様子。また、同じことを何度も言われていやな様子。",
+          "example_ja": "工事の音がうるさくて、電話が聞こえません。",
+          "example_zh": "施工的声音太吵，听不见电话。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "うるさい音",
+          "zh": "刺耳的噪声"
+        }
+      ],
+      "usage_note_zh": "可指噪声或令人厌烦；直接说人「うるさい」会显得强硬。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "夜间不那么吵闹描述噪声大小，词典噪声义吻合；词语在直接指责人时可显强硬，但此句无该语用。",
+        "dictionary_sequences": [
+          1481920
+        ],
+        "identity": {
+          "word": "うるさい",
+          "reading_hiragana": "うるさい",
+          "meaning": "吵闹；烦人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bc83dc2b6e4cd9f4",
+      "index": 296,
+      "word": "もっと",
+      "reading_hiragana": "もっと",
+      "context_meaning_zh": "更、更加",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "更、更加",
+          "meaning_ja": "今より程度や量を大きくすることを表す言葉。",
+          "example_ja": "この説明をもっと簡単にしてください。",
+          "example_zh": "请把这个说明讲得更简单些。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "もっと大きい",
+          "zh": "更大"
+        }
+      ],
+      "usage_note_zh": "副词，放在形容词、动词等前表示进一步增加；「もう少し」语气较缓和。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "副词修饰明るい表示程度进一步提高；不承载请求语气。",
+        "dictionary_sequences": [
+          1012620
+        ],
+        "identity": {
+          "word": "もっと",
+          "reading_hiragana": "もっと",
+          "meaning": "更、更加"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c279333d5f7a6f6",
+      "index": 297,
+      "word": "喜ぶ",
+      "reading_hiragana": "よろこぶ",
+      "context_meaning_zh": "高兴、喜悦",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "高兴、喜悦",
+          "meaning_ja": "うれしい気持ちになること。また、人の行動をうれしく思うこと。",
+          "example_ja": "合格の知らせを聞いて、母は喜びました。",
+          "example_zh": "听到合格的消息，母亲高兴起来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "合格を喜ぶ",
+          "zh": "为合格而高兴"
+        }
+      ],
+      "usage_note_zh": "自动词，常用「知らせを喜ぶ」「人が喜ぶ」；他人受惠时可说「喜んでくれた」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "喜ぶ为五段动词，词典兼标自他；本句母亲喜爱花、花作を对象，支持他动用法，但仅一例。",
+        "dictionary_sequences": [
+          1218760
+        ],
+        "identity": {
+          "word": "喜ぶ",
+          "reading_hiragana": "よろこぶ",
+          "meaning": "高兴、喜悦"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-22c9deab466eae8d",
+      "index": 298,
+      "word": "高層ビル",
+      "reading_hiragana": "こうそうびる",
+      "context_meaning_zh": "高层建筑",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "高层建筑",
+          "meaning_ja": "高い階がいくつもあり、多くの人や会社が入る建物。",
+          "example_ja": "駅の近くに新しい高層ビルが建ちました。",
+          "example_zh": "车站附近建起了一栋新的高层大楼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "高層ビルが建つ",
+          "zh": "高层大楼建成"
+        }
+      ],
+      "usage_note_zh": "由「高層」和「ビル」组成，指楼层很多的建筑；不只是普通高楼的泛称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示高层建筑，例句为存在句；词典义项吻合。",
+        "dictionary_sequences": [
+          1875350
+        ],
+        "identity": {
+          "word": "高層ビル",
+          "reading_hiragana": "こうそうびる",
+          "meaning": "高层建筑"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-718ec2a4e19d0f7f",
+      "index": 299,
+      "word": "村",
+      "reading_hiragana": "むら",
+      "context_meaning_zh": "村；村庄",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "村；村庄",
+          "meaning_ja": "町より小さく、家や畑が集まっている地域。",
+          "example_ja": "祖母は山の近くの村に住んでいます。",
+          "example_zh": "祖母住在山附近的村庄。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "村に住む",
+          "zh": "住在村里"
+        }
+      ],
+      "usage_note_zh": "行政区划名称，通常规模比城镇小；不同国家的划分标准可能不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "照片集中该词指村落／聚落，词典village义相符；不同国家的行政级别不据此作延伸。",
+        "dictionary_sequences": [
+          1406820
+        ],
+        "identity": {
+          "word": "村",
+          "reading_hiragana": "むら",
+          "meaning": "村；村庄"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0a0efefb5cac4c22",
+      "index": 300,
+      "word": "幸せ(仕合わせ)",
+      "reading_hiragana": "しあわせ",
+      "context_meaning_zh": "幸福",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "幸福",
+          "meaning_ja": "心が満たされ、うれしいと感じる状態。",
+          "example_ja": "家族と食事をすると幸せです。",
+          "example_zh": "和家人一起吃饭让我感到幸福。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "幸せな生活",
+          "zh": "幸福的生活"
+        }
+      ],
+      "usage_note_zh": "な形容词；通常写作「幸せ」，「仕合わせ」也是读作しあわせ的表记。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「幸せ」常作ナ形容词，也可作名词；例句「とても幸せです」呈述幸福状态，输入未附词典条目。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "幸せ(仕合わせ)",
+          "reading_hiragana": "しあわせ",
+          "meaning": "幸福"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4cec53abd50de170",
+      "index": 301,
+      "word": "素敵",
+      "reading_hiragana": "すてき",
+      "context_meaning_zh": "极好;极漂亮",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "极好;极漂亮",
+          "meaning_ja": "見た目や内容がすばらしく、好ましい様子。",
+          "example_ja": "昨日の店で素敵なかばんを見つけました。",
+          "example_zh": "我在昨天那家店发现了一个很棒的包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "素敵な景色",
+          "zh": "美好的景色"
+        }
+      ],
+      "usage_note_zh": "な形容词，可评价外观、想法或体验；含说话人的正面评价。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "照片被称为「素敵な」说明其迷人、出色；词典仅支持ナ形容词，普通赞美不构成特殊语体。",
+        "dictionary_sequences": [
+          1397350
+        ],
+        "identity": {
+          "word": "素敵",
+          "reading_hiragana": "すてき",
+          "meaning": "极好;极漂亮"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7770371b607d3b35",
+      "index": 302,
+      "word": "恐い",
+      "reading_hiragana": "こわい",
+      "context_meaning_zh": "可怕的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "可怕的",
+          "meaning_ja": "危険や未知のものを前にして、不安を感じる様子。",
+          "example_ja": "一人で暗い道を歩くのは恐いです。",
+          "example_zh": "一个人走黑暗的路令人害怕。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "恐い話",
+          "zh": "可怕的故事"
+        }
+      ],
+      "usage_note_zh": "本词常写作「怖い」；表示令人害怕或自己感到害怕，语境决定译法。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "暗い道路令人害怕，恐い是い形容词；です句尾的礼貌形式不属于词条属性。",
+        "dictionary_sequences": [
+          1593480
+        ],
+        "identity": {
+          "word": "恐い",
+          "reading_hiragana": "こわい",
+          "meaning": "可怕的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-19f21ded06db0143",
+      "index": 303,
+      "word": "木",
+      "reading_hiragana": "き",
+      "context_meaning_zh": "树",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "树",
+          "meaning_ja": "幹や枝があり、地面に根を張って育つ植物。",
+          "example_ja": "庭の木に鳥がとまっています。",
+          "example_zh": "鸟停在院子里的树上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "木の下",
+          "zh": "树下"
+        }
+      ],
+      "usage_note_zh": "作名词读「き」指树；作为材料时常见复合词「木の机」「木で作る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "花坛周围的木指生长在地面的树木，词典tree/shrub名词义适用，不取木材或木拍板义。",
+        "dictionary_sequences": [
+          1534520
+        ],
+        "identity": {
+          "word": "木",
+          "reading_hiragana": "き",
+          "meaning": "树"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1aa438e3d521fa71",
+      "index": 304,
+      "word": "つまらない",
+      "reading_hiragana": "つまらない",
+      "context_meaning_zh": "无聊、无趣；无意义",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "无聊、无趣；无意义",
+          "meaning_ja": "興味を引かず、見たり聞いたりしても楽しくない様子。",
+          "example_ja": "長い説明だけの映画はつまらないです。",
+          "example_zh": "只有冗长说明的电影很无聊。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "つまらない映画",
+          "zh": "无聊的电影"
+        }
+      ],
+      "usage_note_zh": "本课取无趣、无意义义；送礼时自谦说「つまらないものですが」的“不值钱”用法留待后续。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课义限于书本无趣或争吵无意义；送礼时自谦的固定用法明确留作后续，不扩大当前范围。",
+        "dictionary_sequences": [
+          1008190
+        ],
+        "identity": {
+          "word": "つまらない",
+          "reading_hiragana": "つまらない",
+          "meaning": "无聊、无趣；无意义"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5b6936d41e823618",
+      "index": 305,
+      "word": "花壇",
+      "reading_hiragana": "かだん",
+      "context_meaning_zh": "花坛",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "花坛",
+          "meaning_ja": "花を植えて育てるために、土を区切って作った場所。",
+          "example_ja": "学校の花壇に赤い花が咲いています。",
+          "example_zh": "学校的花坛里开着红花。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "花壇に花を植える",
+          "zh": "在花坛里种花"
+        }
+      ],
+      "usage_note_zh": "指专门种花的花圃，常在公园、校园或庭院中；与自然形成的花丛不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "周边景物列举中的花坛及词典flower bed义一致；具体园艺名词不代表学术或教育语体。",
+        "dictionary_sequences": [
+          1590460
+        ],
+        "identity": {
+          "word": "花壇",
+          "reading_hiragana": "かだん",
+          "meaning": "花坛"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-170dfcbb5f4271aa",
+      "index": 306,
+      "word": "冷たい",
+      "reading_hiragana": "つめたい",
+      "context_meaning_zh": "触及物体时温度冷",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "触及物体时温度冷",
+          "meaning_ja": "触れたときに温度が低く感じられる様子。",
+          "example_ja": "冷たい水で顔を洗いました。",
+          "example_zh": "我用冷水洗了脸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "冷たい水",
+          "zh": "冷水"
+        }
+      ],
+      "usage_note_zh": "本课指物体触感冷；形容天气冷用「寒い」，人际冷淡义另课学习。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本章明确限定触物温度冷，例句水很冷；词典第一义cold to touch对应，后续人际冷淡义不纳入本条语境裁定。",
+        "dictionary_sequences": [
+          1556730
+        ],
+        "identity": {
+          "word": "冷たい",
+          "reading_hiragana": "つめたい",
+          "meaning": "触及物体时温度冷"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ad8a20a95e104448",
+      "index": 307,
+      "word": "緑",
+      "reading_hiragana": "みどり",
+      "context_meaning_zh": "绿色",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "绿色",
+          "meaning_ja": "草や木の葉に多く見られる色。",
+          "example_ja": "春になると、山の緑が濃くなります。",
+          "example_zh": "到了春天，山上的绿色变浓了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "緑の葉",
+          "zh": "绿叶"
+        }
+      ],
+      "usage_note_zh": "颜色名词，可用「緑の＋名词」修饰；不要将其误作「緑い」这样的い形容词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「緑が綺麗」将绿色作为颜色名词并作主语，形容其鲜明美观。",
+        "dictionary_sequences": [
+          1555300
+        ],
+        "identity": {
+          "word": "緑",
+          "reading_hiragana": "みどり",
+          "meaning": "绿色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-535fdfcb47033f20",
+      "index": 308,
+      "word": "アパート",
+      "reading_hiragana": "アパート",
+      "context_meaning_zh": "「アパートメント・ハウス」的略语:公寓",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "「アパートメント・ハウス」的略语:公寓",
+          "meaning_ja": "人が住むために部屋を分けて作った集合住宅。",
+          "example_ja": "駅から少し遠いアパートに住んでいます。",
+          "example_zh": "我住在离车站稍远的公寓里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "アパートに住む",
+          "zh": "住在公寓里"
+        }
+      ],
+      "usage_note_zh": "通常指出租集合住宅；与「マンション」的区分会因地区和宣传习惯而变化。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指公寓楼或公寓住宅的外来语，例句描述普通居住情况。",
+        "dictionary_sequences": [
+          1017760
+        ],
+        "identity": {
+          "word": "アパート",
+          "reading_hiragana": "アパート",
+          "meaning": "「アパートメント・ハウス」的略语:公寓"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b714e11e44625850",
+      "index": 309,
+      "word": "狭い",
+      "reading_hiragana": "せまい",
+      "context_meaning_zh": "狭小",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "狭小",
+          "meaning_ja": "幅や面積が小さく、使える空間が限られている様子。",
+          "example_ja": "この道は狭くて、車が一台しか通れません。",
+          "example_zh": "这条路很窄，只能通过一辆车。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "狭い道",
+          "zh": "狭窄的道路"
+        }
+      ],
+      "usage_note_zh": "形容道路、房间等空间小；比「小さい」更强调宽度或空间受限。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "房间狭小的例句对应空间义；词典另收范围有限及心胸狭窄的引申义。",
+        "dictionary_sequences": [
+          1237680
+        ],
+        "identity": {
+          "word": "狭い",
+          "reading_hiragana": "せまい",
+          "meaning": "狭小"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7e3565dee463d0ab",
+      "index": 310,
+      "word": "数字",
+      "reading_hiragana": "すうじ",
+      "context_meaning_zh": "数字",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数字",
+          "meaning_ja": "数を表すために書く記号。",
+          "example_ja": "電話番号の数字を紙に書きました。",
+          "example_zh": "我把电话号码的数字写在纸上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "数字を書く",
+          "zh": "写数字"
+        }
+      ],
+      "usage_note_zh": "指表示数的符号；「番号」是编号本身，「数字」是构成编号的数字符号。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "时钟显示的编号以数字呈现，属于数字符号名词；句子较短但词义明确。",
+        "dictionary_sequences": [
+          1373060
+        ],
+        "identity": {
+          "word": "数字",
+          "reading_hiragana": "すうじ",
+          "meaning": "数字"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a4a9be12ec14f81d",
+      "index": 311,
+      "word": "柔らかい",
+      "reading_hiragana": "やわらかい",
+      "context_meaning_zh": "柔软的、柔和的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "柔软的、柔和的",
+          "meaning_ja": "押したり触ったりしたときに、硬く感じない様子。",
+          "example_ja": "この枕は柔らかくて、よく眠れます。",
+          "example_zh": "这个枕头很柔软，能睡个好觉。"
+        },
+        {
+          "meaning_zh": "柔和的",
+          "meaning_ja": "光や音、表現などが穏やかで、強く感じられない様子。",
+          "example_ja": "窓から柔らかい光が入ります。",
+          "example_zh": "柔和的光从窗户照进来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "柔らかい布",
+          "zh": "柔软的布"
+        }
+      ],
+      "usage_note_zh": "物体质地软，也可形容光线、声音或表达温和；本课例句取物理柔软义。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "面包口感柔软及音乐感觉柔和均为い形容词的具体与比喻用法。",
+        "dictionary_sequences": [
+          1605630
+        ],
+        "identity": {
+          "word": "柔らかい",
+          "reading_hiragana": "やわらかい",
+          "meaning": "柔软的、柔和的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-816beed90ddcae1b",
+      "index": 312,
+      "word": "暗い",
+      "reading_hiragana": "くらい",
+      "context_meaning_zh": "暗;黑暗;阴沉",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "暗;黑暗;阴沉",
+          "meaning_ja": "光が少なく、物がはっきり見えない様子。また、気分が沈んだ様子。",
+          "example_ja": "日が落ちると、道が暗くなります。",
+          "example_zh": "太阳落山后，道路会变暗。"
+        },
+        {
+          "meaning_zh": "阴沉的",
+          "meaning_ja": "気分や雰囲気が沈んで、明るくない様子。",
+          "example_ja": "彼は暗い顔で教室に入りました。",
+          "example_zh": "他神情阴郁地走进教室。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "暗い部屋",
+          "zh": "昏暗的房间"
+        }
+      ],
+      "usage_note_zh": "可写光线不足，也可写心情或气氛低沉；「明るい」可作光线义反义词。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "形容夜路光线不足而看不清；词典另有心情、颜色等引申义，本语境取物理昏暗义。",
+        "dictionary_sequences": [
+          1154330
+        ],
+        "identity": {
+          "word": "暗い",
+          "reading_hiragana": "くらい",
+          "meaning": "暗;黑暗;阴沉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b6940e607efabdc3",
+      "index": 313,
+      "word": "感じ",
+      "reading_hiragana": "かんじ",
+      "context_meaning_zh": "感觉",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "感觉",
+          "meaning_ja": "見たり聞いたりしたときに心に生まれる印象や気持ち。",
+          "example_ja": "初めて会った人は感じがよかったです。",
+          "example_zh": "第一次见到的那个人给人的印象很好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "感じがいい",
+          "zh": "感觉不错"
+        }
+      ],
+      "usage_note_zh": "常用「感じがする」「感じがいい／悪い」；与读音相同的「漢字」意义不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「明るい感じ」是房间给人的感觉或印象名词，辞书 feeling/sense/impression 义准确。",
+        "dictionary_sequences": [
+          1212250
+        ],
+        "identity": {
+          "word": "感じ",
+          "reading_hiragana": "かんじ",
+          "meaning": "感觉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b4aa601a459993ab",
+      "index": 314,
+      "word": "匂い",
+      "reading_hiragana": "におい",
+      "context_meaning_zh": "气味儿、香气",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "气味儿、香气",
+          "meaning_ja": "物から出て、鼻で感じるもの。",
+          "example_ja": "台所から甘い匂いがします。",
+          "example_zh": "厨房飘来一股甜甜的气味。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "匂いがする",
+          "zh": "有气味"
+        }
+      ],
+      "usage_note_zh": "可为好闻或难闻，不等于“香气”；「いい匂い」「嫌な匂い」由评价词区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "面包香气与垃圾异味均为嗅觉气味名词义。",
+        "dictionary_sequences": [
+          1599760
+        ],
+        "identity": {
+          "word": "匂い",
+          "reading_hiragana": "におい",
+          "meaning": "气味儿、香气"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-263a618e639dc09c",
+      "index": 315,
+      "word": "空気",
+      "reading_hiragana": "くうき",
+      "context_meaning_zh": "空气",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "空气",
+          "meaning_ja": "地球の周りや部屋の中にあり、人や動物が息をするときに取り入れる気体。",
+          "example_ja": "窓を開けると、新鮮な空気が入ってきます。",
+          "example_zh": "打开窗户后，新鲜空气会进来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "部屋の空気を入れ替える",
+          "zh": "给房间换气"
+        }
+      ],
+      "usage_note_zh": "本课为气体义；也可比喻现场气氛，如「会議の空気」，但本条不作新增义项。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课指室内空气状况；词典另收现场气氛等义，但当前房间与通风语境取气体义。",
+        "dictionary_sequences": [
+          1245470
+        ],
+        "identity": {
+          "word": "空気",
+          "reading_hiragana": "くうき",
+          "meaning": "空气"
+        }
+      }
+    }
+  ]
+}

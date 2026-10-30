@@ -1,0 +1,4769 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow1",
+  "lesson_id": "lesson_09",
+  "entries": [
+    {
+      "textbook_uid": "cfv-658b3d8a79067da2",
+      "index": 316,
+      "word": "昨日",
+      "reading_hiragana": "きのう",
+      "context_meaning_zh": "昨天",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "昨天",
+          "meaning_ja": "今日の前の日。",
+          "example_ja": "昨日、駅で先生に会いました。",
+          "example_zh": "昨天在车站遇到了老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "昨日の朝",
+          "zh": "昨天早晨"
+        }
+      ],
+      "usage_note_zh": "会話では「きのう」と読む。書き言葉では「さくじつ」もあるが、ここでは指定の読みを扱う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "昨日是相对今天的前一天，句中直接作主语；课程指定读音きのう，另有较正式的さくじつ读法。",
+        "dictionary_sequences": [
+          1579260
+        ],
+        "identity": {
+          "word": "昨日",
+          "reading_hiragana": "きのう",
+          "meaning": "昨天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5bc8be2d73c915c6",
+      "index": 317,
+      "word": "一昨日",
+      "reading_hiragana": "おととい",
+      "context_meaning_zh": "前天",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "前天",
+          "meaning_ja": "今日から二日前にあたる日。",
+          "example_ja": "一昨日、家族と映画を見ました。",
+          "example_zh": "前天和家人看了电影。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一昨日の夜",
+          "zh": "前天晚上"
+        }
+      ],
+      "usage_note_zh": "「おととい」は日常会話で使う読み。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "一昨日表示今天前两天，句中作时间名词并可直接作时间状语；礼貌句尾不改变词语语体。",
+        "dictionary_sequences": [
+          1576050
+        ],
+        "identity": {
+          "word": "一昨日",
+          "reading_hiragana": "おととい",
+          "meaning": "前天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c5e91f8540ba7939",
+      "index": 318,
+      "word": "先週",
+      "reading_hiragana": "せんしゅう",
+      "context_meaning_zh": "上周",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "上周",
+          "meaning_ja": "今週より一つ前の週。",
+          "example_ja": "先週は毎日忙しかったです。",
+          "example_zh": "上周每天都很忙。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先週の土曜日",
+          "zh": "上周六"
+        }
+      ],
+      "usage_note_zh": "週の区切りは文脈や暦によるが、相対的に一つ前の週を指す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "先週のクラス指上周的课堂，词典列时间名词及副词用法；礼貌句尾です不改变词条语体。",
+        "dictionary_sequences": [
+          1387870
+        ],
+        "identity": {
+          "word": "先週",
+          "reading_hiragana": "せんしゅう",
+          "meaning": "上周"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c598889b18926418",
+      "index": 319,
+      "word": "先月",
+      "reading_hiragana": "せんげつ",
+      "context_meaning_zh": "上个月",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "上个月",
+          "meaning_ja": "今月より一つ前の月。",
+          "example_ja": "先月、京都へ旅行しました。",
+          "example_zh": "上个月去京都旅行了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先月の終わり",
+          "zh": "上个月月底"
+        }
+      ],
+      "usage_note_zh": "「先月に」より「先月」だけで時を示す形が自然。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "询问上个月旅行情况，先月作时间名词；词典亦标副词用法。",
+        "dictionary_sequences": [
+          1387500
+        ],
+        "identity": {
+          "word": "先月",
+          "reading_hiragana": "せんげつ",
+          "meaning": "上个月"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a1029f2c4b88349f",
+      "index": 320,
+      "word": "去年",
+      "reading_hiragana": "きょねん",
+      "context_meaning_zh": "去年",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "去年",
+          "meaning_ja": "現在の年より一つ前の年。",
+          "example_ja": "去年は日本語を勉強し始めました。",
+          "example_zh": "去年开始学习日语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "去年の夏",
+          "zh": "去年夏天"
+        }
+      ],
+      "usage_note_zh": "会話でよく使う年の言い方。書き言葉では「昨年」も使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "去年可作时间名词或副词；本例「去年の一月」作名词修饰时间，未体现礼貌语体。",
+        "dictionary_sequences": [
+          1231690
+        ],
+        "identity": {
+          "word": "去年",
+          "reading_hiragana": "きょねん",
+          "meaning": "去年"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b281b1b487b52f0b",
+      "index": 321,
+      "word": "今朝",
+      "reading_hiragana": "けさ",
+      "context_meaning_zh": "今天早晨",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "今天早晨",
+          "meaning_ja": "今日、朝の時間にあたるころ。",
+          "example_ja": "今朝は六時に起きました。",
+          "example_zh": "今天早上六点起床了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "今朝早く",
+          "zh": "今天早些时候"
+        }
+      ],
+      "usage_note_zh": "「今朝」は今日の朝を指し、「朝」だけより日付が明確。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "今朝是时间名词，也可作时间副词；句中的「起きました」只体现句尾礼貌，词项本身不带敬语标签。",
+        "dictionary_sequences": [
+          1579100
+        ],
+        "identity": {
+          "word": "今朝",
+          "reading_hiragana": "けさ",
+          "meaning": "今天早晨"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bd824bdebdcae4be",
+      "index": 322,
+      "word": "週末",
+      "reading_hiragana": "しゅうまつ",
+      "context_meaning_zh": "周末",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "周末",
+          "meaning_ja": "一週間の終わりごろの土日を中心とする期間。",
+          "example_ja": "週末は友だちと散歩します。",
+          "example_zh": "周末和朋友散步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "週末に出かける",
+          "zh": "周末出门"
+        }
+      ],
+      "usage_note_zh": "「週末」具体包含周六、周日还是其他休息日，可能因工作安排和生活习惯而异。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「週末」指一周末尾的时段；词典兼列名词与时间副词，例句多作时间名词并可充当时间状语。",
+        "dictionary_sequences": [
+          1333520
+        ],
+        "identity": {
+          "word": "週末",
+          "reading_hiragana": "しゅうまつ",
+          "meaning": "周末"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-477a2e09355c6b8f",
+      "index": 323,
+      "word": "休む",
+      "reading_hiragana": "やすむ",
+      "context_meaning_zh": "休息或暂停工作学习",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "休息或暂停工作学习",
+          "meaning_ja": "仕事や勉強を一時止めて、体を休める。",
+          "example_ja": "疲れたので、今日は早く休みます。",
+          "example_zh": "因为累了，今天早点休息。"
+        },
+        {
+          "meaning_zh": "请假；缺席",
+          "meaning_ja": "仕事や学校に行かず、その日の勤務や授業を休む。",
+          "example_ja": "熱があるので、今日は学校を休みます。",
+          "example_zh": "因为发烧，今天向学校请假。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "学校を休む",
+          "zh": "向学校请假"
+        }
+      ],
+      "usage_note_zh": "「仕事を休む」は仕事に出ないこと。「休んでください」は休息的建议。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "雨天在家休息半天；词典列自五段，地点家で不构成宾语。",
+        "dictionary_sequences": [
+          1227560
+        ],
+        "identity": {
+          "word": "休む",
+          "reading_hiragana": "やすむ",
+          "meaning": "休息或暂停工作学习"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-afb1076ecd9f9046",
+      "index": 324,
+      "word": "会う",
+      "reading_hiragana": "あう",
+      "context_meaning_zh": "见面",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "见面",
+          "meaning_ja": "人と同じ場所で顔を合わせる。",
+          "example_ja": "駅の入口で友だちに会いました。",
+          "example_zh": "在车站入口见到了朋友。"
+        },
+        {
+          "meaning_zh": "偶遇",
+          "meaning_ja": "偶然その人に出会う。",
+          "example_ja": "道で昔の友だちに会って、少し話しました。",
+          "example_zh": "在路上偶遇了老朋友，聊了一会儿。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "友だちに会う",
+          "zh": "见朋友"
+        }
+      ],
+      "usage_note_zh": "相手を示す助词通常用「に」；表示让双方安排时间相合时用他动词「会わせる」，不要与「会う」混淆。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「リンさんと会う」以「と」标会面对象；会う是五段自动词，不能仅因中文可说‘见某人’而标他动。",
+        "dictionary_sequences": [
+          1198180
+        ],
+        "identity": {
+          "word": "会う",
+          "reading_hiragana": "あう",
+          "meaning": "见面"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5f46de1404658b21",
+      "index": 325,
+      "word": "遊ぶ",
+      "reading_hiragana": "あそぶ",
+      "context_meaning_zh": "玩或休闲",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "玩或休闲",
+          "meaning_ja": "遊びや趣味の活動をして楽しい時間を過ごす。",
+          "example_ja": "子どもたちは公園で遊んでいます。",
+          "example_zh": "孩子们正在公园里玩。"
+        },
+        {
+          "meaning_zh": "与人交往；一起玩",
+          "meaning_ja": "人と一緒に出かけたり、交流したりする。",
+          "example_ja": "休みの日に友だちと遊びました。",
+          "example_zh": "休息日和朋友一起出去玩了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "友だちと遊ぶ",
+          "zh": "和朋友玩"
+        }
+      ],
+      "usage_note_zh": "場所には「で」、一緒にする相手には「と」を使う。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "周日和朋友一起玩，词典支持五段不及物义；词典另收与人玩闹或戏弄的特殊用法。",
+        "dictionary_sequences": [
+          1542160
+        ],
+        "identity": {
+          "word": "遊ぶ",
+          "reading_hiragana": "あそぶ",
+          "meaning": "玩或休闲"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5d0498a73c307f18",
+      "index": 326,
+      "word": "散歩する",
+      "reading_hiragana": "さんぽする",
+      "context_meaning_zh": "散步",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "散步",
+          "meaning_ja": "歩いて気分転換する。",
+          "example_ja": "夕食のあと、川の近くを散歩しました。",
+          "example_zh": "晚饭后在河边散了步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "公園を散歩する",
+          "zh": "在公园散步"
+        }
+      ],
+      "usage_note_zh": "常说「公園を散歩する」；这里的「を」表示散步经过或活动的范围。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“散歩する”由散歩名词加する构成不及物活动动词；例句以公园で标示散步地点。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "散歩する",
+          "reading_hiragana": "さんぽする",
+          "meaning": "散步"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1463b82e4f0a541f",
+      "index": 327,
+      "word": "始まる",
+      "reading_hiragana": "はじまる",
+      "context_meaning_zh": "开始",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "开始",
+          "meaning_ja": "物事や行事が動き出す。",
+          "example_ja": "会議は午後二時に始まります。",
+          "example_zh": "会议下午两点开始。"
+        },
+        {
+          "meaning_zh": "开始做；着手",
+          "meaning_ja": "物事を新たに開始する。",
+          "example_ja": "店は来月から営業を始めます。",
+          "example_zh": "店从下个月开始营业。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "授業が始まる",
+          "zh": "课程开始"
+        }
+      ],
+      "usage_note_zh": "自動詞なので始まるものを「が」で示す。人が開始する場合は「始める」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "始まる是五段自动词，电影在两点开始由时间に标起点；词典还列重新发生和起源义，本例为事件开始。",
+        "dictionary_sequences": [
+          1307500
+        ],
+        "identity": {
+          "word": "始まる",
+          "reading_hiragana": "はじまる",
+          "meaning": "开始"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cfb9ef727bc22393",
+      "index": 328,
+      "word": "終わる",
+      "reading_hiragana": "おわる",
+      "context_meaning_zh": "结束",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "结束",
+          "meaning_ja": "続いていた物事や行事がそこで終わる。",
+          "example_ja": "映画は九時に終わりました。",
+          "example_zh": "电影九点结束了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "授業が終わる",
+          "zh": "课程结束"
+        }
+      ],
+      "usage_note_zh": "自動詞。「人が仕事を終わる」ではなく、通常「仕事が終わる／仕事を終える」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本句中事件本身结束，词典同一词条也明确收录完成某事的他动用法；因此词项整体保留自他两用。",
+        "dictionary_sequences": [
+          1589600
+        ],
+        "identity": {
+          "word": "終わる",
+          "reading_hiragana": "おわる",
+          "meaning": "结束"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-45f99b18e1a5c841",
+      "index": 329,
+      "word": "それから",
+      "reading_hiragana": "それから",
+      "context_meaning_zh": "然后或接着",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "然后或接着",
+          "meaning_ja": "先に述べたことのあとに、次のことを続けて述べる語。",
+          "example_ja": "駅で切符を買いました。それから、電車に乗りました。",
+          "example_zh": "在车站买了票。然后上了电车。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "それから読む",
+          "zh": "然后阅读"
+        }
+      ],
+      "usage_note_zh": "文と文をつなぎ、時間順の後続を示す。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句首「それから」承接前事叙述下一步，词典释义and then相符；教材句只支持顺序连接用法。",
+        "dictionary_sequences": [
+          1006980
+        ],
+        "identity": {
+          "word": "それから",
+          "reading_hiragana": "それから",
+          "meaning": "然后或接着"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-18c3bab6fbefca42",
+      "index": 330,
+      "word": "最後",
+      "reading_hiragana": "さいご",
+      "context_meaning_zh": "最后一个阶段或位置",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "最后一个阶段或位置",
+          "meaning_ja": "順序や時間のいちばん後にあること。",
+          "example_ja": "この道をまっすぐ行くと、最後に郵便局があります。",
+          "example_zh": "沿这条路直走，最后有邮局。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "最後まで読む",
+          "zh": "读到最后"
+        }
+      ],
+      "usage_note_zh": "「最後のページ」のように名詞を修飾し、「最後に」で順序を示す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "行程的「最後に」表示最后步骤，「最後」是时间顺序名词加に形成的副词性结构。",
+        "dictionary_sequences": [
+          1293810
+        ],
+        "identity": {
+          "word": "最後",
+          "reading_hiragana": "さいご",
+          "meaning": "最后一个阶段或位置"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a9e2d5fb4fb091ae",
+      "index": 331,
+      "word": "まず",
+      "reading_hiragana": "まず",
+      "context_meaning_zh": "首先",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "首先",
+          "meaning_ja": "いくつかの行動のうち、最初に行うことを示す語。",
+          "example_ja": "まず、地図で駅の場所を調べましょう。",
+          "example_zh": "首先用地图查一下车站的位置吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "まず確認する",
+          "zh": "先确认"
+        }
+      ],
+      "usage_note_zh": "話の順序を示す副詞で、後に「次に」などが続くことがある。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句以「まず」安排会面为首项，匹配词典首先义；不采用概率、总体评价、暂且等其他义项。",
+        "dictionary_sequences": [
+          1387240
+        ],
+        "identity": {
+          "word": "まず",
+          "reading_hiragana": "まず",
+          "meaning": "首先"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-75af2d7e0501cf97",
+      "index": 332,
+      "word": "休み",
+      "reading_hiragana": "やすみ",
+      "context_meaning_zh": "休息日或休息时段",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "休息日或休息时段",
+          "meaning_ja": "仕事や活動を止めて過ごす時間、または仕事・学校のない日。",
+          "example_ja": "日曜日は休みなので、家で本を読みます。",
+          "example_zh": "星期天休息，所以在家读书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "休みの日",
+          "zh": "休息日"
+        }
+      ],
+      "usage_note_zh": "「休む」は動作、「休み」は休む時間や休日を表す名詞。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“今日は休み”中表示预定休息日或放假，JMdict列有休息及假日等名词义。",
+        "dictionary_sequences": [
+          1227500
+        ],
+        "identity": {
+          "word": "休み",
+          "reading_hiragana": "やすみ",
+          "meaning": "休息日或休息时段"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ee903c87c1fea00b",
+      "index": 333,
+      "word": "雨",
+      "reading_hiragana": "あめ",
+      "context_meaning_zh": "雨",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "雨",
+          "meaning_ja": "雲から水滴が地上へ落ちる天気現象。",
+          "example_ja": "午後から雨が降るそうです。",
+          "example_zh": "听说下午开始下雨。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "雨が降る",
+          "zh": "下雨"
+        }
+      ],
+      "usage_note_zh": "天候を述べるときは「雨が降る」が基本的な組み合わせ。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "上午下雨的天气名词用法，词典的rain、rainy day义均可涵盖；未见特定语域。",
+        "dictionary_sequences": [
+          1171900
+        ],
+        "identity": {
+          "word": "雨",
+          "reading_hiragana": "あめ",
+          "meaning": "雨"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a82b9822e2aecbf5",
+      "index": 334,
+      "word": "雪",
+      "reading_hiragana": "ゆき",
+      "context_meaning_zh": "雪",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "雪",
+          "meaning_ja": "空から降る白い氷の結晶、または地面に積もったもの。",
+          "example_ja": "夜の間に雪がたくさん積もりました。",
+          "example_zh": "一夜之间积了很多雪。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "雪が降る",
+          "zh": "下雪"
+        }
+      ],
+      "usage_note_zh": "「降る」は雨や雪など空から落ちるものに使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「去年の一月は雪でした」省略天气状态谓语，雪仍是降雪名词；前句询问当时是否暖和。",
+        "dictionary_sequences": [
+          1386500
+        ],
+        "identity": {
+          "word": "雪",
+          "reading_hiragana": "ゆき",
+          "meaning": "雪"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-abd3b5c19fe1453f",
+      "index": 335,
+      "word": "天気",
+      "reading_hiragana": "てんき",
+      "context_meaning_zh": "天气",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "天气",
+          "meaning_ja": "空の様子や、雨・雪・風などの状態。",
+          "example_ja": "明日は天気がよければ、海へ行きます。",
+          "example_zh": "如果明天天气好，就去海边。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "天気がいい",
+          "zh": "天气好"
+        }
+      ],
+      "usage_note_zh": "「天気がいい／悪い」の形で天候を評価する。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「天気はよかった」陈述当天气象，例句中也提到机场交通但不影响词义。",
+        "dictionary_sequences": [
+          1438690
+        ],
+        "identity": {
+          "word": "天気",
+          "reading_hiragana": "てんき",
+          "meaning": "天气"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f7b38636f422f1fc",
+      "index": 336,
+      "word": "映画",
+      "reading_hiragana": "えいが",
+      "context_meaning_zh": "电影",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "电影",
+          "meaning_ja": "映像と音を組み合わせ、劇や物語などを見せる作品。",
+          "example_ja": "この映画は家族みんなで楽しめます。",
+          "example_zh": "这部电影全家人都能看得开心。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "映画を見る",
+          "zh": "看电影"
+        }
+      ],
+      "usage_note_zh": "作品には「映画を」、放映場所には「映画館で」を使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指车站附近观看的电影作品；与词典电影义吻合。",
+        "dictionary_sequences": [
+          1173720
+        ],
+        "identity": {
+          "word": "映画",
+          "reading_hiragana": "えいが",
+          "meaning": "电影"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9c3444a0187528e2",
+      "index": 337,
+      "word": "音楽",
+      "reading_hiragana": "おんがく",
+      "context_meaning_zh": "音乐",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "音乐",
+          "meaning_ja": "歌や楽器の音を組み合わせたもの。",
+          "example_ja": "料理をしながら音楽を聞きます。",
+          "example_zh": "一边做饭一边听音乐。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "音楽を聞く",
+          "zh": "听音乐"
+        }
+      ],
+      "usage_note_zh": "音や曲を聞くとき「音楽を聞く」と言う；演奏するなら「音楽を演奏する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "电影音乐是音楽名词的具体作品用法，词典music义适合；こんばんは只是同句问候，不改变词项语体。",
+        "dictionary_sequences": [
+          1183720
+        ],
+        "identity": {
+          "word": "音楽",
+          "reading_hiragana": "おんがく",
+          "meaning": "音乐"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b6013820c951604b",
+      "index": 338,
+      "word": "旅行",
+      "reading_hiragana": "りょこう",
+      "context_meaning_zh": "旅行",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "旅行",
+          "meaning_ja": "別の場所へ行き、そこで一定の時間を過ごすこと。",
+          "example_ja": "夏休みに家族で北海道を旅行しました。",
+          "example_zh": "暑假和家人去北海道旅行了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "旅行に行く",
+          "zh": "去旅行"
+        }
+      ],
+      "usage_note_zh": "名詞として「旅行に行く」、サ変動詞として「旅行する」と使える。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "询问上月旅行情况时为名词；词典还列不及物サ变。对方称呼和句尾敬体不转嫁为词项礼貌标签。",
+        "dictionary_sequences": [
+          1553170
+        ],
+        "identity": {
+          "word": "旅行",
+          "reading_hiragana": "りょこう",
+          "meaning": "旅行"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2e674e3cddda77dc",
+      "index": 339,
+      "word": "買い物",
+      "reading_hiragana": "かいもの",
+      "context_meaning_zh": "购物",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "购物",
+          "meaning_ja": "店などで必要な品物を選び、代金を払って手に入れること。",
+          "example_ja": "母と市場へ買い物に行きました。",
+          "example_zh": "和妈妈去市场购物了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "買い物に行く",
+          "zh": "去购物"
+        }
+      ],
+      "usage_note_zh": "目的を表す「買い物に行く」の形がよく使われる。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "下午进行了买东西活动，符合辞典购物名词和自サ义；词典另列购买物品的名词义，此例未用。",
+        "dictionary_sequences": [
+          1589730
+        ],
+        "identity": {
+          "word": "買い物",
+          "reading_hiragana": "かいもの",
+          "meaning": "购物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7ed2f170d78850f9",
+      "index": 340,
+      "word": "午前中",
+      "reading_hiragana": "ごぜんちゅう",
+      "context_meaning_zh": "上午期间",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "上午期间",
+          "meaning_ja": "午前の時間帯の中。",
+          "example_ja": "午前中にレポートを書き終えました。",
+          "example_zh": "上午写完了报告。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "午前中は忙しい",
+          "zh": "上午很忙"
+        }
+      ],
+      "usage_note_zh": "「午前中」は午前の間をひとまとまりに示す。時刻とは異なり「午前中に」と言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「午前中は雨」把上午作为时间段主题，词典亦列上午期间名词义；指上午时段而非具体时刻。",
+        "dictionary_sequences": [
+          1269070
+        ],
+        "identity": {
+          "word": "午前中",
+          "reading_hiragana": "ごぜんちゅう",
+          "meaning": "上午期间"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3b1b6a1c566a625d",
+      "index": 341,
+      "word": "午後",
+      "reading_hiragana": "ごご",
+      "context_meaning_zh": "下午",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "下午",
+          "meaning_ja": "正午より後、夜になるまでの時間帯。",
+          "example_ja": "午後は図書館で勉強します。",
+          "example_zh": "下午在图书馆学习。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "午後三時",
+          "zh": "下午三点"
+        }
+      ],
+      "usage_note_zh": "時刻の前に置いて正午後であることを表す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "午後作时间名词，句中与雨形成主题陈述。",
+        "dictionary_sequences": [
+          1268990
+        ],
+        "identity": {
+          "word": "午後",
+          "reading_hiragana": "ごご",
+          "meaning": "下午"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-10ef359df76c9bc6",
+      "index": 342,
+      "word": "ホテル",
+      "reading_hiragana": "ホテル",
+      "context_meaning_zh": "旅馆、宾馆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "旅馆、宾馆",
+          "meaning_ja": "旅行者などが泊まり、休むための施設。",
+          "example_ja": "空港の近くのホテルに泊まりました。",
+          "example_zh": "住在机场附近的酒店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ホテルに泊まる",
+          "zh": "住酒店"
+        }
+      ],
+      "usage_note_zh": "宿泊先には「ホテルに」、そこで何かをする場所には「ホテルで」を使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "酒店作为住宿地点由ホテルへ标示，辞书义hotel吻合；句末礼貌体不使名词产生礼貌标签。",
+        "dictionary_sequences": [
+          1122650
+        ],
+        "identity": {
+          "word": "ホテル",
+          "reading_hiragana": "ホテル",
+          "meaning": "旅馆、宾馆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f7ca28f7b4329a28",
+      "index": 343,
+      "word": "よろしくおねがいします",
+      "reading_hiragana": "よろしくおねがいします",
+      "context_meaning_zh": "请多多关照",
+      "pos_ja": "表現・挨拶・定型表現・丁寧形",
+      "pos_zh": "表达・问候语・固定表达・礼貌形式",
+      "register_zh": "中性・礼貌语",
+      "senses": [
+        {
+          "meaning_zh": "请多多关照",
+          "meaning_ja": "相手に配慮し、これからの関係や依頼を丁寧に伝える定型のあいさつ。",
+          "example_ja": "新しい先生に、よろしくお願いしますと言いました。",
+          "example_zh": "我对新老师说了“请多多关照”。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どうぞよろしくお願いします",
+          "zh": "请多多关照"
+        }
+      ],
+      "usage_note_zh": "通常用于初次见面或提出请求；「おねがいします」は依頼にも使う。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "greeting",
+          "fixed_expression",
+          "polite_form"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "polite"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "这是初次见面时使用的固定寒暄，词典标明礼貌用法；礼貌性由整句表达支持，常规场合使用不足以单独判为正式语体。",
+        "dictionary_sequences": [
+          2133750
+        ],
+        "identity": {
+          "word": "よろしくおねがいします",
+          "reading_hiragana": "よろしくおねがいします",
+          "meaning": "请多多关照"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3bed2112eb66842f",
+      "index": 344,
+      "word": "日記",
+      "reading_hiragana": "にっき",
+      "context_meaning_zh": "日记",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日记",
+          "meaning_ja": "日々の出来事や考えを書き記すこと、またその記録。",
+          "example_ja": "寝る前に日記を書いています。",
+          "example_zh": "睡前写日记。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日記を書く",
+          "zh": "写日记"
+        }
+      ],
+      "usage_note_zh": "書く対象には「を」を使う。記録した冊子は「日記帳」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "日记是记录日常事项的个人文体，例句说在日记本里写日记；词典匹配。",
+        "dictionary_sequences": [
+          1463930
+        ],
+        "identity": {
+          "word": "日記",
+          "reading_hiragana": "にっき",
+          "meaning": "日记"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2eaee334a742e05a",
+      "index": 345,
+      "word": "どうもありがとうございました",
+      "reading_hiragana": "どうもありがとうございました",
+      "context_meaning_zh": "谢谢",
+      "pos_ja": "表現・定型表現・丁寧形",
+      "pos_zh": "表达・固定表达・礼貌形式",
+      "register_zh": "中性・礼貌语",
+      "senses": [
+        {
+          "meaning_zh": "谢谢",
+          "meaning_ja": "相手の親切や行為に対して、丁寧に感謝を伝える言葉。",
+          "example_ja": "荷物を運んでくださって、どうもありがとうございました。",
+          "example_zh": "谢谢您帮我搬行李。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どうもありがとうございました",
+          "zh": "非常感谢"
+        }
+      ],
+      "usage_note_zh": "「ございました」は「ございます」の過去形で、済んだ行為への感謝に使う。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression",
+          "polite_form"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "polite"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "固定表达「どうもありがとうございました」用于向对方为既往行为致谢，词形本身带礼貌表达但并非只限正式场合，故formality为neutral、politeness为polite。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "どうもありがとうございました",
+          "reading_hiragana": "どうもありがとうございました",
+          "meaning": "谢谢"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e0ef291d193e8a3b",
+      "index": 346,
+      "word": "この間",
+      "reading_hiragana": "このあいだ",
+      "context_meaning_zh": "前几天、不久以前；前些日子",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "前几天、不久以前；前些日子",
+          "meaning_ja": "話し手から見て少し前の時点・日を指す表現。",
+          "example_ja": "この間、駅前の店で先生に会いました。",
+          "example_zh": "前几天在车站前的店里遇到了老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "この間の話",
+          "zh": "前几天说的事"
+        }
+      ],
+      "usage_note_zh": "会話では「このあいだ」と読む。幅のある時間を指し、厳密な日付ではない。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「この間」兼时间名词和副词，感谢语中以话题名词用法回指近期往事；词典标两类。",
+        "dictionary_sequences": [
+          1004690
+        ],
+        "identity": {
+          "word": "この間",
+          "reading_hiragana": "このあいだ",
+          "meaning": "前几天、不久以前；前些日子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3ad0585d8fe58f0f",
+      "index": 347,
+      "word": "この前",
+      "reading_hiragana": "このまえ",
+      "context_meaning_zh": "上次、上回",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "上次、上回",
+          "meaning_ja": "話し手から見て少し前の出来事や機会を指す表現。",
+          "example_ja": "この前買った靴を旅行に持っていきます。",
+          "example_zh": "把上次买的鞋带去旅行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "この前の旅行",
+          "zh": "上次的旅行"
+        }
+      ],
+      "usage_note_zh": "「この間」と近いが、過去の特定の機会を指す言い方。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「この前の映画」中作时间名词修饰电影；句尾「ですね」表达会话语气，不是该词自身的礼貌标签。",
+        "dictionary_sequences": [
+          2216900
+        ],
+        "identity": {
+          "word": "この前",
+          "reading_hiragana": "このまえ",
+          "meaning": "上次、上回"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c609f7429ec45f7",
+      "index": 348,
+      "word": "乗り換える",
+      "reading_hiragana": "のりかえる",
+      "context_meaning_zh": "改乘、换乘",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "改乘、换乘",
+          "meaning_ja": "乗っている乗り物を降り、別の乗り物へ移る。",
+          "example_ja": "次の駅で地下鉄に乗り換えます。",
+          "example_zh": "在下一站换乘地铁。"
+        },
+        {
+          "meaning_zh": "换乘；更换",
+          "meaning_ja": "乗り物や担当などを別のものに替える。",
+          "example_ja": "空港で別の飛行機に乗り換えました。",
+          "example_zh": "在机场换乘了另一架飞机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電車を乗り換える",
+          "zh": "换乘电车"
+        }
+      ],
+      "usage_note_zh": "乗り換え先には「に」を使う。乗り物を替える動作を表す。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "一段动词；从一号线改乘时新交通工具用に标记，原交通工具可用から表示。",
+        "dictionary_sequences": [
+          1600470
+        ],
+        "identity": {
+          "word": "乗り換える",
+          "reading_hiragana": "のりかえる",
+          "meaning": "改乘、换乘"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c42073585c3ec3a4",
+      "index": 349,
+      "word": "空港",
+      "reading_hiragana": "くうこう",
+      "context_meaning_zh": "机场",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "机场",
+          "meaning_ja": "飛行機が発着し、乗客や荷物を扱う施設。",
+          "example_ja": "空港までバスで一時間かかります。",
+          "example_zh": "坐公交车到机场要一个小时。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "空港に着く",
+          "zh": "到达机场"
+        }
+      ],
+      "usage_note_zh": "行き先には「へ／に」、施設内での動作には「で」を使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "机场设施名词，本课叙述从机场乘电车去酒店；礼貌体是句子风格而非词汇敬语。",
+        "dictionary_sequences": [
+          1245570
+        ],
+        "identity": {
+          "word": "空港",
+          "reading_hiragana": "くうこう",
+          "meaning": "机场"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-014f48d6fa50cd49",
+      "index": 350,
+      "word": "タクシー",
+      "reading_hiragana": "タクシー",
+      "context_meaning_zh": "出租汽车",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "出租汽车",
+          "meaning_ja": "客を乗せて目的地まで運ぶ自動車。",
+          "example_ja": "雨が降っていたので、タクシーで帰りました。",
+          "example_zh": "因为下雨，坐出租车回去了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "タクシーに乗る",
+          "zh": "乘出租车"
+        }
+      ],
+      "usage_note_zh": "乗り物を利用する場合は「タクシーに乗る」、手段を示す場合は「タクシーで行く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "出租车这一交通工具名词；本课句中で标明前往机场的手段，教材附带词性误标不符合词典及句法。",
+        "dictionary_sequences": [
+          1076190
+        ],
+        "identity": {
+          "word": "タクシー",
+          "reading_hiragana": "タクシー",
+          "meaning": "出租汽车"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-39f193338e3ec02f",
+      "index": 351,
+      "word": "帰り",
+      "reading_hiragana": "かえり",
+      "context_meaning_zh": "返回；归途",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "返回；归途",
+          "meaning_ja": "帰る途中、または帰ること。",
+          "example_ja": "帰りに駅でパンを買いました。",
+          "example_zh": "回去的路上在车站买了面包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "帰りに寄る",
+          "zh": "回去时顺道拜访"
+        }
+      ],
+      "usage_note_zh": "「帰りに」表示在回去的途中做某事；「帰る」表示回去这一动作本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「帰りは市バスでした」指返程这一行程阶段；词典名词return义吻合，句中未呈现动词活用。",
+        "dictionary_sequences": [
+          1221250
+        ],
+        "identity": {
+          "word": "帰り",
+          "reading_hiragana": "かえり",
+          "meaning": "返回；归途"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fa12b7ef95baad77",
+      "index": 352,
+      "word": "先",
+      "reading_hiragana": "さっき",
+      "context_meaning_zh": "刚才（常用さっき书写）",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "刚才（常用さっき书写）",
+          "meaning_ja": "ごく短い時間前を指す副詞「さっき」を漢字で表した形。",
+          "example_ja": "さっき、受付で名前を書きました。",
+          "example_zh": "刚才在接待处写了名字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先ほど（さっき）",
+          "zh": "刚才"
+        }
+      ],
+      "usage_note_zh": "指定读音为「さっき」，通常写作假名；单独用汉字「先」表示刚才的写法较少见，避免与「先（さき）」混淆。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处词头表刚才，例句明确叙述不久前见到新学生；需区别同形的“先前/前方”读法。",
+        "dictionary_sequences": [
+          1005180
+        ],
+        "identity": {
+          "word": "先",
+          "reading_hiragana": "さっき",
+          "meaning": "刚才（常用さっき书写）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4abb45f1b4f2138b",
+      "index": 353,
+      "word": "駅員",
+      "reading_hiragana": "えきいん",
+      "context_meaning_zh": "车站工作人员",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "车站工作人员",
+          "meaning_ja": "駅で案内や切符の確認などをする職員。",
+          "example_ja": "駅員にホームの場所を聞きました。",
+          "example_zh": "向车站工作人员询问了站台的位置。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅員に聞く",
+          "zh": "问车站工作人员"
+        }
+      ],
+      "usage_note_zh": "人を示す助詞には「に」を使う。列車に乗務する「車掌」と役割が異なる。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与站务员交谈并询问站点的对话语境明确指车站工作人员。",
+        "dictionary_sequences": [
+          1175150
+        ],
+        "identity": {
+          "word": "駅員",
+          "reading_hiragana": "えきいん",
+          "meaning": "车站工作人员"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-68da28ef5b16f791",
+      "index": 354,
+      "word": "車内",
+      "reading_hiragana": "しゃない",
+      "context_meaning_zh": "车内",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "车内",
+          "meaning_ja": "電車やバスなどの乗り物の中。",
+          "example_ja": "車内では携帯電話の音を小さくしてください。",
+          "example_zh": "请把车内手机的声音调小。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "車内アナウンス",
+          "zh": "车内广播"
+        }
+      ],
+      "usage_note_zh": "「車内で」は车厢内的动作或规定；对比「車外」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "車内在例句中作主语，表示车厢内部；词典adj-no是「車内の～」名词修饰，不是独立连体词。",
+        "dictionary_sequences": [
+          1323220
+        ],
+        "identity": {
+          "word": "車内",
+          "reading_hiragana": "しゃない",
+          "meaning": "车内"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f55f1142111cd7fa",
+      "index": 355,
+      "word": "乗客",
+      "reading_hiragana": "じょうきゃく",
+      "context_meaning_zh": "乘客",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乘客",
+          "meaning_ja": "乗り物に乗って移動する人。",
+          "example_ja": "乗客は順番にバスへ乗りました。",
+          "example_zh": "乘客依次上了公交车。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "乗客を案内する",
+          "zh": "引导乘客"
+        }
+      ],
+      "usage_note_zh": "乗り物を利用する側の人を指し、運転手や車掌とは区別する。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中乗客数量较少，指乘坐交通工具的乘客名词，词典释义吻合。",
+        "dictionary_sequences": [
+          1580490
+        ],
+        "identity": {
+          "word": "乗客",
+          "reading_hiragana": "じょうきゃく",
+          "meaning": "乘客"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b70df2b155559de2",
+      "index": 356,
+      "word": "プラットホーム",
+      "reading_hiragana": "プラットホーム",
+      "context_meaning_zh": "站台",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "站台",
+          "meaning_ja": "駅で電車に乗り降りするための長い乗り場。",
+          "example_ja": "プラットホームで友だちを待っています。",
+          "example_zh": "在站台等朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ホームに立つ",
+          "zh": "站在站台上"
+        }
+      ],
+      "usage_note_zh": "「ホーム」とも言う。乗り場を示す語で、家庭の意味の「ホーム」とは文脈で区別する。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "问站台位置，采用车站乘降平台义；来源例句信息有限，但词义和辞书一致。",
+        "dictionary_sequences": [
+          1115820
+        ],
+        "identity": {
+          "word": "プラットホーム",
+          "reading_hiragana": "プラットホーム",
+          "meaning": "站台"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d22e6628d2f95fa3",
+      "index": 357,
+      "word": "一号線",
+      "reading_hiragana": "いちごうせん",
+      "context_meaning_zh": "一号线：线路编号〜号線的实例",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一号线：线路编号〜号線的实例",
+          "meaning_ja": "路線につけた番号が一番であることを示す名称。",
+          "example_ja": "一号線の電車は次の駅に止まります。",
+          "example_zh": "一号线的电车停靠下一站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一号線に乗る",
+          "zh": "乘坐一号线"
+        }
+      ],
+      "usage_note_zh": "「号線」は路線番号につける。番号は路線を区別するもので、駅の番号ではない。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "一号線是依线路编号命名的专名式普通名词，例句表示在港站换乘；数字为序号组成，不足以标数词类别。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "一号線",
+          "reading_hiragana": "いちごうせん",
+          "meaning": "一号线：线路编号〜号線的实例"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9bb9034c2e5366a6",
+      "index": 358,
+      "word": "...行き",
+      "reading_hiragana": "ゆき",
+      "context_meaning_zh": "〜行き：开往某地，ゆき/いき",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "〜行き：开往某地，ゆき/いき",
+          "meaning_ja": "地名などの後に付けて、乗り物や便の行き先を示す接尾表現。",
+          "example_ja": "この電車は新宿行きです。",
+          "example_zh": "这趟电车开往新宿。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "東京行きのバス",
+          "zh": "开往东京的公交车"
+        }
+      ],
+      "usage_note_zh": "接在地名后作「地名行き」，通常读「ゆき」，也可读「いき」。本条按指定读音「ゆき」。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「駅行き」等由「行き」附在交通工具名之前表示目的地，例句中指开往该站的列车。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "...行き",
+          "reading_hiragana": "ゆき",
+          "meaning": "〜行き：开往某地，ゆき/いき"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b3038af8cdc68b68",
+      "index": 359,
+      "word": "いくつ目",
+      "reading_hiragana": "いくつめ",
+      "context_meaning_zh": "第几个",
+      "pos_ja": "表現・数詞・疑問",
+      "pos_zh": "表达・数词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "第几个",
+          "meaning_ja": "同種のものを順に数え、どの位置かを尋ねる語。",
+          "example_ja": "この駅は、ここからいくつ目の駅ですか。",
+          "example_zh": "从这里数这是第几站？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "三つ目の角",
+          "zh": "第三个路口"
+        }
+      ],
+      "usage_note_zh": "「いくつ」に序数の「目」が付き、順番を尋ねる。数える対象を文脈で示す。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression",
+          "numeral"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「いくつ目」以疑问数量词加「目」询问序列位置；例中询问从此处数第几站，不是可独立计数的名词。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "いくつ目",
+          "reading_hiragana": "いくつめ",
+          "meaning": "第几个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2335c84bd3e34cfb",
+      "index": 360,
+      "word": "終点",
+      "reading_hiragana": "しゅうてん",
+      "context_meaning_zh": "终点",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "终点",
+          "meaning_ja": "道や路線の終わりにあたる地点。",
+          "example_ja": "このバスは終点まで行きます。",
+          "example_zh": "这辆公交车开到终点站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "終点に着く",
+          "zh": "到达终点"
+        }
+      ],
+      "usage_note_zh": "列車やバスの運行区間の最後の駅・停留所を指す。物事一般の最後は「最後」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "工作人员解释川站是路线终点站，词典terminus/last stop义吻合；不限定铁路或公交媒介。",
+        "dictionary_sequences": [
+          1332950
+        ],
+        "identity": {
+          "word": "終点",
+          "reading_hiragana": "しゅうてん",
+          "meaning": "终点"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8a199db3a4dce29d",
+      "index": 361,
+      "word": "発車",
+      "reading_hiragana": "はっしゃ",
+      "context_meaning_zh": "发车",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发车",
+          "meaning_ja": "停車中の乗り物が動き出すこと。",
+          "example_ja": "発車のベルが鳴ったので、席に座りました。",
+          "example_zh": "发车铃响了，所以我坐好了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電車が発車する",
+          "zh": "电车发车"
+        }
+      ],
+      "usage_note_zh": "電車などを主語に「発車する」と言う。人が出発する場合は「出発する」が自然。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "列车发车时间及车站语境对应车辆出发；词典支持名词和サ变自动词。",
+        "dictionary_sequences": [
+          1477500
+        ],
+        "identity": {
+          "word": "発車",
+          "reading_hiragana": "はっしゃ",
+          "meaning": "发车"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-44acc1be5dc01ddb",
+      "index": 362,
+      "word": "乗車",
+      "reading_hiragana": "じょうしゃ",
+      "context_meaning_zh": "乘车",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乘车",
+          "meaning_ja": "乗り物に乗ること。",
+          "example_ja": "乗車する前に、切符を用意してください。",
+          "example_zh": "上车前请准备好车票。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "乗車券",
+          "zh": "乘车券"
+        }
+      ],
+      "usage_note_zh": "「乗車」は硬めの語で、案内や掲示でよく使う。日常会話では「乗る」も一般的。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "乗車表示乘坐电车、巴士等的行为，词典列名词及自サ变；当前句说明乘车入口，词语媒介不受句型限制。",
+        "dictionary_sequences": [
+          1355270
+        ],
+        "identity": {
+          "word": "乗車",
+          "reading_hiragana": "じょうしゃ",
+          "meaning": "乘车"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f36e8e4853f41f9f",
+      "index": 363,
+      "word": "各駅",
+      "reading_hiragana": "かくえき",
+      "context_meaning_zh": "各个车站",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "各个车站",
+          "meaning_ja": "一つ一つの駅をそれぞれ指す語。",
+          "example_ja": "この電車は各駅に止まります。",
+          "example_zh": "这趟电车每站都停。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "各駅停車",
+          "zh": "各站停车"
+        }
+      ],
+      "usage_note_zh": "「各駅停車」は每站都停靠的列车；快速列车则可能跳过部分车站。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句说列车在各站停靠，指线路上的每个车站；字面词义可核，但原句前文有截断。",
+        "dictionary_sequences": [
+          1204890
+        ],
+        "identity": {
+          "word": "各駅",
+          "reading_hiragana": "かくえき",
+          "meaning": "各个车站"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2166f93336ee200a",
+      "index": 364,
+      "word": "構内",
+      "reading_hiragana": "こうない",
+      "context_meaning_zh": "车站内、场内、区域内",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "车站内、场内、区域内",
+          "meaning_ja": "建物や施設の敷地の中。",
+          "example_ja": "駅の構内では走らないでください。",
+          "example_zh": "请不要在车站内奔跑。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "構内放送",
+          "zh": "场内广播"
+        }
+      ],
+      "usage_note_zh": "「構内」は施設の敷地内を指す。駅の建物内部だけでなく駅の敷地を含む場合がある。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "店位于车站构内，構内指车站所属区域而不只建筑室内。",
+        "dictionary_sequences": [
+          1279820
+        ],
+        "identity": {
+          "word": "構内",
+          "reading_hiragana": "こうない",
+          "meaning": "车站内、场内、区域内"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0b0895ab46111135",
+      "index": 365,
+      "word": "改札",
+      "reading_hiragana": "かいさつ",
+      "context_meaning_zh": "检票",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "检票",
+          "meaning_ja": "駅で乗車券を調べ、通行を確認すること。",
+          "example_ja": "改札の前で友だちと待ち合わせました。",
+          "example_zh": "在检票口前和朋友碰面了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "改札を通る",
+          "zh": "通过检票口"
+        }
+      ],
+      "usage_note_zh": "行為は「改札を通る」、場所・設備は「改札口／自動改札機」と言う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句中「改札は七時から」可能指检票服务从七点开始，也可能指检票口开放；两种名词义未能由例句区分。",
+        "dictionary_sequences": [
+          1200840
+        ],
+        "identity": {
+          "word": "改札",
+          "reading_hiragana": "かいさつ",
+          "meaning": "检票"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e4e8d3cb84adc7a4",
+      "index": 366,
+      "word": "到着駅",
+      "reading_hiragana": "とうちゃくえき",
+      "context_meaning_zh": "到达的车站",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "到达的车站",
+          "meaning_ja": "乗り物が到着する駅。",
+          "example_ja": "到着駅で家族が待っていました。",
+          "example_zh": "家人在到达站等着。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "到着駅で降りる",
+          "zh": "在到达站下车"
+        }
+      ],
+      "usage_note_zh": "「到着駅」は到着する先の駅を指す。出発する駅は「出発駅」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "到着駅は川駅です明确把川站说成抵达站，词典station of arrival义相符。",
+        "dictionary_sequences": [
+          1742560
+        ],
+        "identity": {
+          "word": "到着駅",
+          "reading_hiragana": "とうちゃくえき",
+          "meaning": "到达的车站"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ea5a70da918718c6",
+      "index": 367,
+      "word": "行き先",
+      "reading_hiragana": "ゆきさき",
+      "context_meaning_zh": "目的地",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "目的地",
+          "meaning_ja": "これから向かう場所。",
+          "example_ja": "バスの行き先を運転手に確認しました。",
+          "example_zh": "向司机确认了公交车的目的地。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "行き先を告げる",
+          "zh": "告知目的地"
+        }
+      ],
+      "usage_note_zh": "「行き先」は乗り物の目的地にも、人が向かう地方にも使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "行き先指港站这一目的地，词典亦列去向、未来等义；本例取目的地名词。",
+        "dictionary_sequences": [
+          1281720
+        ],
+        "identity": {
+          "word": "行き先",
+          "reading_hiragana": "ゆきさき",
+          "meaning": "目的地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-788df6d21f11e97d",
+      "index": 368,
+      "word": "降車",
+      "reading_hiragana": "こうしゃ",
+      "context_meaning_zh": "下车",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "下车",
+          "meaning_ja": "乗り物から降りること。",
+          "example_ja": "降車の際は、足元に気をつけてください。",
+          "example_zh": "下车时请注意脚下。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "降車口",
+          "zh": "下车口"
+        }
+      ],
+      "usage_note_zh": "案内で使う硬めの名詞。動作を会話で言うなら「バスを降りる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "运费及从后门下车的交通场景中，降車作名词；词典另列降車する自动サ变。",
+        "dictionary_sequences": [
+          1618150
+        ],
+        "identity": {
+          "word": "降車",
+          "reading_hiragana": "こうしゃ",
+          "meaning": "下车"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-702fb29dd42b3a9b",
+      "index": 369,
+      "word": "市バス(~bus)",
+      "reading_hiragana": "しバス",
+      "context_meaning_zh": "城市公交车（市バス）",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "城市公交车（市バス）",
+          "meaning_ja": "市が運行する市内路線バス。",
+          "example_ja": "市バスに乗って市役所へ行きました。",
+          "example_zh": "坐市营公交去了市政府。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "市バスに乗る",
+          "zh": "乘市营公交"
+        }
+      ],
+      "usage_note_zh": "「市バス」指由市政府运营的市内公交；各地的称呼和运营主体可能不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "回程使用市内公交，属于交通工具名词；条目没有词典候选，按词头及例句判断。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "市バス(~bus)",
+          "reading_hiragana": "しバス",
+          "meaning": "城市公交车（市バス）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-42acb45809b0e7c4",
+      "index": 370,
+      "word": "運賃",
+      "reading_hiragana": "うんちん",
+      "context_meaning_zh": "车费；运费",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "车费；运费",
+          "meaning_ja": "人や荷物を運ぶために支払う料金。",
+          "example_ja": "この区間の運賃は二百円です。",
+          "example_zh": "这段路程的车费是两百日元。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "運賃を払う",
+          "zh": "支付车费"
+        }
+      ],
+      "usage_note_zh": "人の移動には「运费／票价」，荷物の輸送には「运费」。文脈で対象を判断する。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "公交车费与货物运费两例都落在词典乘客票价及货运费用的不同义项；由对象决定具体中文译法。",
+        "dictionary_sequences": [
+          1172820
+        ],
+        "identity": {
+          "word": "運賃",
+          "reading_hiragana": "うんちん",
+          "meaning": "车费；运费"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-638e40640c1deb27",
+      "index": 371,
+      "word": "車掌",
+      "reading_hiragana": "しゃしょう",
+      "context_meaning_zh": "售票员、乘务员",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "售票员、乘务员",
+          "meaning_ja": "列車などに乗務し、案内や車内業務をする人。",
+          "example_ja": "車掌が次の駅を知らせました。",
+          "example_zh": "乘务员通知了下一站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "車掌に尋ねる",
+          "zh": "询问乘务员"
+        }
+      ],
+      "usage_note_zh": "主に列車の乗務員を指す。切符を販売するだけの人とは限らない。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "车内的車掌指列车乘务员，词典train conductor义适用，不是售票员专称。",
+        "dictionary_sequences": [
+          1323170
+        ],
+        "identity": {
+          "word": "車掌",
+          "reading_hiragana": "しゃしょう",
+          "meaning": "售票员、乘务员"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6ca4114ead5109f1",
+      "index": 372,
+      "word": "翌日",
+      "reading_hiragana": "よくじつ",
+      "context_meaning_zh": "次日;第二天",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "次日;第二天",
+          "meaning_ja": "ある日の次に来る日。",
+          "example_ja": "出発した翌日に、写真を家族へ送りました。",
+          "example_zh": "出发后的第二天把照片发给了家人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "翌日の朝",
+          "zh": "次日早晨"
+        }
+      ],
+      "usage_note_zh": "基準となる日があって、その次の日を指す書き言葉寄りの表現。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "翌日指基准日之后的一天，例句是第二天一早乘出租车去机场；词典支持名词和副词用法。",
+        "dictionary_sequences": [
+          1547510
+        ],
+        "identity": {
+          "word": "翌日",
+          "reading_hiragana": "よくじつ",
+          "meaning": "次日;第二天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6102ef807e7c7b09",
+      "index": 373,
+      "word": "頃",
+      "reading_hiragana": "ころ",
+      "context_meaning_zh": "时候、时期（ころ），兼区别ごろ接尾用法",
+      "pos_ja": "名詞・副詞・接尾辞・時間名詞",
+      "pos_zh": "名词・副词・接尾词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "时候、时期（ころ），兼区别ごろ接尾用法",
+          "meaning_ja": "はっきりした時刻ではなく、おおよその時や時期。",
+          "example_ja": "子どもの頃、毎朝この道を通りました。",
+          "example_zh": "小时候每天早上都走这条路。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "若い頃",
+          "zh": "年轻时"
+        }
+      ],
+      "usage_note_zh": "名詞として「ころ」と読む。時刻の後に付く「三時ごろ」の「ごろ」と用法を区別する。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb",
+          "suffix"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "名词頃读ころ表示大致时期；时刻后的后缀ごろ是另一读法与用法，本课属于前者。",
+        "dictionary_sequences": [
+          1579080
+        ],
+        "identity": {
+          "word": "頃",
+          "reading_hiragana": "ころ",
+          "meaning": "时候、时期（ころ），兼区别ごろ接尾用法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-692f9d6bd3d51a39",
+      "index": 374,
+      "word": "早々",
+      "reading_hiragana": "はやばや",
+      "context_meaning_zh": "早早地",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "早早地",
+          "meaning_ja": "普通より早い時期・時刻に物事をする様子。",
+          "example_ja": "彼は朝早々に家を出ました。",
+          "example_zh": "他一大早就出了门。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "早々に帰る",
+          "zh": "早早回去"
+        }
+      ],
+      "usage_note_zh": "「はやばや」と読み、早く行動する様子。熟語「そうそう」と読む別用法と区別する。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示较平常更早地前往机场，早々と修饰动作；词典列副词及と副词。",
+        "dictionary_sequences": [
+          2659710
+        ],
+        "identity": {
+          "word": "早々",
+          "reading_hiragana": "はやばや",
+          "meaning": "早早地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aa2f9f5aa547898f",
+      "index": 375,
+      "word": "笑う",
+      "reading_hiragana": "わらう",
+      "context_meaning_zh": "笑",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "笑",
+          "meaning_ja": "うれしさやおかしさなどを顔や声に表す。",
+          "example_ja": "その話を聞いて、みんなが笑いました。",
+          "example_zh": "听了那个故事，大家都笑了。"
+        },
+        {
+          "meaning_zh": "嘲笑",
+          "meaning_ja": "人の言動などをおかしいと思って笑いの対象にする。",
+          "example_ja": "人の失敗を笑ってはいけません。",
+          "example_zh": "不可以嘲笑别人的失败。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "声を出して笑う",
+          "zh": "出声笑"
+        }
+      ],
+      "usage_note_zh": "自動詞では「笑う」、人を笑いものにする場合は「人を笑う」と言える。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "笑う是五段动词，通常作自动词表示发笑，也可他动地表示嘲笑某人；电影有趣的例句取前者。",
+        "dictionary_sequences": [
+          1351360
+        ],
+        "identity": {
+          "word": "笑う",
+          "reading_hiragana": "わらう",
+          "meaning": "笑"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b56312286c2373d9",
+      "index": 376,
+      "word": "夕べ",
+      "reading_hiragana": "ゆうべ",
+      "context_meaning_zh": "昨晚",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "昨晚",
+          "meaning_ja": "前の日の夜。",
+          "example_ja": "夕べは雨の音で何度も目が覚めました。",
+          "example_zh": "昨晚因雨声醒了好几次。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "夕べは遅くまで起きていた",
+          "zh": "昨晚一直醒到很晚"
+        }
+      ],
+      "usage_note_zh": "「ゆうべ」は通常、昨夜を指す。夕方を一般に指す「夕方」とは範囲が異なる。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "夕べ在此指前一晚写日记，属于时间名词；词典也列昨晚义。",
+        "dictionary_sequences": [
+          2863051
+        ],
+        "identity": {
+          "word": "夕べ",
+          "reading_hiragana": "ゆうべ",
+          "meaning": "昨晚"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c3dfa6950ea5f6d",
+      "index": 377,
+      "word": "今まで",
+      "reading_hiragana": "いままで",
+      "context_meaning_zh": "迄今",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "迄今",
+          "meaning_ja": "過去から現在までの範囲。",
+          "example_ja": "今まで一度も飛行機に乗ったことがありません。",
+          "example_zh": "至今一次也没坐过飞机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "今までずっと",
+          "zh": "一直到现在"
+        }
+      ],
+      "usage_note_zh": "「今まで」作时间副词，表示截至现在；与否定搭配时可表示“到现在为止从未……”。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「今まで」表示截至现在，例句概述过去每年拍照的持续情况；作时间副词使用。",
+        "dictionary_sequences": [
+          1587590
+        ],
+        "identity": {
+          "word": "今まで",
+          "reading_hiragana": "いままで",
+          "meaning": "迄今"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-052a38ce499210f6",
+      "index": 378,
+      "word": "数日後",
+      "reading_hiragana": "すうじつご",
+      "context_meaning_zh": "几天后",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "几天后",
+          "meaning_ja": "今から数えて数日たった後。",
+          "example_ja": "申し込んでから数日後に、返事が届きました。",
+          "example_zh": "报名几天后收到了回复。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "数日後に",
+          "zh": "几天后"
+        }
+      ],
+      "usage_note_zh": "何日かを具体的に決めず、数日たった時点を指す。基準の時点は前後の文から分かる。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "数日後表示若干天之后，例句中作时间名词短语并引出后续事件；词典兼列副词。",
+        "dictionary_sequences": [
+          1373220
+        ],
+        "identity": {
+          "word": "数日後",
+          "reading_hiragana": "すうじつご",
+          "meaning": "几天后"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b831a39aa0b39039",
+      "index": 379,
+      "word": "時刻表",
+      "reading_hiragana": "じこくひょう",
+      "context_meaning_zh": "(铁路等的)时刻表",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(铁路等的)时刻表",
+          "meaning_ja": "列車やバスなどの出発・到着時刻をまとめた表。",
+          "example_ja": "駅で時刻表を見て、帰りの電車を決めました。",
+          "example_zh": "在车站看了时刻表，决定了回程的电车。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時刻表を調べる",
+          "zh": "查时刻表"
+        }
+      ],
+      "usage_note_zh": "交通機関の時刻一覧を指す。時刻そのものは「時刻」、表は「表」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课程用交通行程语境的時刻表，指汇总列车等出发到达时刻的表格名词。",
+        "dictionary_sequences": [
+          1316230
+        ],
+        "identity": {
+          "word": "時刻表",
+          "reading_hiragana": "じこくひょう",
+          "meaning": "(铁路等的)时刻表"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7748f6cad26ff5a3",
+      "index": 380,
+      "word": "前日",
+      "reading_hiragana": "ぜんじつ",
+      "context_meaning_zh": "前一天",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "前一天",
+          "meaning_ja": "基準となる日の一つ前の日。",
+          "example_ja": "試験の前日は、早く寝るつもりです。",
+          "example_zh": "考试前一天打算早点睡。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "前日の夜",
+          "zh": "前一天晚上"
+        }
+      ],
+      "usage_note_zh": "基準日より前の日を指す書き言葉。予定日を基準として使う。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示叙述日之前的一天，例句承接旅行日期；词典兼收时间副词用法，此处作名词。",
+        "dictionary_sequences": [
+          1393790
+        ],
+        "identity": {
+          "word": "前日",
+          "reading_hiragana": "ぜんじつ",
+          "meaning": "前一天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-daf8fe94de0ee542",
+      "index": 381,
+      "word": "次の日",
+      "reading_hiragana": "つぎのひ",
+      "context_meaning_zh": "第二天",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "第二天",
+          "meaning_ja": "話題にしている日から見て、その次に来る日。",
+          "example_ja": "次の日は朝から雨でした。",
+          "example_zh": "第二天从早上起就下雨。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "次の日に出発する",
+          "zh": "第二天出发"
+        }
+      ],
+      "usage_note_zh": "会話的で分かりやすい言い方。「翌日」より日常的。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "表示某事件之后的第二天；日常易懂的说法，比翌日更口语，句中接续前一天行程。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "次の日",
+          "reading_hiragana": "つぎのひ",
+          "meaning": "第二天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c1cf0598046200d4",
+      "index": 382,
+      "word": "昨年",
+      "reading_hiragana": "さくねん",
+      "context_meaning_zh": "去年",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "去年",
+          "meaning_ja": "今の年の一つ前の年。",
+          "example_ja": "昨年の春に、この町へ引っ越しました。",
+          "example_zh": "去年春天搬到了这个城镇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "昨年の売上",
+          "zh": "去年的销售额"
+        }
+      ],
+      "usage_note_zh": "「去年」と同じ年を指すが、やや書き言葉や改まった場面に向く。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「昨年」指当前年份之前一年；旅行记录例句以书面叙述讲往年经历，该词较「去年」偏正式书面。",
+        "dictionary_sequences": [
+          1298230
+        ],
+        "identity": {
+          "word": "昨年",
+          "reading_hiragana": "さくねん",
+          "meaning": "去年"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ef99d52c7034755e",
+      "index": 383,
+      "word": "半日",
+      "reading_hiragana": "はんじつ",
+      "context_meaning_zh": "半天（常用口语读はんにち，はんじつ为书面读法）",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "半天（常用口语读はんにち，はんじつ为书面读法）",
+          "meaning_ja": "半日分の長さ、または一日の半分。",
+          "example_ja": "会議は半日で終わりました。",
+          "example_zh": "会议半天就结束了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "半日かかる",
+          "zh": "需要半天"
+        }
+      ],
+      "usage_note_zh": "読みは指定の「はんじつ」。日常会話では「はんにち」もよく使われる。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此条所给读音为「はんじつ」，指半天；词典兼时间名词和副词，学习说明指出日常也常用另一读法。",
+        "dictionary_sequences": [
+          1583180
+        ],
+        "identity": {
+          "word": "半日",
+          "reading_hiragana": "はんじつ",
+          "meaning": "半天（常用口语读はんにち，はんじつ为书面读法）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-52be6ffa2ea909bc",
+      "index": 384,
+      "word": "一晩",
+      "reading_hiragana": "ひとばん",
+      "context_meaning_zh": "一个晚上",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个晚上",
+          "meaning_ja": "夜から次の朝までの一つの夜、またはその間。",
+          "example_ja": "旅行先で一晩だけホテルに泊まりました。",
+          "example_zh": "旅行时只在酒店住了一晚。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一晩泊まる",
+          "zh": "住一晚"
+        }
+      ],
+      "usage_note_zh": "「一晩中」は夜の間ずっと、「一晩泊まる」は夜を一回越して宿泊する意味。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一夜可作时间名词，也可作副词性时长；例句「一晩休む」为经过一晚的时间表达。",
+        "dictionary_sequences": [
+          1165960
+        ],
+        "identity": {
+          "word": "一晩",
+          "reading_hiragana": "ひとばん",
+          "meaning": "一个晚上"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-da5f992ef150d8a5",
+      "index": 385,
+      "word": "日記帳",
+      "reading_hiragana": "にっきちょう",
+      "context_meaning_zh": "日记本;流水账",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日记本;流水账",
+          "meaning_ja": "日記を書くために使う帳面。",
+          "example_ja": "新しい日記帳に旅行のことを書きました。",
+          "example_zh": "在新的日记本里写了旅行的事。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日記帳を開く",
+          "zh": "打开日记本"
+        }
+      ],
+      "usage_note_zh": "本课「日記帳」指写日记的本子；「日記」指其中记录的内容。另有簿记用法，指按发生顺序记录交易的账簿，因此“流水账”属于会计语境，不是本课例句的意思。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "在日记本上写日记的搭配及词典diary义明确；普通书写用品名词。",
+        "dictionary_sequences": [
+          1656400
+        ],
+        "identity": {
+          "word": "日記帳",
+          "reading_hiragana": "にっきちょう",
+          "meaning": "日记本;流水账"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f9c6eb2cf404a2cf",
+      "index": 386,
+      "word": "翌年",
+      "reading_hiragana": "よくねん",
+      "context_meaning_zh": "(也读「よくとし」)第二年",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(也读「よくとし」)第二年",
+          "meaning_ja": "ある年の次に来る年。",
+          "example_ja": "卒業の翌年、彼女は海外で働き始めました。",
+          "example_zh": "毕业后的第二年，她开始在国外工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "翌年の春",
+          "zh": "次年春天"
+        }
+      ],
+      "usage_note_zh": "「よくねん」は書き言葉寄り。「よくとし」とも読むが、本項では指定の読みを示す。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "翌年表示下一年，可作时间名词也可作副词；本句以翌年为时间主题，词典兼列n及adv，读音为よくねん。",
+        "dictionary_sequences": [
+          1547520
+        ],
+        "identity": {
+          "word": "翌年",
+          "reading_hiragana": "よくねん",
+          "meaning": "(也读「よくとし」)第二年"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-395bd182139ce6f6",
+      "index": 387,
+      "word": "過去",
+      "reading_hiragana": "かこ",
+      "context_meaning_zh": "过去",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "过去",
+          "meaning_ja": "現在より前の時間や、その時に起きた事柄。",
+          "example_ja": "過去の経験を、これからの仕事に生かします。",
+          "example_zh": "把过去的经验运用到今后的工作中。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "過去を振り返る",
+          "zh": "回顾过去"
+        }
+      ],
+      "usage_note_zh": "「過去」既可指过去的时间，也可指已经发生的事情；可修饰名词，如「過去の経験」（过去的经历）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "过去旅行记录的语境取过去名词义，词典也收副词用法但此例非副词。",
+        "dictionary_sequences": [
+          1196030
+        ],
+        "identity": {
+          "word": "過去",
+          "reading_hiragana": "かこ",
+          "meaning": "过去"
+        }
+      }
+    }
+  ]
+}

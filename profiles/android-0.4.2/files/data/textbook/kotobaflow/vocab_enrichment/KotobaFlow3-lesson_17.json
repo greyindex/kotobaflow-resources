@@ -1,0 +1,6586 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow3",
+  "lesson_id": "lesson_17",
+  "entries": [
+    {
+      "textbook_uid": "cfv-bdb2f770502244be",
+      "index": 4060,
+      "word": "理由",
+      "reading_hiragana": "りゆう",
+      "context_meaning_zh": "理由",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "理由",
+          "meaning_ja": "物事をそう考えたり行ったりする根拠。",
+          "example_ja": "今日は早く帰る理由を母に話した。",
+          "example_zh": "我把今天早回家的理由告诉了母亲。"
+        },
+        {
+          "meaning_zh": "借口",
+          "meaning_ja": "本当の気持ちを隠すために持ち出す説明。",
+          "example_ja": "彼は本当は行きたくないのに、忙しいことを理由に断った。",
+          "example_zh": "他其实不想去，却以忙为借口拒绝了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "理由を説明する",
+          "zh": "说明理由"
+        },
+        {
+          "ja": "理由がある",
+          "zh": "有理由"
+        }
+      ],
+      "usage_note_zh": "「理由を」后常接言う、説明する等；「理由に」表示把某事作为依据或借口。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "不急于判断的理由是信息不足，理由作为解释原因的名词。",
+        "dictionary_sequences": [
+          1550140
+        ],
+        "identity": {
+          "word": "理由",
+          "reading_hiragana": "りゆう",
+          "meaning": "理由"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-91e0fb74bc9bfe7f",
+      "index": 4061,
+      "word": "原因",
+      "reading_hiragana": "げんいん",
+      "context_meaning_zh": "造成结果的原因",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "造成结果的原因",
+          "meaning_ja": "ある結果を引き起こしたもとになる事柄。",
+          "example_ja": "事故の原因を調べるため、現場を確認した。",
+          "example_zh": "为调查事故原因，查看了现场。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "原因を調べる",
+          "zh": "调查原因"
+        },
+        {
+          "ja": "原因が分かる",
+          "zh": "弄清原因"
+        }
+      ],
+      "usage_note_zh": "「原因」着眼于导致结果的因素；原因尚未查明时可说「原因が分からない」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "原因不明是词典名词义的常见搭配；另保留词典标出的自サ变兼类，例句未直接展示动词形。",
+        "dictionary_sequences": [
+          1261190
+        ],
+        "identity": {
+          "word": "原因",
+          "reading_hiragana": "げんいん",
+          "meaning": "造成结果的原因"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-792da94b8ed107f4",
+      "index": 4062,
+      "word": "誤解",
+      "reading_hiragana": "ごかい",
+      "context_meaning_zh": "误解",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "误解",
+          "meaning_ja": "相手の言葉や事実を、本来とは違う意味に受け取ること。",
+          "example_ja": "住所を聞き間違えたため、待ち合わせで誤解が生じた。",
+          "example_zh": "因为听错了地址，约见时产生了误会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "誤解が生じる",
+          "zh": "产生误解"
+        },
+        {
+          "ja": "誤解を解く",
+          "zh": "消除误解"
+        }
+      ],
+      "usage_note_zh": "「誤解する」表示误会某事；「誤解を招く」表示造成他人误解。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "誤解可作名词和自他サ变动词；本例指误解根源，词典同时列vt、vi，未强行固定单一论元类型。",
+        "dictionary_sequences": [
+          1271310
+        ],
+        "identity": {
+          "word": "誤解",
+          "reading_hiragana": "ごかい",
+          "meaning": "误解"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1083060186924c3e",
+      "index": 4063,
+      "word": "説明",
+      "reading_hiragana": "せつめい",
+      "context_meaning_zh": "解释说明",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "解释说明",
+          "meaning_ja": "相手が分かるように、内容や理由を言葉で伝えること。",
+          "example_ja": "使い方が分からないので、店員に説明を求めた。",
+          "example_zh": "我不懂用法，所以请店员作了说明。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "説明を求める",
+          "zh": "要求说明"
+        },
+        {
+          "ja": "説明書を読む",
+          "zh": "阅读说明书"
+        }
+      ],
+      "usage_note_zh": "「人に内容を説明する」；「説明書」は说明内容的书面材料，是由「説明」构成的复合词，不是本词条的独立义项。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "佐藤的说明使人察觉误解并修正解释；説明する可以内容作对象，是他动サ变。",
+        "dictionary_sequences": [
+          1386460
+        ],
+        "identity": {
+          "word": "説明",
+          "reading_hiragana": "せつめい",
+          "meaning": "解释说明"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cec3dee5a41cdfaa",
+      "index": 4064,
+      "word": "謝る",
+      "reading_hiragana": "あやまる",
+      "context_meaning_zh": "道歉",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "道歉",
+          "meaning_ja": "自分の言動で相手に迷惑をかけたことを認め、許しを求める。",
+          "example_ja": "約束を忘れたことを友人に謝った。",
+          "example_zh": "我为忘记约定向朋友道了歉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人に謝る",
+          "zh": "向某人道歉"
+        },
+        {
+          "ja": "遅れて謝る",
+          "zh": "为迟到道歉"
+        }
+      ],
+      "usage_note_zh": "道歉对象用「人に」，道歉的事情常用「ことを」或「失礼を」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "道歉义可不带对象，也可用を标明所为；词典明确列自他两用。",
+        "dictionary_sequences": [
+          1323010
+        ],
+        "identity": {
+          "word": "謝る",
+          "reading_hiragana": "あやまる",
+          "meaning": "道歉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a421c1b458b4e0ae",
+      "index": 4065,
+      "word": "伝わる",
+      "reading_hiragana": "つたわる",
+      "context_meaning_zh": "信息被传达理解",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "信息被传达理解",
+          "meaning_ja": "言葉や気持ちが相手に届き、理解される。",
+          "example_ja": "短い手紙でも、感謝の気持ちは十分に伝わった。",
+          "example_zh": "即使是一封短信，感谢之情也充分传达到了。"
+        },
+        {
+          "meaning_zh": "传播",
+          "meaning_ja": "知らせや評判が人々の間に広がる。",
+          "example_ja": "新しい店の評判は町中に伝わった。",
+          "example_zh": "新店的口碑传遍了整个城镇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "気持ちが伝わる",
+          "zh": "心意传达到"
+        },
+        {
+          "ja": "うわさが伝わる",
+          "zh": "传出传闻"
+        }
+      ],
+      "usage_note_zh": "「人に伝わる」表示信息到达接收者；主动传达则用「伝える」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "五段る自动词，说明内容「に」标示到达对象；信息是否被对方理解是传达结果。",
+        "dictionary_sequences": [
+          1441900
+        ],
+        "identity": {
+          "word": "伝わる",
+          "reading_hiragana": "つたわる",
+          "meaning": "信息被传达理解"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eb9e40fe2b17f5bf",
+      "index": 4066,
+      "word": "遅延",
+      "reading_hiragana": "ちえん",
+      "context_meaning_zh": "延误",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "延误",
+          "meaning_ja": "予定された時刻や進行が遅れること。",
+          "example_ja": "大雨のため、電車に三十分の遅延が出た。",
+          "example_zh": "因大雨，电车晚点了三十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "到着が遅延する",
+          "zh": "到达延误"
+        },
+        {
+          "ja": "遅延が発生する",
+          "zh": "发生延误"
+        }
+      ],
+      "usage_note_zh": "常用于交通、配送等进度晚于预定的场合；日常口语也常说「遅れる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该词是延误名词，也可作サ变自动词；「の」连接名词时不因此增加连体词类，事件本身可自行发生。",
+        "dictionary_sequences": [
+          1422030
+        ],
+        "identity": {
+          "word": "遅延",
+          "reading_hiragana": "ちえん",
+          "meaning": "延误"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ee70f839055fb5f3",
+      "index": 4067,
+      "word": "手違い",
+      "reading_hiragana": "てちがい",
+      "context_meaning_zh": "程序差错",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "程序差错",
+          "meaning_ja": "手順や扱いを誤り、予定と違う結果になること。",
+          "example_ja": "担当者の手違いで、別の資料が送られてきた。",
+          "example_zh": "因经办人的差错，寄来了另一份资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "手違いがある",
+          "zh": "出现差错"
+        },
+        {
+          "ja": "手違いで届く",
+          "zh": "因差错而送到"
+        }
+      ],
+      "usage_note_zh": "多用于办事、联络或处理流程中的失误；可说「こちらの手違いで」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "手違い指填写过程中的差错，词典列mistake/blunder；表格手续只是例句情境，词项不专属商务体裁。",
+        "dictionary_sequences": [
+          1327320
+        ],
+        "identity": {
+          "word": "手違い",
+          "reading_hiragana": "てちがい",
+          "meaning": "程序差错"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ce5490a88641d26e",
+      "index": 4068,
+      "word": "おかげ",
+      "reading_hiragana": "おかげ",
+      "context_meaning_zh": "托某因素的福",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "托某因素的福",
+          "meaning_ja": "よい結果が相手や助けとなったものによって生じたと表す言葉。",
+          "example_ja": "皆さんのおかげで、準備が予定より早く終わりました。",
+          "example_zh": "多亏大家帮忙，准备工作比预定更早完成了。"
+        },
+        {
+          "meaning_zh": "（固定表达）托您的福",
+          "meaning_ja": "「おかげさまで」と言い、相手の助けや配慮への感謝を込めて近況や結果を伝える言葉。",
+          "example_ja": "おかげさまで、元気にしております。",
+          "example_zh": "托您的福，我身体很好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人のおかげで",
+          "zh": "多亏某人"
+        },
+        {
+          "ja": "おかげさまで",
+          "zh": "托您的福"
+        }
+      ],
+      "usage_note_zh": "通常用「名詞のおかげで」表示正面结果；反语用法需依语境判断，本课先记感谢义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课「説明のおかげで」表示由于帮助而有好结果；辞书的 assistance／effects 义与例句相合，感谢近况句是扩展固定说法。",
+        "dictionary_sequences": [
+          1001640
+        ],
+        "identity": {
+          "word": "おかげ",
+          "reading_hiragana": "おかげ",
+          "meaning": "托某因素的福"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fcfd4ce825680e7e",
+      "index": 4069,
+      "word": "せい",
+      "reading_hiragana": "せい",
+      "context_meaning_zh": "归因于不利因素",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "归因于不利因素",
+          "meaning_ja": "望ましくない結果が、ある人や事柄から生じたと述べる語。",
+          "example_ja": "寝坊したせいで、朝の会議に遅れた。",
+          "example_zh": "因为睡过头，早会迟到了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "雨のせいで",
+          "zh": "因为下雨"
+        },
+        {
+          "ja": "失敗したせいにする",
+          "zh": "归咎于失败"
+        }
+      ],
+      "usage_note_zh": "多用「名詞／普通形＋せいで」说明负面结果；与表示受惠的「おかげで」相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「メールのせいで」将缺席归因于不利因素，符合词典所列结果／归责义；其他同音义不适用。",
+        "dictionary_sequences": [
+          1610040
+        ],
+        "identity": {
+          "word": "せい",
+          "reading_hiragana": "せい",
+          "meaning": "归因于不利因素"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7a5f36742a61458d",
+      "index": 4070,
+      "word": "納得",
+      "reading_hiragana": "なっとく",
+      "context_meaning_zh": "理解接受",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "理解接受",
+          "meaning_ja": "説明などを聞いて内容が分かり、それを受け入れること。",
+          "example_ja": "理由を聞いて、ようやく納得した。",
+          "example_zh": "听了理由后，我终于接受了。"
+        },
+        {
+          "meaning_zh": "满意",
+          "meaning_ja": "条件や結果に不満がなく、受け入れられること。",
+          "example_ja": "全員が納得する方法を探そう。",
+          "example_zh": "一起寻找让所有人都满意的方法吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "説明に納得する",
+          "zh": "接受说明"
+        },
+        {
+          "ja": "納得できる",
+          "zh": "能够接受"
+        }
+      ],
+      "usage_note_zh": "常用「説明に納得する」「納得がいく」；表示理解后认可，不只是听懂。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「納得する」表示主体理解并认可，常由に、で或从句引出理由；本批没有直接支配对象的裸用法，词典兼列自他标签不足以证明此义有及物性。",
+        "dictionary_sequences": [
+          1470080
+        ],
+        "identity": {
+          "word": "納得",
+          "reading_hiragana": "なっとく",
+          "meaning": "理解接受"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1468405c891b6f6e",
+      "index": 4071,
+      "word": "意味",
+      "reading_hiragana": "いみ",
+      "context_meaning_zh": "意思含义",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "意思含义",
+          "meaning_ja": "言葉や行動が表す内容。",
+          "example_ja": "この印の意味を、案内板で確かめた。",
+          "example_zh": "我在指示牌上确认了这个标记的含义。"
+        },
+        {
+          "meaning_zh": "目的意义",
+          "meaning_ja": "物事をする価値や目的。",
+          "example_ja": "毎日続けることに意味がある。",
+          "example_zh": "每天坚持这件事是有意义的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意味が分かる",
+          "zh": "明白含义"
+        },
+        {
+          "ja": "意味がある",
+          "zh": "有意义"
+        }
+      ],
+      "usage_note_zh": "可指词语的含义，也可指行为的价值；具体意思由搭配和语境决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "意味是名词兼サ变他动词，词典明确vt；本句两个含义作取り違える的宾语。",
+        "dictionary_sequences": [
+          1156800
+        ],
+        "identity": {
+          "word": "意味",
+          "reading_hiragana": "いみ",
+          "meaning": "意思含义"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fed5955df8709e0f",
+      "index": 4072,
+      "word": "事情",
+      "reading_hiragana": "じじょう",
+      "context_meaning_zh": "情况、缘由",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "情况、缘由",
+          "meaning_ja": "物事の事情や、そうなった背景となる事柄。",
+          "example_ja": "事情があって、今日は先に帰ります。",
+          "example_zh": "我有些事情，今天先回去了。"
+        },
+        {
+          "meaning_zh": "内情",
+          "meaning_ja": "外からは見えにくい、関係者の間の事情。",
+          "example_ja": "詳しい事情は、本人から聞いてください。",
+          "example_zh": "详细情况请听本人说明。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事情を話す",
+          "zh": "说明情况"
+        },
+        {
+          "ja": "事情がある",
+          "zh": "有原因／有情况"
+        }
+      ],
+      "usage_note_zh": "「事情があって」常用于不便详细说明原因时；不等同于客观直接原因「原因」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "判断个人责任前先确认背景内情，符合situations/circumstances义；不直接等同单一客观原因。",
+        "dictionary_sequences": [
+          1314010
+        ],
+        "identity": {
+          "word": "事情",
+          "reading_hiragana": "じじょう",
+          "meaning": "情况、缘由"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6a583e461d62896b",
+      "index": 4073,
+      "word": "つまり",
+      "reading_hiragana": "つまり",
+      "context_meaning_zh": "也就是说",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "也就是说",
+          "meaning_ja": "前に述べた内容を、別の言い方でまとめる語。",
+          "example_ja": "今日は運休です。つまり、電車は動きません。",
+          "example_zh": "今天列车停运。也就是说，电车不开。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "つまりこういうことだ",
+          "zh": "也就是说是这么回事"
+        },
+        {
+          "ja": "つまり何が言いたいのか",
+          "zh": "也就是说想表达什么"
+        }
+      ],
+      "usage_note_zh": "放在总结或换句话说的内容之前；不用于表示单纯的时间先后。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句首つまり引出推论或换言说明，词典adv义对应；例句澄清发送不等于送达，不涉及名词詰まり义。",
+        "dictionary_sequences": [
+          1610430
+        ],
+        "identity": {
+          "word": "つまり",
+          "reading_hiragana": "つまり",
+          "meaning": "也就是说"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-978d2ef8ef29357c",
+      "index": 4074,
+      "word": "必ずしも",
+      "reading_hiragana": "かならずしも",
+      "context_meaning_zh": "并非一定",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "并非一定",
+          "meaning_ja": "あることが常に成り立つとは限らないと述べる語。",
+          "example_ja": "値段が高ければ、必ずしも品質がよいとは限らない。",
+          "example_zh": "价格高并不一定代表质量好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "必ずしも～ない",
+          "zh": "未必……"
+        },
+        {
+          "ja": "必ずしも同じではない",
+          "zh": "不一定相同"
+        }
+      ],
+      "usage_note_zh": "常与否定形式呼应，如「必ずしも～とは限らない」；不是单独表示“绝不”。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "副词多与否定搭配，表示不一定所有人都按同一意思理解；与词典释义相合。",
+        "dictionary_sequences": [
+          1487410
+        ],
+        "identity": {
+          "word": "必ずしも",
+          "reading_hiragana": "かならずしも",
+          "meaning": "并非一定"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8801c4322a34b039",
+      "index": 4075,
+      "word": "結局",
+      "reading_hiragana": "けっきょく",
+      "context_meaning_zh": "结果终究",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "结果终究",
+          "meaning_ja": "いろいろな経過のあと、最後にそうなったと述べる語。",
+          "example_ja": "何度も話し合ったが、結局、別々に行くことになった。",
+          "example_zh": "商量了很多次，结果还是决定分开走。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結局どうなる",
+          "zh": "结果会怎样"
+        },
+        {
+          "ja": "結局のところ",
+          "zh": "归根结底"
+        }
+      ],
+      "usage_note_zh": "常用于回顾过程后说明最终结果；可置于句首或结论部分。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "句首作副词表示最终、结果上；词典另收名词结局义，本句非该义。",
+        "dictionary_sequences": [
+          1254730
+        ],
+        "identity": {
+          "word": "結局",
+          "reading_hiragana": "けっきょく",
+          "meaning": "结果终究"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5d070ced5dff6bcb",
+      "index": 4076,
+      "word": "実は",
+      "reading_hiragana": "じつは",
+      "context_meaning_zh": "其实",
+      "pos_ja": "副詞・定型表現",
+      "pos_zh": "副词・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "其实",
+          "meaning_ja": "本当のことを、相手に初めて明かすときに使う語。",
+          "example_ja": "実は、昨日から少し熱があるんです。",
+          "example_zh": "其实，我从昨天起就有点发烧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "実は～",
+          "zh": "其实……"
+        },
+        {
+          "ja": "実はそうではない",
+          "zh": "其实并非如此"
+        }
+      ],
+      "usage_note_zh": "常置于句首引出尚未说出的事实；后接说明或坦白内容。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「実は」引出此前未说明的真实情况；本例谈到前职场争执，不能据对话场景限定口语媒介。",
+        "dictionary_sequences": [
+          1320830
+        ],
+        "identity": {
+          "word": "実は",
+          "reading_hiragana": "じつは",
+          "meaning": "其实"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b05d6a70ef0753af",
+      "index": 4077,
+      "word": "訂正",
+      "reading_hiragana": "ていせい",
+      "context_meaning_zh": "更正错误",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "更正错误",
+          "meaning_ja": "間違っていた内容を正しい形に直すこと。",
+          "example_ja": "名前の漢字を間違えたので、申込書を訂正した。",
+          "example_zh": "我把名字的汉字写错了，所以更正了申请表。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "誤りを訂正する",
+          "zh": "更正错误"
+        },
+        {
+          "ja": "訂正を加える",
+          "zh": "加以订正"
+        }
+      ],
+      "usage_note_zh": "多用于文字、记录或发言内容；「訂正する」是改正错误，不只是补充说明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "通过订正解释纠正误解，误读内容作を宾语，符合及物サ变用法。",
+        "dictionary_sequences": [
+          1436710
+        ],
+        "identity": {
+          "word": "訂正",
+          "reading_hiragana": "ていせい",
+          "meaning": "更正错误"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-969ca8bb2d909d6c",
+      "index": 4078,
+      "word": "因果",
+      "reading_hiragana": "いんが",
+      "context_meaning_zh": "因果：原因与结果之间的联系",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "因果：原因与结果之间的联系",
+          "meaning_ja": "ある出来事が別の出来事を引き起こす関係。",
+          "example_ja": "この実験では、二つの変化の因果を調べる。",
+          "example_zh": "这项实验调查两种变化之间的因果关系。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "因果関係",
+          "zh": "因果关系"
+        },
+        {
+          "ja": "因果を考える",
+          "zh": "思考因果"
+        }
+      ],
+      "usage_note_zh": "「因果関係」常作为固定组合；不要把先后发生直接当成因果已成立。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "此条指邮件与缺席之间的因果联系，例句用「因果関係」及判断原因结果；词典所列佛教义和形容词义不适用于当前词义。",
+        "dictionary_sequences": [
+          1168680
+        ],
+        "identity": {
+          "word": "因果",
+          "reading_hiragana": "いんが",
+          "meaning": "因果：原因与结果之间的联系"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1e9a9549478b261d",
+      "index": 4079,
+      "word": "関係",
+      "reading_hiragana": "かんけい",
+      "context_meaning_zh": "关系",
+      "pos_ja": "名詞・動詞・接尾辞・サ変名詞",
+      "pos_zh": "名词・动词・接尾词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "关系",
+          "meaning_ja": "二つ以上の人や物事が互いにつながっていること。",
+          "example_ja": "この問題と私の仕事には関係がありません。",
+          "example_zh": "这个问题和我的工作没有关系。"
+        },
+        {
+          "meaning_zh": "关联参与",
+          "meaning_ja": "ある事柄に関わっていること。",
+          "example_ja": "事件に関係した人から話を聞いた。",
+          "example_zh": "我向与事件有关的人了解了情况。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "関係がある",
+          "zh": "有关系"
+        },
+        {
+          "ja": "仕事に関係する",
+          "zh": "与工作有关"
+        }
+      ],
+      "usage_note_zh": "「Aと関係がある」表示关联；「事件に関係する」也可指涉入某事。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "suffix"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "该词既表示关系，也可作サ变自动词及接尾成分；本例说明因素与结果有关。",
+        "dictionary_sequences": [
+          1215810
+        ],
+        "identity": {
+          "word": "関係",
+          "reading_hiragana": "かんけい",
+          "meaning": "关系"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7725dea143ff9d6a",
+      "index": 4080,
+      "word": "悪影響",
+      "reading_hiragana": "あくえいきょう",
+      "context_meaning_zh": "不良影响",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不良影响",
+          "meaning_ja": "望ましくない変化や結果を、別のものに与えること。",
+          "example_ja": "夜ふかしは、翌日の集中力に悪影響を与える。",
+          "example_zh": "熬夜会对第二天的专注力产生不良影响。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "悪影響を与える",
+          "zh": "造成不良影响"
+        },
+        {
+          "ja": "悪影響が出る",
+          "zh": "出现负面影响"
+        }
+      ],
+      "usage_note_zh": "常与「与える」「及ぼす」搭配，后接受影响对象多用「に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「悪影響」指对准备参与造成的不良影响，例句与词典negative influence义一致。",
+        "dictionary_sequences": [
+          1151440
+        ],
+        "identity": {
+          "word": "悪影響",
+          "reading_hiragana": "あくえいきょう",
+          "meaning": "不良影响"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b5e453be9ad42aef",
+      "index": 4081,
+      "word": "好影響",
+      "reading_hiragana": "こうえいきょう",
+      "context_meaning_zh": "良好影响",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "良好影响",
+          "meaning_ja": "よい変化や結果を、別のものにもたらすこと。",
+          "example_ja": "毎朝歩く習慣は、健康に好影響を与えた。",
+          "example_zh": "每天早晨散步的习惯对健康产生了良好影响。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "好影響を与える",
+          "zh": "带来良好影响"
+        },
+        {
+          "ja": "好影響がある",
+          "zh": "有良好影响"
+        }
+      ],
+      "usage_note_zh": "常用「好影響を与える／及ぼす」；与「悪影響」相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中核查被认为对后续联络有有利影响；辞典favorable influence名词义相符。",
+        "dictionary_sequences": [
+          1874750
+        ],
+        "identity": {
+          "word": "好影響",
+          "reading_hiragana": "こうえいきょう",
+          "meaning": "良好影响"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-433ec2d68bdde5a2",
+      "index": 4082,
+      "word": "要因",
+      "reading_hiragana": "よういん",
+      "context_meaning_zh": "造成结果的因素",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "造成结果的因素",
+          "meaning_ja": "ある結果が起きることに関わった条件や事情。",
+          "example_ja": "売上が伸びた要因を、三つに分けて考えた。",
+          "example_zh": "我把销售额增长的因素分成三点来思考。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "要因を分析する",
+          "zh": "分析因素"
+        },
+        {
+          "ja": "主な要因",
+          "zh": "主要因素"
+        }
+      ],
+      "usage_note_zh": "「要因」可有多个，表示促成结果的条件；「原因」更直接指引发结果之物。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示若干因素可能相互关联，指造成结果的原因因素。",
+        "dictionary_sequences": [
+          1546670
+        ],
+        "identity": {
+          "word": "要因",
+          "reading_hiragana": "よういん",
+          "meaning": "造成结果的因素"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-83886ca64316e6b1",
+      "index": 4083,
+      "word": "背景",
+      "reading_hiragana": "はいけい",
+      "context_meaning_zh": "背景情况",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "背景情况",
+          "meaning_ja": "ある出来事の後ろにある、事情や状況。",
+          "example_ja": "作品の背景を知ると、登場人物の行動が分かりやすい。",
+          "example_zh": "了解作品的背景后，更容易理解人物的行为。"
+        },
+        {
+          "meaning_zh": "背景",
+          "meaning_ja": "絵や写真で、見る人から遠くに見える部分。",
+          "example_ja": "写真の背景に海が写っている。",
+          "example_zh": "照片背景里拍到了大海。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "背景を知る",
+          "zh": "了解背景"
+        },
+        {
+          "ja": "背景にある事情",
+          "zh": "背后的情况"
+        }
+      ],
+      "usage_note_zh": "抽象义指事件背后的情境；也可指图像中远处的背景部分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "事件背后的事情属于背景的情境义，例句强调未查背景不能单独归责。",
+        "dictionary_sequences": [
+          1472720
+        ],
+        "identity": {
+          "word": "背景",
+          "reading_hiragana": "はいけい",
+          "meaning": "背景情况"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-15c54ddcd24fe23c",
+      "index": 4084,
+      "word": "弁解",
+      "reading_hiragana": "べんかい",
+      "context_meaning_zh": "辩解",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "辩解",
+          "meaning_ja": "自分の行動が悪くないと、理由を挙げて説明すること。",
+          "example_ja": "彼は遅刻について弁解したが、皆は納得しなかった。",
+          "example_zh": "他为迟到作了辩解，但大家并不接受。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "弁解をする",
+          "zh": "进行辩解"
+        },
+        {
+          "ja": "弁解の余地がない",
+          "zh": "没有辩解余地"
+        }
+      ],
+      "usage_note_zh": "常含有为自己开脱的意味；比中性的「説明」更带辩护色彩。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1512760列名词、vs、vt；对自己行为辩解和解释迟到理由均带可说明的内容对象。",
+        "dictionary_sequences": [
+          1512760
+        ],
+        "identity": {
+          "word": "弁解",
+          "reading_hiragana": "べんかい",
+          "meaning": "辩解"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2d54b15f62f18e20",
+      "index": 4085,
+      "word": "責任",
+      "reading_hiragana": "せきにん",
+      "context_meaning_zh": "责任",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "责任",
+          "meaning_ja": "自分が引き受け、結果に対して対応する役目。",
+          "example_ja": "この計画の責任者は田中さんです。",
+          "example_zh": "这项计划的负责人是田中先生。"
+        },
+        {
+          "meaning_zh": "责任义务",
+          "meaning_ja": "行動の結果について、説明や対応をする義務。",
+          "example_ja": "失敗の責任を一人に押しつけてはいけない。",
+          "example_zh": "不能把失败的责任全推给一个人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "責任を持つ",
+          "zh": "负起责任"
+        },
+        {
+          "ja": "責任を取る",
+          "zh": "承担责任"
+        }
+      ],
+      "usage_note_zh": "「責任者」指负责人；「責任を取る」强调对结果承担后果。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "不能未查背景就断定一人负责，責任指过失或义务承担。",
+        "dictionary_sequences": [
+          1383180
+        ],
+        "identity": {
+          "word": "責任",
+          "reading_hiragana": "せきにん",
+          "meaning": "责任"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-076380aac55d6587",
+      "index": 4086,
+      "word": "不足",
+      "reading_hiragana": "ふそく",
+      "context_meaning_zh": "不足",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不足",
+          "meaning_ja": "必要な量、条件や人手などが十分にそろっていないこと。",
+          "example_ja": "説明が不足していて、手順がよく分からなかった。",
+          "example_zh": "说明不充分，步骤不太清楚。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "説明不足",
+          "zh": "说明不足"
+        },
+        {
+          "ja": "人手が不足する",
+          "zh": "人手不足"
+        }
+      ],
+      "usage_note_zh": "「～が不足する」说明欠缺什么；「不足している」可修饰名词，如「不足している情報」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "不足可作名词、ナ形容词及自サ，表示欠缺；说明不足是主语状态，辞书主要义相合。",
+        "dictionary_sequences": [
+          1493700
+        ],
+        "identity": {
+          "word": "不足",
+          "reading_hiragana": "ふそく",
+          "meaning": "不足"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-250d0d1f3bd49779",
+      "index": 4087,
+      "word": "行き違い",
+      "reading_hiragana": "いきちがい",
+      "context_meaning_zh": "沟通交错误会",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "沟通交错误会",
+          "meaning_ja": "連絡やタイミングが合わず、互いの意図が伝わらないこと。",
+          "example_ja": "集合場所の伝え方に行き違いがあり、二人は別の入口で待っていた。",
+          "example_zh": "集合地点的沟通出了差错，两人在不同入口等着。"
+        },
+        {
+          "meaning_zh": "擦肩而过",
+          "meaning_ja": "人や乗り物が、すれちがって通り過ぎること。",
+          "example_ja": "駅の改札で友人と行き違ったらしい。",
+          "example_zh": "我好像在车站检票口和朋友擦肩而过了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "連絡に行き違いがある",
+          "zh": "联络出现差错"
+        },
+        {
+          "ja": "行き違いになる",
+          "zh": "错过／走岔"
+        }
+      ],
+      "usage_note_zh": "可指联络误差，也可指实际错过；「意見が行き違う」常指彼此理解不一致。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "教材义为沟通错位导致误会，说明还包括实际错过；「行き違い」作名词。",
+        "dictionary_sequences": [
+          1578800
+        ],
+        "identity": {
+          "word": "行き違い",
+          "reading_hiragana": "いきちがい",
+          "meaning": "沟通交错误会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f1e2576be679590c",
+      "index": 4088,
+      "word": "思い違い",
+      "reading_hiragana": "おもいちがい",
+      "context_meaning_zh": "误认为",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "误认为",
+          "meaning_ja": "事実とは違う内容を正しいと思い込むこと。",
+          "example_ja": "会議は金曜日だと思い違いをしていた。",
+          "example_zh": "我误以为会议在星期五。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "思い違いをする",
+          "zh": "产生误会"
+        },
+        {
+          "ja": "思い違いに気づく",
+          "zh": "发现自己弄错了"
+        }
+      ],
+      "usage_note_zh": "「～と思い違いをする」指出错认为什么；常与实际情况形成对照。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "说明后察觉原先理解有误并改正；词典兼名词及不及物する动词用法，本句作误解名词。",
+        "dictionary_sequences": [
+          1607970
+        ],
+        "identity": {
+          "word": "思い違い",
+          "reading_hiragana": "おもいちがい",
+          "meaning": "误认为"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c3af9ca9ae5eb58c",
+      "index": 4089,
+      "word": "解釈",
+      "reading_hiragana": "かいしゃく",
+      "context_meaning_zh": "解释理解",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "解释理解",
+          "meaning_ja": "文章や言葉などの意味を考えて、理解すること。",
+          "example_ja": "同じ言葉でも、読む人によって解釈が異なる。",
+          "example_zh": "同一个词，不同读者的理解也会不同。"
+        },
+        {
+          "meaning_zh": "解释说明",
+          "meaning_ja": "事柄の意味や理由を、自分の理解に基づいて説明すること。",
+          "example_ja": "資料の数字を都合よく解釈してはいけない。",
+          "example_zh": "不能按对自己有利的方式解释资料中的数字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "文を解釈する",
+          "zh": "解释句子"
+        },
+        {
+          "ja": "解釈が分かれる",
+          "zh": "理解各不相同"
+        }
+      ],
+      "usage_note_zh": "「意味」是内容本身，「解釈」是对内容作出的理解或说明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "对说明产生误解后修正解释；词典列解釈する他动用法，修正对象为理解内容。",
+        "dictionary_sequences": [
+          1199010
+        ],
+        "identity": {
+          "word": "解釈",
+          "reading_hiragana": "かいしゃく",
+          "meaning": "解释理解"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-61404b5dc3cd809d",
+      "index": 4090,
+      "word": "言い換え",
+      "reading_hiragana": "いいかえ",
+      "context_meaning_zh": "换一种说法",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "换一种说法",
+          "meaning_ja": "同じ内容を、別の言葉や表現で言うこと。",
+          "example_ja": "難しい言葉を使わず、簡単な表現に言い換えた。",
+          "example_zh": "没有使用难懂的词，而是换成了简单的表达。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "別の言葉に言い換える",
+          "zh": "换成别的说法"
+        },
+        {
+          "ja": "言い換え表現",
+          "zh": "替代表达"
+        }
+      ],
+      "usage_note_zh": "常用「AをBと言い換える」；换说法时应尽量保留原意。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「言い換えが必要」中言い換え是改述行为名词；词典只列名词义，不能把词形误当作言い換える。",
+        "dictionary_sequences": [
+          1756480
+        ],
+        "identity": {
+          "word": "言い換え",
+          "reading_hiragana": "いいかえ",
+          "meaning": "换一种说法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b56e81b4276bcba6",
+      "index": 4091,
+      "word": "当然",
+      "reading_hiragana": "とうぜん",
+      "context_meaning_zh": "理所当然",
+      "pos_ja": "ナ形容詞・副詞",
+      "pos_zh": "な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "理所当然",
+          "meaning_ja": "道理や状況から考えて、そうなるのが自然で、予想どおりだと思われる様子。",
+          "example_ja": "毎日練習したのだから、上達するのは当然だ。",
+          "example_zh": "每天都练习，进步是理所当然的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "当然のこと",
+          "zh": "理所当然的事"
+        },
+        {
+          "ja": "当然だと思う",
+          "zh": "认为理所当然"
+        }
+      ],
+      "usage_note_zh": "常作な形容词修饰名词时用「当然の」；句末可说「当然だ」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "当然可作当然だ及当然の名词修饰语，也可副词性地表示理所当然；本课为句末状态判断。",
+        "dictionary_sequences": [
+          1449190
+        ],
+        "identity": {
+          "word": "当然",
+          "reading_hiragana": "とうぜん",
+          "meaning": "理所当然"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e232b17ffae05faa",
+      "index": 4092,
+      "word": "理屈",
+      "reading_hiragana": "りくつ",
+      "context_meaning_zh": "道理理由",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "道理理由",
+          "meaning_ja": "筋道の通った考えや説明。",
+          "example_ja": "彼の理屈は分かるが、今は実行できない。",
+          "example_zh": "我理解他的道理，但现在无法实行。"
+        },
+        {
+          "meaning_zh": "借口式说辞",
+          "meaning_ja": "自分に都合よく組み立てた説明。",
+          "example_ja": "理屈ばかり並べず、まず謝りなさい。",
+          "example_zh": "别光讲一堆道理，先道歉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "理屈を言う",
+          "zh": "讲道理／找理由"
+        },
+        {
+          "ja": "理屈に合う",
+          "zh": "合乎道理"
+        }
+      ],
+      "usage_note_zh": "有时中性指逻辑，也常带责备意味，指过分讲道理或找借口。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "即使道理正确，表达粗暴也难传达，使用理屈的逻辑、理由名词义。",
+        "dictionary_sequences": [
+          1606240
+        ],
+        "identity": {
+          "word": "理屈",
+          "reading_hiragana": "りくつ",
+          "meaning": "道理理由"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0fed42ba2eadf648",
+      "index": 4093,
+      "word": "根拠",
+      "reading_hiragana": "こんきょ",
+      "context_meaning_zh": "依据",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "依据",
+          "meaning_ja": "判断や主張を支える、確かな事実や資料。",
+          "example_ja": "その結論を出した根拠を示してください。",
+          "example_zh": "请说明得出那个结论的依据。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "根拠を示す",
+          "zh": "出示依据"
+        },
+        {
+          "ja": "根拠がない",
+          "zh": "没有根据"
+        }
+      ],
+      "usage_note_zh": "常与「に基づく」搭配；依据是支撑判断的材料，不等同于结论本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "对六人因邮件缺席的说法，目前没有根据；根拠为支持判断的名词。",
+        "dictionary_sequences": [
+          1290120
+        ],
+        "identity": {
+          "word": "根拠",
+          "reading_hiragana": "こんきょ",
+          "meaning": "依据"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-38cdfc08a0bc7609",
+      "index": 4094,
+      "word": "お前",
+      "reading_hiragana": "おまえ",
+      "context_meaning_zh": "你（亲密或粗鲁语域）",
+      "pos_ja": "代名詞・人称",
+      "pos_zh": "代词・人称",
+      "register_zh": "非正式・口语・男性用语・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "你（亲密或粗鲁语域）",
+          "meaning_ja": "話し手が、聞き手を直接指して呼ぶくだけた言い方。",
+          "example_ja": "お前、先に店の中で待っていて。",
+          "example_zh": "你先在店里等着。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "お前はどう思う",
+          "zh": "你怎么想"
+        },
+        {
+          "ja": "お前たち",
+          "zh": "你们"
+        }
+      ],
+      "usage_note_zh": "只适合关系亲近或冲突场面；对不熟的人使用可能显得失礼。正式场合宜用姓名＋さん或职位称呼，也可省略第二人称主语。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial",
+          "masculine",
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「お前」是非正式第二人称，辞书fam和male分别支持亲昵、男性用法；是否冒犯取决于关系。怒斥例句不能把代词一律判为贬称。",
+        "dictionary_sequences": [
+          1002290
+        ],
+        "identity": {
+          "word": "お前",
+          "reading_hiragana": "おまえ",
+          "meaning": "你（亲密或粗鲁语域）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-328f63347d33291a",
+      "index": 4095,
+      "word": "結び付ける",
+      "reading_hiragana": "むすびつける",
+      "context_meaning_zh": "联系起来；系牢",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "联系起来；系牢",
+          "meaning_ja": "別々のものをつなぎ、ひと続きにする。",
+          "example_ja": "二つの資料を結び付けて、一つの報告書にした。",
+          "example_zh": "把两份资料联系起来，整理成了一份报告。"
+        },
+        {
+          "meaning_zh": "联系；关联",
+          "meaning_ja": "二つの事柄の間に関係があると考える。",
+          "example_ja": "小さな失敗を、すぐ能力の問題に結び付けないでください。",
+          "example_zh": "请不要立刻把小失误和能力问题联系起来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ひもを結び付ける",
+          "zh": "把绳子系上"
+        },
+        {
+          "ja": "原因と結果を結び付ける",
+          "zh": "把原因和结果联系起来"
+        }
+      ],
+      "usage_note_zh": "具体连接可用「物を物に結び付ける」；抽象关联常用「AをBに結び付ける」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一段他动词，例句涵盖用绳系牢和把发送、接收联系起来，两义均见词典。",
+        "dictionary_sequences": [
+          1254650
+        ],
+        "identity": {
+          "word": "結び付ける",
+          "reading_hiragana": "むすびつける",
+          "meaning": "联系起来；系牢"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6d5979ed8768df18",
+      "index": 4096,
+      "word": "所為",
+      "reading_hiragana": "せい",
+      "context_meaning_zh": "せい：原因、缘故，常用于负面归因",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "せい：原因、缘故，常用于负面归因",
+          "meaning_ja": "望ましくない結果を引き起こしたものとして挙げる事柄。",
+          "example_ja": "失敗を人の所為にするのはよくない。",
+          "example_zh": "把失败归咎于别人不好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人の所為にする",
+          "zh": "归咎于某人"
+        },
+        {
+          "ja": "雨の所為",
+          "zh": "因为下雨"
+        }
+      ],
+      "usage_note_zh": "「所為」在此读「せい」，现代多写作假名「せい」；常见结构为「～のせいで」（因……导致不利结果）和「～のせいにする」（归咎于……）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "邮件缺席的原因「せいで」带负面归因，符合词典consequence/blame名词义；固定接续不改变其名词性质。",
+        "dictionary_sequences": [
+          1610040
+        ],
+        "identity": {
+          "word": "所為",
+          "reading_hiragana": "せい",
+          "meaning": "せい：原因、缘故，常用于负面归因"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-213b43f89f48d91b",
+      "index": 4097,
+      "word": "元",
+      "reading_hiragana": "もと",
+      "context_meaning_zh": "根源、起因；区别已有原来的状态义",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "根源、起因；区别已有原来的状态义",
+          "meaning_ja": "物事がそこから始まったり、生じたりするもと。",
+          "example_ja": "小さな確認不足が、大きな問題の元になった。",
+          "example_zh": "一次小小的确认疏漏成了大问题的起因。"
+        },
+        {
+          "meaning_zh": "原来的状态",
+          "meaning_ja": "変化する前の、もとの状態や形。",
+          "example_ja": "使った道具は元の場所に戻してください。",
+          "example_zh": "请把用过的工具放回原处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "問題の元",
+          "zh": "问题的根源"
+        },
+        {
+          "ja": "元に戻す",
+          "zh": "恢复原状"
+        }
+      ],
+      "usage_note_zh": "词条课内义为根源、起因；「元に戻す」中的「元」则指原来的状态，需按搭配区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「誤解の元」中的元指误解的起因或来源，词典cause义对应；区别于元の状態所指旧状态。",
+        "dictionary_sequences": [
+          1260670
+        ],
+        "identity": {
+          "word": "元",
+          "reading_hiragana": "もと",
+          "meaning": "根源、起因；区别已有原来的状态义"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e4d4caa1a4c8cdb8",
+      "index": 4098,
+      "word": "御蔭",
+      "reading_hiragana": "おかげ",
+      "context_meaning_zh": "おかげ：多亏、由于，带受惠归因",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "おかげ：多亏、由于，带受惠归因",
+          "meaning_ja": "よい結果が相手の助けや、ある条件によって生じたと表す。",
+          "example_ja": "先生の御蔭で、難しい箇所を理解できました。",
+          "example_zh": "多亏老师，我理解了难懂的部分。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先生の御蔭で",
+          "zh": "多亏老师"
+        },
+        {
+          "ja": "御蔭さまで",
+          "zh": "托您的福"
+        }
+      ],
+      "usage_note_zh": "「御蔭」是「おかげ」的汉字写法，现代通常写作假名；常用「～のおかげで」表示受惠的正面结果，客套地报告近况时说「おかげさまで」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「説明のおかげで」将修正误解归因于帮助，表示受惠的正面结果；是名词接「の」结构。",
+        "dictionary_sequences": [
+          1001640
+        ],
+        "identity": {
+          "word": "御蔭",
+          "reading_hiragana": "おかげ",
+          "meaning": "おかげ：多亏、由于，带受惠归因"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ab7113467118bc6a",
+      "index": 4099,
+      "word": "態度",
+      "reading_hiragana": "たいど",
+      "context_meaning_zh": "态度",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "态度",
+          "meaning_ja": "人が物事に向き合うときの考え方や振る舞い。",
+          "example_ja": "質問に答える彼の態度は、とても落ち着いていた。",
+          "example_zh": "他回答问题时的态度十分沉着。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "態度を示す",
+          "zh": "表明态度"
+        },
+        {
+          "ja": "態度が変わる",
+          "zh": "态度发生变化"
+        }
+      ],
+      "usage_note_zh": "主要指待人处事的态度；描述身体姿势时通常说「姿勢」，这里避免混淆。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句中的説明の態度指解释时的方式和姿态；词典收举止/立场两类名词义。",
+        "dictionary_sequences": [
+          1410780
+        ],
+        "identity": {
+          "word": "態度",
+          "reading_hiragana": "たいど",
+          "meaning": "态度"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6b9ab241cdf1360a",
+      "index": 4100,
+      "word": "喧嘩",
+      "reading_hiragana": "けんか",
+      "context_meaning_zh": "争吵、打架",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "争吵、打架",
+          "meaning_ja": "人同士が強い言葉で言い争ったり、手を出したりすること。",
+          "example_ja": "弟とゲームの順番をめぐって喧嘩になった。",
+          "example_zh": "我和弟弟因为玩游戏的顺序吵了起来。"
+        },
+        {
+          "meaning_zh": "吵架",
+          "meaning_ja": "意見が合わず、相手と言い争うこと。",
+          "example_ja": "喧嘩のあとで、二人は落ち着いて話し合った。",
+          "example_zh": "吵架之后，两人冷静下来谈了谈。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "喧嘩をする",
+          "zh": "吵架"
+        },
+        {
+          "ja": "喧嘩になる",
+          "zh": "吵起来"
+        }
+      ],
+      "usage_note_zh": "可指口头争吵或动手冲突；「喧嘩を売る」表示主动挑衅。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "喧嘩が収まる中的名词自サ用法；词典标vi，指争吵平息，不支配宾语。",
+        "dictionary_sequences": [
+          1257040
+        ],
+        "identity": {
+          "word": "喧嘩",
+          "reading_hiragana": "けんか",
+          "meaning": "争吵、打架"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3c428c1a90b2f31f",
+      "index": 4101,
+      "word": "悪者",
+      "reading_hiragana": "わるもの",
+      "context_meaning_zh": "坏人、坏蛋",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "坏人、坏蛋",
+          "meaning_ja": "悪いことをする人、または周りからそう見られている人。",
+          "example_ja": "話をよく聞かずに、彼を悪者にしてはいけない。",
+          "example_zh": "不要没听清事情就把他当成坏人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "悪者にする",
+          "zh": "把某人当坏人"
+        },
+        {
+          "ja": "悪者扱いする",
+          "zh": "把某人当坏蛋对待"
+        }
+      ],
+      "usage_note_zh": "可指确实做坏事的人，也可指被他人错误归咎的人；语气含贬义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指被斥为坏人的人；「悪者にする」是把某人说成坏人的构式，不改变词类。",
+        "dictionary_sequences": [
+          1151840
+        ],
+        "identity": {
+          "word": "悪者",
+          "reading_hiragana": "わるもの",
+          "meaning": "坏人、坏蛋"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-68430e7a94eb6f59",
+      "index": 4102,
+      "word": "口げんか",
+      "reading_hiragana": "くちげんか",
+      "context_meaning_zh": "吵嘴、吵架",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吵嘴、吵架",
+          "meaning_ja": "人同士が言葉で争うこと。",
+          "example_ja": "妹との口げんかは、夕食の前に終わった。",
+          "example_zh": "我和妹妹的口角在晚饭前就结束了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "口げんかをする",
+          "zh": "吵嘴"
+        },
+        {
+          "ja": "口げんかになる",
+          "zh": "发生口角"
+        }
+      ],
+      "usage_note_zh": "专指言语上的争吵；与可能包含肢体冲突的「喧嘩」相比范围较窄。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "口げんか是言语争吵，词典列名词和サ变自动词；例句中争执由回嘴而发生。",
+        "dictionary_sequences": [
+          1610660
+        ],
+        "identity": {
+          "word": "口げんか",
+          "reading_hiragana": "くちげんか",
+          "meaning": "吵嘴、吵架"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d620a527a75b12df",
+      "index": 4103,
+      "word": "生意気",
+      "reading_hiragana": "なまいき",
+      "context_meaning_zh": "自大、傲慢",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性・贬义",
+      "senses": [
+        {
+          "meaning_zh": "自大、傲慢",
+          "meaning_ja": "年齢や立場に合わず、自分を偉く見せるような態度。",
+          "example_ja": "年上の人に生意気な口をきいて、注意された。",
+          "example_zh": "他对长辈说话很傲慢，因此受到了提醒。"
+        },
+        {
+          "meaning_zh": "自不量力",
+          "meaning_ja": "自分の力を考えず、大きなことを言ったりしたりする様子。",
+          "example_ja": "まだ経験が少ないのに、生意気なことを言ってしまった。",
+          "example_zh": "明明经验还少，却说了不自量力的话。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "生意気な態度",
+          "zh": "傲慢的态度"
+        },
+        {
+          "ja": "生意気な口をきく",
+          "zh": "说话傲慢"
+        }
+      ],
+      "usage_note_zh": "常用于批评年少者或下位者表现得过分自信、无礼；修饰名词用「生意気な」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "derogatory"
+        ]
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "该词表示傲慢无礼，具有贬斥意味；对话样例表达责骂，但不足以将词条整体定为非正式或仅限口语。",
+        "dictionary_sequences": [
+          1378790
+        ],
+        "identity": {
+          "word": "生意気",
+          "reading_hiragana": "なまいき",
+          "meaning": "自大、傲慢"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7f694410f34ba938",
+      "index": 4104,
+      "word": "乱暴",
+      "reading_hiragana": "らんぼう",
+      "context_meaning_zh": "粗暴、粗鲁",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "粗暴、粗鲁",
+          "meaning_ja": "人への扱いや行動が荒く、思いやりに欠ける様子。",
+          "example_ja": "乱暴な言い方をせず、落ち着いて説明してください。",
+          "example_zh": "请不要粗鲁地说话，冷静地说明。"
+        },
+        {
+          "meaning_zh": "胡乱对待",
+          "meaning_ja": "物を丁寧に扱わず、強く動かしたり壊したりすること。",
+          "example_ja": "本を乱暴に扱うと、ページが破れてしまう。",
+          "example_zh": "粗暴地对待书本，书页会撕破。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "乱暴な言葉",
+          "zh": "粗鲁的话"
+        },
+        {
+          "ja": "物を乱暴に扱う",
+          "zh": "粗暴地对待物品"
+        }
+      ],
+      "usage_note_zh": "作形容动词时用「乱暴な」；サ变用法如「乱暴する」表示施暴，使用时需看语境。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词条可作名词、ナ形容词及自动词，表示举止粗鲁或猛烈；这些用法不限于会话媒介。",
+        "dictionary_sequences": [
+          1549100
+        ],
+        "identity": {
+          "word": "乱暴",
+          "reading_hiragana": "らんぼう",
+          "meaning": "粗暴、粗鲁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-92d1f52d668d50a3",
+      "index": 4105,
+      "word": "怒る",
+      "reading_hiragana": "おこる",
+      "context_meaning_zh": "生气、发怒",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "生气、发怒",
+          "meaning_ja": "不快なことがあって、強い怒りを感じる。",
+          "example_ja": "妹は約束を忘れられて、ひどく怒った。",
+          "example_zh": "妹妹因为对方忘了约定而大发雷霆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人に怒る",
+          "zh": "对某人生气"
+        },
+        {
+          "ja": "怒っている",
+          "zh": "正在生气"
+        }
+      ],
+      "usage_note_zh": "本词条读「おこる」，表示发怒；表示事件“发生”时也有同读动词，需依主语和语境区分。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "人物正在发怒，怒る为五段动词；词典还列出怒斥他人的及物用法。",
+        "dictionary_sequences": [
+          1445690
+        ],
+        "identity": {
+          "word": "怒る",
+          "reading_hiragana": "おこる",
+          "meaning": "生气、发怒"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8b45a7befe6983c9",
+      "index": 4106,
+      "word": "訳",
+      "reading_hiragana": "わけ",
+      "context_meaning_zh": "原因、理由",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "原因、理由",
+          "meaning_ja": "あることが起きた、またはそう判断したわけ。",
+          "example_ja": "彼が急に帰った訳を、あとで聞いた。",
+          "example_zh": "我后来问了他突然回去的原因。"
+        },
+        {
+          "meaning_zh": "当然的情理",
+          "meaning_ja": "そうなるのが自然だと考えられる事情。",
+          "example_ja": "毎日努力したのだから、合格する訳だ。",
+          "example_zh": "每天都努力了，难怪能合格。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "訳を聞く",
+          "zh": "询问缘由"
+        },
+        {
+          "ja": "そういう訳だ",
+          "zh": "原来是这么回事"
+        }
+      ],
+      "usage_note_zh": "「わけ」也常用于语法句型表达推论或解释；本课先掌握名词“缘由”义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "迟回复的訳指缘由／原因，符合词典首义；「教えてください」礼貌属于句式。",
+        "dictionary_sequences": [
+          1538330
+        ],
+        "identity": {
+          "word": "訳",
+          "reading_hiragana": "わけ",
+          "meaning": "原因、理由"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3e279cf5d11926e3",
+      "index": 4107,
+      "word": "ともかく",
+      "reading_hiragana": "ともかく",
+      "context_meaning_zh": "姑且不说;总之",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "姑且不说;总之",
+          "meaning_ja": "ある事柄をいったん脇に置いたり、話を先へ進めたりする語。",
+          "example_ja": "細かい説明はともかく、まず実物を見てください。",
+          "example_zh": "详细说明暂且不谈，请先看实物。"
+        },
+        {
+          "meaning_zh": "总之",
+          "meaning_ja": "他のことを考える前に、まず結論や行動を示す語。",
+          "example_ja": "ともかく一度、本人に確認してみよう。",
+          "example_zh": "总之先向本人确认一次吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "それはともかく",
+          "zh": "那件事暂且不谈"
+        },
+        {
+          "ja": "ともかく試す",
+          "zh": "总之先试试"
+        }
+      ],
+      "usage_note_zh": "「Aはともかく」表示暂且搁置A；句首「ともかく」则常表示先采取某行动。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句首表示先做核查，句中「原因はともかく」表示暂搁原因；两用均为副词。",
+        "dictionary_sequences": [
+          1444010
+        ],
+        "identity": {
+          "word": "ともかく",
+          "reading_hiragana": "ともかく",
+          "meaning": "姑且不说;总之"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6ecd863e30cd719f",
+      "index": 4108,
+      "word": "取り違える",
+      "reading_hiragana": "とりちがえる",
+      "context_meaning_zh": "拿错了、理解错了",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拿错了、理解错了",
+          "meaning_ja": "二つの物事を間違えて、別のものだと思ったり扱ったりする。",
+          "example_ja": "似た形の封筒を取り違えて、隣の家に届けてしまった。",
+          "example_zh": "我把外形相似的信封拿错了，送到了邻居家。"
+        },
+        {
+          "meaning_zh": "弄错；误解",
+          "meaning_ja": "言葉や内容を別の意味だと誤って受け取る。",
+          "example_ja": "彼の冗談を本気の忠告だと取り違えた。",
+          "example_zh": "我把他的玩笑误当成了认真的忠告。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "荷物を取り違える",
+          "zh": "拿错行李"
+        },
+        {
+          "ja": "意味を取り違える",
+          "zh": "误解意思"
+        }
+      ],
+      "usage_note_zh": "宾语用「を」；可指实体物品拿错，也可指语言或意图理解错。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "把两种含义弄混或把别人的雨伞拿错都属于取り違える；词典列两组一段他动义，对象清楚。",
+        "dictionary_sequences": [
+          1326560
+        ],
+        "identity": {
+          "word": "取り違える",
+          "reading_hiragana": "とりちがえる",
+          "meaning": "拿错了、理解错了"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c634312794c51701",
+      "index": 4109,
+      "word": "さて",
+      "reading_hiragana": "さて",
+      "context_meaning_zh": "(用于转话题)那么、且说",
+      "pos_ja": "感動詞・接続詞",
+      "pos_zh": "感叹词・连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(用于转话题)那么、且说",
+          "meaning_ja": "話題を切り替えたり、次の話を始めたりするときの言葉。",
+          "example_ja": "さて、次は旅行の日程を決めましょう。",
+          "example_zh": "那么，接下来决定旅行日程吧。"
+        },
+        {
+          "meaning_zh": "さて",
+          "meaning_ja": "これから何をするか考えたり、話を進めたりするときの言葉。",
+          "example_ja": "さて、忘れ物がないか確認しよう。",
+          "example_zh": "好了，确认一下有没有忘带东西吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "さて始めよう",
+          "zh": "那么开始吧"
+        },
+        {
+          "ja": "さてどうする",
+          "zh": "那么怎么办"
+        }
+      ],
+      "usage_note_zh": "句首用于转入下一话题或行动；常见于说明、叙述，也可在日常对话中使用。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "interjection",
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "用于开始下段说明或转换话题；词典同时列接续词、感叹词，当前句首转入计划说明，兼有话语引入功能。",
+        "dictionary_sequences": [
+          1585460
+        ],
+        "identity": {
+          "word": "さて",
+          "reading_hiragana": "さて",
+          "meaning": "(用于转话题)那么、且说"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e249478e946c18e9",
+      "index": 4110,
+      "word": "一体",
+      "reading_hiragana": "いったい",
+      "context_meaning_zh": "究竟、到底",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "究竟、到底",
+          "meaning_ja": "疑問の気持ちを強め、理由や事情を問いただす語。",
+          "example_ja": "いったい、何時に家を出たの？",
+          "example_zh": "你到底几点出门的？"
+        },
+        {
+          "meaning_zh": "到底（惊讶）",
+          "meaning_ja": "予想外のことに驚いたり、あきれたりする気持ちを表す。",
+          "example_ja": "一体どうしてそんなことをしたのですか。",
+          "example_zh": "你到底为什么做那种事？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一体何が起きた",
+          "zh": "到底发生了什么"
+        },
+        {
+          "ja": "一体どういうこと",
+          "zh": "究竟是怎么回事"
+        }
+      ],
+      "usage_note_zh": "多用于疑问句，常与「何／どうして／なぜ」呼应；语气强于普通提问。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句首「一体」加强对事情的追问；词典副词义与「一体どうしたんでしょう」的语境相合。",
+        "dictionary_sequences": [
+          1164510
+        ],
+        "identity": {
+          "word": "一体",
+          "reading_hiragana": "いったい",
+          "meaning": "究竟、到底"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-97a9079b95d78085",
+      "index": 4111,
+      "word": "むしろ",
+      "reading_hiragana": "むしろ",
+      "context_meaning_zh": "倒不如说",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "倒不如说",
+          "meaning_ja": "二つを比べたとき、こちらの方がより適切だと示す語。",
+          "example_ja": "彼は頑固というより、むしろ自分の考えを大切にする人だ。",
+          "example_zh": "与其说他固执，不如说他是重视自己想法的人。"
+        },
+        {
+          "meaning_zh": "反而",
+          "meaning_ja": "予想とは反対の結果になったと示す語。",
+          "example_ja": "薬を飲んだのに、むしろ熱が高くなった。",
+          "example_zh": "明明吃了药，反而烧得更高了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "むしろこちらがよい",
+          "zh": "倒不如这个更好"
+        },
+        {
+          "ja": "むしろ悪くなる",
+          "zh": "反而变差"
+        }
+      ],
+      "usage_note_zh": "常用于比较修正或出乎预料的相反结果；不能与表示选择的「あるいは」互换。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "在说明中表示倒不如说／更应看作，词典副词义支持该比较判断。",
+        "dictionary_sequences": [
+          1604870
+        ],
+        "identity": {
+          "word": "むしろ",
+          "reading_hiragana": "むしろ",
+          "meaning": "倒不如说"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-53eebe0582d5a02a",
+      "index": 4112,
+      "word": "第一",
+      "reading_hiragana": "だいいち",
+      "context_meaning_zh": "第一",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "第一",
+          "meaning_ja": "順序が最初であること。また、最も重要なもの。",
+          "example_ja": "この大会で、彼女は第一位になった。",
+          "example_zh": "她在这次比赛中获得了第一名。"
+        },
+        {
+          "meaning_zh": "首先",
+          "meaning_ja": "話や説明を始めるとき、最初に述べることを示す。",
+          "example_ja": "第一に、安全を確認してください。",
+          "example_zh": "首先，请确认安全。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "第一位",
+          "zh": "第一名"
+        },
+        {
+          "ja": "第一に考える",
+          "zh": "首先考虑"
+        }
+      ],
+      "usage_note_zh": "名词可指排名第一；作副词时「第一に」表示列举或强调首要事项。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「第一に」表示首先，「第一の確認項目」作名词修饰，兼具副词及名词用法；本例不显示最高级评价义。",
+        "dictionary_sequences": [
+          1415270
+        ],
+        "identity": {
+          "word": "第一",
+          "reading_hiragana": "だいいち",
+          "meaning": "第一"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-224b19bb760e84c5",
+      "index": 4113,
+      "word": "現状",
+      "reading_hiragana": "げんじょう",
+      "context_meaning_zh": "现状",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "现状",
+          "meaning_ja": "今の時点での状態や様子。",
+          "example_ja": "現状では、全員分の席を用意できません。",
+          "example_zh": "以目前的情况，无法准备所有人的座位。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "現状を確認する",
+          "zh": "确认现状"
+        },
+        {
+          "ja": "現状を変える",
+          "zh": "改变现状"
+        }
+      ],
+      "usage_note_zh": "指当前状态；「現状では」常用于说明目前条件或限制。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "ミン对现状感到惊讶，現状指当前存在的状态；符合词典current state义。",
+        "dictionary_sequences": [
+          1263770
+        ],
+        "identity": {
+          "word": "現状",
+          "reading_hiragana": "げんじょう",
+          "meaning": "现状"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fd42b66bdeee5dd7",
+      "index": 4114,
+      "word": "問題点",
+      "reading_hiragana": "もんだいてん",
+      "context_meaning_zh": "问题点",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "问题点",
+          "meaning_ja": "問題になっている点、直す必要がある箇所。",
+          "example_ja": "報告書を読み、三つの問題点を見つけた。",
+          "example_zh": "读完报告后，我找到了三个问题点。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "問題点を指摘する",
+          "zh": "指出问题点"
+        },
+        {
+          "ja": "問題点を整理する",
+          "zh": "整理问题点"
+        }
+      ],
+      "usage_note_zh": "「問題」可指整个问题或课题；「問題点」聚焦其中具体有问题的地方。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处聚焦容易混淆两个词义这一具体问题所在；問題点较問題更指其中有问题的点，作名词。",
+        "dictionary_sequences": [
+          1536050
+        ],
+        "identity": {
+          "word": "問題点",
+          "reading_hiragana": "もんだいてん",
+          "meaning": "问题点"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4a601ebb6cd06758",
+      "index": 4115,
+      "word": "感じる",
+      "reading_hiragana": "かんじる",
+      "context_meaning_zh": "感到、觉得;感动",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "感到、觉得;感动",
+          "meaning_ja": "外からの刺激や出来事を受けて、心や体にある気持ちを持つ。",
+          "example_ja": "窓から入る風が冷たく感じる。",
+          "example_zh": "从窗户吹进来的风让人觉得冷。"
+        },
+        {
+          "meaning_zh": "感动",
+          "meaning_ja": "出来事や人の言葉に心を強く動かされる。",
+          "example_ja": "卒業式で先生の言葉に感じるものがあった。",
+          "example_zh": "毕业典礼上，老师的话让我很受触动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "寒く感じる",
+          "zh": "感觉冷"
+        },
+        {
+          "ja": "ありがたく感じる",
+          "zh": "心怀感激"
+        }
+      ],
+      "usage_note_zh": "感受内容可用「～と感じる」或形容词连用形；本词读「かんじる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "一段动词可表示感受某事的他动用法，也有自发感触义；不安和温暖言语分别作为感受内容及引发感受的缘由。",
+        "dictionary_sequences": [
+          1212260
+        ],
+        "identity": {
+          "word": "感じる",
+          "reading_hiragana": "かんじる",
+          "meaning": "感到、觉得;感动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-380bf2ae26515c90",
+      "index": 4116,
+      "word": "届く",
+      "reading_hiragana": "とどく",
+      "context_meaning_zh": "送达、到达；够得着",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "送达、到达；够得着",
+          "meaning_ja": "人が待っている物や知らせが、目的の場所まで届く。",
+          "example_ja": "注文した本が、昨日ようやく届いた。",
+          "example_zh": "订购的书昨天终于送到了。"
+        },
+        {
+          "meaning_zh": "够得着",
+          "meaning_ja": "手や声などが、目標のところまで達する。",
+          "example_ja": "背の高い棚には手が届かない。",
+          "example_zh": "手够不到高高的架子。"
+        },
+        {
+          "meaning_zh": "传达到",
+          "meaning_ja": "気持ちや注意などが相手に伝わる。",
+          "example_ja": "注意が子どもたちに届くよう、ゆっくり話した。",
+          "example_zh": "为了让孩子们听进去，我慢慢地说了提醒。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "荷物が届く",
+          "zh": "包裹送到"
+        },
+        {
+          "ja": "手が届く",
+          "zh": "手够得到"
+        },
+        {
+          "ja": "声が届く",
+          "zh": "声音传到"
+        }
+      ],
+      "usage_note_zh": "主语是到达物时用「物が届く」；「手が届く」也可比喻能力范围所及。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "手够到箱子、声音传到后排及送达与否都是自动词届く；ます句尾只礼貌化整句。",
+        "dictionary_sequences": [
+          1457200
+        ],
+        "identity": {
+          "word": "届く",
+          "reading_hiragana": "とどく",
+          "meaning": "送达、到达；够得着"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e66a755c0884f276",
+      "index": 4117,
+      "word": "収まる・納まる",
+      "reading_hiragana": "おさまる",
+      "context_meaning_zh": "平息、解决",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "平息、解决",
+          "meaning_ja": "騒ぎや問題が落ち着き、まとまった状態になる。",
+          "example_ja": "話し合いのあと、両者の怒りは少しずつ収まった。",
+          "example_zh": "商谈之后，双方的怒气渐渐平息了。"
+        },
+        {
+          "meaning_zh": "容纳；放入",
+          "meaning_ja": "決められた場所や範囲の中に入る。",
+          "example_ja": "この箱には、道具が全部収まります。",
+          "example_zh": "这个箱子能装下所有工具。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "騒ぎが収まる",
+          "zh": "骚动平息"
+        },
+        {
+          "ja": "箱に収まる",
+          "zh": "装进箱子"
+        }
+      ],
+      "usage_note_zh": "「収まる」可指骚动或问题平息，也可指物品进入容器或范围；「納まる」另用于缴纳、交付入库等语境。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "争吵平息的収まる义表示状态稳定，主语喧哗自行止息；当前无词典信息。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "収まる・納まる",
+          "reading_hiragana": "おさまる",
+          "meaning": "平息、解决"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e1bcc85edafab80c",
+      "index": 4118,
+      "word": "狡い",
+      "reading_hiragana": "ずるい",
+      "context_meaning_zh": "狡猾、奸诈",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "非正式・口语・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "狡猾、奸诈",
+          "meaning_ja": "自分だけが得をするように、ずるい方法を使う様子。",
+          "example_ja": "答えを見てから自分で考えたと言うのは、ずるい。",
+          "example_zh": "看过答案后还说是自己想出来的，太狡猾了。"
+        },
+        {
+          "meaning_zh": "不公平；占便宜",
+          "meaning_ja": "相手に不利なやり方をして、自分が得をする様子。",
+          "example_ja": "一人だけ休むのはずるいよ。",
+          "example_zh": "只有一个人休息太不公平了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ずるい方法",
+          "zh": "狡猾的办法"
+        },
+        {
+          "ja": "ずるいと言う",
+          "zh": "说某人狡猾"
+        }
+      ],
+      "usage_note_zh": "修饰名词用「ずるい＋名词」；也常用于口语抱怨不公平，不一定指严重欺骗。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial",
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "可指狡猾也常口语抱怨不公平；学习注记说明语气未必指严重欺骗。",
+        "dictionary_sequences": [
+          1569240
+        ],
+        "identity": {
+          "word": "狡い",
+          "reading_hiragana": "ずるい",
+          "meaning": "狡猾、奸诈"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b280f85e42e5024b",
+      "index": 4119,
+      "word": "屁理屈",
+      "reading_hiragana": "へりくつ",
+      "context_meaning_zh": "歪理、诡辩",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・口语・贬义",
+      "senses": [
+        {
+          "meaning_zh": "歪理、诡辩",
+          "meaning_ja": "正しいように聞こえても、筋が通っていない説明や言い分。",
+          "example_ja": "屁理屈を言わず、間違いを認めてください。",
+          "example_zh": "别讲歪理了，请承认错误。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "屁理屈をこねる",
+          "zh": "强词夺理"
+        },
+        {
+          "ja": "屁理屈を言う",
+          "zh": "讲歪理"
+        }
+      ],
+      "usage_note_zh": "带明显贬义，指不合理的辩解；不用于中性逻辑讨论。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial",
+          "derogatory"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "屁理屈指牵强歪理，词本身带贬斥色彩；对话中被用作指责，不是中性逻辑术语。",
+        "dictionary_sequences": [
+          1566360
+        ],
+        "identity": {
+          "word": "屁理屈",
+          "reading_hiragana": "へりくつ",
+          "meaning": "歪理、诡辩"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ccc99c11bec8e64b",
+      "index": 4120,
+      "word": "もっとも",
+      "reading_hiragana": "もっとも",
+      "context_meaning_zh": "理所当然的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "理所当然的",
+          "meaning_ja": "物事の道理に合っていて、そう考えるのが自然な様子。",
+          "example_ja": "彼が反対したのは、もっともな理由があったからだ。",
+          "example_zh": "他反对是有合理理由的。"
+        },
+        {
+          "meaning_zh": "合理的；正当的",
+          "meaning_ja": "判断や意見に、納得できる理由がある様子。",
+          "example_ja": "彼女の説明はもっともだと思う。",
+          "example_zh": "我认为她的解释很有道理。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "もっともな意見",
+          "zh": "合理的意见"
+        },
+        {
+          "ja": "もっともな理由",
+          "zh": "正当理由"
+        }
+      ],
+      "usage_note_zh": "本课词条为形容动词「もっともだ／もっともな」；区别接续词「もっとも（不过）」的读写相同但词性与意义不同。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「もっともなこと」中的「もっとも」修饰こと，表示合理、理所当然；不同于句首连接词或“最”程度义。",
+        "dictionary_sequences": [
+          1535810
+        ],
+        "identity": {
+          "word": "もっとも",
+          "reading_hiragana": "もっとも",
+          "meaning": "理所当然的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3282710bba15e573",
+      "index": 4121,
+      "word": "ひそひそと",
+      "reading_hiragana": "ひそひそと",
+      "context_meaning_zh": "偷偷、悄悄",
+      "pos_ja": "副詞・オノマトペ",
+      "pos_zh": "副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "偷偷、悄悄",
+          "meaning_ja": "人に聞こえないよう、小さな声で話す様子。",
+          "example_ja": "二人は廊下の隅で、ひそひそと相談していた。",
+          "example_zh": "两人在走廊角落里低声商量。"
+        },
+        {
+          "meaning_zh": "窃窃私语",
+          "meaning_ja": "周りに分からないように、静かに話す様子。",
+          "example_ja": "授業中にひそひそと話すのはやめましょう。",
+          "example_zh": "上课时不要窃窃私语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ひそひそと話す",
+          "zh": "低声交谈"
+        },
+        {
+          "ja": "ひそひそ声",
+          "zh": "窃窃私语声"
+        }
+      ],
+      "usage_note_zh": "常修饰「話す」「相談する」等动词；语气上暗示不想让旁人听见。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「ひそひそと話す」表示压低声音私下说话，属拟态副词；低声描述本身不足以判定词项只用于口语。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "ひそひそと",
+          "reading_hiragana": "ひそひそと",
+          "meaning": "偷偷、悄悄"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-161346bad238e5e7",
+      "index": 4122,
+      "word": "しっくりこない",
+      "reading_hiragana": "しっくりこない",
+      "context_meaning_zh": "格格不入、不融洽",
+      "pos_ja": "表現・定型表現・活用形",
+      "pos_zh": "表达・固定表达・活用形式",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "格格不入、不融洽",
+          "meaning_ja": "物事や人の組み合わせが自然でなく、違和感がある。",
+          "example_ja": "この靴は服の色としっくりこない。",
+          "example_zh": "这双鞋和衣服的颜色搭配不协调。"
+        },
+        {
+          "meaning_zh": "不太合适；不顺手",
+          "meaning_ja": "使い方や説明が自分の感覚に合わず、納得しにくい。",
+          "example_ja": "その説明では、どうもしっくりこない。",
+          "example_zh": "那个说明总让人觉得不太对劲。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "服にしっくりこない",
+          "zh": "和衣服不搭"
+        },
+        {
+          "ja": "説明がしっくりこない",
+          "zh": "说明听起来不太对"
+        }
+      ],
+      "usage_note_zh": "「しっくりくる」的否定形式；常描述搭配不协调或理解上仍有违和感。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression",
+          "inflected_form"
+        ],
+        "conjugation": "kuru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条是惯用的否定谓语「しっくりこない」，表搭配或说明不合感受；其こない来自不及物来る活用，整体按表达标注。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "しっくりこない",
+          "reading_hiragana": "しっくりこない",
+          "meaning": "格格不入、不融洽"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e66bac2f3d67c013",
+      "index": 4123,
+      "word": "混乱",
+      "reading_hiragana": "こんらん",
+      "context_meaning_zh": "混乱",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "混乱",
+          "meaning_ja": "順序やまとまりがなくなり、何がどうなっているか分かりにくい状態。",
+          "example_ja": "急な予定変更で、連絡網が一時混乱した。",
+          "example_zh": "突然变更计划，联络网一度陷入混乱。"
+        },
+        {
+          "meaning_zh": "慌乱",
+          "meaning_ja": "人の気持ちや考えがまとまらず、落ち着かない状態。",
+          "example_ja": "質問が続き、彼の頭の中は混乱していた。",
+          "example_zh": "问题接连不断，他脑子里一片混乱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "交通が混乱する",
+          "zh": "交通混乱"
+        },
+        {
+          "ja": "混乱を招く",
+          "zh": "造成混乱"
+        }
+      ],
+      "usage_note_zh": "可指秩序紊乱，也可指思绪混乱；サ变动词可说「混乱する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "说明不足导致误会和混乱，词典列名词及サ变自动词；本例的混乱是结果状态而非带宾语动作。",
+        "dictionary_sequences": [
+          1290560
+        ],
+        "identity": {
+          "word": "混乱",
+          "reading_hiragana": "こんらん",
+          "meaning": "混乱"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-09d1bc86b7cc021c",
+      "index": 4124,
+      "word": "俺たち",
+      "reading_hiragana": "おれたち",
+      "context_meaning_zh": "俺们、咱们",
+      "pos_ja": "代名詞",
+      "pos_zh": "代词",
+      "register_zh": "非正式・口语・男性用语",
+      "senses": [
+        {
+          "meaning_zh": "俺们、咱们",
+          "meaning_ja": "話し手を含む男性的でくだけた一人称複数の言い方。",
+          "example_ja": "俺たちは先に会場へ行くよ。",
+          "example_zh": "我们先去会场哦。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "俺たちの番",
+          "zh": "轮到我们"
+        },
+        {
+          "ja": "俺たちで決める",
+          "zh": "由我们来决定"
+        }
+      ],
+      "usage_note_zh": "「俺」的复数形式，语气随关系显得亲近或粗鲁；正式场合宜用「私たち」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial",
+          "masculine"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "俺たち承接男性化第一人称俺，争执对白显粗率；亲友使用也可能亲近，整体属非正式口语。",
+        "dictionary_sequences": [
+          1863230
+        ],
+        "identity": {
+          "word": "俺たち",
+          "reading_hiragana": "おれたち",
+          "meaning": "俺们、咱们"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f0c68c336c8bc542",
+      "index": 4125,
+      "word": "振り回す",
+      "reading_hiragana": "ふりまわす",
+      "context_meaning_zh": "挥舞;折腾",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "挥舞;折腾",
+          "meaning_ja": "腕や物を大きく、強く動かす。",
+          "example_ja": "危ないので、棒を振り回さないでください。",
+          "example_zh": "很危险，请不要挥舞棍子。"
+        },
+        {
+          "meaning_zh": "折腾；摆布",
+          "meaning_ja": "自分の都合で人をあちこち動かし、困らせる。",
+          "example_ja": "上司は予定を変えて、部下を振り回した。",
+          "example_zh": "上司不断改计划，把下属折腾得团团转。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "腕を振り回す",
+          "zh": "挥舞手臂"
+        },
+        {
+          "ja": "人を振り回す",
+          "zh": "折腾别人"
+        }
+      ],
+      "usage_note_zh": "具体物体作宾语时指挥舞；以人为宾语时常指反复改变要求、让人疲于应付。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "五段他动词可挥动棍棒，也可操纵人使其困扰；两例分别体现物体和人。",
+        "dictionary_sequences": [
+          1361170
+        ],
+        "identity": {
+          "word": "振り回す",
+          "reading_hiragana": "ふりまわす",
+          "meaning": "挥舞;折腾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3842e9e0213021d8",
+      "index": 4126,
+      "word": "葛藤",
+      "reading_hiragana": "かっとう",
+      "context_meaning_zh": "内心、立场之间的矛盾冲突",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "内心、立场之间的矛盾冲突",
+          "meaning_ja": "二つの考えや気持ちの間で、どちらを選ぶか迷い苦しむこと。",
+          "example_ja": "転職したい気持ちと家族への責任の間で葛藤している。",
+          "example_zh": "他在想换工作的愿望和对家庭的责任之间挣扎。"
+        },
+        {
+          "meaning_zh": "冲突",
+          "meaning_ja": "異なる立場や考えがぶつかり、解決しにくくなること。",
+          "example_ja": "二つの部署の間で意見の葛藤が続いた。",
+          "example_zh": "两个部门之间的意见冲突持续着。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "葛藤を抱える",
+          "zh": "内心挣扎"
+        },
+        {
+          "ja": "葛藤する",
+          "zh": "陷入矛盾"
+        }
+      ],
+      "usage_note_zh": "常指心理上的拉扯，也可指不同立场之间的冲突；比单纯的「迷い」更强。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "想帮助又怕受责备的两种心情构成内在冲突；不是人际纠纷，葛藤する为自动词。",
+        "dictionary_sequences": [
+          1208780
+        ],
+        "identity": {
+          "word": "葛藤",
+          "reading_hiragana": "かっとう",
+          "meaning": "内心、立场之间的矛盾冲突"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d4831b71e8f4cba1",
+      "index": 4127,
+      "word": "親父",
+      "reading_hiragana": "おやじ",
+      "context_meaning_zh": "父亲、老头子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "非正式・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "父亲、老头子",
+          "meaning_ja": "自分の父親をくだけて呼ぶ言い方。また、年配の男性への呼びかけ。",
+          "example_ja": "親父は毎朝、近所を散歩している。",
+          "example_zh": "我爸每天早上都在附近散步。"
+        },
+        {
+          "meaning_zh": "老板；店主",
+          "meaning_ja": "飲食店などで、年配の男性店主を親しんで呼ぶ言葉。",
+          "example_ja": "親父さん、焼き魚を一つお願いします。",
+          "example_zh": "老板，麻烦来一份烤鱼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "うちの親父",
+          "zh": "我爸"
+        },
+        {
+          "ja": "親父さんと呼ぶ",
+          "zh": "称作老板／老伯"
+        }
+      ],
+      "usage_note_zh": "家人语境指父亲；店铺语境可指年长男性店主，称呼陌生长者可能显得失礼。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "うちの親父称自己的父亲，店の親父さん指店主大叔，均为亲近口语名词；词典还列父亲与年长男性义。",
+        "dictionary_sequences": [
+          1365330
+        ],
+        "identity": {
+          "word": "親父",
+          "reading_hiragana": "おやじ",
+          "meaning": "父亲、老头子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f5e77ce952168106",
+      "index": 4128,
+      "word": "奴",
+      "reading_hiragana": "やつ",
+      "context_meaning_zh": "(蔑指)人、家伙；家伙、东西",
+      "pos_ja": "名詞・代名詞",
+      "pos_zh": "名词・代词",
+      "register_zh": "非正式・口语・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "(蔑指)人、家伙；家伙、东西",
+          "meaning_ja": "相手を低く見たり、ぞんざいに呼んだりするときの言葉。",
+          "example_ja": "あいつは約束を守らない奴だ。",
+          "example_zh": "那家伙不守约。"
+        },
+        {
+          "meaning_zh": "家伙、东西",
+          "meaning_ja": "物の種類や性質をくだけて指す言葉。",
+          "example_ja": "この古い奴は、まだちゃんと動く。",
+          "example_zh": "这老东西居然还能正常运转。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "嫌な奴",
+          "zh": "讨厌的家伙"
+        },
+        {
+          "ja": "変な奴",
+          "zh": "奇怪的家伙"
+        }
+      ],
+      "usage_note_zh": "指人时常带轻蔑，指物时语气较随便；礼貌场合不要用来称呼对方。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "pronoun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial",
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「奴」在亲友间可亲昵地指人，也可指物；属非正式口语词，语气依关系和上下文变化。",
+        "dictionary_sequences": [
+          1445640
+        ],
+        "identity": {
+          "word": "奴",
+          "reading_hiragana": "やつ",
+          "meaning": "(蔑指)人、家伙；家伙、东西"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-185dbf61052a22c0",
+      "index": 4129,
+      "word": "引き回す",
+      "reading_hiragana": "ひきまわす",
+      "context_meaning_zh": "领着...到处游逛、拉着转",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "领着...到处游逛、拉着转",
+          "meaning_ja": "人を連れて、あちこち歩き回る。",
+          "example_ja": "旅行の間、友人が町の名所を引き回してくれた。",
+          "example_zh": "旅行期间，朋友领着我逛遍了城里的景点。"
+        },
+        {
+          "meaning_zh": "拉着转；带着四处走",
+          "meaning_ja": "物や人を引っぱり、場所を移しながら動かす。",
+          "example_ja": "犬に引き回されて、公園を一周した。",
+          "example_zh": "我被狗拉着在公园里绕了一圈。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "町を引き回す",
+          "zh": "领着在城里到处逛"
+        },
+        {
+          "ja": "あちこち引き回す",
+          "zh": "拉着四处走"
+        }
+      ],
+      "usage_note_zh": "常以人作宾语表示带人到处走；也可强调被牵着、拉着行动，语气依上下文变化。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "带朋友在街上到处走；例句是被动，友人仍是主动引き回す所带领的对象，辞书标五段他动。",
+        "dictionary_sequences": [
+          1168850
+        ],
+        "identity": {
+          "word": "引き回す",
+          "reading_hiragana": "ひきまわす",
+          "meaning": "领着...到处游逛、拉着转"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-54a48c95b38fbdc5",
+      "index": 4130,
+      "word": "リスト",
+      "reading_hiragana": "リスト",
+      "context_meaning_zh": "名单、目录;一览表",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "名单、目录;一览表",
+          "meaning_ja": "人や物の名前、または項目を並べて記したもの。",
+          "example_ja": "参加者のリストを受付に渡した。",
+          "example_zh": "我把参加者名单交给了接待处。"
+        },
+        {
+          "meaning_zh": "清单",
+          "meaning_ja": "必要な品目を並べた記録。",
+          "example_ja": "買う物をリストにしてから店へ行こう。",
+          "example_zh": "把要买的东西列成清单再去商店吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "参加者リスト",
+          "zh": "参加者名单"
+        },
+        {
+          "ja": "リストを作る",
+          "zh": "制作列表"
+        }
+      ],
+      "usage_note_zh": "可指人员名单、项目目录或购物清单；具体内容由前面的名词说明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号1141500对应清单名词义；课文指发送名单。wrist为同形异义，未纳入。",
+        "dictionary_sequences": [
+          1141500
+        ],
+        "identity": {
+          "word": "リスト",
+          "reading_hiragana": "リスト",
+          "meaning": "名单、目录;一览表"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2490940e9cb5bc13",
+      "index": 4131,
+      "word": "ぶつぶつ",
+      "reading_hiragana": "ぶつぶつ",
+      "context_meaning_zh": "抱怨、嘟哝",
+      "pos_ja": "名詞・副詞・オノマトペ",
+      "pos_zh": "名词・副词・拟声拟态词",
+      "register_zh": "非正式・口语",
+      "senses": [
+        {
+          "meaning_zh": "抱怨、嘟哝",
+          "meaning_ja": "不満を小さな声で何度も言う様子。",
+          "example_ja": "彼は待ち時間について、ぶつぶつ文句を言っていた。",
+          "example_zh": "他一直小声抱怨等待时间太长。"
+        },
+        {
+          "meaning_zh": "小疙瘩；小颗粒",
+          "meaning_ja": "表面にできた小さな粒や、粒がたくさんある様子。",
+          "example_ja": "新しい布の表面に、白いぶつぶつが見える。",
+          "example_zh": "新布料表面能看到白色的小颗粒。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ぶつぶつ文句を言う",
+          "zh": "嘟嘟囔囔地抱怨"
+        },
+        {
+          "ja": "肌にぶつぶつができる",
+          "zh": "皮肤起小疙瘩"
+        }
+      ],
+      "usage_note_zh": "副词时表示小声抱怨或嘟哝；作名词可指小颗粒、疹状突起，需看句法。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处ぶつぶつ修饰言う，描写低声反复抱怨；词头也可作小疙瘩名词，但非本句义。",
+        "dictionary_sequences": [
+          1011200
+        ],
+        "identity": {
+          "word": "ぶつぶつ",
+          "reading_hiragana": "ぶつぶつ",
+          "meaning": "抱怨、嘟哝"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b06deffa24916263",
+      "index": 4132,
+      "word": "とにかく",
+      "reading_hiragana": "とにかく",
+      "context_meaning_zh": "总之;无论如何",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "总之;无论如何",
+          "meaning_ja": "細かい事情はひとまず置いて、まず行動することを促したり、結論を示したりする語。",
+          "example_ja": "とにかく駅まで歩きましょう。",
+          "example_zh": "总之先走到车站吧。"
+        },
+        {
+          "meaning_zh": "无论如何",
+          "meaning_ja": "どんな事情があっても、必ず実行すると強く言う語。",
+          "example_ja": "とにかく今日中に返事をください。",
+          "example_zh": "无论如何，请今天之内给我答复。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "とにかく行く",
+          "zh": "总之先去"
+        },
+        {
+          "ja": "とにかく急ぐ",
+          "zh": "无论如何先赶快"
+        }
+      ],
+      "usage_note_zh": "「とにかく」常用于先采取行动或先说明结论；「ともかく」常用来表示某事暂且不论。部分语境有重叠，本课例句不互换。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句首先提出行动优先，也有先搁置理由的语用；例句含提议和请求，不能据ます推断敬语词。",
+        "dictionary_sequences": [
+          1443990
+        ],
+        "identity": {
+          "word": "とにかく",
+          "reading_hiragana": "とにかく",
+          "meaning": "总之;无论如何"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-564b17e022f56cfb",
+      "index": 4133,
+      "word": "それなのに",
+      "reading_hiragana": "それなのに",
+      "context_meaning_zh": "尽管那样",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "尽管那样",
+          "meaning_ja": "前の事実から予想されることと反対の内容を続ける語。",
+          "example_ja": "彼は何度も練習した。それなのに、本番では失敗した。",
+          "example_zh": "他练习了很多次。尽管如此，正式演出时还是失败了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "それなのに失敗した",
+          "zh": "尽管那样还是失败了"
+        },
+        {
+          "ja": "それなのに来なかった",
+          "zh": "尽管如此却没来"
+        }
+      ],
+      "usage_note_zh": "连接前后句，后项通常与前项带来的预期相反；比单独的「なのに」明确承接前文。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "それなのに承接已述情况并引出违背预期的判断，句首独立连接前后命题，属接续词。",
+        "dictionary_sequences": [
+          2055520
+        ],
+        "identity": {
+          "word": "それなのに",
+          "reading_hiragana": "それなのに",
+          "meaning": "尽管那样"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e117e278b3c5b92a",
+      "index": 4134,
+      "word": "あたし",
+      "reading_hiragana": "あたし",
+      "context_meaning_zh": "(女性用语俗称)我",
+      "pos_ja": "代名詞・人称",
+      "pos_zh": "代词・人称",
+      "register_zh": "非正式・女性用语",
+      "senses": [
+        {
+          "meaning_zh": "(女性用语俗称)我",
+          "meaning_ja": "話し手自身を指す、くだけた一人称の言い方。",
+          "example_ja": "あたし、先に駅で待っているね。",
+          "example_zh": "我先在车站等着哦。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "あたしが行く",
+          "zh": "我去"
+        },
+        {
+          "ja": "あたしの番",
+          "zh": "轮到我"
+        }
+      ],
+      "usage_note_zh": "「わたし」的口语化形式，通常带女性化印象；正式场合用「私（わたし）」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "feminine"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典标为第一人称代词并注明女性化；课程说明其为随意口语变体，身份不限定实际说话者性别。",
+        "dictionary_sequences": [
+          1311125
+        ],
+        "identity": {
+          "word": "あたし",
+          "reading_hiragana": "あたし",
+          "meaning": "(女性用语俗称)我"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7effdf2ae67b332f",
+      "index": 4135,
+      "word": "何を",
+      "reading_hiragana": "なにを",
+      "context_meaning_zh": "(用于反问)说什么呀",
+      "pos_ja": "表現・感動詞・定型表現",
+      "pos_zh": "表达・感叹词・固定表达",
+      "register_zh": "非正式・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "(用于反问)说什么呀",
+          "meaning_ja": "相手の発言に驚いたり反発したりして、何を言うのかと問い返す言い方。",
+          "example_ja": "何を言ってるの、そんなに急ぐ必要はないよ。",
+          "example_zh": "说什么呢，没必要那么着急。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何を言っているの",
+          "zh": "你在说什么呀"
+        },
+        {
+          "ja": "何を勝手なことを",
+          "zh": "说什么擅自做主的话"
+        }
+      ],
+      "usage_note_zh": "作为反问时不只是询问内容，而带惊讶或责备；普通疑问“做什么”则需放在具体句子中理解。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression",
+          "interjection"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "单独「何を」作争执中的反问回嘴，词典感叹词义吻合，不是普通宾语短语。",
+        "dictionary_sequences": [
+          2851233
+        ],
+        "identity": {
+          "word": "何を",
+          "reading_hiragana": "なにを",
+          "meaning": "(用于反问)说什么呀"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b958b486d69c80b9",
+      "index": 4136,
+      "word": "けんまく(剣幕・見幕)",
+      "reading_hiragana": "けんまく",
+      "context_meaning_zh": "盛怒的神色、气势",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "盛怒的神色、气势",
+          "meaning_ja": "強く怒っている人の顔つきや、相手を圧倒するような怒りの様子。",
+          "example_ja": "父はけんまくを見せて、兄を注意した。",
+          "example_zh": "父亲怒气冲冲地训斥了哥哥。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "けんまくで迫る",
+          "zh": "怒气冲冲地逼近"
+        },
+        {
+          "ja": "すごい剣幕",
+          "zh": "怒不可遏的样子"
+        }
+      ],
+      "usage_note_zh": "读作「けんまく」；「剣幕」「見幕」均为写法，日常多写假名，常与「すごい」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句中发怒的神色很明确，词头核心义和名词词性可据语境裁定；并列异写见幕的规范性不影响本条四项判断。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "けんまく(剣幕・見幕)",
+          "reading_hiragana": "けんまく",
+          "meaning": "盛怒的神色、气势"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-72f5c32d971ff684",
+      "index": 4137,
+      "word": "恥をかく",
+      "reading_hiragana": "はじをかく",
+      "context_meaning_zh": "丢丑、丢脸",
+      "pos_ja": "動詞・表現・慣用句・定型表現",
+      "pos_zh": "动词・表达・惯用语・固定表达",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "丢丑、丢脸",
+          "meaning_ja": "人前で失敗したり、恥ずかしい思いをしたりする。",
+          "example_ja": "名前を間違えて呼んでしまい、恥をかいた。",
+          "example_zh": "我叫错了对方的名字，出了丑。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "恥をかく",
+          "zh": "丢脸"
+        },
+        {
+          "ja": "人前で恥をかく",
+          "zh": "当众出丑"
+        }
+      ],
+      "usage_note_zh": "固定搭配「恥をかく」表示蒙羞；这里的「かく」不按普通“写、划”义理解。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "idiom",
+          "fixed_expression"
+        ],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「恥をかく」整体表示丢脸，词典列固定表达及五段动词形式；按短语层级判自动性。",
+        "dictionary_sequences": [
+          2088800
+        ],
+        "identity": {
+          "word": "恥をかく",
+          "reading_hiragana": "はじをかく",
+          "meaning": "丢丑、丢脸"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b37d380520245fa3",
+      "index": 4138,
+      "word": "口は災いの門",
+      "reading_hiragana": "くちはわざわいのもん",
+      "context_meaning_zh": "祸从口出",
+      "pos_ja": "表現・ことわざ",
+      "pos_zh": "表达・谚语",
+      "register_zh": "中性・文学",
+      "senses": [
+        {
+          "meaning_zh": "祸从口出",
+          "meaning_ja": "不用心な発言が原因で、自分に悪い結果を招くという教え。",
+          "example_ja": "秘密を話してしまった彼は、口は災いの門だと反省した。",
+          "example_zh": "他说漏了秘密后，反省说真是祸从口出。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "口は災いの門",
+          "zh": "祸从口出"
+        },
+        {
+          "ja": "口は災いの門と言う",
+          "zh": "常言道祸从口出"
+        }
+      ],
+      "usage_note_zh": "提醒人谨慎发言的谚语；常见形式有「口は災いの門」和「口は災いの元」，本课原文采用「門」的形式。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "proverb"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "literary"
+        ]
+      },
+      "style": {
+        "medium": "written",
+        "genres": [
+          "literary"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "成句告诫言语可能招祸，例句直接引用谚语；并非逐字表示嘴是门的普通句。",
+        "dictionary_sequences": [
+          2842831
+        ],
+        "identity": {
+          "word": "口は災いの門",
+          "reading_hiragana": "くちはわざわいのもん",
+          "meaning": "祸从口出"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c54086dd9ef09ae6",
+      "index": 4139,
+      "word": "本心",
+      "reading_hiragana": "ほんしん",
+      "context_meaning_zh": "真心",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "真心",
+          "meaning_ja": "表向きの言葉や態度の奥にある、その人の本当の気持ちや考え。",
+          "example_ja": "彼女は笑っていたが、本心では困っていた。",
+          "example_zh": "她虽然笑着，内心其实很为难。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "本心を明かす",
+          "zh": "表明真心"
+        },
+        {
+          "ja": "本心では",
+          "zh": "内心里"
+        }
+      ],
+      "usage_note_zh": "指不一定表现在言行上的真实想法或感情；常与「本心では」「本心を明かす」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表达未必显露在言行中的真实想法，例句「本心では」正是内心愿望。",
+        "dictionary_sequences": [
+          1522740
+        ],
+        "identity": {
+          "word": "本心",
+          "reading_hiragana": "ほんしん",
+          "meaning": "真心"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c0aa7fc701f61c2f",
+      "index": 4140,
+      "word": "口調",
+      "reading_hiragana": "くちょう",
+      "context_meaning_zh": "语调、腔调",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "语调、腔调",
+          "meaning_ja": "話すときの声の調子や言葉の選び方に表れる、話し方の特徴や雰囲気。",
+          "example_ja": "彼女はいつもより柔らかい口調で説明した。",
+          "example_zh": "她用比平时更柔和的语气作了说明。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "優しい口調",
+          "zh": "温和的语气"
+        },
+        {
+          "ja": "口調を変える",
+          "zh": "改变语气"
+        }
+      ],
+      "usage_note_zh": "指说话时声音、措辞和语气表现出的特点；常用「～口調で話す」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「言葉の内容も口調も大切」指表达内容之外的说话语气和方式，符合词典tone/manner名词义。",
+        "dictionary_sequences": [
+          1276610
+        ],
+        "identity": {
+          "word": "口調",
+          "reading_hiragana": "くちょう",
+          "meaning": "语调、腔调"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6619e684d8dcb2f9",
+      "index": 4141,
+      "word": "なじる",
+      "reading_hiragana": "なじる",
+      "context_meaning_zh": "责问、责备",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "责问、责备",
+          "meaning_ja": "相手の言動を強く非難し、理由を問いただす。",
+          "example_ja": "彼女は約束を破った友人を厳しくなじった。",
+          "example_zh": "她严厉责备了违背约定的朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人をなじる",
+          "zh": "责备某人"
+        },
+        {
+          "ja": "失敗をなじる",
+          "zh": "责问失败"
+        }
+      ],
+      "usage_note_zh": "常以被责备者作「を」的宾语；语气较强，表示带有非难的责问。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「となじられた」为被责问，词典两义均标五段他动词；直接宾语为受责者。",
+        "dictionary_sequences": [
+          1226560
+        ],
+        "identity": {
+          "word": "なじる",
+          "reading_hiragana": "なじる",
+          "meaning": "责问、责备"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9d09c70d435089c9",
+      "index": 4142,
+      "word": "憎まれ口",
+      "reading_hiragana": "にくまれぐち",
+      "context_meaning_zh": "招人讨厌的话",
+      "pos_ja": "名詞・慣用句",
+      "pos_zh": "名词・惯用语",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "招人讨厌的话",
+          "meaning_ja": "相手に嫌われるような、意地悪な言葉や皮肉。",
+          "example_ja": "憎まれ口をたたかず、素直に礼を言おう。",
+          "example_zh": "别说招人讨厌的话，坦率地道谢吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "憎まれ口をたたく",
+          "zh": "说讨人嫌的话"
+        },
+        {
+          "ja": "憎まれ口を言う",
+          "zh": "说难听话"
+        }
+      ],
+      "usage_note_zh": "常见搭配是「憎まれ口をたたく」；表达刻薄或故意惹人不快的话。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "idiom"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "憎まれ口指招人厌恶或惹恼他人的言语，属于固定构词名词；例句指出其会招来怨恨。",
+        "dictionary_sequences": [
+          1403420
+        ],
+        "identity": {
+          "word": "憎まれ口",
+          "reading_hiragana": "にくまれぐち",
+          "meaning": "招人讨厌的话"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d485423096fa3e42",
+      "index": 4143,
+      "word": "もめる(揉める)",
+      "reading_hiragana": "もめる",
+      "context_meaning_zh": "发生争执、纠纷",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发生争执、纠纷",
+          "meaning_ja": "意見や利害が合わず、関係者の間で争いになったり、話し合いが進まなくなったりする。",
+          "example_ja": "費用の分け方をめぐって、二人はもめた。",
+          "example_zh": "两人因为费用分摊问题起了争执。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "相手ともめる",
+          "zh": "与对方发生争执"
+        },
+        {
+          "ja": "話がもめる",
+          "zh": "事情谈不拢"
+        }
+      ],
+      "usage_note_zh": "指因意见或利害不合而发生争执；可说「人ともめる」「費用のことで揉める」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "もめる表示发生争执，句中因前职场对说明态度起争端；为一段不及物动词，未提供词典条目。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "もめる(揉める)",
+          "reading_hiragana": "もめる",
+          "meaning": "发生争执、纠纷"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-51849b4792f96193",
+      "index": 4144,
+      "word": "やばい",
+      "reading_hiragana": "やばい",
+      "context_meaning_zh": "危险的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "非正式・口语",
+      "senses": [
+        {
+          "meaning_zh": "危险的",
+          "meaning_ja": "事故や問題が起こりそうで、注意が必要な様子。",
+          "example_ja": "その道は夜になると暗くてやばい。",
+          "example_zh": "那条路一到晚上就很危险。"
+        },
+        {
+          "meaning_zh": "糟糕；不得了",
+          "meaning_ja": "程度が非常に大きく、驚いたり困ったりする様子。",
+          "example_ja": "宿題がまだ終わっていない。これはやばい。",
+          "example_zh": "作业还没做完，这下糟了。"
+        },
+        {
+          "meaning_zh": "很棒；厉害",
+          "meaning_ja": "程度が高く、話し手が強く感心している様子。",
+          "example_ja": "この店のケーキ、やばいくらいおいしい。",
+          "example_zh": "这家店的蛋糕好吃得不得了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "やばい状況",
+          "zh": "危险／糟糕的状况"
+        },
+        {
+          "ja": "やばいくらいおいしい",
+          "zh": "好吃得不得了"
+        }
+      ],
+      "usage_note_zh": "口语多义词，可表示危险、糟糕或非常好；不能脱离上下文固定译成负面义。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "やばい在当前语境是“不妙、危险”的口语义；现有词典将俚语标记用于其他释义，不套用到本条。",
+        "dictionary_sequences": [
+          1012840
+        ],
+        "identity": {
+          "word": "やばい",
+          "reading_hiragana": "やばい",
+          "meaning": "危险的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e8bf8782723e0998",
+      "index": 4145,
+      "word": "擦れ違う",
+      "reading_hiragana": "すれちがう",
+      "context_meaning_zh": "擦肩而过;(争论)意见不一致",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "擦肩而过;(争论)意见不一致",
+          "meaning_ja": "反対方向から来た人や物が、近くを通り過ぎる。",
+          "example_ja": "駅の階段で、探していた友人と擦れ違った。",
+          "example_zh": "我在车站楼梯上和正在找的朋友擦肩而过。"
+        },
+        {
+          "meaning_zh": "意见不一致",
+          "meaning_ja": "考えや気持ちが一致せず、互いに理解できない状態になる。",
+          "example_ja": "二人は同じ計画について話したのに、意見が擦れ違った。",
+          "example_zh": "两人明明在讨论同一个计划，意见却不一致。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道で擦れ違う",
+          "zh": "在路上擦肩而过"
+        },
+        {
+          "ja": "意見が擦れ違う",
+          "zh": "意见不合"
+        }
+      ],
+      "usage_note_zh": "具体经过彼此身旁时指擦肩而过；抽象用法指想法或沟通不一致，常以「意見が」作主语。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "车站入口处互相擦过，以及双方意见不合，都符合词典所列五段自动义。",
+        "dictionary_sequences": [
+          1595920
+        ],
+        "identity": {
+          "word": "擦れ違う",
+          "reading_hiragana": "すれちがう",
+          "meaning": "擦肩而过;(争论)意见不一致"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-700bfae660b01d21",
+      "index": 4146,
+      "word": "頭に来る",
+      "reading_hiragana": "あたまにくる",
+      "context_meaning_zh": "发怒、气上心头；酒劲上头",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "非正式・口语",
+      "senses": [
+        {
+          "meaning_zh": "发怒、气上心头；酒劲上头",
+          "meaning_ja": "人の言動などに腹を立て、急に怒りを感じる。",
+          "example_ja": "約束を何度も破られて、彼は頭に来た。",
+          "example_zh": "约定被一再违背，他气坏了。"
+        },
+        {
+          "meaning_zh": "酒劲上头",
+          "meaning_ja": "酒の影響が頭に回り、酔いが強くなる。",
+          "example_ja": "空腹で飲んだので、すぐに頭に来た。",
+          "example_zh": "因为空腹喝酒，酒劲很快就上头了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "頭に来る",
+          "zh": "气上心头"
+        },
+        {
+          "ja": "すぐ頭に来る",
+          "zh": "很容易发火"
+        }
+      ],
+      "usage_note_zh": "常用「頭に来る」表示生气；以饮酒为上下文时也可能指酒劲上头，属口语惯用表达。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "kuru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「頭に来る」表示发怒，另有酒劲上头义；固定口语短语以くる变形，主体经历状态变化，非支配宾语的裸动词。",
+        "dictionary_sequences": [
+          1450720
+        ],
+        "identity": {
+          "word": "頭に来る",
+          "reading_hiragana": "あたまにくる",
+          "meaning": "发怒、气上心头；酒劲上头"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b1bbbef4997392df",
+      "index": 4147,
+      "word": "気が咎める",
+      "reading_hiragana": "きがとがめる",
+      "context_meaning_zh": "感到不安、过意不去",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "感到不安、过意不去",
+          "meaning_ja": "自分の行動がよくなかったと思い、心に引っかかりを感じる。",
+          "example_ja": "一人だけ先に帰るのは気が咎める。",
+          "example_zh": "只有我一个人先回去，心里有些过意不去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "気が咎める",
+          "zh": "心里过意不去"
+        },
+        {
+          "ja": "嘘をついて気が咎める",
+          "zh": "因撒谎而内疚"
+        }
+      ],
+      "usage_note_zh": "表示因认为自己做得不妥而内心不安；惯用结构是「～て気が咎める」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "固定表达気が咎める带咎める的下一段活用，意为心中内疚不安；气是主语成分。",
+        "dictionary_sequences": [
+          2239480
+        ],
+        "identity": {
+          "word": "気が咎める",
+          "reading_hiragana": "きがとがめる",
+          "meaning": "感到不安、过意不去"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a5fdef4d0bd3d226",
+      "index": 4148,
+      "word": "恨み",
+      "reading_hiragana": "うらみ",
+      "context_meaning_zh": "仇恨",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "仇恨",
+          "meaning_ja": "ひどいことをされた相手を許せず、長く抱き続ける憎しみ。",
+          "example_ja": "彼女は昔の恨みを忘れようと努力した。",
+          "example_zh": "她努力忘掉过去的仇恨。"
+        },
+        {
+          "meaning_zh": "怨恨；怨气",
+          "meaning_ja": "不公平な扱いなどに対して残る強い不満。",
+          "example_ja": "小さな誤解から、互いに恨みを持つようになった。",
+          "example_zh": "从一个小误会开始，两人渐渐互相怨恨起来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "恨みを抱く",
+          "zh": "心怀怨恨"
+        },
+        {
+          "ja": "恨みを晴らす",
+          "zh": "报仇雪恨"
+        }
+      ],
+      "usage_note_zh": "常与「抱く」「晴らす」「買う」等搭配；强调对人或事积存的怨恨。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "憎まれ口成为怨恨的根源，例句对应怨恨义而非辞书另列的遗憾义。",
+        "dictionary_sequences": [
+          1289740
+        ],
+        "identity": {
+          "word": "恨み",
+          "reading_hiragana": "うらみ",
+          "meaning": "仇恨"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fd5c8b3369f19316",
+      "index": 4149,
+      "word": "双方",
+      "reading_hiragana": "そうほう",
+      "context_meaning_zh": "双方",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "双方",
+          "meaning_ja": "関係している二つの側のどちらも。",
+          "example_ja": "双方が条件に同意したため、契約が成立した。",
+          "example_zh": "由于双方都同意条件，合同成立了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "双方の合意",
+          "zh": "双方同意"
+        },
+        {
+          "ja": "双方に確認する",
+          "zh": "向双方确认"
+        }
+      ],
+      "usage_note_zh": "指涉及的两方整体；常见搭配「双方の合意」「双方とも」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指涉及的两个方面或当事方整体；句中两方使用粗鲁语言，符合双方相互关系义。",
+        "dictionary_sequences": [
+          1398940
+        ],
+        "identity": {
+          "word": "双方",
+          "reading_hiragana": "そうほう",
+          "meaning": "双方"
+        }
+      }
+    }
+  ]
+}

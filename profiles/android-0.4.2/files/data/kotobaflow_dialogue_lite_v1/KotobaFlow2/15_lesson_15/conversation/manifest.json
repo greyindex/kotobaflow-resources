@@ -1,0 +1,1908 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 281.945,
+ "listening_review": "pending",
+ "source_chapter": 33,
+ "turns": [
+  {
+   "turn_id": "C33-D001",
+   "turn_index": 0,
+   "speaker": "ソラ",
+   "source_text": "二月の記録を書き終わりました。愛用の手帳を見ていただけませんか。",
+   "sentence_ids": [
+    "C33-D001-S01",
+    "C33-D001-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 4.61,
+   "duration_sec": 4.61
+  },
+  {
+   "turn_id": "C33-D002",
+   "turn_index": 1,
+   "speaker": "ユン",
+   "source_text": "一日から運動を始めたんですね。朝六時に起きる計画でしたね。",
+   "sentence_ids": [
+    "C33-D002-S01",
+    "C33-D002-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 4.96,
+   "end_sec": 10.497,
+   "duration_sec": 5.537
+  },
+  {
+   "turn_id": "C33-D003",
+   "turn_index": 2,
+   "speaker": "ソラ",
+   "source_text": "はい。でも早起きに慣れなくて、三日しか続きませんでした。",
+   "sentence_ids": [
+    "C33-D003-S01",
+    "C33-D003-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 10.847,
+   "end_sec": 16.02,
+   "duration_sec": 5.173
+  },
+  {
+   "turn_id": "C33-D004",
+   "turn_index": 3,
+   "speaker": "ユン",
+   "source_text": "八日から十四日は中断ですね。睡眠の時間はどうでしたか。",
+   "sentence_ids": [
+    "C33-D004-S01",
+    "C33-D004-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.37,
+   "end_sec": 21.286,
+   "duration_sec": 4.916
+  },
+  {
+   "turn_id": "C33-D005",
+   "turn_index": 4,
+   "speaker": "ソラ",
+   "source_text": "短くなりました。なかなか六時に目覚めませんでした。今は六時に起きる練習を止めています。",
+   "sentence_ids": [
+    "C33-D005-S01",
+    "C33-D005-S02",
+    "C33-D005-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.636,
+   "end_sec": 28.412,
+   "duration_sec": 6.776
+  },
+  {
+   "turn_id": "C33-D006",
+   "turn_index": 5,
+   "speaker": "ユン",
+   "source_text": "十五日から昼休みに変えたんですね。朝よりうまくいきましたか。",
+   "sentence_ids": [
+    "C33-D006-S01",
+    "C33-D006-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.762,
+   "end_sec": 33.962,
+   "duration_sec": 5.2
+  },
+  {
+   "turn_id": "C33-D007",
+   "turn_index": 6,
+   "speaker": "ソラ",
+   "source_text": "はい。毎週三回、一回十分なので、続けやすいです。十五日は五分歩いて休んで、また五分歩きました。",
+   "sentence_ids": [
+    "C33-D007-S01",
+    "C33-D007-S02",
+    "C33-D007-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.312,
+   "end_sec": 43.623,
+   "duration_sec": 9.311
+  },
+  {
+   "turn_id": "C33-D008",
+   "turn_index": 7,
+   "speaker": "ユン",
+   "source_text": "今日は休まないで十分歩けたんですね。前の記録も読み返しましょう。",
+   "sentence_ids": [
+    "C33-D008-S01",
+    "C33-D008-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 43.973,
+   "end_sec": 49.02,
+   "duration_sec": 5.047
+  },
+  {
+   "turn_id": "C33-D009",
+   "turn_index": 8,
+   "speaker": "ソラ",
+   "source_text": "でも今日一回の成果です。体力が変わったかどうか、まだ分かりません。",
+   "sentence_ids": [
+    "C33-D009-S01",
+    "C33-D009-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 49.37,
+   "end_sec": 54.352,
+   "duration_sec": 4.982
+  },
+  {
+   "turn_id": "C33-D010",
+   "turn_index": 9,
+   "speaker": "ユン",
+   "source_text": "回数は増えましたね。朝の負担もだいぶ減りましたか。",
+   "sentence_ids": [
+    "C33-D010-S01",
+    "C33-D010-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 54.702,
+   "end_sec": 59.108,
+   "duration_sec": 4.406
+  },
+  {
+   "turn_id": "C33-D011",
+   "turn_index": 10,
+   "speaker": "ソラ",
+   "source_text": "はい。日常の暮らしに合う時間帯を選ぶのが大切ですね。",
+   "sentence_ids": [
+    "C33-D011-S01",
+    "C33-D011-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.458,
+   "end_sec": 63.684,
+   "duration_sec": 4.226
+  },
+  {
+   "turn_id": "C33-D012",
+   "turn_index": 11,
+   "speaker": "ユン",
+   "source_text": "記録のたびに感想も書くんですね。三月も続けますか。",
+   "sentence_ids": [
+    "C33-D012-S01",
+    "C33-D012-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 64.034,
+   "end_sec": 68.631,
+   "duration_sec": 4.597
+  },
+  {
+   "turn_id": "C33-D013",
+   "turn_index": 12,
+   "speaker": "ソラ",
+   "source_text": "三回、十分を続けます。金曜日に記録を読み終わったら、次の週の仕事を確認します。",
+   "sentence_ids": [
+    "C33-D013-S01",
+    "C33-D013-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.981,
+   "end_sec": 75.198,
+   "duration_sec": 6.217
+  },
+  {
+   "turn_id": "C33-D014",
+   "turn_index": 13,
+   "speaker": "ユン",
+   "source_text": "忙しい週は計画を書き直すんですね。私も読書の計画を変えました。",
+   "sentence_ids": [
+    "C33-D014-S01",
+    "C33-D014-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 75.548,
+   "end_sec": 80.693,
+   "duration_sec": 5.145
+  },
+  {
+   "turn_id": "C33-D015",
+   "turn_index": 14,
+   "speaker": "ソラ",
+   "source_text": "二月に日本語の本を読み始めたんですよね。夜遅くまで読んでいますか。",
+   "sentence_ids": [
+    "C33-D015-S01",
+    "C33-D015-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.043,
+   "end_sec": 85.888,
+   "duration_sec": 4.845
+  },
+  {
+   "turn_id": "C33-D016",
+   "turn_index": 15,
+   "speaker": "ユン",
+   "source_text": "今は一ページ読むようにしています。疲れた日は読まないこともあります。夜更かしはしなくなりました。",
+   "sentence_ids": [
+    "C33-D016-S01",
+    "C33-D016-S02",
+    "C33-D016-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 86.238,
+   "end_sec": 93.755,
+   "duration_sec": 7.517
+  },
+  {
+   "turn_id": "C33-D017",
+   "turn_index": 16,
+   "speaker": "ソラ",
+   "source_text": "短い文は読めるようになりましたか。",
+   "sentence_ids": [
+    "C33-D017-S01"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 94.105,
+   "end_sec": 96.792,
+   "duration_sec": 2.687
+  },
+  {
+   "turn_id": "C33-D018",
+   "turn_index": 17,
+   "speaker": "ユン",
+   "source_text": "はい。何度も練習して、今は読めます。でも、読んでばかりいて、感想を書くのを忘れることがあります。",
+   "sentence_ids": [
+    "C33-D018-S01",
+    "C33-D018-S02",
+    "C33-D018-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.142,
+   "end_sec": 105.72,
+   "duration_sec": 8.578
+  },
+  {
+   "turn_id": "C33-D019",
+   "turn_index": 18,
+   "speaker": "ソラ",
+   "source_text": "では一行書いてみませんか。こつこつ続けたいですね。",
+   "sentence_ids": [
+    "C33-D019-S01",
+    "C33-D019-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 106.07,
+   "end_sec": 110.967,
+   "duration_sec": 4.897
+  },
+  {
+   "turn_id": "C33-D020",
+   "turn_index": 19,
+   "speaker": "ユン",
+   "source_text": "そうですね。ところで、朝はゆっくりご飯を食べられるようになりましたか。",
+   "sentence_ids": [
+    "C33-D020-S01",
+    "C33-D020-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 111.317,
+   "end_sec": 117.236,
+   "duration_sec": 5.919
+  },
+  {
+   "turn_id": "C33-D021",
+   "turn_index": 20,
+   "speaker": "ソラ",
+   "source_text": "はい。以前はカップ麺で済ませる日がほとんどでした。近頃は食生活も少し変わりました。",
+   "sentence_ids": [
+    "C33-D021-S01",
+    "C33-D021-S02",
+    "C33-D021-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 117.586,
+   "end_sec": 124.974,
+   "duration_sec": 7.388
+  },
+  {
+   "turn_id": "C33-D022",
+   "turn_index": 21,
+   "speaker": "ユン",
+   "source_text": "食習慣も一度に変えるんですか。無理なダイエットはしないでくださいね。",
+   "sentence_ids": [
+    "C33-D022-S01",
+    "C33-D022-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 125.324,
+   "end_sec": 130.384,
+   "duration_sec": 5.06
+  },
+  {
+   "turn_id": "C33-D023",
+   "turn_index": 22,
+   "speaker": "ソラ",
+   "source_text": "少しずつです。毎朝同じトーストに飽きたので、米を炊いてみました。主食の選択が増えました。",
+   "sentence_ids": [
+    "C33-D023-S01",
+    "C33-D023-S02",
+    "C33-D023-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 130.734,
+   "end_sec": 138.455,
+   "duration_sec": 7.721
+  },
+  {
+   "turn_id": "C33-D024",
+   "turn_index": 23,
+   "speaker": "ユン",
+   "source_text": "ご飯には何を合わせますか。納豆は食べられますか。",
+   "sentence_ids": [
+    "C33-D024-S01",
+    "C33-D024-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.805,
+   "end_sec": 143.306,
+   "duration_sec": 4.501
+  },
+  {
+   "turn_id": "C33-D025",
+   "turn_index": 24,
+   "speaker": "ソラ",
+   "source_text": "はい。この頃は納豆をよく食べます。今日は残ったご飯を茶漬けにしました。",
+   "sentence_ids": [
+    "C33-D025-S01",
+    "C33-D025-S02",
+    "C33-D025-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 143.656,
+   "end_sec": 149.794,
+   "duration_sec": 6.138
+  },
+  {
+   "turn_id": "C33-D026",
+   "turn_index": 25,
+   "speaker": "ユン",
+   "source_text": "忙しい朝にも作れますね。買い物の回数も増やしますか。",
+   "sentence_ids": [
+    "C33-D026-S01",
+    "C33-D026-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 150.144,
+   "end_sec": 154.481,
+   "duration_sec": 4.337
+  },
+  {
+   "turn_id": "C33-D027",
+   "turn_index": 26,
+   "speaker": "ソラ",
+   "source_text": "いいえ。生鮮食品は少し買って、缶詰も使います。牛肉と豚肉は必要な量を買います。",
+   "sentence_ids": [
+    "C33-D027-S01",
+    "C33-D027-S02",
+    "C33-D027-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 154.831,
+   "end_sec": 162.484,
+   "duration_sec": 7.653
+  },
+  {
+   "turn_id": "C33-D028",
+   "turn_index": 27,
+   "speaker": "ユン",
+   "source_text": "弁当も作るんですか。毎日せっせと料理をするのは大変でしょう。",
+   "sentence_ids": [
+    "C33-D028-S01",
+    "C33-D028-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 162.834,
+   "end_sec": 168.466,
+   "duration_sec": 5.632
+  },
+  {
+   "turn_id": "C33-D029",
+   "turn_index": 28,
+   "speaker": "ソラ",
+   "source_text": "常に手作りではありません。昼はうどんやサンドイッチを買うこともあります。",
+   "sentence_ids": [
+    "C33-D029-S01",
+    "C33-D029-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 168.816,
+   "end_sec": 173.932,
+   "duration_sec": 5.116
+  },
+  {
+   "turn_id": "C33-D030",
+   "turn_index": 29,
+   "speaker": "ユン",
+   "source_text": "私もファストフードを利用します。食べた物を記録したら、自分の癖が分かりますね。",
+   "sentence_ids": [
+    "C33-D030-S01",
+    "C33-D030-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 174.282,
+   "end_sec": 180.509,
+   "duration_sec": 6.227
+  },
+  {
+   "turn_id": "C33-D031",
+   "turn_index": 30,
+   "speaker": "ソラ",
+   "source_text": "私はラーメンが好きで、つい汁も全部飲みます。塩辛い物をよく食べていました。",
+   "sentence_ids": [
+    "C33-D031-S01",
+    "C33-D031-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 180.859,
+   "end_sec": 187.251,
+   "duration_sec": 6.392
+  },
+  {
+   "turn_id": "C33-D032",
+   "turn_index": 31,
+   "speaker": "ユン",
+   "source_text": "家の料理はどうですか。調味料を入れる前に味を見ていますか。",
+   "sentence_ids": [
+    "C33-D032-S01",
+    "C33-D032-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 187.601,
+   "end_sec": 192.233,
+   "duration_sec": 4.632
+  },
+  {
+   "turn_id": "C33-D033",
+   "turn_index": 32,
+   "speaker": "ソラ",
+   "source_text": "前は醤油も塩もすぐ入れました。今は使い過ぎに気を付けています。ギョーザもまず何も付けないで食べます。",
+   "sentence_ids": [
+    "C33-D033-S01",
+    "C33-D033-S02",
+    "C33-D033-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 192.583,
+   "end_sec": 200.625,
+   "duration_sec": 8.042
+  },
+  {
+   "turn_id": "C33-D034",
+   "turn_index": 33,
+   "speaker": "ユン",
+   "source_text": "私は甘い紅茶が好きです。でも砂糖を入れない紅茶も試したいです。",
+   "sentence_ids": [
+    "C33-D034-S01",
+    "C33-D034-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 200.975,
+   "end_sec": 205.335,
+   "duration_sec": 4.36
+  },
+  {
+   "turn_id": "C33-D035",
+   "turn_index": 34,
+   "speaker": "ソラ",
+   "source_text": "レモンを入れてみませんか。私はコーラを買う回数が減りました。果汁入りの飲み物も買う前に表示を読みます。",
+   "sentence_ids": [
+    "C33-D035-S01",
+    "C33-D035-S02",
+    "C33-D035-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 205.685,
+   "end_sec": 214.177,
+   "duration_sec": 8.492
+  },
+  {
+   "turn_id": "C33-D036",
+   "turn_index": 35,
+   "speaker": "ユン",
+   "source_text": "買うたびに確かめるんですね。私も飲み物の無駄遣いを減らしたいです。",
+   "sentence_ids": [
+    "C33-D036-S01",
+    "C33-D036-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 214.527,
+   "end_sec": 219.503,
+   "duration_sec": 4.976
+  },
+  {
+   "turn_id": "C33-D037",
+   "turn_index": 36,
+   "speaker": "ソラ",
+   "source_text": "はい。間食も記録しています。知らず知らずのうちに菓子を食べていることがあったんです。",
+   "sentence_ids": [
+    "C33-D037-S01",
+    "C33-D037-S02",
+    "C33-D037-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 219.853,
+   "end_sec": 225.779,
+   "duration_sec": 5.926
+  },
+  {
+   "turn_id": "C33-D038",
+   "turn_index": 37,
+   "speaker": "ユン",
+   "source_text": "私は散歩の後でフルーツを食べるのを楽しみにしています。今日は林檎を持って来ました。一緒に食べませんか。",
+   "sentence_ids": [
+    "C33-D038-S01",
+    "C33-D038-S02",
+    "C33-D038-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 226.129,
+   "end_sec": 233.081,
+   "duration_sec": 6.952
+  },
+  {
+   "turn_id": "C33-D039",
+   "turn_index": 38,
+   "speaker": "ソラ",
+   "source_text": "ありがとうございます。のんびり話しているときは、リラックスできますね。休日は何をしていますか。",
+   "sentence_ids": [
+    "C33-D039-S01",
+    "C33-D039-S02",
+    "C33-D039-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 233.43,
+   "end_sec": 241.307,
+   "duration_sec": 7.877
+  },
+  {
+   "turn_id": "C33-D040",
+   "turn_index": 39,
+   "speaker": "ユン",
+   "source_text": "植物の手入れをしています。栽培の本を読んで、小さな鉢で野菜を育て始めました。",
+   "sentence_ids": [
+    "C33-D040-S01",
+    "C33-D040-S02"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 241.657,
+   "end_sec": 250.189,
+   "duration_sec": 8.532
+  },
+  {
+   "turn_id": "C33-D041",
+   "turn_index": 40,
+   "speaker": "ソラ",
+   "source_text": "もう芽が出ましたか。私も新しいことを暮らしに取り入れたいです。",
+   "sentence_ids": [
+    "C33-D041-S01",
+    "C33-D041-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 250.539,
+   "end_sec": 255.694,
+   "duration_sec": 5.155
+  },
+  {
+   "turn_id": "C33-D042",
+   "turn_index": 41,
+   "speaker": "ユン",
+   "source_text": "はい。自然に育つと思いましたが、水を忘れて一度枯れました。今は土を見てから水をやるようにしています。",
+   "sentence_ids": [
+    "C33-D042-S01",
+    "C33-D042-S02",
+    "C33-D042-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 256.044,
+   "end_sec": 265.712,
+   "duration_sec": 9.668
+  },
+  {
+   "turn_id": "C33-D043",
+   "turn_index": 42,
+   "speaker": "ソラ",
+   "source_text": "私も思い切って挑戦したいです。でも、まず散歩の習慣を保ちます。計画をどんどん増やさないようにします。",
+   "sentence_ids": [
+    "C33-D043-S01",
+    "C33-D043-S02",
+    "C33-D043-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 266.062,
+   "end_sec": 274.18,
+   "duration_sec": 8.118
+  },
+  {
+   "turn_id": "C33-D044",
+   "turn_index": 43,
+   "speaker": "ユン",
+   "source_text": "三月の最後にまた話しましょう。昼休みが終わりますね。会社の仕事に戻りましょう。",
+   "sentence_ids": [
+    "C33-D044-S01",
+    "C33-D044-S02",
+    "C33-D044-S03"
+   ],
+   "voice_id": "ja-jp-techagent-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 274.53,
+   "end_sec": 281.938,
+   "duration_sec": 7.408
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C33-D001-S01",
+   "unit_id": "C33-D001",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "二月の記録を書き終わりました。",
+   "start_sec": 0.0,
+   "end_sec": 2.184,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D001-S02",
+   "unit_id": "C33-D001",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "愛用の手帳を見ていただけませんか。",
+   "start_sec": 2.334,
+   "end_sec": 4.61,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D002-S01",
+   "unit_id": "C33-D002",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "一日から運動を始めたんですね。",
+   "start_sec": 4.96,
+   "end_sec": 7.883,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D002-S02",
+   "unit_id": "C33-D002",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "朝六時に起きる計画でしたね。",
+   "start_sec": 8.033,
+   "end_sec": 10.497,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D003-S01",
+   "unit_id": "C33-D003",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "はい。",
+   "start_sec": 10.847,
+   "end_sec": 11.629,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D003-S02",
+   "unit_id": "C33-D003",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "でも早起きに慣れなくて、三日しか続きませんでした。",
+   "start_sec": 11.779,
+   "end_sec": 16.02,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D004-S01",
+   "unit_id": "C33-D004",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "八日から十四日は中断ですね。",
+   "start_sec": 16.37,
+   "end_sec": 19.089,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D004-S02",
+   "unit_id": "C33-D004",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "睡眠の時間はどうでしたか。",
+   "start_sec": 19.239,
+   "end_sec": 21.286,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D005-S01",
+   "unit_id": "C33-D005",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "短くなりました。",
+   "start_sec": 21.636,
+   "end_sec": 23.431,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D005-S02",
+   "unit_id": "C33-D005",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "なかなか六時に目覚めませんでした。",
+   "start_sec": 23.581,
+   "end_sec": 25.888,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D005-S03",
+   "unit_id": "C33-D005",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "今は六時に起きる練習を止めています。",
+   "start_sec": 26.038,
+   "end_sec": 28.412,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D006-S01",
+   "unit_id": "C33-D006",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "十五日から昼休みに変えたんですね。",
+   "start_sec": 28.762,
+   "end_sec": 31.641,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D006-S02",
+   "unit_id": "C33-D006",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "朝よりうまくいきましたか。",
+   "start_sec": 31.791,
+   "end_sec": 33.962,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D007-S01",
+   "unit_id": "C33-D007",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "はい。",
+   "start_sec": 34.312,
+   "end_sec": 35.036,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D007-S02",
+   "unit_id": "C33-D007",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "毎週三回、一回十分なので、続けやすいです。",
+   "start_sec": 35.186,
+   "end_sec": 39.532,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D007-S03",
+   "unit_id": "C33-D007",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "十五日は五分歩いて休んで、また五分歩きました。",
+   "start_sec": 39.682,
+   "end_sec": 43.623,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D008-S01",
+   "unit_id": "C33-D008",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "今日は休まないで十分歩けたんですね。",
+   "start_sec": 43.973,
+   "end_sec": 46.84,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D008-S02",
+   "unit_id": "C33-D008",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "前の記録も読み返しましょう。",
+   "start_sec": 46.99,
+   "end_sec": 49.02,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D009-S01",
+   "unit_id": "C33-D009",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "でも今日一回の成果です。",
+   "start_sec": 49.37,
+   "end_sec": 51.626,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D009-S02",
+   "unit_id": "C33-D009",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "体力が変わったかどうか、まだ分かりません。",
+   "start_sec": 51.776,
+   "end_sec": 54.352,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D010-S01",
+   "unit_id": "C33-D010",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "回数は増えましたね。",
+   "start_sec": 54.702,
+   "end_sec": 56.688,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D010-S02",
+   "unit_id": "C33-D010",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "朝の負担もだいぶ減りましたか。",
+   "start_sec": 56.838,
+   "end_sec": 59.108,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D011-S01",
+   "unit_id": "C33-D011",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "はい。",
+   "start_sec": 59.458,
+   "end_sec": 60.16,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D011-S02",
+   "unit_id": "C33-D011",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "日常の暮らしに合う時間帯を選ぶのが大切ですね。",
+   "start_sec": 60.31,
+   "end_sec": 63.684,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D012-S01",
+   "unit_id": "C33-D012",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "記録のたびに感想も書くんですね。",
+   "start_sec": 64.034,
+   "end_sec": 66.753,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D012-S02",
+   "unit_id": "C33-D012",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "三月も続けますか。",
+   "start_sec": 66.903,
+   "end_sec": 68.631,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D013-S01",
+   "unit_id": "C33-D013",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "三回、十分を続けます。",
+   "start_sec": 68.981,
+   "end_sec": 70.929,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D013-S02",
+   "unit_id": "C33-D013",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "金曜日に記録を読み終わったら、次の週の仕事を確認します。",
+   "start_sec": 71.079,
+   "end_sec": 75.198,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D014-S01",
+   "unit_id": "C33-D014",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "忙しい週は計画を書き直すんですね。",
+   "start_sec": 75.548,
+   "end_sec": 78.568,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D014-S02",
+   "unit_id": "C33-D014",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "私も読書の計画を変えました。",
+   "start_sec": 78.718,
+   "end_sec": 80.693,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D015-S01",
+   "unit_id": "C33-D015",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "二月に日本語の本を読み始めたんですよね。",
+   "start_sec": 81.043,
+   "end_sec": 83.921,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D015-S02",
+   "unit_id": "C33-D015",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "夜遅くまで読んでいますか。",
+   "start_sec": 84.071,
+   "end_sec": 85.888,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D016-S01",
+   "unit_id": "C33-D016",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "今は一ページ読むようにしています。",
+   "start_sec": 86.238,
+   "end_sec": 89.097,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D016-S02",
+   "unit_id": "C33-D016",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "疲れた日は読まないこともあります。",
+   "start_sec": 89.247,
+   "end_sec": 91.798,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D016-S03",
+   "unit_id": "C33-D016",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "夜更かしはしなくなりました。",
+   "start_sec": 91.948,
+   "end_sec": 93.755,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D017-S01",
+   "unit_id": "C33-D017",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "短い文は読めるようになりましたか。",
+   "start_sec": 94.105,
+   "end_sec": 96.792,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D018-S01",
+   "unit_id": "C33-D018",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "はい。",
+   "start_sec": 97.142,
+   "end_sec": 98.302,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D018-S02",
+   "unit_id": "C33-D018",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "何度も練習して、今は読めます。",
+   "start_sec": 98.452,
+   "end_sec": 100.915,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D018-S03",
+   "unit_id": "C33-D018",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "でも、読んでばかりいて、感想を書くのを忘れることがあります。",
+   "start_sec": 101.065,
+   "end_sec": 105.72,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D019-S01",
+   "unit_id": "C33-D019",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "では一行書いてみませんか。",
+   "start_sec": 106.07,
+   "end_sec": 108.999,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D019-S02",
+   "unit_id": "C33-D019",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "こつこつ続けたいですね。",
+   "start_sec": 109.149,
+   "end_sec": 110.967,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D020-S01",
+   "unit_id": "C33-D020",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "そうですね。",
+   "start_sec": 111.317,
+   "end_sec": 112.744,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D020-S02",
+   "unit_id": "C33-D020",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "ところで、朝はゆっくりご飯を食べられるようになりましたか。",
+   "start_sec": 112.894,
+   "end_sec": 117.236,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D021-S01",
+   "unit_id": "C33-D021",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "はい。",
+   "start_sec": 117.586,
+   "end_sec": 118.212,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D021-S02",
+   "unit_id": "C33-D021",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "以前はカップ麺で済ませる日がほとんどでした。",
+   "start_sec": 118.362,
+   "end_sec": 121.728,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D021-S03",
+   "unit_id": "C33-D021",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "近頃は食生活も少し変わりました。",
+   "start_sec": 121.878,
+   "end_sec": 124.974,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D022-S01",
+   "unit_id": "C33-D022",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "食習慣も一度に変えるんですか。",
+   "start_sec": 125.324,
+   "end_sec": 127.678,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D022-S02",
+   "unit_id": "C33-D022",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "無理なダイエットはしないでくださいね。",
+   "start_sec": 127.828,
+   "end_sec": 130.384,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D023-S01",
+   "unit_id": "C33-D023",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "少しずつです。",
+   "start_sec": 130.734,
+   "end_sec": 132.336,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D023-S02",
+   "unit_id": "C33-D023",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "毎朝同じトーストに飽きたので、米を炊いてみました。",
+   "start_sec": 132.486,
+   "end_sec": 136.476,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D023-S03",
+   "unit_id": "C33-D023",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "主食の選択が増えました。",
+   "start_sec": 136.626,
+   "end_sec": 138.455,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D024-S01",
+   "unit_id": "C33-D024",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "ご飯には何を合わせますか。",
+   "start_sec": 138.805,
+   "end_sec": 141.357,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D024-S02",
+   "unit_id": "C33-D024",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "納豆は食べられますか。",
+   "start_sec": 141.507,
+   "end_sec": 143.306,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D025-S01",
+   "unit_id": "C33-D025",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "はい。",
+   "start_sec": 143.656,
+   "end_sec": 144.402,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D025-S02",
+   "unit_id": "C33-D025",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "この頃は納豆をよく食べます。",
+   "start_sec": 144.552,
+   "end_sec": 147.038,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D025-S03",
+   "unit_id": "C33-D025",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "今日は残ったご飯を茶漬けにしました。",
+   "start_sec": 147.188,
+   "end_sec": 149.794,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D026-S01",
+   "unit_id": "C33-D026",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "忙しい朝にも作れますね。",
+   "start_sec": 150.144,
+   "end_sec": 152.362,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D026-S02",
+   "unit_id": "C33-D026",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "買い物の回数も増やしますか。",
+   "start_sec": 152.512,
+   "end_sec": 154.481,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D027-S01",
+   "unit_id": "C33-D027",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "いいえ。",
+   "start_sec": 154.831,
+   "end_sec": 155.492,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D027-S02",
+   "unit_id": "C33-D027",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "生鮮食品は少し買って、缶詰も使います。",
+   "start_sec": 155.642,
+   "end_sec": 159.157,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D027-S03",
+   "unit_id": "C33-D027",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "牛肉と豚肉は必要な量を買います。",
+   "start_sec": 159.307,
+   "end_sec": 162.484,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D028-S01",
+   "unit_id": "C33-D028",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "弁当も作るんですか。",
+   "start_sec": 162.834,
+   "end_sec": 165.097,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D028-S02",
+   "unit_id": "C33-D028",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "毎日せっせと料理をするのは大変でしょう。",
+   "start_sec": 165.247,
+   "end_sec": 168.466,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D029-S01",
+   "unit_id": "C33-D029",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "常に手作りではありません。",
+   "start_sec": 168.816,
+   "end_sec": 170.717,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D029-S02",
+   "unit_id": "C33-D029",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "昼はうどんやサンドイッチを買うこともあります。",
+   "start_sec": 170.867,
+   "end_sec": 173.932,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D030-S01",
+   "unit_id": "C33-D030",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "私もファストフードを利用します。",
+   "start_sec": 174.282,
+   "end_sec": 176.413,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D030-S02",
+   "unit_id": "C33-D030",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "食べた物を記録したら、自分の癖が分かりますね。",
+   "start_sec": 176.563,
+   "end_sec": 180.509,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D031-S01",
+   "unit_id": "C33-D031",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "私はラーメンが好きで、つい汁も全部飲みます。",
+   "start_sec": 180.859,
+   "end_sec": 184.79,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D031-S02",
+   "unit_id": "C33-D031",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "塩辛い物をよく食べていました。",
+   "start_sec": 184.94,
+   "end_sec": 187.251,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D032-S01",
+   "unit_id": "C33-D032",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "家の料理はどうですか。",
+   "start_sec": 187.601,
+   "end_sec": 189.343,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D032-S02",
+   "unit_id": "C33-D032",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "調味料を入れる前に味を見ていますか。",
+   "start_sec": 189.493,
+   "end_sec": 192.233,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D033-S01",
+   "unit_id": "C33-D033",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "前は醤油も塩もすぐ入れました。",
+   "start_sec": 192.583,
+   "end_sec": 195.306,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D033-S02",
+   "unit_id": "C33-D033",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "今は使い過ぎに気を付けています。",
+   "start_sec": 195.456,
+   "end_sec": 197.997,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D033-S03",
+   "unit_id": "C33-D033",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "ギョーザもまず何も付けないで食べます。",
+   "start_sec": 198.147,
+   "end_sec": 200.625,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D034-S01",
+   "unit_id": "C33-D034",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "私は甘い紅茶が好きです。",
+   "start_sec": 200.975,
+   "end_sec": 202.884,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D034-S02",
+   "unit_id": "C33-D034",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "でも砂糖を入れない紅茶も試したいです。",
+   "start_sec": 203.034,
+   "end_sec": 205.335,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D035-S01",
+   "unit_id": "C33-D035",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "レモンを入れてみませんか。",
+   "start_sec": 205.685,
+   "end_sec": 207.637,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D035-S02",
+   "unit_id": "C33-D035",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "私はコーラを買う回数が減りました。",
+   "start_sec": 207.787,
+   "end_sec": 210.384,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D035-S03",
+   "unit_id": "C33-D035",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "果汁入りの飲み物も買う前に表示を読みます。",
+   "start_sec": 210.534,
+   "end_sec": 214.177,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D036-S01",
+   "unit_id": "C33-D036",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "買うたびに確かめるんですね。",
+   "start_sec": 214.527,
+   "end_sec": 216.911,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D036-S02",
+   "unit_id": "C33-D036",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "私も飲み物の無駄遣いを減らしたいです。",
+   "start_sec": 217.061,
+   "end_sec": 219.503,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D037-S01",
+   "unit_id": "C33-D037",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "はい。",
+   "start_sec": 219.853,
+   "end_sec": 220.47,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D037-S02",
+   "unit_id": "C33-D037",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "間食も記録しています。",
+   "start_sec": 220.62,
+   "end_sec": 222.262,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D037-S03",
+   "unit_id": "C33-D037",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "知らず知らずのうちに菓子を食べていることがあったんです。",
+   "start_sec": 222.412,
+   "end_sec": 225.779,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D038-S01",
+   "unit_id": "C33-D038",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "私は散歩の後でフルーツを食べるのを楽しみにしています。",
+   "start_sec": 226.129,
+   "end_sec": 229.988,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D038-S02",
+   "unit_id": "C33-D038",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "今日は林檎を持って来ました。",
+   "start_sec": 230.138,
+   "end_sec": 231.701,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D038-S03",
+   "unit_id": "C33-D038",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "一緒に食べませんか。",
+   "start_sec": 231.851,
+   "end_sec": 233.081,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D039-S01",
+   "unit_id": "C33-D039",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "ありがとうございます。",
+   "start_sec": 233.43,
+   "end_sec": 234.993,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D039-S02",
+   "unit_id": "C33-D039",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "のんびり話しているときは、リラックスできますね。",
+   "start_sec": 235.143,
+   "end_sec": 239.221,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D039-S03",
+   "unit_id": "C33-D039",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "休日は何をしていますか。",
+   "start_sec": 239.371,
+   "end_sec": 241.307,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D040-S01",
+   "unit_id": "C33-D040",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "植物の手入れをしています。",
+   "start_sec": 241.657,
+   "end_sec": 244.436,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D040-S02",
+   "unit_id": "C33-D040",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "栽培の本を読んで、小さな鉢で野菜を育て始めました。",
+   "start_sec": 244.586,
+   "end_sec": 250.189,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D041-S01",
+   "unit_id": "C33-D041",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "もう芽が出ましたか。",
+   "start_sec": 250.539,
+   "end_sec": 252.315,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D041-S02",
+   "unit_id": "C33-D041",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "私も新しいことを暮らしに取り入れたいです。",
+   "start_sec": 252.465,
+   "end_sec": 255.694,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D042-S01",
+   "unit_id": "C33-D042",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "はい。",
+   "start_sec": 256.044,
+   "end_sec": 257.487,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D042-S02",
+   "unit_id": "C33-D042",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "自然に育つと思いましたが、水を忘れて一度枯れました。",
+   "start_sec": 257.637,
+   "end_sec": 261.834,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D042-S03",
+   "unit_id": "C33-D042",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "今は土を見てから水をやるようにしています。",
+   "start_sec": 261.984,
+   "end_sec": 265.712,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D043-S01",
+   "unit_id": "C33-D043",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "私も思い切って挑戦したいです。",
+   "start_sec": 266.062,
+   "end_sec": 268.464,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D043-S02",
+   "unit_id": "C33-D043",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "でも、まず散歩の習慣を保ちます。",
+   "start_sec": 268.614,
+   "end_sec": 271.634,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D043-S03",
+   "unit_id": "C33-D043",
+   "section": "D",
+   "speaker": "ソラ",
+   "text": "計画をどんどん増やさないようにします。",
+   "start_sec": 271.784,
+   "end_sec": 274.18,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D044-S01",
+   "unit_id": "C33-D044",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "三月の最後にまた話しましょう。",
+   "start_sec": 274.53,
+   "end_sec": 277.276,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D044-S02",
+   "unit_id": "C33-D044",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "昼休みが終わりますね。",
+   "start_sec": 277.426,
+   "end_sec": 279.646,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C33-D044-S03",
+   "unit_id": "C33-D044",
+   "section": "D",
+   "speaker": "ユン",
+   "text": "会社の仕事に戻りましょう。",
+   "start_sec": 279.796,
+   "end_sec": 281.938,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

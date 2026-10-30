@@ -1,0 +1,2177 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 275.762,
+ "listening_review": "pending",
+ "source_chapter": 31,
+ "turns": [
+  {
+   "turn_id": "C31-D001",
+   "turn_index": 0,
+   "speaker": "サミ",
+   "source_text": "土曜日のスピーカーを今日決めませんか。軽いのが欲しいです。",
+   "sentence_ids": [
+    "C31-D001-S01",
+    "C31-D001-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.878,
+   "duration_sec": 3.878
+  },
+  {
+   "turn_id": "C31-D002",
+   "turn_index": 1,
+   "speaker": "中村",
+   "source_text": "はい。三つの店を比べましょう。予算は合計三千円です。",
+   "sentence_ids": [
+    "C31-D002-S01",
+    "C31-D002-S02",
+    "C31-D002-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 4.228,
+   "end_sec": 9.711,
+   "duration_sec": 5.483
+  },
+  {
+   "turn_id": "C31-D003",
+   "turn_index": 2,
+   "speaker": "サミ",
+   "source_text": "値段のほかに、交通費や送料も入りますか。",
+   "sentence_ids": [
+    "C31-D003-S01"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 10.061,
+   "end_sec": 12.977,
+   "duration_sec": 2.916
+  },
+  {
+   "turn_id": "C31-D004",
+   "turn_index": 3,
+   "speaker": "中村",
+   "source_text": "はい。手数料も入ります。安い品物でも、合計は高くなるかもしれません。",
+   "sentence_ids": [
+    "C31-D004-S01",
+    "C31-D004-S02",
+    "C31-D004-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.327,
+   "end_sec": 19.656,
+   "duration_sec": 6.329
+  },
+  {
+   "turn_id": "C31-D005",
+   "turn_index": 4,
+   "speaker": "サミ",
+   "source_text": "北町店が一番安いですね。二千四百円です。",
+   "sentence_ids": [
+    "C31-D005-S01",
+    "C31-D005-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 20.006,
+   "end_sec": 23.779,
+   "duration_sec": 3.773
+  },
+  {
+   "turn_id": "C31-D006",
+   "turn_index": 5,
+   "speaker": "中村",
+   "source_text": "でも、遠いですよ。東町の北東にあります。",
+   "sentence_ids": [
+    "C31-D006-S01",
+    "C31-D006-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 24.129,
+   "end_sec": 28.435,
+   "duration_sec": 4.306
+  },
+  {
+   "turn_id": "C31-D007",
+   "turn_index": 6,
+   "speaker": "サミ",
+   "source_text": "バスの料金と所要時間を教えてください。乗り換えはありますか。",
+   "sentence_ids": [
+    "C31-D007-S01",
+    "C31-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.785,
+   "end_sec": 33.081,
+   "duration_sec": 4.296
+  },
+  {
+   "turn_id": "C31-D008",
+   "turn_index": 7,
+   "speaker": "中村",
+   "source_text": "乗り換えなしで片道二十分、三百円です。一人往復六百円です。",
+   "sentence_ids": [
+    "C31-D008-S01",
+    "C31-D008-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 33.431,
+   "end_sec": 39.418,
+   "duration_sec": 5.987
+  },
+  {
+   "turn_id": "C31-D009",
+   "turn_index": 8,
+   "speaker": "サミ",
+   "source_text": "一人だったら合計三千円、二人だったら三千六百円ですね。二人で行くのは予算では不利ですね。",
+   "sentence_ids": [
+    "C31-D009-S01",
+    "C31-D009-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.768,
+   "end_sec": 47.27,
+   "duration_sec": 7.502
+  },
+  {
+   "turn_id": "C31-D010",
+   "turn_index": 9,
+   "speaker": "中村",
+   "source_text": "駅前店は近所です。歩いて片道十分、交通費はゼロです。時間でも有利です。",
+   "sentence_ids": [
+    "C31-D010-S01",
+    "C31-D010-S02",
+    "C31-D010-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.62,
+   "end_sec": 54.382,
+   "duration_sec": 6.762
+  },
+  {
+   "turn_id": "C31-D011",
+   "turn_index": 10,
+   "speaker": "サミ",
+   "source_text": "バスのスピードは速いですが、店までの距離が違いますね。",
+   "sentence_ids": [
+    "C31-D011-S01"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 54.732,
+   "end_sec": 58.414,
+   "duration_sec": 3.682
+  },
+  {
+   "turn_id": "C31-D012",
+   "turn_index": 11,
+   "speaker": "中村",
+   "source_text": "ええ。駅前店は東町の南西です。北町とは逆の方向ですよ。",
+   "sentence_ids": [
+    "C31-D012-S01",
+    "C31-D012-S02",
+    "C31-D012-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match",
+    "short_pause"
+   ],
+   "start_sec": 58.764,
+   "end_sec": 65.482,
+   "duration_sec": 6.718
+  },
+  {
+   "turn_id": "C31-D013",
+   "turn_index": 12,
+   "speaker": "サミ",
+   "source_text": "交通費も入れたら、どちらのほうが安いですか。",
+   "sentence_ids": [
+    "C31-D013-S01"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 65.832,
+   "end_sec": 68.593,
+   "duration_sec": 2.761
+  },
+  {
+   "turn_id": "C31-D014",
+   "turn_index": 13,
+   "speaker": "中村",
+   "source_text": "駅前店です。同じ品物が二千八百円です。北町店の一人分の合計より二百円安いです。",
+   "sentence_ids": [
+    "C31-D014-S01",
+    "C31-D014-S02",
+    "C31-D014-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.943,
+   "end_sec": 77.309,
+   "duration_sec": 8.366
+  },
+  {
+   "turn_id": "C31-D015",
+   "turn_index": 14,
+   "speaker": "サミ",
+   "source_text": "通販は二千六百円で、送料は無料ですね。家から手軽に注文できます。",
+   "sentence_ids": [
+    "C31-D015-S01",
+    "C31-D015-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.659,
+   "end_sec": 82.935,
+   "duration_sec": 5.276
+  },
+  {
+   "turn_id": "C31-D016",
+   "turn_index": 15,
+   "speaker": "中村",
+   "source_text": "現金では手数料が三百円です。カードだったら無料ですが、今日は現金でしたね。",
+   "sentence_ids": [
+    "C31-D016-S01",
+    "C31-D016-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 83.285,
+   "end_sec": 89.519,
+   "duration_sec": 6.234
+  },
+  {
+   "turn_id": "C31-D017",
+   "turn_index": 16,
+   "speaker": "サミ",
+   "source_text": "はい。現金だったら二千九百円ですね。駅前店ほど安くありません。",
+   "sentence_ids": [
+    "C31-D017-S01",
+    "C31-D017-S02",
+    "C31-D017-S03"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.869,
+   "end_sec": 95.189,
+   "duration_sec": 5.32
+  },
+  {
+   "turn_id": "C31-D018",
+   "turn_index": 17,
+   "speaker": "中村",
+   "source_text": "届ける日は金曜日か土曜日です。土曜日の十時に使えるかどうか、わかりません。",
+   "sentence_ids": [
+    "C31-D018-S01",
+    "C31-D018-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 95.538,
+   "end_sec": 102.617,
+   "duration_sec": 7.079
+  },
+  {
+   "turn_id": "C31-D019",
+   "turn_index": 18,
+   "speaker": "サミ",
+   "source_text": "土曜の午後では遅いですね。今回は不便です。",
+   "sentence_ids": [
+    "C31-D019-S01",
+    "C31-D019-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 102.967,
+   "end_sec": 106.666,
+   "duration_sec": 3.699
+  },
+  {
+   "turn_id": "C31-D020",
+   "turn_index": 19,
+   "speaker": "中村",
+   "source_text": "通販は届く日がまだはっきりしません。近い店は持ち帰りに便利です。",
+   "sentence_ids": [
+    "C31-D020-S01",
+    "C31-D020-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 107.016,
+   "end_sec": 112.411,
+   "duration_sec": 5.395
+  },
+  {
+   "turn_id": "C31-D021",
+   "turn_index": 20,
+   "speaker": "サミ",
+   "source_text": "では、駅前店で音を聞きましょう。軽さも大切ですが、品質も確認したいです。",
+   "sentence_ids": [
+    "C31-D021-S01",
+    "C31-D021-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 112.761,
+   "end_sec": 118.815,
+   "duration_sec": 6.054
+  },
+  {
+   "turn_id": "C31-D022",
+   "turn_index": 21,
+   "speaker": "中村",
+   "source_text": "七時まで開いています。北町店は六時までです。今から行けますよ。",
+   "sentence_ids": [
+    "C31-D022-S01",
+    "C31-D022-S02",
+    "C31-D022-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 119.165,
+   "end_sec": 124.306,
+   "duration_sec": 5.141
+  },
+  {
+   "turn_id": "C31-D023",
+   "turn_index": 22,
+   "speaker": "サミ",
+   "source_text": "四時ですね。駅前店にします。かばんを持っていきます。",
+   "sentence_ids": [
+    "C31-D023-S01",
+    "C31-D023-S02",
+    "C31-D023-S03"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 124.656,
+   "end_sec": 128.396,
+   "duration_sec": 3.74
+  },
+  {
+   "turn_id": "C31-D024",
+   "turn_index": 23,
+   "speaker": "中村",
+   "source_text": "三千円あります。おつりは二百円ですね。",
+   "sentence_ids": [
+    "C31-D024-S01",
+    "C31-D024-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 128.746,
+   "end_sec": 132.191,
+   "duration_sec": 3.445
+  },
+  {
+   "turn_id": "C31-D025",
+   "turn_index": 24,
+   "speaker": "サミ",
+   "source_text": "このスピーカーを聞いてもいいですか。読書会向きかどうか確認したいです。",
+   "sentence_ids": [
+    "C31-D025-S01",
+    "C31-D025-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 133.091,
+   "end_sec": 137.843,
+   "duration_sec": 4.752
+  },
+  {
+   "turn_id": "C31-D026",
+   "turn_index": 25,
+   "speaker": "店の人",
+   "source_text": "はい。音のよさがこの商品の特長です。パソコンにつないで聞きましょう。",
+   "sentence_ids": [
+    "C31-D026-S01",
+    "C31-D026-S02",
+    "C31-D026-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.193,
+   "end_sec": 143.45,
+   "duration_sec": 5.257
+  },
+  {
+   "turn_id": "C31-D027",
+   "turn_index": 26,
+   "speaker": "中村",
+   "source_text": "なかなかいい音ですね。でも、少し大きすぎます。",
+   "sentence_ids": [
+    "C31-D027-S01",
+    "C31-D027-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 143.8,
+   "end_sec": 147.986,
+   "duration_sec": 4.186
+  },
+  {
+   "turn_id": "C31-D028",
+   "turn_index": 27,
+   "speaker": "店の人",
+   "source_text": "では、音量を低めにします。この程度でどうですか。",
+   "sentence_ids": [
+    "C31-D028-S01",
+    "C31-D028-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 148.336,
+   "end_sec": 152.514,
+   "duration_sec": 4.178
+  },
+  {
+   "turn_id": "C31-D029",
+   "turn_index": 28,
+   "speaker": "サミ",
+   "source_text": "ちょうどいいです。これにします。現金で払います。",
+   "sentence_ids": [
+    "C31-D029-S01",
+    "C31-D029-S02",
+    "C31-D029-S03"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 152.864,
+   "end_sec": 156.651,
+   "duration_sec": 3.787
+  },
+  {
+   "turn_id": "C31-D030",
+   "turn_index": 29,
+   "speaker": "店の人",
+   "source_text": "二千八百円です。割引はありません。袋は無料ですが、使いますか。",
+   "sentence_ids": [
+    "C31-D030-S01",
+    "C31-D030-S02",
+    "C31-D030-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 157.001,
+   "end_sec": 163.373,
+   "duration_sec": 6.372
+  },
+  {
+   "turn_id": "C31-D031",
+   "turn_index": 30,
+   "speaker": "サミ",
+   "source_text": "袋は使いません。三千円でお願いします。",
+   "sentence_ids": [
+    "C31-D031-S01",
+    "C31-D031-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 163.723,
+   "end_sec": 166.481,
+   "duration_sec": 2.758
+  },
+  {
+   "turn_id": "C31-D032",
+   "turn_index": 31,
+   "speaker": "店の人",
+   "source_text": "二百円のおつりとレシートです。ありがとうございました。",
+   "sentence_ids": [
+    "C31-D032-S01",
+    "C31-D032-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 166.831,
+   "end_sec": 170.774,
+   "duration_sec": 3.943
+  },
+  {
+   "turn_id": "C31-D033",
+   "turn_index": 32,
+   "speaker": "中村",
+   "source_text": "前のスピーカーよりずっと軽いですね。私が持ちましょうか。",
+   "sentence_ids": [
+    "C31-D033-S01",
+    "C31-D033-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 171.124,
+   "end_sec": 175.534,
+   "duration_sec": 4.41
+  },
+  {
+   "turn_id": "C31-D034",
+   "turn_index": 33,
+   "speaker": "サミ",
+   "source_text": "大丈夫です。次は自分の買い物です。コートを見たいんですが。",
+   "sentence_ids": [
+    "C31-D034-S01",
+    "C31-D034-S02",
+    "C31-D034-S03"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 175.884,
+   "end_sec": 181.225,
+   "duration_sec": 5.341
+  },
+  {
+   "turn_id": "C31-D035",
+   "turn_index": 34,
+   "speaker": "中村",
+   "source_text": "この辺では、駅の周辺にデパートがあります。桜通りの青い看板が目印です。",
+   "sentence_ids": [
+    "C31-D035-S01",
+    "C31-D035-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 182.125,
+   "end_sec": 188.471,
+   "duration_sec": 6.346
+  },
+  {
+   "turn_id": "C31-D036",
+   "turn_index": 35,
+   "speaker": "サミ",
+   "source_text": "地図では地下ですか。",
+   "sentence_ids": [
+    "C31-D036-S01"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 188.821,
+   "end_sec": 190.217,
+   "duration_sec": 1.396
+  },
+  {
+   "turn_id": "C31-D037",
+   "turn_index": 36,
+   "speaker": "中村",
+   "source_text": "違います。地下は食べ物の売り場で、服は地上二階です。種類が豊富ですよ。",
+   "sentence_ids": [
+    "C31-D037-S01",
+    "C31-D037-S02",
+    "C31-D037-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 190.567,
+   "end_sec": 197.166,
+   "duration_sec": 6.599
+  },
+  {
+   "turn_id": "C31-D038",
+   "turn_index": 37,
+   "speaker": "サミ",
+   "source_text": "この茶色のコートを試着したいです。デザインが気に入りました。",
+   "sentence_ids": [
+    "C31-D038-S01",
+    "C31-D038-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 197.516,
+   "end_sec": 201.306,
+   "duration_sec": 3.79
+  },
+  {
+   "turn_id": "C31-D039",
+   "turn_index": 38,
+   "speaker": "店の人",
+   "source_text": "どうぞ。サイズはこちらでいいですか。厚いセーターの上に着るときは、もう一つ大きいサイズもあります。",
+   "sentence_ids": [
+    "C31-D039-S01",
+    "C31-D039-S02",
+    "C31-D039-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 201.656,
+   "end_sec": 209.663,
+   "duration_sec": 8.007
+  },
+  {
+   "turn_id": "C31-D040",
+   "turn_index": 39,
+   "speaker": "サミ",
+   "source_text": "肩がきついです。大きい方をお願いします。",
+   "sentence_ids": [
+    "C31-D040-S01",
+    "C31-D040-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 210.013,
+   "end_sec": 213.011,
+   "duration_sec": 2.998
+  },
+  {
+   "turn_id": "C31-D041",
+   "turn_index": 40,
+   "speaker": "中村",
+   "source_text": "大きい方がぴったりですね。地味ですが、サミさんによく似合います。",
+   "sentence_ids": [
+    "C31-D041-S01",
+    "C31-D041-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 213.361,
+   "end_sec": 218.373,
+   "duration_sec": 5.012
+  },
+  {
+   "turn_id": "C31-D042",
+   "turn_index": 41,
+   "speaker": "サミ",
+   "source_text": "私は普段、ズボンを穿きます。この長さだったら歩くときも楽ですね。",
+   "sentence_ids": [
+    "C31-D042-S01",
+    "C31-D042-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 218.723,
+   "end_sec": 223.654,
+   "duration_sec": 4.931
+  },
+  {
+   "turn_id": "C31-D043",
+   "turn_index": 42,
+   "speaker": "店の人",
+   "source_text": "こちらは三センチ長いです。その代わり、暖かいですよ。二つとも品質は同じです。",
+   "sentence_ids": [
+    "C31-D043-S01",
+    "C31-D043-S02",
+    "C31-D043-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 224.004,
+   "end_sec": 231.179,
+   "duration_sec": 7.175
+  },
+  {
+   "turn_id": "C31-D044",
+   "turn_index": 43,
+   "speaker": "サミ",
+   "source_text": "少し迷いますね。値段もいくらか違いますか。",
+   "sentence_ids": [
+    "C31-D044-S01",
+    "C31-D044-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 231.529,
+   "end_sec": 235.185,
+   "duration_sec": 3.656
+  },
+  {
+   "turn_id": "C31-D045",
+   "turn_index": 44,
+   "speaker": "店の人",
+   "source_text": "同じです。長持ちする布で、この値段だったらお買い得だと思います。",
+   "sentence_ids": [
+    "C31-D045-S01",
+    "C31-D045-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 235.535,
+   "end_sec": 240.418,
+   "duration_sec": 4.883
+  },
+  {
+   "turn_id": "C31-D046",
+   "turn_index": 45,
+   "speaker": "中村",
+   "source_text": "いつもの靴で歩きませんか。鏡の前ばかりでは、動きやすさがわかりませんよ。",
+   "sentence_ids": [
+    "C31-D046-S01",
+    "C31-D046-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 240.768,
+   "end_sec": 246.755,
+   "duration_sec": 5.987
+  },
+  {
+   "turn_id": "C31-D047",
+   "turn_index": 46,
+   "speaker": "サミ",
+   "source_text": "短い方にします。靴も今日はサンダルではありませんから、冬の服装を確認できますね。",
+   "sentence_ids": [
+    "C31-D047-S01",
+    "C31-D047-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 247.105,
+   "end_sec": 252.974,
+   "duration_sec": 5.869
+  },
+  {
+   "turn_id": "C31-D048",
+   "turn_index": 47,
+   "speaker": "中村",
+   "source_text": "そのコートには帽子も似合いそうですね。マフラーはどうしますか。",
+   "sentence_ids": [
+    "C31-D048-S01",
+    "C31-D048-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 253.324,
+   "end_sec": 257.945,
+   "duration_sec": 4.621
+  },
+  {
+   "turn_id": "C31-D049",
+   "turn_index": 48,
+   "speaker": "サミ",
+   "source_text": "家のを使います。今、いい案を思い付きました。買いません。その代わりに古いスカーフをマフラーにします。",
+   "sentence_ids": [
+    "C31-D049-S01",
+    "C31-D049-S02",
+    "C31-D049-S03",
+    "C31-D049-S04"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 258.295,
+   "end_sec": 265.149,
+   "duration_sec": 6.854
+  },
+  {
+   "turn_id": "C31-D050",
+   "turn_index": 49,
+   "speaker": "店の人",
+   "source_text": "家にある物でも、さまざまな組み合わせができますよ。",
+   "sentence_ids": [
+    "C31-D050-S01"
+   ],
+   "voice_id": "ja-jp-storyteller-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 265.499,
+   "end_sec": 269.09,
+   "duration_sec": 3.591
+  },
+  {
+   "turn_id": "C31-D051",
+   "turn_index": 50,
+   "speaker": "サミ",
+   "source_text": "ありがとうございます。ピンクのハンカチも持っています。茶色と合いますね。今日はコートだけ買います。",
+   "sentence_ids": [
+    "C31-D051-S01",
+    "C31-D051-S02",
+    "C31-D051-S03",
+    "C31-D051-S04"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 269.44,
+   "end_sec": 275.756,
+   "duration_sec": 6.316
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C31-D001-S01",
+   "unit_id": "C31-D001",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "土曜日のスピーカーを今日決めませんか。",
+   "start_sec": 0.0,
+   "end_sec": 2.38,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D001-S02",
+   "unit_id": "C31-D001",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "軽いのが欲しいです。",
+   "start_sec": 2.53,
+   "end_sec": 3.878,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D002-S01",
+   "unit_id": "C31-D002",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい。",
+   "start_sec": 4.228,
+   "end_sec": 5.024,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D002-S02",
+   "unit_id": "C31-D002",
+   "section": "D",
+   "speaker": "中村",
+   "text": "三つの店を比べましょう。",
+   "start_sec": 5.174,
+   "end_sec": 7.142,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D002-S03",
+   "unit_id": "C31-D002",
+   "section": "D",
+   "speaker": "中村",
+   "text": "予算は合計三千円です。",
+   "start_sec": 7.292,
+   "end_sec": 9.711,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D003-S01",
+   "unit_id": "C31-D003",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "値段のほかに、交通費や送料も入りますか。",
+   "start_sec": 10.061,
+   "end_sec": 12.977,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D004-S01",
+   "unit_id": "C31-D004",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい。",
+   "start_sec": 13.327,
+   "end_sec": 14.074,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D004-S02",
+   "unit_id": "C31-D004",
+   "section": "D",
+   "speaker": "中村",
+   "text": "手数料も入ります。",
+   "start_sec": 14.224,
+   "end_sec": 16.014,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D004-S03",
+   "unit_id": "C31-D004",
+   "section": "D",
+   "speaker": "中村",
+   "text": "安い品物でも、合計は高くなるかもしれません。",
+   "start_sec": 16.164,
+   "end_sec": 19.656,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D005-S01",
+   "unit_id": "C31-D005",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "北町店が一番安いですね。",
+   "start_sec": 20.006,
+   "end_sec": 22.209,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D005-S02",
+   "unit_id": "C31-D005",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "二千四百円です。",
+   "start_sec": 22.359,
+   "end_sec": 23.779,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D006-S01",
+   "unit_id": "C31-D006",
+   "section": "D",
+   "speaker": "中村",
+   "text": "でも、遠いですよ。",
+   "start_sec": 24.129,
+   "end_sec": 25.823,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D006-S02",
+   "unit_id": "C31-D006",
+   "section": "D",
+   "speaker": "中村",
+   "text": "東町の北東にあります。",
+   "start_sec": 25.973,
+   "end_sec": 28.435,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D007-S01",
+   "unit_id": "C31-D007",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "バスの料金と所要時間を教えてください。",
+   "start_sec": 28.785,
+   "end_sec": 31.665,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D007-S02",
+   "unit_id": "C31-D007",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "乗り換えはありますか。",
+   "start_sec": 31.815,
+   "end_sec": 33.081,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D008-S01",
+   "unit_id": "C31-D008",
+   "section": "D",
+   "speaker": "中村",
+   "text": "乗り換えなしで片道二十分、三百円です。",
+   "start_sec": 33.431,
+   "end_sec": 37.18,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D008-S02",
+   "unit_id": "C31-D008",
+   "section": "D",
+   "speaker": "中村",
+   "text": "一人往復六百円です。",
+   "start_sec": 37.33,
+   "end_sec": 39.418,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D009-S01",
+   "unit_id": "C31-D009",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "一人だったら合計三千円、二人だったら三千六百円ですね。",
+   "start_sec": 39.768,
+   "end_sec": 44.393,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D009-S02",
+   "unit_id": "C31-D009",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "二人で行くのは予算では不利ですね。",
+   "start_sec": 44.543,
+   "end_sec": 47.27,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D010-S01",
+   "unit_id": "C31-D010",
+   "section": "D",
+   "speaker": "中村",
+   "text": "駅前店は近所です。",
+   "start_sec": 47.62,
+   "end_sec": 49.335,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D010-S02",
+   "unit_id": "C31-D010",
+   "section": "D",
+   "speaker": "中村",
+   "text": "歩いて片道十分、交通費はゼロです。",
+   "start_sec": 49.485,
+   "end_sec": 52.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D010-S03",
+   "unit_id": "C31-D010",
+   "section": "D",
+   "speaker": "中村",
+   "text": "時間でも有利です。",
+   "start_sec": 52.965,
+   "end_sec": 54.382,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D011-S01",
+   "unit_id": "C31-D011",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "バスのスピードは速いですが、店までの距離が違いますね。",
+   "start_sec": 54.732,
+   "end_sec": 58.414,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D012-S01",
+   "unit_id": "C31-D012",
+   "section": "D",
+   "speaker": "中村",
+   "text": "ええ。",
+   "start_sec": 58.764,
+   "end_sec": 59.227,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D012-S02",
+   "unit_id": "C31-D012",
+   "section": "D",
+   "speaker": "中村",
+   "text": "駅前店は東町の南西です。",
+   "start_sec": 59.377,
+   "end_sec": 63.129,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D012-S03",
+   "unit_id": "C31-D012",
+   "section": "D",
+   "speaker": "中村",
+   "text": "北町とは逆の方向ですよ。",
+   "start_sec": 63.279,
+   "end_sec": 65.482,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D013-S01",
+   "unit_id": "C31-D013",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "交通費も入れたら、どちらのほうが安いですか。",
+   "start_sec": 65.832,
+   "end_sec": 68.593,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D014-S01",
+   "unit_id": "C31-D014",
+   "section": "D",
+   "speaker": "中村",
+   "text": "駅前店です。",
+   "start_sec": 68.943,
+   "end_sec": 70.166,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D014-S02",
+   "unit_id": "C31-D014",
+   "section": "D",
+   "speaker": "中村",
+   "text": "同じ品物が二千八百円です。",
+   "start_sec": 70.316,
+   "end_sec": 73.319,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D014-S03",
+   "unit_id": "C31-D014",
+   "section": "D",
+   "speaker": "中村",
+   "text": "北町店の一人分の合計より二百円安いです。",
+   "start_sec": 73.469,
+   "end_sec": 77.309,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D015-S01",
+   "unit_id": "C31-D015",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "通販は二千六百円で、送料は無料ですね。",
+   "start_sec": 77.659,
+   "end_sec": 81.107,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D015-S02",
+   "unit_id": "C31-D015",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "家から手軽に注文できます。",
+   "start_sec": 81.257,
+   "end_sec": 82.935,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D016-S01",
+   "unit_id": "C31-D016",
+   "section": "D",
+   "speaker": "中村",
+   "text": "現金では手数料が三百円です。",
+   "start_sec": 83.285,
+   "end_sec": 85.935,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D016-S02",
+   "unit_id": "C31-D016",
+   "section": "D",
+   "speaker": "中村",
+   "text": "カードだったら無料ですが、今日は現金でしたね。",
+   "start_sec": 86.085,
+   "end_sec": 89.519,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D017-S01",
+   "unit_id": "C31-D017",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "はい。",
+   "start_sec": 89.869,
+   "end_sec": 90.454,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D017-S02",
+   "unit_id": "C31-D017",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "現金だったら二千九百円ですね。",
+   "start_sec": 90.604,
+   "end_sec": 93.123,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D017-S03",
+   "unit_id": "C31-D017",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "駅前店ほど安くありません。",
+   "start_sec": 93.273,
+   "end_sec": 95.189,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D018-S01",
+   "unit_id": "C31-D018",
+   "section": "D",
+   "speaker": "中村",
+   "text": "届ける日は金曜日か土曜日です。",
+   "start_sec": 95.538,
+   "end_sec": 98.705,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D018-S02",
+   "unit_id": "C31-D018",
+   "section": "D",
+   "speaker": "中村",
+   "text": "土曜日の十時に使えるかどうか、わかりません。",
+   "start_sec": 98.855,
+   "end_sec": 102.617,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D019-S01",
+   "unit_id": "C31-D019",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "土曜の午後では遅いですね。",
+   "start_sec": 102.967,
+   "end_sec": 105.199,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D019-S02",
+   "unit_id": "C31-D019",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "今回は不便です。",
+   "start_sec": 105.349,
+   "end_sec": 106.666,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D020-S01",
+   "unit_id": "C31-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "通販は届く日がまだはっきりしません。",
+   "start_sec": 107.016,
+   "end_sec": 109.966,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D020-S02",
+   "unit_id": "C31-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "近い店は持ち帰りに便利です。",
+   "start_sec": 110.116,
+   "end_sec": 112.411,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D021-S01",
+   "unit_id": "C31-D021",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "では、駅前店で音を聞きましょう。",
+   "start_sec": 112.761,
+   "end_sec": 115.196,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D021-S02",
+   "unit_id": "C31-D021",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "軽さも大切ですが、品質も確認したいです。",
+   "start_sec": 115.346,
+   "end_sec": 118.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D022-S01",
+   "unit_id": "C31-D022",
+   "section": "D",
+   "speaker": "中村",
+   "text": "七時まで開いています。",
+   "start_sec": 119.165,
+   "end_sec": 120.773,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D022-S02",
+   "unit_id": "C31-D022",
+   "section": "D",
+   "speaker": "中村",
+   "text": "北町店は六時までです。",
+   "start_sec": 120.923,
+   "end_sec": 122.922,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D022-S03",
+   "unit_id": "C31-D022",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今から行けますよ。",
+   "start_sec": 123.072,
+   "end_sec": 124.306,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D023-S01",
+   "unit_id": "C31-D023",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "四時ですね。",
+   "start_sec": 124.656,
+   "end_sec": 125.578,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D023-S02",
+   "unit_id": "C31-D023",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "駅前店にします。",
+   "start_sec": 125.728,
+   "end_sec": 126.895,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D023-S03",
+   "unit_id": "C31-D023",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "かばんを持っていきます。",
+   "start_sec": 127.045,
+   "end_sec": 128.396,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D024-S01",
+   "unit_id": "C31-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "三千円あります。",
+   "start_sec": 128.746,
+   "end_sec": 130.301,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D024-S02",
+   "unit_id": "C31-D024",
+   "section": "D",
+   "speaker": "中村",
+   "text": "おつりは二百円ですね。",
+   "start_sec": 130.451,
+   "end_sec": 132.191,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D025-S01",
+   "unit_id": "C31-D025",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "このスピーカーを聞いてもいいですか。",
+   "start_sec": 133.091,
+   "end_sec": 135.202,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D025-S02",
+   "unit_id": "C31-D025",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "読書会向きかどうか確認したいです。",
+   "start_sec": 135.352,
+   "end_sec": 137.843,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D026-S01",
+   "unit_id": "C31-D026",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "はい。",
+   "start_sec": 138.193,
+   "end_sec": 138.879,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D026-S02",
+   "unit_id": "C31-D026",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "音のよさがこの商品の特長です。",
+   "start_sec": 139.029,
+   "end_sec": 141.541,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D026-S03",
+   "unit_id": "C31-D026",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "パソコンにつないで聞きましょう。",
+   "start_sec": 141.691,
+   "end_sec": 143.45,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D027-S01",
+   "unit_id": "C31-D027",
+   "section": "D",
+   "speaker": "中村",
+   "text": "なかなかいい音ですね。",
+   "start_sec": 143.8,
+   "end_sec": 145.831,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D027-S02",
+   "unit_id": "C31-D027",
+   "section": "D",
+   "speaker": "中村",
+   "text": "でも、少し大きすぎます。",
+   "start_sec": 145.981,
+   "end_sec": 147.986,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D028-S01",
+   "unit_id": "C31-D028",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "では、音量を低めにします。",
+   "start_sec": 148.336,
+   "end_sec": 150.761,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D028-S02",
+   "unit_id": "C31-D028",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "この程度でどうですか。",
+   "start_sec": 150.911,
+   "end_sec": 152.514,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D029-S01",
+   "unit_id": "C31-D029",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "ちょうどいいです。",
+   "start_sec": 152.864,
+   "end_sec": 154.034,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D029-S02",
+   "unit_id": "C31-D029",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "これにします。",
+   "start_sec": 154.184,
+   "end_sec": 155.184,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D029-S03",
+   "unit_id": "C31-D029",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "現金で払います。",
+   "start_sec": 155.334,
+   "end_sec": 156.651,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D030-S01",
+   "unit_id": "C31-D030",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "二千八百円です。",
+   "start_sec": 157.001,
+   "end_sec": 158.789,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D030-S02",
+   "unit_id": "C31-D030",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "割引はありません。",
+   "start_sec": 158.939,
+   "end_sec": 160.513,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D030-S03",
+   "unit_id": "C31-D030",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "袋は無料ですが、使いますか。",
+   "start_sec": 160.663,
+   "end_sec": 163.373,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D031-S01",
+   "unit_id": "C31-D031",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "袋は使いません。",
+   "start_sec": 163.723,
+   "end_sec": 164.868,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D031-S02",
+   "unit_id": "C31-D031",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "三千円でお願いします。",
+   "start_sec": 165.018,
+   "end_sec": 166.481,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D032-S01",
+   "unit_id": "C31-D032",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "二百円のおつりとレシートです。",
+   "start_sec": 166.831,
+   "end_sec": 169.227,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D032-S02",
+   "unit_id": "C31-D032",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "ありがとうございました。",
+   "start_sec": 169.377,
+   "end_sec": 170.774,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D033-S01",
+   "unit_id": "C31-D033",
+   "section": "D",
+   "speaker": "中村",
+   "text": "前のスピーカーよりずっと軽いですね。",
+   "start_sec": 171.124,
+   "end_sec": 173.805,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D033-S02",
+   "unit_id": "C31-D033",
+   "section": "D",
+   "speaker": "中村",
+   "text": "私が持ちましょうか。",
+   "start_sec": 173.955,
+   "end_sec": 175.534,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D034-S01",
+   "unit_id": "C31-D034",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "大丈夫です。",
+   "start_sec": 175.884,
+   "end_sec": 176.916,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D034-S02",
+   "unit_id": "C31-D034",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "次は自分の買い物です。",
+   "start_sec": 177.066,
+   "end_sec": 179.183,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D034-S03",
+   "unit_id": "C31-D034",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "コートを見たいんですが。",
+   "start_sec": 179.333,
+   "end_sec": 181.225,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D035-S01",
+   "unit_id": "C31-D035",
+   "section": "D",
+   "speaker": "中村",
+   "text": "この辺では、駅の周辺にデパートがあります。",
+   "start_sec": 182.125,
+   "end_sec": 185.597,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D035-S02",
+   "unit_id": "C31-D035",
+   "section": "D",
+   "speaker": "中村",
+   "text": "桜通りの青い看板が目印です。",
+   "start_sec": 185.747,
+   "end_sec": 188.471,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D036-S01",
+   "unit_id": "C31-D036",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "地図では地下ですか。",
+   "start_sec": 188.821,
+   "end_sec": 190.217,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D037-S01",
+   "unit_id": "C31-D037",
+   "section": "D",
+   "speaker": "中村",
+   "text": "違います。",
+   "start_sec": 190.567,
+   "end_sec": 191.643,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D037-S02",
+   "unit_id": "C31-D037",
+   "section": "D",
+   "speaker": "中村",
+   "text": "地下は食べ物の売り場で、服は地上二階です。",
+   "start_sec": 191.793,
+   "end_sec": 195.501,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D037-S03",
+   "unit_id": "C31-D037",
+   "section": "D",
+   "speaker": "中村",
+   "text": "種類が豊富ですよ。",
+   "start_sec": 195.651,
+   "end_sec": 197.166,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D038-S01",
+   "unit_id": "C31-D038",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "この茶色のコートを試着したいです。",
+   "start_sec": 197.516,
+   "end_sec": 199.791,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D038-S02",
+   "unit_id": "C31-D038",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "デザインが気に入りました。",
+   "start_sec": 199.941,
+   "end_sec": 201.306,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D039-S01",
+   "unit_id": "C31-D039",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "どうぞ。",
+   "start_sec": 201.656,
+   "end_sec": 202.488,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D039-S02",
+   "unit_id": "C31-D039",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "サイズはこちらでいいですか。",
+   "start_sec": 202.638,
+   "end_sec": 204.937,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D039-S03",
+   "unit_id": "C31-D039",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "厚いセーターの上に着るときは、もう一つ大きいサイズもあります。",
+   "start_sec": 205.087,
+   "end_sec": 209.663,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D040-S01",
+   "unit_id": "C31-D040",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "肩がきついです。",
+   "start_sec": 210.013,
+   "end_sec": 211.32,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D040-S02",
+   "unit_id": "C31-D040",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "大きい方をお願いします。",
+   "start_sec": 211.47,
+   "end_sec": 213.011,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D041-S01",
+   "unit_id": "C31-D041",
+   "section": "D",
+   "speaker": "中村",
+   "text": "大きい方がぴったりですね。",
+   "start_sec": 213.361,
+   "end_sec": 215.538,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D041-S02",
+   "unit_id": "C31-D041",
+   "section": "D",
+   "speaker": "中村",
+   "text": "地味ですが、サミさんによく似合います。",
+   "start_sec": 215.688,
+   "end_sec": 218.373,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D042-S01",
+   "unit_id": "C31-D042",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "私は普段、ズボンを穿きます。",
+   "start_sec": 218.723,
+   "end_sec": 220.82,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D042-S02",
+   "unit_id": "C31-D042",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "この長さだったら歩くときも楽ですね。",
+   "start_sec": 220.97,
+   "end_sec": 223.654,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D043-S01",
+   "unit_id": "C31-D043",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "こちらは三センチ長いです。",
+   "start_sec": 224.004,
+   "end_sec": 226.359,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D043-S02",
+   "unit_id": "C31-D043",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "その代わり、暖かいですよ。",
+   "start_sec": 226.509,
+   "end_sec": 228.931,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D043-S03",
+   "unit_id": "C31-D043",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "二つとも品質は同じです。",
+   "start_sec": 229.081,
+   "end_sec": 231.179,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D044-S01",
+   "unit_id": "C31-D044",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "少し迷いますね。",
+   "start_sec": 231.529,
+   "end_sec": 233.215,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D044-S02",
+   "unit_id": "C31-D044",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "値段もいくらか違いますか。",
+   "start_sec": 233.365,
+   "end_sec": 235.185,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D045-S01",
+   "unit_id": "C31-D045",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "同じです。",
+   "start_sec": 235.535,
+   "end_sec": 236.377,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D045-S02",
+   "unit_id": "C31-D045",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "長持ちする布で、この値段だったらお買い得だと思います。",
+   "start_sec": 236.527,
+   "end_sec": 240.418,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D046-S01",
+   "unit_id": "C31-D046",
+   "section": "D",
+   "speaker": "中村",
+   "text": "いつもの靴で歩きませんか。",
+   "start_sec": 240.768,
+   "end_sec": 243.045,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D046-S02",
+   "unit_id": "C31-D046",
+   "section": "D",
+   "speaker": "中村",
+   "text": "鏡の前ばかりでは、動きやすさがわかりませんよ。",
+   "start_sec": 243.195,
+   "end_sec": 246.755,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D047-S01",
+   "unit_id": "C31-D047",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "短い方にします。",
+   "start_sec": 247.105,
+   "end_sec": 248.413,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D047-S02",
+   "unit_id": "C31-D047",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "靴も今日はサンダルではありませんから、冬の服装を確認できますね。",
+   "start_sec": 248.563,
+   "end_sec": 252.974,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D048-S01",
+   "unit_id": "C31-D048",
+   "section": "D",
+   "speaker": "中村",
+   "text": "そのコートには帽子も似合いそうですね。",
+   "start_sec": 253.324,
+   "end_sec": 256.253,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D048-S02",
+   "unit_id": "C31-D048",
+   "section": "D",
+   "speaker": "中村",
+   "text": "マフラーはどうしますか。",
+   "start_sec": 256.403,
+   "end_sec": 257.945,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D049-S01",
+   "unit_id": "C31-D049",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "家のを使います。",
+   "start_sec": 258.295,
+   "end_sec": 259.468,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D049-S02",
+   "unit_id": "C31-D049",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "今、いい案を思い付きました。",
+   "start_sec": 259.618,
+   "end_sec": 261.126,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D049-S03",
+   "unit_id": "C31-D049",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "買いません。",
+   "start_sec": 261.276,
+   "end_sec": 262.181,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D049-S04",
+   "unit_id": "C31-D049",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "その代わりに古いスカーフをマフラーにします。",
+   "start_sec": 262.331,
+   "end_sec": 265.149,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D050-S01",
+   "unit_id": "C31-D050",
+   "section": "D",
+   "speaker": "店の人",
+   "text": "家にある物でも、さまざまな組み合わせができますよ。",
+   "start_sec": 265.499,
+   "end_sec": 269.09,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D051-S01",
+   "unit_id": "C31-D051",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "ありがとうございます。",
+   "start_sec": 269.44,
+   "end_sec": 270.433,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D051-S02",
+   "unit_id": "C31-D051",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "ピンクのハンカチも持っています。",
+   "start_sec": 270.583,
+   "end_sec": 272.296,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D051-S03",
+   "unit_id": "C31-D051",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "茶色と合いますね。",
+   "start_sec": 272.446,
+   "end_sec": 273.96,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C31-D051-S04",
+   "unit_id": "C31-D051",
+   "section": "D",
+   "speaker": "サミ",
+   "text": "今日はコートだけ買います。",
+   "start_sec": 274.11,
+   "end_sec": 275.756,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

@@ -1,0 +1,7344 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_09",
+  "entries": [
+    {
+      "textbook_uid": "cfv-1fdf40c46532b1f6",
+      "index": 1530,
+      "word": "ルール",
+      "reading_hiragana": "ルール",
+      "context_meaning_zh": "规则",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "规则",
+          "meaning_ja": "物事を行うときに、守るように決められた事柄。",
+          "example_ja": "共同キッチンのルールを紙に書いて、入口に貼りました。",
+          "example_zh": "我把共用厨房的规则写在纸上，贴在了入口处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ルールを守る",
+          "zh": "遵守规则"
+        }
+      ],
+      "usage_note_zh": "常与「守る」「決める」搭配；指约定的规则，不表示法律本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「规则を破らない」指应遵守的约定规则；课程说明不把它等同于法律本身。",
+        "dictionary_sequences": [
+          1143920
+        ],
+        "identity": {
+          "word": "ルール",
+          "reading_hiragana": "ルール",
+          "meaning": "规则"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8e7069a5edd74aea",
+      "index": 1531,
+      "word": "守る",
+      "reading_hiragana": "まもる",
+      "context_meaning_zh": "遵守",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "遵守",
+          "meaning_ja": "決められたことや約束に従って行動する。",
+          "example_ja": "食器を使った人は、次の人のために洗う約束を守ってください。",
+          "example_zh": "用过餐具的人请遵守约定，为下一位使用者清洗餐具。"
+        },
+        {
+          "meaning_zh": "保护",
+          "meaning_ja": "大切な物や人が危険にあわないようにすること。",
+          "example_ja": "祖父は大切な自転車を盗難から守るため、車庫に鍵をかけています。",
+          "example_zh": "爷爷为了保护心爱的自行车不被盗，会把车库锁好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時間を守る",
+          "zh": "遵守时间"
+        },
+        {
+          "ja": "大切な物を守る",
+          "zh": "保护重要物品"
+        }
+      ],
+      "usage_note_zh": "「規則を守る」「約束を守る」の形で使い、対象には「を」を付ける。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "时间是「守る」的直接宾语，例句表达遵守时间；辞书相应义为守约、遵守规则的五段他动词。",
+        "dictionary_sequences": [
+          1327120
+        ],
+        "identity": {
+          "word": "守る",
+          "reading_hiragana": "まもる",
+          "meaning": "遵守"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-92ac14f0171f3ecc",
+      "index": 1532,
+      "word": "捨てる",
+      "reading_hiragana": "すてる",
+      "context_meaning_zh": "丢弃",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "丢弃",
+          "meaning_ja": "いらなくなった物を手元から離し、処分する。",
+          "example_ja": "古い電池は普通のごみ箱に捨てないでください。",
+          "example_zh": "旧电池请不要扔进普通垃圾桶。"
+        },
+        {
+          "meaning_zh": "放弃；抛开",
+          "meaning_ja": "続けていた考えや計画をやめて、手放すこと。",
+          "example_ja": "彼女は夢を捨てずに、もう一度試験を受けました。",
+          "example_zh": "她没有放弃梦想，又参加了一次考试。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ごみを捨てる",
+          "zh": "扔垃圾"
+        }
+      ],
+      "usage_note_zh": "丢弃的对象用「を」标记；垃圾分类场景中要按规定的回收方式处理。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "捨てる是一段他动词，纸屑作为弃置对象由を标记。",
+        "dictionary_sequences": [
+          1322320
+        ],
+        "identity": {
+          "word": "捨てる",
+          "reading_hiragana": "すてる",
+          "meaning": "丢弃"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bcf1701da44e70cd",
+      "index": 1533,
+      "word": "片づける",
+      "reading_hiragana": "かたづける",
+      "context_meaning_zh": "收拾",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收拾",
+          "meaning_ja": "使った物を元の場所に戻すなどして、乱れた所を整える。",
+          "example_ja": "調理が終わったら、包丁とまな板を片づけます。",
+          "example_zh": "烹饪结束后，把菜刀和砧板收拾好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道具を片づける",
+          "zh": "收拾工具"
+        }
+      ],
+      "usage_note_zh": "常说「部屋を片づける」「道具を片づける」；也可表示处理完工作或问题。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "用后收拾是片づける的他动用法；词典亦收处理事务、完成任务及其他引申义，本课只落实整理义。",
+        "dictionary_sequences": [
+          1511790
+        ],
+        "identity": {
+          "word": "片づける",
+          "reading_hiragana": "かたづける",
+          "meaning": "收拾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-db1a7f8977319cab",
+      "index": 1534,
+      "word": "掃除",
+      "reading_hiragana": "そうじ",
+      "context_meaning_zh": "打扫",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "打扫",
+          "meaning_ja": "ほこりや汚れを取り除いて、部屋や物をきれいにすること。",
+          "example_ja": "当番の二人は、朝食の後で床を掃除しました。",
+          "example_zh": "值日的两个人在早餐后打扫了地板。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "部屋を掃除する",
+          "zh": "打扫房间"
+        }
+      ],
+      "usage_note_zh": "可说「部屋を掃除する」「掃除をする」；动作对象用「を」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「後の掃除」在片段中指后续清扫名词义；词典也支持名词及サ变他动，片段不影响类别判断。",
+        "dictionary_sequences": [
+          1399790
+        ],
+        "identity": {
+          "word": "掃除",
+          "reading_hiragana": "そうじ",
+          "meaning": "打扫"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5e3b27b6876c4cd6",
+      "index": 1535,
+      "word": "払う",
+      "reading_hiragana": "はらう",
+      "context_meaning_zh": "支付",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "支付",
+          "meaning_ja": "代金や料金として、お金を相手に渡す。",
+          "example_ja": "利用料は、帰る前に受付で払ってください。",
+          "example_zh": "请在离开前到接待处支付使用费。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会費を払う",
+          "zh": "缴纳会费"
+        }
+      ],
+      "usage_note_zh": "钱款用「を」标记，收款地点用「で」；「料金を払う」是常见组合。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "支付时长费用并在前台付款的例句取词典五段他动词支付义，金额为直接对象。",
+        "dictionary_sequences": [
+          1501620
+        ],
+        "identity": {
+          "word": "払う",
+          "reading_hiragana": "はらう",
+          "meaning": "支付"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-74019bb5454d6dde",
+      "index": 1536,
+      "word": "返す",
+      "reading_hiragana": "かえす",
+      "context_meaning_zh": "归还",
+      "pos_ja": "動詞・接尾辞",
+      "pos_zh": "动词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "归还",
+          "meaning_ja": "借りた物や預かった物を、持ち主に戻す。",
+          "example_ja": "借りた鍋は、洗ってから棚に返してください。",
+          "example_zh": "借来的锅请洗干净后还到架子上。"
+        },
+        {
+          "meaning_zh": "回复；回信",
+          "meaning_ja": "相手から受けた連絡や質問に、こちらから答えること。",
+          "example_ja": "質問があれば、メールで返します。",
+          "example_zh": "如果有问题，我会通过邮件回复。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鍵を返す",
+          "zh": "归还钥匙"
+        }
+      ],
+      "usage_note_zh": "归还的物品用「を」，归还对象可用「に」；与「借りる」方向相反。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "把钥匙还到接待处，返す取词典return义；钥匙是直接对象，请求礼貌来自句式而非词项。",
+        "dictionary_sequences": [
+          1512130
+        ],
+        "identity": {
+          "word": "返す",
+          "reading_hiragana": "かえす",
+          "meaning": "归还"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-987df9539a0621b8",
+      "index": 1537,
+      "word": "閉める",
+      "reading_hiragana": "しめる",
+      "context_meaning_zh": "关闭门窗",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "关闭门窗",
+          "meaning_ja": "開いている戸や窓を動かして、閉じた状態にする。",
+          "example_ja": "料理中は、においが廊下に出ないようにドアを閉めます。",
+          "example_zh": "做饭时，为了不让气味飘到走廊，会关上门。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "窓を閉める",
+          "zh": "关窗"
+        }
+      ],
+      "usage_note_zh": "门窗等作对象时用「を」；对应的自动词是「閉まる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "关窗后熄灯，閉める是把窗户关闭的一段他动词；窗为宾语。",
+        "dictionary_sequences": [
+          1508590
+        ],
+        "identity": {
+          "word": "閉める",
+          "reading_hiragana": "しめる",
+          "meaning": "关闭门窗"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-de09182b055daae7",
+      "index": 1538,
+      "word": "消す",
+      "reading_hiragana": "けす",
+      "context_meaning_zh": "关掉灯或设备",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "关掉灯或设备",
+          "meaning_ja": "電気や機器の明かり・働きを止める。",
+          "example_ja": "部屋を最後に出る人は、換気扇を消してください。",
+          "example_zh": "最后离开房间的人请关掉换气扇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電気を消す",
+          "zh": "关灯"
+        }
+      ],
+      "usage_note_zh": "灯或正在运行的设备用「を」标记；电源按钮也常与「切る」搭配。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "关闭电灯是消す的他动用法，电灯为对象；句尾ます只表达礼貌，不应赋予动词词项。",
+        "dictionary_sequences": [
+          1350110
+        ],
+        "identity": {
+          "word": "消す",
+          "reading_hiragana": "けす",
+          "meaning": "关掉灯或设备"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bb481a752e2a8c5c",
+      "index": 1539,
+      "word": "入る",
+      "reading_hiragana": "はいる",
+      "context_meaning_zh": "进入",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "进入",
+          "meaning_ja": "外から部屋や建物の中へ移る。",
+          "example_ja": "靴を脱いでから、台所に入ってください。",
+          "example_zh": "请脱鞋后再进入厨房。"
+        },
+        {
+          "meaning_zh": "加入；入会",
+          "meaning_ja": "団体や組織の一員になること。",
+          "example_ja": "大学で写真部に入りました。",
+          "example_zh": "我加入了大学的摄影社。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "部屋に入る",
+          "zh": "进入房间"
+        }
+      ],
+      "usage_note_zh": "进入的地点用「に」或「へ」；「入る」是自动词，不说「部屋を入る」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "从正门进入，进入地点由から或に/へ标示；该义为五段自动词。",
+        "dictionary_sequences": [
+          1465590
+        ],
+        "identity": {
+          "word": "入る",
+          "reading_hiragana": "はいる",
+          "meaning": "进入"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9664f9a6c25034b7",
+      "index": 1540,
+      "word": "出る",
+      "reading_hiragana": "でる",
+      "context_meaning_zh": "离开",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "离开",
+          "meaning_ja": "部屋や建物の中から外へ移る。",
+          "example_ja": "火を使った後は、窓を開けてから部屋を出ました。",
+          "example_zh": "用火之后，我打开窗户再离开了房间。"
+        },
+        {
+          "meaning_zh": "参加；出席",
+          "meaning_ja": "会や催しに参加して、その場にいること。",
+          "example_ja": "午後の説明会には私も出ます。",
+          "example_zh": "下午的说明会我也会参加。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "部屋を出る",
+          "zh": "离开房间"
+        }
+      ],
+      "usage_note_zh": "离开的场所用「を」标记；参加活动也可说「会議に出る」，意义需由宾语判断。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "因工作时间安排必须出门，离开地点由语境省略；出る为一段自动词。",
+        "dictionary_sequences": [
+          1338240
+        ],
+        "identity": {
+          "word": "出る",
+          "reading_hiragana": "でる",
+          "meaning": "离开"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-83c9f209054783ba",
+      "index": 1541,
+      "word": "使う",
+      "reading_hiragana": "つかう",
+      "context_meaning_zh": "使用",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "使用",
+          "meaning_ja": "道具や設備を目的に合わせて働かせる。",
+          "example_ja": "共用の鍋を使った後は、洗って棚に戻します。",
+          "example_zh": "使用共用的锅后，要洗干净并放回架子上。"
+        },
+        {
+          "meaning_zh": "花费（时间、金钱等）",
+          "meaning_ja": "持っている時間やお金を、ある目的のために用いること。",
+          "example_ja": "資料を作るのに二時間使いました。",
+          "example_zh": "制作资料花了两个小时。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道具を使う",
+          "zh": "使用工具"
+        }
+      ],
+      "usage_note_zh": "使用的物品用「を」；「使う」为他动词，常与「道具」「機械」等搭配。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "共用厨房是使用对象；该词为五段他动词，字典及动词配价相符。",
+        "dictionary_sequences": [
+          1305990
+        ],
+        "identity": {
+          "word": "使う",
+          "reading_hiragana": "つかう",
+          "meaning": "使用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4b273e2615d4964c",
+      "index": 1542,
+      "word": "ごみ",
+      "reading_hiragana": "ごみ",
+      "context_meaning_zh": "垃圾",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "垃圾",
+          "meaning_ja": "使い終わった物や、いらなくなって捨てる物。",
+          "example_ja": "生ごみと空き缶は、別の袋に入れてください。",
+          "example_zh": "厨余垃圾和空罐请分别装进不同的袋子里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ごみを出す",
+          "zh": "倒垃圾"
+        }
+      ],
+      "usage_note_zh": "可说「ごみを出す」「ごみを分ける」；具体分类方式依当地规定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "要求分类处理的垃圾对应词典rubbish义；提供词典中另有五味及古语同音项，本语境排除。",
+        "dictionary_sequences": [
+          1369900
+        ],
+        "identity": {
+          "word": "ごみ",
+          "reading_hiragana": "ごみ",
+          "meaning": "垃圾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-46e58daa2bac32f6",
+      "index": 1543,
+      "word": "鍵",
+      "reading_hiragana": "かぎ",
+      "context_meaning_zh": "钥匙",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "钥匙",
+          "meaning_ja": "錠を開け閉めするときに差し込んで使う金属の道具。",
+          "example_ja": "台所の鍵は、入口のフックに掛けてあります。",
+          "example_zh": "厨房的钥匙挂在入口处的挂钩上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鍵をかける",
+          "zh": "锁门"
+        }
+      ],
+      "usage_note_zh": "指开锁用的钥匙；门上的锁通常称「錠」或「鍵穴」等，依部位区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "钥匙须归还接待处，指可交还的实体开锁工具，不是锁本身或抽象线索。",
+        "dictionary_sequences": [
+          1260490
+        ],
+        "identity": {
+          "word": "鍵",
+          "reading_hiragana": "かぎ",
+          "meaning": "钥匙"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-243e130994aa5c23",
+      "index": 1544,
+      "word": "必ず",
+      "reading_hiragana": "かならず",
+      "context_meaning_zh": "务必",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "务必",
+          "meaning_ja": "例外なく実行することや、確かにそうなることを強く表す。",
+          "example_ja": "外出するときは、必ずガスの元栓を確認してください。",
+          "example_zh": "外出时务必确认燃气总阀。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "必ず確認する",
+          "zh": "务必确认"
+        }
+      ],
+      "usage_note_zh": "常放在动词前，作「必ず～する」；表示要求时不等于命令语气本身。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "修饰钥匙归还动作，表示务必或无例外；请求语气由整句构成。",
+        "dictionary_sequences": [
+          1487400
+        ],
+        "identity": {
+          "word": "必ず",
+          "reading_hiragana": "かならず",
+          "meaning": "务必"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-adee5ddf6add44df",
+      "index": 1545,
+      "word": "禁止",
+      "reading_hiragana": "きんし",
+      "context_meaning_zh": "禁止",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "禁止",
+          "meaning_ja": "してはいけないと定め、認めないこと。",
+          "example_ja": "この建物では、廊下での喫煙を禁止しています。",
+          "example_zh": "这栋楼禁止在走廊吸烟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "立ち入りを禁止する",
+          "zh": "禁止进入"
+        }
+      ],
+      "usage_note_zh": "公告常见「～は禁止です」；「禁止する」是他动词，禁止的行为用「を」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "此处将吸烟和饮酒列为禁止事项，名词兼可构成禁止する的他动用法，对象是被禁止的行为。",
+        "dictionary_sequences": [
+          1241550
+        ],
+        "identity": {
+          "word": "禁止",
+          "reading_hiragana": "きんし",
+          "meaning": "禁止"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a406b13d8ee938fb",
+      "index": 1546,
+      "word": "必要",
+      "reading_hiragana": "ひつよう",
+      "context_meaning_zh": "必要",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "必要",
+          "meaning_ja": "ある目的を果たすために、なくてはならないこと。",
+          "example_ja": "鍋を使うには、管理人から借りる手続きが必要です。",
+          "example_zh": "使用锅具需要办理向管理员借用的手续。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "必要な道具",
+          "zh": "必要的工具"
+        }
+      ],
+      "usage_note_zh": "「必要な＋名詞」「～が必要だ」两种形式都常用；不需要可说「必要ない」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "清扫被评价为必要；学习注记确认「必要な名词」和「～が必要だ」两种形式。",
+        "dictionary_sequences": [
+          1487660
+        ],
+        "identity": {
+          "word": "必要",
+          "reading_hiragana": "ひつよう",
+          "meaning": "必要"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-15f3b8064c1bd352",
+      "index": 1547,
+      "word": "自由",
+      "reading_hiragana": "じゆう",
+      "context_meaning_zh": "自由",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "自由",
+          "meaning_ja": "他人から細かく決められず、自分で選んで行動できること。",
+          "example_ja": "食事の時間は自由ですが、夜十時までに片づけてください。",
+          "example_zh": "用餐时间自由，但请在晚上十点前收拾完。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "自由に使う",
+          "zh": "自由使用"
+        }
+      ],
+      "usage_note_zh": "作名词时说「自由に使う」；作ナ形容词时用「自由な時間」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "使用桌椅的自由状态以自由です作谓语，词典支持名词与な形容词。",
+        "dictionary_sequences": [
+          1318720
+        ],
+        "identity": {
+          "word": "自由",
+          "reading_hiragana": "じゆう",
+          "meaning": "自由"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-28c1f3bedc9fe22a",
+      "index": 1548,
+      "word": "掲示",
+      "reading_hiragana": "けいじ",
+      "context_meaning_zh": "告示",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "告示",
+          "meaning_ja": "知らせたい内容を書いた紙などを、人に見える所に出すこと。",
+          "example_ja": "管理人は、断水のお知らせを入口に掲示しました。",
+          "example_zh": "管理员把停水通知张贴在入口处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "お知らせを掲示する",
+          "zh": "张贴通知"
+        }
+      ],
+      "usage_note_zh": "常说「掲示板に掲示する」；张贴的位置用「に」表示。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "入口掲示指现场张贴的告示，后接确认规则请求；该词另可作掲示する。",
+        "dictionary_sequences": [
+          1250620
+        ],
+        "identity": {
+          "word": "掲示",
+          "reading_hiragana": "けいじ",
+          "meaning": "告示"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0129cf7d17f369e4",
+      "index": 1549,
+      "word": "注意",
+      "reading_hiragana": "ちゅうい",
+      "context_meaning_zh": "注意事项",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "注意事项",
+          "meaning_ja": "危険や間違いを避けるため、よく気をつけること。また、そのように伝えること。",
+          "example_ja": "熱い鍋を運ぶので、やけどに注意してください。",
+          "example_zh": "因为要搬热锅，请注意不要烫伤。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "火の元に注意する",
+          "zh": "注意火源"
+        }
+      ],
+      "usage_note_zh": "常用「～に注意する」；提醒别人也可说「注意してください」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "low",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "注意可作名词及注意する，词典分列自サ的留意与他サ的训诫义；当前例句「会議室の注意」不自然，无法确定预期用法，需核对原义。",
+        "dictionary_sequences": [
+          1426530
+        ],
+        "identity": {
+          "word": "注意",
+          "reading_hiragana": "ちゅうい",
+          "meaning": "注意事项"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-93e1047cae55ad36",
+      "index": 1550,
+      "word": "責任",
+      "reading_hiragana": "せきにん",
+      "context_meaning_zh": "责任",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "责任",
+          "meaning_ja": "自分が受け持つことについて、結果に対応しなければならない務め。",
+          "example_ja": "共用スペースを汚した人には、片づける責任があります。",
+          "example_zh": "把共用空间弄脏的人有责任收拾干净。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "責任を持つ",
+          "zh": "承担责任"
+        }
+      ],
+      "usage_note_zh": "「責任がある」「責任を持つ」是常见表达；责任对象可用「に対する」表示。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "清扫是使用者应承担的责任，責任表示须履行的义务。",
+        "dictionary_sequences": [
+          1383180
+        ],
+        "identity": {
+          "word": "責任",
+          "reading_hiragana": "せきにん",
+          "meaning": "责任"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6ccdefbd03943c72",
+      "index": 1551,
+      "word": "共用",
+      "reading_hiragana": "きょうよう",
+      "context_meaning_zh": "共用",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "共用",
+          "meaning_ja": "一つの物や場所を、二人以上で一緒に使うこと。",
+          "example_ja": "台所の冷蔵庫は、住人全員で共用しています。",
+          "example_zh": "厨房的冰箱由全体住户共用。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "施設を共用する",
+          "zh": "共用设施"
+        }
+      ],
+      "usage_note_zh": "书面语常用「共用する」；日常会话也可说「みんなで使う」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「共用」表示多人共同使用物品，常见「共用する」可支配共用对象；例句「共用の物品」是相同词义的名词用法。",
+        "dictionary_sequences": [
+          1235290
+        ],
+        "identity": {
+          "word": "共用",
+          "reading_hiragana": "きょうよう",
+          "meaning": "共用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f8d08404eec8d5e1",
+      "index": 1552,
+      "word": "分別",
+      "reading_hiragana": "ぶんべつ",
+      "context_meaning_zh": "分类",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "分类",
+          "meaning_ja": "種類や性質の違いに応じて、いくつかに分けること。",
+          "example_ja": "空き缶は、びんと分別して回収箱に入れます。",
+          "example_zh": "空罐要与玻璃瓶分类后放进回收箱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ごみを分別する",
+          "zh": "垃圾分类"
+        }
+      ],
+      "usage_note_zh": "垃圾分类常说「ごみを分別する」；「分別ごみ」指分类后的垃圾。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "分別可作分类名词和サ变他动词，例句将厨余和包装纸作为分类对象。",
+        "dictionary_sequences": [
+          1504200
+        ],
+        "identity": {
+          "word": "分別",
+          "reading_hiragana": "ぶんべつ",
+          "meaning": "分类"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bf13df96bb73a2b2",
+      "index": 1553,
+      "word": "締切",
+      "reading_hiragana": "しめきり",
+      "context_meaning_zh": "截止期限",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "截止期限",
+          "meaning_ja": "応募や提出などを受け付ける最後の日時。",
+          "example_ja": "申込書の締切は、来週の月曜日です。",
+          "example_zh": "申请表的截止日期是下周一。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "締切に間に合う",
+          "zh": "赶上截止日期"
+        }
+      ],
+      "usage_note_zh": "常说「締切は～だ」「締切までに出す」；强调最后受理时点。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "预约截止日按使用日期倒推七天，締切指预约受理的最后时限。",
+        "dictionary_sequences": [
+          1594590
+        ],
+        "identity": {
+          "word": "締切",
+          "reading_hiragana": "しめきり",
+          "meaning": "截止期限"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-422bfe6a3a1953f9",
+      "index": 1554,
+      "word": "期限",
+      "reading_hiragana": "きげん",
+      "context_meaning_zh": "期限",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "期限",
+          "meaning_ja": "何かを終えたり利用したりできる最後の時点。",
+          "example_ja": "このクーポンは、期限を過ぎると使えません。",
+          "example_zh": "这张优惠券过期后就不能使用了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "有効期限が切れる",
+          "zh": "超过有效期"
+        }
+      ],
+      "usage_note_zh": "可接「期限が切れる」「期限を延ばす」；与「締切」相比，常指有效期或完成时限。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "期限指当天21时这一截止时点，匹配JMdict 1220560第二义time limit/deadline；属时间名词。",
+        "dictionary_sequences": [
+          1220560
+        ],
+        "identity": {
+          "word": "期限",
+          "reading_hiragana": "きげん",
+          "meaning": "期限"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f62bbb595d3b947c",
+      "index": 1555,
+      "word": "罰金",
+      "reading_hiragana": "ばっきん",
+      "context_meaning_zh": "罚款",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "罚款",
+          "meaning_ja": "法律や規則への違反に対して、罰として納めるお金。",
+          "example_ja": "図書館の本を返すのが遅れると、罰金がかかる場合があります。",
+          "example_zh": "图书馆的书逾期归还时，有时会被罚款。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "罰金を払う",
+          "zh": "缴纳罚款"
+        }
+      ],
+      "usage_note_zh": "常说「罰金を払う」「罰金が科される」；与普通的使用费不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课说明遗失时虽需报告但不收罚金；罚金是处罚款项，与普通使用费不同。",
+        "dictionary_sequences": [
+          1478090
+        ],
+        "identity": {
+          "word": "罰金",
+          "reading_hiragana": "ばっきん",
+          "meaning": "罚款"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fdc6ce230823806a",
+      "index": 1556,
+      "word": "予約制",
+      "reading_hiragana": "よやくせい",
+      "context_meaning_zh": "预约制",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "预约制",
+          "meaning_ja": "先に日時などを申し込んだ人だけが利用できる仕組み。",
+          "example_ja": "この調理室は予約制なので、前日までに申し込んでください。",
+          "example_zh": "这个厨房实行预约制，请最晚提前一天预约。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予約制の相談窓口",
+          "zh": "预约制咨询窗口"
+        }
+      ],
+      "usage_note_zh": "「予約制です」说明制度；预约本身说「予約する」，不能把「予約制」当作动作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "预约制是服务制度名词；材料特意区分制度名词与预约动作予約する。",
+        "dictionary_sequences": [
+          1948210
+        ],
+        "identity": {
+          "word": "予約制",
+          "reading_hiragana": "よやくせい",
+          "meaning": "预约制"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-81ab22b37471795e",
+      "index": 1557,
+      "word": "定員",
+      "reading_hiragana": "ていいん",
+      "context_meaning_zh": "限定人数",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "限定人数",
+          "meaning_ja": "その場所や集まりに入れる人数の上限。",
+          "example_ja": "安全のため、調理室の定員は六人です。",
+          "example_zh": "出于安全考虑，厨房最多可容纳六人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "定員に達する",
+          "zh": "达到人数上限"
+        }
+      ],
+      "usage_note_zh": "常说「定員は～人」「定員に達する」；表示上限人数，不是当前人数。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "预约活动限定16人，指事先规定的参加人数名额。",
+        "dictionary_sequences": [
+          1435400
+        ],
+        "identity": {
+          "word": "定員",
+          "reading_hiragana": "ていいん",
+          "meaning": "限定人数"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-00784a37ed671fbe",
+      "index": 1558,
+      "word": "禁煙",
+      "reading_hiragana": "きんえん",
+      "context_meaning_zh": "禁止吸烟",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "禁止吸烟",
+          "meaning_ja": "たばこを吸わないこと。また、吸うことを認めない決まり。",
+          "example_ja": "この建物は禁煙です。入口の外に喫煙所があります。",
+          "example_zh": "这栋楼内禁止吸烟。入口外有吸烟区。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "館内禁煙",
+          "zh": "馆内禁烟"
+        }
+      ],
+      "usage_note_zh": "场所标识常见「禁煙」；描述禁止吸烟的规定，不是“戒烟”这个动作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「館内はすべて禁煙」表示场馆内禁止吸烟；该义是禁烟规定，不等同于个人戒烟的「禁煙する」行为。",
+        "dictionary_sequences": [
+          1241490
+        ],
+        "identity": {
+          "word": "禁煙",
+          "reading_hiragana": "きんえん",
+          "meaning": "禁止吸烟"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-746552367af3391e",
+      "index": 1559,
+      "word": "土足",
+      "reading_hiragana": "どそく",
+      "context_meaning_zh": "穿着室外鞋",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "穿着室外鞋",
+          "meaning_ja": "外で履く靴を脱がず、そのまま室内にいること。",
+          "example_ja": "この畳の部屋は土足禁止です。入口で靴を脱いでください。",
+          "example_zh": "这间榻榻米房间禁止穿室外鞋进入。请在入口处脱鞋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "土足禁止",
+          "zh": "禁止穿室外鞋进入"
+        }
+      ],
+      "usage_note_zh": "「土足禁止」常用于室内告示；「土足」指穿着室外鞋的状态，不是脚上沾土。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“土足禁止”指不许穿室外鞋进入；词典还列泥脚义，但此处是室内穿鞋状态的名词，不限于告示文体。",
+        "dictionary_sequences": [
+          1445430
+        ],
+        "identity": {
+          "word": "土足",
+          "reading_hiragana": "どそく",
+          "meaning": "穿着室外鞋"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c3a3310c2997a8d",
+      "index": 1560,
+      "word": "使用",
+      "reading_hiragana": "しよう",
+      "context_meaning_zh": "使用",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "使用",
+          "meaning_ja": "道具や場所などを、目的に合わせて使うこと。",
+          "example_ja": "調理器具の使用後は、汚れを落として棚に戻してください。",
+          "example_zh": "使用烹饪器具后，请清洁干净并放回架子上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "使用時間",
+          "zh": "使用时间"
+        }
+      ],
+      "usage_note_zh": "「使用する」比「使う」正式，常见于设施说明和告示；「使用後」表示使用之后。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "共享桌椅的使用例句是名词用法；词典另列他动サ变，使用对象可作を格宾语。",
+        "dictionary_sequences": [
+          1306200
+        ],
+        "identity": {
+          "word": "使用",
+          "reading_hiragana": "しよう",
+          "meaning": "使用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-809e6a0bf5c7d7d7",
+      "index": 1561,
+      "word": "清掃",
+      "reading_hiragana": "せいそう",
+      "context_meaning_zh": "清扫",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "清扫",
+          "meaning_ja": "建物や場所の汚れ、ごみを取り除いてきれいにすること。",
+          "example_ja": "管理人が週に一度、共用廊下を清掃します。",
+          "example_zh": "管理员每周打扫一次共用走廊。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "定期清掃",
+          "zh": "定期清扫"
+        }
+      ],
+      "usage_note_zh": "「清掃する」常用于设施管理或工作安排；日常家务更常说「掃除する」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "清掃是清洁活动名词兼サ变他动词，句中使用者承担清扫责任；清掃する常用于设施维护语境。",
+        "dictionary_sequences": [
+          1378320
+        ],
+        "identity": {
+          "word": "清掃",
+          "reading_hiragana": "せいそう",
+          "meaning": "清扫"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a7f85382b65f1360",
+      "index": 1562,
+      "word": "鍵",
+      "reading_hiragana": "かぎ",
+      "context_meaning_zh": "钥匙;锁",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "钥匙;锁",
+          "meaning_ja": "戸や箱を開け閉めするための道具。また、開閉を止める錠。",
+          "example_ja": "玄関の鍵をかけたか、出かける前に確かめました。",
+          "example_zh": "出门前，我确认了是否锁好玄关门。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鍵を開ける",
+          "zh": "开锁"
+        }
+      ],
+      "usage_note_zh": "同一词可指钥匙或门锁；说“锁门”用「鍵をかける」，开锁用「鍵を開ける」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "关门后把钥匙交回，例句的动作和地点明确取实体钥匙义，虽释义还包含锁。",
+        "dictionary_sequences": [
+          1260490
+        ],
+        "identity": {
+          "word": "鍵",
+          "reading_hiragana": "かぎ",
+          "meaning": "钥匙;锁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d433374d1bcd03f8",
+      "index": 1563,
+      "word": "マッチ",
+      "reading_hiragana": "マッチ",
+      "context_meaning_zh": "火柴",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "火柴",
+          "meaning_ja": "火をつけるため、先端に燃えやすい薬を付けた細い棒。",
+          "example_ja": "ろうそくにマッチで火をつけた後、水をかけて消しました。",
+          "example_zh": "用火柴点燃蜡烛后，我浇水把火熄灭了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "マッチで火をつける",
+          "zh": "用火柴点火"
+        }
+      ],
+      "usage_note_zh": "常说「マッチで火をつける」；点火之后须确认火已完全熄灭。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "公共空间禁止使用的对象是点火火柴，词典相应序号明确区分火柴与比赛义。",
+        "dictionary_sequences": [
+          1128430
+        ],
+        "identity": {
+          "word": "マッチ",
+          "reading_hiragana": "マッチ",
+          "meaning": "火柴"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7adf894ec06ee239",
+      "index": 1564,
+      "word": "広場",
+      "reading_hiragana": "ひろば",
+      "context_meaning_zh": "广场",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "广场",
+          "meaning_ja": "建物や道に囲まれた、広く開けて人が集まれる場所。",
+          "example_ja": "駅前の広場で地域のお祭りが開かれます。",
+          "example_zh": "当地的节日在车站前的广场举行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅前の広場",
+          "zh": "车站前的广场"
+        }
+      ],
+      "usage_note_zh": "「広場で」表示活动发生的地点；与室内的「ホール」相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课公共设施地图中的广场是开阔公共场地，符合词典square/plaza义。",
+        "dictionary_sequences": [
+          1278590
+        ],
+        "identity": {
+          "word": "広場",
+          "reading_hiragana": "ひろば",
+          "meaning": "广场"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cd048f486dc9c3e9",
+      "index": 1565,
+      "word": "センター",
+      "reading_hiragana": "センター",
+      "context_meaning_zh": "中心、中央；活动中心等设施",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "中心、中央；活动中心等设施",
+          "meaning_ja": "特定の活動や地域サービスの中心となる施設。",
+          "example_ja": "地域センターで、料理教室の申し込みを受け付けています。",
+          "example_zh": "社区中心受理烹饪课程的报名。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "地域センター",
+          "zh": "社区中心"
+        }
+      ],
+      "usage_note_zh": "常与活动领域连用，如「文化センター」「相談センター」；具体设施性质由前后文决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句分别指公共活动设施与照片中央位置；两义均属普通名词，不判为棒球专门用语。",
+        "dictionary_sequences": [
+          1075040
+        ],
+        "identity": {
+          "word": "センター",
+          "reading_hiragana": "センター",
+          "meaning": "中心、中央；活动中心等设施"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-29d6952af5ae53bb",
+      "index": 1566,
+      "word": "厳しい",
+      "reading_hiragana": "きびしい",
+      "context_meaning_zh": "严厉；严格；严峻",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "严厉；严格；严峻",
+          "meaning_ja": "規則などが厳格で、簡単には変えられない様子。また、人の言葉や態度が強く、時にきびしく感じられる様子。",
+          "example_ja": "先生は、廊下を走らないように厳しく注意しました。",
+          "example_zh": "老师严厉地提醒大家不要在走廊奔跑。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "厳しく注意する",
+          "zh": "严厉地提醒"
+        }
+      ],
+      "usage_note_zh": "「厳しい」はイ形容词，修饰名词时直接放在名词前；描述提醒或批评时常用副词形「厳しく」。规则严格、态度严厉或条件严峻都可用，需看搭配对象。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "严厉的提醒、安全规则严格及生活艰难分别对应严厉、严格和严峻形容词义。",
+        "dictionary_sequences": [
+          1262530
+        ],
+        "identity": {
+          "word": "厳しい",
+          "reading_hiragana": "きびしい",
+          "meaning": "严厉；严格；严峻"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-559f13e91a162eb9",
+      "index": 1567,
+      "word": "注意事項",
+      "reading_hiragana": "ちゅういじこう",
+      "context_meaning_zh": "注意事项",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "注意事项",
+          "meaning_ja": "行動や利用の前に、特に気をつける点を書き並べたもの。",
+          "example_ja": "申し込みの前に、用紙の下にある注意事項を読んでください。",
+          "example_zh": "报名之前，请阅读表格下方的注意事项。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "注意事項を読む",
+          "zh": "阅读注意事项"
+        }
+      ],
+      "usage_note_zh": "常见于说明书、报名表和告示；「注意する」是动词用法，词条「注意事項」指具体条目。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "注意事項指阅读前应留意的要点，作为读的宾语，符合things to note义。",
+        "dictionary_sequences": [
+          1426540
+        ],
+        "identity": {
+          "word": "注意事項",
+          "reading_hiragana": "ちゅういじこう",
+          "meaning": "注意事项"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1e7da0cde54dbda3",
+      "index": 1568,
+      "word": "すべて",
+      "reading_hiragana": "すべて",
+      "context_meaning_zh": "全部、一切",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "全部、一切",
+          "meaning_ja": "一つも残さず、全体に含まれるものを指す。",
+          "example_ja": "使い終わった食器は、すべて洗ってから棚に戻しました。",
+          "example_zh": "用过的餐具我全部洗干净后放回了架子上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "すべての人",
+          "zh": "所有人"
+        }
+      ],
+      "usage_note_zh": "可放在动词前作副词，也可独立指整体；「全部」较口语，「すべて」语气较中性。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "词典兼列名词与副词义；馆内规则句中「すべて」修饰「禁煙」，表示适用对象无一例外。",
+        "dictionary_sequences": [
+          1595730
+        ],
+        "identity": {
+          "word": "すべて",
+          "reading_hiragana": "すべて",
+          "meaning": "全部、一切"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-92e68c943e1dff81",
+      "index": 1569,
+      "word": "持ち帰る",
+      "reading_hiragana": "もちかえる",
+      "context_meaning_zh": "拿回、带回",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拿回、带回",
+          "meaning_ja": "物を持ったまま、その場所から自分の家などへ戻る。",
+          "example_ja": "食べきれなかった料理は、容器に入れて持ち帰りました。",
+          "example_zh": "没吃完的菜装进容器带回去了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "資料を持ち帰る",
+          "zh": "把资料带回去"
+        }
+      ],
+      "usage_note_zh": "「持ち帰る」表示把物品带回；带回的目的地可由上下文省略。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "必须把生垃圾带回，物品为省略的直接宾语；词典标五段他动词。",
+        "dictionary_sequences": [
+          1658430
+        ],
+        "identity": {
+          "word": "持ち帰る",
+          "reading_hiragana": "もちかえる",
+          "meaning": "拿回、带回"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-774099030452c94b",
+      "index": 1570,
+      "word": "勝手",
+      "reading_hiragana": "かって",
+      "context_meaning_zh": "任意、擅自",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "任意、擅自",
+          "meaning_ja": "相手に相談せず、自分だけの考えで行動する様子。",
+          "example_ja": "共用の棚を勝手に動かす前に、みんなに相談してください。",
+          "example_zh": "擅自移动共用架子之前，请先和大家商量。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "勝手に使う",
+          "zh": "擅自使用"
+        }
+      ],
+      "usage_note_zh": "常说「勝手に～する」表示未经同意擅自行动；「勝手が違う」是另一固定说法。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「勝手に」表示擅自行动；该词也可作ナ形容词或名词，本例取不顾共用规则的副词性用法。",
+        "dictionary_sequences": [
+          1346190
+        ],
+        "identity": {
+          "word": "勝手",
+          "reading_hiragana": "かって",
+          "meaning": "任意、擅自"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-528450fc8400a15e",
+      "index": 1571,
+      "word": "文化館",
+      "reading_hiragana": "ぶんかかん",
+      "context_meaning_zh": "文化馆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "文化馆",
+          "meaning_ja": "地域の歴史や芸術などを紹介する展示・催しを行う施設。",
+          "example_ja": "文化館では、町に残る古い写真を展示しています。",
+          "example_zh": "文化馆正在展出留存下来的当地老照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "文化館で展示を見る",
+          "zh": "在文化馆看展览"
+        }
+      ],
+      "usage_note_zh": "设施名称；是否用于博物馆、活动中心等，依该场馆实际功能而定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "在文化馆观看摄影展，场所名词含义明确；未提供字典条目但教材语境无歧义。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "文化館",
+          "reading_hiragana": "ぶんかかん",
+          "meaning": "文化馆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9bfffd73165fda35",
+      "index": 1572,
+      "word": "劇場",
+      "reading_hiragana": "げきじょう",
+      "context_meaning_zh": "剧场",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "剧场",
+          "meaning_ja": "演劇や音楽などを、観客に見せるための建物や会場。",
+          "example_ja": "劇場の中では、上演中に携帯電話を使わないでください。",
+          "example_zh": "在剧场内，演出期间请不要使用手机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "劇場で公演を見る",
+          "zh": "在剧场观看演出"
+        }
+      ],
+      "usage_note_zh": "「劇場で演劇を見る」表示观看演出；不等同于一般集会场地「ホール」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "剧场是观看戏剧的建筑或设施；句中在该剧场观看芝居。",
+        "dictionary_sequences": [
+          1253410
+        ],
+        "identity": {
+          "word": "劇場",
+          "reading_hiragana": "げきじょう",
+          "meaning": "剧场"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7bf08446cb8e019f",
+      "index": 1573,
+      "word": "専用",
+      "reading_hiragana": "せんよう",
+      "context_meaning_zh": "专用",
+      "pos_ja": "名詞・動詞・接尾辞・サ変名詞",
+      "pos_zh": "名词・动词・接尾词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "专用",
+          "meaning_ja": "特定の人や目的だけに使うこと。",
+          "example_ja": "この冷蔵庫の上段は、管理人専用です。",
+          "example_zh": "这台冰箱的上层是管理员专用的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "子ども専用",
+          "zh": "儿童专用"
+        }
+      ],
+      "usage_note_zh": "常用「専用の＋名詞」「～専用」；表示用途或使用者受到限定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "suffix"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "専用在儿童专用椅中作接尾成分；词典也支持名词及他动サ变用法，字面是将用途限定给特定对象。",
+        "dictionary_sequences": [
+          1596240
+        ],
+        "identity": {
+          "word": "専用",
+          "reading_hiragana": "せんよう",
+          "meaning": "专用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a194f3c3f74b29b3",
+      "index": 1574,
+      "word": "構う",
+      "reading_hiragana": "かまう",
+      "context_meaning_zh": "介意、在乎（多见否定）",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "介意、在乎（多见否定）",
+          "meaning_ja": "相手の言葉や行動を気にすること。否定形で「問題ない」と伝えることも多い。",
+          "example_ja": "少し遅れても構いません。受付には連絡してあります。",
+          "example_zh": "稍微晚一点也没关系。我已经联系了接待处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時間がかかっても構わない",
+          "zh": "花些时间也没关系"
+        }
+      ],
+      "usage_note_zh": "常见「構わない」「構いません」表示不介意、没关系；关照某人的义项另有「子どもの相手を構う」等用法。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "準備は指定时刻からで構う表示这样安排也可以，对应词典matter/issue的不及物许可义；此句肯定形并非只有否定形使用。",
+        "dictionary_sequences": [
+          1279680
+        ],
+        "identity": {
+          "word": "構う",
+          "reading_hiragana": "かまう",
+          "meaning": "介意、在乎（多见否定）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-659b6db8c6a83bb2",
+      "index": 1575,
+      "word": "告知板",
+      "reading_hiragana": "こくちばん",
+      "context_meaning_zh": "公告板、通知牌",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "公告板、通知牌",
+          "meaning_ja": "知らせや案内を書いて、人に見えるように掲示する板。",
+          "example_ja": "休館日が変わったので、告知板の紙を新しくしました。",
+          "example_zh": "闭馆日有变，所以我换了公告板上的纸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "告知板に貼る",
+          "zh": "贴在公告板上"
+        }
+      ],
+      "usage_note_zh": "「告知板に貼る」说明张贴的位置；与具体的单张通知「お知らせ」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "告知板是张贴公告的板面，本例查看大厅公告板；与单张通知内容お知らせ有别。",
+        "dictionary_sequences": [
+          1783700
+        ],
+        "identity": {
+          "word": "告知板",
+          "reading_hiragana": "こくちばん",
+          "meaning": "公告板、通知牌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1ed69857050c494d",
+      "index": 1576,
+      "word": "会議室",
+      "reading_hiragana": "かいぎしつ",
+      "context_meaning_zh": "会议室",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "会议室",
+          "meaning_ja": "会議や打ち合わせをするための部屋。",
+          "example_ja": "会議室を使う前に、受付で鍵を借りてください。",
+          "example_zh": "使用会议室前，请到接待处借钥匙。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会議室を予約する",
+          "zh": "预约会议室"
+        }
+      ],
+      "usage_note_zh": "地点用「会議室で」；预约后也可说「会議室を予約する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "为会议或商谈使用的房间；本例说明室内禁止穿鞋并禁止饮食，是地点名词。",
+        "dictionary_sequences": [
+          1198380
+        ],
+        "identity": {
+          "word": "会議室",
+          "reading_hiragana": "かいぎしつ",
+          "meaning": "会议室"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dbc84a9b72f8d6d0",
+      "index": 1577,
+      "word": "片づける",
+      "reading_hiragana": "かたづける",
+      "context_meaning_zh": "收拾整理；处理事务",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收拾整理；处理事务",
+          "meaning_ja": "物を元の位置に戻して整える。また、仕事や問題を処理する。",
+          "example_ja": "たまった書類を片づけてから、机を拭きました。",
+          "example_zh": "处理完堆积的文件后，我擦了桌子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "仕事を片づける",
+          "zh": "处理工作"
+        }
+      ],
+      "usage_note_zh": "既可整理物品（「部屋を片づける」），也可处理事务（「仕事を片づける」）。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "工作处理完和桌子收拾整理分别体现完成事务及整理物品义，均为以を标对象的一段他动词。",
+        "dictionary_sequences": [
+          1511790
+        ],
+        "identity": {
+          "word": "片づける",
+          "reading_hiragana": "かたづける",
+          "meaning": "收拾整理；处理事务"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-69ab6e7e01917fab",
+      "index": 1578,
+      "word": "商店",
+      "reading_hiragana": "しょうてん",
+      "context_meaning_zh": "商店",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "商店",
+          "meaning_ja": "商品を売る店。",
+          "example_ja": "商店で洗剤を買うとき、詰め替え用を選びました。",
+          "example_zh": "在商店买洗涤剂时，我选了补充装。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "商店で買う",
+          "zh": "在商店购买"
+        }
+      ],
+      "usage_note_zh": "一般商店的统称；具体店铺可用「本屋」「飲食店」等名称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "车站附近购买袋子的地点是商店，词典shop/store义相符；句尾「ました」仅表达句子礼貌。",
+        "dictionary_sequences": [
+          1347180
+        ],
+        "identity": {
+          "word": "商店",
+          "reading_hiragana": "しょうてん",
+          "meaning": "商店"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fd672252a1f761e9",
+      "index": 1579,
+      "word": "事務室",
+      "reading_hiragana": "じむしつ",
+      "context_meaning_zh": "办公室",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "办公室",
+          "meaning_ja": "書類の整理や連絡など、事務の仕事をする部屋。",
+          "example_ja": "届け物があるので、受付の隣にある事務室へ行きました。",
+          "example_zh": "我有东西要送，所以去了接待处旁边的办公室。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事務室に届ける",
+          "zh": "送到办公室"
+        }
+      ],
+      "usage_note_zh": "常见于学校、机构内部，指办公房间；「事務所」更常指整个办公地点或机构。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1314380释office room；句中在事务室前等待，明确指机构内部房间。",
+        "dictionary_sequences": [
+          1314380
+        ],
+        "identity": {
+          "word": "事務室",
+          "reading_hiragana": "じむしつ",
+          "meaning": "办公室"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cbae6ad683ef1ca5",
+      "index": 1580,
+      "word": "いけない",
+      "reading_hiragana": "いけない",
+      "context_meaning_zh": "不行、不成",
+      "pos_ja": "イ形容詞・表現・定型表現",
+      "pos_zh": "い形容词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不行、不成",
+          "meaning_ja": "望ましくない状態を述べる語。また「～てはいけない」で行動を禁止する。",
+          "example_ja": "台所の床がぬれているので、走ってはいけません。",
+          "example_zh": "厨房地面是湿的，所以不可以跑。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "入ってはいけない",
+          "zh": "不准进入"
+        }
+      ],
+      "usage_note_zh": "禁止句型为「動詞て形＋はいけない」；口语可说「～ちゃいけない」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "adjective_i",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "该课例「捨てるのはいけません」为不许可谓语，整体是固定表达，底层い形容词活用；句尾敬体不使词本身成敬语。",
+        "dictionary_sequences": [
+          1000730
+        ],
+        "identity": {
+          "word": "いけない",
+          "reading_hiragana": "いけない",
+          "meaning": "不行、不成"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-15cd3eb30848a2d1",
+      "index": 1581,
+      "word": "煙草",
+      "reading_hiragana": "タバコ",
+      "context_meaning_zh": "香烟",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "香烟",
+          "meaning_ja": "葉を紙で巻き、火をつけて煙を吸う製品。",
+          "example_ja": "煙草の箱を、子どもの手が届かない所に置いてください。",
+          "example_zh": "请把香烟放在孩子够不到的地方。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "煙草を吸う",
+          "zh": "抽烟"
+        }
+      ],
+      "usage_note_zh": "通常指香烟；较常见的书写是「たばこ」或「タバコ」，汉字「煙草」也可读作「たばこ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "禁止吸食的烟草制品对应词典的烟草／香烟名词义；不取烟草植物这一同条其他义。",
+        "dictionary_sequences": [
+          1597150
+        ],
+        "identity": {
+          "word": "煙草",
+          "reading_hiragana": "タバコ",
+          "meaning": "香烟"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-172af4bae3a5c514",
+      "index": 1582,
+      "word": "決して",
+      "reading_hiragana": "けっして",
+      "context_meaning_zh": "决(不)",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "决(不)",
+          "meaning_ja": "後ろに否定表現を伴い、強く「絶対に～ない」と伝える。",
+          "example_ja": "共有の鍵を、決して外へ持ち出さないでください。",
+          "example_zh": "请绝不要把共用钥匙带到外面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "決して忘れない",
+          "zh": "绝不忘记"
+        }
+      ],
+      "usage_note_zh": "基本结构为「決して～ない」；通常不能单独放在肯定句中。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "决して与否定语境连用，强化“绝不”的意思；词典只列副词，不因后接否定而改变词类。",
+        "dictionary_sequences": [
+          1254130
+        ],
+        "identity": {
+          "word": "決して",
+          "reading_hiragana": "けっして",
+          "meaning": "决(不)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ad7010aa699b2f12",
+      "index": 1583,
+      "word": "吸う",
+      "reading_hiragana": "すう",
+      "context_meaning_zh": "吸烟",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吸烟",
+          "meaning_ja": "たばこの煙を口から吸い込み、体に取り入れる。",
+          "example_ja": "父は健康診断の後、煙草を吸うのをやめました。",
+          "example_zh": "父亲体检后戒了烟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "煙草を吸う",
+          "zh": "吸烟"
+        }
+      ],
+      "usage_note_zh": "本课义为吸烟，烟草用「を」标记；吸入空气可说「息を吸う」，是不同宾语搭配。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段他动词，宾语为烟草，句中禁止吸烟；词典亦列吸气、吮吸等义。",
+        "dictionary_sequences": [
+          1228260
+        ],
+        "identity": {
+          "word": "吸う",
+          "reading_hiragana": "すう",
+          "meaning": "吸烟"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-633240215a56fcda",
+      "index": 1584,
+      "word": "絶対",
+      "reading_hiragana": "ぜったい",
+      "context_meaning_zh": "绝对;坚决",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "绝对;坚决",
+          "meaning_ja": "例外がないことを強く示す語。",
+          "example_ja": "鍵は絶対に元の場所へ戻してください。",
+          "example_zh": "钥匙一定要放回原处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "絶対に必要",
+          "zh": "绝对必要"
+        }
+      ],
+      "usage_note_zh": "作副词常接「に」或直接修饰动作；「必ず」也表示务必，但「絶対」语气更强。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "“绝对遵守时间”中绝対に作程度副词；词典另列名词及连体修饰用法。",
+        "dictionary_sequences": [
+          1386840
+        ],
+        "identity": {
+          "word": "絶対",
+          "reading_hiragana": "ぜったい",
+          "meaning": "绝对;坚决"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7c01a2139d80fea8",
+      "index": 1585,
+      "word": "物品",
+      "reading_hiragana": "ぶっぴん",
+      "context_meaning_zh": "物品",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "物品",
+          "meaning_ja": "使ったり保管したりする、形のある物。",
+          "example_ja": "受付で預かった物品には、番号札を付けてあります。",
+          "example_zh": "接待处保管的物品都贴有号码牌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "物品を保管する",
+          "zh": "保管物品"
+        }
+      ],
+      "usage_note_zh": "较正式的统称；日常会话中通常会说出具体物品名称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "共用物品不得擅自带走，物品作普通名词。",
+        "dictionary_sequences": [
+          1502720
+        ],
+        "identity": {
+          "word": "物品",
+          "reading_hiragana": "ぶっぴん",
+          "meaning": "物品"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-61f6e8feaab85ae5",
+      "index": 1586,
+      "word": "夜間",
+      "reading_hiragana": "やかん",
+      "context_meaning_zh": "夜间",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "夜间",
+          "meaning_ja": "夜の時間帯。",
+          "example_ja": "夜間は入口が閉まるので、裏口から入ってください。",
+          "example_zh": "夜间入口会关闭，请从后门进入。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "夜間の利用",
+          "zh": "夜间使用"
+        }
+      ],
+      "usage_note_zh": "常用于设施开放时间或告示，如「夜間通用口」；与「夜」相比偏正式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "指夜间时段；夜間も同じ以时间名词作主题，学习提示所举告示用法偏正式，但词本身通用。",
+        "dictionary_sequences": [
+          1536530
+        ],
+        "identity": {
+          "word": "夜間",
+          "reading_hiragana": "やかん",
+          "meaning": "夜间"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5d81231d1d39bc0f",
+      "index": 1587,
+      "word": "喫煙",
+      "reading_hiragana": "きつえん",
+      "context_meaning_zh": "吸烟",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吸烟",
+          "meaning_ja": "たばこに火をつけ、その煙を吸うこと。",
+          "example_ja": "建物の中での喫煙はご遠慮ください。",
+          "example_zh": "请不要在楼内吸烟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "喫煙所で吸う",
+          "zh": "在吸烟区吸烟"
+        }
+      ],
+      "usage_note_zh": "告示中常见「喫煙所」「喫煙禁止」；日常口语常说「たばこを吸う」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与饮酒并列的喫煙指吸烟行为，词典列名词兼自サ变用法。",
+        "dictionary_sequences": [
+          1226390
+        ],
+        "identity": {
+          "word": "喫煙",
+          "reading_hiragana": "きつえん",
+          "meaning": "吸烟"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-673c7ef47f69655e",
+      "index": 1588,
+      "word": "飲酒",
+      "reading_hiragana": "いんしゅ",
+      "context_meaning_zh": "饮酒",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饮酒",
+          "meaning_ja": "酒を飲むこと。",
+          "example_ja": "飲酒した人は、自転車にも乗らないでください。",
+          "example_zh": "饮酒后请不要骑自行车。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "飲酒を控える",
+          "zh": "节制饮酒"
+        }
+      ],
+      "usage_note_zh": "「飲酒する」较正式；描述饮酒行为时使用，不等同于酒类本身「酒」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "飲酒是饮酒行为的名词兼サ变自动词，词典标vi；本例作为与吸烟并列的禁止行为。",
+        "dictionary_sequences": [
+          1169900
+        ],
+        "identity": {
+          "word": "飲酒",
+          "reading_hiragana": "いんしゅ",
+          "meaning": "饮酒"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dd203dc28cc04e76",
+      "index": 1589,
+      "word": "公共",
+      "reading_hiragana": "こうきょう",
+      "context_meaning_zh": "公共",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "公共",
+          "meaning_ja": "社会の多くの人に関わること。",
+          "example_ja": "この建物の水道は、公共の設備です。",
+          "example_zh": "这栋楼的供水设施属于公共设施。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "公共施設",
+          "zh": "公共设施"
+        }
+      ],
+      "usage_note_zh": "常作名词前的修饰语，如「公共施設」「公共交通」；不能单独表达“公共场所”时要搭配名词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "公共常以「公共の＋名词」修饰公共设施，词典兼列名词及adj-no；不误标な形容词。",
+        "dictionary_sequences": [
+          1273510
+        ],
+        "identity": {
+          "word": "公共",
+          "reading_hiragana": "こうきょう",
+          "meaning": "公共"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f87c018c8430855a",
+      "index": 1590,
+      "word": "不要",
+      "reading_hiragana": "ふよう",
+      "context_meaning_zh": "不要、不需要",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不要、不需要",
+          "meaning_ja": "役に立たず、取り置いたり使ったりする必要がない様子。",
+          "example_ja": "不要な紙は、裏面をメモに使ってから捨てます。",
+          "example_zh": "不需要的纸会先用背面记笔记，然后再丢弃。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "不要な物",
+          "zh": "不需要的物品"
+        }
+      ],
+      "usage_note_zh": "「不要な＋名詞」「これは不要です」；用于表示不需要，语气比「いらない」正式。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "追加支払いは不要です表示无需追加付款；词典列名词和ナ形容词，句中作述语形容词。",
+        "dictionary_sequences": [
+          1602900
+        ],
+        "identity": {
+          "word": "不要",
+          "reading_hiragana": "ふよう",
+          "meaning": "不要、不需要"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2a0b5a5393034212",
+      "index": 1591,
+      "word": "大掃除",
+      "reading_hiragana": "おおそうじ",
+      "context_meaning_zh": "大扫除",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大扫除",
+          "meaning_ja": "普段は手をつけない所まで、時間をかけて行う掃除。",
+          "example_ja": "休みの日に家族で大掃除をして、棚の裏も拭きました。",
+          "example_zh": "休息日我和家人做了大扫除，还擦了架子后面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "年末の大掃除",
+          "zh": "年底大扫除"
+        }
+      ],
+      "usage_note_zh": "通常指一年几次或换季时的大范围清扫；比日常「掃除」范围更大。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「大掃除ではない」作名词，辞书另列サ变及自他用法；该记录的名词义不抹去词条的自他兼类。",
+        "dictionary_sequences": [
+          1414390
+        ],
+        "identity": {
+          "word": "大掃除",
+          "reading_hiragana": "おおそうじ",
+          "meaning": "大扫除"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-33056d44a2055efe",
+      "index": 1592,
+      "word": "駄目",
+      "reading_hiragana": "だめ",
+      "context_meaning_zh": "白费;不行",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "白费;不行",
+          "meaning_ja": "望ましくない状態、または認められないことを表す。",
+          "example_ja": "共用の鍋を洗わずに戻すのは駄目です。",
+          "example_zh": "用完共用锅不清洗就放回去是不行的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "使っては駄目",
+          "zh": "不可以使用"
+        }
+      ],
+      "usage_note_zh": "「～ては駄目」表示禁止；「駄目な＋名詞」表示不合格或不适用，语体较口语。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "駄目可作な形容词描述不合适状态，也可作名词；禁止的ては駄目和无计可施的句式均为常见口语。",
+        "dictionary_sequences": [
+          1409110
+        ],
+        "identity": {
+          "word": "駄目",
+          "reading_hiragana": "だめ",
+          "meaning": "白费;不行"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fc3b65ebe2d6c2a9",
+      "index": 1593,
+      "word": "ちゃんと",
+      "reading_hiragana": "ちゃんと",
+      "context_meaning_zh": "规矩地;整齐地;好好地",
+      "pos_ja": "動詞・副詞",
+      "pos_zh": "动词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "规矩地;整齐地;好好地",
+          "meaning_ja": "必要なことを省かず、正しい状態で行う様子。",
+          "example_ja": "使った道具は、ちゃんと洗ってから返してください。",
+          "example_zh": "用过的工具请好好清洗后再归还。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ちゃんと片づける",
+          "zh": "好好收拾"
+        }
+      ],
+      "usage_note_zh": "修饰动词，表示认真、妥当地完成；不是形容词，不能说「ちゃんとな人」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "verb",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典列副词和サ变用法；本例是妥当地记住、整齐排列，不带词汇层面的受事，副词与する用法均成立。",
+        "dictionary_sequences": [
+          1007720
+        ],
+        "identity": {
+          "word": "ちゃんと",
+          "reading_hiragana": "ちゃんと",
+          "meaning": "规矩地;整齐地;好好地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-19823b6ccfd80403",
+      "index": 1594,
+      "word": "紙くず",
+      "reading_hiragana": "かみくず",
+      "context_meaning_zh": "废纸、纸屑",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "废纸、纸屑",
+          "meaning_ja": "紙を切ったときに出る小さな切れ端や、不要になった紙。",
+          "example_ja": "床に落ちた紙くずを拾って、ごみ箱に入れました。",
+          "example_zh": "我捡起掉在地上的纸屑，放进垃圾桶。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "紙くずを拾う",
+          "zh": "捡纸屑"
+        }
+      ],
+      "usage_note_zh": "常与「拾う」「捨てる」搭配；「くず」带有废弃物、碎屑的含义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指可投入废纸箱的纸屑、废纸；在句中为捨てる的主语。",
+        "dictionary_sequences": [
+          1609610
+        ],
+        "identity": {
+          "word": "紙くず",
+          "reading_hiragana": "かみくず",
+          "meaning": "废纸、纸屑"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ed628fd722d0f0c7",
+      "index": 1595,
+      "word": "散らかす",
+      "reading_hiragana": "ちらかす",
+      "context_meaning_zh": "乱撒、乱扔",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乱撒、乱扔",
+          "meaning_ja": "物をあちこちに置き、整っていない状態にする。",
+          "example_ja": "子どもが居間におもちゃを散らかしたので、一緒に片づけました。",
+          "example_zh": "孩子把玩具弄得到处都是，所以我和他一起收拾了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "部屋を散らかす",
+          "zh": "把房间弄乱"
+        }
+      ],
+      "usage_note_zh": "散乱的物品用「を」标记；多表示造成杂乱，和自动词「散らかる」相区别。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "ちらかす是五段他动词，使物品散乱；本句ごみを是散乱动作对象，词典和课程说明一致。",
+        "dictionary_sequences": [
+          1303420
+        ],
+        "identity": {
+          "word": "散らかす",
+          "reading_hiragana": "ちらかす",
+          "meaning": "乱撒、乱扔"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-445440a8ef2fd360",
+      "index": 1596,
+      "word": "掃く",
+      "reading_hiragana": "はく",
+      "context_meaning_zh": "扫",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "扫",
+          "meaning_ja": "ほうきを動かして、ごみやほこりを一か所に集める。",
+          "example_ja": "玄関を掃いてから、濡れた傘を外に並べました。",
+          "example_zh": "扫过玄关后，我把湿伞排在外面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "床を掃く",
+          "zh": "扫地"
+        }
+      ],
+      "usage_note_zh": "常说「床を掃く」「落ち葉を掃く」；用「ほうきで」说明工具。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "扫除前把桌下灰尘扫去，宾语是被清扫对象；词典为五段く他动词，取常用扫地义。",
+        "dictionary_sequences": [
+          1399760
+        ],
+        "identity": {
+          "word": "掃く",
+          "reading_hiragana": "はく",
+          "meaning": "扫"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e1c591dc9c3b4072",
+      "index": 1597,
+      "word": "正門",
+      "reading_hiragana": "せいもん",
+      "context_meaning_zh": "正门",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "正门",
+          "meaning_ja": "学校や施設などの正面にある、主な門。",
+          "example_ja": "正門の前は車が多いので、横断歩道を渡ってください。",
+          "example_zh": "正门前车辆很多，请走人行横道。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "正門を通る",
+          "zh": "经过正门"
+        }
+      ],
+      "usage_note_zh": "指主要入口；其他入口可称「裏門」「通用門」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "从正门进入大厅看告示，正門指主要入口，词典main gate/entrance义相符。",
+        "dictionary_sequences": [
+          1378100
+        ],
+        "identity": {
+          "word": "正門",
+          "reading_hiragana": "せいもん",
+          "meaning": "正门"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cffcc5a33f3e00e2",
+      "index": 1598,
+      "word": "いたずら",
+      "reading_hiragana": "いたずら",
+      "context_meaning_zh": "淘气、恶作剧",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "淘气、恶作剧",
+          "meaning_ja": "人を困らせたり驚かせたりする、度を越したふざけた行動。",
+          "example_ja": "人の物を隠すいたずらは、もうやめてください。",
+          "example_zh": "请不要再把别人的东西藏起来恶作剧了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "いたずらをする",
+          "zh": "恶作剧"
+        }
+      ],
+      "usage_note_zh": "「いたずらをする」表示做恶作剧；也可作定语「いたずらな子」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课指淘气或恶作剧；例句中「いたずらをする」作行为名词，也有「いたずらな子」的な形容词用法，词典兼列サ变且自他标注因义而异。",
+        "dictionary_sequences": [
+          1151580
+        ],
+        "identity": {
+          "word": "いたずら",
+          "reading_hiragana": "いたずら",
+          "meaning": "淘气、恶作剧"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cfb75e9a3ce30bd4",
+      "index": 1599,
+      "word": "教員室",
+      "reading_hiragana": "きょういんしつ",
+      "context_meaning_zh": "教员室",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "教员室",
+          "meaning_ja": "学校で教員が仕事をしたり、生徒や学生に対応したりする部屋。",
+          "example_ja": "授業の後、質問するために教員室を訪ねました。",
+          "example_zh": "下课后，我为了提问去了教师办公室。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "教員室を訪ねる",
+          "zh": "去教师办公室"
+        }
+      ],
+      "usage_note_zh": "学校内部的房间名称；与学生上课的「教室」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "教员室是教师工作或休息的房间，例句教师在其中；词典列staffroom名词，学校场景不自动代表educational体裁，故无体裁标签。",
+        "dictionary_sequences": [
+          2847541
+        ],
+        "identity": {
+          "word": "教員室",
+          "reading_hiragana": "きょういんしつ",
+          "meaning": "教员室"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9d764742713a41c5",
+      "index": 1600,
+      "word": "歩行者",
+      "reading_hiragana": "ほこうしゃ",
+      "context_meaning_zh": "步行者",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "步行者",
+          "meaning_ja": "道路を歩いて通行する人。",
+          "example_ja": "歩行者がいるときは、自転車を降りて通りましょう。",
+          "example_zh": "有行人时请下车推行自行车通过。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歩行者に道を譲る",
+          "zh": "给行人让路"
+        }
+      ],
+      "usage_note_zh": "道路告示中常与「優先」「通行」搭配；与自転車や車で移動する人相区别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "区别于骑车或驾车者的步行人群；例句称告示展示给行人。",
+        "dictionary_sequences": [
+          1514380
+        ],
+        "identity": {
+          "word": "歩行者",
+          "reading_hiragana": "ほこうしゃ",
+          "meaning": "步行者"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f7fee585355a2911",
+      "index": 1601,
+      "word": "事務所",
+      "reading_hiragana": "じむしょ",
+      "context_meaning_zh": "事务所",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "事务所",
+          "meaning_ja": "会社や団体が仕事をする場所。また、その仕事場となる組織。",
+          "example_ja": "落とし物を届けるため、駅の事務所に行きました。",
+          "example_zh": "为了上交遗失物，我去了车站办公室。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事務所で働く",
+          "zh": "在事务所工作"
+        }
+      ],
+      "usage_note_zh": "指办公地点或办事机构；「事務室」多指某建筑内部的一间办公房。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "社区活动的策划机构所在地称事务所；词典office义相符，未限定事务所类型。",
+        "dictionary_sequences": [
+          1314400
+        ],
+        "identity": {
+          "word": "事務所",
+          "reading_hiragana": "じむしょ",
+          "meaning": "事务所"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8bd5eda0ec4c8e59",
+      "index": 1602,
+      "word": "床屋",
+      "reading_hiragana": "とこや",
+      "context_meaning_zh": "理发店、理发师",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "理发店、理发师",
+          "meaning_ja": "髪を切ったり整えたりする店。",
+          "example_ja": "父は月に一度、近所の床屋で髪を切ります。",
+          "example_zh": "父亲每月去附近的理发店理一次发。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "床屋で髪を切る",
+          "zh": "在理发店剪头发"
+        }
+      ],
+      "usage_note_zh": "「床屋」通常指理发店，也可指理发师；女性理发店常称「美容院」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "可指理发店也可指理发师，课内两例分别出现地点和父亲职业。",
+        "dictionary_sequences": [
+          1349410
+        ],
+        "identity": {
+          "word": "床屋",
+          "reading_hiragana": "とこや",
+          "meaning": "理发店、理发师"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cb2a37871b788cde",
+      "index": 1603,
+      "word": "決まり",
+      "reading_hiragana": "きまり",
+      "context_meaning_zh": "规定;惯例",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "规定;惯例",
+          "meaning_ja": "集団や場所で、守るように決められたこと。",
+          "example_ja": "使った食器は自分で洗うのが、この家の決まりです。",
+          "example_zh": "用过的餐具自己清洗是这家的规矩。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "決まりを守る",
+          "zh": "遵守规定"
+        }
+      ],
+      "usage_note_zh": "可指规则，也可指惯例；「決まりを守る」「決まりを作る」均自然。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "两例指规矩及惯例，词典也收规则、习惯等名词义；不将adj-no条目机械转成独立形容词类。",
+        "dictionary_sequences": [
+          1609660
+        ],
+        "identity": {
+          "word": "決まり",
+          "reading_hiragana": "きまり",
+          "meaning": "规定;惯例"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b0b486129a9dc613",
+      "index": 1604,
+      "word": "出入り",
+      "reading_hiragana": "でいり",
+      "context_meaning_zh": "进出",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "进出",
+          "meaning_ja": "人や物が場所の中と外を行き来すること。",
+          "example_ja": "台所への出入りは、住人なら自由にできます。",
+          "example_zh": "住户可以自由进出厨房。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人の出入り",
+          "zh": "人员往来"
+        }
+      ],
+      "usage_note_zh": "「出入り口」指进出口；「人の出入り」也可指往来情况。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "“进出办公室”指人员进入和离开，词典列名词及サ变自动词；此句是名词。",
+        "dictionary_sequences": [
+          1339910
+        ],
+        "identity": {
+          "word": "出入り",
+          "reading_hiragana": "でいり",
+          "meaning": "进出"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cc3cdec5e30179fd",
+      "index": 1605,
+      "word": "秘密",
+      "reading_hiragana": "ひみつ",
+      "context_meaning_zh": "秘密",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "秘密",
+          "meaning_ja": "ほかの人に知られないようにしている事柄。",
+          "example_ja": "暗証番号は秘密なので、紙に書いて貼らないでください。",
+          "example_zh": "密码是秘密，请不要写在纸上贴出来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "秘密を守る",
+          "zh": "保守秘密"
+        }
+      ],
+      "usage_note_zh": "「秘密にする」「秘密を守る」常用；可作名词，也可说「秘密な話」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“不可谈论他人的秘密”取保密信息名词义；词典另列ナ形容词用法，秘密也可表示保密状态。",
+        "dictionary_sequences": [
+          1484150
+        ],
+        "identity": {
+          "word": "秘密",
+          "reading_hiragana": "ひみつ",
+          "meaning": "秘密"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d8c531b344e48df5",
+      "index": 1606,
+      "word": "他人",
+      "reading_hiragana": "たにん",
+      "context_meaning_zh": "他人",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "他人",
+          "meaning_ja": "自分や自分の家族・仲間ではない人。",
+          "example_ja": "他人の部屋に入る前には、必ず許可をもらってください。",
+          "example_zh": "进入别人的房间之前，务必先得到许可。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "他人の物",
+          "zh": "别人的东西"
+        }
+      ],
+      "usage_note_zh": "通常指与自己无关的人；语气有时显得疏远，指不认识的人也可用「知らない人」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句意强调照顾下一位使用者，他人指自己以外的人；JMdict列名词。",
+        "dictionary_sequences": [
+          1581400
+        ],
+        "identity": {
+          "word": "他人",
+          "reading_hiragana": "たにん",
+          "meaning": "他人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3fcc971816b19490",
+      "index": 1607,
+      "word": "埃",
+      "reading_hiragana": "ほこり",
+      "context_meaning_zh": "尘埃",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "尘埃",
+          "meaning_ja": "空気中にある細かな汚れや、物の表面に積もる細かな粒。",
+          "example_ja": "使っていない棚に埃が積もっていたので、布で拭きました。",
+          "example_zh": "没在使用的架子上积了灰尘，所以我用布擦了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "埃を払う",
+          "zh": "掸灰"
+        }
+      ],
+      "usage_note_zh": "常说「埃が積もる」「埃を払う」；表示灰尘，不是大块的垃圾。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "移动桌子前清扫下方灰尘，埃为名词，词典列dust义。",
+        "dictionary_sequences": [
+          1565750
+        ],
+        "identity": {
+          "word": "埃",
+          "reading_hiragana": "ほこり",
+          "meaning": "尘埃"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cfdbecf3964a3cb1",
+      "index": 1608,
+      "word": "大声",
+      "reading_hiragana": "おおごえ",
+      "context_meaning_zh": "大声",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大声",
+          "meaning_ja": "ふつうより大きな声、またはその声の出し方。",
+          "example_ja": "夜遅くは、大声で話さないようにお願いします。",
+          "example_zh": "深夜请不要大声说话。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大声を出す",
+          "zh": "大声喊叫"
+        }
+      ],
+      "usage_note_zh": "常说「大声で話す」「大声を出す」；「で」表示说话时的音量方式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "大声で注意する中的大声表示响亮音量，普通名词；词典支持名词及の修饰。",
+        "dictionary_sequences": [
+          1414300
+        ],
+        "identity": {
+          "word": "大声",
+          "reading_hiragana": "おおごえ",
+          "meaning": "大声"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6534dec81660192a",
+      "index": 1609,
+      "word": "落し物",
+      "reading_hiragana": "おとしもの",
+      "context_meaning_zh": "遗失物",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "遗失物",
+          "meaning_ja": "持ち主がどこかに落として、見つからなくなった物。",
+          "example_ja": "駅で落し物を見つけたら、改札の係員に渡してください。",
+          "example_zh": "在车站发现遗失物时，请交给检票口工作人员。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "落し物を届ける",
+          "zh": "上交遗失物"
+        }
+      ],
+      "usage_note_zh": "常见固定称呼「落し物センター」；现代书写也常用「落とし物」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "落し物指不慎掉落并遗留的物品，本句指失物箱中的物件。",
+        "dictionary_sequences": [
+          1589250
+        ],
+        "identity": {
+          "word": "落し物",
+          "reading_hiragana": "おとしもの",
+          "meaning": "遗失物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-311b6db26cc477c4",
+      "index": 1610,
+      "word": "箱",
+      "reading_hiragana": "はこ",
+      "context_meaning_zh": "盒子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "盒子",
+          "meaning_ja": "物を入れたり運んだりするための容器。",
+          "example_ja": "洗ったコップは、棚の下の箱に入れてください。",
+          "example_zh": "洗好的杯子请放进架子下面的箱子里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "箱に入れる",
+          "zh": "装进箱子"
+        }
+      ],
+      "usage_note_zh": "常与「箱に入れる」「箱を開ける」搭配；形状和材质需由具体语境补充。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "请对方看这个箱子，词典首义box与例句指示词语境一致。",
+        "dictionary_sequences": [
+          1585650
+        ],
+        "identity": {
+          "word": "箱",
+          "reading_hiragana": "はこ",
+          "meaning": "盒子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-69d34723be087112",
+      "index": 1611,
+      "word": "巫山戯る",
+      "reading_hiragana": "ふざける",
+      "context_meaning_zh": "开玩笑、捉弄人",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "开玩笑、捉弄人",
+          "meaning_ja": "ふざけた言動をして、まじめに行動しない。",
+          "example_ja": "大事な説明の間は、ふざけないで聞いてください。",
+          "example_zh": "重要说明期间请不要胡闹，要认真听。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ふざけて遊ぶ",
+          "zh": "嬉闹玩耍"
+        }
+      ],
+      "usage_note_zh": "常说「ふざけるな」或「ふざけないで」；带有制止语气时可能显得强硬。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「ふざけるな」是制止对方胡闹的口语命令；JMdict 1566450列一段自动词，所给多义中此处指捣乱、恶作剧。",
+        "dictionary_sequences": [
+          1566450
+        ],
+        "identity": {
+          "word": "巫山戯る",
+          "reading_hiragana": "ふざける",
+          "meaning": "开玩笑、捉弄人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5a6fd6ebffac8e22",
+      "index": 1612,
+      "word": "こらっ",
+      "reading_hiragana": "こらっ",
+      "context_meaning_zh": "(用于责备、呼唤、提醒等)这!喂!",
+      "pos_ja": "感動詞",
+      "pos_zh": "感叹词",
+      "register_zh": "非正式・口语",
+      "senses": [
+        {
+          "meaning_zh": "(用于责备、呼唤、提醒等)这!喂!",
+          "meaning_ja": "相手の行動を強く止めたり、叱ったりするときに発する言葉。",
+          "example_ja": "こらっ、共用の食器を投げてはいけません。",
+          "example_zh": "喂，不准把共用餐具扔出去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "こらっ、やめなさい",
+          "zh": "喂，快住手"
+        }
+      ],
+      "usage_note_zh": "用于当面喝止，语气较强；对不熟悉的人或正式场合不宜随意使用。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "大人用「こらっ」制止孩子拿垃圾胡闹，是口头训斥感叹词；直接呵斥不属于礼貌用法。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "こらっ",
+          "reading_hiragana": "こらっ",
+          "meaning": "(用于责备、呼唤、提醒等)这!喂!"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2582755d82bae37a",
+      "index": 1613,
+      "word": "破る",
+      "reading_hiragana": "やぶる",
+      "context_meaning_zh": "破坏、违背规则",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "破坏、违背规则",
+          "meaning_ja": "決まりや約束に従わない。また、紙などを裂いて二つ以上にする。",
+          "example_ja": "共有スペースのルールを破ると、ほかの人も困ります。",
+          "example_zh": "违反共用空间的规则会给其他人造成困扰。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ルールを破る",
+          "zh": "违反规则"
+        }
+      ],
+      "usage_note_zh": "本课义为违反规定，常说「約束を破る」；纸张等被撕破也用此词，需按宾语区分。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「ルールを破らない」以规则为对象，取违反规则义；辞书列五段ラ行他动词。",
+        "dictionary_sequences": [
+          1471200
+        ],
+        "identity": {
+          "word": "破る",
+          "reading_hiragana": "やぶる",
+          "meaning": "破坏、违背规则"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3a367b438e706338",
+      "index": 1614,
+      "word": "騒ぐ",
+      "reading_hiragana": "さわぐ",
+      "context_meaning_zh": "吵闹、喧哗",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吵闹、喧哗",
+          "meaning_ja": "大きな声や音を出して、周りが静かでなくなる。",
+          "example_ja": "赤ちゃんが寝ているので、台所で騒がないでください。",
+          "example_zh": "宝宝正在睡觉，请不要在厨房吵闹。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大声で騒ぐ",
+          "zh": "大声喧哗"
+        }
+      ],
+      "usage_note_zh": "「騒ぐ」是自动词，吵闹的人用「が」；「騒がないで」可直接请求对方安静。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句是请朋友别吵闹；「ください」承担礼貌请求形式，不把礼貌性标到词头「騒ぐ」。",
+        "dictionary_sequences": [
+          1403040
+        ],
+        "identity": {
+          "word": "騒ぐ",
+          "reading_hiragana": "さわぐ",
+          "meaning": "吵闹、喧哗"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-646572c7e0cd2133",
+      "index": 1615,
+      "word": "給食",
+      "reading_hiragana": "きゅうしょく",
+      "context_meaning_zh": "提供伙食",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "提供伙食",
+          "meaning_ja": "学校や職場などで、決まった人たちに食事を出すこと。また、その食事。",
+          "example_ja": "子どもたちは食堂で給食を食べてから、教室へ戻りました。",
+          "example_zh": "孩子们在食堂吃完供餐后回到了教室。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "給食を食べる",
+          "zh": "吃学校配餐"
+        }
+      ],
+      "usage_note_zh": "学校供餐常称「給食」；说提供餐食可用「給食を出す」，供餐不等于餐厅本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例指学校供餐厨房；词典还明确列出供餐する的不及物サ变动词用法，按兼类记录。",
+        "dictionary_sequences": [
+          1230250
+        ],
+        "identity": {
+          "word": "給食",
+          "reading_hiragana": "きゅうしょく",
+          "meaning": "提供伙食"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-17ca9158ca2fe2b2",
+      "index": 1616,
+      "word": "飲食",
+      "reading_hiragana": "いんしょく",
+      "context_meaning_zh": "饮食",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饮食",
+          "meaning_ja": "食べ物を食べたり、飲み物を飲んだりすること。",
+          "example_ja": "この部屋では飲食できません。廊下の休憩所をご利用ください。",
+          "example_zh": "这个房间里不能饮食。请使用走廊的休息区。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "飲食禁止",
+          "zh": "禁止饮食"
+        }
+      ],
+      "usage_note_zh": "设施告示常用「飲食禁止」；作动词时可说「ここで飲食する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“飲食”可作吃喝这一名词，也可构成飲食する；JMdict兼列他动与自动サ变，当前否定可能句不区分两者。",
+        "dictionary_sequences": [
+          1169940
+        ],
+        "identity": {
+          "word": "飲食",
+          "reading_hiragana": "いんしょく",
+          "meaning": "饮食"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-81338455735f8ed1",
+      "index": 1617,
+      "word": "会費",
+      "reading_hiragana": "かいひ",
+      "context_meaning_zh": "会费",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "会费",
+          "meaning_ja": "会や団体の活動費として、会員が定期的に出すお金。",
+          "example_ja": "料理サークルの会費は、毎月受付で集めています。",
+          "example_zh": "烹饪社团的会费每月在接待处收取。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会費を集める",
+          "zh": "收取会费"
+        }
+      ],
+      "usage_note_zh": "常说「会費を払う」「会費を集める」；与单次参加活动的费用不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "会费是会员费，例句说明会费另计；词典释义相符。",
+        "dictionary_sequences": [
+          1198860
+        ],
+        "identity": {
+          "word": "会費",
+          "reading_hiragana": "かいひ",
+          "meaning": "会费"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-331143dd7347cb54",
+      "index": 1618,
+      "word": "飲食店",
+      "reading_hiragana": "いんしょくてん",
+      "context_meaning_zh": "饮食店",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饮食店",
+          "meaning_ja": "食事や飲み物を客に出す店。",
+          "example_ja": "この飲食店は昼休みに混むので、少し早く行きましょう。",
+          "example_zh": "这家餐饮店午休时很拥挤，我们早点去吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "飲食店を探す",
+          "zh": "找餐饮店"
+        }
+      ],
+      "usage_note_zh": "范围包括餐馆、咖啡馆等；具体店型可说「レストラン」「喫茶店」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "街上有三家饮食店，词典餐馆义相合；课程说明其为餐馆、咖啡馆等店铺的总称。",
+        "dictionary_sequences": [
+          1169950
+        ],
+        "identity": {
+          "word": "飲食店",
+          "reading_hiragana": "いんしょくてん",
+          "meaning": "饮食店"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2366afd736014c82",
+      "index": 1619,
+      "word": "無し",
+      "reading_hiragana": "なし",
+      "context_meaning_zh": "没有",
+      "pos_ja": "名詞・接尾辞",
+      "pos_zh": "名词・接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "没有",
+          "meaning_ja": "物や人が存在しないこと。名詞の後ろでは「～を付けない」の意味を表す。",
+          "example_ja": "このスープは塩無しでお願いします。",
+          "example_zh": "这份汤请不要加盐。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予約無し",
+          "zh": "无需预约"
+        }
+      ],
+      "usage_note_zh": "单独用可说「在庫無し」；接在名词后表示不含该物，口语也常写「なし」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "今日会费为零／无，作名词谓语；也常接在名词后表示不含该项的状态。",
+        "dictionary_sequences": [
+          1529560
+        ],
+        "identity": {
+          "word": "無し",
+          "reading_hiragana": "なし",
+          "meaning": "没有"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-814be21eccbfad76",
+      "index": 1620,
+      "word": "ホール",
+      "reading_hiragana": "ホール",
+      "context_meaning_zh": "大厅、会堂",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大厅、会堂",
+          "meaning_ja": "集会や公演などを行うための、広い部屋や建物。",
+          "example_ja": "講演会は二階のホールで午後三時から始まります。",
+          "example_zh": "讲座下午三点在二楼大厅开始。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "市民ホール",
+          "zh": "市民会堂"
+        }
+      ],
+      "usage_note_zh": "「ホールで催しを開く」指活动场地；也可指入口大厅，按设施语境理解。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "告示板所在的ホール为大厅或会堂义，所给词典另有hole、whole同音异义项不适用于本课。",
+        "dictionary_sequences": [
+          1122130
+        ],
+        "identity": {
+          "word": "ホール",
+          "reading_hiragana": "ホール",
+          "meaning": "大厅、会堂"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ff1b3fc188419379",
+      "index": 1621,
+      "word": "火事",
+      "reading_hiragana": "かじ",
+      "context_meaning_zh": "火灾",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "火灾",
+          "meaning_ja": "建物や山林などが燃えて、被害が出る災害。",
+          "example_ja": "隣の建物で火事が起きたら、まず外へ避難してください。",
+          "example_zh": "邻近建筑发生火灾时，请先到室外避难。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "火事が起きる",
+          "zh": "发生火灾"
+        }
+      ],
+      "usage_note_zh": "常说「火事が起きる」「火事を消す」；灾害告示中也常见「火の用心」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "提醒注意火灾，火事指燃烧蔓延造成的灾害名词；警告句式不使词项成为正式专用语。",
+        "dictionary_sequences": [
+          1193950
+        ],
+        "identity": {
+          "word": "火事",
+          "reading_hiragana": "かじ",
+          "meaning": "火灾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ef273c8562280dac",
+      "index": 1622,
+      "word": "百貨店",
+      "reading_hiragana": "ひゃっかてん",
+      "context_meaning_zh": "百货商店",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "百货商店",
+          "meaning_ja": "衣類や食料品など、幅広い商品を売る大きな店。",
+          "example_ja": "百貨店の地下で、夕食のおかずを買いました。",
+          "example_zh": "我在百货商店的地下层买了晚餐的菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "百貨店で買い物をする",
+          "zh": "在百货商店购物"
+        }
+      ],
+      "usage_note_zh": "常说「百貨店で買い物をする」；规模较大、商品类别多，和一般商店相区别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指商品类别丰富的大型百货商店；车站店铺购买手套的例句相符。",
+        "dictionary_sequences": [
+          1488090
+        ],
+        "identity": {
+          "word": "百貨店",
+          "reading_hiragana": "ひゃっかてん",
+          "meaning": "百货商店"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1158602edc9eced1",
+      "index": 1623,
+      "word": "本屋",
+      "reading_hiragana": "ほんや",
+      "context_meaning_zh": "书店",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "书店",
+          "meaning_ja": "本や雑誌を売る店。",
+          "example_ja": "本屋で料理の本を探しましたが、見つかりませんでした。",
+          "example_zh": "我在书店找烹饪书，但没找到。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "本屋に寄る",
+          "zh": "顺便去书店"
+        }
+      ],
+      "usage_note_zh": "「本屋」是日常说法；较正式的名称是「書店」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "在这里买烹饪书的本屋指零售书店；辞典bookstore义准确，不取出版社或主建筑义。",
+        "dictionary_sequences": [
+          1522240
+        ],
+        "identity": {
+          "word": "本屋",
+          "reading_hiragana": "ほんや",
+          "meaning": "书店"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-26e96ce38af53fa6",
+      "index": 1624,
+      "word": "暖房器具",
+      "reading_hiragana": "だんぼうきぐ",
+      "context_meaning_zh": "取暖器具",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "取暖器具",
+          "meaning_ja": "室内の温度を上げるために使う機械や道具。",
+          "example_ja": "使い終わった暖房器具は、電源を切ってから片づけましょう。",
+          "example_zh": "取暖器用完后，关掉电源再收起来吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "暖房器具を使う",
+          "zh": "使用取暖器具"
+        }
+      ],
+      "usage_note_zh": "包括暖风机、取暖炉等；常与「使う」「電源を切る」搭配。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "暖房器具指房间加热设备，例句提醒物品摆放安全；类别名词无特定语体。",
+        "dictionary_sequences": [
+          1998130
+        ],
+        "identity": {
+          "word": "暖房器具",
+          "reading_hiragana": "だんぼうきぐ",
+          "meaning": "取暖器具"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9ec4a5d033c952ec",
+      "index": 1625,
+      "word": "秩序",
+      "reading_hiragana": "ちつじょ",
+      "context_meaning_zh": "秩序",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "秩序",
+          "meaning_ja": "物事が決まった順に整い、混乱していない状態。",
+          "example_ja": "受付の前に列を作ると、会場の秩序を保ちやすくなります。",
+          "example_zh": "在接待处前排队，更容易维持会场秩序。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "秩序を保つ",
+          "zh": "维持秩序"
+        }
+      ],
+      "usage_note_zh": "常说「秩序を保つ」「秩序が乱れる」；偏向整体的有序状态。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "守护秩序不是某一个人的工作，秩序作社会或整体的有序状态名词。",
+        "dictionary_sequences": [
+          1422520
+        ],
+        "identity": {
+          "word": "秩序",
+          "reading_hiragana": "ちつじょ",
+          "meaning": "秩序"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b197e1a98f8f7490",
+      "index": 1626,
+      "word": "規律",
+      "reading_hiragana": "きりつ",
+      "context_meaning_zh": "规律、纪律、秩序",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "规律、纪律、秩序",
+          "meaning_ja": "集団で守るべき決まり。また、生活や行動が規則正しいこと。",
+          "example_ja": "共同キッチンでは、使った場所を元に戻す規律を守っています。",
+          "example_zh": "在共用厨房里，大家遵守用完后恢复原状的纪律。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "規律を守る",
+          "zh": "遵守纪律"
+        }
+      ],
+      "usage_note_zh": "指群体规范时可说「規律を守る」；「規律正しい生活」则表示规律有序的生活。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "規律指应遵守的秩序、规则或纪律，例句强调规则重要；普通抽象名词。",
+        "dictionary_sequences": [
+          1223120
+        ],
+        "identity": {
+          "word": "規律",
+          "reading_hiragana": "きりつ",
+          "meaning": "规律、纪律、秩序"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6c0cd3af3655a403",
+      "index": 1627,
+      "word": "ビニール",
+      "reading_hiragana": "ビニール",
+      "context_meaning_zh": "塑料薄膜、乙烯基",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "塑料薄膜、乙烯基",
+          "meaning_ja": "袋やシートなどに使われる、柔らかく薄い合成樹脂。",
+          "example_ja": "雨でぬれないように、荷物をビニールで包みました。",
+          "example_zh": "为了不让行李被雨淋湿，我用塑料薄膜包了起来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ビニール袋",
+          "zh": "塑料袋"
+        }
+      ],
+      "usage_note_zh": "日常所说「ビニール袋」常泛指塑料袋，不一定是聚氯乙烯材料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "ビニール袋指塑料薄膜制袋；此处取常用塑料义，不是严格材料学上的乙烯基限定。",
+        "dictionary_sequences": [
+          1105580
+        ],
+        "identity": {
+          "word": "ビニール",
+          "reading_hiragana": "ビニール",
+          "meaning": "塑料薄膜、乙烯基"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-434a9cc0208530d9",
+      "index": 1628,
+      "word": "プラスチック",
+      "reading_hiragana": "プラスチック",
+      "context_meaning_zh": "塑料",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "塑料",
+          "meaning_ja": "熱や圧力で形を作れる合成樹脂の材料。",
+          "example_ja": "プラスチックの容器は、洗ってから資源ごみに出します。",
+          "example_zh": "塑料容器要洗干净后作为可回收垃圾投放。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "プラスチック製の容器",
+          "zh": "塑料容器"
+        }
+      ],
+      "usage_note_zh": "泛指多种合成树脂材料；制品常说「プラスチック製」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "プラスチック作材料名称；词典兼列名词和名词修饰用法，当前例句在助词で后作名词。",
+        "dictionary_sequences": [
+          1115670
+        ],
+        "identity": {
+          "word": "プラスチック",
+          "reading_hiragana": "プラスチック",
+          "meaning": "塑料"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bda699052beb1e68",
+      "index": 1629,
+      "word": "乾電池",
+      "reading_hiragana": "かんでんち",
+      "context_meaning_zh": "干电池",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "干电池",
+          "meaning_ja": "充電せずに使い、電気がなくなると新しい物に替える電池。",
+          "example_ja": "リモコンが動かないので、乾電池を二本交換しました。",
+          "example_zh": "遥控器不能用了，所以我换了两节干电池。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "乾電池を交換する",
+          "zh": "更换干电池"
+        }
+      ],
+      "usage_note_zh": "常用数量词「本」；与可重复充电的「充電池」相区别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "乾電池是干电池，词典义清楚；例句‘谁的干电池’语义异常，无法据此判断是否存在关联错误。",
+        "dictionary_sequences": [
+          1210100
+        ],
+        "identity": {
+          "word": "乾電池",
+          "reading_hiragana": "かんでんち",
+          "meaning": "干电池"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3bf2e56b5ceca0f2",
+      "index": 1630,
+      "word": "生ゴミ",
+      "reading_hiragana": "なまごみ",
+      "context_meaning_zh": "厨房扔掉的含水分的垃圾",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "厨房扔掉的含水分的垃圾",
+          "meaning_ja": "食事の準備や食べ残しから出る、腐りやすい水分を含んだごみ。",
+          "example_ja": "生ゴミは水をよく切ってから、指定の袋に入れてください。",
+          "example_zh": "厨余垃圾请充分沥干水分后放进指定袋子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "生ゴミを出す",
+          "zh": "投放厨余垃圾"
+        }
+      ],
+      "usage_note_zh": "厨房垃圾的分类名称；投放时间和袋子要求应按当地规则。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "生ゴミ是餐后分类的厨余／食物残渣，和词典kitchen waste义一致。",
+        "dictionary_sequences": [
+          1378640
+        ],
+        "identity": {
+          "word": "生ゴミ",
+          "reading_hiragana": "なまごみ",
+          "meaning": "厨房扔掉的含水分的垃圾"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b994a287702d2ee6",
+      "index": 1631,
+      "word": "包み紙",
+      "reading_hiragana": "つつみがみ",
+      "context_meaning_zh": "包装纸",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "包装纸",
+          "meaning_ja": "贈り物や商品を包むために使う紙。",
+          "example_ja": "包み紙はまだきれいなので、次の贈り物に使います。",
+          "example_zh": "包装纸还很干净，所以我留着包下一份礼物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "包み紙で包む",
+          "zh": "用包装纸包起来"
+        }
+      ],
+      "usage_note_zh": "与「包装」这一行为不同，指实际用于包裹的纸张。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "包裹物品用的纸，例句中与厨余垃圾分类。",
+        "dictionary_sequences": [
+          1598020
+        ],
+        "identity": {
+          "word": "包み紙",
+          "reading_hiragana": "つつみがみ",
+          "meaning": "包装纸"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d03e14fed83bc357",
+      "index": 1632,
+      "word": "管理人",
+      "reading_hiragana": "かんりにん",
+      "context_meaning_zh": "管理人",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "管理人",
+          "meaning_ja": "建物や設備の状態を見て、管理の仕事をする人。",
+          "example_ja": "水漏れを見つけたので、管理人に知らせました。",
+          "example_zh": "我发现漏水后通知了管理员。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "管理人に知らせる",
+          "zh": "通知管理员"
+        }
+      ],
+      "usage_note_zh": "公寓或设施中的管理人员；不同机构的职责范围由规定决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句中的管理人石井是向其问候的管理员，词典职业名词义吻合。",
+        "dictionary_sequences": [
+          1214260
+        ],
+        "identity": {
+          "word": "管理人",
+          "reading_hiragana": "かんりにん",
+          "meaning": "管理人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-987859d22351c2a9",
+      "index": 1633,
+      "word": "捨て場",
+      "reading_hiragana": "すてば",
+      "context_meaning_zh": "丢弃东西的地方",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "丢弃东西的地方",
+          "meaning_ja": "物を捨てるために決められた場所。",
+          "example_ja": "大型家具の捨て場は、建物の裏にあります。",
+          "example_zh": "大型家具的丢弃处在建筑后面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ごみ捨て場",
+          "zh": "垃圾投放点"
+        }
+      ],
+      "usage_note_zh": "通常指指定投放地点；丢弃方式和可投放物品需遵守现场说明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "明确说明此处不是家庭垃圾丢弃点，所指为垃圾弃置地点。",
+        "dictionary_sequences": [
+          1595700
+        ],
+        "identity": {
+          "word": "捨て場",
+          "reading_hiragana": "すてば",
+          "meaning": "丢弃东西的地方"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f4708fe569952e27",
+      "index": 1634,
+      "word": "空き缶",
+      "reading_hiragana": "あきかん",
+      "context_meaning_zh": "空罐儿",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "空罐儿",
+          "meaning_ja": "中身を飲み終わった金属製の缶。",
+          "example_ja": "空き缶をつぶさずに、青い回収箱へ入れてください。",
+          "example_zh": "请不要压扁空罐，放进蓝色回收箱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "空き缶を回収する",
+          "zh": "回收空罐"
+        }
+      ],
+      "usage_note_zh": "常作为资源垃圾分类；「空き」表示内容物已空，不是未使用的罐子。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "空き缶指饮料等内容物已空、使用后的罐子；本课要求清洗并投入回收箱，语义明确。",
+        "dictionary_sequences": [
+          1245320
+        ],
+        "identity": {
+          "word": "空き缶",
+          "reading_hiragana": "あきかん",
+          "meaning": "空罐儿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8f40b4f88c290d0e",
+      "index": 1635,
+      "word": "当たり前",
+      "reading_hiragana": "あたりまえ",
+      "context_meaning_zh": "当然;普通",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "当然;普通",
+          "meaning_ja": "特別ではなく、そうであるのが当然だと思われる様子。",
+          "example_ja": "共用の道具を使った後に戻すのは当たり前です。",
+          "example_zh": "用完共用工具后放回原处是理所当然的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "当たり前のこと",
+          "zh": "理所当然的事"
+        }
+      ],
+      "usage_note_zh": "作谓语说「当たり前だ」，修饰名词说「当たり前のこと」；语气可能显得理所当然。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "每个人的当然认知及普通家常菜分别呈现理所当然和常见普通两义；可作名词或な形容词。",
+        "dictionary_sequences": [
+          1448800
+        ],
+        "identity": {
+          "word": "当たり前",
+          "reading_hiragana": "あたりまえ",
+          "meaning": "当然;普通"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7e7f3b4494aabb48",
+      "index": 1636,
+      "word": "立札",
+      "reading_hiragana": "たてふだ",
+      "context_meaning_zh": "告示牌",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "告示牌",
+          "meaning_ja": "地面に立てて、知らせや案内を書いておく札。",
+          "example_ja": "立札に「ここで靴を脱いでください」と書いてあります。",
+          "example_zh": "告示牌上写着“请在此处脱鞋”。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "立札を立てる",
+          "zh": "竖起告示牌"
+        }
+      ],
+      "usage_note_zh": "指竖立放置的牌子；固定在墙上的告示板称「掲示板」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "入口立札用于告知邻室注意事项，词典释义包括立柱告示、公共通知和公告牌。",
+        "dictionary_sequences": [
+          1610730
+        ],
+        "identity": {
+          "word": "立札",
+          "reading_hiragana": "たてふだ",
+          "meaning": "告示牌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6db8882ce97d3c83",
+      "index": 1637,
+      "word": "べからず",
+      "reading_hiragana": "べからず",
+      "context_meaning_zh": "禁止、不可、不能",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性・古语",
+      "senses": [
+        {
+          "meaning_zh": "禁止、不可、不能",
+          "meaning_ja": "「～してはならない」と、してはいけないことを古い形で示す。",
+          "example_ja": "この先、関係者以外立ち入るべからず。",
+          "example_zh": "前方非相关人员禁止进入。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "立ち入るべからず",
+          "zh": "禁止进入"
+        }
+      ],
+      "usage_note_zh": "常见于告示或格言，接在动词辞书形后；语气古风而强硬，日常对话少用。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "archaic"
+        ]
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「べからず」是古典否定禁止构式，课例用土足で入るべからず询问告示内容；作为固定表达，不作裸动词分析。",
+        "dictionary_sequences": [
+          1190720
+        ],
+        "identity": {
+          "word": "べからず",
+          "reading_hiragana": "べからず",
+          "meaning": "禁止、不可、不能"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-724dca87f2f1afd5",
+      "index": 1638,
+      "word": "めいめい(銘々)",
+      "reading_hiragana": "めいめい",
+      "context_meaning_zh": "各自、各个",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "各自、各个",
+          "meaning_ja": "一人一人が、ほかの人とは別にそれぞれ行う様子。",
+          "example_ja": "材料はめいめいの皿に分けて、食卓に並べました。",
+          "example_zh": "我把材料分别放进每个人的盘子里，摆上了餐桌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "めいめいに分ける",
+          "zh": "分别分配"
+        }
+      ],
+      "usage_note_zh": "可作副词表示各自行动，也可作名词用「めいめいの＋名詞」；常用表记为「めいめい」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句中各自携带材料，明确显示副词用法；「めいめいの意見」等也可作连体名词修饰，故保留名词兼类。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "めいめい(銘々)",
+          "reading_hiragana": "めいめい",
+          "meaning": "各自、各个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-074765e1c2211364",
+      "index": 1639,
+      "word": "プラカード",
+      "reading_hiragana": "プラカード",
+      "context_meaning_zh": "标语牌",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "标语牌",
+          "meaning_ja": "文字や絵を書き、手に持って人に見せる板。",
+          "example_ja": "参加者は会場の入口で、名前を書いたプラカードを受け取りました。",
+          "example_zh": "参加者在会场入口领取了写有名字的标语牌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "プラカードを掲げる",
+          "zh": "举起标语牌"
+        }
+      ],
+      "usage_note_zh": "常用于游行、集会或活动中举牌示意；与固定立牌「立札」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "プラカード指外面写有勿乱扔垃圾告示的牌子，符合标语牌义。",
+        "dictionary_sequences": [
+          1115550
+        ],
+        "identity": {
+          "word": "プラカード",
+          "reading_hiragana": "プラカード",
+          "meaning": "标语牌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-87055dc9797682bf",
+      "index": 1640,
+      "word": "責任者",
+      "reading_hiragana": "せきにんしゃ",
+      "context_meaning_zh": "负责人",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "负责人",
+          "meaning_ja": "ある仕事や活動を担当し、結果について対応する人。",
+          "example_ja": "鍵をなくした場合は、受付の責任者に申し出てください。",
+          "example_zh": "如果钥匙丢失，请向接待处负责人报告。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "責任者に相談する",
+          "zh": "向负责人咨询"
+        }
+      ],
+      "usage_note_zh": "「責任者に相談する」「責任者を決める」常见；指承担管理或判断职责的人。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "共用厨房的責任者指承担管理职责的人；责任者可用于各类活动场景，不限商业文体。",
+        "dictionary_sequences": [
+          1383190
+        ],
+        "identity": {
+          "word": "責任者",
+          "reading_hiragana": "せきにんしゃ",
+          "meaning": "负责人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-21043aae8946430e",
+      "index": 1641,
+      "word": "設置",
+      "reading_hiragana": "せっち",
+      "context_meaning_zh": "设置、设立",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "设置、设立",
+          "meaning_ja": "機械や設備を使えるように、決めた場所に備え付けること。また、組織や制度を設けること。",
+          "example_ja": "入口に消毒液を設置しました。",
+          "example_zh": "我们在入口处设置了消毒液。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "設備を設置する",
+          "zh": "安装设备"
+        }
+      ],
+      "usage_note_zh": "設備には「設置する」、委員会などには「設置を決める」と使う；物を一時的に置くだけなら「置く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "安装新箱、设立咨询窗口分别对应设备安装与机构设置；词典标名词兼サ变他动，注意不能泛化为所有置く。",
+        "dictionary_sequences": [
+          1386050
+        ],
+        "identity": {
+          "word": "設置",
+          "reading_hiragana": "せっち",
+          "meaning": "设置、设立"
+        }
+      }
+    }
+  ]
+}
