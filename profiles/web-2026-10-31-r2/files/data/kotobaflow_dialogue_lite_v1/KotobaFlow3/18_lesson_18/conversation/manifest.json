@@ -1,0 +1,984 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 167.089,
+ "listening_review": "pending",
+ "source_chapter": 54,
+ "turns": [
+  {
+   "turn_id": "C54-D001",
+   "turn_index": 0,
+   "speaker": "アナ",
+   "source_text": "土曜日の交換会ですが、全員に四時から三十分、後始末を頼む案はどうでしょう。分担が公平になると思ったんです。",
+   "sentence_ids": [
+    "C54-D001-S01",
+    "C54-D001-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 9.103,
+   "duration_sec": 9.103
+  },
+  {
+   "turn_id": "C54-D002",
+   "turn_index": 1,
+   "speaker": "ミン",
+   "source_text": "私は四時から本の店で働くので、三時半に出なければなりません。後始末を手伝えなくても、来ていいですか。",
+   "sentence_ids": [
+    "C54-D002-S01",
+    "C54-D002-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 9.453,
+   "end_sec": 17.125,
+   "duration_sec": 7.672
+  },
+  {
+   "turn_id": "C54-D003",
+   "turn_index": 2,
+   "speaker": "アナ",
+   "source_text": "はい、参加できます。手伝いは参加の条件ではありません。案内にそう書くべきですね。",
+   "sentence_ids": [
+    "C54-D003-S01",
+    "C54-D003-S02",
+    "C54-D003-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 17.475,
+   "end_sec": 24.3,
+   "duration_sec": 6.825
+  },
+  {
+   "turn_id": "C54-D004",
+   "turn_index": 3,
+   "speaker": "佐藤",
+   "source_text": "参加する人の立場も考えるべきですね。全員に同じ仕事を頼んでも公平にはなりません。小さな負担も、重なるとばかになりません。",
+   "sentence_ids": [
+    "C54-D004-S01",
+    "C54-D004-S02",
+    "C54-D004-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 24.65,
+   "end_sec": 34.127,
+   "duration_sec": 9.477
+  },
+  {
+   "turn_id": "C54-D005",
+   "turn_index": 4,
+   "speaker": "アナ",
+   "source_text": "ただ、四時半までに後始末を終える約束があります。担当者を決めないまま開くわけにはいきません。",
+   "sentence_ids": [
+    "C54-D005-S01",
+    "C54-D005-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.477,
+   "end_sec": 41.675,
+   "duration_sec": 7.198
+  },
+  {
+   "turn_id": "C54-D006",
+   "turn_index": 5,
+   "speaker": "ミン",
+   "source_text": "準備の仕事も選べるようにしませんか。別の時間なら手伝える人もいると思います。準備は何時からですか。",
+   "sentence_ids": [
+    "C54-D006-S01",
+    "C54-D006-S02",
+    "C54-D006-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 42.025,
+   "end_sec": 49.45,
+   "duration_sec": 7.425
+  },
+  {
+   "turn_id": "C54-D007",
+   "turn_index": 6,
+   "speaker": "アナ",
+   "source_text": "一時半から二時までです。本を机に置く仕事です。ミンさんは、その時間なら来られますか。",
+   "sentence_ids": [
+    "C54-D007-S01",
+    "C54-D007-S02",
+    "C54-D007-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 49.8,
+   "end_sec": 56.377,
+   "duration_sec": 6.577
+  },
+  {
+   "turn_id": "C54-D008",
+   "turn_index": 7,
+   "speaker": "ミン",
+   "source_text": "手伝えないことはないですが、午前中にも予定があります。木曜日までに確認して返事をしてもいいですか。",
+   "sentence_ids": [
+    "C54-D008-S01",
+    "C54-D008-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 56.727,
+   "end_sec": 63.502,
+   "duration_sec": 6.775
+  },
+  {
+   "turn_id": "C54-D009",
+   "turn_index": 8,
+   "speaker": "アナ",
+   "source_text": "はい。無理に引き受けることはありません。ミンさんはまだ確認中ですね。佐藤さんはどうですか。",
+   "sentence_ids": [
+    "C54-D009-S01",
+    "C54-D009-S02",
+    "C54-D009-S03",
+    "C54-D009-S04"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.852,
+   "end_sec": 70.701,
+   "duration_sec": 6.849
+  },
+  {
+   "turn_id": "C54-D010",
+   "turn_index": 9,
+   "speaker": "佐藤",
+   "source_text": "私は後始末を引き受けます。ただ、重い箱を一人で運ぶのは控えたいです。安全に運びたいので。",
+   "sentence_ids": [
+    "C54-D010-S01",
+    "C54-D010-S02",
+    "C54-D010-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 71.051,
+   "end_sec": 78.555,
+   "duration_sec": 7.504
+  },
+  {
+   "turn_id": "C54-D011",
+   "turn_index": 10,
+   "speaker": "アナ",
+   "source_text": "重い箱は二人で運びましょう。人と本を守るために、安全を優先するべきですね。これは必要な条件です。",
+   "sentence_ids": [
+    "C54-D011-S01",
+    "C54-D011-S02",
+    "C54-D011-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 78.905,
+   "end_sec": 86.991,
+   "duration_sec": 8.086
+  },
+  {
+   "turn_id": "C54-D012",
+   "turn_index": 11,
+   "speaker": "ミン",
+   "source_text": "出口の前にも箱を置いてはいけません。会議室のルールに書いてありました。その説明もお願いします。",
+   "sentence_ids": [
+    "C54-D012-S01",
+    "C54-D012-S02",
+    "C54-D012-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 87.341,
+   "end_sec": 94.147,
+   "duration_sec": 6.806
+  },
+  {
+   "turn_id": "C54-D013",
+   "turn_index": 12,
+   "speaker": "アナ",
+   "source_text": "案内を書く前に、机で紹介する練習帳も確認しましょう。「予鈴が鳴っても、まだ書き始めないでください」という注意がありました。",
+   "sentence_ids": [
+    "C54-D013-S01",
+    "C54-D013-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 94.497,
+   "end_sec": 102.884,
+   "duration_sec": 8.387
+  },
+  {
+   "turn_id": "C54-D014",
+   "turn_index": 13,
+   "speaker": "佐藤",
+   "source_text": "本番の試験の注意ですね。この会では自由に試せます。何も本番と同じように時間を測ることはありません。",
+   "sentence_ids": [
+    "C54-D014-S01",
+    "C54-D014-S02",
+    "C54-D014-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 103.234,
+   "end_sec": 111.106,
+   "duration_sec": 7.872
+  },
+  {
+   "turn_id": "C54-D015",
+   "turn_index": 14,
+   "speaker": "アナ",
+   "source_text": "そうですね。書き間違いを笑う人がいたら、担当者が意見します。失敗した人を責めるより、安心して試せる場を作りたいです。",
+   "sentence_ids": [
+    "C54-D015-S01",
+    "C54-D015-S02",
+    "C54-D015-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 111.456,
+   "end_sec": 120.477,
+   "duration_sec": 9.021
+  },
+  {
+   "turn_id": "C54-D016",
+   "turn_index": 15,
+   "speaker": "佐藤",
+   "source_text": "賛成です。ただ、「手伝うべきだ」という助言は命令にも聞こえます。「無理をしないことだ」という忠告をするなら、断れることも伝えましょう。",
+   "sentence_ids": [
+    "C54-D016-S01",
+    "C54-D016-S02",
+    "C54-D016-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 120.827,
+   "end_sec": 130.912,
+   "duration_sec": 10.085
+  },
+  {
+   "turn_id": "C54-D017",
+   "turn_index": 16,
+   "speaker": "ミン",
+   "source_text": "手伝う人の負担も考えたいです。人が少なければ、本を少なくする案はどうでしょう。全員が同じ仕事をする必要はありません。",
+   "sentence_ids": [
+    "C54-D017-S01",
+    "C54-D017-S02",
+    "C54-D017-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 131.262,
+   "end_sec": 140.234,
+   "duration_sec": 8.972
+  },
+  {
+   "turn_id": "C54-D018",
+   "turn_index": 17,
+   "speaker": "アナ",
+   "source_text": "本を少なくする案なら、妥協できます。でも、安全のための人数を少なくするわけにはいきません。二人も賛成ですか。",
+   "sentence_ids": [
+    "C54-D018-S01",
+    "C54-D018-S02",
+    "C54-D018-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 140.584,
+   "end_sec": 149.235,
+   "duration_sec": 8.651
+  },
+  {
+   "turn_id": "C54-D019",
+   "turn_index": 18,
+   "speaker": "佐藤",
+   "source_text": "賛成です。私たちは時間の分担では譲歩できますが、安全の原則は変更できません。この条件を案内に書いてください。",
+   "sentence_ids": [
+    "C54-D019-S01",
+    "C54-D019-S02",
+    "C54-D019-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 149.585,
+   "end_sec": 158.617,
+   "duration_sec": 9.032
+  },
+  {
+   "turn_id": "C54-D020",
+   "turn_index": 19,
+   "speaker": "ミン",
+   "source_text": "私も賛成です。今日は三人の合意ですね。ほかの人にも木曜日まで意見を聞いて、金曜日に案を決めましょう。",
+   "sentence_ids": [
+    "C54-D020-S01",
+    "C54-D020-S02",
+    "C54-D020-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 158.967,
+   "end_sec": 167.082,
+   "duration_sec": 8.115
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C54-D001-S01",
+   "unit_id": "C54-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "土曜日の交換会ですが、全員に四時から三十分、後始末を頼む案はどうでしょう。",
+   "start_sec": 0.0,
+   "end_sec": 6.532,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D001-S02",
+   "unit_id": "C54-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "分担が公平になると思ったんです。",
+   "start_sec": 6.682,
+   "end_sec": 9.103,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D002-S01",
+   "unit_id": "C54-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "私は四時から本の店で働くので、三時半に出なければなりません。",
+   "start_sec": 9.453,
+   "end_sec": 14.345,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D002-S02",
+   "unit_id": "C54-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "後始末を手伝えなくても、来ていいですか。",
+   "start_sec": 14.495,
+   "end_sec": 17.125,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D003-S01",
+   "unit_id": "C54-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "はい、参加できます。",
+   "start_sec": 17.475,
+   "end_sec": 19.377,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D003-S02",
+   "unit_id": "C54-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "手伝いは参加の条件ではありません。",
+   "start_sec": 19.527,
+   "end_sec": 22.217,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D003-S03",
+   "unit_id": "C54-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "案内にそう書くべきですね。",
+   "start_sec": 22.367,
+   "end_sec": 24.3,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D004-S01",
+   "unit_id": "C54-D004",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "参加する人の立場も考えるべきですね。",
+   "start_sec": 24.65,
+   "end_sec": 27.563,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D004-S02",
+   "unit_id": "C54-D004",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "全員に同じ仕事を頼んでも公平にはなりません。",
+   "start_sec": 27.713,
+   "end_sec": 31.291,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D004-S03",
+   "unit_id": "C54-D004",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "小さな負担も、重なるとばかになりません。",
+   "start_sec": 31.441,
+   "end_sec": 34.127,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D005-S01",
+   "unit_id": "C54-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ただ、四時半までに後始末を終える約束があります。",
+   "start_sec": 34.477,
+   "end_sec": 38.604,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D005-S02",
+   "unit_id": "C54-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "担当者を決めないまま開くわけにはいきません。",
+   "start_sec": 38.754,
+   "end_sec": 41.675,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D006-S01",
+   "unit_id": "C54-D006",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "準備の仕事も選べるようにしませんか。",
+   "start_sec": 42.025,
+   "end_sec": 44.561,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D006-S02",
+   "unit_id": "C54-D006",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "別の時間なら手伝える人もいると思います。",
+   "start_sec": 44.711,
+   "end_sec": 47.801,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D006-S03",
+   "unit_id": "C54-D006",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "準備は何時からですか。",
+   "start_sec": 47.951,
+   "end_sec": 49.45,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D007-S01",
+   "unit_id": "C54-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "一時半から二時までです。",
+   "start_sec": 49.8,
+   "end_sec": 51.66,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D007-S02",
+   "unit_id": "C54-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "本を机に置く仕事です。",
+   "start_sec": 51.81,
+   "end_sec": 53.95,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D007-S03",
+   "unit_id": "C54-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ミンさんは、その時間なら来られますか。",
+   "start_sec": 54.1,
+   "end_sec": 56.377,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D008-S01",
+   "unit_id": "C54-D008",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "手伝えないことはないですが、午前中にも予定があります。",
+   "start_sec": 56.727,
+   "end_sec": 60.546,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D008-S02",
+   "unit_id": "C54-D008",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "木曜日までに確認して返事をしてもいいですか。",
+   "start_sec": 60.696,
+   "end_sec": 63.502,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D009-S01",
+   "unit_id": "C54-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "はい。",
+   "start_sec": 63.852,
+   "end_sec": 64.548,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D009-S02",
+   "unit_id": "C54-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "無理に引き受けることはありません。",
+   "start_sec": 64.698,
+   "end_sec": 66.862,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D009-S03",
+   "unit_id": "C54-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ミンさんはまだ確認中ですね。",
+   "start_sec": 67.012,
+   "end_sec": 69.144,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D009-S04",
+   "unit_id": "C54-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "佐藤さんはどうですか。",
+   "start_sec": 69.294,
+   "end_sec": 70.701,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D010-S01",
+   "unit_id": "C54-D010",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "私は後始末を引き受けます。",
+   "start_sec": 71.051,
+   "end_sec": 73.117,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D010-S02",
+   "unit_id": "C54-D010",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "ただ、重い箱を一人で運ぶのは控えたいです。",
+   "start_sec": 73.267,
+   "end_sec": 76.937,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D010-S03",
+   "unit_id": "C54-D010",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "安全に運びたいので。",
+   "start_sec": 77.087,
+   "end_sec": 78.555,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D011-S01",
+   "unit_id": "C54-D011",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "重い箱は二人で運びましょう。",
+   "start_sec": 78.905,
+   "end_sec": 81.101,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D011-S02",
+   "unit_id": "C54-D011",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "人と本を守るために、安全を優先するべきですね。",
+   "start_sec": 81.251,
+   "end_sec": 85.19,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D011-S03",
+   "unit_id": "C54-D011",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "これは必要な条件です。",
+   "start_sec": 85.34,
+   "end_sec": 86.991,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D012-S01",
+   "unit_id": "C54-D012",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "出口の前にも箱を置いてはいけません。",
+   "start_sec": 87.341,
+   "end_sec": 89.928,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D012-S02",
+   "unit_id": "C54-D012",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "会議室のルールに書いてありました。",
+   "start_sec": 90.078,
+   "end_sec": 92.3,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D012-S03",
+   "unit_id": "C54-D012",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "その説明もお願いします。",
+   "start_sec": 92.45,
+   "end_sec": 94.147,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D013-S01",
+   "unit_id": "C54-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "案内を書く前に、机で紹介する練習帳も確認しましょう。",
+   "start_sec": 94.497,
+   "end_sec": 98.933,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D013-S02",
+   "unit_id": "C54-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "「予鈴が鳴っても、まだ書き始めないでください」という注意がありました。",
+   "start_sec": 99.083,
+   "end_sec": 102.884,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D014-S01",
+   "unit_id": "C54-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "本番の試験の注意ですね。",
+   "start_sec": 103.234,
+   "end_sec": 105.788,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D014-S02",
+   "unit_id": "C54-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "この会では自由に試せます。",
+   "start_sec": 105.938,
+   "end_sec": 107.82,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D014-S03",
+   "unit_id": "C54-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "何も本番と同じように時間を測ることはありません。",
+   "start_sec": 107.97,
+   "end_sec": 111.106,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D015-S01",
+   "unit_id": "C54-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "そうですね。",
+   "start_sec": 111.456,
+   "end_sec": 112.494,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D015-S02",
+   "unit_id": "C54-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "書き間違いを笑う人がいたら、担当者が意見します。",
+   "start_sec": 112.644,
+   "end_sec": 116.231,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D015-S03",
+   "unit_id": "C54-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "失敗した人を責めるより、安心して試せる場を作りたいです。",
+   "start_sec": 116.381,
+   "end_sec": 120.477,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D016-S01",
+   "unit_id": "C54-D016",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "賛成です。",
+   "start_sec": 120.827,
+   "end_sec": 121.752,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D016-S02",
+   "unit_id": "C54-D016",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "ただ、「手伝うべきだ」という助言は命令にも聞こえます。",
+   "start_sec": 121.902,
+   "end_sec": 126.727,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D016-S03",
+   "unit_id": "C54-D016",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "「無理をしないことだ」という忠告をするなら、断れることも伝えましょう。",
+   "start_sec": 126.877,
+   "end_sec": 130.912,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D017-S01",
+   "unit_id": "C54-D017",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "手伝う人の負担も考えたいです。",
+   "start_sec": 131.262,
+   "end_sec": 133.567,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D017-S02",
+   "unit_id": "C54-D017",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "人が少なければ、本を少なくする案はどうでしょう。",
+   "start_sec": 133.717,
+   "end_sec": 137.37,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D017-S03",
+   "unit_id": "C54-D017",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "全員が同じ仕事をする必要はありません。",
+   "start_sec": 137.52,
+   "end_sec": 140.234,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D018-S01",
+   "unit_id": "C54-D018",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "本を少なくする案なら、妥協できます。",
+   "start_sec": 140.584,
+   "end_sec": 143.612,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D018-S02",
+   "unit_id": "C54-D018",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "でも、安全のための人数を少なくするわけにはいきません。",
+   "start_sec": 143.762,
+   "end_sec": 147.6,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D018-S03",
+   "unit_id": "C54-D018",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "二人も賛成ですか。",
+   "start_sec": 147.75,
+   "end_sec": 149.235,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D019-S01",
+   "unit_id": "C54-D019",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "賛成です。",
+   "start_sec": 149.585,
+   "end_sec": 150.626,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D019-S02",
+   "unit_id": "C54-D019",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "私たちは時間の分担では譲歩できますが、安全の原則は変更できません。",
+   "start_sec": 150.776,
+   "end_sec": 156.226,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D019-S03",
+   "unit_id": "C54-D019",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "この条件を案内に書いてください。",
+   "start_sec": 156.376,
+   "end_sec": 158.617,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D020-S01",
+   "unit_id": "C54-D020",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "私も賛成です。",
+   "start_sec": 158.967,
+   "end_sec": 160.479,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D020-S02",
+   "unit_id": "C54-D020",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "今日は三人の合意ですね。",
+   "start_sec": 160.629,
+   "end_sec": 162.787,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C54-D020-S03",
+   "unit_id": "C54-D020",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "ほかの人にも木曜日まで意見を聞いて、金曜日に案を決めましょう。",
+   "start_sec": 162.937,
+   "end_sec": 167.082,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

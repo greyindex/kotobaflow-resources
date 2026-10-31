@@ -1,0 +1,5767 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow3",
+  "lesson_id": "lesson_04",
+  "entries": [
+    {
+      "textbook_uid": "cfv-9827a62071e192c8",
+      "index": 2715,
+      "word": "情報",
+      "reading_hiragana": "じょうほう",
+      "context_meaning_zh": "信息",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "信息",
+          "meaning_ja": "事柄について人に知らせる内容や知識。",
+          "example_ja": "必要な情報を紙に書いてください。",
+          "example_zh": "请把必要的信息写在纸上。"
+        },
+        {
+          "meaning_zh": "（计算机）信息",
+          "meaning_ja": "文字や画像など、コンピューターで扱うデータ。",
+          "example_ja": "この情報は、パソコンに保存しました。",
+          "example_zh": "我把这些数据保存在电脑里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "情報を集める",
+          "zh": "收集信息"
+        }
+      ],
+      "usage_note_zh": "「情報」指内容或知识；「知らせ」指通知的内容或传来的消息。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "确认过的消息或资料均为信息名词义；句尾「です」只体现句子礼貌。",
+        "dictionary_sequences": [
+          1356370
+        ],
+        "identity": {
+          "word": "情報",
+          "reading_hiragana": "じょうほう",
+          "meaning": "信息"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e63f89cf3b4f1be3",
+      "index": 2716,
+      "word": "知らせ",
+      "reading_hiragana": "しらせ",
+      "context_meaning_zh": "通知消息",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "通知消息",
+          "meaning_ja": "人に知らせる内容。また、届いた便り。",
+          "example_ja": "母から合格の知らせが届きました。",
+          "example_zh": "母亲寄来了我合格的消息。"
+        },
+        {
+          "meaning_zh": "征兆",
+          "meaning_ja": "これから起きることを知らせる出来事や変化。",
+          "example_ja": "春の知らせを、庭の花が教えてくれました。",
+          "example_zh": "庭院里的花告诉了我们春天将至。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "知らせが届く",
+          "zh": "消息传来"
+        }
+      ],
+      "usage_note_zh": "「知らせ」可指具体通知或消息；「知らせる」则表示把内容告诉别人。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "重读昨天确认的消息，知らせ取词典news/notice义；预兆义不合本句。",
+        "dictionary_sequences": [
+          1420400
+        ],
+        "identity": {
+          "word": "知らせ",
+          "reading_hiragana": "しらせ",
+          "meaning": "通知消息"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ccb0cab52bb747fa",
+      "index": 2717,
+      "word": "伝える",
+      "reading_hiragana": "つたえる",
+      "context_meaning_zh": "传达",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "传达",
+          "meaning_ja": "知っていることや考えを、相手にわかるように話す。",
+          "example_ja": "集合場所が変わったことを全員に伝えました。",
+          "example_zh": "我告诉了所有人集合地点已经变更。"
+        },
+        {
+          "meaning_zh": "传授；留传",
+          "meaning_ja": "知識や技術を、次の人に教えて残す。",
+          "example_ja": "祖母は母に、料理の作り方を伝えました。",
+          "example_zh": "祖母把做菜的方法传授给了母亲。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人に伝える",
+          "zh": "告诉某人"
+        }
+      ],
+      "usage_note_zh": "传达内容用助词「を」，传达对象用「に」；也可用于传递信息或感情。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一段他动词，传达信息前先核实何时何人所说；人に是接收对象。",
+        "dictionary_sequences": [
+          1441870
+        ],
+        "identity": {
+          "word": "伝える",
+          "reading_hiragana": "つたえる",
+          "meaning": "传达"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3327c0805008a768",
+      "index": 2718,
+      "word": "確か",
+      "reading_hiragana": "たしか",
+      "context_meaning_zh": "我记得／大概是（凭记忆回想，带保留）",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "我记得／大概是（凭记忆回想，带保留）",
+          "meaning_ja": "記憶をたどって話し、完全な確信がないことを表す。",
+          "example_ja": "確か、会議は午後三時からでした。",
+          "example_zh": "我记得会议是下午三点开始。"
+        },
+        {
+          "meaning_zh": "确实；可靠",
+          "meaning_ja": "間違いがなく、信頼できる様子。",
+          "example_ja": "確かな証拠を見つけてから、結論を出します。",
+          "example_zh": "找到确凿证据后再下结论。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "確か、～だった",
+          "zh": "我记得好像是……"
+        }
+      ],
+      "usage_note_zh": "句首的「確か」表示凭记忆回想、把握不完全；「確かな情報」中的「確か」是“确实可靠”的ナ形容词。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句首副词「確か」表示说话人凭记忆回想并保留判断；该用法可用于交谈或叙述，例句的口语外观不足以限定媒介。",
+        "dictionary_sequences": [
+          1596930
+        ],
+        "identity": {
+          "word": "確か",
+          "reading_hiragana": "たしか",
+          "meaning": "我记得／大概是（凭记忆回想，带保留）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4ea266c1b99b3f68",
+      "index": 2719,
+      "word": "確認",
+      "reading_hiragana": "かくにん",
+      "context_meaning_zh": "确认",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "确认",
+          "meaning_ja": "間違いがないか、内容や状態を確かめること。",
+          "example_ja": "出かける前に、窓を閉めたか確認します。",
+          "example_zh": "出门前确认一下窗户是否关好了。"
+        },
+        {
+          "meaning_zh": "身份确认",
+          "meaning_ja": "人や物が誰・何であるかを確かめること。",
+          "example_ja": "受付で予約の名前を確認してください。",
+          "example_zh": "请在接待处确认预约姓名。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "内容を確認する",
+          "zh": "确认内容"
+        }
+      ],
+      "usage_note_zh": "「～か確認する」表示核实某事是否属实；要报告核实结果时可说「確認しました」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "读回昨天核实过的通知；消息内容是确认对象，确认仍为他动サ变。",
+        "dictionary_sequences": [
+          1205900
+        ],
+        "identity": {
+          "word": "確認",
+          "reading_hiragana": "かくにん",
+          "meaning": "确认"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eb0e532289195db5",
+      "index": 2720,
+      "word": "発表",
+      "reading_hiragana": "はっぴょう",
+      "context_meaning_zh": "公开公布",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "公开公布",
+          "meaning_ja": "情報や意見を、多くの人に知らせること。",
+          "example_ja": "市は新しい予定を来週発表します。",
+          "example_zh": "市政府下周公布新的安排。"
+        },
+        {
+          "meaning_zh": "发表（演讲等）",
+          "meaning_ja": "人前で意見や研究の成果を述べること。",
+          "example_ja": "学生は授業で調査の結果を発表しました。",
+          "example_zh": "学生在课堂上发表了调查结果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結果を発表する",
+          "zh": "公布结果"
+        }
+      ],
+      "usage_note_zh": "「発表」也可指当众发表成果或意见；机构正式公开消息时常用「公表する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "発表是公告名词及他动サ变词；此处与旧报道、未证实传闻对照，指正式公布内容。",
+        "dictionary_sequences": [
+          1477840
+        ],
+        "identity": {
+          "word": "発表",
+          "reading_hiragana": "はっぴょう",
+          "meaning": "公开公布"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6ecfc76b9bf55cac",
+      "index": 2721,
+      "word": "連絡先",
+      "reading_hiragana": "れんらくさき",
+      "context_meaning_zh": "联系方式",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "联系方式",
+          "meaning_ja": "人や組織に連絡するための電話番号や住所。",
+          "example_ja": "わからないことがあれば、この連絡先に電話してください。",
+          "example_zh": "如有不明白的地方，请拨打这里提供的联系电话。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "連絡先を交換する",
+          "zh": "交换联系方式"
+        }
+      ],
+      "usage_note_zh": "指用于联系某人的方式或地址，包括电话号码、电子邮箱和住址。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "告示所载的連絡先被用于电话核实最新信息，指电话、地址等联系方式的名词。",
+        "dictionary_sequences": [
+          1559930
+        ],
+        "identity": {
+          "word": "連絡先",
+          "reading_hiragana": "れんらくさき",
+          "meaning": "联系方式"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a13228d5ff5a37a0",
+      "index": 2722,
+      "word": "担当",
+      "reading_hiragana": "たんとう",
+      "context_meaning_zh": "负责",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "负责",
+          "meaning_ja": "仕事や役目を受け持つこと。また、その役目を持つ人。",
+          "example_ja": "この仕事は山田さんが担当しています。",
+          "example_zh": "这项工作由山田负责。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "受付を担当する",
+          "zh": "负责接待"
+        }
+      ],
+      "usage_note_zh": "负责某项工作时，工作内容前用「を」；指负责人可说「担当者」，放在人名前可说「担当の山田さん」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "担当の森さん指负责工作的森；该词也可与する结合表示承担某项责任。",
+        "dictionary_sequences": [
+          1418160
+        ],
+        "identity": {
+          "word": "担当",
+          "reading_hiragana": "たんとう",
+          "meaning": "负责"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-69b6b77b622a20f5",
+      "index": 2723,
+      "word": "直接",
+      "reading_hiragana": "ちょくせつ",
+      "context_meaning_zh": "直接",
+      "pos_ja": "名詞・ナ形容詞・副詞",
+      "pos_zh": "名词・な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "直接",
+          "meaning_ja": "間に人や物をはさまず、その相手にすぐ行う様子。",
+          "example_ja": "質問があれば、先生に直接聞いてください。",
+          "example_zh": "有问题的话，请直接问老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "直接話す",
+          "zh": "直接交谈"
+        }
+      ],
+      "usage_note_zh": "表示双方之间没有中间人；也可说明具体方式，如「電話で直接話す」（直接通电话）。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "直接修饰「訂正を伝える」说明当面传达；词典兼形容动词、名词和副词用法，句例取副词。",
+        "dictionary_sequences": [
+          1431110
+        ],
+        "identity": {
+          "word": "直接",
+          "reading_hiragana": "ちょくせつ",
+          "meaning": "直接"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-31cf184d95991ac8",
+      "index": 2724,
+      "word": "間接",
+      "reading_hiragana": "かんせつ",
+      "context_meaning_zh": "间接取得",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "间接取得",
+          "meaning_ja": "人や物を間に置いて、別の相手に伝わる様子。",
+          "example_ja": "彼とは直接会わず、間接的に話を聞きました。",
+          "example_zh": "我没有直接见他，而是间接听说了这件事。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "間接的に聞く",
+          "zh": "间接听说"
+        }
+      ],
+      "usage_note_zh": "「間接的に」表示信息或影响经由中间环节传来；反义表达是「直接」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本条指通过中间渠道取得信息；词头「間接」作名词，「間接的に」是加「的」后的副词形式，不据该派生形式把词头改标副词或な形容词。",
+        "dictionary_sequences": [
+          1215520
+        ],
+        "identity": {
+          "word": "間接",
+          "reading_hiragana": "かんせつ",
+          "meaning": "间接取得"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4150959d913d5733",
+      "index": 2725,
+      "word": "最新",
+      "reading_hiragana": "さいしん",
+      "context_meaning_zh": "最新的",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "最新的",
+          "meaning_ja": "いちばん新しいこと。また、その内容。",
+          "example_ja": "最新の地図を駅で受け取りました。",
+          "example_zh": "我在车站拿到了最新的地图。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "最新情報",
+          "zh": "最新信息"
+        }
+      ],
+      "usage_note_zh": "常修饰会随时间更新的事物，如信息、新闻或版本。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "“最新情報”是复合名词，“最新の情報”是名词加の；词典adj-no不等于独立连体词。",
+        "dictionary_sequences": [
+          1294090
+        ],
+        "identity": {
+          "word": "最新",
+          "reading_hiragana": "さいしん",
+          "meaning": "最新的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-beec9a097610960c",
+      "index": 2726,
+      "word": "記事",
+      "reading_hiragana": "きじ",
+      "context_meaning_zh": "报道文章",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "报道文章",
+          "meaning_ja": "新聞や雑誌に載せるために書かれた文章。",
+          "example_ja": "旅行の記事を読んで、その町へ行きたくなりました。",
+          "example_zh": "读了旅行报道后，我想去那个城镇了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "記事を書く",
+          "zh": "写报道文章"
+        }
+      ],
+      "usage_note_zh": "指刊登在报纸、杂志或网站上的一篇文章；「報道」更侧重报道行为或报道内容。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "記事指报刊或网站刊载的一篇报道文章；课文通过「記事によると」转述新闻信息，但该词不限于新闻报道体裁。",
+        "dictionary_sequences": [
+          1223240
+        ],
+        "identity": {
+          "word": "記事",
+          "reading_hiragana": "きじ",
+          "meaning": "报道文章"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c17fe65c31334b93",
+      "index": 2727,
+      "word": "取材",
+      "reading_hiragana": "しゅざい",
+      "context_meaning_zh": "采访收集材料",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "采访收集材料",
+          "meaning_ja": "人に話を聞いたり、現場を見たりして、記事の材料を集めること。",
+          "example_ja": "記者は市場で店の人に取材しました。",
+          "example_zh": "记者在市场采访了店主。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "現場を取材する",
+          "zh": "到现场采访"
+        }
+      ],
+      "usage_note_zh": "指为文章或节目搜集材料；若强调向人提问，可说「インタビューする」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "记者取材并采访负责人，词条兼搜集材料名词与取材する；词典标vt/vi，保留两种自他性。",
+        "dictionary_sequences": [
+          1327020
+        ],
+        "identity": {
+          "word": "取材",
+          "reading_hiragana": "しゅざい",
+          "meaning": "采访收集材料"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a10525c401effbf6",
+      "index": 2728,
+      "word": "報告",
+      "reading_hiragana": "ほうこく",
+      "context_meaning_zh": "报告情况",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "报告情况",
+          "meaning_ja": "起きたことや調べた結果を、相手に知らせること。",
+          "example_ja": "旅行から帰ったら、家族に報告します。",
+          "example_zh": "旅行回来后，我会向家人报告。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結果を報告する",
+          "zh": "报告结果"
+        }
+      ],
+      "usage_note_zh": "报告对象前用「に」，报告内容前用「を」；正式场合和日常交流都能使用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "以邮件向日语会报告，報告する为对接收方及内容报告的サ变他动词；词典支持vt。",
+        "dictionary_sequences": [
+          1515670
+        ],
+        "identity": {
+          "word": "報告",
+          "reading_hiragana": "ほうこく",
+          "meaning": "报告情况"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-966aa09e4721b160",
+      "index": 2729,
+      "word": "噂",
+      "reading_hiragana": "うわさ",
+      "context_meaning_zh": "传闻",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "传闻",
+          "meaning_ja": "確かだとわからない話が、人から人へ伝わったもの。",
+          "example_ja": "その噂が本当かどうか、まだわかりません。",
+          "example_zh": "还不知道那个传闻是真是假。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "噂が広まる",
+          "zh": "传闻传开"
+        }
+      ],
+      "usage_note_zh": "通常指尚未证实真假的说法，有时也包含负面传言；不要未经核实就当作事实传播。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "将旧报道、新公告与未证实的传闻分类，噂作名词；词典另列サ变用法，但当前句子没有显示其配价。",
+        "dictionary_sequences": [
+          1172590
+        ],
+        "identity": {
+          "word": "噂",
+          "reading_hiragana": "うわさ",
+          "meaning": "传闻"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2a0e34044e93d4b3",
+      "index": 2730,
+      "word": "掲示",
+      "reading_hiragana": "けいじ",
+      "context_meaning_zh": "告示",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "告示",
+          "meaning_ja": "人に見える場所へ文書や案内を出して知らせること。",
+          "example_ja": "入口に新しい予定を掲示しました。",
+          "example_zh": "我在入口处张贴了新的安排。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "掲示を見る",
+          "zh": "看告示"
+        }
+      ],
+      "usage_note_zh": "可指张贴在显眼处的告示，也可指张贴告知的行为，分别可说「掲示」和「掲示する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "十三日的公告是延期通知，语境明确取notice义；事项随后被官网改时。",
+        "dictionary_sequences": [
+          1250620
+        ],
+        "identity": {
+          "word": "掲示",
+          "reading_hiragana": "けいじ",
+          "meaning": "告示"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dc611d616b8b74f2",
+      "index": 2731,
+      "word": "延期",
+      "reading_hiragana": "えんき",
+      "context_meaning_zh": "延期",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "延期",
+          "meaning_ja": "予定していたことを、後の時に変えること。",
+          "example_ja": "雨のため、運動会は来週に延期されました。",
+          "example_zh": "由于下雨，运动会延期到了下周。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "開始を延期する",
+          "zh": "推迟开始"
+        }
+      ],
+      "usage_note_zh": "「延期」表示改到以后举行，原计划仍会实施；改期后的时间常用「～に延期する」表示。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "告示将日期及开始时间往后调整，符合延期的名词义和延期する他动用法；文中没有特殊语体信号。",
+        "dictionary_sequences": [
+          1176430
+        ],
+        "identity": {
+          "word": "延期",
+          "reading_hiragana": "えんき",
+          "meaning": "延期"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f25ce889a5574f4f",
+      "index": 2732,
+      "word": "中止",
+      "reading_hiragana": "ちゅうし",
+      "context_meaning_zh": "取消举办",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "取消举办",
+          "meaning_ja": "進行中のことを、その時点でやめること。",
+          "example_ja": "電車が止まったため、旅行を中止しました。",
+          "example_zh": "因为电车停运，我们取消了旅行。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "計画を中止する",
+          "zh": "中止计划"
+        }
+      ],
+      "usage_note_zh": "与「延期」（推迟到以后）不同，「中止」表示不再继续；常以活动或计划为对象。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「中止ではない」说计划并未取消；同词也可对活动作他动サ变停止。",
+        "dictionary_sequences": [
+          1424410
+        ],
+        "identity": {
+          "word": "中止",
+          "reading_hiragana": "ちゅうし",
+          "meaning": "取消举办"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-06841a334b8d14f7",
+      "index": 2733,
+      "word": "出典",
+      "reading_hiragana": "しゅってん",
+      "context_meaning_zh": "信息出处",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "信息出处",
+          "meaning_ja": "文章や情報がどこから来たかを示す元。",
+          "example_ja": "この写真の出典は市の広報誌です。",
+          "example_zh": "这张照片的出处是市政府的宣传刊物。"
+        },
+        {
+          "meaning_zh": "典故出处",
+          "meaning_ja": "言葉や表現が元にした書物や作品。",
+          "example_ja": "この言葉の出典は古い物語です。",
+          "example_zh": "这个说法出自一则古老故事。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "出典を示す",
+          "zh": "注明出处"
+        }
+      ],
+      "usage_note_zh": "可指文章、照片或数据的来源；若特别指出提供信息的人或机构，也可用「情報源」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "旧报纸文章的来源名称，出典为引用或信息的来源名词。",
+        "dictionary_sequences": [
+          1339790
+        ],
+        "identity": {
+          "word": "出典",
+          "reading_hiragana": "しゅってん",
+          "meaning": "信息出处"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6643735cebe1d522",
+      "index": 2734,
+      "word": "情報源",
+      "reading_hiragana": "じょうほうげん",
+      "context_meaning_zh": "消息来源",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "消息来源",
+          "meaning_ja": "情報を出した人や組織、または情報を得た元。",
+          "example_ja": "記者は情報源を明らかにしませんでした。",
+          "example_zh": "记者没有公开消息来源。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "情報源を明かす",
+          "zh": "透露消息来源"
+        }
+      ],
+      "usage_note_zh": "指提供信息的人、组织或资料；「出典」尤其指文章或资料的引用出处。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课程强调区分说话者与信息来源，词典释为信息或情报来源；计算机消息来源义不必扩展到此例。",
+        "dictionary_sequences": [
+          1356430
+        ],
+        "identity": {
+          "word": "情報源",
+          "reading_hiragana": "じょうほうげん",
+          "meaning": "消息来源"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7beb1a78f0a8c780",
+      "index": 2735,
+      "word": "報道",
+      "reading_hiragana": "ほうどう",
+      "context_meaning_zh": "新闻报道",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "新闻报道",
+          "meaning_ja": "社会で起きたことを調べ、新聞や放送などで広く伝えること。",
+          "example_ja": "新聞は事故の経過を詳しく報道しました。",
+          "example_zh": "报纸详细报道了事故经过。"
+        },
+        {
+          "meaning_zh": "报道（内容）",
+          "meaning_ja": "新聞や番組などで伝えられる情報。",
+          "example_ja": "事故の報道を見て、家族に連絡しました。",
+          "example_zh": "看到事故报道后，我联系了家人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事件を報道する",
+          "zh": "报道事件"
+        }
+      ],
+      "usage_note_zh": "指把社会事件作为新闻传播；「記事」是刊载的文章，「報道」强调传播行为或内容。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": [
+          "news"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处区分旧报道、新发布和未证实传闻，報道指新闻报道，词典标名词及他动サ变。",
+        "dictionary_sequences": [
+          1515730
+        ],
+        "identity": {
+          "word": "報道",
+          "reading_hiragana": "ほうどう",
+          "meaning": "新闻报道"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-10d8c71844847058",
+      "index": 2736,
+      "word": "発信",
+      "reading_hiragana": "はっしん",
+      "context_meaning_zh": "发布信息",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发布信息",
+          "meaning_ja": "情報や意見を外に向けて送り出すこと。",
+          "example_ja": "学校は保護者に予定を発信しました。",
+          "example_zh": "学校向家长发布了安排。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "情報を発信する",
+          "zh": "发布信息"
+        }
+      ],
+      "usage_note_zh": "也可指通过社交平台等向外发布信息；从接收方看，对应的词是「受信」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「発信」作信息传达名词，也可サ变；词典列vt、vi，发布者与发布内容语境支持信息传递义。",
+        "dictionary_sequences": [
+          1477560
+        ],
+        "identity": {
+          "word": "発信",
+          "reading_hiragana": "はっしん",
+          "meaning": "发布信息"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-466265d9023c1c14",
+      "index": 2737,
+      "word": "受信",
+      "reading_hiragana": "じゅしん",
+      "context_meaning_zh": "接收信息",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "接收信息",
+          "meaning_ja": "電話やメールなどで送られた情報を受け取ること。",
+          "example_ja": "出張中に会社からのメールを受信しました。",
+          "example_zh": "出差期间我收到了公司的邮件。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "メールを受信する",
+          "zh": "接收邮件"
+        }
+      ],
+      "usage_note_zh": "指通过通信设备接收信息；发送信息的一方是「発信する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "受信指通信接收，可作名词并以邮件或消息为宾语构成他动サ变；正文强调收到的邮件。",
+        "dictionary_sequences": [
+          1329810
+        ],
+        "identity": {
+          "word": "受信",
+          "reading_hiragana": "じゅしん",
+          "meaning": "接收信息"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-22fb319d8664c5be",
+      "index": 2738,
+      "word": "伝言",
+      "reading_hiragana": "でんごん",
+      "context_meaning_zh": "口信",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "口信",
+          "meaning_ja": "その場にいない人へ、別の人を通して伝える言葉。",
+          "example_ja": "母から、夕食は遅くなると伝言がありました。",
+          "example_zh": "母亲托话说晚饭会晚一些。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "伝言を残す",
+          "zh": "留下口信"
+        }
+      ],
+      "usage_note_zh": "指托人转告不在场者的简短话语；可以说「伝言する」（传话）或「伝言を預かる」（代收口信）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": [
+          "business"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「森さんから伝言です」表示有森先生的留言；伝言是传递口信的名词，也可构成「伝言する」，词典列サ变他动。",
+        "dictionary_sequences": [
+          1582180
+        ],
+        "identity": {
+          "word": "伝言",
+          "reading_hiragana": "でんごん",
+          "meaning": "口信"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ffc1f1e3eaee5f2d",
+      "index": 2739,
+      "word": "公式",
+      "reading_hiragana": "こうしき",
+      "context_meaning_zh": "官方正式",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "官方正式",
+          "meaning_ja": "組織などが正式に決めたこと。",
+          "example_ja": "公式の発表は市のホームページにあります。",
+          "example_zh": "官方公告在市政府网站上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "公式サイト",
+          "zh": "官方网站"
+        }
+      ],
+      "usage_note_zh": "「公式の」可修饰名词，「公式に発表する」表示正式发布；它与个人意见相区别。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "公式的正式义可作为ナ形容词修饰名词，也可作名词；词典adj-no标记与实际「公式な」用法并存。",
+        "dictionary_sequences": [
+          1273820
+        ],
+        "identity": {
+          "word": "公式",
+          "reading_hiragana": "こうしき",
+          "meaning": "官方正式"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d9841de3a9ef637c",
+      "index": 2740,
+      "word": "非公式",
+      "reading_hiragana": "ひこうしき",
+      "context_meaning_zh": "非正式",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "非正式",
+          "meaning_ja": "組織の正式な決定や発表ではない様子。",
+          "example_ja": "非公式の集まりなので、参加は自由です。",
+          "example_zh": "因为是非正式聚会，参加与否自由。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "非公式の会議",
+          "zh": "非正式会议"
+        }
+      ],
+      "usage_note_zh": "表示并非正式流程或官方发布，但不等于信息本身有误。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "非公式表示非经正式程序的状态，例句为未正式发送的邮件；词典列な形容词、no形容和名词。",
+        "dictionary_sequences": [
+          1484850
+        ],
+        "identity": {
+          "word": "非公式",
+          "reading_hiragana": "ひこうしき",
+          "meaning": "非正式"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ab132b9e6d9f3b87",
+      "index": 2741,
+      "word": "未確認",
+      "reading_hiragana": "みかくにん",
+      "context_meaning_zh": "尚未确认",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "尚未确认",
+          "meaning_ja": "内容が正しいかどうか、まだ確かめられていないこと。",
+          "example_ja": "未確認のメールは、ほかの人に転送しないでください。",
+          "example_zh": "尚未核实的邮件请不要转发给别人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "未確認の情報",
+          "zh": "未经确认的信息"
+        }
+      ],
+      "usage_note_zh": "「未確認」表示尚未完成核实，不代表内容一定错误。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "未確認修饰「噂」表示尚未证实；日语词典给no形容词标签，而协议无no类，故以名词类承载其名词性修饰词形。",
+        "dictionary_sequences": [
+          2080310
+        ],
+        "identity": {
+          "word": "未確認",
+          "reading_hiragana": "みかくにん",
+          "meaning": "尚未确认"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-78410699ad07a501",
+      "index": 2742,
+      "word": "訂正",
+      "reading_hiragana": "ていせい",
+      "context_meaning_zh": "更正错误",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "更正错误",
+          "meaning_ja": "間違っていた言葉や内容を正しく直すこと。",
+          "example_ja": "名前に間違いがあり、資料を訂正しました。",
+          "example_zh": "名字有误，所以我更正了资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "誤りを訂正する",
+          "zh": "更正错误"
+        }
+      ],
+      "usage_note_zh": "表示把错误改正确；「訂正を伝える」还可表示把更正内容通知他人。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "新闻局传达的是更正内容；訂正可作名词，也可作为及物サ变词改正错误。",
+        "dictionary_sequences": [
+          1436710
+        ],
+        "identity": {
+          "word": "訂正",
+          "reading_hiragana": "ていせい",
+          "meaning": "更正错误"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-930d3869567f65b2",
+      "index": 2743,
+      "word": "速報",
+      "reading_hiragana": "そくほう",
+      "context_meaning_zh": "快报",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "快报",
+          "meaning_ja": "起きたばかりの出来事を、急いで伝える知らせ。",
+          "example_ja": "地震の速報がテレビで流れました。",
+          "example_zh": "电视上播出了地震快报。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "速報が入る",
+          "zh": "传来快报"
+        }
+      ],
+      "usage_note_zh": "多指事件刚发生后迅速发布的新闻，强调及时性，细节可能尚不完整。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指及时发布的快讯，也有速報する的他动サ变用法；此处为邮件标题中的名词。",
+        "dictionary_sequences": [
+          1405070
+        ],
+        "identity": {
+          "word": "速報",
+          "reading_hiragana": "そくほう",
+          "meaning": "快报"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1f0dd4db1723f8ad",
+      "index": 2744,
+      "word": "見出し",
+      "reading_hiragana": "みだし",
+      "context_meaning_zh": "报道标题",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "报道标题",
+          "meaning_ja": "文章や記事の内容を短く表した題。",
+          "example_ja": "見出しを読んで、記事の内容を想像しました。",
+          "example_zh": "读了标题后，我猜想了报道的内容。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "見出しを付ける",
+          "zh": "加标题"
+        }
+      ],
+      "usage_note_zh": "指新闻或文章的标题，常用简短文字概括单篇报道的内容。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "邮件中的标题概括取消祭典的快讯内容，取标题义；单一新闻内容不说明词条专属新闻体裁。",
+        "dictionary_sequences": [
+          1259710
+        ],
+        "identity": {
+          "word": "見出し",
+          "reading_hiragana": "みだし",
+          "meaning": "报道标题"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f3f7350673c02f6a",
+      "index": 2745,
+      "word": "引用",
+      "reading_hiragana": "いんよう",
+      "context_meaning_zh": "引用他人话语",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "引用他人话语",
+          "meaning_ja": "人の言葉や文章の一部を、そのまま取り出して使うこと。",
+          "example_ja": "レポートに本の一文を引用しました。",
+          "example_zh": "我在报告中引用了书里的一句话。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "言葉を引用する",
+          "zh": "引用话语"
+        }
+      ],
+      "usage_note_zh": "引用时应说明话语来自谁，避免读者把引文误认为自己的观点；书面表达可用引号标示。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句「言葉の引用」为名词；词典另列引用する的他动サ变用法，所引内容可作对象。",
+        "dictionary_sequences": [
+          1169660
+        ],
+        "identity": {
+          "word": "引用",
+          "reading_hiragana": "いんよう",
+          "meaning": "引用他人话语"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5b62c60557023a4d",
+      "index": 2746,
+      "word": "公表",
+      "reading_hiragana": "こうひょう",
+      "context_meaning_zh": "公开发表",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "公开发表",
+          "meaning_ja": "多くの人に知らせるため、決まった内容を公にすること。",
+          "example_ja": "会社は新しい方針を公表しました。",
+          "example_zh": "公司公开发布了新方针。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結果を公表する",
+          "zh": "公布结果"
+        }
+      ],
+      "usage_note_zh": "常用于公开决定或调查结果；「発表」也可指当众陈述，「公表」更强调向公众公开。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "市政府公布活动安排，公表する为及物的正式公开行为，内容作对象。",
+        "dictionary_sequences": [
+          1274550
+        ],
+        "identity": {
+          "word": "公表",
+          "reading_hiragana": "こうひょう",
+          "meaning": "公开发表"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e230ca2dedbe3cee",
+      "index": 2747,
+      "word": "事実",
+      "reading_hiragana": "じじつ",
+      "context_meaning_zh": "事实",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "事实",
+          "meaning_ja": "実際に起きたことや、本当に正しいこと。",
+          "example_ja": "その話が事実かどうか、本人に聞きました。",
+          "example_zh": "我向本人询问了那件事是否属实。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事実を確かめる",
+          "zh": "核实事实"
+        }
+      ],
+      "usage_note_zh": "指实际发生的事情或真实状态，与意见、猜测相区别；可说「事実だ／事実ではない」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "传遍全城的说法是否属实，事実在句中作可核实的事实名词；辞书另列in fact副词义未出现。",
+        "dictionary_sequences": [
+          1313960
+        ],
+        "identity": {
+          "word": "事実",
+          "reading_hiragana": "じじつ",
+          "meaning": "事实"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0b004aee8861c7ac",
+      "index": 2748,
+      "word": "誤報",
+      "reading_hiragana": "ごほう",
+      "context_meaning_zh": "错误报道",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "错误报道",
+          "meaning_ja": "事実と違う内容を、ニュースとして伝えること。",
+          "example_ja": "数字を間違えて報じたため、新聞は誤報を訂正しました。",
+          "example_zh": "由于报道的数字有误，报纸更正了错误报道。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "誤報を訂正する",
+          "zh": "更正错误报道"
+        }
+      ],
+      "usage_note_zh": "指发布时内容就与事实不符的报道；报道后安排才发生变化的情况不属于误报。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句强调后来日程变化不代表报道发布时就有错误；词典支持误报名词及他动サ变，但无证据标新闻体裁。",
+        "dictionary_sequences": [
+          1271470
+        ],
+        "identity": {
+          "word": "誤報",
+          "reading_hiragana": "ごほう",
+          "meaning": "错误报道"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dae63d2c4224167d",
+      "index": 2749,
+      "word": "ニュース",
+      "reading_hiragana": "ニュース",
+      "context_meaning_zh": "新闻、消息",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "新闻、消息",
+          "meaning_ja": "社会の出来事についての新しい知らせ。",
+          "example_ja": "朝、ラジオで海外のニュースを聞きました。",
+          "example_zh": "早上我在收音机里听了海外新闻。"
+        },
+        {
+          "meaning_zh": "消息；近况",
+          "meaning_ja": "人から聞く新しい知らせや身近な話。",
+          "example_ja": "久しぶりに会った友達から、家族のニュースを聞きました。",
+          "example_zh": "我从久未见面的朋友那里听到了他家人的近况。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ニュースを見る",
+          "zh": "看新闻"
+        }
+      ],
+      "usage_note_zh": "「ニュース」泛指新闻内容，不限电视、广播或网络等媒介；这是来自英语的外来语。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "新闻与消息义用于本地广播机构播报更正的语境；不因话题是新闻而把词标成news体裁。",
+        "dictionary_sequences": [
+          1091500
+        ],
+        "identity": {
+          "word": "ニュース",
+          "reading_hiragana": "ニュース",
+          "meaning": "新闻、消息"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d4a7eeb45dee0646",
+      "index": 2750,
+      "word": "評判",
+      "reading_hiragana": "ひょうばん",
+      "context_meaning_zh": "评价",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "评价",
+          "meaning_ja": "人や物について、周りの人が持っている評価。",
+          "example_ja": "この店は、店員の親切さで評判です。",
+          "example_zh": "这家店以店员热情而闻名。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "評判がいい",
+          "zh": "评价很好"
+        }
+      ],
+      "usage_note_zh": "指人们对某人或某物的评价，可说「評判がよい／悪い」（评价好／差）或「評判になる」（出名）；不要只凭口碑判断事实。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "人们对影片的评价或口碑，词典列名词和名词前修饰，文中提醒不应仅凭口碑认定事实。",
+        "dictionary_sequences": [
+          1490070
+        ],
+        "identity": {
+          "word": "評判",
+          "reading_hiragana": "ひょうばん",
+          "meaning": "评价"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e08ead301b3a190e",
+      "index": 2751,
+      "word": "放送",
+      "reading_hiragana": "ほうそう",
+      "context_meaning_zh": "广播",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "广播",
+          "meaning_ja": "音や映像を電波などで広く届けること。",
+          "example_ja": "この試合は、夜に全国へ放送されます。",
+          "example_zh": "这场比赛将在晚上向全国播出。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "番組を放送する",
+          "zh": "播出节目"
+        }
+      ],
+      "usage_note_zh": "指通过电视或广播传送节目；也可用「放送を聞く」表示收听播出的内容。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "放送的录音中记者播报工程期限，指广播播送行为；词典标名词及他动サ变。",
+        "dictionary_sequences": [
+          1516750
+        ],
+        "identity": {
+          "word": "放送",
+          "reading_hiragana": "ほうそう",
+          "meaning": "广播"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-17a6e137e6c428e6",
+      "index": 2752,
+      "word": "オリンピック",
+      "reading_hiragana": "オリンピック",
+      "context_meaning_zh": "奥林匹克",
+      "pos_ja": "名詞・固有名詞",
+      "pos_zh": "名词・专有名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "奥林匹克",
+          "meaning_ja": "古代ギリシャで始まった、世界各地の選手が競う国際的なスポーツ大会。",
+          "example_ja": "兄はオリンピックを見るのが好きです。",
+          "example_zh": "哥哥喜欢看奥运会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "オリンピックを開催する",
+          "zh": "举办奥运会"
+        }
+      ],
+      "usage_note_zh": "这是奥运会的专名；日语会话中也常简称「五輪」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "proper_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指奥林匹克运动会举办地，作为赛事名称使用；词典所列Olympics专名义与例句一致。",
+        "dictionary_sequences": [
+          1035710
+        ],
+        "identity": {
+          "word": "オリンピック",
+          "reading_hiragana": "オリンピック",
+          "meaning": "奥林匹克"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-728cca0087b6920b",
+      "index": 2753,
+      "word": "開催",
+      "reading_hiragana": "かいさい",
+      "context_meaning_zh": "召开、举行；召开、举办",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "召开、举行；召开、举办",
+          "meaning_ja": "会や行事を開いて行うこと。",
+          "example_ja": "来月、この町で音楽祭を開催します。",
+          "example_zh": "下个月将在这个城镇举办音乐节。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会議を開催する",
+          "zh": "召开会议"
+        }
+      ],
+      "usage_note_zh": "用于会议、典礼或赛事等活动；「開催する」常从主办方角度表达，「開催される」不突出主办方。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "祭典的举行日期为二十五日，開催是名词；開催する时由主办者举办活动，属他动用法。",
+        "dictionary_sequences": [
+          1202710
+        ],
+        "identity": {
+          "word": "開催",
+          "reading_hiragana": "かいさい",
+          "meaning": "召开、举行；召开、举办"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c7bc8955f7b845aa",
+      "index": 2754,
+      "word": "或る",
+      "reading_hiragana": "ある",
+      "context_meaning_zh": "某一个（通常写ある）",
+      "pos_ja": "連体詞",
+      "pos_zh": "连体词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "某一个（通常写ある）",
+          "meaning_ja": "特定せずに一人や一つを挙げるときの言い方。",
+          "example_ja": "ある店で、珍しいお茶を買いました。",
+          "example_zh": "我在一家店里买了少见的茶。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ある日",
+          "zh": "某一天"
+        }
+      ],
+      "usage_note_zh": "「或る」放在名词前，表示某个但不具体指出是谁或哪一个；「ある人」中的「ある」是连体词，与表示“存在”的「有る」不同。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「或る」置于人名前表示不特指的某个对象；此写法与存在动词「有る」区分，呈连体词用法。",
+        "dictionary_sequences": [
+          1586840
+        ],
+        "identity": {
+          "word": "或る",
+          "reading_hiragana": "ある",
+          "meaning": "某一个（通常写ある）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-651c633b328b48e7",
+      "index": 2755,
+      "word": "チャンネル",
+      "reading_hiragana": "チャンネル",
+      "context_meaning_zh": "(电视等)波段、频道；频道",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(电视等)波段、频道；频道",
+          "meaning_ja": "テレビやラジオの番組を分けて送るための一つの区分。",
+          "example_ja": "料理番組は、八チャンネルで見られます。",
+          "example_zh": "料理节目可以在8频道收看。"
+        },
+        {
+          "meaning_zh": "（网络）频道",
+          "meaning_ja": "動画などを配信する人や団体のページ。",
+          "example_ja": "旅行の動画を見て、このチャンネルを知りました。",
+          "example_zh": "我看旅行视频时知道了这个频道。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "チャンネルを変える",
+          "zh": "换频道"
+        }
+      ],
+      "usage_note_zh": "可指电视广播的频道，也可指网络上发布视频的账号或内容栏目。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「三チャンネル」指广播／电视频道，符合词典channel义；未根据读音空缺或课本来源推断额外类别。",
+        "dictionary_sequences": [
+          1077960
+        ],
+        "identity": {
+          "word": "チャンネル",
+          "reading_hiragana": "チャンネル",
+          "meaning": "(电视等)波段、频道；频道"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3dae79b62f0d8a1e",
+      "index": 2756,
+      "word": "番組",
+      "reading_hiragana": "ばんぐみ",
+      "context_meaning_zh": "(电视等)节目",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(电视等)节目",
+          "meaning_ja": "テレビやラジオで放送する一つの内容。",
+          "example_ja": "子ども向けの番組を家族と見ました。",
+          "example_zh": "我和家人看了儿童节目。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "番組を見る",
+          "zh": "看节目"
+        }
+      ],
+      "usage_note_zh": "指电视或广播中的一档节目，也可指系列节目中的某一期。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "地方广播局开设介绍信息核查方法的节目，番組为电视/广播节目名词。",
+        "dictionary_sequences": [
+          1482340
+        ],
+        "identity": {
+          "word": "番組",
+          "reading_hiragana": "ばんぐみ",
+          "meaning": "(电视等)节目"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e47b5548834383b8",
+      "index": 2757,
+      "word": "マスコミ",
+      "reading_hiragana": "マスコミ",
+      "context_meaning_zh": "(マスコミュニケーション的略语)大众传媒",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(マスコミュニケーション的略语)大众传媒",
+          "meaning_ja": "新聞・テレビなど、多くの人に情報を伝える報道機関。",
+          "example_ja": "マスコミは選挙の結果を大きく伝えました。",
+          "example_zh": "大众传媒大篇幅报道了选举结果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "マスコミの報道",
+          "zh": "大众传媒的报道"
+        }
+      ],
+      "usage_note_zh": "「マスコミュニケーション」的简称；依语境可泛指大众传媒机构或其报道。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "有效释义将该词说明为大众传媒缩略语，句中指媒体评价；不因讨论媒体就标news体裁。",
+        "dictionary_sequences": [
+          1127900
+        ],
+        "identity": {
+          "word": "マスコミ",
+          "reading_hiragana": "マスコミ",
+          "meaning": "(マスコミュニケーション的略语)大众传媒"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2cb66bd6a707e205",
+      "index": 2758,
+      "word": "インタビュー",
+      "reading_hiragana": "インタビュー",
+      "context_meaning_zh": "采访、访谈",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "采访、访谈",
+          "meaning_ja": "質問をして、人の経験や考えを聞くこと。また、その会話。",
+          "example_ja": "記者は選手にインタビューし、試合の感想を聞きました。",
+          "example_zh": "记者采访了选手，并询问了他对比赛的感想。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人にインタビューする",
+          "zh": "采访某人"
+        }
+      ],
+      "usage_note_zh": "指通过提问听取他人经历或想法；它是采访取材中的一种方式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典列名词及サ变且兼具自他用法；本句「担当者にインタビューする」以に标对象，保留サ变两用。",
+        "dictionary_sequences": [
+          1023100
+        ],
+        "identity": {
+          "word": "インタビュー",
+          "reading_hiragana": "インタビュー",
+          "meaning": "采访、访谈"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-55295fe58be3813b",
+      "index": 2759,
+      "word": "政治",
+      "reading_hiragana": "せいじ",
+      "context_meaning_zh": "政治",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "政治",
+          "meaning_ja": "国や地域を治める仕組みや、その運営に関わる活動。",
+          "example_ja": "授業で、地方の政治について話し合いました。",
+          "example_zh": "课堂上我们讨论了地方政治。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "政治に参加する",
+          "zh": "参与政治"
+        }
+      ],
+      "usage_note_zh": "指国家或地区的治理、政策及政党等相关活动；从事政治的人称「政治家」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "政治指地区治理相关活动，例句是节目介绍地区政治；不因节目内容而标news或educational。",
+        "dictionary_sequences": [
+          1375970
+        ],
+        "identity": {
+          "word": "政治",
+          "reading_hiragana": "せいじ",
+          "meaning": "政治"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dd80ec9ada0c257e",
+      "index": 2760,
+      "word": "流感",
+      "reading_hiragana": "りゅうかん",
+      "context_meaning_zh": "流感，インフルエンザ的简称",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "流感，インフルエンザ的简称",
+          "meaning_ja": "インフルエンザを短く言った呼び名。",
+          "example_ja": "医者は、流感の予防について説明しました。",
+          "example_zh": "医生说明了流感的预防方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "流感にかかる",
+          "zh": "患流感"
+        }
+      ],
+      "usage_note_zh": "「流感」是「インフルエンザ」的简称；日常也常直接使用完整名称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "旧报纸记录流感流行；该词是流行性感冒的简称，词典病名义与句意相符。",
+        "dictionary_sequences": [
+          1552250
+        ],
+        "identity": {
+          "word": "流感",
+          "reading_hiragana": "りゅうかん",
+          "meaning": "流感，インフルエンザ的简称"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c40296f2e185f546",
+      "index": 2761,
+      "word": "流行る",
+      "reading_hiragana": "はやる",
+      "context_meaning_zh": "流行",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "流行",
+          "meaning_ja": "病気や商品などが、多くの人の間に広がる。",
+          "example_ja": "寒い季節には、この地域で風邪が流行ります。",
+          "example_zh": "寒冷季节里，这一地区会流行感冒。"
+        },
+        {
+          "meaning_zh": "走红；时兴",
+          "meaning_ja": "商品や考え方などが、多くの人に好まれる。",
+          "example_ja": "この店では、今、丸い眼鏡が流行っています。",
+          "example_zh": "这家店现在流行圆框眼镜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "病気が流行る",
+          "zh": "疾病流行"
+        }
+      ],
+      "usage_note_zh": "表示疾病或习惯在人群中传播时是自动词，传播的对象用「が」标示。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "流感在社区流行、帽子受欢迎，传播或普及状态由主体形成；五段る自动词。",
+        "dictionary_sequences": [
+          1552310
+        ],
+        "identity": {
+          "word": "流行る",
+          "reading_hiragana": "はやる",
+          "meaning": "流行"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ca7332d080ce1aad",
+      "index": 2762,
+      "word": "伝染病",
+      "reading_hiragana": "でんせんびょう",
+      "context_meaning_zh": "传染病",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "传染病",
+          "meaning_ja": "人から人へうつる性質を持つ病気。",
+          "example_ja": "手を洗うことは、伝染病を防ぐ方法の一つです。",
+          "example_zh": "洗手是预防传染病的方法之一。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "伝染病を防ぐ",
+          "zh": "预防传染病"
+        }
+      ],
+      "usage_note_zh": "指可在人与人之间传播的疾病；不同疾病的病原体和感染途径各不相同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": [
+          "news"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "传染病是疾病类别名词；例句提到古报道和预防介绍，但报道题材不作为词语新闻体裁标签。",
+        "dictionary_sequences": [
+          1442130
+        ],
+        "identity": {
+          "word": "伝染病",
+          "reading_hiragana": "でんせんびょう",
+          "meaning": "传染病"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1e6c14467e9386e1",
+      "index": 2763,
+      "word": "アナウンス",
+      "reading_hiragana": "アナウンス",
+      "context_meaning_zh": "广播、报告",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "广播、报告",
+          "meaning_ja": "人に聞こえるように、音声で知らせること。",
+          "example_ja": "駅で電車の遅れをアナウンスしました。",
+          "example_zh": "车站通过广播通知了列车晚点。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "アナウンスを聞く",
+          "zh": "听广播通知"
+        }
+      ],
+      "usage_note_zh": "指车站、会场等播放的语音通知，也可指播报通知这一行为。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处指会场播出的通知；词典支持名词及サ变他动用法，句中「流す」另作谓语。",
+        "dictionary_sequences": [
+          1017340
+        ],
+        "identity": {
+          "word": "アナウンス",
+          "reading_hiragana": "アナウンス",
+          "meaning": "广播、报告"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8c24f8f1d5aacd0d",
+      "index": 2764,
+      "word": "流す",
+      "reading_hiragana": "ながす",
+      "context_meaning_zh": "播放;使...流动",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "播放;使...流动",
+          "meaning_ja": "音や映像を、多くの人が聞いたり見たりできるように出す。",
+          "example_ja": "店内に静かな音楽を流しています。",
+          "example_zh": "店里播放着轻柔的音乐。"
+        },
+        {
+          "meaning_zh": "流出；放出",
+          "meaning_ja": "水や血などを外へ出す。",
+          "example_ja": "川にごみを流さないでください。",
+          "example_zh": "请不要把垃圾排进河里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "音楽を流す",
+          "zh": "播放音乐"
+        }
+      ],
+      "usage_note_zh": "「音楽を流す」表示播放音乐；「水を流す」表示让水流动，具体意思随宾语变化。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "在会场播放通知以及打开水龙头放水，均有被播放／流动的对象；ながす为五段す他动词。",
+        "dictionary_sequences": [
+          1552120
+        ],
+        "identity": {
+          "word": "流す",
+          "reading_hiragana": "ながす",
+          "meaning": "播放;使...流动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-46686ad7405a88e3",
+      "index": 2765,
+      "word": "急停車",
+      "reading_hiragana": "きゅうていしゃ",
+      "context_meaning_zh": "急刹车",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "急刹车",
+          "meaning_ja": "車などが急に止まること。また、急に止めること。",
+          "example_ja": "前の車が急停車したので、バスも止まりました。",
+          "example_zh": "前面的车突然急刹车，所以巴士也停了下来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "急停車する",
+          "zh": "紧急停车"
+        }
+      ],
+      "usage_note_zh": "「急停車する」表示车辆突然停下；要表达让车急停，可说「急停車させる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "巴士突然停下的事件以急停車した表达，词典仅标サ变不及物；此处主语是巴士。",
+        "dictionary_sequences": [
+          1228900
+        ],
+        "identity": {
+          "word": "急停車",
+          "reading_hiragana": "きゅうていしゃ",
+          "meaning": "急刹车"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-43323b80a9ccaeb7",
+      "index": 2766,
+      "word": "起こる",
+      "reading_hiragana": "おこる",
+      "context_meaning_zh": "发生",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发生",
+          "meaning_ja": "出来事や変化が生じる。",
+          "example_ja": "会議で大切な問題が起こりました。",
+          "example_zh": "会议上出现了一个重要问题。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "問題が起こる",
+          "zh": "发生问题"
+        }
+      ],
+      "usage_note_zh": "通常以事件或问题作主语，说「～が起こる」；读作「おこる」的「怒る」表示生气，意思不同。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段动词表示事件发生，车站前发生了什么是尚待确认的事件；词典标vi。",
+        "dictionary_sequences": [
+          1223680
+        ],
+        "identity": {
+          "word": "起こる",
+          "reading_hiragana": "おこる",
+          "meaning": "发生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a86a11d14f3fa779",
+      "index": 2767,
+      "word": "ジャーナル",
+      "reading_hiragana": "ジャーナル",
+      "context_meaning_zh": "期刊",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "期刊",
+          "meaning_ja": "専門的な記事や研究を載せて発行する雑誌。",
+          "example_ja": "先生は教育のジャーナルに論文を発表しました。",
+          "example_zh": "老师在教育类期刊上发表了论文。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "学術ジャーナル",
+          "zh": "学术期刊"
+        }
+      ],
+      "usage_note_zh": "多指学术领域的定期刊物；依语境也可指新闻类或记录类刊物。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「地域ジャーナル」由语境明确为每月发行的杂志；词典也列记录簿义，此处取期刊义，未见新闻或学术专属用法。",
+        "dictionary_sequences": [
+          1065000
+        ],
+        "identity": {
+          "word": "ジャーナル",
+          "reading_hiragana": "ジャーナル",
+          "meaning": "期刊"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0485b7dded026e4e",
+      "index": 2768,
+      "word": "載る",
+      "reading_hiragana": "のる",
+      "context_meaning_zh": "登载",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "登载",
+          "meaning_ja": "文章や名前などが、紙面や画面に印刷・表示される。",
+          "example_ja": "結果は明日の新聞に載ります。",
+          "example_zh": "结果会刊登在明天的报纸上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新聞に載る",
+          "zh": "刊登在报纸上"
+        }
+      ],
+      "usage_note_zh": "「新聞に載る」表示内容刊登在报纸上，是自动词；刊登一方可说「新聞に載せる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "节目介绍刊登在月刊杂志上，符合词典所列刊载自动词义。",
+        "dictionary_sequences": [
+          2649690
+        ],
+        "identity": {
+          "word": "載る",
+          "reading_hiragana": "のる",
+          "meaning": "登载"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-97769570a9af641f",
+      "index": 2769,
+      "word": "新聞を取る",
+      "reading_hiragana": "しんぶんをとる",
+      "context_meaning_zh": "订报",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "订报",
+          "meaning_ja": "新聞を定期的に配達してもらう契約をする。",
+          "example_ja": "祖父は毎朝読むために新聞を取っています。",
+          "example_zh": "祖父为了每天早上阅读而订了报纸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新聞を取る",
+          "zh": "订报"
+        }
+      ],
+      "usage_note_zh": "这里的「新聞を取る」是订阅报纸，不是单纯拿起或收取报纸；常说「新聞を取っている」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「新聞を取る」在课程释义中指订阅报纸，作为固定短语可活用；内部的新聞を是短语组成部分，不代表对外自由支配宾语。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "新聞を取る",
+          "reading_hiragana": "しんぶんをとる",
+          "meaning": "订报"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0cba10b5d3092c94",
+      "index": 2770,
+      "word": "聞き手",
+      "reading_hiragana": "ききて",
+      "context_meaning_zh": "听者、听众；听者",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "听者、听众；听者",
+          "meaning_ja": "話を聞く側の人。",
+          "example_ja": "聞き手は話の途中で質問しました。",
+          "example_zh": "听者在谈话中途提出了问题。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "聞き手に伝える",
+          "zh": "传达给听者"
+        }
+      ],
+      "usage_note_zh": "与表示说话一方的「話し手」相对；也可比喻文章作者与读者的关系。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "讨论说话者与信息源区别时的受话者是倾听一方，不是提问采访者。",
+        "dictionary_sequences": [
+          1505810
+        ],
+        "identity": {
+          "word": "聞き手",
+          "reading_hiragana": "ききて",
+          "meaning": "听者、听众；听者"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-492dad6b21f8b42d",
+      "index": 2771,
+      "word": "話し手",
+      "reading_hiragana": "はなして",
+      "context_meaning_zh": "说话的人",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "说话的人",
+          "meaning_ja": "話をする側の人。",
+          "example_ja": "話し手はゆっくり説明を続けました。",
+          "example_zh": "说话者继续慢慢地说明。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "話し手の意見",
+          "zh": "说话者的意见"
+        }
+      ],
+      "usage_note_zh": "指对话中说话的一方，与「聞き手」相对；故事中的讲述者通常称「語り手」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中区分听者和信息来源的说话者，词典speaker义吻合；非此处不支持的“善谈者”义。",
+        "dictionary_sequences": [
+          1562330
+        ],
+        "identity": {
+          "word": "話し手",
+          "reading_hiragana": "はなして",
+          "meaning": "说话的人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-14dd1bc602a43ced",
+      "index": 2772,
+      "word": "第何号",
+      "reading_hiragana": "だいなんごう",
+      "context_meaning_zh": "第几期",
+      "pos_ja": "名詞・疑問",
+      "pos_zh": "名词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "第几期",
+          "meaning_ja": "番号が何番かを尋ねる言い方。",
+          "example_ja": "次の会報は第何号ですか。",
+          "example_zh": "下一期会报是第几期？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "第何号に載る",
+          "zh": "刊登在第几期"
+        }
+      ],
+      "usage_note_zh": "「第＋何＋号」用于询问编号；回答时把具体序号放在「第」和「号」之间，如「第八号」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context"
+        ],
+        "note_zh": "第何号询问杂志刊号或顺序，例句确认其作期号疑问名词；无词典资料，按组合构词裁定。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "第何号",
+          "reading_hiragana": "だいなんごう",
+          "meaning": "第几期"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-04809a627438c2cd",
+      "index": 2773,
+      "word": "調べる",
+      "reading_hiragana": "しらべる",
+      "context_meaning_zh": "调查;查找",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "调查;查找",
+          "meaning_ja": "わからないことを、資料を見たり人に聞いたりして確かめる。",
+          "example_ja": "駅までの道を地図で調べました。",
+          "example_zh": "我用地图查了去车站的路。"
+        },
+        {
+          "meaning_zh": "调查；研究",
+          "meaning_ja": "詳しく考え、原因や仕組みを明らかにする。",
+          "example_ja": "大学で日本の歴史を調べています。",
+          "example_zh": "我正在大学研究日本历史。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意味を調べる",
+          "zh": "查意思"
+        }
+      ],
+      "usage_note_zh": "「～を調べる」中「を」前是调查对象；既可指简单查找，也可指较深入的研究。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一段他动词，调查信息传播路径并查明原因，两个调查对象均明确。",
+        "dictionary_sequences": [
+          1429060
+        ],
+        "identity": {
+          "word": "調べる",
+          "reading_hiragana": "しらべる",
+          "meaning": "调查;查找"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8cdcc21d90fa143c",
+      "index": 2774,
+      "word": "等",
+      "reading_hiragana": "ら",
+      "context_meaning_zh": "(表示复数)们",
+      "pos_ja": "接尾辞",
+      "pos_zh": "接尾词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(表示复数)们",
+          "meaning_ja": "人を表す言葉の後ろに付き、その人たちを指す。",
+          "example_ja": "先生らは会議室に集まりました。",
+          "example_zh": "老师们聚集在会议室里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "彼ら",
+          "zh": "他们"
+        }
+      ],
+      "usage_note_zh": "后接表示人的词语，可指“他们／……们”；书面语感稍强，日常会话常用「人たち」。",
+      "pos": {
+        "primary": "suffix",
+        "classes": [
+          "suffix"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「彼ら」中的ら接在人称代词后表示复数；目标是复数后缀义，不取约数、名词化或其他后缀用法。",
+        "dictionary_sequences": [
+          2067770
+        ],
+        "identity": {
+          "word": "等",
+          "reading_hiragana": "ら",
+          "meaning": "(表示复数)们"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4e4368cedf06194c",
+      "index": 2775,
+      "word": "すると",
+      "reading_hiragana": "すると",
+      "context_meaning_zh": "于是就;那么说来",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "于是就;那么说来",
+          "meaning_ja": "前の話を受けて、次の結果を示す。または、相手の話から結論を確認する。",
+          "example_ja": "道を尋ねました。すると、駅員が地図を見せてくれました。",
+          "example_zh": "我问了路，于是站务员给我看了地图。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "すると、～",
+          "zh": "于是……"
+        }
+      ],
+      "usage_note_zh": "叙述中可连接前一件事及其后续结果；对话中也能用「すると、～ですね」确认推论。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处承接前文确认十一点，取“那么说来”义；作为接续词也常用于一般叙述，不限对话口语。",
+        "dictionary_sequences": [
+          1006280
+        ],
+        "identity": {
+          "word": "すると",
+          "reading_hiragana": "すると",
+          "meaning": "于是就;那么说来"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e5006cb7be1870bb",
+      "index": 2776,
+      "word": "訪日",
+      "reading_hiragana": "ほうにち",
+      "context_meaning_zh": "访日",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "访日",
+          "meaning_ja": "外国の人が日本を訪れること。",
+          "example_ja": "友達は春に訪日する予定です。",
+          "example_zh": "朋友计划春天访日。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "訪日する",
+          "zh": "访问日本"
+        }
+      ],
+      "usage_note_zh": "指外国人来到日本，常见于新闻或旅游说明；日本人去外国不使用「訪日」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指前往日本访问，可构成自动サ变动词；本句为计划访日的名词用法，不据教材来源推断新闻体裁。",
+        "dictionary_sequences": [
+          1518100
+        ],
+        "identity": {
+          "word": "訪日",
+          "reading_hiragana": "ほうにち",
+          "meaning": "访日"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-648d4815607811d7",
+      "index": 2777,
+      "word": "シリーズ",
+      "reading_hiragana": "シリーズ",
+      "context_meaning_zh": "系列；（棒球争夺冠军的）系列赛",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "系列；（棒球争夺冠军的）系列赛",
+          "meaning_ja": "共通するテーマで続いている作品や番組のまとまり。",
+          "example_ja": "このシリーズは、毎回違う町を紹介します。",
+          "example_zh": "这个系列每期介绍不同的城镇。"
+        },
+        {
+          "meaning_zh": "系列赛",
+          "meaning_ja": "優勝を決めるため、複数の試合を続けて行うこと。",
+          "example_ja": "野球のシリーズは来週から始まります。",
+          "example_zh": "棒球系列赛从下周开始。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "シリーズ作品",
+          "zh": "系列作品"
+        }
+      ],
+      "usage_note_zh": "指以共同主题或形式持续推出的作品、节目等；体育语境中也可指一组决定冠军的系列赛。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「シリーズ」指连续推出的作品，另在「日本シリーズ」中指冠军系列赛；这两例都把它作名词。",
+        "dictionary_sequences": [
+          1062910
+        ],
+        "identity": {
+          "word": "シリーズ",
+          "reading_hiragana": "シリーズ",
+          "meaning": "系列；（棒球争夺冠军的）系列赛"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a3b005d392a5fc42",
+      "index": 2778,
+      "word": "エキスポ",
+      "reading_hiragana": "エキスポ",
+      "context_meaning_zh": "世博会",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "世博会",
+          "meaning_ja": "大きな展示会や博覧会を指す語。",
+          "example_ja": "学校の旅行で、エキスポの会場へ行きました。",
+          "example_zh": "学校旅行时，我们去了世博会会场。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "エキスポの会場",
+          "zh": "世博会会场"
+        }
+      ],
+      "usage_note_zh": "「エキスポ」是博览会名称中常见的简称；具体活动的正式名称各不相同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指博览会或世博会的名词，句中由会场与官方网站语境确认。",
+        "dictionary_sequences": [
+          1027840
+        ],
+        "identity": {
+          "word": "エキスポ",
+          "reading_hiragana": "エキスポ",
+          "meaning": "世博会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-71403dadabedfd1a",
+      "index": 2779,
+      "word": "解明",
+      "reading_hiragana": "かいめい",
+      "context_meaning_zh": "弄清、阐明",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "弄清、阐明",
+          "meaning_ja": "調べたり考えたりして、わからなかった原因や仕組みをはっきりさせること。",
+          "example_ja": "研究者は事故の原因を解明しました。",
+          "example_zh": "研究人员查明了事故原因。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "原因を解明する",
+          "zh": "查明原因"
+        }
+      ],
+      "usage_note_zh": "指通过调查弄清未知的原因或机制；「調べる」范围较广，「解明する」强调得出明确结论。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "查明传播途径和原因时，以调查内容为解明する对象；该名词也构成他动サ变词。",
+        "dictionary_sequences": [
+          1199290
+        ],
+        "identity": {
+          "word": "解明",
+          "reading_hiragana": "かいめい",
+          "meaning": "弄清、阐明"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ea787f44a4b615b3",
+      "index": 2780,
+      "word": "今のところ",
+      "reading_hiragana": "いまのところ",
+      "context_meaning_zh": "目前、眼前、眼下",
+      "pos_ja": "副詞・表現・定型表現",
+      "pos_zh": "副词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "目前、眼前、眼下",
+          "meaning_ja": "今の時点ではそうだが、後で変わる可能性があることを表す。",
+          "example_ja": "今のところ、電車は予定どおりです。",
+          "example_zh": "目前列车运行正常。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "今のところ問題ない",
+          "zh": "目前没有问题"
+        }
+      ],
+      "usage_note_zh": "表示截至现在的情况，并保留以后可能变化的余地；表示从过去持续到现在时用「今まで」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "adverb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「今のところ」作为固定时间短语修饰尚未确定的安排，词典列表达及副词用法。",
+        "dictionary_sequences": [
+          1288960
+        ],
+        "identity": {
+          "word": "今のところ",
+          "reading_hiragana": "いまのところ",
+          "meaning": "目前、眼前、眼下"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5e7867754556f1aa",
+      "index": 2781,
+      "word": "謎",
+      "reading_hiragana": "なぞ",
+      "context_meaning_zh": "谜语、谜",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "谜语、谜",
+          "meaning_ja": "答えや正体がまだわからないこと。",
+          "example_ja": "箱の中に何があるのか、まだ謎です。",
+          "example_zh": "还不知道箱子里有什么，仍是个谜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "謎を解く",
+          "zh": "解谜"
+        }
+      ],
+      "usage_note_zh": "指答案未知的问题或身份不明的事物；猜谜游戏中的谜语可称「謎々」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "謎です与謎を考える都是名词用法；词典adj-no指謎の～结构，不另列adnominal。",
+        "dictionary_sequences": [
+          1459690
+        ],
+        "identity": {
+          "word": "謎",
+          "reading_hiragana": "なぞ",
+          "meaning": "谜语、谜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f0e7b512f99be0e9",
+      "index": 2782,
+      "word": "分ける",
+      "reading_hiragana": "わける",
+      "context_meaning_zh": "分、分开;分类;分配",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "分、分开;分类;分配",
+          "meaning_ja": "一つのものをいくつかの部分や種類に分ける。",
+          "example_ja": "本を大きさごとに分けて棚に置きました。",
+          "example_zh": "我按大小把书分类后放在架子上。"
+        },
+        {
+          "meaning_zh": "分配；分担",
+          "meaning_ja": "物や役目を人ごとに配る。",
+          "example_ja": "先生は資料を人数分に分けてから、学生に配りました。",
+          "example_zh": "老师把资料分成相应人数份后，分发给学生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "種類に分ける",
+          "zh": "按种类划分"
+        }
+      ],
+      "usage_note_zh": "分开的对象前用「を」，分类标准可用「ごとに」或「に」；「分かれる」表示事物自然分开。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "把新旧报道与未证实传言区分，按日期分类，并向参加者分发资料；均以内容为受事对象。",
+        "dictionary_sequences": [
+          1503000
+        ],
+        "identity": {
+          "word": "分ける",
+          "reading_hiragana": "わける",
+          "meaning": "分、分开;分类;分配"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-26f843d3c515ec40",
+      "index": 2783,
+      "word": "予告",
+      "reading_hiragana": "よこく",
+      "context_meaning_zh": "预告",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "预告",
+          "meaning_ja": "これから行うことや起きることを、前もって知らせること。",
+          "example_ja": "映画の予告を見て、公開日を知りました。",
+          "example_zh": "看了电影预告后，我知道了上映日期。"
+        },
+        {
+          "meaning_zh": "（影视）预告片",
+          "meaning_ja": "映画の内容を短く見せて、公開前に紹介する映像。",
+          "example_ja": "新作映画の予告を映画館で見ました。",
+          "example_zh": "我在电影院看了新电影的预告片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予告を見る",
+          "zh": "看预告"
+        }
+      ],
+      "usage_note_zh": "指提前告知未来的安排；影视语境中也指介绍作品内容的预告片。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "看过系列预告，句中取提前发布的通知或节目预告内容；词典兼列通知名词/他动サ变及影视预告片义。",
+        "dictionary_sequences": [
+          1542990
+        ],
+        "identity": {
+          "word": "予告",
+          "reading_hiragana": "よこく",
+          "meaning": "预告"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-064853d2a1b6e14d",
+      "index": 2784,
+      "word": "明らか",
+      "reading_hiragana": "あきらか",
+      "context_meaning_zh": "明显、清楚；清楚、没有疑问",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "明显、清楚；清楚、没有疑问",
+          "meaning_ja": "はっきりしていて、疑う理由がない様子。",
+          "example_ja": "二人の意見が違うことは明らかです。",
+          "example_zh": "两人的意见不同这一点很明显。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "明らかになる",
+          "zh": "变得清楚"
+        }
+      ],
+      "usage_note_zh": "名词前用「明らかな」，句末可用「明らかだ／です」；副词形式是「明らかに」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「連絡方法はまだ明らかではありません」表示联络方式尚不清楚；取清楚、明确的ナ形容词义及其否定形。",
+        "dictionary_sequences": [
+          1532310
+        ],
+        "identity": {
+          "word": "明らか",
+          "reading_hiragana": "あきらか",
+          "meaning": "明显、清楚；清楚、没有疑问"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f51eefacecd80ad1",
+      "index": 2785,
+      "word": "うわさ話(噂話)",
+      "reading_hiragana": "うわさばなし",
+      "context_meaning_zh": "传言、闲话",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "传言、闲话",
+          "meaning_ja": "人の間で話される、確かめられていない話。",
+          "example_ja": "休みが増えるといううわさ話を聞きました。",
+          "example_zh": "我听说了假期会增加的传言。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "うわさ話をする",
+          "zh": "聊传闻"
+        }
+      ],
+      "usage_note_zh": "也写作「噂話」，侧重人们谈论传闻的行为；「噂」更直接指传闻本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「うわさ話」指谈论传闻的内容或行为；消息很快传播不证明其必然虚假，所给材料没有词典条目。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "うわさ話(噂話)",
+          "reading_hiragana": "うわさばなし",
+          "meaning": "传言、闲话"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-88e6ea21ea4a0f4e",
+      "index": 2786,
+      "word": "信じる",
+      "reading_hiragana": "しんじる",
+      "context_meaning_zh": "相信、深信、信赖",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "相信、深信、信赖",
+          "meaning_ja": "聞いたことや見たことを本当だと思う。",
+          "example_ja": "彼女の説明を信じて、もう一度調べました。",
+          "example_zh": "我相信了她的说明，又调查了一遍。"
+        },
+        {
+          "meaning_zh": "信赖",
+          "meaning_ja": "相手が自分を助けてくれると思う。",
+          "example_ja": "長い間一緒に働いた同僚を信じています。",
+          "example_zh": "我信赖一起工作多年的同事。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人を信じる",
+          "zh": "相信某人"
+        }
+      ],
+      "usage_note_zh": "相信某人时对象前用「を」，引用相信的内容时用「～と信じる」；转发信息前应先核实出处。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「情報を信じる」指相信信息内容，「森さんを信じる」指信赖他人，词典列一段他动词并含两种语义。",
+        "dictionary_sequences": [
+          1359040
+        ],
+        "identity": {
+          "word": "信じる",
+          "reading_hiragana": "しんじる",
+          "meaning": "相信、深信、信赖"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-69e38e5c5f550f0b",
+      "index": 2787,
+      "word": "伝達",
+      "reading_hiragana": "でんたつ",
+      "context_meaning_zh": "传达、转达",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "传达、转达",
+          "meaning_ja": "情報や考えを、別の人や場所へ伝えること。",
+          "example_ja": "会社は変更点の伝達に時間をかけました。",
+          "example_zh": "公司花时间传达了变更内容。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "情報の伝達",
+          "zh": "信息传递"
+        }
+      ],
+      "usage_note_zh": "「伝達」比「伝える」更偏正式、名词化，常指信息在人或组织之间传递。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1442240列名词、vs、vt；信息的传达是沟通行为，词项通常用于信息或信号传递。",
+        "dictionary_sequences": [
+          1442240
+        ],
+        "identity": {
+          "word": "伝達",
+          "reading_hiragana": "でんたつ",
+          "meaning": "传达、转达"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8391a3b716019041",
+      "index": 2788,
+      "word": "動き",
+      "reading_hiragana": "うごき",
+      "context_meaning_zh": "动向",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "动向",
+          "meaning_ja": "社会や物事が変わっていく様子や方向。",
+          "example_ja": "新聞で経済の動きを確認しました。",
+          "example_zh": "我在报纸上确认了经济动向。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "社会の動き",
+          "zh": "社会动向"
+        }
+      ],
+      "usage_note_zh": "指人、社会或市场的变化趋势；「動きがある」表示出现了新的变化。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1451180含movement及trend两类名词义；系列标题「地域の動き」取地区动态／趋势义。",
+        "dictionary_sequences": [
+          1451180
+        ],
+        "identity": {
+          "word": "動き",
+          "reading_hiragana": "うごき",
+          "meaning": "动向"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-817cb08dd5edf3bd",
+      "index": 2789,
+      "word": "事件",
+      "reading_hiragana": "じけん",
+      "context_meaning_zh": "事件",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "事件",
+          "meaning_ja": "世間の注目を集める出来事。特に、問題や犯罪に関わる出来事。",
+          "example_ja": "警察は事件の目撃者を探しています。",
+          "example_zh": "警方正在寻找事件目击者。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "事件が起こる",
+          "zh": "发生事件"
+        }
+      ],
+      "usage_note_zh": "常指引发社会关注的问题或犯罪事件，语感比一般的“事情”更严重。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "警方尚不清楚原因的案件／事件，符合incident或case名词义；警方发布语境不令该词成为新闻专门词。",
+        "dictionary_sequences": [
+          1313830
+        ],
+        "identity": {
+          "word": "事件",
+          "reading_hiragana": "じけん",
+          "meaning": "事件"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d36ace53b261a395",
+      "index": 2790,
+      "word": "放送局",
+      "reading_hiragana": "ほうそうきょく",
+      "context_meaning_zh": "广播台、广播局",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "广播台、广播局",
+          "meaning_ja": "テレビやラジオの番組を作り、放送する組織。",
+          "example_ja": "放送局に電話して、番組の時間を聞きました。",
+          "example_zh": "我打电话给广播电视台，询问了节目的时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "放送局に勤める",
+          "zh": "在广播电视台工作"
+        }
+      ],
+      "usage_note_zh": "统称广播电台和电视台，指播出节目的机构，不是节目本身。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "放送局指实施广播的机构；地方电台播出更正的例句不使该机构名词专属于新闻体裁。",
+        "dictionary_sequences": [
+          1516760
+        ],
+        "identity": {
+          "word": "放送局",
+          "reading_hiragana": "ほうそうきょく",
+          "meaning": "广播台、广播局"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c5e1e32d07c440c8",
+      "index": 2791,
+      "word": "広まる",
+      "reading_hiragana": "ひろまる",
+      "context_meaning_zh": "扩大;传播",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "扩大;传播",
+          "meaning_ja": "話や習慣などが、多くの人に知られるようになる。",
+          "example_ja": "新しい遊び方が子どもたちの間に広まりました。",
+          "example_zh": "新的玩法在孩子们之间流行开来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "全国に広まる",
+          "zh": "传遍全国"
+        }
+      ],
+      "usage_note_zh": "用于传闻、想法或习惯等扩散，是自动词；由人主动传播时用他动词「広める」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "传闻迅速扩散，主语是传播内容；与他动词広める区分，词典标自五段。",
+        "dictionary_sequences": [
+          1278450
+        ],
+        "identity": {
+          "word": "広まる",
+          "reading_hiragana": "ひろまる",
+          "meaning": "扩大;传播"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7c961b0db76e36d5",
+      "index": 2792,
+      "word": "知れ渡る",
+      "reading_hiragana": "しれわたる",
+      "context_meaning_zh": "传遍、广为人知",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "传遍、广为人知",
+          "meaning_ja": "話や評判が、広い範囲の人に知られるようになる。",
+          "example_ja": "彼の親切な行いは、町の人に知れ渡りました。",
+          "example_zh": "他的善举在镇上的人们中广为人知。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "世間に知れ渡る",
+          "zh": "为世人所知"
+        }
+      ],
+      "usage_note_zh": "表示某事被广泛知晓；比「広まる」更强调知道这件事的人范围很广。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "传遍全城的说法尚须核实，表达信息广为人知；辞典标五段自動词。",
+        "dictionary_sequences": [
+          1420500
+        ],
+        "identity": {
+          "word": "知れ渡る",
+          "reading_hiragana": "しれわたる",
+          "meaning": "传遍、广为人知"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-417577b042d0e119",
+      "index": 2793,
+      "word": "小耳に挟む",
+      "reading_hiragana": "こみみにはさむ",
+      "context_meaning_zh": "偶尔听到",
+      "pos_ja": "動詞・表現・慣用句",
+      "pos_zh": "动词・表达・惯用语",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "偶尔听到",
+          "meaning_ja": "話の一部を、偶然聞く。",
+          "example_ja": "帰りの電車で、面白い話を小耳に挟みました。",
+          "example_zh": "回家的电车上，我偶然听到了一件有趣的事。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "小耳に挟む",
+          "zh": "偶然听到"
+        }
+      ],
+      "usage_note_zh": "「小耳に挟む」表示偶然听到片段，并非有意详细打听；可说「～と小耳に挟んだ」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "idiom"
+        ],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "惯用表达「小耳に挟む」指偶然听到某消息；整体是惯用语，动词部分「挟む」为五段，所听内容可作对象。",
+        "dictionary_sequences": [
+          1348240
+        ],
+        "identity": {
+          "word": "小耳に挟む",
+          "reading_hiragana": "こみみにはさむ",
+          "meaning": "偶尔听到"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5198d23644126da6",
+      "index": 2794,
+      "word": "心理学者",
+      "reading_hiragana": "しんりがくしゃ",
+      "context_meaning_zh": "心理学家",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "心理学家",
+          "meaning_ja": "人の心や行動について研究する人。",
+          "example_ja": "心理学者が、記憶の仕組みを説明しました。",
+          "example_zh": "心理学家说明了记忆的机制。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "心理学者に聞く",
+          "zh": "询问心理学家"
+        }
+      ],
+      "usage_note_zh": "指专门研究心理学的人；「心理学」研究人的心理和行为。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "节目中由心理学家解释传闻传播方式，指该职业的名词。",
+        "dictionary_sequences": [
+          1361020
+        ],
+        "identity": {
+          "word": "心理学者",
+          "reading_hiragana": "しんりがくしゃ",
+          "meaning": "心理学家"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-26481ee2687025cb",
+      "index": 2795,
+      "word": "耳にする",
+      "reading_hiragana": "みみにする",
+      "context_meaning_zh": "听到",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "听到",
+          "meaning_ja": "音や言葉が耳に入る。",
+          "example_ja": "最近、その歌をよく耳にします。",
+          "example_zh": "最近我经常听到那首歌。"
+        },
+        {
+          "meaning_zh": "得知；听说",
+          "meaning_ja": "人の話や知らせを聞いて、内容を知る。",
+          "example_ja": "友人の結婚を昨日耳にしました。",
+          "example_zh": "我昨天听说了朋友结婚的消息。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "耳にする",
+          "zh": "听到"
+        }
+      ],
+      "usage_note_zh": "表示无意间听见声音或消息；「話を耳にする」就是听说某件事。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「耳にする」是以する活用的惯用表达，表示听到某消息；例句中「中止という話を」是整体短语的对象，按短语范围标他动。",
+        "dictionary_sequences": [
+          2059550
+        ],
+        "identity": {
+          "word": "耳にする",
+          "reading_hiragana": "みみにする",
+          "meaning": "听到"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6622068d2d5bb1d9",
+      "index": 2796,
+      "word": "朝刊",
+      "reading_hiragana": "ちょうかん",
+      "context_meaning_zh": "晨报",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "晨报",
+          "meaning_ja": "朝に発行され、配達される新聞。",
+          "example_ja": "父は朝刊を読みながら朝ご飯を食べます。",
+          "example_zh": "父亲一边看晨报一边吃早饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "朝刊を読む",
+          "zh": "读晨报"
+        }
+      ],
+      "usage_note_zh": "指早晨发行或送达的报纸；傍晚发行的报纸称「夕刊」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": [
+          "news"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "朝刊是早晨发行的报纸；本句借朋友的晨报阅读，词本身专指新闻出版物。",
+        "dictionary_sequences": [
+          1428320
+        ],
+        "identity": {
+          "word": "朝刊",
+          "reading_hiragana": "ちょうかん",
+          "meaning": "晨报"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fa314a707a29a757",
+      "index": 2797,
+      "word": "書き出し",
+      "reading_hiragana": "かきだし",
+      "context_meaning_zh": "起头、开头",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "起头、开头",
+          "meaning_ja": "文章や話の最初の部分。",
+          "example_ja": "手紙の書き出しに、季節のあいさつを書きました。",
+          "example_zh": "我在信的开头写了应季问候语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "書き出しを書く",
+          "zh": "写文章开头"
+        }
+      ],
+      "usage_note_zh": "指文章开头；动词「書き出す」表示开始写，注意与名词「書き出し」区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处指文章开头部分，词典首义 opening passage 对应；学习说明明确区别动词书き出す。",
+        "dictionary_sequences": [
+          1343790
+        ],
+        "identity": {
+          "word": "書き出し",
+          "reading_hiragana": "かきだし",
+          "meaning": "起头、开头"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e9f5bd0dbf08370a",
+      "index": 2798,
+      "word": "語り手",
+      "reading_hiragana": "かたりて",
+      "context_meaning_zh": "叙述者、讲述人；影像旁白",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "叙述者、讲述人；影像旁白",
+          "meaning_ja": "物語や出来事を語る人。",
+          "example_ja": "この小説の語り手は、遠い町に住んでいます。",
+          "example_zh": "这部小说的叙述者住在遥远的城镇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "物語の語り手",
+          "zh": "故事的叙述者"
+        }
+      ],
+      "usage_note_zh": "指故事中的讲述者或叙述视角，不一定等同于现实中说话的人。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "語り手指讲述故事的人，词典也列讲述者、朗诵者；例句未限定某种文学体裁，故不标literary。",
+        "dictionary_sequences": [
+          1270970
+        ],
+        "identity": {
+          "word": "語り手",
+          "reading_hiragana": "かたりて",
+          "meaning": "叙述者、讲述人；影像旁白"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-00289f61e226bce4",
+      "index": 2799,
+      "word": "伝説",
+      "reading_hiragana": "でんせつ",
+      "context_meaning_zh": "传说",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "传说",
+          "meaning_ja": "昔から人々の間で語り継がれてきた話。",
+          "example_ja": "この湖には、竜にまつわる伝説があります。",
+          "example_zh": "关于这座湖有一个与龙有关的传说。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "古い伝説",
+          "zh": "古老的传说"
+        }
+      ],
+      "usage_note_zh": "指长期在人们之间流传的故事，不一定完全是历史事实，也可能加入想象。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "伝説指流传下来的故事、民间传统，词典也列连体修饰用法；桥的古老传说属于叙事内容，词项不限定文学体裁。",
+        "dictionary_sequences": [
+          1442100
+        ],
+        "identity": {
+          "word": "伝説",
+          "reading_hiragana": "でんせつ",
+          "meaning": "传说"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-46cd6404def07bc9",
+      "index": 2800,
+      "word": "専門家",
+      "reading_hiragana": "せんもんか",
+      "context_meaning_zh": "专家",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "专家",
+          "meaning_ja": "ある分野について深い知識や経験を持つ人。",
+          "example_ja": "機械の故障について、専門家に相談しました。",
+          "example_zh": "关于机器故障，我咨询了专家。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "専門家に相談する",
+          "zh": "向专家咨询"
+        }
+      ],
+      "usage_note_zh": "指在某个领域有深入知识或经验的人；参考专家意见时也应了解其依据。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指特定领域拥有深入知识或经验的人；本课建议就药品向专家核实依据。",
+        "dictionary_sequences": [
+          1389890
+        ],
+        "identity": {
+          "word": "専門家",
+          "reading_hiragana": "せんもんか",
+          "meaning": "专家"
+        }
+      }
+    }
+  ]
+}

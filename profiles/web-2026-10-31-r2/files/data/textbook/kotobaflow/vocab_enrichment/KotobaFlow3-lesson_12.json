@@ -1,0 +1,1899 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow3",
+  "lesson_id": "lesson_12",
+  "entries": [
+    {
+      "textbook_uid": "cfv-c480e2bccde45578",
+      "index": 3541,
+      "word": "被害",
+      "reading_hiragana": "ひがい",
+      "context_meaning_zh": "遭受损害",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "遭受损害",
+          "meaning_ja": "事故や災害によって、人や物が損なわれること。",
+          "example_ja": "地震の被害を調べています。",
+          "example_zh": "正在调查地震造成的损失。"
+        },
+        {
+          "meaning_zh": "受害；受损",
+          "meaning_ja": "人や組織が不利益を受けること。",
+          "example_ja": "だまされて金銭的な被害を受けた。",
+          "example_zh": "被骗后遭受了金钱损失。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "被害を受ける",
+          "zh": "遭受损害"
+        },
+        {
+          "ja": "被害が出る",
+          "zh": "出现损失"
+        }
+      ],
+      "usage_note_zh": "「被害を受ける」「被害が出る」常用于描述受损事实；说“被害是否存在”时可用「被害がある」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "尚未确认的其他损害作为抽象名词，词典damage义相符。",
+        "dictionary_sequences": [
+          1484350
+        ],
+        "identity": {
+          "word": "被害",
+          "reading_hiragana": "ひがい",
+          "meaning": "遭受损害"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-989897c05a296d2f",
+      "index": 3542,
+      "word": "迷惑",
+      "reading_hiragana": "めいわく",
+      "context_meaning_zh": "给人添的麻烦",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "给人添的麻烦",
+          "meaning_ja": "人の行動などが、他人に不快や不便を与えること。",
+          "example_ja": "夜遅くに電話すると、近所の人の迷惑になります。",
+          "example_zh": "深夜打电话会打扰邻居。"
+        },
+        {
+          "meaning_zh": "迷惑；困扰",
+          "meaning_ja": "自分が人の行動によって困ったり、不快に感じたりすること。",
+          "example_ja": "隣の部屋の音が大きくて、迷惑に感じました。",
+          "example_zh": "隔壁房间声音很大，我觉得受到了打扰。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "迷惑をかける",
+          "zh": "给人添麻烦"
+        },
+        {
+          "ja": "迷惑になる",
+          "zh": "成为困扰"
+        }
+      ],
+      "usage_note_zh": "「迷惑をかける」以添麻烦的人为主语；「迷惑だ」可直接说明某事令人困扰，礼貌致歉常说「ご迷惑をおかけしました」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「ご迷惑をおかけする」是向对方致歉的礼貌表达，迷惑本身可作名词、な形容词及受困扰的自动词。",
+        "dictionary_sequences": [
+          1532800
+        ],
+        "identity": {
+          "word": "迷惑",
+          "reading_hiragana": "めいわく",
+          "meaning": "给人添的麻烦"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eafcd38a58f82492",
+      "index": 3543,
+      "word": "受け取る",
+      "reading_hiragana": "うけとる",
+      "context_meaning_zh": "收取",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收取",
+          "meaning_ja": "人から渡された物を自分の手元に受け入れること。",
+          "example_ja": "受付で新しい会員証を受け取りました。",
+          "example_zh": "我在接待处领到了新的会员卡。"
+        },
+        {
+          "meaning_zh": "领会；理解",
+          "meaning_ja": "相手の言葉や気持ちを、ある意味として理解すること。",
+          "example_ja": "彼の返事を断りの意味に受け取った。",
+          "example_zh": "我把他的答复理解成了拒绝。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "荷物を受け取る",
+          "zh": "收取行李"
+        },
+        {
+          "ja": "言葉を受け取る",
+          "zh": "领会话语的意思"
+        }
+      ],
+      "usage_note_zh": "具体物品作「を」前的宾语时表示领取；对话语的“理解”义常与「意味に」等搭配，属于比喻用法。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "在印刷店领取三十张邀请函，物品作直接对象，符合五段他动词的收取义。",
+        "dictionary_sequences": [
+          1329650
+        ],
+        "identity": {
+          "word": "受け取る",
+          "reading_hiragana": "うけとる",
+          "meaning": "收取"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0c262713c892302d",
+      "index": 3544,
+      "word": "断る",
+      "reading_hiragana": "ことわる",
+      "context_meaning_zh": "拒绝",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拒绝",
+          "meaning_ja": "誘いや頼みなどを受け入れないと相手に伝えること。",
+          "example_ja": "予定があるので、食事の誘いを断りました。",
+          "example_zh": "因为已有安排，我拒绝了吃饭的邀请。"
+        },
+        {
+          "meaning_zh": "事先说明",
+          "meaning_ja": "これから行うことを前もって相手に知らせること。",
+          "example_ja": "店に入る前に、写真を撮ると断っておいた。",
+          "example_zh": "进店前，我事先说明了要拍照。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "誘いを断る",
+          "zh": "拒绝邀请"
+        },
+        {
+          "ja": "断っておく",
+          "zh": "事先说明"
+        }
+      ],
+      "usage_note_zh": "拒绝对象常用助词「を」标记；「断っておく」表示提前告知。婉拒时可加「申し訳ありませんが」缓和语气。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "因有课而拒绝前往，省略邀约作为宾语；对应五段他动词拒绝义。",
+        "dictionary_sequences": [
+          1419570
+        ],
+        "identity": {
+          "word": "断る",
+          "reading_hiragana": "ことわる",
+          "meaning": "拒绝"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c47e4bb46b308d1d",
+      "index": 3545,
+      "word": "担当",
+      "reading_hiragana": "たんとう",
+      "context_meaning_zh": "负责",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "负责",
+          "meaning_ja": "仕事や役割を引き受けて行うこと、またその役割。",
+          "example_ja": "受付は山田さんが担当します。",
+          "example_zh": "接待工作由山田负责。"
+        },
+        {
+          "meaning_zh": "主管；负责人员",
+          "meaning_ja": "ある仕事を受け持つ人。",
+          "example_ja": "この件の担当に連絡してください。",
+          "example_zh": "请联系这件事的负责人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "受付を担当する",
+          "zh": "负责接待"
+        },
+        {
+          "ja": "担当者に聞く",
+          "zh": "询问负责人"
+        }
+      ],
+      "usage_note_zh": "可作名词表示“负责人/负责的岗位”，也可用「Nを担当する」表示承担工作；具体负责人也常说「担当者」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "印刷の担当指负责印刷的人或职责；担当还可作担当する的名词词干。",
+        "dictionary_sequences": [
+          1418160
+        ],
+        "identity": {
+          "word": "担当",
+          "reading_hiragana": "たんとう",
+          "meaning": "负责"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-558cb17dd2915a1e",
+      "index": 3546,
+      "word": "希望",
+      "reading_hiragana": "きぼう",
+      "context_meaning_zh": "个人希望",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "个人希望",
+          "meaning_ja": "実現してほしいと思うことや、その内容。",
+          "example_ja": "参加を希望する方は、名前を書いてください。",
+          "example_zh": "希望参加的人请写下姓名。"
+        },
+        {
+          "meaning_zh": "希望；光明前景",
+          "meaning_ja": "将来がよい方向に進むという見込み。",
+          "example_ja": "医師は回復の希望があると話した。",
+          "example_zh": "医生说康复仍有希望。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "参加を希望する",
+          "zh": "希望参加"
+        },
+        {
+          "ja": "希望がある",
+          "zh": "有希望"
+        }
+      ],
+      "usage_note_zh": "“希望某事”常用「Nを希望する」；表示对未来抱有希望时可说「希望がある」。本课语境指本人希望，并不表示已获批准。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "个人愿望可作名词；同词例「参加を希望する」表明希望する能够支配所希望的事项。",
+        "dictionary_sequences": [
+          1219910
+        ],
+        "identity": {
+          "word": "希望",
+          "reading_hiragana": "きぼう",
+          "meaning": "个人希望"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2a713ab5a80661fa",
+      "index": 3547,
+      "word": "伺う",
+      "reading_hiragana": "うかがう",
+      "context_meaning_zh": "拜访请教的自谦",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "正式・谦让语",
+      "senses": [
+        {
+          "meaning_zh": "拜访请教的自谦",
+          "meaning_ja": "「行く」「訪問する」「聞く」をへりくだって言う語。",
+          "example_ja": "明日の午後、担当者に詳しい話を伺います。",
+          "example_zh": "明天下午我向负责人请教详细情况。"
+        },
+        {
+          "meaning_zh": "询问",
+          "meaning_ja": "相手に情報や考えを尋ねることを、へりくだって言う語。",
+          "example_ja": "念のため、開始時間を伺ってもよろしいですか。",
+          "example_zh": "为保险起见，我可以请教开始时间吗？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先生に伺う",
+          "zh": "向老师请教"
+        },
+        {
+          "ja": "お宅に伺う",
+          "zh": "登门拜访"
+        }
+      ],
+      "usage_note_zh": "「伺う」是「聞く／尋ねる／訪問する」的自谦语；用来降低说话人一方的动作，不用于抬高听话人。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [
+          "humble"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「店に伺う」是谦逊地前往对方处所，词典有call at/pay a visit并标hum；名词性地点以に标示，不改词典的他动词属性。",
+        "dictionary_sequences": [
+          1305700
+        ],
+        "identity": {
+          "word": "伺う",
+          "reading_hiragana": "うかがう",
+          "meaning": "拜访请教的自谦"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d58e68309c547c73",
+      "index": 3548,
+      "word": "申す",
+      "reading_hiragana": "もうす",
+      "context_meaning_zh": "说及自报名的自谦",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "正式・谦让语",
+      "senses": [
+        {
+          "meaning_zh": "说及自报名的自谦",
+          "meaning_ja": "自分が言うことをへりくだって表す語。",
+          "example_ja": "詳しい内容は、後ほど担当者に申し上げます。",
+          "example_zh": "详细内容稍后我会向负责人说明。"
+        },
+        {
+          "meaning_zh": "名叫；自报名",
+          "meaning_ja": "自分の名前を相手に丁寧に伝える語。",
+          "example_ja": "受付で佐藤と申します。",
+          "example_zh": "我在接待处自报姓名为佐藤。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "「～と申す」",
+          "zh": "名为……（自谦地报姓名）"
+        },
+        {
+          "ja": "田中と申します",
+          "zh": "我叫田中"
+        }
+      ],
+      "usage_note_zh": "「申す」是「言う」的自谦语；自我介绍时常用「Xと申します」，而「申される」不应用作普通尊敬语。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [
+          "humble"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "电话中自报身份使用申します，是言う的谦让形式；ます属于句末礼貌形式，humble来自词项本身。",
+        "dictionary_sequences": [
+          1363090
+        ],
+        "identity": {
+          "word": "申す",
+          "reading_hiragana": "もうす",
+          "meaning": "说及自报名的自谦"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6c19370fe47031c5",
+      "index": 3549,
+      "word": "ご覧になる",
+      "reading_hiragana": "ごらんになる",
+      "context_meaning_zh": "看的尊敬",
+      "pos_ja": "動詞・表現・丁寧形",
+      "pos_zh": "动词・表达・礼貌形式",
+      "register_zh": "正式・尊敬语",
+      "senses": [
+        {
+          "meaning_zh": "看的尊敬",
+          "meaning_ja": "相手や目上の人が見ることを高めて言う表現。",
+          "example_ja": "お客様は展示の写真をご覧になりました。",
+          "example_zh": "客人看了展览的照片。"
+        },
+        {
+          "meaning_zh": "阅读的尊敬表达",
+          "meaning_ja": "相手が文章や資料を読むことを高めて言う表現。",
+          "example_ja": "部長は報告書をご覧になります。",
+          "example_zh": "部长会阅读报告。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "資料をご覧になる",
+          "zh": "看资料（尊敬表达）"
+        },
+        {
+          "ja": "こちらをご覧ください",
+          "zh": "请看这里"
+        }
+      ],
+      "usage_note_zh": "「ご覧になる」用于尊敬对方的“看/读”；请求时常说「ご覧ください」。避免再叠加「れる」说成「ご覧になられる」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "polite_form"
+        ],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [
+          "honorific"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "JMdict 2217040所列尊敬义适合询问对方是否看原稿；原稿を作宾语，礼貌性来自固定尊敬表达。",
+        "dictionary_sequences": [
+          2217040
+        ],
+        "identity": {
+          "word": "ご覧になる",
+          "reading_hiragana": "ごらんになる",
+          "meaning": "看的尊敬"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aa6787ceb41bf0a1",
+      "index": 3550,
+      "word": "申し込む",
+      "reading_hiragana": "もうしこむ",
+      "context_meaning_zh": "报名、申请",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "报名、申请",
+          "meaning_ja": "参加や利用などをしたいと相手に伝え、手続きをすること。",
+          "example_ja": "講座に申し込む人は、今週中にフォームを送ってください。",
+          "example_zh": "报名讲座的人请在本周内提交表格。"
+        },
+        {
+          "meaning_zh": "提出申请",
+          "meaning_ja": "希望する内容を相手に伝えて、許可や対応を求めること。",
+          "example_ja": "会場の変更を申し込みました。",
+          "example_zh": "我申请更换会场。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "講座に申し込む",
+          "zh": "报名讲座"
+        },
+        {
+          "ja": "変更を申し込む",
+          "zh": "申请变更"
+        }
+      ],
+      "usage_note_zh": "报名活动常用「Nに申し込む」，提出某项申请可用「変更を申し込む」等；「申込書」是申请表。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "申请印刷用申し込む表示提出申请，申请内容可作を对象；当前句中原稿只是寄送物。",
+        "dictionary_sequences": [
+          1362890
+        ],
+        "identity": {
+          "word": "申し込む",
+          "reading_hiragana": "もうしこむ",
+          "meaning": "报名、申请"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e960a2312ee08289",
+      "index": 3551,
+      "word": "相談",
+      "reading_hiragana": "そうだん",
+      "context_meaning_zh": "商量",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "商量",
+          "meaning_ja": "問題を解決するために、人と話し合うこと。",
+          "example_ja": "困ったときは、家族に相談してください。",
+          "example_zh": "遇到困难时请和家人商量。"
+        },
+        {
+          "meaning_zh": "咨询；请教",
+          "meaning_ja": "知識や経験のある人に意見や助言を求めること。",
+          "example_ja": "進学について先生に相談しました。",
+          "example_zh": "我就升学问题向老师咨询了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "友人に相談する",
+          "zh": "和朋友商量"
+        },
+        {
+          "ja": "専門家に相談する",
+          "zh": "向专家咨询"
+        }
+      ],
+      "usage_note_zh": "商量对象用「に」表示；讨论的主题用「Nについて相談する」。相比「話す」，「相談する」含有寻求意见或帮助的意思。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示通过电话商量，词典支持名词及する他动词；日常电话内容不使词汇专属口语。",
+        "dictionary_sequences": [
+          1401210
+        ],
+        "identity": {
+          "word": "相談",
+          "reading_hiragana": "そうだん",
+          "meaning": "商量"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-30c6b035d2bf70ea",
+      "index": 3552,
+      "word": "日程",
+      "reading_hiragana": "にってい",
+      "context_meaning_zh": "日程",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日程",
+          "meaning_ja": "行事や仕事をいつ行うか決めた予定。",
+          "example_ja": "会議の日程をメールで送りました。",
+          "example_zh": "我用邮件发出了会议日程。"
+        },
+        {
+          "meaning_zh": "日程安排",
+          "meaning_ja": "複数の予定を順に組み立てた計画。",
+          "example_ja": "出張の日程に合わせてホテルを予約した。",
+          "example_zh": "我按照出差日程预订了酒店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日程を決める",
+          "zh": "决定日程"
+        },
+        {
+          "ja": "日程を確認する",
+          "zh": "确认日程"
+        }
+      ],
+      "usage_note_zh": "「日程」指日期及其安排；具体某一天可说「日程」，时间点或钟点则用「時間」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "印刷与领取时间安排尚未决定，日程指办理计划或时间表，符合schedule义。",
+        "dictionary_sequences": [
+          1464300
+        ],
+        "identity": {
+          "word": "日程",
+          "reading_hiragana": "にってい",
+          "meaning": "日程"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-da2b87cccc6852d6",
+      "index": 3553,
+      "word": "目的",
+      "reading_hiragana": "もくてき",
+      "context_meaning_zh": "行动目的",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "行动目的",
+          "meaning_ja": "何かをすることで達成しようとすること。",
+          "example_ja": "この会議の目的は、作業の順番を決めることです。",
+          "example_zh": "这次会议的目的是决定工作的顺序。"
+        },
+        {
+          "meaning_zh": "目的；目标",
+          "meaning_ja": "行動や計画で目指している到達点。",
+          "example_ja": "目的を決めてから、必要な準備を始めた。",
+          "example_zh": "确定目标后，我开始做必要的准备。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "目的を説明する",
+          "zh": "说明目的"
+        },
+        {
+          "ja": "目的を達成する",
+          "zh": "达成目的"
+        }
+      ],
+      "usage_note_zh": "「目的」强调行动想要达到的结果；常用「Nの目的」「目的を達成する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "核对下一步由谁做什么，是提案试图达到的目的。",
+        "dictionary_sequences": [
+          1535560
+        ],
+        "identity": {
+          "word": "目的",
+          "reading_hiragana": "もくてき",
+          "meaning": "行动目的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b5fcb8f830bc4ad5",
+      "index": 3554,
+      "word": "途中",
+      "reading_hiragana": "とちゅう",
+      "context_meaning_zh": "途中、半途",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "途中、半途",
+          "meaning_ja": "ある場所へ行く間、または物事が終わるまでの間。",
+          "example_ja": "駅へ行く途中で、忘れ物に気づきました。",
+          "example_zh": "去车站的路上，我发现忘带东西了。"
+        },
+        {
+          "meaning_zh": "进行到一半",
+          "meaning_ja": "仕事や話などが終わる前の段階。",
+          "example_ja": "説明の途中で質問してもかまいません。",
+          "example_zh": "说明过程中提问也没关系。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "帰る途中",
+          "zh": "回去的路上"
+        },
+        {
+          "ja": "話の途中",
+          "zh": "谈话过程中"
+        }
+      ],
+      "usage_note_zh": "地点路线可说「Nへ行く途中」，事情尚未结束时可说「Nの途中」。本课「途中でも」表示即使事情仍在进行，也会联系。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "即使在过程中也会联系，表达行动尚未完成的阶段；词典支持途中及中途义。",
+        "dictionary_sequences": [
+          1582200
+        ],
+        "identity": {
+          "word": "途中",
+          "reading_hiragana": "とちゅう",
+          "meaning": "途中、半途"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5f2672e0e889c322",
+      "index": 3555,
+      "word": "今後",
+      "reading_hiragana": "こんご",
+      "context_meaning_zh": "今后",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "今后",
+          "meaning_ja": "今より後の時期。",
+          "example_ja": "今後は、連絡の内容を必ず記録します。",
+          "example_zh": "今后我一定会记录联络内容。"
+        },
+        {
+          "meaning_zh": "今后；此后",
+          "meaning_ja": "これから先に続く期間や方針を表す語。",
+          "example_ja": "今後の予定は、来週もう一度確認します。",
+          "example_zh": "今后的安排下周再确认一次。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "今後の予定",
+          "zh": "今后的安排"
+        },
+        {
+          "ja": "今後も続ける",
+          "zh": "今后也继续"
+        }
+      ],
+      "usage_note_zh": "可修饰名词「今後の予定」，也可置于句首作时间副词；指从现在往后的时期，不等同于具体的「将来」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "今後も置于句首表示从当前往后的时间，词典亦列名词与副词两类。",
+        "dictionary_sequences": [
+          1289140
+        ],
+        "identity": {
+          "word": "今後",
+          "reading_hiragana": "こんご",
+          "meaning": "今后"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-49cf13be49b10a01",
+      "index": 3556,
+      "word": "苦情",
+      "reading_hiragana": "くじょう",
+      "context_meaning_zh": "投诉",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "投诉",
+          "meaning_ja": "不満や不快に感じたことを相手に伝えること。",
+          "example_ja": "商品に傷があったため、店に苦情を伝えた。",
+          "example_zh": "因为商品有划痕，我向店里提出了投诉。"
+        },
+        {
+          "meaning_zh": "抱怨",
+          "meaning_ja": "不満な気持ちを言葉にして相手に示すこと。",
+          "example_ja": "彼は待ち時間が長いと苦情を言った。",
+          "example_zh": "他抱怨等待时间太长。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "苦情を伝える",
+          "zh": "提出投诉"
+        },
+        {
+          "ja": "苦情を受け付ける",
+          "zh": "受理投诉"
+        }
+      ],
+      "usage_note_zh": "「苦情を言う／伝える」表示提出不满；「苦情の記録」只是投诉记录，不代表责任或原因已查明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "苦情指向对方表达不满或提出投诉，可用于店铺处理也可用于邻里噪音等日常场景；不限定商务体裁。",
+        "dictionary_sequences": [
+          1244520
+        ],
+        "identity": {
+          "word": "苦情",
+          "reading_hiragana": "くじょう",
+          "meaning": "投诉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8ff3f962705d004f",
+      "index": 3557,
+      "word": "記録",
+      "reading_hiragana": "きろく",
+      "context_meaning_zh": "记录",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "记录",
+          "meaning_ja": "後で確かめられるように、事実や内容を書き残すこと。",
+          "example_ja": "電話の時間と相手の名前を記録しました。",
+          "example_zh": "我记录了通话时间和对方姓名。"
+        },
+        {
+          "meaning_zh": "记录；纪录",
+          "meaning_ja": "調査や競技などで残された事実や数値。",
+          "example_ja": "この記録には、連絡した時間も書いてあります。",
+          "example_zh": "这份记录里也写有联系时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "内容を記録する",
+          "zh": "记录内容"
+        },
+        {
+          "ja": "記録を残す",
+          "zh": "留下记录"
+        }
+      ],
+      "usage_note_zh": "「記録する」是把信息记下来；「記録を読む」中的「記録」指留下的书面记录。是否涉及正式证明要看具体材料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「昨日の記録を読む」中的记录是被阅读的资料名词；词典支持记载动作作为サ变他动兼类。",
+        "dictionary_sequences": [
+          1223440
+        ],
+        "identity": {
+          "word": "記録",
+          "reading_hiragana": "きろく",
+          "meaning": "记录"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8d4efdb8f57282b1",
+      "index": 3558,
+      "word": "立場",
+      "reading_hiragana": "たちば",
+      "context_meaning_zh": "所处立场",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "所处立场",
+          "meaning_ja": "その人が置かれている状況や役割。",
+          "example_ja": "相手の立場を考えて、言い方を選びましょう。",
+          "example_zh": "考虑对方的处境，选择合适的说法吧。"
+        },
+        {
+          "meaning_zh": "观点；立场",
+          "meaning_ja": "ある問題について、その人がどのように考えるかという位置。",
+          "example_ja": "同じ立場から話し合うと、意見がまとまりやすい。",
+          "example_zh": "从相同立场进行讨论，意见更容易统一。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "相手の立場",
+          "zh": "对方的立场"
+        },
+        {
+          "ja": "立場を考える",
+          "zh": "考虑处境"
+        }
+      ],
+      "usage_note_zh": "「相手の立場を考える」关注对方的处境；讨论观点时也可用「賛成の立場」等说法。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "相手の立場を考える指考虑对方的处境或观点，立場是を提示的名词宾语。",
+        "dictionary_sequences": [
+          1551710
+        ],
+        "identity": {
+          "word": "立場",
+          "reading_hiragana": "たちば",
+          "meaning": "所处立场"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-384abbe38da5778a",
+      "index": 3559,
+      "word": "意思",
+      "reading_hiragana": "いし",
+      "context_meaning_zh": "本人意愿",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "本人意愿",
+          "meaning_ja": "何かをしようとする自分の考えや気持ち。",
+          "example_ja": "本人の意思を確認してから、手続きを始めます。",
+          "example_zh": "确认本人的意愿后再开始办理。"
+        },
+        {
+          "meaning_zh": "意志；决心",
+          "meaning_ja": "自分で決めたことを実行しようとする気持ち。",
+          "example_ja": "彼女は最後まで続ける強い意思を持っている。",
+          "example_zh": "她有坚持到底的坚定意志。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意思を伝える",
+          "zh": "表达意愿"
+        },
+        {
+          "ja": "意思を確認する",
+          "zh": "确认意愿"
+        }
+      ],
+      "usage_note_zh": "「意思」常指本人作出的意愿或决定；「意見」是对事情的看法，两者不要混用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句中的意思与希望并列，指个人意愿；词典对应意向义，未体现特殊语体。",
+        "dictionary_sequences": [
+          1156610
+        ],
+        "identity": {
+          "word": "意思",
+          "reading_hiragana": "いし",
+          "meaning": "本人意愿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9f8f0eb4d976f589",
+      "index": 3560,
+      "word": "敬語",
+      "reading_hiragana": "けいご",
+      "context_meaning_zh": "敬语",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "敬语",
+          "meaning_ja": "相手や話題の人に敬意を表すための言葉遣い。",
+          "example_ja": "電話では、相手に合わせた敬語を使います。",
+          "example_zh": "打电话时使用符合对方身份的敬语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "敬語を使う",
+          "zh": "使用敬语"
+        },
+        {
+          "ja": "敬語で話す",
+          "zh": "用敬语交谈"
+        }
+      ],
+      "usage_note_zh": "敬语是表达尊敬、谦让或礼貌的语言形式；对客户说话时通常要注意称呼和动词表达。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处在课堂中讨论敬语术语，但词条本身是普通语言概念名词；课堂来源不构成教育体裁依据。",
+        "dictionary_sequences": [
+          1250750
+        ],
+        "identity": {
+          "word": "敬語",
+          "reading_hiragana": "けいご",
+          "meaning": "敬语"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6ae4ff2f3575429e",
+      "index": 3561,
+      "word": "礼儀",
+      "reading_hiragana": "れいぎ",
+      "context_meaning_zh": "礼节",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "礼节",
+          "meaning_ja": "人と接するときに守るべき、相手への配慮を表す行動。",
+          "example_ja": "訪問するときは、時間を守るのも礼儀です。",
+          "example_zh": "登门拜访时，守时也是一种礼节。"
+        },
+        {
+          "meaning_zh": "礼貌；礼仪",
+          "meaning_ja": "社会や場面に応じた、正しい振る舞い方。",
+          "example_ja": "食事の礼儀について、子どもに教えました。",
+          "example_zh": "我教孩子餐桌礼仪。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "礼儀を守る",
+          "zh": "遵守礼节"
+        },
+        {
+          "ja": "礼儀正しい人",
+          "zh": "有礼貌的人"
+        }
+      ],
+      "usage_note_zh": "「礼儀を守る」强调遵守礼节；「礼儀正しい」描述举止得体。礼仪会随场合变化，不等于单纯使用敬语。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "遵守礼节并考虑对方立场，礼儀指人际行为规范；“礼节”不只是使用敬语。",
+        "dictionary_sequences": [
+          1557470
+        ],
+        "identity": {
+          "word": "礼儀",
+          "reading_hiragana": "れいぎ",
+          "meaning": "礼节"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-98d637df9377972c",
+      "index": 3562,
+      "word": "書類",
+      "reading_hiragana": "しょるい",
+      "context_meaning_zh": "书面材料",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "书面材料",
+          "meaning_ja": "手続きや仕事で使う、文字や情報が書かれた紙や電子データ。",
+          "example_ja": "申請に必要な書類をそろえました。",
+          "example_zh": "我备齐了申请所需的材料。"
+        },
+        {
+          "meaning_zh": "文件",
+          "meaning_ja": "契約や証明などに使う、正式な文書。",
+          "example_ja": "住所が変わったので、書類の住所を直した。",
+          "example_zh": "因为地址变了，我修改了文件上的地址。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "書類を確認する",
+          "zh": "确认文件"
+        },
+        {
+          "ja": "必要な書類",
+          "zh": "必要的材料"
+        }
+      ],
+      "usage_note_zh": "「書類」泛指手续或工作中使用的书面材料；多份时常用「書類をそろえる」。口头说明则不称为書類。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "请比较其他文件并核对地址，所指为可供核查的书面材料。",
+        "dictionary_sequences": [
+          1344200
+        ],
+        "identity": {
+          "word": "書類",
+          "reading_hiragana": "しょるい",
+          "meaning": "书面材料"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-efc9a62aa0c311e7",
+      "index": 3563,
+      "word": "返信",
+      "reading_hiragana": "へんしん",
+      "context_meaning_zh": "回复邮件",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "回复邮件",
+          "meaning_ja": "受け取ったメールや連絡に対して返事をすること。",
+          "example_ja": "お問い合わせのメールには、明日返信します。",
+          "example_zh": "咨询邮件我明天回复。"
+        },
+        {
+          "meaning_zh": "回信；答复",
+          "meaning_ja": "手紙や質問などに対して返す言葉や連絡。",
+          "example_ja": "返事を待っていますが、まだ返信がありません。",
+          "example_zh": "我在等答复，但还没有回复。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "メールに返信する",
+          "zh": "回复邮件"
+        },
+        {
+          "ja": "返信を待つ",
+          "zh": "等待回复"
+        }
+      ],
+      "usage_note_zh": "邮件对象用「に」标记：「メールに返信する」。名词可指回复这一行为或收到的答复，电话答复也可用，但本课语境是资料收到后的回复。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "收到资料后返信表示答复；可作名词或サ变动词，词典兼列vt、vi，具体对象承接已收联系。",
+        "dictionary_sequences": [
+          1512240
+        ],
+        "identity": {
+          "word": "返信",
+          "reading_hiragana": "へんしん",
+          "meaning": "回复邮件"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1589d3c384b5b204",
+      "index": 3564,
+      "word": "段階",
+      "reading_hiragana": "だんかい",
+      "context_meaning_zh": "阶段",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "阶段",
+          "meaning_ja": "物事が進む過程を区切った、その時点や部分。",
+          "example_ja": "準備の段階で、連絡先を二人で確認しました。",
+          "example_zh": "在准备阶段，我们两人确认了联系方式。"
+        },
+        {
+          "meaning_zh": "阶段；步骤",
+          "meaning_ja": "計画を進めるときの順序の一つ。",
+          "example_ja": "次の段階に進む前に、結果を共有します。",
+          "example_zh": "进入下一阶段前先共享结果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "初めの段階",
+          "zh": "初期阶段"
+        },
+        {
+          "ja": "次の段階に進む",
+          "zh": "进入下一阶段"
+        }
+      ],
+      "usage_note_zh": "「今の段階では」表示截至当前进展；它描述事情发展的阶段，不直接判断内容最终是否属实。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「今の段階」表示目前阶段，符合词典stage/step义。",
+        "dictionary_sequences": [
+          1419950
+        ],
+        "identity": {
+          "word": "段階",
+          "reading_hiragana": "だんかい",
+          "meaning": "阶段"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-53509c17573a2a0f",
+      "index": 3565,
+      "word": "経過",
+      "reading_hiragana": "けいか",
+      "context_meaning_zh": "时间过程经过",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "时间过程经过",
+          "meaning_ja": "時間が過ぎることや、物事が進んでいく様子。",
+          "example_ja": "調査の経過を、午後にメールで報告します。",
+          "example_zh": "我下午会用邮件报告调查进展。"
+        },
+        {
+          "meaning_zh": "经过；病情变化",
+          "meaning_ja": "ある出来事が始まってから現在までの状況や変化。",
+          "example_ja": "治療後の経過を医師に伝えました。",
+          "example_zh": "我向医生说明了治疗后的情况。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "経過を報告する",
+          "zh": "报告经过"
+        },
+        {
+          "ja": "時間の経過",
+          "zh": "时间流逝"
+        }
+      ],
+      "usage_note_zh": "「経過を知らせる／報告する」说明事情发展到目前的情况；描述时间流逝时常用「時間の経過」。本课指事故联络事项的进展。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「経過を知らせる」将进展情况作名词宾语；词典也收录经过、进展的サ变及自他用法。",
+        "dictionary_sequences": [
+          1251250
+        ],
+        "identity": {
+          "word": "経過",
+          "reading_hiragana": "けいか",
+          "meaning": "时间过程经过"
+        }
+      }
+    }
+  ]
+}

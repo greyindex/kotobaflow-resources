@@ -1,0 +1,5193 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_01",
+  "entries": [
+    {
+      "textbook_uid": "cfv-77a445f36571dea3",
+      "index": 882,
+      "word": "思う",
+      "reading_hiragana": "おもう",
+      "context_meaning_zh": "认为、觉得",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "认为、觉得",
+          "meaning_ja": "頭の中である判断や意見を持つ。",
+          "example_ja": "この料理は少し塩辛いと思います。",
+          "example_zh": "我觉得这道菜有点咸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "～と思う",
+          "zh": "认为……"
+        }
+      ],
+      "usage_note_zh": "接普通形后表达判断；「～と思います」语气较委婉。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "没有桌子，所以认为中心较好；思う表达判断内容，词典列五段他动词。",
+        "dictionary_sequences": [
+          1589350
+        ],
+        "identity": {
+          "word": "思う",
+          "reading_hiragana": "おもう",
+          "meaning": "认为、觉得"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-df6f79d73e6a635a",
+      "index": 883,
+      "word": "言う",
+      "reading_hiragana": "いう",
+      "context_meaning_zh": "说",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "说",
+          "meaning_ja": "言葉を使って考えや情報を相手に伝える。",
+          "example_ja": "母は「急がなくてもいい」と言いました。",
+          "example_zh": "妈妈说：“不用着急。”"
+        },
+        {
+          "meaning_zh": "称作；说成",
+          "meaning_ja": "物や人をある名前や種類で呼ぶ。",
+          "example_ja": "この花は日本語で「桜」と言います。",
+          "example_zh": "这种花日语叫作“樱花”。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "名前を言う",
+          "zh": "说出名字"
+        }
+      ],
+      "usage_note_zh": "引用内容可用「～と言う」表示所说的话。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "森先生在聊天中提出六月十四日读书会的建议，言う是传达引用内容的五段他动词；句尾礼貌不属于词项属性。",
+        "dictionary_sequences": [
+          1587040
+        ],
+        "identity": {
+          "word": "言う",
+          "reading_hiragana": "いう",
+          "meaning": "说"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-09e71186aabbb7b6",
+      "index": 884,
+      "word": "考える",
+      "reading_hiragana": "かんがえる",
+      "context_meaning_zh": "思考",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "思考",
+          "meaning_ja": "情報をもとに、答えや方法を頭の中で探す。",
+          "example_ja": "旅行の日程を一緒に考えましょう。",
+          "example_zh": "一起考虑旅行日程吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "方法を考える",
+          "zh": "考虑办法"
+        }
+      ],
+      "usage_note_zh": "「～について考える」也可表示思索某个主题。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一段他动词，表示思考地点；場所を作为思考内容宾语，符合词典think about义。",
+        "dictionary_sequences": [
+          1281020
+        ],
+        "identity": {
+          "word": "考える",
+          "reading_hiragana": "かんがえる",
+          "meaning": "思考"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1c274de73af0f3bc",
+      "index": 885,
+      "word": "意見",
+      "reading_hiragana": "いけん",
+      "context_meaning_zh": "意见",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "意见",
+          "meaning_ja": "あることについて、その人が正しいと思う考え。",
+          "example_ja": "会議の前に、意見を紙に書いてください。",
+          "example_zh": "请在会议前把意见写在纸上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意見を述べる",
+          "zh": "陈述意见"
+        }
+      ],
+      "usage_note_zh": "「意見」是对事情的看法；「感想」多指亲身体验后的感受。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「私個人の意見」为个人看法名词；词典同词另收批评义サ变词用法。",
+        "dictionary_sequences": [
+          1156530
+        ],
+        "identity": {
+          "word": "意見",
+          "reading_hiragana": "いけん",
+          "meaning": "意见"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fe2c685b13b5fe10",
+      "index": 886,
+      "word": "賛成",
+      "reading_hiragana": "さんせい",
+      "context_meaning_zh": "赞成",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "赞成",
+          "meaning_ja": "提案や考えに同意し、それをよいと認めること。",
+          "example_ja": "その計画に賛成する人は手を挙げてください。",
+          "example_zh": "赞成那个计划的人请举手。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "賛成する",
+          "zh": "赞成"
+        }
+      ],
+      "usage_note_zh": "常用「～に賛成する」；表示赞同对象用「に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "賛成しました表示赞同，主语木村作支持者；词典兼名词与サ变自動词。",
+        "dictionary_sequences": [
+          1304200
+        ],
+        "identity": {
+          "word": "賛成",
+          "reading_hiragana": "さんせい",
+          "meaning": "赞成"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-74966bc6d7b78817",
+      "index": 887,
+      "word": "反対",
+      "reading_hiragana": "はんたい",
+      "context_meaning_zh": "反对",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "反对",
+          "meaning_ja": "考えや提案に同意せず、別の考えを持つこと。",
+          "example_ja": "値上げには反対です。",
+          "example_zh": "我反对涨价。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "反対する",
+          "zh": "反对"
+        }
+      ],
+      "usage_note_zh": "「～に反対する」表示反对某事；「反対側」则指对面一侧。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "反对理由以名词修饰，词典兼有反対する自サ变及な形容词属性。",
+        "dictionary_sequences": [
+          1480670
+        ],
+        "identity": {
+          "word": "反対",
+          "reading_hiragana": "はんたい",
+          "meaning": "反对"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3461693285c64646",
+      "index": 888,
+      "word": "理由",
+      "reading_hiragana": "りゆう",
+      "context_meaning_zh": "理由",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "理由",
+          "meaning_ja": "ある行動や考えが生まれた原因やわけ。",
+          "example_ja": "遅れた理由を先生に説明しました。",
+          "example_zh": "我向老师说明了迟到的原因。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "理由を説明する",
+          "zh": "说明理由"
+        }
+      ],
+      "usage_note_zh": "可用「～理由」连接说明对象，如「休む理由」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "提出反对的理由作为を格对象，取支持判断或行为的根据义。",
+        "dictionary_sequences": [
+          1550140
+        ],
+        "identity": {
+          "word": "理由",
+          "reading_hiragana": "りゆう",
+          "meaning": "理由"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aaf992ab434de46d",
+      "index": 889,
+      "word": "本当",
+      "reading_hiragana": "ほんとう",
+      "context_meaning_zh": "真实",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "真实",
+          "meaning_ja": "うそや間違いではなく、事実に合っていること。",
+          "example_ja": "その話が本当かどうか、本人に聞きました。",
+          "example_zh": "我问了本人那件事是不是真的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "本当の話",
+          "zh": "真实的事情"
+        }
+      ],
+      "usage_note_zh": "「本当ですか」常用于确认或表示惊讶；名词前接「本当の」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「本当ですか」作真实性判断，「本当の」作连体修饰；词项兼有名词和ナ形容词用法。",
+        "dictionary_sequences": [
+          1523060
+        ],
+        "identity": {
+          "word": "本当",
+          "reading_hiragana": "ほんとう",
+          "meaning": "真实"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4aa2a0dcce9037ed",
+      "index": 890,
+      "word": "うそ",
+      "reading_hiragana": "うそ",
+      "context_meaning_zh": "谎话",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "谎话",
+          "meaning_ja": "事実と違うことを、わざと本当のように言うこと。",
+          "example_ja": "弟は宿題をしたと言ったが、うそだった。",
+          "example_zh": "弟弟说做了作业，其实是撒谎。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "うそをつく",
+          "zh": "撒谎"
+        }
+      ],
+      "usage_note_zh": "「うそです」也可用于轻松地收回刚才的话；不等于普通的错误。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "JMdict 1172400 的名词谎言义与本课义、学习例相合；口语中可单独作感叹，但本条义项是谎话名词。",
+        "dictionary_sequences": [
+          1172400
+        ],
+        "identity": {
+          "word": "うそ",
+          "reading_hiragana": "うそ",
+          "meaning": "谎话"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9b1e1ee4bda3bfee",
+      "index": 891,
+      "word": "連絡",
+      "reading_hiragana": "れんらく",
+      "context_meaning_zh": "联系",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "联系",
+          "meaning_ja": "必要な情報を人に知らせたり、人と連絡を取り合ったりすること。",
+          "example_ja": "駅に着いたら、私に連絡してください。",
+          "example_zh": "到了车站后请联系我。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電話で連絡する",
+          "zh": "打电话联系"
+        }
+      ],
+      "usage_note_zh": "「人に連絡する」表示联系某人；「連絡がある」表示收到消息。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "通过电话传递信息是联系义；本句省略联系对象，词典及词项均支持サ变自他兼用。",
+        "dictionary_sequences": [
+          1559900
+        ],
+        "identity": {
+          "word": "連絡",
+          "reading_hiragana": "れんらく",
+          "meaning": "联系"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e1c58f2cd62b4f00",
+      "index": 892,
+      "word": "返事",
+      "reading_hiragana": "へんじ",
+      "context_meaning_zh": "回复",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "回复",
+          "meaning_ja": "質問や手紙、連絡に対して返す言葉や反応。",
+          "example_ja": "メールを送りましたが、まだ返事がありません。",
+          "example_zh": "我发了邮件，但还没有回复。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "返事を書く",
+          "zh": "写回信"
+        }
+      ],
+      "usage_note_zh": "「返事をする」指作出答复；「返信」更常用于邮件、消息。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "尚未收到的答复为名词用法；词典列自动サ变，当前句只描述回复尚未出现。",
+        "dictionary_sequences": [
+          1512220
+        ],
+        "identity": {
+          "word": "返事",
+          "reading_hiragana": "へんじ",
+          "meaning": "回复"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-480d6e737963509a",
+      "index": 893,
+      "word": "相談",
+      "reading_hiragana": "そうだん",
+      "context_meaning_zh": "商量",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "商量",
+          "meaning_ja": "困りごとや決めたいことを人に話し、意見や助けを求めること。",
+          "example_ja": "進学について、担任の先生に相談しました。",
+          "example_zh": "我就升学一事向班主任老师请教了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先生に相談する",
+          "zh": "向老师商量"
+        }
+      ],
+      "usage_note_zh": "「人に相談する」中的「に」标出请教对象。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指下一次读书会的讨论事项，作为名词；词典也支持する动词用法。",
+        "dictionary_sequences": [
+          1401210
+        ],
+        "identity": {
+          "word": "相談",
+          "reading_hiragana": "そうだん",
+          "meaning": "商量"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e7bbefad75136cc8",
+      "index": 894,
+      "word": "伝える",
+      "reading_hiragana": "つたえる",
+      "context_meaning_zh": "传达",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "传达",
+          "meaning_ja": "情報や気持ちを、言葉などで相手に知らせる。",
+          "example_ja": "会議の時間が変わったことを全員に伝えました。",
+          "example_zh": "我把会议时间变更的事通知了所有人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人に伝える",
+          "zh": "告诉某人"
+        }
+      ],
+      "usage_note_zh": "传递的信息用「を」，接收者用「に」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「伝える」是一段他动词，「意見を」标出要传达的内容；句尾「ください」属于整句的礼貌请求。",
+        "dictionary_sequences": [
+          1441870
+        ],
+        "identity": {
+          "word": "伝える",
+          "reading_hiragana": "つたえる",
+          "meaning": "传达"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6de064ab288431eb",
+      "index": 895,
+      "word": "決める",
+      "reading_hiragana": "きめる",
+      "context_meaning_zh": "决定",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "决定",
+          "meaning_ja": "いくつかの中から選び、そうすると定める。",
+          "example_ja": "昼ご飯の場所はみんなで決めましょう。",
+          "example_zh": "午饭地点大家一起决定吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日を決める",
+          "zh": "定日期"
+        }
+      ],
+      "usage_note_zh": "决定内容作「を」的宾语；「決まる」是不及物的“定下来”。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "全体成员共同决定地点，場所为决定对象。",
+        "dictionary_sequences": [
+          1254180
+        ],
+        "identity": {
+          "word": "決める",
+          "reading_hiragana": "きめる",
+          "meaning": "决定"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e4df7ac7992a2e9d",
+      "index": 896,
+      "word": "知らせる",
+      "reading_hiragana": "しらせる",
+      "context_meaning_zh": "通知",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "通知",
+          "meaning_ja": "人に情報を伝え、知ってもらう。",
+          "example_ja": "結果は来週、電話で知らせます。",
+          "example_zh": "结果下周通过电话通知。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人に知らせる",
+          "zh": "通知某人"
+        }
+      ],
+      "usage_note_zh": "接收者用「に」，告知的内容可用「を」或「こと」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "知らせる为一段他动词，明天确认后通知对方；受通知内容或对象依上下文补出。",
+        "dictionary_sequences": [
+          1420410
+        ],
+        "identity": {
+          "word": "知らせる",
+          "reading_hiragana": "しらせる",
+          "meaning": "通知"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b6a84ceb06ca30b9",
+      "index": 897,
+      "word": "確か",
+      "reading_hiragana": "たしか",
+      "context_meaning_zh": "我记得／大概是（凭记忆回想，带保留）",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "我记得／大概是（凭记忆回想，带保留）",
+          "meaning_ja": "記憶にはあるが、完全には自信がないときに言う。",
+          "example_ja": "確か、店は駅の向かいにありました。",
+          "example_zh": "我记得那家店在车站对面。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "確か～だった",
+          "zh": "我记得是……"
+        }
+      ],
+      "usage_note_zh": "句首「確か」表示回想且留有余地；「確かな情報」则是可靠的信息。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句首副词「確か」表示说话人凭记忆回想并保留判断；该用法可用于交谈或叙述，例句的口语外观不足以限定媒介。",
+        "dictionary_sequences": [
+          1596930
+        ],
+        "identity": {
+          "word": "確か",
+          "reading_hiragana": "たしか",
+          "meaning": "我记得／大概是（凭记忆回想，带保留）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2b30be9fc4a50d5e",
+      "index": 898,
+      "word": "たぶん",
+      "reading_hiragana": "たぶん",
+      "context_meaning_zh": "大概",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大概",
+          "meaning_ja": "十分な確信はないが、そうなる可能性が高いと考える。",
+          "example_ja": "電車が遅れているので、到着はたぶん九時ごろです。",
+          "example_zh": "电车晚点了，抵达时间大概是九点左右。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "たぶん～だろう",
+          "zh": "大概会……"
+        }
+      ],
+      "usage_note_zh": "常与「と思う」「でしょう」等共现，表示不确定推测。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「たぶん涼しいと思います」是推测副词用法；同一词典的数量义与本条无关。",
+        "dictionary_sequences": [
+          1407980
+        ],
+        "identity": {
+          "word": "たぶん",
+          "reading_hiragana": "たぶん",
+          "meaning": "大概"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7c5b35cacc6d0e5e",
+      "index": 899,
+      "word": "きっと",
+      "reading_hiragana": "きっと",
+      "context_meaning_zh": "一定、相信会",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一定、相信会",
+          "meaning_ja": "話し手が強くそうなると信じている様子を表す。",
+          "example_ja": "毎日練習すれば、きっと上手になります。",
+          "example_zh": "每天练习的话，一定会进步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "きっと～でしょう",
+          "zh": "一定会……"
+        }
+      ],
+      "usage_note_zh": "表示较强信心；比「たぶん」把握更大，但不是客观保证。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「きっと楽しいと思います」是确信副词修饰判断内容；词典其他严厉、紧绷义与课程身份无关。",
+        "dictionary_sequences": [
+          1003430
+        ],
+        "identity": {
+          "word": "きっと",
+          "reading_hiragana": "きっと",
+          "meaning": "一定、相信会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e594f0fca241dc68",
+      "index": 900,
+      "word": "発言",
+      "reading_hiragana": "はつげん",
+      "context_meaning_zh": "发言",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发言",
+          "meaning_ja": "会議や話し合いで、自分の考えを言葉にして述べること。",
+          "example_ja": "質問がある方は、発言の前に名前をお願いします。",
+          "example_zh": "有问题的人发言前请先报上姓名。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "発言する",
+          "zh": "发言"
+        }
+      ],
+      "usage_note_zh": "用于正式或有秩序的讨论场合；一般交谈可用「話す」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "该词既可指发言内容，也可构成サ变动词；词典标自他两用，本条例句为发言内容名词或不及物的发言行为。",
+        "dictionary_sequences": [
+          1477350
+        ],
+        "identity": {
+          "word": "発言",
+          "reading_hiragana": "はつげん",
+          "meaning": "发言"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-131ace3e5c131cd2",
+      "index": 901,
+      "word": "話題",
+      "reading_hiragana": "わだい",
+      "context_meaning_zh": "话题",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "话题",
+          "meaning_ja": "会話や文章で取り上げている事柄。",
+          "example_ja": "旅行の話題で、友人と長く話しました。",
+          "example_zh": "我和朋友围绕旅行的话题聊了很久。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "話題になる",
+          "zh": "成为话题"
+        }
+      ],
+      "usage_note_zh": "「話題にする」表示主动谈起某事；「話題になる」表示受到讨论。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「別の話題」中话题是会话主题名词，词典的热门、时髦修饰义不适用。",
+        "dictionary_sequences": [
+          1562400
+        ],
+        "identity": {
+          "word": "話題",
+          "reading_hiragana": "わだい",
+          "meaning": "话题"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b8d6215475244b60",
+      "index": 902,
+      "word": "提案",
+      "reading_hiragana": "ていあん",
+      "context_meaning_zh": "提议",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "提议",
+          "meaning_ja": "よいと思う案を出し、検討してもらうこと。",
+          "example_ja": "会場を図書館にする案を提案しました。",
+          "example_zh": "我提议把会场设在图书馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "改善案を提案する",
+          "zh": "提出改进方案"
+        }
+      ],
+      "usage_note_zh": "「案を提案する」中提出的内容用「を」表示。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "提案する是提出方案的サ变他动，记录上月做同一提案也显示名词搭配。",
+        "dictionary_sequences": [
+          1436320
+        ],
+        "identity": {
+          "word": "提案",
+          "reading_hiragana": "ていあん",
+          "meaning": "提议"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2914b0fa300f7903",
+      "index": 903,
+      "word": "感想",
+      "reading_hiragana": "かんそう",
+      "context_meaning_zh": "感想",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "感想",
+          "meaning_ja": "何かを見たり経験したりしたあとに感じたこと。",
+          "example_ja": "映画を見た感想を友達と話しました。",
+          "example_zh": "我和朋友聊了看电影后的感想。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "感想を書く",
+          "zh": "写感想"
+        }
+      ],
+      "usage_note_zh": "常见于书、电影、活动之后；与基于论证的「意見」侧重点不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此次要写的是感想，感想指对事物的感受或意见；后续书く不是该词条动词。",
+        "dictionary_sequences": [
+          1212480
+        ],
+        "identity": {
+          "word": "感想",
+          "reading_hiragana": "かんそう",
+          "meaning": "感想"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0f9180d5801321b0",
+      "index": 904,
+      "word": "個人",
+      "reading_hiragana": "こじん",
+      "context_meaning_zh": "个人",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "个人",
+          "meaning_ja": "集団ではなく、一人一人の人を指す。",
+          "example_ja": "この部屋は個人でも利用できます。",
+          "example_zh": "这个房间个人也可以使用。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "個人の意見",
+          "zh": "个人意见"
+        }
+      ],
+      "usage_note_zh": "常作名词前修饰语「個人の～」；不表示某人的私密信息。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "私個人の意見意为我个人的意见，個人作名词修饰语；词典中personal等释义不使其成为ナ形容词。",
+        "dictionary_sequences": [
+          1264770
+        ],
+        "identity": {
+          "word": "個人",
+          "reading_hiragana": "こじん",
+          "meaning": "个人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-eb8a038e965e1b41",
+      "index": 905,
+      "word": "全員",
+      "reading_hiragana": "ぜんいん",
+      "context_meaning_zh": "全体成员",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "全体成员",
+          "meaning_ja": "その場や集団に属する人のすべて。",
+          "example_ja": "参加者は全員、入口で名前を書きました。",
+          "example_zh": "所有参加者都在入口处写了名字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "全員が集まる",
+          "zh": "全员到齐"
+        }
+      ],
+      "usage_note_zh": "表示集合成员全体；后续助词依句子结构用「が」「で」等。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "全员で五人说明全体人数，词兼名词和全体地的副词性用法。",
+        "dictionary_sequences": [
+          1394840
+        ],
+        "identity": {
+          "word": "全員",
+          "reading_hiragana": "ぜんいん",
+          "meaning": "全体成员"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-abefe50d4eae6089",
+      "index": 906,
+      "word": "別",
+      "reading_hiragana": "べつ",
+      "context_meaning_zh": "另外、不同",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "另外、不同",
+          "meaning_ja": "同じものではないこと、または別のもの。",
+          "example_ja": "この二つは色が別です。",
+          "example_zh": "这两个颜色不同。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "別の方法",
+          "zh": "其他方法"
+        }
+      ],
+      "usage_note_zh": "修饰名词时用「別の」；「別に」常与否定呼应，表示并不特别……。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「別の話題」表示另一个话题；別可作名词及ナ形修饰语，当前是连体修饰。",
+        "dictionary_sequences": [
+          1509430
+        ],
+        "identity": {
+          "word": "別",
+          "reading_hiragana": "べつ",
+          "meaning": "另外、不同"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bcadb63a53f113ec",
+      "index": 907,
+      "word": "直接",
+      "reading_hiragana": "ちょくせつ",
+      "context_meaning_zh": "直接",
+      "pos_ja": "名詞・ナ形容詞・副詞",
+      "pos_zh": "名词・な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "直接",
+          "meaning_ja": "間に人や物を置かず、相手や場所にそのまま向かう様子。",
+          "example_ja": "分からないことは、担当者に直接聞いてください。",
+          "example_zh": "不明白的事情请直接问负责人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "直接会う",
+          "zh": "直接见面"
+        }
+      ],
+      "usage_note_zh": "作副词时修饰动词；也可说「直接の原因」作名词修饰语。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「直接」修饰听取意见表示亲自听；词典兼列名词、形容动词和副词，です句尾礼貌不属于词项。",
+        "dictionary_sequences": [
+          1431110
+        ],
+        "identity": {
+          "word": "直接",
+          "reading_hiragana": "ちょくせつ",
+          "meaning": "直接"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7e6a2035af7fc19e",
+      "index": 908,
+      "word": "はっきり",
+      "reading_hiragana": "はっきり",
+      "context_meaning_zh": "清楚地",
+      "pos_ja": "動詞・副詞・オノマトペ",
+      "pos_zh": "动词・副词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "清楚地",
+          "meaning_ja": "形や声、考えなどが明瞭で、よく分かる様子。",
+          "example_ja": "小さい声でも、はっきり話してください。",
+          "example_zh": "声音小也没关系，请说清楚。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "はっきり見える",
+          "zh": "看得清楚"
+        }
+      ],
+      "usage_note_zh": "可描述感官清晰，也可说「はっきり答える」表示明确作答。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "verb",
+          "adverb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「理由がはっきりしています」描述状态明确，兼有副词和不及物「はっきりする」用法；不据「ます」标敬语。",
+        "dictionary_sequences": [
+          1010150
+        ],
+        "identity": {
+          "word": "はっきり",
+          "reading_hiragana": "はっきり",
+          "meaning": "清楚地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5396e0ece6ec1d66",
+      "index": 909,
+      "word": "なるほど",
+      "reading_hiragana": "なるほど",
+      "context_meaning_zh": "表示理解、原来如此",
+      "pos_ja": "副詞・感動詞",
+      "pos_zh": "副词・感叹词",
+      "register_zh": "中性・亲昵",
+      "senses": [
+        {
+          "meaning_zh": "表示理解、原来如此",
+          "meaning_ja": "説明を聞いて、その内容が分かったと示す言葉。",
+          "example_ja": "なるほど、先に予約が必要なんですね。",
+          "example_zh": "原来如此，得先预约啊。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "なるほど、そうですね",
+          "zh": "原来如此，是这样啊"
+        }
+      ],
+      "usage_note_zh": "用于听懂或接受解释；不适合单独代替正式答复或承诺。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "adverb",
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "familiar"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「なるほど」单独回应表示听懂或接受说明，词典兼列感叹回应和副词用法；此例取会话回应。",
+        "dictionary_sequences": [
+          1375820
+        ],
+        "identity": {
+          "word": "なるほど",
+          "reading_hiragana": "なるほど",
+          "meaning": "表示理解、原来如此"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0d7de54b80246ccc",
+      "index": 910,
+      "word": "それぞれ",
+      "reading_hiragana": "それぞれ",
+      "context_meaning_zh": "各自",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "各自",
+          "meaning_ja": "一つ一つ、または人ごとに分けて考える様子。",
+          "example_ja": "二人はそれぞれ違う道を選びました。",
+          "example_zh": "两个人各自选择了不同的道路。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "それぞれの考え",
+          "zh": "各自的想法"
+        }
+      ],
+      "usage_note_zh": "名词前可接「の」；副词用法常直接修饰动作或分配结果。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「それぞれの意見」中修饰名词，表示各个成员分别对应；词典兼列副词和名词，此处语境偏连体限定。",
+        "dictionary_sequences": [
+          1596690
+        ],
+        "identity": {
+          "word": "それぞれ",
+          "reading_hiragana": "それぞれ",
+          "meaning": "各自"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f46ad9ca59876397",
+      "index": 911,
+      "word": "メッセージ",
+      "reading_hiragana": "メッセージ",
+      "context_meaning_zh": "消息",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "消息",
+          "meaning_ja": "人に伝える短い言葉や文章。",
+          "example_ja": "出発する前に、家族へメッセージを送りました。",
+          "example_zh": "出发前我给家人发了消息。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "メッセージを送る",
+          "zh": "发送消息"
+        }
+      ],
+      "usage_note_zh": "可指手机、网络中的短讯，也可泛指传达的内容。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表示收到的消息；作为宾语被阅读，词典义可涵盖短讯及传达内容。",
+        "dictionary_sequences": [
+          1133570
+        ],
+        "identity": {
+          "word": "メッセージ",
+          "reading_hiragana": "メッセージ",
+          "meaning": "消息"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7ddbd0f35d84ea34",
+      "index": 912,
+      "word": "チャット",
+      "reading_hiragana": "チャット",
+      "context_meaning_zh": "在线聊天",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "在线聊天",
+          "meaning_ja": "インターネット上で、短い文を送り合って会話すること。",
+          "example_ja": "授業のあと、友達とチャットで予定を決めました。",
+          "example_zh": "下课后我和朋友通过在线聊天决定了安排。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "チャットで話す",
+          "zh": "在线聊天"
+        }
+      ],
+      "usage_note_zh": "「チャットで」表示交流方式；与面对面交谈的「会話」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "网络文字聊天可作名词和チャットする；词典标サ变自/非及物动词，例句只用「チャットで」作交流方式。",
+        "dictionary_sequences": [
+          1077940
+        ],
+        "identity": {
+          "word": "チャット",
+          "reading_hiragana": "チャット",
+          "meaning": "在线聊天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4faaf347d6d7cea0",
+      "index": 913,
+      "word": "確認",
+      "reading_hiragana": "かくにん",
+      "context_meaning_zh": "确认",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "确认",
+          "meaning_ja": "間違いがないか、事実や内容を確かめること。",
+          "example_ja": "出かける前に、窓が閉まっているか確認しました。",
+          "example_zh": "出门前我确认了窗户是否关好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "予定を確認する",
+          "zh": "确认安排"
+        }
+      ],
+      "usage_note_zh": "「～か確認する」可接需要核实的内容。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "明日确认后告知，具体内容省略；词典支持确认作为他动サ变名词。",
+        "dictionary_sequences": [
+          1205900
+        ],
+        "identity": {
+          "word": "確認",
+          "reading_hiragana": "かくにん",
+          "meaning": "确认"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e975f37b5dd78b0a",
+      "index": 914,
+      "word": "そうですか",
+      "reading_hiragana": "そうですか",
+      "context_meaning_zh": "(表示轻微的感动或惊讶)是么",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性・礼貌语",
+      "senses": [
+        {
+          "meaning_zh": "(表示轻微的感动或惊讶)是么",
+          "meaning_ja": "相手の話を聞いて、理解したり軽く驚いたりしたと示す言葉。",
+          "example_ja": "そうですか。それなら、午後に行きます。",
+          "example_zh": "这样啊。那我下午去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "そうですか、分かりました",
+          "zh": "这样啊，我明白了"
+        }
+      ],
+      "usage_note_zh": "语气随声调而变；平缓表示听到了，升调可显惊讶，也可能显得冷淡。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "polite"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「そうですか」是回应对方信息的固定表达；句中ですか带礼貌语气，口语声调可表达理解或轻微惊讶。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "そうですか",
+          "reading_hiragana": "そうですか",
+          "meaning": "(表示轻微的感动或惊讶)是么"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-874ffeb855083da6",
+      "index": 915,
+      "word": "あっ",
+      "reading_hiragana": "あっ",
+      "context_meaning_zh": "(表示吃惊、感叹等)啊、呀、哎呀",
+      "pos_ja": "感動詞",
+      "pos_zh": "感叹词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "(表示吃惊、感叹等)啊、呀、哎呀",
+          "meaning_ja": "何かに気づいたり、驚いたりした瞬間に出る声。",
+          "example_ja": "あっ、傘を電車に忘れました。",
+          "example_zh": "啊，我把伞忘在电车上了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "あっ、そうだ",
+          "zh": "啊，对了"
+        }
+      ],
+      "usage_note_zh": "常置于句首，表示刚发现、想起或受到惊吓；写作中较少使用。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "短促的「あっ」表示突然注意或惊讶；本条句首惊叹用法属口语。",
+        "dictionary_sequences": [
+          2394370
+        ],
+        "identity": {
+          "word": "あっ",
+          "reading_hiragana": "あっ",
+          "meaning": "(表示吃惊、感叹等)啊、呀、哎呀"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-155614f4e6c8d90a",
+      "index": 916,
+      "word": "凄い",
+      "reading_hiragana": "すごい",
+      "context_meaning_zh": "非常、厉害的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "非常、厉害的",
+          "meaning_ja": "能力や状態が普通より非常に大きいと感じる様子。",
+          "example_ja": "一日でこの絵を描いたんですか。すごいですね。",
+          "example_zh": "你一天就画了这幅画吗？真厉害。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "すごい景色",
+          "zh": "壮观的景色"
+        }
+      ],
+      "usage_note_zh": "口语中也作程度副词「すごく」；书写常用假名「すごい」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "单独的すごいですね表示强烈赞叹，符合词典great/amazing义；课程说明常写假名且口语也有程度副词形式。",
+        "dictionary_sequences": [
+          1374550
+        ],
+        "identity": {
+          "word": "凄い",
+          "reading_hiragana": "すごい",
+          "meaning": "非常、厉害的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-944fe49aae5a5d8a",
+      "index": 917,
+      "word": "しかし",
+      "reading_hiragana": "しかし",
+      "context_meaning_zh": "可是、但是",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "可是、但是",
+          "meaning_ja": "前の内容と反対のことや、予想と違うことを続ける言葉。",
+          "example_ja": "準備はできました。しかし、まだ出発できません。",
+          "example_zh": "准备已经做好了，但是还不能出发。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "しかしながら",
+          "zh": "然而"
+        }
+      ],
+      "usage_note_zh": "连接前后句，语气比「でも」正式；通常放句首。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句首连接前后内容并表达逆接；本课说明其语气较「でも」正式，作为书面偏正式连接词。",
+        "dictionary_sequences": [
+          1505990
+        ],
+        "identity": {
+          "word": "しかし",
+          "reading_hiragana": "しかし",
+          "meaning": "可是、但是"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-55f639aac1441b9b",
+      "index": 918,
+      "word": "素晴らしい",
+      "reading_hiragana": "すばらしい",
+      "context_meaning_zh": "极好",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "极好",
+          "meaning_ja": "質や出来がとてもよく、心からよいと感じる様子。",
+          "example_ja": "舞台の最後の歌声は素晴らしかったです。",
+          "example_zh": "舞台最后的歌声非常精彩。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "素晴らしい経験",
+          "zh": "很棒的经历"
+        }
+      ],
+      "usage_note_zh": "用于积极评价；过去形为「素晴らしかった」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "素晴らしい是い形容词，表达极好、令人赞叹；词典列wonderful等义，句子评价事物。",
+        "dictionary_sequences": [
+          1397300
+        ],
+        "identity": {
+          "word": "素晴らしい",
+          "reading_hiragana": "すばらしい",
+          "meaning": "极好"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-999b8e05e8248dd1",
+      "index": 919,
+      "word": "本当に",
+      "reading_hiragana": "ほんとうに",
+      "context_meaning_zh": "的确、实在",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "的确、实在",
+          "meaning_ja": "事実であることを確かめたり、気持ちを強く表したりする言葉。",
+          "example_ja": "この店のパンは本当においしいです。",
+          "example_zh": "这家店的面包真的很好吃。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "本当にありがとう",
+          "zh": "真的谢谢你"
+        }
+      ],
+      "usage_note_zh": "修饰句子或形容词；可表“确实”，也常用于加强感叹。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本当に修饰「いい」，在此表达对公园令人愉快的确切感受；一般程度副词。",
+        "dictionary_sequences": [
+          1611580
+        ],
+        "identity": {
+          "word": "本当に",
+          "reading_hiragana": "ほんとうに",
+          "meaning": "的确、实在"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6d9033a6f5b1b816",
+      "index": 920,
+      "word": "ああ",
+      "reading_hiragana": "ああ",
+      "context_meaning_zh": "(表示感叹)啊",
+      "pos_ja": "感動詞",
+      "pos_zh": "感叹词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(表示感叹)啊",
+          "meaning_ja": "気づきや納得、感動などを声に出して表す言葉。",
+          "example_ja": "ああ、ここに鍵があったんですね。",
+          "example_zh": "啊，原来钥匙在这里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ああ、分かりました",
+          "zh": "啊，我明白了"
+        }
+      ],
+      "usage_note_zh": "语调影响情绪；与「あっ」相比，常表示延长的感叹或回应。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条义项明确标作感叹的「ああ」，例句以感叹开头；与同形远称副词条分开审定。",
+        "dictionary_sequences": [
+          1565440
+        ],
+        "identity": {
+          "word": "ああ",
+          "reading_hiragana": "ああ",
+          "meaning": "(表示感叹)啊"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4ced5ff2bd91ba34",
+      "index": 921,
+      "word": "ところで",
+      "reading_hiragana": "ところで",
+      "context_meaning_zh": "(转变话题)可是",
+      "pos_ja": "接続詞",
+      "pos_zh": "连词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(转变话题)可是",
+          "meaning_ja": "今までの話から離れて、新しい話を始める言葉。",
+          "example_ja": "ところで、明日の集合時間を決めましたか。",
+          "example_zh": "对了，明天的集合时间定了吗？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ところで、…",
+          "zh": "对了，……"
+        }
+      ],
+      "usage_note_zh": "句首用于转入新话题，通常译作“对了”；不要与表示转折的「しかし」混淆。",
+      "pos": {
+        "primary": "conjunction",
+        "classes": [
+          "conjunction"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句首用来离开前话题并引入新话题；当前义对应词典conj义，不取让步助词义。",
+        "dictionary_sequences": [
+          1343110
+        ],
+        "identity": {
+          "word": "ところで",
+          "reading_hiragana": "ところで",
+          "meaning": "(转变话题)可是"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a140f10d03d2c76b",
+      "index": 922,
+      "word": "勿論",
+      "reading_hiragana": "もちろん",
+      "context_meaning_zh": "当然、不言而喻",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "当然、不言而喻",
+          "meaning_ja": "当然そうだと考えていることを強く表す言葉。",
+          "example_ja": "もちろん、資料を持って行きます。",
+          "example_zh": "当然，我会带资料去。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "もちろんです",
+          "zh": "当然"
+        }
+      ],
+      "usage_note_zh": "常用于答应或确认；书写也常用假名「もちろん」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "单独「もちろん」作为肯定回应，表示当然、自然；词典支持副词义。",
+        "dictionary_sequences": [
+          1535780
+        ],
+        "identity": {
+          "word": "勿論",
+          "reading_hiragana": "もちろん",
+          "meaning": "当然、不言而喻"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b377060ab70493ea",
+      "index": 923,
+      "word": "驚く",
+      "reading_hiragana": "おどろく",
+      "context_meaning_zh": "吃惊、惊讶",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吃惊、惊讶",
+          "meaning_ja": "予想していなかったことに出会い、強い反応をする。",
+          "example_ja": "急に名前を呼ばれて驚きました。",
+          "example_zh": "突然被叫到名字，我吓了一跳。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "知らせに驚く",
+          "zh": "对消息感到惊讶"
+        }
+      ],
+      "usage_note_zh": "引起惊讶的事情常用「に」标示；「驚かす」是使别人吃惊。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「驚く」为五段カ行自动词，惊讶或受惊义；独立过去式例句表达受到惊吓，符合辞书义。",
+        "dictionary_sequences": [
+          1238680
+        ],
+        "identity": {
+          "word": "驚く",
+          "reading_hiragana": "おどろく",
+          "meaning": "吃惊、惊讶"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7aad68927317cd1a",
+      "index": 924,
+      "word": "ずっと",
+      "reading_hiragana": "ずっと",
+      "context_meaning_zh": "一直",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一直",
+          "meaning_ja": "ある状態や動作が長い間続く様子。",
+          "example_ja": "妹は子どものころからずっとこの町に住んでいます。",
+          "example_zh": "妹妹从小时候起就一直住在这个镇上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ずっと待つ",
+          "zh": "一直等"
+        }
+      ],
+      "usage_note_zh": "也可表示程度或距离相差很大，如「こちらのほうがずっと安い」；本课句义为持续。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "课文语境「ずっと、外の読書会はいいと思っています」表达持续以来的看法，取持续义而非比较程度或距离义。",
+        "dictionary_sequences": [
+          1006380
+        ],
+        "identity": {
+          "word": "ずっと",
+          "reading_hiragana": "ずっと",
+          "meaning": "一直"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-07ca3851da6c25be",
+      "index": 925,
+      "word": "内容",
+      "reading_hiragana": "ないよう",
+      "context_meaning_zh": "内容",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "内容",
+          "meaning_ja": "文章、話、計画などに含まれている事柄。",
+          "example_ja": "説明書の内容をよく読んでください。",
+          "example_zh": "请仔细阅读说明书的内容。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "内容を確認する",
+          "zh": "确认内容"
+        }
+      ],
+      "usage_note_zh": "可用于文章、谈话、计划等；不表示外在形式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "要求说明详细内容，内容指事项所包含的信息或实质。",
+        "dictionary_sequences": [
+          1459400
+        ],
+        "identity": {
+          "word": "内容",
+          "reading_hiragana": "ないよう",
+          "meaning": "内容"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e8fdb7b5b87e093e",
+      "index": 926,
+      "word": "焼く",
+      "reading_hiragana": "やく",
+      "context_meaning_zh": "烤；烧；烧制",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "烤；烧；烧制",
+          "meaning_ja": "火や熱を使って食べ物を加熱し、表面に焼き色をつける。",
+          "example_ja": "魚を弱火でゆっくり焼きます。",
+          "example_zh": "用小火慢慢烤鱼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "パンを焼く",
+          "zh": "烤面包"
+        }
+      ],
+      "usage_note_zh": "烹饪义常以食物作「を」宾语；也可表示烧制陶器或烘烤糕点。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "食物作烤制对象，陶器作烧制对象；均为把材料加热处理的五段他动词用法。",
+        "dictionary_sequences": [
+          1350600
+        ],
+        "identity": {
+          "word": "焼く",
+          "reading_hiragana": "やく",
+          "meaning": "烤；烧；烧制"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e577ddda05de73c2",
+      "index": 927,
+      "word": "煮る",
+      "reading_hiragana": "にる",
+      "context_meaning_zh": "煮、炖",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "煮、炖",
+          "meaning_ja": "食材を汁や水に入れ、火にかけて柔らかくしたり味を含ませたりする。",
+          "example_ja": "野菜をスープで煮ました。",
+          "example_zh": "我用汤汁炖了蔬菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "豆を煮る",
+          "zh": "煮豆子"
+        }
+      ],
+      "usage_note_zh": "和「茹でる」相比，「煮る」常让食材吸收汤汁或调味。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "煮る为一段他动词，例句中だし和みりん加入后以省略的食材为煮制对象；词典vt吻合。",
+        "dictionary_sequences": [
+          1322540
+        ],
+        "identity": {
+          "word": "煮る",
+          "reading_hiragana": "にる",
+          "meaning": "煮、炖"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-24fbbe615ab56aa1",
+      "index": 928,
+      "word": "伝える",
+      "reading_hiragana": "つたえる",
+      "context_meaning_zh": "传达、告诉；传授",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "传达、告诉；传授",
+          "meaning_ja": "情報や技術を相手に分かるように渡す。",
+          "example_ja": "先輩が後輩に仕事の手順を伝えました。",
+          "example_zh": "前辈把工作步骤传授给了后辈。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "技術を伝える",
+          "zh": "传授技术"
+        }
+      ],
+      "usage_note_zh": "人用「に」表示接收者，内容用「を」；本词与前条同形同读，意义依语境扩展。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "烹饪书将技术传授给读者，技术为を宾语、读者为に接收者。",
+        "dictionary_sequences": [
+          1441870
+        ],
+        "identity": {
+          "word": "伝える",
+          "reading_hiragana": "つたえる",
+          "meaning": "传达、告诉；传授"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-148a665a53f3bebd",
+      "index": 929,
+      "word": "話",
+      "reading_hiragana": "はなし",
+      "context_meaning_zh": "说话、话语；故事",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "说话、话语；故事",
+          "meaning_ja": "人が話す言葉や、出来事をまとめた内容。",
+          "example_ja": "祖父は若いころの話をよくしてくれます。",
+          "example_zh": "祖父常给我讲他年轻时的故事。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "話をする",
+          "zh": "交谈"
+        }
+      ],
+      "usage_note_zh": "可指谈话内容或故事；「話す」是动词“说”。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "话可指谈话内容或主题；料理の話写在博客、森さんの話を聞く分别印证主题和谈话内容名词义。",
+        "dictionary_sequences": [
+          1600900
+        ],
+        "identity": {
+          "word": "話",
+          "reading_hiragana": "はなし",
+          "meaning": "说话、话语；故事"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1dd6dcabfb009366",
+      "index": 930,
+      "word": "やり取り",
+      "reading_hiragana": "やりとり",
+      "context_meaning_zh": "互相交换；来回问答",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "互相交换；来回问答",
+          "meaning_ja": "人と人が言葉や物を互いに渡したり受け取ったりすること。",
+          "example_ja": "店員と何度かメールのやり取りをしました。",
+          "example_zh": "我和店员通过邮件往来沟通了几次。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "言葉のやり取り",
+          "zh": "言语交流"
+        }
+      ],
+      "usage_note_zh": "强调双方来回沟通；书写、消息或物品均可。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "消息互相交换的名词义，也可作やり取りする；例句以「メッセージの」标明交换对象，词典标注vt。",
+        "dictionary_sequences": [
+          1012940
+        ],
+        "identity": {
+          "word": "やり取り",
+          "reading_hiragana": "やりとり",
+          "meaning": "互相交换；来回问答"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cf49638951b63181",
+      "index": 931,
+      "word": "油",
+      "reading_hiragana": "あぶら",
+      "context_meaning_zh": "油",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "油",
+          "meaning_ja": "水に溶けにくく、料理や機械などに使う液体。",
+          "example_ja": "サラダに油を少しかけました。",
+          "example_zh": "在沙拉上淋了一点油。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "油を引く",
+          "zh": "抹油"
+        }
+      ],
+      "usage_note_zh": "烹饪中常与「を入れる」「を引く」搭配；也可指石油等燃料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "炒菜前将油放入锅中，油为食用油这一物质名词；句中作为操作对象。",
+        "dictionary_sequences": [
+          1538590
+        ],
+        "identity": {
+          "word": "油",
+          "reading_hiragana": "あぶら",
+          "meaning": "油"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aa6f3e92a08cf433",
+      "index": 932,
+      "word": "アイディア",
+      "reading_hiragana": "アイディア",
+      "context_meaning_zh": "主意、想法",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "主意、想法",
+          "meaning_ja": "問題を解決したり、何かを作ったりするために思いついた考え。",
+          "example_ja": "余った野菜を使うアイディアを教えてください。",
+          "example_zh": "请告诉我利用剩余蔬菜的点子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "アイディアが浮かぶ",
+          "zh": "想到主意"
+        }
+      ],
+      "usage_note_zh": "常写作「アイデア」；表示创意方案，不只是一般意见。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "料理书被称为好主意，取创意、设想义；JMdict对应普通名词，例句未呈现サ变。",
+        "dictionary_sequences": [
+          1014210
+        ],
+        "identity": {
+          "word": "アイディア",
+          "reading_hiragana": "アイディア",
+          "meaning": "主意、想法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5cecfe0130eafac0",
+      "index": 933,
+      "word": "詳しい",
+      "reading_hiragana": "くわしい",
+      "context_meaning_zh": "详细的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "详细的",
+          "meaning_ja": "細かいところまでよく知っている、または説明が十分に細かい。",
+          "example_ja": "この町の地図には詳しい道順が載っています。",
+          "example_zh": "这座城镇的地图上记载了详细路线。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "詳しい説明",
+          "zh": "详细说明"
+        }
+      ],
+      "usage_note_zh": "人に詳しい可表示熟悉某领域；「詳しい内容」表示细节充分。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「詳しい内容」要求详细内容，符合词典detailed义的い形容词用法。",
+        "dictionary_sequences": [
+          1351730
+        ],
+        "identity": {
+          "word": "詳しい",
+          "reading_hiragana": "くわしい",
+          "meaning": "详细的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-64871f85b265227e",
+      "index": 934,
+      "word": "玉葱",
+      "reading_hiragana": "たまねぎ",
+      "context_meaning_zh": "洋葱",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "洋葱",
+          "meaning_ja": "丸い形で、何枚もの薄い層になった野菜。",
+          "example_ja": "玉葱を薄く切って、サラダに入れました。",
+          "example_zh": "我把洋葱切薄后放进了沙拉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "玉葱を切る",
+          "zh": "切洋葱"
+        }
+      ],
+      "usage_note_zh": "常见写法「玉ねぎ」；烹饪时可生食，也可加热。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句中玉葱是与猪肉同炒的蔬菜名词，词典对应洋葱义。",
+        "dictionary_sequences": [
+          1240670
+        ],
+        "identity": {
+          "word": "玉葱",
+          "reading_hiragana": "たまねぎ",
+          "meaning": "洋葱"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8e27a47f5488beb2",
+      "index": 935,
+      "word": "もも肉",
+      "reading_hiragana": "ももにく",
+      "context_meaning_zh": "腿肉",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "腿肉",
+          "meaning_ja": "鶏や豚などの脚の上部から取った肉。",
+          "example_ja": "鶏のもも肉を一口大に切ります。",
+          "example_zh": "把鸡腿肉切成一口大小。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鶏もも肉",
+          "zh": "鸡腿肉"
+        }
+      ],
+      "usage_note_zh": "常说「鶏もも肉」「豚もも肉」；指肉的部位，不限于鸡肉。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "烹饪句中与洋葱并列入锅炒制，明确是动物腿部肉；采用词典的肉类义，不涉及楼梯或火腿延伸义。",
+        "dictionary_sequences": [
+          1811340
+        ],
+        "identity": {
+          "word": "もも肉",
+          "reading_hiragana": "ももにく",
+          "meaning": "腿肉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d1254558da5e6c89",
+      "index": 936,
+      "word": "鍋",
+      "reading_hiragana": "なべ",
+      "context_meaning_zh": "锅",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "锅",
+          "meaning_ja": "食材を入れて火にかける、深さのある調理器具。",
+          "example_ja": "大きな鍋でスープを作りました。",
+          "example_zh": "我用大锅做了汤。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鍋に入れる",
+          "zh": "放进锅里"
+        }
+      ],
+      "usage_note_zh": "「鍋」也指多人围桌吃的火锅料理；本课为烹调器具义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "锅中放油炒洋葱和腿肉，明确指烹饪器具义；不采用火锅菜肴义。",
+        "dictionary_sequences": [
+          1459720
+        ],
+        "identity": {
+          "word": "鍋",
+          "reading_hiragana": "なべ",
+          "meaning": "锅"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-07b1ea022226767a",
+      "index": 937,
+      "word": "炒める",
+      "reading_hiragana": "いためる",
+      "context_meaning_zh": "炒、熘",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "炒、熘",
+          "meaning_ja": "食材を油とともに熱した鍋で動かしながら加熱する。",
+          "example_ja": "切った野菜を三分ほど炒めてください。",
+          "example_zh": "请把切好的蔬菜翻炒三分钟左右。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "野菜を炒める",
+          "zh": "炒蔬菜"
+        }
+      ],
+      "usage_note_zh": "食材用「を」；常与「油で」「強火で」等方式成分搭配。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "洋葱和腿肉作为炒制食材，を标记直接对象；词典为一段及物烹调动词。",
+        "dictionary_sequences": [
+          1568920
+        ],
+        "identity": {
+          "word": "炒める",
+          "reading_hiragana": "いためる",
+          "meaning": "炒、熘"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ef97a2e0fe56add5",
+      "index": 938,
+      "word": "グリーンピース",
+      "reading_hiragana": "グリーンピース",
+      "context_meaning_zh": "青豌豆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "青豌豆",
+          "meaning_ja": "熟す前に収穫した、丸くて緑色のえんどう豆。",
+          "example_ja": "ご飯にグリーンピースを混ぜました。",
+          "example_zh": "我把青豌豆拌进了米饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "グリーンピースを加える",
+          "zh": "加入青豌豆"
+        }
+      ],
+      "usage_note_zh": "通常指去荚后的青豌豆粒；不泛指所有绿色蔬菜。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "烹饪句中指食用青豌豆；词典另列的组织名 Greenpeace 与本条原义无关。",
+        "dictionary_sequences": [
+          1047020
+        ],
+        "identity": {
+          "word": "グリーンピース",
+          "reading_hiragana": "グリーンピース",
+          "meaning": "青豌豆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-36606f3067b3b250",
+      "index": 939,
+      "word": "だし",
+      "reading_hiragana": "だし",
+      "context_meaning_zh": "高汤、汤底",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "高汤、汤底",
+          "meaning_ja": "昆布や魚などからうま味を引き出した、料理の基礎になる汁。",
+          "example_ja": "だしを取ってから、味噌を溶かします。",
+          "example_zh": "先熬好高汤，再化开味噌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "だしを取る",
+          "zh": "熬高汤"
+        }
+      ],
+      "usage_note_zh": "可由昆布、鲣鱼等材料提取；和调味后的「スープ」范围不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "加味醂后炖煮明确取食品高汤义，排除祭典花车及借口义；JMdict食品领域条目为名词。",
+        "dictionary_sequences": [
+          1339160
+        ],
+        "identity": {
+          "word": "だし",
+          "reading_hiragana": "だし",
+          "meaning": "高汤、汤底"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2c27845232abe811",
+      "index": 940,
+      "word": "みりん",
+      "reading_hiragana": "みりん",
+      "context_meaning_zh": "味醂（日式甜味调味酒）",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "味醂（日式甜味调味酒）",
+          "meaning_ja": "米などから作られ、料理に甘みやつやを加える日本の調味料。",
+          "example_ja": "煮物にみりんを少し加えました。",
+          "example_zh": "我在炖菜里加了一点味醂。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "みりんを加える",
+          "zh": "加入味醂"
+        }
+      ],
+      "usage_note_zh": "常与酱油等用于日式烹调；虽由酒类原料制成，此处指调味料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "味醂是烹调使用的甜味调味酒，例句与高汤同入锅炖煮，属于普通食品名词。",
+        "dictionary_sequences": [
+          1527080
+        ],
+        "identity": {
+          "word": "みりん",
+          "reading_hiragana": "みりん",
+          "meaning": "味醂（日式甜味调味酒）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c21c75a87c2e0955",
+      "index": 941,
+      "word": "出来上がる",
+      "reading_hiragana": "できあがる",
+      "context_meaning_zh": "完成、制作好",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "完成、制作好",
+          "meaning_ja": "作っていた物が完成し、使ったり食べたりできる状態になる。",
+          "example_ja": "注文したケーキは午後に出来上がります。",
+          "example_zh": "订的蛋糕下午就会做好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "料理が出来上がる",
+          "zh": "菜做好了"
+        }
+      ],
+      "usage_note_zh": "主语是完成的成品；表示某人完成则用「出来上げる」较少见，常说「作り上げる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "出来上がる是五段自动词，八点做好的是成品完成；句中不是由某人把成品作为宾语做出。",
+        "dictionary_sequences": [
+          1340610
+        ],
+        "identity": {
+          "word": "出来上がる",
+          "reading_hiragana": "できあがる",
+          "meaning": "完成、制作好"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-573523fbea7de577",
+      "index": 942,
+      "word": "小麦粉",
+      "reading_hiragana": "こむぎこ",
+      "context_meaning_zh": "小麦粉、面粉；面粉",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "小麦粉、面粉；面粉",
+          "meaning_ja": "小麦の粒を細かくひいて作った粉。",
+          "example_ja": "小麦粉と卵を混ぜて生地を作ります。",
+          "example_zh": "把面粉和鸡蛋混合做成面糊。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "小麦粉をふるう",
+          "zh": "筛面粉"
+        }
+      ],
+      "usage_note_zh": "是小麦制粉的总称；与米粉等其他谷物粉区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "小麦粉是小麦研磨所得面粉，例句以水和面；按词典作物质名词。",
+        "dictionary_sequences": [
+          1348650
+        ],
+        "identity": {
+          "word": "小麦粉",
+          "reading_hiragana": "こむぎこ",
+          "meaning": "小麦粉、面粉；面粉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fac300cfbfe94053",
+      "index": 943,
+      "word": "捏ねる",
+      "reading_hiragana": "こねる",
+      "context_meaning_zh": "揉、和面",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "揉、和面",
+          "meaning_ja": "粉や粘土などを手で押したり折ったりして、まとまりのある状態にする。",
+          "example_ja": "パンの生地を十分に捏ねました。",
+          "example_zh": "我充分揉好了面包面团。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "生地を捏ねる",
+          "zh": "揉面团"
+        }
+      ],
+      "usage_note_zh": "常见宾语为面团、粉料或粘土；与单纯「混ぜる」不同，包含反复揉压动作。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "把水和面粉揉和，捏ねる为一段他动词，材料是混合对象；词典另有争辩义。",
+        "dictionary_sequences": [
+          1567410
+        ],
+        "identity": {
+          "word": "捏ねる",
+          "reading_hiragana": "こねる",
+          "meaning": "揉、和面"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-032de5f9b37d8fc5",
+      "index": 944,
+      "word": "皮",
+      "reading_hiragana": "かわ",
+      "context_meaning_zh": "外皮；饺子皮",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "外皮；饺子皮",
+          "meaning_ja": "物や動植物の表面を覆う部分。",
+          "example_ja": "じゃがいもの皮をむいてから、煮ます。",
+          "example_zh": "先削掉土豆皮再炖。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "皮をむく",
+          "zh": "削皮"
+        }
+      ],
+      "usage_note_zh": "饺子皮也称「皮」；此义读「かわ」，不要与读「ひ」的皮肤义混淆。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "前例问食物外皮是否自制，后例为洋葱表皮；词典支持外皮及包裹层名词义。",
+        "dictionary_sequences": [
+          1483800
+        ],
+        "identity": {
+          "word": "皮",
+          "reading_hiragana": "かわ",
+          "meaning": "外皮；饺子皮"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c5daf565f338d007",
+      "index": 945,
+      "word": "包む",
+      "reading_hiragana": "つつむ",
+      "context_meaning_zh": "包裹、包起来",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "包裹、包起来",
+          "meaning_ja": "紙や布などで物を覆い、中に入れる。",
+          "example_ja": "プレゼントを青い紙で包みました。",
+          "example_zh": "我用蓝色的纸包好了礼物。"
+        },
+        {
+          "meaning_zh": "包围；笼罩",
+          "meaning_ja": "周りを何かで覆い、全体を囲む。",
+          "example_ja": "朝の霧が町全体を包んでいました。",
+          "example_zh": "清晨的雾笼罩着整座城镇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "紙で包む",
+          "zh": "用纸包"
+        }
+      ],
+      "usage_note_zh": "包裹物用「を」，材料用「で」；也可用于把馅料包进皮中。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "肉包在皮里、本包在纸里均以物品为宾语，符合五段マ行他动词包裹义。",
+        "dictionary_sequences": [
+          1584060
+        ],
+        "identity": {
+          "word": "包む",
+          "reading_hiragana": "つつむ",
+          "meaning": "包裹、包起来"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-78e159c6afc06e37",
+      "index": 946,
+      "word": "蒸す",
+      "reading_hiragana": "むす",
+      "context_meaning_zh": "蒸；闷热",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蒸；闷热",
+          "meaning_ja": "水を熱して出た蒸気で、食べ物に火を通す。",
+          "example_ja": "魚を蒸すと、身が柔らかくなります。",
+          "example_zh": "鱼蒸过后肉质会变软。"
+        },
+        {
+          "meaning_zh": "（天气）闷热",
+          "meaning_ja": "湿度が高く、暑くて不快に感じる。",
+          "example_ja": "今日は朝から蒸しますね。",
+          "example_zh": "今天从早上起就很闷热啊。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "野菜を蒸す",
+          "zh": "蒸蔬菜"
+        }
+      ],
+      "usage_note_zh": "用于烹饪时，「蒸す」是他动词，表示用蒸汽加热食材；描述天气闷热时则作自动词，例如「今日は朝から蒸しますね。」主语通常是天气或环境，不能与烹饪义混为一谈。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "蒸食物是五段他动义，天气闷热是同词条自动义；例句分别覆盖两种配价。",
+        "dictionary_sequences": [
+          1356900
+        ],
+        "identity": {
+          "word": "蒸す",
+          "reading_hiragana": "むす",
+          "meaning": "蒸；闷热"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-afb4574bbe4d2892",
+      "index": 947,
+      "word": "茹でる",
+      "reading_hiragana": "ゆでる",
+      "context_meaning_zh": "煮、烫",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "煮、烫",
+          "meaning_ja": "食材を沸いた湯に入れて、熱を通す。",
+          "example_ja": "塩を入れた湯で枝豆を茹でます。",
+          "example_zh": "在加了盐的沸水里煮毛豆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "卵を茹でる",
+          "zh": "煮鸡蛋"
+        }
+      ],
+      "usage_note_zh": "通常指在水中加热，捞出后另作料理；和含调味汁炖煮的「煮る」有别。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "把饺子煮熟，饺子为を宾语；茹でる为一段他动词。",
+        "dictionary_sequences": [
+          1571470
+        ],
+        "identity": {
+          "word": "茹でる",
+          "reading_hiragana": "ゆでる",
+          "meaning": "煮、烫"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-262db21ad5a4261b",
+      "index": 948,
+      "word": "考え",
+      "reading_hiragana": "かんがえ",
+      "context_meaning_zh": "想法",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "想法",
+          "meaning_ja": "人が考えたことや、判断のもとになる意見。",
+          "example_ja": "彼女の考えを聞いてから、返事をします。",
+          "example_zh": "听了她的想法后，我再答复。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "考えをまとめる",
+          "zh": "整理想法"
+        }
+      ],
+      "usage_note_zh": "来自动词「考える」；可指一时想法，也可指较稳定的观点。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表达自己的想法时，考え指思考后形成的意见或观点，词典相关名词义相符。",
+        "dictionary_sequences": [
+          1281000
+        ],
+        "identity": {
+          "word": "考え",
+          "reading_hiragana": "かんがえ",
+          "meaning": "想法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a75aa89797438473",
+      "index": 949,
+      "word": "現在",
+      "reading_hiragana": "げんざい",
+      "context_meaning_zh": "现在",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "现在",
+          "meaning_ja": "過去や未来と区別した、今の時点や時期。",
+          "example_ja": "現在、この図書館は改装のため休館しています。",
+          "example_zh": "目前这座图书馆因装修暂停开放。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "現在の状況",
+          "zh": "目前的情况"
+        }
+      ],
+      "usage_note_zh": "「現在」偏正式，叙述眼下情况常用；与「現代」（今の時代全体）不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "表示当前时点或现在，可作名词和副词；词典列无形容词修饰义，但没有な形容词证据。",
+        "dictionary_sequences": [
+          1263650
+        ],
+        "identity": {
+          "word": "現在",
+          "reading_hiragana": "げんざい",
+          "meaning": "现在"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-809b7c90c491341c",
+      "index": 950,
+      "word": "関心",
+      "reading_hiragana": "かんしん",
+      "context_meaning_zh": "关心",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "关心",
+          "meaning_ja": "ある事柄を大切だと思い、注意や興味を向ける気持ち。",
+          "example_ja": "弟は昔の建物に関心を持っています。",
+          "example_zh": "弟弟对古老建筑感兴趣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "～に関心を持つ",
+          "zh": "对……感兴趣"
+        }
+      ],
+      "usage_note_zh": "对象用「に」；「関心がある」也常见。与关心他人处境的「心配」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「食文化に関心がある」表示兴趣/关注，词典释义为concern、interest并标名词；没有する或宾语を用例。",
+        "dictionary_sequences": [
+          1215870
+        ],
+        "identity": {
+          "word": "関心",
+          "reading_hiragana": "かんしん",
+          "meaning": "关心"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dcf82774b22e5afc",
+      "index": 951,
+      "word": "重要",
+      "reading_hiragana": "じゅうよう",
+      "context_meaning_zh": "重要的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "重要的",
+          "meaning_ja": "結果や目的に大きく関わるため、よく考える必要がある様子。",
+          "example_ja": "安全のため、説明を最後まで読むことが重要です。",
+          "example_zh": "为了安全，把说明读完很重要。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "重要な役割",
+          "zh": "重要作用"
+        }
+      ],
+      "usage_note_zh": "修饰名词用「重要な」；谓语形式为「重要です」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "桌子很重要是ナ形容词谓语用法，义项虽显非典型，但符合词典important；若来源句子有误再另查。",
+        "dictionary_sequences": [
+          1336820
+        ],
+        "identity": {
+          "word": "重要",
+          "reading_hiragana": "じゅうよう",
+          "meaning": "重要的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-37352b3225b001ac",
+      "index": 952,
+      "word": "言い表わす",
+      "reading_hiragana": "いいあらわす",
+      "context_meaning_zh": "表达、陈述",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "表达、陈述",
+          "meaning_ja": "考えや気持ちを、言葉にして分かる形で示す。",
+          "example_ja": "彼は感謝の気持ちを短い手紙で言い表しました。",
+          "example_zh": "他用一封短信表达了感谢之情。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "気持ちを言い表す",
+          "zh": "表达心情"
+        }
+      ],
+      "usage_note_zh": "现代常写「言い表す」；内容用「を」表示，方式可用「言葉で」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "用言语表达想法或坦白，词典标五段他动词；对象为表达内容。",
+        "dictionary_sequences": [
+          1264220
+        ],
+        "identity": {
+          "word": "言い表わす",
+          "reading_hiragana": "いいあらわす",
+          "meaning": "表达、陈述"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e6310f0d4d9fad10",
+      "index": 953,
+      "word": "ブログ",
+      "reading_hiragana": "ブログ",
+      "context_meaning_zh": "博客",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "博客",
+          "meaning_ja": "インターネット上に記事を載せ、日記や情報を公開するページ。",
+          "example_ja": "旅行中の写真をブログに載せました。",
+          "example_zh": "我把旅行中的照片放到了博客上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ブログを書く",
+          "zh": "写博客"
+        }
+      ],
+      "usage_note_zh": "可指发布文章的页面或服务；文章本身也常叫「記事」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "博客是个人发布的文字媒介，例句直接说在博客写料理话题；标记written描述媒介倾向，不附加news体裁。",
+        "dictionary_sequences": [
+          2037270
+        ],
+        "identity": {
+          "word": "ブログ",
+          "reading_hiragana": "ブログ",
+          "meaning": "博客"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-36b361d47ed630d7",
+      "index": 954,
+      "word": "へえ",
+      "reading_hiragana": "へえ",
+      "context_meaning_zh": "(惊讶声、应答声)哎、是",
+      "pos_ja": "感動詞",
+      "pos_zh": "感叹词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "(惊讶声、应答声)哎、是",
+          "meaning_ja": "相手の話に驚いたり、興味を持ったりしたときに出す声。",
+          "example_ja": "へえ、駅の近くに新しい店ができたんだ。",
+          "example_zh": "哦，车站附近开了家新店啊。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "へえ、そうなんだ",
+          "zh": "哦，是这样啊"
+        }
+      ],
+      "usage_note_zh": "用声调表达反应；不同说法可能显得惊讶、感兴趣，也可能带怀疑。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "单独发出へえ表示惊讶或询问“哦、是吗”，是口语感叹词；不承载句法成分。",
+        "dictionary_sequences": [
+          2019590
+        ],
+        "identity": {
+          "word": "へえ",
+          "reading_hiragana": "へえ",
+          "meaning": "(惊讶声、应答声)哎、是"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-43c8e635080f55ce",
+      "index": 955,
+      "word": "頷く",
+      "reading_hiragana": "うなずく",
+      "context_meaning_zh": "首肯、点头",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "首肯、点头",
+          "meaning_ja": "分かった、賛成したなどの気持ちを、頭を軽く上下させて示す。",
+          "example_ja": "説明を聞きながら、彼は何度も頷きました。",
+          "example_zh": "他一边听说明，一边连连点头。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "頷いて答える",
+          "zh": "点头作答"
+        }
+      ],
+      "usage_note_zh": "通常以「頷く」独立使用；点头表示理解或赞同，具体态度仍看上下文。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "上田点头后微笑，动作由人物自身完成；頷く为五段く自动词。",
+        "dictionary_sequences": [
+          1574310
+        ],
+        "identity": {
+          "word": "頷く",
+          "reading_hiragana": "うなずく",
+          "meaning": "首肯、点头"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5e7a9810b2a0a745",
+      "index": 956,
+      "word": "にっこりとする",
+      "reading_hiragana": "にっこりとする",
+      "context_meaning_zh": "微微一笑",
+      "pos_ja": "動詞・オノマトペ",
+      "pos_zh": "动词・拟声拟态词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "微微一笑",
+          "meaning_ja": "うれしさや親しみを、声を出さずに明るい笑顔で表す。",
+          "example_ja": "写真を見せると、祖母はにっこりとしました。",
+          "example_zh": "给祖母看照片时，她微微笑了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "にっこりと笑う",
+          "zh": "嫣然一笑"
+        }
+      ],
+      "usage_note_zh": "「にっこり」本身是副词性拟态语；本条是「にっこりとする」这个固定词条形式。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [
+          "onomatopoeia"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "整词「にっこりとする」表示微笑，する为不及物谓语；例句语气不构成限定口语媒介的依据。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "にっこりとする",
+          "reading_hiragana": "にっこりとする",
+          "meaning": "微微一笑"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a489e43f5c494cb3",
+      "index": 957,
+      "word": "挙げる",
+      "reading_hiragana": "あげる",
+      "context_meaning_zh": "举、列举",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "举、列举",
+          "meaning_ja": "例や名前などをいくつか示して、人に分かるようにする。",
+          "example_ja": "好きな日本料理を三つ挙げてください。",
+          "example_zh": "请列举三种喜欢的日本料理。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "例を挙げる",
+          "zh": "举例"
+        }
+      ],
+      "usage_note_zh": "此读音「挙げる」可表示列举；同读的「上げる」另有提高、给予等义，不在此混列。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "例句分别以例、手为宾语；所给词典将「あげる」此字形条目标为一段他动词，审的是挙げる而非上げる。",
+        "dictionary_sequences": [
+          2864818
+        ],
+        "identity": {
+          "word": "挙げる",
+          "reading_hiragana": "あげる",
+          "meaning": "举、列举"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6c00b0063c4951c7",
+      "index": 958,
+      "word": "述べる",
+      "reading_hiragana": "のべる",
+      "context_meaning_zh": "叙述、陈述",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "叙述、陈述",
+          "meaning_ja": "考えや事実を、順序立てて言葉にして伝える。",
+          "example_ja": "代表者が会の目的を述べました。",
+          "example_zh": "代表人陈述了活动的目的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意見を述べる",
+          "zh": "陈述意见"
+        }
+      ],
+      "usage_note_zh": "常用于正式说明或书面表达；「言う」更通用、更口语。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“述べる”是表达意见、事实或感谢的一段他动词；相较普通的“说”，该词倾向较正式，但可用于口头陈述或书面说明。",
+        "dictionary_sequences": [
+          1340820
+        ],
+        "identity": {
+          "word": "述べる",
+          "reading_hiragana": "のべる",
+          "meaning": "叙述、陈述"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a37df5bb11633963",
+      "index": 959,
+      "word": "えっ",
+      "reading_hiragana": "えっ",
+      "context_meaning_zh": "(表示意外等)啊、哎、怎么啦",
+      "pos_ja": "感動詞",
+      "pos_zh": "感叹词",
+      "register_zh": "非正式・口语",
+      "senses": [
+        {
+          "meaning_zh": "(表示意外等)啊、哎、怎么啦",
+          "meaning_ja": "予想外のことを聞いたときや、聞き返すときに出す声。",
+          "example_ja": "えっ、集合場所が変わったんですか。",
+          "example_zh": "啊，集合地点变了吗？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "えっ、もう一度お願いします",
+          "zh": "啊，请再说一遍"
+        }
+      ],
+      "usage_note_zh": "可表示惊讶或没听清；依语调可显得强烈，礼貌场合可接完整请求。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "短促感叹词，用于意外或听不清时的惊问；例句以口语问句继续。",
+        "dictionary_sequences": [
+          2194050
+        ],
+        "identity": {
+          "word": "えっ",
+          "reading_hiragana": "えっ",
+          "meaning": "(表示意外等)啊、哎、怎么啦"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a9b57324ebfa5425",
+      "index": 960,
+      "word": "外",
+      "reading_hiragana": "そと",
+      "context_meaning_zh": "外边、户外",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "外边、户外",
+          "meaning_ja": "建物や囲いの内側ではない場所。また、ある範囲の外側。",
+          "example_ja": "雨がやんだので、外で少し歩きました。",
+          "example_zh": "雨停了，所以我在外面走了一会儿。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "外に出る",
+          "zh": "到外面去"
+        }
+      ],
+      "usage_note_zh": "地点用「外で」表示动作发生处，「外に出る」表示移动到外部。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例「外の読書会」指在户外举办的读书会，取室外空间义；词性为名词。",
+        "dictionary_sequences": [
+          1203250
+        ],
+        "identity": {
+          "word": "外",
+          "reading_hiragana": "そと",
+          "meaning": "外边、户外"
+        }
+      }
+    }
+  ]
+}

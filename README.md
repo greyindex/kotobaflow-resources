@@ -17,14 +17,15 @@
 
 **新编日语的全部专用资源均不提供**：不含其正文、课程目录、教材词表、语法标注、插图、朗读、会话、旧修订台账和私有 Git 历史。历史词音目录中仅保留 KotobaFlow 直接引用的 4,791 条通用孤立单词配音，这是维护者明确确认的共享资源；不包含旧教材词表或其余专用词音。
 
-## 两个资源版本
+## 资源版本
 
 | 版本 | 对应程序 | 用途 |
 | --- | --- | --- |
-| `web-2026-10-31` | Web `cef1c7f` | 当前公开网页的数据与母版；例句包按公开内容精简 |
+| `web-2026-10-31-r2` | Web `f722555` | 当前公开网页的数据与母版：语法辅助课文换为新写的 82 篇（N5→N1），语法索引的课文关联随之更新；其余文件与 `web-2026-10-31` 相同 |
+| `web-2026-10-31` | Web `cef1c7f` | 上一版公开网页的数据与母版（旧 74 篇语法辅助课文）；例句包按公开内容精简 |
 | `android-0.4.2` | 外层 `5b39065`、网页 `c704ecf` | 已发行 Android 0.4.2 的包内内容及其对应母版 |
 
-JSON、JSONL 和逐文件清单位于 `profiles/<版本>/files/`，保留应用的原相对路径。音频与插图去重后放在同仓库的 [Release 媒体包](https://github.com/greyindex/kotobaflow-resources/releases/download/resources-2026-10-31/kotobaflow-media-2026-10-31.zip)（约 796 MB）；不需要 Git LFS。两个版本共同使用一个媒体包，安装器按清单恢复对应路径并验证大小与 SHA-256。
+JSON、JSONL 和逐文件清单位于 `profiles/<版本>/files/`，保留应用的原相对路径。音频与插图去重后放在同仓库的 [Release 媒体包](https://github.com/greyindex/kotobaflow-resources/releases/download/resources-2026-10-31/kotobaflow-media-2026-10-31.zip)（约 796 MB）；不需要 Git LFS。各版本共同使用一个媒体包，安装器按清单恢复对应路径并验证大小与 SHA-256。
 
 媒体包 SHA-256：`0d419eddd4ada091a39d0ef7bac51a73882e06e9136421f4d26514382e3df608`。完整描述见 [media-release.json](media-release.json)。
 
@@ -34,7 +35,7 @@ JSON、JSONL 和逐文件清单位于 `profiles/<版本>/files/`，保留应用�
 
 ```powershell
 # Web：将资源放入网页源码根目录
-python install_resources.py --profile web-2026-10-31 --target C:\path\to\kotobaflow-web
+python install_resources.py --profile web-2026-10-31-r2 --target C:\path\to\kotobaflow-web
 
 # Android：将资源放入独立网页源码子目录
 python install_resources.py --profile android-0.4.2 --target C:\path\to\kotobaflow-android\web-source-backup
@@ -50,7 +51,7 @@ python install_resources.py --profile android-0.4.2 --target C:\path\to\kotobafl
 
 ```powershell
 python -m unittest test_install_resources.py
-python install_resources.py --profile web-2026-10-31 --verify-only --media-archive C:\path\to\kotobaflow-media-2026-10-31.zip
+python install_resources.py --profile web-2026-10-31-r2 --verify-only --media-archive C:\path\to\kotobaflow-media-2026-10-31.zip
 python install_resources.py --profile android-0.4.2 --verify-only --media-archive C:\path\to\kotobaflow-media-2026-10-31.zip
 ```
 

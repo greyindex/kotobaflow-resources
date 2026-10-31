@@ -1,0 +1,774 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 139.47,
+ "listening_review": "pending",
+ "source_chapter": 43,
+ "turns": [
+  {
+   "turn_id": "C43-D001",
+   "turn_index": 0,
+   "speaker": "木下",
+   "source_text": "「ほんの森」の木下です。七日のメールと写真を確認しました。番号0715、アナ・ロペスさんですね。",
+   "sentence_ids": [
+    "C43-D001-S01",
+    "C43-D001-S02",
+    "C43-D001-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 6.946,
+   "duration_sec": 6.946
+  },
+  {
+   "turn_id": "C43-D002",
+   "turn_index": 1,
+   "speaker": "アナ",
+   "source_text": "はい。九時から十二時まで待ちましたが、夕方、302号室の田中さんから受け取りました。郵便屋さんではなく、さくら配送の人の間違いですか。",
+   "sentence_ids": [
+    "C43-D002-S01",
+    "C43-D002-S02",
+    "C43-D002-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.296,
+   "end_sec": 17.701,
+   "duration_sec": 10.405
+  },
+  {
+   "turn_id": "C43-D003",
+   "turn_index": 2,
+   "speaker": "木下",
+   "source_text": "はい。配送の人が302号室に入れたそうです。手渡しをしなかった理由と濡れた原因は調査中です。写真の映りはよく、破れたところが見えます。",
+   "sentence_ids": [
+    "C43-D003-S01",
+    "C43-D003-S02",
+    "C43-D003-S03",
+    "C43-D003-S04"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.051,
+   "end_sec": 29.776,
+   "duration_sec": 11.725
+  },
+  {
+   "turn_id": "C43-D004",
+   "turn_index": 3,
+   "speaker": "アナ",
+   "source_text": "事情が伝わってよかったです。写真だけで責任は決められませんね。田中さんにはお礼を伝えました。",
+   "sentence_ids": [
+    "C43-D004-S01",
+    "C43-D004-S02",
+    "C43-D004-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.126,
+   "end_sec": 37.531,
+   "duration_sec": 7.405
+  },
+  {
+   "turn_id": "C43-D005",
+   "turn_index": 4,
+   "speaker": "木下",
+   "source_text": "明日なら店で交換できますが、宅配なら十一日の夜です。店のオーナーにも報告しました。送料はサービスします。",
+   "sentence_ids": [
+    "C43-D005-S01",
+    "C43-D005-S02",
+    "C43-D005-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.881,
+   "end_sec": 46.494,
+   "duration_sec": 8.613
+  },
+  {
+   "turn_id": "C43-D006",
+   "turn_index": 5,
+   "speaker": "アナ",
+   "source_text": "家でお願いします。以前の店への道が思い出されます。球場方面のバスはラッシュで、先頭から奥へ詰めるように言われました。立って吊り革につかまっていました。",
+   "sentence_ids": [
+    "C43-D006-S01",
+    "C43-D006-S02",
+    "C43-D006-S03",
+    "C43-D006-S04"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 46.844,
+   "end_sec": 59.364,
+   "duration_sec": 12.52
+  },
+  {
+   "turn_id": "C43-D007",
+   "turn_index": 6,
+   "speaker": "木下",
+   "source_text": "停車してから降りられましたか。球場で試合がある日は、バスが空くまで時間がかかります。",
+   "sentence_ids": [
+    "C43-D007-S01",
+    "C43-D007-S02"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.714,
+   "end_sec": 65.431,
+   "duration_sec": 5.717
+  },
+  {
+   "turn_id": "C43-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "はい。駅前に降り立つと、車道を横切る人にクラクションが鳴りました。交通係が手を上げて車を止め、人を危険から守っていました。私は通路を通り抜けて店へ向かいました。",
+   "sentence_ids": [
+    "C43-D008-S01",
+    "C43-D008-S02",
+    "C43-D008-S03",
+    "C43-D008-S04"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 65.781,
+   "end_sec": 79.157,
+   "duration_sec": 13.376
+  },
+  {
+   "turn_id": "C43-D009",
+   "turn_index": 8,
+   "speaker": "木下",
+   "source_text": "その後、財布の事件を見たんですね。怖かったでしょう。店の入口で足を踏まれたとありましたが、医者にはかかりましたか。",
+   "sentence_ids": [
+    "C43-D009-S01",
+    "C43-D009-S02",
+    "C43-D009-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 79.507,
+   "end_sec": 87.867,
+   "duration_sec": 8.36
+  },
+  {
+   "turn_id": "C43-D010",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "けがはありません。逃げた人を呼び止めようとした店員もいましたが、すぐ立ち止まり、店へ駆け戻りました。怒鳴る人もいて、もう寄り道しないで帰りました。",
+   "sentence_ids": [
+    "C43-D010-S01",
+    "C43-D010-S02",
+    "C43-D010-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 88.217,
+   "end_sec": 99.063,
+   "duration_sec": 10.846
+  },
+  {
+   "turn_id": "C43-D011",
+   "turn_index": 10,
+   "speaker": "木下",
+   "source_text": "承知しました。十一日十九時から二十一時に203号室で手渡しにします。古い本はその場で預かります。交換の送料は無料です。",
+   "sentence_ids": [
+    "C43-D011-S01",
+    "C43-D011-S02",
+    "C43-D011-S03",
+    "C43-D011-S04"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 99.413,
+   "end_sec": 109.228,
+   "duration_sec": 9.815
+  },
+  {
+   "turn_id": "C43-D012",
+   "turn_index": 11,
+   "speaker": "アナ",
+   "source_text": "お願いします。配送の人を叱る前に調べてください。次は雨から本を守る袋に入れてください。保証の内容も確認したいです。",
+   "sentence_ids": [
+    "C43-D012-S01",
+    "C43-D012-S02",
+    "C43-D012-S03",
+    "C43-D012-S04"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.578,
+   "end_sec": 119.72,
+   "duration_sec": 10.142
+  },
+  {
+   "turn_id": "C43-D013",
+   "turn_index": 12,
+   "speaker": "木下",
+   "source_text": "商品の破損は無料交換の対象です。十三日までに調査結果をメールします。原因が不明でも連絡します。",
+   "sentence_ids": [
+    "C43-D013-S01",
+    "C43-D013-S02",
+    "C43-D013-S03"
+   ],
+   "voice_id": "ja-jp-techagent-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 120.07,
+   "end_sec": 128.196,
+   "duration_sec": 8.126
+  },
+  {
+   "turn_id": "C43-D014",
+   "turn_index": 13,
+   "speaker": "アナ",
+   "source_text": "では、十一日の夜に新しい本と交換し、十三日までに連絡してください。今度は無事に届くように思われます。よろしくお願いします。",
+   "sentence_ids": [
+    "C43-D014-S01",
+    "C43-D014-S02",
+    "C43-D014-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 128.546,
+   "end_sec": 139.464,
+   "duration_sec": 10.918
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C43-D001-S01",
+   "unit_id": "C43-D001",
+   "section": "D",
+   "speaker": "木下",
+   "text": "「ほんの森」の木下です。",
+   "start_sec": 0.0,
+   "end_sec": 1.537,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D001-S02",
+   "unit_id": "C43-D001",
+   "section": "D",
+   "speaker": "木下",
+   "text": "七日のメールと写真を確認しました。",
+   "start_sec": 1.687,
+   "end_sec": 3.769,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D001-S03",
+   "unit_id": "C43-D001",
+   "section": "D",
+   "speaker": "木下",
+   "text": "番号0715、アナ・ロペスさんですね。",
+   "start_sec": 3.919,
+   "end_sec": 6.946,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D002-S01",
+   "unit_id": "C43-D002",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "はい。",
+   "start_sec": 7.296,
+   "end_sec": 8.022,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D002-S02",
+   "unit_id": "C43-D002",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "九時から十二時まで待ちましたが、夕方、302号室の田中さんから受け取りました。",
+   "start_sec": 8.172,
+   "end_sec": 13.968,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D002-S03",
+   "unit_id": "C43-D002",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "郵便屋さんではなく、さくら配送の人の間違いですか。",
+   "start_sec": 14.118,
+   "end_sec": 17.701,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D003-S01",
+   "unit_id": "C43-D003",
+   "section": "D",
+   "speaker": "木下",
+   "text": "はい。",
+   "start_sec": 18.051,
+   "end_sec": 18.677,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D003-S02",
+   "unit_id": "C43-D003",
+   "section": "D",
+   "speaker": "木下",
+   "text": "配送の人が302号室に入れたそうです。",
+   "start_sec": 18.827,
+   "end_sec": 22.3,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D003-S03",
+   "unit_id": "C43-D003",
+   "section": "D",
+   "speaker": "木下",
+   "text": "手渡しをしなかった理由と濡れた原因は調査中です。",
+   "start_sec": 22.45,
+   "end_sec": 26.535,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D003-S04",
+   "unit_id": "C43-D003",
+   "section": "D",
+   "speaker": "木下",
+   "text": "写真の映りはよく、破れたところが見えます。",
+   "start_sec": 26.685,
+   "end_sec": 29.776,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D004-S01",
+   "unit_id": "C43-D004",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "事情が伝わってよかったです。",
+   "start_sec": 30.126,
+   "end_sec": 32.113,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D004-S02",
+   "unit_id": "C43-D004",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "写真だけで責任は決められませんね。",
+   "start_sec": 32.263,
+   "end_sec": 35.262,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D004-S03",
+   "unit_id": "C43-D004",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "田中さんにはお礼を伝えました。",
+   "start_sec": 35.412,
+   "end_sec": 37.531,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D005-S01",
+   "unit_id": "C43-D005",
+   "section": "D",
+   "speaker": "木下",
+   "text": "明日なら店で交換できますが、宅配なら十一日の夜です。",
+   "start_sec": 37.881,
+   "end_sec": 42.927,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D005-S02",
+   "unit_id": "C43-D005",
+   "section": "D",
+   "speaker": "木下",
+   "text": "店のオーナーにも報告しました。",
+   "start_sec": 43.077,
+   "end_sec": 44.839,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D005-S03",
+   "unit_id": "C43-D005",
+   "section": "D",
+   "speaker": "木下",
+   "text": "送料はサービスします。",
+   "start_sec": 44.989,
+   "end_sec": 46.494,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D006-S01",
+   "unit_id": "C43-D006",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "家でお願いします。",
+   "start_sec": 46.844,
+   "end_sec": 48.596,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D006-S02",
+   "unit_id": "C43-D006",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "以前の店への道が思い出されます。",
+   "start_sec": 48.746,
+   "end_sec": 51.578,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D006-S03",
+   "unit_id": "C43-D006",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "球場方面のバスはラッシュで、先頭から奥へ詰めるように言われました。",
+   "start_sec": 51.728,
+   "end_sec": 56.852,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D006-S04",
+   "unit_id": "C43-D006",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "立って吊り革につかまっていました。",
+   "start_sec": 57.002,
+   "end_sec": 59.364,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D007-S01",
+   "unit_id": "C43-D007",
+   "section": "D",
+   "speaker": "木下",
+   "text": "停車してから降りられましたか。",
+   "start_sec": 59.714,
+   "end_sec": 61.913,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D007-S02",
+   "unit_id": "C43-D007",
+   "section": "D",
+   "speaker": "木下",
+   "text": "球場で試合がある日は、バスが空くまで時間がかかります。",
+   "start_sec": 62.063,
+   "end_sec": 65.431,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D008-S01",
+   "unit_id": "C43-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "はい。",
+   "start_sec": 65.781,
+   "end_sec": 66.545,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D008-S02",
+   "unit_id": "C43-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "駅前に降り立つと、車道を横切る人にクラクションが鳴りました。",
+   "start_sec": 66.695,
+   "end_sec": 71.246,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D008-S03",
+   "unit_id": "C43-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "交通係が手を上げて車を止め、人を危険から守っていました。",
+   "start_sec": 71.396,
+   "end_sec": 76.052,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D008-S04",
+   "unit_id": "C43-D008",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "私は通路を通り抜けて店へ向かいました。",
+   "start_sec": 76.202,
+   "end_sec": 79.157,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D009-S01",
+   "unit_id": "C43-D009",
+   "section": "D",
+   "speaker": "木下",
+   "text": "その後、財布の事件を見たんですね。",
+   "start_sec": 79.507,
+   "end_sec": 82.008,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D009-S02",
+   "unit_id": "C43-D009",
+   "section": "D",
+   "speaker": "木下",
+   "text": "怖かったでしょう。",
+   "start_sec": 82.158,
+   "end_sec": 83.471,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D009-S03",
+   "unit_id": "C43-D009",
+   "section": "D",
+   "speaker": "木下",
+   "text": "店の入口で足を踏まれたとありましたが、医者にはかかりましたか。",
+   "start_sec": 83.621,
+   "end_sec": 87.867,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D010-S01",
+   "unit_id": "C43-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "けがはありません。",
+   "start_sec": 88.217,
+   "end_sec": 89.626,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D010-S02",
+   "unit_id": "C43-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "逃げた人を呼び止めようとした店員もいましたが、すぐ立ち止まり、店へ駆け戻りました。",
+   "start_sec": 89.776,
+   "end_sec": 95.579,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D010-S03",
+   "unit_id": "C43-D010",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "怒鳴る人もいて、もう寄り道しないで帰りました。",
+   "start_sec": 95.729,
+   "end_sec": 99.063,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D011-S01",
+   "unit_id": "C43-D011",
+   "section": "D",
+   "speaker": "木下",
+   "text": "承知しました。",
+   "start_sec": 99.413,
+   "end_sec": 100.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D011-S02",
+   "unit_id": "C43-D011",
+   "section": "D",
+   "speaker": "木下",
+   "text": "十一日十九時から二十一時に203号室で手渡しにします。",
+   "start_sec": 100.594,
+   "end_sec": 105.401,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D011-S03",
+   "unit_id": "C43-D011",
+   "section": "D",
+   "speaker": "木下",
+   "text": "古い本はその場で預かります。",
+   "start_sec": 105.551,
+   "end_sec": 107.483,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D011-S04",
+   "unit_id": "C43-D011",
+   "section": "D",
+   "speaker": "木下",
+   "text": "交換の送料は無料です。",
+   "start_sec": 107.633,
+   "end_sec": 109.228,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D012-S01",
+   "unit_id": "C43-D012",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "お願いします。",
+   "start_sec": 109.578,
+   "end_sec": 110.754,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D012-S02",
+   "unit_id": "C43-D012",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "配送の人を叱る前に調べてください。",
+   "start_sec": 110.904,
+   "end_sec": 113.838,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D012-S03",
+   "unit_id": "C43-D012",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "次は雨から本を守る袋に入れてください。",
+   "start_sec": 113.988,
+   "end_sec": 117.395,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D012-S04",
+   "unit_id": "C43-D012",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "保証の内容も確認したいです。",
+   "start_sec": 117.545,
+   "end_sec": 119.72,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D013-S01",
+   "unit_id": "C43-D013",
+   "section": "D",
+   "speaker": "木下",
+   "text": "商品の破損は無料交換の対象です。",
+   "start_sec": 120.07,
+   "end_sec": 123.206,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D013-S02",
+   "unit_id": "C43-D013",
+   "section": "D",
+   "speaker": "木下",
+   "text": "十三日までに調査結果をメールします。",
+   "start_sec": 123.356,
+   "end_sec": 126.05,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D013-S03",
+   "unit_id": "C43-D013",
+   "section": "D",
+   "speaker": "木下",
+   "text": "原因が不明でも連絡します。",
+   "start_sec": 126.2,
+   "end_sec": 128.196,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D014-S01",
+   "unit_id": "C43-D014",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "では、十一日の夜に新しい本と交換し、十三日までに連絡してください。",
+   "start_sec": 128.546,
+   "end_sec": 135.192,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D014-S02",
+   "unit_id": "C43-D014",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "今度は無事に届くように思われます。",
+   "start_sec": 135.342,
+   "end_sec": 137.818,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C43-D014-S03",
+   "unit_id": "C43-D014",
+   "section": "D",
+   "speaker": "アナ・ロペス",
+   "text": "よろしくお願いします。",
+   "start_sec": 137.968,
+   "end_sec": 139.464,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

@@ -1,0 +1,4543 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow2",
+  "lesson_id": "lesson_04",
+  "entries": [
+    {
+      "textbook_uid": "cfv-ddca4eca9f2370c9",
+      "index": 1143,
+      "word": "経験",
+      "reading_hiragana": "けいけん",
+      "context_meaning_zh": "经历、经验",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "经历、经验",
+          "meaning_ja": "経験したことが、知識や技術として身についたもの。",
+          "example_ja": "料理の経験が少しあります。",
+          "example_zh": "我有一点做菜经验。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "経験を積む",
+          "zh": "积累经验"
+        }
+      ],
+      "usage_note_zh": "常与「経験がある／経験を積む」搭配；也可指亲身经历的事情。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "登山经验可以用「経験がある」表示，也可「経験する」获得经历；词典列名词、サ变他动词。",
+        "dictionary_sequences": [
+          1251270
+        ],
+        "identity": {
+          "word": "経験",
+          "reading_hiragana": "けいけん",
+          "meaning": "经历、经验"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bc656760f8e1ee6c",
+      "index": 1144,
+      "word": "旅行",
+      "reading_hiragana": "りょこう",
+      "context_meaning_zh": "旅行",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "旅行",
+          "meaning_ja": "家やいつもの場所を離れ、別の土地へ行くこと。",
+          "example_ja": "夏休みに家族と旅行しました。",
+          "example_zh": "暑假和家人去旅行了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "旅行に出る",
+          "zh": "出发旅行"
+        }
+      ],
+      "usage_note_zh": "目的地常用「へ／に」，同行者用「と」；作サ变动词时说「旅行する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "在家看旅行书时旅行作名词；词典另支持旅行する的不及物サ变用法。",
+        "dictionary_sequences": [
+          1553170
+        ],
+        "identity": {
+          "word": "旅行",
+          "reading_hiragana": "りょこう",
+          "meaning": "旅行"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c30be731c89b9b3",
+      "index": 1145,
+      "word": "登る",
+      "reading_hiragana": "のぼる",
+      "context_meaning_zh": "登、爬",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "登、爬",
+          "meaning_ja": "足を使って高い所へ上がる。",
+          "example_ja": "ゆっくり山に登りましょう。",
+          "example_zh": "慢慢爬山吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "山に登る",
+          "zh": "爬山"
+        }
+      ],
+      "usage_note_zh": "目的地用「に／へ」；「登る」有攀上去的动作感，不同于泛指上升的「上がる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与朋友一起爬山并住在山顶旅馆，主体自行向高处移动；辞书标五段自动态。",
+        "dictionary_sequences": [
+          1352570
+        ],
+        "identity": {
+          "word": "登る",
+          "reading_hiragana": "のぼる",
+          "meaning": "登、爬"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aa5174bd8b4ee347",
+      "index": 1146,
+      "word": "泳ぐ",
+      "reading_hiragana": "およぐ",
+      "context_meaning_zh": "游泳",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "游泳",
+          "meaning_ja": "水の中で手足を動かして進む。",
+          "example_ja": "妹は海で泳いでいます。",
+          "example_zh": "妹妹正在海里游泳。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "海を泳ぐ",
+          "zh": "在海里游泳"
+        }
+      ],
+      "usage_note_zh": "游过的场所可用「を」；表示目的地时也可说「プールで泳ぐ」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "在海里游泳是五段自动词用法，不带直接宾语；词典列出的其他比喻义与本例无关。",
+        "dictionary_sequences": [
+          1174340
+        ],
+        "identity": {
+          "word": "泳ぐ",
+          "reading_hiragana": "およぐ",
+          "meaning": "游泳"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a819b13d036468d5",
+      "index": 1147,
+      "word": "泊まる",
+      "reading_hiragana": "とまる",
+      "context_meaning_zh": "住宿",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "住宿",
+          "meaning_ja": "旅行先などで、宿に泊まって夜を過ごす。",
+          "example_ja": "今夜は駅の近くの宿に泊まります。",
+          "example_zh": "今晚住在车站附近的旅馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ホテルに泊まる",
+          "zh": "住酒店"
+        }
+      ],
+      "usage_note_zh": "住宿地点用「に」；此处读「とまる」，与「止まる」同音但意义不同。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "爬山后在山上旅馆住宿，泊まる为五段自动词；住宿地点由に提示。",
+        "dictionary_sequences": [
+          1474850
+        ],
+        "identity": {
+          "word": "泊まる",
+          "reading_hiragana": "とまる",
+          "meaning": "住宿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-531d8f73622ffa11",
+      "index": 1148,
+      "word": "作る",
+      "reading_hiragana": "つくる",
+      "context_meaning_zh": "制作",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "制作",
+          "meaning_ja": "材料に手を加えて、新しい物を生み出す。",
+          "example_ja": "母とケーキを作りました。",
+          "example_zh": "我和妈妈做了蛋糕。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "料理を作る",
+          "zh": "做饭"
+        }
+      ],
+      "usage_note_zh": "成品作宾语用「を」；可制作食物、作品或计划等。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "作る为五段る动词和他动词，例句纸制乐器も作る以材料/产品为对象，词典相应条目全为vt。",
+        "dictionary_sequences": [
+          1597890
+        ],
+        "identity": {
+          "word": "作る",
+          "reading_hiragana": "つくる",
+          "meaning": "制作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9939fd5eae3881f1",
+      "index": 1149,
+      "word": "歌う",
+      "reading_hiragana": "うたう",
+      "context_meaning_zh": "唱歌",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "唱歌",
+          "meaning_ja": "声や楽器の音で、歌を表現する。",
+          "example_ja": "みんなの前で日本語の歌を歌いました。",
+          "example_zh": "我在大家面前唱了日语歌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歌を歌う",
+          "zh": "唱歌"
+        }
+      ],
+      "usage_note_zh": "歌曲用「を」；「歌う」指唱出歌声，与演奏乐器的「弾く」不同。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "うたう为五段动词；可省略歌曲宾语而不及物，也可唱某歌或在诗中歌咏内容，词典兼列自他义。",
+        "dictionary_sequences": [
+          1588120
+        ],
+        "identity": {
+          "word": "歌う",
+          "reading_hiragana": "うたう",
+          "meaning": "唱歌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a2d41a0d53fa9ea1",
+      "index": 1150,
+      "word": "踊る",
+      "reading_hiragana": "おどる",
+      "context_meaning_zh": "跳舞",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "跳舞",
+          "meaning_ja": "音楽に合わせて体を動かす。",
+          "example_ja": "子どもたちは音楽に合わせて踊った。",
+          "example_zh": "孩子们随着音乐跳起舞来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "音楽に合わせて踊る",
+          "zh": "随着音乐跳舞"
+        }
+      ],
+      "usage_note_zh": "通常不带直接宾语；舞蹈种类可用「ワルツを踊る」表示。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "节庆中人们随着歌曲跳舞，词典列五段自动词；不采用「受人摆布」比喻义。",
+        "dictionary_sequences": [
+          1538440
+        ],
+        "identity": {
+          "word": "踊る",
+          "reading_hiragana": "おどる",
+          "meaning": "跳舞"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2170ba11829abae9",
+      "index": 1151,
+      "word": "集める",
+      "reading_hiragana": "あつめる",
+      "context_meaning_zh": "收集",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收集",
+          "meaning_ja": "あちこちから物を取り、自分の所にそろえる。",
+          "example_ja": "旅行先で小さな切手を集めています。",
+          "example_zh": "我在旅行时收集小邮票。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "切手を集める",
+          "zh": "收集邮票"
+        }
+      ],
+      "usage_note_zh": "收集的对象用「を」；「集まる」则表示人或物聚到一起。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "收集旧旅行照片的他动一段动词，照片作を格对象。",
+        "dictionary_sequences": [
+          1333560
+        ],
+        "identity": {
+          "word": "集める",
+          "reading_hiragana": "あつめる",
+          "meaning": "收集"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b00a6a84f03ed3fb",
+      "index": 1152,
+      "word": "趣味",
+      "reading_hiragana": "しゅみ",
+      "context_meaning_zh": "兴趣爱好",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "兴趣爱好",
+          "meaning_ja": "仕事や義務ではなく、楽しみとして続けていること。",
+          "example_ja": "父の趣味は古い映画を見ることです。",
+          "example_zh": "父亲的爱好是看老电影。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "趣味を楽しむ",
+          "zh": "享受爱好"
+        }
+      ],
+      "usage_note_zh": "常用「趣味は〜です」介绍爱好；具体活动可接「〜こと」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "摄影和阅读作为个人趣味，例句对应爱好义而非审美偏好义。",
+        "dictionary_sequences": [
+          1329000
+        ],
+        "identity": {
+          "word": "趣味",
+          "reading_hiragana": "しゅみ",
+          "meaning": "兴趣爱好"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cfe1649269585d5d",
+      "index": 1153,
+      "word": "写真",
+      "reading_hiragana": "しゃしん",
+      "context_meaning_zh": "照片",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "照片",
+          "meaning_ja": "カメラなどで写した画像。また、写真を撮る行為。",
+          "example_ja": "旅行の写真をアルバムに入れました。",
+          "example_zh": "我把旅行照片放进了相册。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "写真を撮る",
+          "zh": "拍照"
+        }
+      ],
+      "usage_note_zh": "「写真を撮る」表示拍照；本词条的课内义是照片，不能把动词「撮る」混作词义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "爱好是「写真を撮る」，词典亦把摄影活动列为名词义；不只指成片照片。",
+        "dictionary_sequences": [
+          1321900
+        ],
+        "identity": {
+          "word": "写真",
+          "reading_hiragana": "しゃしん",
+          "meaning": "照片"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4cb22ccd73812bca",
+      "index": 1154,
+      "word": "散歩",
+      "reading_hiragana": "さんぽ",
+      "context_meaning_zh": "散步",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "散步",
+          "meaning_ja": "気分転換などのため、外を歩くこと。",
+          "example_ja": "夕食のあと、近所を散歩します。",
+          "example_zh": "晚饭后在附近散步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "散歩に出かける",
+          "zh": "出去散步"
+        }
+      ],
+      "usage_note_zh": "常说「散歩する／散歩に行く」；行走路线可用「を」表示。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课例「散歩をしています」用作活动名词；词典还列不及物散歩する，地点可由に或路线を标记。",
+        "dictionary_sequences": [
+          1303620
+        ],
+        "identity": {
+          "word": "散歩",
+          "reading_hiragana": "さんぽ",
+          "meaning": "散步"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-42d4a47770f9faeb",
+      "index": 1155,
+      "word": "釣り",
+      "reading_hiragana": "つり",
+      "context_meaning_zh": "钓鱼",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "钓鱼",
+          "meaning_ja": "釣り竿などを使い、水の中の魚を捕らえること。",
+          "example_ja": "父は川で釣りをしています。",
+          "example_zh": "父亲正在河边钓鱼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "釣りをする",
+          "zh": "钓鱼"
+        }
+      ],
+      "usage_note_zh": "常用「釣りをする」；此处读「つり」，指钓鱼活动。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "公园里多次进行的釣り指垂钓活动，词典fishing义相合；不取找零及网络引申义。",
+        "dictionary_sequences": [
+          1434040
+        ],
+        "identity": {
+          "word": "釣り",
+          "reading_hiragana": "つり",
+          "meaning": "钓鱼"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d7fccaf4db186aaa",
+      "index": 1156,
+      "word": "山",
+      "reading_hiragana": "やま",
+      "context_meaning_zh": "山",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "山",
+          "meaning_ja": "地面から高くそびえる大きな地形。",
+          "example_ja": "あの山の上に白い雲があります。",
+          "example_zh": "那座山上有白云。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "山に登る",
+          "zh": "登山"
+        }
+      ],
+      "usage_note_zh": "表示山这一地形；「山へ行く」说去山里，「山に登る」说登山。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句明确为登山，词典首义也为山地地形；不据同形词典其他义添加次类。",
+        "dictionary_sequences": [
+          1302680
+        ],
+        "identity": {
+          "word": "山",
+          "reading_hiragana": "やま",
+          "meaning": "山"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-17258a6bd76b2227",
+      "index": 1157,
+      "word": "海",
+      "reading_hiragana": "うみ",
+      "context_meaning_zh": "海",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "海",
+          "meaning_ja": "広く水が集まり、地球上の陸地を囲む場所。",
+          "example_ja": "海の近くで新鮮な魚を食べました。",
+          "example_zh": "我在海边吃了新鲜的鱼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "海で泳ぐ",
+          "zh": "在海里游泳"
+        }
+      ],
+      "usage_note_zh": "表示海域；「海で」标动作发生地，「海へ」可标前往方向。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "海中游泳的地点名词，指海洋水域；例句不涉及比喻义或特殊语域。",
+        "dictionary_sequences": [
+          1201190
+        ],
+        "identity": {
+          "word": "海",
+          "reading_hiragana": "うみ",
+          "meaning": "海"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1d3217587453d778",
+      "index": 1158,
+      "word": "初めて",
+      "reading_hiragana": "はじめて",
+      "context_meaning_zh": "第一次",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "第一次",
+          "meaning_ja": "それまで経験したことがなく、今回が最初であるさま。",
+          "example_ja": "私は初めて一人で飛行機に乗りました。",
+          "example_zh": "我第一次独自坐飞机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "初めて会う",
+          "zh": "初次见面"
+        }
+      ],
+      "usage_note_zh": "修饰动作，表示第一次做某事；「初めての旅行」中的「初めて」作连体修饰。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "初めての人由副词初めて加助词の，词典adj-no对应这种结构；不独立列adnominal。",
+        "dictionary_sequences": [
+          1342550
+        ],
+        "identity": {
+          "word": "初めて",
+          "reading_hiragana": "はじめて",
+          "meaning": "第一次"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2984c8002ff9c070",
+      "index": 1159,
+      "word": "一度",
+      "reading_hiragana": "いちど",
+      "context_meaning_zh": "一次",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一次",
+          "meaning_ja": "回数が一つであること。また、ある機会を一つ数えること。",
+          "example_ja": "この店には一度行ったことがあります。",
+          "example_zh": "我去过这家店一次。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一度試す",
+          "zh": "试一次"
+        }
+      ],
+      "usage_note_zh": "「一度」读いちど，常与「行く／試す」等搭配；「一度に」则表示同时。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "JMdict 1576250 同列名词与副词；「一度登ったことがある」是曾有一次登山经历，取一次义。",
+        "dictionary_sequences": [
+          1576250
+        ],
+        "identity": {
+          "word": "一度",
+          "reading_hiragana": "いちど",
+          "meaning": "一次"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-510b6b59982099b8",
+      "index": 1160,
+      "word": "最近",
+      "reading_hiragana": "さいきん",
+      "context_meaning_zh": "最近",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "最近",
+          "meaning_ja": "今からあまり遠くない過去、または現在に近い時期。",
+          "example_ja": "最近、朝早く起きています。",
+          "example_zh": "最近我一直早起。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "最近の出来事",
+          "zh": "最近发生的事"
+        }
+      ],
+      "usage_note_zh": "可修饰时间或状态；范围随语境变化，不等于精确的“几天内”。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "句首「最近」作时间状语，指当前附近的时期；可作名词及副词。",
+        "dictionary_sequences": [
+          1293780
+        ],
+        "identity": {
+          "word": "最近",
+          "reading_hiragana": "さいきん",
+          "meaning": "最近"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-87961403c70b15c2",
+      "index": 1161,
+      "word": "登山",
+      "reading_hiragana": "とざん",
+      "context_meaning_zh": "登山",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "登山",
+          "meaning_ja": "趣味や運動として山に登ること。",
+          "example_ja": "兄は毎年秋に登山をします。",
+          "example_zh": "哥哥每年秋天都去登山。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "登山を楽しむ",
+          "zh": "享受登山"
+        }
+      ],
+      "usage_note_zh": "常说「登山する／登山に行く」；「山登り」更口语，意思相近。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "登山指登山活动，可作名词或サ变自动词；经验一例只以名词构成搭配。",
+        "dictionary_sequences": [
+          1444780
+        ],
+        "identity": {
+          "word": "登山",
+          "reading_hiragana": "とざん",
+          "meaning": "登山"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d1df90781259c054",
+      "index": 1162,
+      "word": "映画館",
+      "reading_hiragana": "えいがかん",
+      "context_meaning_zh": "电影院",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "电影院",
+          "meaning_ja": "映画を上映し、客が座って見るための建物や施設。",
+          "example_ja": "駅前の映画館で新作を見ました。",
+          "example_zh": "我在车站前的电影院看了新片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "映画館に行く",
+          "zh": "去电影院"
+        }
+      ],
+      "usage_note_zh": "「映画館で見る」标观看地点；影院是场所，「映画」是作品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "旧电影院照片的观看对象是放映场所；词典movie theatre/cinema名词义与课内地点搭配一致。",
+        "dictionary_sequences": [
+          1173750
+        ],
+        "identity": {
+          "word": "映画館",
+          "reading_hiragana": "えいがかん",
+          "meaning": "电影院"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-08cdf948107f14e0",
+      "index": 1163,
+      "word": "展覧会",
+      "reading_hiragana": "てんらんかい",
+      "context_meaning_zh": "展览会",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "展览会",
+          "meaning_ja": "絵や資料などを会場に並べて、多くの人に見せる催し。",
+          "example_ja": "市民会館で写真の展覧会があります。",
+          "example_zh": "市民会馆有摄影展。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "展覧会を開く",
+          "zh": "举办展览"
+        }
+      ],
+      "usage_note_zh": "通常说「展覧会を見る／開く」；规模较大的展览也常称「展覧会」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "展览会名词，公民馆举办摄影展的语境与词典exhibition相符。",
+        "dictionary_sequences": [
+          1440660
+        ],
+        "identity": {
+          "word": "展覧会",
+          "reading_hiragana": "てんらんかい",
+          "meaning": "展览会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-72f9ef496df79b12",
+      "index": 1164,
+      "word": "海外",
+      "reading_hiragana": "かいがい",
+      "context_meaning_zh": "海外",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "海外",
+          "meaning_ja": "自分の国の外にある国々や地域。",
+          "example_ja": "姉は海外で日本語を教えています。",
+          "example_zh": "姐姐在海外教日语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "海外へ行く",
+          "zh": "去海外"
+        }
+      ],
+      "usage_note_zh": "相对于说话者所属国家而言；方向常用「へ」，经历可说「海外で暮らす」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "海外指外国或本国以外的地区，词典标n/adj-no并支持连体修饰；依本协议无独立no-adjective类，用adjective_na承接该用法。",
+        "dictionary_sequences": [
+          1201260
+        ],
+        "identity": {
+          "word": "海外",
+          "reading_hiragana": "かいがい",
+          "meaning": "海外"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c8a0891a6f0cc6a0",
+      "index": 1165,
+      "word": "国内",
+      "reading_hiragana": "こくない",
+      "context_meaning_zh": "国内",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "国内",
+          "meaning_ja": "ある国の領土の中。",
+          "example_ja": "国内のいろいろな町を訪ねました。",
+          "example_zh": "我走访了国内各地的城镇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "国内旅行",
+          "zh": "国内旅行"
+        }
+      ],
+      "usage_note_zh": "与「海外」相对；具体范围取决于谈话所指的国家。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "国内与海外旅行对举，表示某一国家范围内，是名词作「の」定语。",
+        "dictionary_sequences": [
+          1286930
+        ],
+        "identity": {
+          "word": "国内",
+          "reading_hiragana": "こくない",
+          "meaning": "国内"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1135b1f7f558f554",
+      "index": 1166,
+      "word": "お祭り",
+      "reading_hiragana": "おまつり",
+      "context_meaning_zh": "节庆活动",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・礼貌语",
+      "senses": [
+        {
+          "meaning_zh": "节庆活动",
+          "meaning_ja": "地域の人々が集まり、伝統や季節を祝う催し。",
+          "example_ja": "町のお祭りで太鼓を聞きました。",
+          "example_zh": "我在镇上的节庆活动中听了太鼓。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "お祭りに参加する",
+          "zh": "参加节庆活动"
+        }
+      ],
+      "usage_note_zh": "「お」带有亲切语感；说参加活动用「に参加する」，场所用「で」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "polite"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "所供词典对该词明确标pol，故保留词形お祭り的礼貌用法标记；歌舞活动语境本身是普通节庆名词。",
+        "dictionary_sequences": [
+          1604135
+        ],
+        "identity": {
+          "word": "お祭り",
+          "reading_hiragana": "おまつり",
+          "meaning": "节庆活动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2300cd4082b2a5d3",
+      "index": 1167,
+      "word": "演奏",
+      "reading_hiragana": "えんそう",
+      "context_meaning_zh": "演奏",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "演奏",
+          "meaning_ja": "楽器を鳴らし、曲の音を人に聞かせること。",
+          "example_ja": "姉はピアノの演奏を続けています。",
+          "example_zh": "姐姐一直在练习钢琴演奏。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ピアノを演奏する",
+          "zh": "演奏钢琴"
+        }
+      ],
+      "usage_note_zh": "可说「演奏する」；演奏的乐器常用「を」，曲目也可用「を」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「演奏する」可带乐器或曲目を，名词义也成立；当前句指手作乐器的演奏。",
+        "dictionary_sequences": [
+          1607520
+        ],
+        "identity": {
+          "word": "演奏",
+          "reading_hiragana": "えんそう",
+          "meaning": "演奏"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2f44ac81b33cc3bd",
+      "index": 1168,
+      "word": "楽器",
+      "reading_hiragana": "がっき",
+      "context_meaning_zh": "乐器",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "乐器",
+          "meaning_ja": "音を出して音楽を作るために使う道具。",
+          "example_ja": "この楽器は軽くて持ちやすいです。",
+          "example_zh": "这件乐器很轻，容易拿。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "楽器を演奏する",
+          "zh": "演奏乐器"
+        }
+      ],
+      "usage_note_zh": "「楽器」是总称；具体动作随乐器而异，如弹「弾く」、吹「吹く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "乐器是演奏音乐用的器具，手制乐器演奏例中的乐器为名词，词典义无歧义。",
+        "dictionary_sequences": [
+          1207340
+        ],
+        "identity": {
+          "word": "楽器",
+          "reading_hiragana": "がっき",
+          "meaning": "乐器"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1f042bf2d6c5f2c3",
+      "index": 1169,
+      "word": "手作り",
+      "reading_hiragana": "てづくり",
+      "context_meaning_zh": "手工制作",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "手工制作",
+          "meaning_ja": "材料を自分の手で加工して作ること、またその品物。",
+          "example_ja": "祖母が手作りの人形をくれました。",
+          "example_zh": "祖母送了我一个手工制作的玩偶。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "手作りの料理",
+          "zh": "手工做的料理"
+        }
+      ],
+      "usage_note_zh": "常以「手作りの＋名词」修饰物品；强调亲手制作，与大量生产相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「手作りの楽器」表示亲手制作的属性，词典列名词和adj-no；这里以noun及adjective_na兼类表示，修饰功能由当前搭配支持。",
+        "dictionary_sequences": [
+          1598360
+        ],
+        "identity": {
+          "word": "手作り",
+          "reading_hiragana": "てづくり",
+          "meaning": "手工制作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bd2276ae0f2f1fce",
+      "index": 1170,
+      "word": "思い出",
+      "reading_hiragana": "おもいで",
+      "context_meaning_zh": "回忆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "回忆",
+          "meaning_ja": "過去にあったことを、心の中で思い返すもの。",
+          "example_ja": "この写真を見ると、学生時代の思い出がよみがえります。",
+          "example_zh": "看到这张照片，就会想起学生时代的回忆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "思い出を語る",
+          "zh": "讲述回忆"
+        }
+      ],
+      "usage_note_zh": "常说「思い出がある／思い出を作る」；可指记忆内容，也可指值得记住的往事。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "美好思い出例句及课程词义都指留存的往事记忆；词典为回忆名词。",
+        "dictionary_sequences": [
+          1589340
+        ],
+        "identity": {
+          "word": "思い出",
+          "reading_hiragana": "おもいで",
+          "meaning": "回忆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-13d00da763fb2cb3",
+      "index": 1171,
+      "word": "何度も",
+      "reading_hiragana": "なんども",
+      "context_meaning_zh": "多次",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "多次",
+          "meaning_ja": "同じことが一回ではなく、何回も起こるさま。",
+          "example_ja": "彼女は何度も同じ質問をしました。",
+          "example_zh": "她反复问了同一个问题。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何度も聞く",
+          "zh": "多次询问"
+        }
+      ],
+      "usage_note_zh": "「何度」本身是几次；加「も」强调次数多，谓语通常用肯定形式。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「何度も」修饰过去钓鱼经历，表示重复多次；词典直接列反复、多次副词义。",
+        "dictionary_sequences": [
+          1189200
+        ],
+        "identity": {
+          "word": "何度も",
+          "reading_hiragana": "なんども",
+          "meaning": "多次"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b0bcf7768f87646f",
+      "index": 1172,
+      "word": "昔",
+      "reading_hiragana": "むかし",
+      "context_meaning_zh": "从前",
+      "pos_ja": "名詞・ナ形容詞・副詞・時間名詞",
+      "pos_zh": "名词・な形容词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "从前",
+          "meaning_ja": "今より前の、かなり時間がたった時期。",
+          "example_ja": "昔、この町には大きな川がありました。",
+          "example_zh": "从前，这座城镇有一条大河。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "昔の話",
+          "zh": "从前的故事"
+        }
+      ],
+      "usage_note_zh": "可作时间名词或副词；相较「以前」，「昔」通常指更久远的过去。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "旅行照片取从前义；「昔の」是名词接の修饰时间名词，词典另列副词及adj-no功能，后者按协议映射adjective_na。",
+        "dictionary_sequences": [
+          1382370
+        ],
+        "identity": {
+          "word": "昔",
+          "reading_hiragana": "むかし",
+          "meaning": "从前"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fef8fa15df59ebe0",
+      "index": 1173,
+      "word": "挑戦",
+      "reading_hiragana": "ちょうせん",
+      "context_meaning_zh": "挑战、尝试",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "挑战、尝试",
+          "meaning_ja": "難しいことに向かい、できるかどうかやってみること。",
+          "example_ja": "今年は一人で料理に挑戦します。",
+          "example_zh": "今年我要挑战独自做饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新しいことに挑戦する",
+          "zh": "挑战新事物"
+        }
+      ],
+      "usage_note_zh": "对象常用「に」；名词也可作「挑戦を続ける」的宾语。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "尝试钓鱼作为名词动作，挑戦する也有自サ用法；挑战目标以に连接，钓鱼不是直接受事。",
+        "dictionary_sequences": [
+          1428240
+        ],
+        "identity": {
+          "word": "挑戦",
+          "reading_hiragana": "ちょうせん",
+          "meaning": "挑战、尝试"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-245c44e6f89294a5",
+      "index": 1174,
+      "word": "珍しい",
+      "reading_hiragana": "めずらしい",
+      "context_meaning_zh": "少见的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "少见的",
+          "meaning_ja": "数が少なかったり、あまり見かけなかったりする。",
+          "example_ja": "この店では珍しい野菜を買えます。",
+          "example_zh": "在这家店能买到少见的蔬菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "珍しい動物",
+          "zh": "少见的动物"
+        }
+      ],
+      "usage_note_zh": "修饰名词用「珍しい＋名词」；也可说「珍しくない」表示并不稀奇。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示少见或不寻常，形状评价为少见；词典另含新颖、珍贵等义。",
+        "dictionary_sequences": [
+          1431850
+        ],
+        "identity": {
+          "word": "珍しい",
+          "reading_hiragana": "めずらしい",
+          "meaning": "少见的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-298e252cc24f6d7c",
+      "index": 1175,
+      "word": "試合",
+      "reading_hiragana": "しあい",
+      "context_meaning_zh": "比赛",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "比赛",
+          "meaning_ja": "勝ち負けや結果を決めるために競うこと。",
+          "example_ja": "二つの学校が決勝の試合をしました。",
+          "example_zh": "两所学校进行了决赛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "試合に勝つ",
+          "zh": "赢得比赛"
+        }
+      ],
+      "usage_note_zh": "常用「試合をする／試合に出る／試合に勝つ」；比赛项目可用「の」连接。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「試合」是比赛名词，也可接する表示赛事进行；词典和此处看比赛的例句支持其不及物兼类。",
+        "dictionary_sequences": [
+          1312420
+        ],
+        "identity": {
+          "word": "試合",
+          "reading_hiragana": "しあい",
+          "meaning": "比赛"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ec4b582e086b3990",
+      "index": 1176,
+      "word": "クラブ",
+      "reading_hiragana": "クラブ",
+      "context_meaning_zh": "俱乐部",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "俱乐部",
+          "meaning_ja": "楽しみや目的のために人が集まる団体。また、洋酒を飲む店。",
+          "example_ja": "大学のクラブで写真を勉強しています。",
+          "example_zh": "我在大学社团学习摄影。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "クラブに入る",
+          "zh": "加入社团"
+        }
+      ],
+      "usage_note_zh": "本课语境指社团；「クラブ」也可指夜间娱乐场所，具体义由搭配和场景决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "“クラブの案内”结合介绍资料语境，最可能为运动或活动团体；没有足够线索断定具体类型，词项保持普通名词。",
+        "dictionary_sequences": [
+          1044310,
+          1243910
+        ],
+        "identity": {
+          "word": "クラブ",
+          "reading_hiragana": "クラブ",
+          "meaning": "俱乐部"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5255543eb23ce66d",
+      "index": 1177,
+      "word": "色々",
+      "reading_hiragana": "いろいろ",
+      "context_meaning_zh": "各种各样、形形色色",
+      "pos_ja": "名詞・ナ形容詞・副詞",
+      "pos_zh": "名词・な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "各种各样、形形色色",
+          "meaning_ja": "種類や内容が一つだけでなく、いくつもあるさま。",
+          "example_ja": "旅行では色々な町を見て回りました。",
+          "example_zh": "旅行时我游览了各式各样的城镇。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "色々な方法",
+          "zh": "各种方法"
+        }
+      ],
+      "usage_note_zh": "名词前常用「色々な」；句末可说「色々です」。书写也常见「いろいろ」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「色々な音」采用ナ形名词修饰；词典同时列副词及指各种事物的名词义，故保留三类。",
+        "dictionary_sequences": [
+          1587850
+        ],
+        "identity": {
+          "word": "色々",
+          "reading_hiragana": "いろいろ",
+          "meaning": "各种各样、形形色色"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-632b59a09082caf7",
+      "index": 1178,
+      "word": "バスケットボール",
+      "reading_hiragana": "バスケットボール",
+      "context_meaning_zh": "篮球",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "篮球",
+          "meaning_ja": "二つのチームが、ボールを籠に入れて得点を競う競技。",
+          "example_ja": "放課後に体育館でバスケットボールをしました。",
+          "example_zh": "放学后我在体育馆打了篮球。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "バスケットボールの試合",
+          "zh": "篮球比赛"
+        }
+      ],
+      "usage_note_zh": "运动项目名；常说「バスケットボールをする」，口语可简称「バスケ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "バスケットボール在句中指受欢迎的运动项目，词典普通名词义成立；不是名词化动词或复合活用词。",
+        "dictionary_sequences": [
+          1098440
+        ],
+        "identity": {
+          "word": "バスケットボール",
+          "reading_hiragana": "バスケットボール",
+          "meaning": "篮球"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2bc99d711260e14e",
+      "index": 1179,
+      "word": "バドミントン",
+      "reading_hiragana": "バドミントン",
+      "context_meaning_zh": "羽毛球",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "羽毛球",
+          "meaning_ja": "ラケットで羽根のついた球を打ち合う競技。",
+          "example_ja": "妹は週末にバドミントンをします。",
+          "example_zh": "妹妹周末打羽毛球。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "バドミントンのラケット",
+          "zh": "羽毛球拍"
+        }
+      ],
+      "usage_note_zh": "运动名；通常说「バドミントンをする／の試合」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指羽毛球这项运动，词典列普通名词；例句以「に興味がある」搭配，未显示特殊语域。",
+        "dictionary_sequences": [
+          1099390
+        ],
+        "identity": {
+          "word": "バドミントン",
+          "reading_hiragana": "バドミントン",
+          "meaning": "羽毛球"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ae4d9f10cf99fd75",
+      "index": 1180,
+      "word": "テニス",
+      "reading_hiragana": "テニス",
+      "context_meaning_zh": "网球",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "网球",
+          "meaning_ja": "ネットをはさんで、ラケットでボールを打ち合う競技。",
+          "example_ja": "公園のコートでテニスを習っています。",
+          "example_zh": "我在公园的球场学网球。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "テニスを習う",
+          "zh": "学网球"
+        }
+      ],
+      "usage_note_zh": "运动名；「テニスをする」表示打网球，「テニスの試合」指网球比赛。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "网球运动名词可与する构成打网球，学习备注给出「テニスをする」；本例「やる」也将网球当活动对象。",
+        "dictionary_sequences": [
+          1080000
+        ],
+        "identity": {
+          "word": "テニス",
+          "reading_hiragana": "テニス",
+          "meaning": "网球"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3ccc4f11771d477e",
+      "index": 1181,
+      "word": "楽しむ",
+      "reading_hiragana": "たのしむ",
+      "context_meaning_zh": "玩乐、享受",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "玩乐、享受",
+          "meaning_ja": "好きなことをして、楽しい時間を過ごす。",
+          "example_ja": "休日は友達と料理を楽しみます。",
+          "example_zh": "休息日我和朋友享受烹饪的乐趣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "旅行を楽しむ",
+          "zh": "享受旅行"
+        }
+      ],
+      "usage_note_zh": "活动或事物作「を」宾语；还可表示从某事中得到乐趣，不一定是玩耍。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「楽器作りでは音を楽しむ」把声音作「を」宾语；词典和例句均支持五段他动词欣赏义。",
+        "dictionary_sequences": [
+          1207270
+        ],
+        "identity": {
+          "word": "楽しむ",
+          "reading_hiragana": "たのしむ",
+          "meaning": "玩乐、享受"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d8c175f4c4609ef3",
+      "index": 1182,
+      "word": "記念",
+      "reading_hiragana": "きねん",
+      "context_meaning_zh": "纪念",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "纪念",
+          "meaning_ja": "大切な出来事を忘れないように、心にとどめること。",
+          "example_ja": "卒業を記念して写真を撮りました。",
+          "example_zh": "为了纪念毕业，我们拍了照片。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "記念に残す",
+          "zh": "作为纪念留下"
+        }
+      ],
+      "usage_note_zh": "常说「〜を記念して」表示以某事为纪念；「記念の品」指纪念品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "記念可作纪念名词及他动サ变词；记念照片的「記念の写真」是名词连体修饰。",
+        "dictionary_sequences": [
+          1223340
+        ],
+        "identity": {
+          "word": "記念",
+          "reading_hiragana": "きねん",
+          "meaning": "纪念"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-30038f49409940d9",
+      "index": 1183,
+      "word": "撮る",
+      "reading_hiragana": "とる",
+      "context_meaning_zh": "拍摄",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "拍摄",
+          "meaning_ja": "カメラで画像を写す。また、映像を記録する。",
+          "example_ja": "窓から見える山を撮りました。",
+          "example_zh": "我拍下了窗外看得到的山。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "写真を撮る",
+          "zh": "拍照片"
+        }
+      ],
+      "usage_note_zh": "拍摄对象用「を」；「写真を撮る」是常见组合。此处读「とる」，不是「取る」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "撮る为五段他动词，常以照片等为を宾语；此处辞书形嵌入「写真を撮ること」。",
+        "dictionary_sequences": [
+          1298790
+        ],
+        "identity": {
+          "word": "撮る",
+          "reading_hiragana": "とる",
+          "meaning": "拍摄"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1f8cb4db4d2d0241",
+      "index": 1184,
+      "word": "チーム",
+      "reading_hiragana": "チーム",
+      "context_meaning_zh": "队、组、小组；队",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "队、组、小组；队",
+          "meaning_ja": "同じ目的のために一緒に行動する人々。",
+          "example_ja": "チームのみんなで練習の予定を決めました。",
+          "example_zh": "队里的大家一起决定了练习计划。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "チームを組む",
+          "zh": "组队"
+        }
+      ],
+      "usage_note_zh": "常说「チームを作る／組む」；本词也可指运动队或工作小组。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "チーム指为共同目的行动的队伍或小组；本课校队语境为普通名词，虽常作を的宾语但不标动性。",
+        "dictionary_sequences": [
+          1077360
+        ],
+        "identity": {
+          "word": "チーム",
+          "reading_hiragana": "チーム",
+          "meaning": "队、组、小组；队"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4fefaa69cb5984f9",
+      "index": 1185,
+      "word": "ぶらんこ",
+      "reading_hiragana": "ぶらんこ",
+      "context_meaning_zh": "秋千",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "秋千",
+          "meaning_ja": "座席をつるし、前後に揺らして遊ぶ遊具。",
+          "example_ja": "公園のぶらんこに妹が乗っています。",
+          "example_zh": "妹妹正坐在公园的秋千上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ぶらんこに乗る",
+          "zh": "荡秋千"
+        }
+      ],
+      "usage_note_zh": "通常写「ブランコ」或「ぶらんこ」；动作常说「乗る／揺らす」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例中儿童在ぶらんこ上玩，指秋千游具；辞书亦列秋千／空中飞人，本语境取秋千。",
+        "dictionary_sequences": [
+          1574220
+        ],
+        "identity": {
+          "word": "ぶらんこ",
+          "reading_hiragana": "ぶらんこ",
+          "meaning": "秋千"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c5f9cde262f0686b",
+      "index": 1186,
+      "word": "ボール",
+      "reading_hiragana": "ボール",
+      "context_meaning_zh": "球",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "球",
+          "meaning_ja": "投げたり、打ったりして遊ぶ丸い道具。",
+          "example_ja": "赤いボールを弟に投げました。",
+          "example_zh": "我把红球扔给了弟弟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ボールを投げる",
+          "zh": "扔球"
+        }
+      ],
+      "usage_note_zh": "本词条读「ボール」，主要指球类用球；圆球形物体也可称「球」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "网球语境中的「ボール」指球这一具体器具；词典的投球义、碗和板材义与本条含义无关。",
+        "dictionary_sequences": [
+          1123550
+        ],
+        "identity": {
+          "word": "ボール",
+          "reading_hiragana": "ボール",
+          "meaning": "球"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1dec6876becd63ee",
+      "index": 1187,
+      "word": "スポーツ",
+      "reading_hiragana": "スポーツ",
+      "context_meaning_zh": "运动",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "运动",
+          "meaning_ja": "体を動かして行い、技や勝ち負けを楽しむ活動。",
+          "example_ja": "父は毎朝スポーツをしています。",
+          "example_zh": "父亲每天早上都做运动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "スポーツを楽しむ",
+          "zh": "享受运动"
+        }
+      ],
+      "usage_note_zh": "是运动的总称，可说「スポーツをする／見る」；各运动项目名称更具体。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "体育活动是名词；本例使用“从事体育活动”的常见名词搭配，但词典只列名词，不能单凭する搭配扩展为サ变动词。",
+        "dictionary_sequences": [
+          1073210
+        ],
+        "identity": {
+          "word": "スポーツ",
+          "reading_hiragana": "スポーツ",
+          "meaning": "运动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3ff80334e63bb768",
+      "index": 1188,
+      "word": "野球",
+      "reading_hiragana": "やきゅう",
+      "context_meaning_zh": "棒球",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "棒球",
+          "meaning_ja": "二つのチームが、バットで打った球を追って得点を競う競技。",
+          "example_ja": "兄は子どものころから野球が好きです。",
+          "example_zh": "哥哥从小就喜欢棒球。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "野球の試合",
+          "zh": "棒球比赛"
+        }
+      ],
+      "usage_note_zh": "运动名；「野球をする」指打棒球，「野球を見る」指看比赛。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号1537300列棒球名词；句中指观看棒球比赛。",
+        "dictionary_sequences": [
+          1537300
+        ],
+        "identity": {
+          "word": "野球",
+          "reading_hiragana": "やきゅう",
+          "meaning": "棒球"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5066b30132c2eafb",
+      "index": 1189,
+      "word": "人気がある",
+      "reading_hiragana": "にんきがある",
+      "context_meaning_zh": "受欢迎",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "受欢迎",
+          "meaning_ja": "多くの人が好きで、よく選んだり支持したりする状態だ。",
+          "example_ja": "この店のカレーは学生に人気があります。",
+          "example_zh": "这家店的咖喱很受学生欢迎。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "若者に人気がある",
+          "zh": "受年轻人欢迎"
+        }
+      ],
+      "usage_note_zh": "受欢迎的对象用「に」标示；常说「人／物は〜に人気がある」。表达固定为「人気がある」。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "人気がある整体表示受欢迎；例句的あります是礼貌变形，基础表达本身不带礼貌标记。",
+        "dictionary_sequences": [
+          2847376
+        ],
+        "identity": {
+          "word": "人気がある",
+          "reading_hiragana": "にんきがある",
+          "meaning": "受欢迎"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-25331de1efea7311",
+      "index": 1190,
+      "word": "ピンポン",
+      "reading_hiragana": "ピンポン",
+      "context_meaning_zh": "乒乓球（也称卓球）",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・口语",
+      "senses": [
+        {
+          "meaning_zh": "乒乓球（也称卓球）",
+          "meaning_ja": "卓球を指す口语名称。",
+          "example_ja": "食堂のとなりの部屋でピンポンをしました。",
+          "example_zh": "我在食堂旁边的房间打了乒乓球。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ピンポンをする",
+          "zh": "打乒乓球"
+        }
+      ],
+      "usage_note_zh": "口语中可指乒乓球或打乒乓球；正式运动名称通常说「卓球」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本例与太极拳并列为乒乓球活动，按乒乓球义；词典另列门铃拟声义，但此处不适用。",
+        "dictionary_sequences": [
+          1107320
+        ],
+        "identity": {
+          "word": "ピンポン",
+          "reading_hiragana": "ピンポン",
+          "meaning": "乒乓球（也称卓球）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-27c264616185b38e",
+      "index": 1191,
+      "word": "以前",
+      "reading_hiragana": "いぜん",
+      "context_meaning_zh": "以前",
+      "pos_ja": "名詞・副詞",
+      "pos_zh": "名词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "以前",
+          "meaning_ja": "今より前のある時点や期間。",
+          "example_ja": "以前、この道の先に小さな本屋がありました。",
+          "example_zh": "以前，这条路前面有一家小书店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "以前の仕事",
+          "zh": "以前的工作"
+        }
+      ],
+      "usage_note_zh": "作时间名词可接「の」；与「昔」相比，所指时间可近可远。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此处表示过去时期，可作名词并作时间副词；词典列n/adv及接尾用法，不能将不同语法功能混为一种接尾标签。",
+        "dictionary_sequences": [
+          1155150
+        ],
+        "identity": {
+          "word": "以前",
+          "reading_hiragana": "いぜん",
+          "meaning": "以前"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ae1406156d568202",
+      "index": 1192,
+      "word": "碁",
+      "reading_hiragana": "ご",
+      "context_meaning_zh": "围棋",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "围棋",
+          "meaning_ja": "黒と白の石を交互に置き、相手の石を囲む盤上の遊び。",
+          "example_ja": "祖父は夕方に友人と碁を打ちます。",
+          "example_zh": "祖父傍晚和朋友下围棋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "碁を打つ",
+          "zh": "下围棋"
+        }
+      ],
+      "usage_note_zh": "常说「碁を打つ」；也称「囲碁」，「碁」本身是棋类名称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "碁与将棋并列为棋类兴趣，取围棋名词义。",
+        "dictionary_sequences": [
+          1270870
+        ],
+        "identity": {
+          "word": "碁",
+          "reading_hiragana": "ご",
+          "meaning": "围棋"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-43facdc27e804d56",
+      "index": 1193,
+      "word": "将棋",
+      "reading_hiragana": "しょうぎ",
+      "context_meaning_zh": "(日本)象棋",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(日本)象棋",
+          "meaning_ja": "二人が盤上の駒を動かし、相手の王将を追いつめる日本の遊び。",
+          "example_ja": "父と将棋を指して、一局楽しみました。",
+          "example_zh": "我和父亲下了一盘日本将棋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "将棋を指す",
+          "zh": "下将棋"
+        }
+      ],
+      "usage_note_zh": "通常与动词「指す」搭配；「将棋」是日本将棋，规则和中国象棋不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "将棋是日本棋类，与围棋并列为个人喜爱的桌面游戏。",
+        "dictionary_sequences": [
+          1347640
+        ],
+        "identity": {
+          "word": "将棋",
+          "reading_hiragana": "しょうぎ",
+          "meaning": "(日本)象棋"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-63b49afa61d1fef6",
+      "index": 1194,
+      "word": "興味",
+      "reading_hiragana": "きょうみ",
+      "context_meaning_zh": "兴趣、爱好",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "兴趣、爱好",
+          "meaning_ja": "知りたい、見たい、やってみたいと思う気持ち。",
+          "example_ja": "妹は宇宙の本に興味があります。",
+          "example_zh": "妹妹对宇宙方面的书感兴趣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "〜に興味がある",
+          "zh": "对……感兴趣"
+        }
+      ],
+      "usage_note_zh": "兴趣对象用「に」；常见句型是「人は物事に興味がある」，和「趣味」所指的爱好活动有别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "对某事物产生兴趣的名词；例句明确为对羽毛球有兴趣，词典interest义吻合。",
+        "dictionary_sequences": [
+          1238410
+        ],
+        "identity": {
+          "word": "興味",
+          "reading_hiragana": "きょうみ",
+          "meaning": "兴趣、爱好"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6edc4bc53c44f805",
+      "index": 1195,
+      "word": "先日",
+      "reading_hiragana": "せんじつ",
+      "context_meaning_zh": "前几天、日前、上次",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "前几天、日前、上次",
+          "meaning_ja": "話し手から見て数日前など、近い過去のある日。",
+          "example_ja": "先日、駅で高校の先生に会いました。",
+          "example_zh": "前几天，我在车站遇到了高中老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先日の会議",
+          "zh": "前几天的会议"
+        }
+      ],
+      "usage_note_zh": "用于回顾近期某日，常见于礼貌或书面表达；不能单独表示“上一次做某事”。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "先日指不久前某一天，可作时间名词或直接修饰叙述动词；课文用法与词典the other day相符。",
+        "dictionary_sequences": [
+          1388300
+        ],
+        "identity": {
+          "word": "先日",
+          "reading_hiragana": "せんじつ",
+          "meaning": "前几天、日前、上次"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-251ef1a50ba4b047",
+      "index": 1196,
+      "word": "活動",
+      "reading_hiragana": "かつどう",
+      "context_meaning_zh": "活动",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "活动",
+          "meaning_ja": "人や組織が、目的を持って行うこと。",
+          "example_ja": "地域の活動に親子で参加しました。",
+          "example_zh": "我和孩子一起参加了社区活动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "活動に参加する",
+          "zh": "参加活动"
+        }
+      ],
+      "usage_note_zh": "可指组织开展的行动或个人参与的活动；加入对象用「に参加する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "活动を体験する取一般活动义；词典标示活动兼不及物サ变，移动电影这一旧缩略义不适合本课。",
+        "dictionary_sequences": [
+          1208360
+        ],
+        "identity": {
+          "word": "活動",
+          "reading_hiragana": "かつどう",
+          "meaning": "活动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-47bf4f1156001472",
+      "index": 1197,
+      "word": "体験",
+      "reading_hiragana": "たいけん",
+      "context_meaning_zh": "体验",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "体验",
+          "meaning_ja": "自分で実際に行ったり、見たりして分かったこと。",
+          "example_ja": "初めての一人旅は大切な体験でした。",
+          "example_zh": "第一次独自旅行是一次宝贵的体验。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "体験を語る",
+          "zh": "讲述体验"
+        }
+      ],
+      "usage_note_zh": "可说「体験する／体験をする」；强调亲身经历，不只是从书本得知。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "体験名词兼サ变他动词；本句「活動を体験する」直接以活动为体验对象，符合辞书hands-on experience。",
+        "dictionary_sequences": [
+          1409420
+        ],
+        "identity": {
+          "word": "体験",
+          "reading_hiragana": "たいけん",
+          "meaning": "体验"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e62a4d2f1ad8f668",
+      "index": 1198,
+      "word": "結婚式",
+      "reading_hiragana": "けっこんしき",
+      "context_meaning_zh": "婚礼",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "婚礼",
+          "meaning_ja": "二人が夫婦になることを祝う儀式や集まり。",
+          "example_ja": "いとこの結婚式で花を渡しました。",
+          "example_zh": "我在表亲的婚礼上送了花。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結婚式に出る",
+          "zh": "出席婚礼"
+        }
+      ],
+      "usage_note_zh": "通常说「結婚式を挙げる／に出席する」；「結婚」是结婚这一事实，「結婚式」是仪式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处「結婚式」指朋友举行的婚礼仪式，作场合名词使用；没有例句依据赋予特殊正式或体裁标签。",
+        "dictionary_sequences": [
+          1254810
+        ],
+        "identity": {
+          "word": "結婚式",
+          "reading_hiragana": "けっこんしき",
+          "meaning": "婚礼"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-54aebcba49d36e9e",
+      "index": 1199,
+      "word": "開く",
+      "reading_hiragana": "ひらく",
+      "context_meaning_zh": "召开；打开；差距拉开；开发开拓",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "召开；打开；差距拉开；开发开拓",
+          "meaning_ja": "閉じていた物を開けたり、本などを広げたりする。",
+          "example_ja": "本を開いて、三十ページを読んでください。",
+          "example_zh": "请翻开书读第三十页。"
+        },
+        {
+          "meaning_zh": "（店・会などを）开办、召开",
+          "meaning_ja": "新しい店を始めたり、人が集まる会を行ったりする。",
+          "example_ja": "公民館で子どもの写真展を開きます。",
+          "example_zh": "我们要在社区活动中心举办儿童摄影展。"
+        },
+        {
+          "meaning_zh": "（差距）拉开",
+          "meaning_ja": "二つのものの間に、距離や点数などの差ができる。",
+          "example_ja": "後半に入ると、二つのチームの点差が開きました。",
+          "example_zh": "进入下半场后，两队的分差拉开了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "店を開く",
+          "zh": "开店"
+        }
+      ],
+      "usage_note_zh": "本条读「ひらく」；可表示打开或翻开书本、开办店铺、召开活动及差距拉开。「あく」读音的自动词义不在本条混列。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "打开书本和比分差距扩大分别体现词典所列及物、非及物用法；同形同读，保留自他两用。",
+        "dictionary_sequences": [
+          1202440
+        ],
+        "identity": {
+          "word": "開く",
+          "reading_hiragana": "ひらく",
+          "meaning": "召开；打开；差距拉开；开发开拓"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bdef44ae5b0a3db7",
+      "index": 1200,
+      "word": "出会う",
+      "reading_hiragana": "であう",
+      "context_meaning_zh": "邂逅、遇见",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "邂逅、遇见",
+          "meaning_ja": "人や物に、思いがけない場所や時に会う。",
+          "example_ja": "旅先の市場で親切な店員に出会いました。",
+          "example_zh": "我在旅途中的市场遇到了一位热心的店员。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人に出会う",
+          "zh": "遇见某人"
+        }
+      ],
+      "usage_note_zh": "相遇对象常用「に」；可用于人，也能用于偶然接触到的作品或机会。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表示偶然遇见朋友，学习注记说明对象常用に，也可邂逅作品或机会；词典标自动词。",
+        "dictionary_sequences": [
+          1598530
+        ],
+        "identity": {
+          "word": "出会う",
+          "reading_hiragana": "であう",
+          "meaning": "邂逅、遇见"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-123ac98875884d5b",
+      "index": 1201,
+      "word": "機会",
+      "reading_hiragana": "きかい",
+      "context_meaning_zh": "机会",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "机会",
+          "meaning_ja": "何かをするのに都合のよい時や場面。",
+          "example_ja": "日本の料理を習う機会がありました。",
+          "example_zh": "我有机会学习日本料理。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "機会を逃す",
+          "zh": "错过机会"
+        }
+      ],
+      "usage_note_zh": "常说「機会がある／機会を得る」；后接动作时常用「〜する機会」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "参加活动是一次好机会，「機会」作名词；可接「する機会」，但本句是判断句且无サ变用法。",
+        "dictionary_sequences": [
+          1220800
+        ],
+        "identity": {
+          "word": "機会",
+          "reading_hiragana": "きかい",
+          "meaning": "机会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-41d406001dabed51",
+      "index": 1202,
+      "word": "久しぶり",
+      "reading_hiragana": "ひさしぶり",
+      "context_meaning_zh": "好久、许久",
+      "pos_ja": "名詞・ナ形容詞・表現・挨拶",
+      "pos_zh": "名词・な形容词・表达・问候语",
+      "register_zh": "非正式・口语",
+      "senses": [
+        {
+          "meaning_zh": "好久、许久",
+          "meaning_ja": "長い時間がたってから、同じことが再び起こるさま。また、久しぶりに会ったときのあいさつ。",
+          "example_ja": "久しぶりに友達と公園を散歩しました。",
+          "example_zh": "我隔了很久又和朋友在公园散步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "久しぶりに会う",
+          "zh": "久违地见面"
+        }
+      ],
+      "usage_note_zh": "可说「久しぶりに＋动词」或「久しぶりの＋名词」；用于重逢，也可形容隔很久才发生的事。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na",
+          "expression"
+        ],
+        "subtypes": [
+          "greeting"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "“久しぶり”可作名词、ナ形容词，也可作为寒暄表达；本句的“久しぶりに”由名词加助词构成，不把它另算副词。",
+        "dictionary_sequences": [
+          1227370
+        ],
+        "identity": {
+          "word": "久しぶり",
+          "reading_hiragana": "ひさしぶり",
+          "meaning": "好久、许久"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-69aaba172d5c344a",
+      "index": 1203,
+      "word": "夢中",
+      "reading_hiragana": "むちゅう",
+      "context_meaning_zh": "热衷、着迷",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "热衷、着迷",
+          "meaning_ja": "好きなことに心を集中させ、ほかを忘れている状態。",
+          "example_ja": "弟は新しい模型作りに夢中です。",
+          "example_zh": "弟弟迷上了制作新模型。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "〜に夢中になる",
+          "zh": "迷上……"
+        }
+      ],
+      "usage_note_zh": "对象用「に」；「夢中で」可修饰动作，表示全神贯注地做。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "对山景着迷到看了两小时，词典的absorbed/immersed义及な形容词用法吻合；另有梦境义不适用。",
+        "dictionary_sequences": [
+          1529500
+        ],
+        "identity": {
+          "word": "夢中",
+          "reading_hiragana": "むちゅう",
+          "meaning": "热衷、着迷"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2d3645db18b39ccf",
+      "index": 1204,
+      "word": "切紙",
+      "reading_hiragana": "きりがみ",
+      "context_meaning_zh": "剪纸",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "剪纸",
+          "meaning_ja": "紙を切り、形や模様を作ること。また、その作品。",
+          "example_ja": "子どもたちは色紙で切紙を作りました。",
+          "example_zh": "孩子们用彩纸做了剪纸。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "切紙を作る",
+          "zh": "做剪纸"
+        }
+      ],
+      "usage_note_zh": "词形有时写作「切り紙」；指剪纸技艺或作品，不是泛指撕纸。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "切紙指以剪切纸张制成花等作品或剪纸技艺；例句用で标记材料，常见写法也作切り紙。",
+        "dictionary_sequences": [
+          1384230
+        ],
+        "identity": {
+          "word": "切紙",
+          "reading_hiragana": "きりがみ",
+          "meaning": "剪纸"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ac0c883a20b8bba7",
+      "index": 1205,
+      "word": "読書",
+      "reading_hiragana": "どくしょ",
+      "context_meaning_zh": "读书",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "读书",
+          "meaning_ja": "本を読んで、内容を知ったり楽しんだりすること。",
+          "example_ja": "休日は静かなカフェで読書をします。",
+          "example_zh": "休息日我会在安静的咖啡馆读书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "読書を楽しむ",
+          "zh": "享受阅读"
+        }
+      ],
+      "usage_note_zh": "更自然的动词搭配也常见「本を読む」；名词用法常说「読書が趣味です」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "摄影和读书并列为个人兴趣，読書表示阅读书籍这一活动。",
+        "dictionary_sequences": [
+          1456420
+        ],
+        "identity": {
+          "word": "読書",
+          "reading_hiragana": "どくしょ",
+          "meaning": "读书"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-42ffd1caa65d1d04",
+      "index": 1206,
+      "word": "太極拳",
+      "reading_hiragana": "たいきょくけん",
+      "context_meaning_zh": "太极拳",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "太极拳",
+          "meaning_ja": "ゆっくり体を動かし、呼吸や姿勢を整える中国発祥の運動。",
+          "example_ja": "公園で太極拳を練習する人がいます。",
+          "example_zh": "有人在公园练习太极拳。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "太極拳をする",
+          "zh": "打太极拳"
+        }
+      ],
+      "usage_note_zh": "运动名称；常说「太極拳をする／習う」，这里的「拳」不表示拳击比赛。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指中国传统太极拳，例中与乒乓活动并列为体验项目；词典标武术领域。",
+        "dictionary_sequences": [
+          1408240
+        ],
+        "identity": {
+          "word": "太極拳",
+          "reading_hiragana": "たいきょくけん",
+          "meaning": "太极拳"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-22d599494b9179b4",
+      "index": 1207,
+      "word": "バレーボール",
+      "reading_hiragana": "バレーボール",
+      "context_meaning_zh": "排球",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "排球",
+          "meaning_ja": "ネットをはさんで、手や腕でボールを打ち合う競技。",
+          "example_ja": "学校の体育館でバレーボールをしました。",
+          "example_zh": "我在学校体育馆打了排球。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "バレーボールの選手",
+          "zh": "排球选手"
+        }
+      ],
+      "usage_note_zh": "运动名称；「バレーボールをする」指打排球，也可简称「バレー」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句「バレーボールをしました」指参加排球运动，词典明确列为名词；运动动作由「する」表达。",
+        "dictionary_sequences": [
+          1099960
+        ],
+        "identity": {
+          "word": "バレーボール",
+          "reading_hiragana": "バレーボール",
+          "meaning": "排球"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0c64ff42e97383de",
+      "index": 1208,
+      "word": "マラソン",
+      "reading_hiragana": "マラソン",
+      "context_meaning_zh": "马拉松",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "马拉松",
+          "meaning_ja": "長い距離を走る競走。正式なフルマラソンは42.195キロを走る。",
+          "example_ja": "父は初めてのマラソン大会に出ます。",
+          "example_zh": "父亲要参加人生第一场马拉松比赛。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "マラソン大会",
+          "zh": "马拉松比赛"
+        }
+      ],
+      "usage_note_zh": "可指长距离赛跑，也可用于「テレビを続けて見るマラソン視聴」等比喻性长时间活动；本义仍是长跑。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本条是长距离赛跑的马拉松名词，比赛可由属格修饰；词典的杀虫剂商品名为另一同形义，不适用于此处。",
+        "dictionary_sequences": [
+          1129290
+        ],
+        "identity": {
+          "word": "マラソン",
+          "reading_hiragana": "マラソン",
+          "meaning": "马拉松"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ccb7f0fe89a6d4a7",
+      "index": 1209,
+      "word": "巡る",
+      "reading_hiragana": "めぐる",
+      "context_meaning_zh": "巡游;循环;围绕",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "巡游;循环;围绕",
+          "meaning_ja": "ある場所の周りを回る。また、話題や問題について考える。",
+          "example_ja": "休みの日に古い町を巡りました。",
+          "example_zh": "休息日我游览了老城区。"
+        },
+        {
+          "meaning_zh": "（話題・問題などを）围绕",
+          "meaning_ja": "ある問題について、意見を出し合ったり考えたりする。",
+          "example_ja": "その計画を巡って、長い話し合いが続きました。",
+          "example_zh": "围绕那项计划，进行了长时间的讨论。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "町を巡る",
+          "zh": "游览城镇"
+        }
+      ],
+      "usage_note_zh": "本条读「めぐる」；可表示巡游地点，也可说「問題を巡る議論」表示围绕某问题的讨论。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "在附近公园巡游，地点「公園を」标移动路径而非直接宾语；词典列旅行绕行自动词。",
+        "dictionary_sequences": [
+          1342050
+        ],
+        "identity": {
+          "word": "巡る",
+          "reading_hiragana": "めぐる",
+          "meaning": "巡游;循环;围绕"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-582550d3910a8976",
+      "index": 1210,
+      "word": "サッカー",
+      "reading_hiragana": "サッカー",
+      "context_meaning_zh": "足球",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "足球",
+          "meaning_ja": "二つのチームが足でボールを蹴り、ゴールを競う競技。",
+          "example_ja": "雨がやんだので、校庭でサッカーをしました。",
+          "example_zh": "雨停了，所以我们在操场踢了足球。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "サッカーの試合",
+          "zh": "足球比赛"
+        }
+      ],
+      "usage_note_zh": "运动名称；常说「サッカーをする／見る」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "课程例句「サッカーが好き」明确指足球运动；所给同形词典候选另指布料或超市装袋者，不适用于语境。",
+        "dictionary_sequences": [
+          1056700
+        ],
+        "identity": {
+          "word": "サッカー",
+          "reading_hiragana": "サッカー",
+          "meaning": "足球"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-93f9b7332a8398ec",
+      "index": 1211,
+      "word": "グループ",
+      "reading_hiragana": "グループ",
+      "context_meaning_zh": "小组",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "小组",
+          "meaning_ja": "共通の目的や特徴を持つ人々のまとまり。",
+          "example_ja": "三人のグループで発表の準備をしました。",
+          "example_zh": "我们三人一组准备了发表内容。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "グループに分かれる",
+          "zh": "分成小组"
+        }
+      ],
+      "usage_note_zh": "人数或属性可用「〜人のグループ」修饰；可指临时小组，也可指较固定的团体。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指公民馆周末活动中的小组，词典释义也指人群团体；例句语境不足以支持正式、教育或行业标签。",
+        "dictionary_sequences": [
+          1047300
+        ],
+        "identity": {
+          "word": "グループ",
+          "reading_hiragana": "グループ",
+          "meaning": "小组"
+        }
+      }
+    }
+  ]
+}

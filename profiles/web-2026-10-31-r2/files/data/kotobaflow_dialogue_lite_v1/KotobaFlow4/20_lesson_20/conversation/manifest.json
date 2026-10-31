@@ -1,0 +1,1335 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 255.158,
+ "listening_review": "pending",
+ "source_chapter": 76,
+ "turns": [
+  {
+   "turn_id": "C76-D001",
+   "turn_index": 0,
+   "speaker": "小野",
+   "source_text": "今日は二つの資料をもとに、会場の選択を話し合います。まず、青木さんから提案をお願いします。",
+   "sentence_ids": [
+    "C76-D001-01",
+    "C76-D001-02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 7.382,
+   "duration_sec": 7.382
+  },
+  {
+   "turn_id": "C76-D002",
+   "turn_index": 1,
+   "speaker": "青木",
+   "source_text": "私は条件付きでB案を支持します。週二回開けますし、示された月の費用は三万五千円です。",
+   "sentence_ids": [
+    "C76-D002-01",
+    "C76-D002-02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.732,
+   "end_sec": 15.483,
+   "duration_sec": 7.751
+  },
+  {
+   "turn_id": "C76-D003",
+   "turn_index": 2,
+   "speaker": "田辺",
+   "source_text": "私は同じ会場のほうが心配が少ないです。十四人も会場が変わらないことを優先していますから、住民はA案を望んでいると言えるのではありませんか。",
+   "sentence_ids": [
+    "C76-D003-01",
+    "C76-D003-02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 15.833,
+   "end_sec": 25.894,
+   "duration_sec": 10.061
+  },
+  {
+   "turn_id": "C76-D004",
+   "turn_index": 3,
+   "speaker": "森",
+   "source_text": "十四人という数字の範囲を確認したいです。それは、地域全体についての結果ではありませんよね。",
+   "sentence_ids": [
+    "C76-D004-01",
+    "C76-D004-02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 26.244,
+   "end_sec": 33.907,
+   "duration_sec": 7.663
+  },
+  {
+   "turn_id": "C76-D005",
+   "turn_index": 4,
+   "speaker": "青木",
+   "source_text": "はい。自分の意思で聞き取りに参加した、現在の利用者二十四人の回答です。聞き取りに参加していない人の意見は含まれていません。",
+   "sentence_ids": [
+    "C76-D005-01",
+    "C76-D005-02",
+    "C76-D005-03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.257,
+   "end_sec": 43.412,
+   "duration_sec": 9.155
+  },
+  {
+   "turn_id": "C76-D006",
+   "turn_index": 5,
+   "speaker": "田辺",
+   "source_text": "では、「住民はA案を望んでいる」という私の言い方は撤回します。ただ、場所への不安は残ります。",
+   "sentence_ids": [
+    "C76-D006-01",
+    "C76-D006-02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 43.762,
+   "end_sec": 50.89,
+   "duration_sec": 7.128
+  },
+  {
+   "turn_id": "C76-D007",
+   "turn_index": 6,
+   "speaker": "小野",
+   "source_text": "その点は大切ですね。支持する案と、心配している点を分けて、記録に残しましょう。",
+   "sentence_ids": [
+    "C76-D007-01",
+    "C76-D007-02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 51.24,
+   "end_sec": 57.534,
+   "duration_sec": 6.294
+  },
+  {
+   "turn_id": "C76-D008",
+   "turn_index": 7,
+   "speaker": "森",
+   "source_text": "私は費用を少なくしたいです。でも、B案でも各会場までの経路はまだ確認していないんですよね。",
+   "sentence_ids": [
+    "C76-D008-01",
+    "C76-D008-02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 57.884,
+   "end_sec": 65.718,
+   "duration_sec": 7.834
+  },
+  {
+   "turn_id": "C76-D009",
+   "turn_index": 8,
+   "speaker": "青木",
+   "source_text": "そのとおりです。公共施設だから段差なく行けるとは限りません。候補ごとに確認が必要です。",
+   "sentence_ids": [
+    "C76-D009-01",
+    "C76-D009-02",
+    "C76-D009-03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "start_sec": 66.068,
+   "end_sec": 73.893,
+   "duration_sec": 7.825
+  },
+  {
+   "turn_id": "C76-D010",
+   "turn_index": 9,
+   "speaker": "田辺",
+   "source_text": "すみません、最後が聞こえませんでした。聞き返してもいいですか。何を候補ごとに確認するのか、もう一度お願いします。",
+   "sentence_ids": [
+    "C76-D010-01",
+    "C76-D010-02",
+    "C76-D010-03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 74.243,
+   "end_sec": 81.847,
+   "duration_sec": 7.604
+  },
+  {
+   "turn_id": "C76-D011",
+   "turn_index": 10,
+   "speaker": "青木",
+   "source_text": "段差のない経路です。始める前に、経路と毎月の会場を確認します。条件付きというのは、未確認でも始めるという意味ではありません。",
+   "sentence_ids": [
+    "C76-D011-01",
+    "C76-D011-02",
+    "C76-D011-03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 82.197,
+   "end_sec": 93.562,
+   "duration_sec": 11.365
+  },
+  {
+   "turn_id": "C76-D012",
+   "turn_index": 11,
+   "speaker": "森",
+   "source_text": "そこは私も同じ考えです。費用が少なくても、経路の条件に合わない会場には賛成できません。",
+   "sentence_ids": [
+    "C76-D012-01",
+    "C76-D012-02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.912,
+   "end_sec": 101.157,
+   "duration_sec": 7.245
+  },
+  {
+   "turn_id": "C76-D013",
+   "turn_index": 12,
+   "speaker": "小野",
+   "source_text": "A案についてはどうでしょう。月六万円なら予算内だ、という判断はできますか。",
+   "sentence_ids": [
+    "C76-D013-01",
+    "C76-D013-02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 101.507,
+   "end_sec": 107.043,
+   "duration_sec": 5.536
+  },
+  {
+   "turn_id": "C76-D014",
+   "turn_index": 13,
+   "speaker": "森",
+   "source_text": "資料を読む限りでは、その六万円は部屋代です。設備の追加料金が不明なので、総費用は分かりません。",
+   "sentence_ids": [
+    "C76-D014-01",
+    "C76-D014-02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 107.393,
+   "end_sec": 116.258,
+   "duration_sec": 8.865
+  },
+  {
+   "turn_id": "C76-D015",
+   "turn_index": 14,
+   "speaker": "青木",
+   "source_text": "補足すると、必ず予算より高くなると判断したわけでもありません。今は、予算内だと確認できないんです。",
+   "sentence_ids": [
+    "C76-D015-01",
+    "C76-D015-02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 116.608,
+   "end_sec": 124.53,
+   "duration_sec": 7.922
+  },
+  {
+   "turn_id": "C76-D016",
+   "turn_index": 15,
+   "speaker": "田辺",
+   "source_text": "分かりました。A案は会場が変わらない反面、費用には不明な点がある。それも説明に入れてください。",
+   "sentence_ids": [
+    "C76-D016-01",
+    "C76-D016-02",
+    "C76-D016-03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 124.88,
+   "end_sec": 132.384,
+   "duration_sec": 7.504
+  },
+  {
+   "turn_id": "C76-D017",
+   "turn_index": 16,
+   "speaker": "小野",
+   "source_text": "B案の場所が変わる可能性には、どんな対策を考えていますか。連絡の方法は決まっていますか。",
+   "sentence_ids": [
+    "C76-D017-01",
+    "C76-D017-02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 132.734,
+   "end_sec": 139.636,
+   "duration_sec": 6.902
+  },
+  {
+   "turn_id": "C76-D018",
+   "turn_index": 17,
+   "speaker": "青木",
+   "source_text": "まだ提案の段階です。会場の案内を用意して、変更をどう知らせるか、始める前に説明したいと思います。",
+   "sentence_ids": [
+    "C76-D018-01",
+    "C76-D018-02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 139.986,
+   "end_sec": 148.275,
+   "duration_sec": 8.289
+  },
+  {
+   "turn_id": "C76-D019",
+   "turn_index": 18,
+   "speaker": "田辺",
+   "source_text": "連絡を読むのが遅れた人への配慮も必要です。知らせたから大丈夫だ、とは考えないでほしいです。",
+   "sentence_ids": [
+    "C76-D019-01",
+    "C76-D019-02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 148.625,
+   "end_sec": 155.267,
+   "duration_sec": 6.642
+  },
+  {
+   "turn_id": "C76-D020",
+   "turn_index": 19,
+   "speaker": "森",
+   "source_text": "賛成です。利用者が確認しやすい方法を相談しましょう。私も、その相談には参加できます。",
+   "sentence_ids": [
+    "C76-D020-01",
+    "C76-D020-02",
+    "C76-D020-03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 155.617,
+   "end_sec": 162.93,
+   "duration_sec": 7.313
+  },
+  {
+   "turn_id": "C76-D021",
+   "turn_index": 20,
+   "speaker": "小野",
+   "source_text": "では、連絡方法は今後相談する、と残します。青木さん、相談の準備をお願いしてもいいですか。",
+   "sentence_ids": [
+    "C76-D021-01",
+    "C76-D021-02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 163.28,
+   "end_sec": 169.909,
+   "duration_sec": 6.629
+  },
+  {
+   "turn_id": "C76-D022",
+   "turn_index": 21,
+   "speaker": "青木",
+   "source_text": "はい、準備します。確認が終わったことと、まだ決まっていないことを分けてまとめます。",
+   "sentence_ids": [
+    "C76-D022-01",
+    "C76-D022-02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 170.259,
+   "end_sec": 176.3,
+   "duration_sec": 6.041
+  },
+  {
+   "turn_id": "C76-D023",
+   "turn_index": 22,
+   "speaker": "田辺",
+   "source_text": "三か月目に見直すそうですが、計画全体を三か月で終える可能性を前提にしていますか。",
+   "sentence_ids": [
+    "C76-D023-01"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 176.65,
+   "end_sec": 183.845,
+   "duration_sec": 7.195
+  },
+  {
+   "turn_id": "C76-D024",
+   "turn_index": 23,
+   "speaker": "小野",
+   "source_text": "計画は六か月です。三か月目の末に出席状況と負担を確認し、その後の三か月の調整を考えます。",
+   "sentence_ids": [
+    "C76-D024-01",
+    "C76-D024-02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 184.195,
+   "end_sec": 192.203,
+   "duration_sec": 8.008
+  },
+  {
+   "turn_id": "C76-D025",
+   "turn_index": 24,
+   "speaker": "森",
+   "source_text": "まだ始めていませんから、負担が減ったとは書けませんね。調べる予定と結果は分ける必要があります。",
+   "sentence_ids": [
+    "C76-D025-01",
+    "C76-D025-02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 192.553,
+   "end_sec": 200.222,
+   "duration_sec": 7.669
+  },
+  {
+   "turn_id": "C76-D026",
+   "turn_index": 25,
+   "speaker": "青木",
+   "source_text": "はい。説明文には資料の出典も書きます。数字を使うときは、回答した人の範囲も残します。",
+   "sentence_ids": [
+    "C76-D026-01",
+    "C76-D026-02",
+    "C76-D026-03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 200.572,
+   "end_sec": 207.82,
+   "duration_sec": 7.248
+  },
+  {
+   "turn_id": "C76-D027",
+   "turn_index": 26,
+   "speaker": "田辺",
+   "source_text": "それなら、B案を暫定的に選ぶことには同意します。場所への不安は、留保した点として残してください。",
+   "sentence_ids": [
+    "C76-D027-01",
+    "C76-D027-02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 208.17,
+   "end_sec": 215.83,
+   "duration_sec": 7.66
+  },
+  {
+   "turn_id": "C76-D028",
+   "turn_index": 27,
+   "speaker": "森",
+   "source_text": "私も賛成です。ただし、経路の確認を省く例外は認めたくありません。その条件は変えないでください。",
+   "sentence_ids": [
+    "C76-D028-01",
+    "C76-D028-02",
+    "C76-D028-03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 216.18,
+   "end_sec": 223.959,
+   "duration_sec": 7.779
+  },
+  {
+   "turn_id": "C76-D029",
+   "turn_index": 28,
+   "speaker": "青木",
+   "source_text": "承知しました。全員が条件なしで賛成した、とは書きません。選択の根拠と残った条件を示します。",
+   "sentence_ids": [
+    "C76-D029-01",
+    "C76-D029-02",
+    "C76-D029-03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 224.309,
+   "end_sec": 232.977,
+   "duration_sec": 8.668
+  },
+  {
+   "turn_id": "C76-D030",
+   "turn_index": 29,
+   "speaker": "小野",
+   "source_text": "今日の合意を確認しましょう。経路と毎月の会場の確認を前提とするB案の暫定選択で、実施の決定ではない、という理解で同じですね。",
+   "sentence_ids": [
+    "C76-D030-01",
+    "C76-D030-02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 233.327,
+   "end_sec": 243.874,
+   "duration_sec": 10.547
+  },
+  {
+   "turn_id": "C76-D031",
+   "turn_index": 30,
+   "speaker": "青木",
+   "source_text": "はい、その理解です。説明文でも「暫定的に選ぶ」と書きます。経路と会場を確認した結果は、今回の合意と分けて記録します。",
+   "sentence_ids": [
+    "C76-D031-01",
+    "C76-D031-02",
+    "C76-D031-03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 244.224,
+   "end_sec": 255.152,
+   "duration_sec": 10.928
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C76-D001-01",
+   "unit_id": "C76-D001",
+   "section": "D",
+   "speaker": "小野",
+   "text": "今日は二つの資料をもとに、会場の選択を話し合います。",
+   "start_sec": 0.0,
+   "end_sec": 4.457,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D001-02",
+   "unit_id": "C76-D001",
+   "section": "D",
+   "speaker": "小野",
+   "text": "まず、青木さんから提案をお願いします。",
+   "start_sec": 4.607,
+   "end_sec": 7.382,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D002-01",
+   "unit_id": "C76-D002",
+   "section": "D",
+   "speaker": "青木",
+   "text": "私は条件付きでB案を支持します。",
+   "start_sec": 7.732,
+   "end_sec": 10.652,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D002-02",
+   "unit_id": "C76-D002",
+   "section": "D",
+   "speaker": "青木",
+   "text": "週二回開けますし、示された月の費用は三万五千円です。",
+   "start_sec": 10.802,
+   "end_sec": 15.483,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D003-01",
+   "unit_id": "C76-D003",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "私は同じ会場のほうが心配が少ないです。",
+   "start_sec": 15.833,
+   "end_sec": 18.897,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D003-02",
+   "unit_id": "C76-D003",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "十四人も会場が変わらないことを優先していますから、住民はA案を望んでいると言えるのではありませんか。",
+   "start_sec": 19.047,
+   "end_sec": 25.894,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D004-01",
+   "unit_id": "C76-D004",
+   "section": "D",
+   "speaker": "森",
+   "text": "十四人という数字の範囲を確認したいです。",
+   "start_sec": 26.244,
+   "end_sec": 29.703,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D004-02",
+   "unit_id": "C76-D004",
+   "section": "D",
+   "speaker": "森",
+   "text": "それは、地域全体についての結果ではありませんよね。",
+   "start_sec": 29.853,
+   "end_sec": 33.907,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D005-01",
+   "unit_id": "C76-D005",
+   "section": "D",
+   "speaker": "青木",
+   "text": "はい。",
+   "start_sec": 34.257,
+   "end_sec": 34.826,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D005-02",
+   "unit_id": "C76-D005",
+   "section": "D",
+   "speaker": "青木",
+   "text": "自分の意思で聞き取りに参加した、現在の利用者二十四人の回答です。",
+   "start_sec": 34.976,
+   "end_sec": 40.069,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D005-03",
+   "unit_id": "C76-D005",
+   "section": "D",
+   "speaker": "青木",
+   "text": "聞き取りに参加していない人の意見は含まれていません。",
+   "start_sec": 40.219,
+   "end_sec": 43.412,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D006-01",
+   "unit_id": "C76-D006",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "では、「住民はA案を望んでいる」という私の言い方は撤回します。",
+   "start_sec": 43.762,
+   "end_sec": 48.235,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D006-02",
+   "unit_id": "C76-D006",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "ただ、場所への不安は残ります。",
+   "start_sec": 48.385,
+   "end_sec": 50.89,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D007-01",
+   "unit_id": "C76-D007",
+   "section": "D",
+   "speaker": "小野",
+   "text": "その点は大切ですね。",
+   "start_sec": 51.24,
+   "end_sec": 53.147,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D007-02",
+   "unit_id": "C76-D007",
+   "section": "D",
+   "speaker": "小野",
+   "text": "支持する案と、心配している点を分けて、記録に残しましょう。",
+   "start_sec": 53.297,
+   "end_sec": 57.534,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D008-01",
+   "unit_id": "C76-D008",
+   "section": "D",
+   "speaker": "森",
+   "text": "私は費用を少なくしたいです。",
+   "start_sec": 57.884,
+   "end_sec": 60.381,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D008-02",
+   "unit_id": "C76-D008",
+   "section": "D",
+   "speaker": "森",
+   "text": "でも、B案でも各会場までの経路はまだ確認していないんですよね。",
+   "start_sec": 60.531,
+   "end_sec": 65.718,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D009-01",
+   "unit_id": "C76-D009",
+   "section": "D",
+   "speaker": "青木",
+   "text": "そのとおりです。",
+   "start_sec": 66.068,
+   "end_sec": 67.6,
+   "review_flags": [
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D009-02",
+   "unit_id": "C76-D009",
+   "section": "D",
+   "speaker": "青木",
+   "text": "公共施設だから段差なく行けるとは限りません。",
+   "start_sec": 67.75,
+   "end_sec": 71.507,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D009-03",
+   "unit_id": "C76-D009",
+   "section": "D",
+   "speaker": "青木",
+   "text": "候補ごとに確認が必要です。",
+   "start_sec": 71.657,
+   "end_sec": 73.893,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D010-01",
+   "unit_id": "C76-D010",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "すみません、最後が聞こえませんでした。",
+   "start_sec": 74.243,
+   "end_sec": 76.74,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D010-02",
+   "unit_id": "C76-D010",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "聞き返してもいいですか。",
+   "start_sec": 76.89,
+   "end_sec": 78.403,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D010-03",
+   "unit_id": "C76-D010",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "何を候補ごとに確認するのか、もう一度お願いします。",
+   "start_sec": 78.553,
+   "end_sec": 81.847,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D011-01",
+   "unit_id": "C76-D011",
+   "section": "D",
+   "speaker": "青木",
+   "text": "段差のない経路です。",
+   "start_sec": 82.197,
+   "end_sec": 84.436,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D011-02",
+   "unit_id": "C76-D011",
+   "section": "D",
+   "speaker": "青木",
+   "text": "始める前に、経路と毎月の会場を確認します。",
+   "start_sec": 84.586,
+   "end_sec": 88.818,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D011-03",
+   "unit_id": "C76-D011",
+   "section": "D",
+   "speaker": "青木",
+   "text": "条件付きというのは、未確認でも始めるという意味ではありません。",
+   "start_sec": 88.968,
+   "end_sec": 93.562,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D012-01",
+   "unit_id": "C76-D012",
+   "section": "D",
+   "speaker": "森",
+   "text": "そこは私も同じ考えです。",
+   "start_sec": 93.912,
+   "end_sec": 96.203,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D012-02",
+   "unit_id": "C76-D012",
+   "section": "D",
+   "speaker": "森",
+   "text": "費用が少なくても、経路の条件に合わない会場には賛成できません。",
+   "start_sec": 96.353,
+   "end_sec": 101.157,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D013-01",
+   "unit_id": "C76-D013",
+   "section": "D",
+   "speaker": "小野",
+   "text": "A案についてはどうでしょう。",
+   "start_sec": 101.507,
+   "end_sec": 103.254,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D013-02",
+   "unit_id": "C76-D013",
+   "section": "D",
+   "speaker": "小野",
+   "text": "月六万円なら予算内だ、という判断はできますか。",
+   "start_sec": 103.404,
+   "end_sec": 107.043,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D014-01",
+   "unit_id": "C76-D014",
+   "section": "D",
+   "speaker": "森",
+   "text": "資料を読む限りでは、その六万円は部屋代です。",
+   "start_sec": 107.393,
+   "end_sec": 111.718,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D014-02",
+   "unit_id": "C76-D014",
+   "section": "D",
+   "speaker": "森",
+   "text": "設備の追加料金が不明なので、総費用は分かりません。",
+   "start_sec": 111.868,
+   "end_sec": 116.258,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D015-01",
+   "unit_id": "C76-D015",
+   "section": "D",
+   "speaker": "青木",
+   "text": "補足すると、必ず予算より高くなると判断したわけでもありません。",
+   "start_sec": 116.608,
+   "end_sec": 121.572,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D015-02",
+   "unit_id": "C76-D015",
+   "section": "D",
+   "speaker": "青木",
+   "text": "今は、予算内だと確認できないんです。",
+   "start_sec": 121.722,
+   "end_sec": 124.53,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D016-01",
+   "unit_id": "C76-D016",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "分かりました。",
+   "start_sec": 124.88,
+   "end_sec": 125.857,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D016-02",
+   "unit_id": "C76-D016",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "A案は会場が変わらない反面、費用には不明な点がある。",
+   "start_sec": 126.007,
+   "end_sec": 130.574,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D016-03",
+   "unit_id": "C76-D016",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "それも説明に入れてください。",
+   "start_sec": 130.724,
+   "end_sec": 132.384,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D017-01",
+   "unit_id": "C76-D017",
+   "section": "D",
+   "speaker": "小野",
+   "text": "B案の場所が変わる可能性には、どんな対策を考えていますか。",
+   "start_sec": 132.734,
+   "end_sec": 137.302,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D017-02",
+   "unit_id": "C76-D017",
+   "section": "D",
+   "speaker": "小野",
+   "text": "連絡の方法は決まっていますか。",
+   "start_sec": 137.452,
+   "end_sec": 139.636,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D018-01",
+   "unit_id": "C76-D018",
+   "section": "D",
+   "speaker": "青木",
+   "text": "まだ提案の段階です。",
+   "start_sec": 139.986,
+   "end_sec": 142.018,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D018-02",
+   "unit_id": "C76-D018",
+   "section": "D",
+   "speaker": "青木",
+   "text": "会場の案内を用意して、変更をどう知らせるか、始める前に説明したいと思います。",
+   "start_sec": 142.168,
+   "end_sec": 148.275,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D019-01",
+   "unit_id": "C76-D019",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "連絡を読むのが遅れた人への配慮も必要です。",
+   "start_sec": 148.625,
+   "end_sec": 151.654,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D019-02",
+   "unit_id": "C76-D019",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "知らせたから大丈夫だ、とは考えないでほしいです。",
+   "start_sec": 151.804,
+   "end_sec": 155.267,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D020-01",
+   "unit_id": "C76-D020",
+   "section": "D",
+   "speaker": "森",
+   "text": "賛成です。",
+   "start_sec": 155.617,
+   "end_sec": 156.665,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D020-02",
+   "unit_id": "C76-D020",
+   "section": "D",
+   "speaker": "森",
+   "text": "利用者が確認しやすい方法を相談しましょう。",
+   "start_sec": 156.815,
+   "end_sec": 160.45,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D020-03",
+   "unit_id": "C76-D020",
+   "section": "D",
+   "speaker": "森",
+   "text": "私も、その相談には参加できます。",
+   "start_sec": 160.6,
+   "end_sec": 162.93,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D021-01",
+   "unit_id": "C76-D021",
+   "section": "D",
+   "speaker": "小野",
+   "text": "では、連絡方法は今後相談する、と残します。",
+   "start_sec": 163.28,
+   "end_sec": 166.827,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D021-02",
+   "unit_id": "C76-D021",
+   "section": "D",
+   "speaker": "小野",
+   "text": "青木さん、相談の準備をお願いしてもいいですか。",
+   "start_sec": 166.977,
+   "end_sec": 169.909,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D022-01",
+   "unit_id": "C76-D022",
+   "section": "D",
+   "speaker": "青木",
+   "text": "はい、準備します。",
+   "start_sec": 170.259,
+   "end_sec": 171.832,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D022-02",
+   "unit_id": "C76-D022",
+   "section": "D",
+   "speaker": "青木",
+   "text": "確認が終わったことと、まだ決まっていないことを分けてまとめます。",
+   "start_sec": 171.982,
+   "end_sec": 176.3,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D023-01",
+   "unit_id": "C76-D023",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "三か月目に見直すそうですが、計画全体を三か月で終える可能性を前提にしていますか。",
+   "start_sec": 176.65,
+   "end_sec": 183.845,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D024-01",
+   "unit_id": "C76-D024",
+   "section": "D",
+   "speaker": "小野",
+   "text": "計画は六か月です。",
+   "start_sec": 184.195,
+   "end_sec": 185.984,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D024-02",
+   "unit_id": "C76-D024",
+   "section": "D",
+   "speaker": "小野",
+   "text": "三か月目の末に出席状況と負担を確認し、その後の三か月の調整を考えます。",
+   "start_sec": 186.134,
+   "end_sec": 192.203,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D025-01",
+   "unit_id": "C76-D025",
+   "section": "D",
+   "speaker": "森",
+   "text": "まだ始めていませんから、負担が減ったとは書けませんね。",
+   "start_sec": 192.553,
+   "end_sec": 196.893,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D025-02",
+   "unit_id": "C76-D025",
+   "section": "D",
+   "speaker": "森",
+   "text": "調べる予定と結果は分ける必要があります。",
+   "start_sec": 197.043,
+   "end_sec": 200.222,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D026-01",
+   "unit_id": "C76-D026",
+   "section": "D",
+   "speaker": "青木",
+   "text": "はい。",
+   "start_sec": 200.572,
+   "end_sec": 201.206,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D026-02",
+   "unit_id": "C76-D026",
+   "section": "D",
+   "speaker": "青木",
+   "text": "説明文には資料の出典も書きます。",
+   "start_sec": 201.356,
+   "end_sec": 204.018,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D026-03",
+   "unit_id": "C76-D026",
+   "section": "D",
+   "speaker": "青木",
+   "text": "数字を使うときは、回答した人の範囲も残します。",
+   "start_sec": 204.168,
+   "end_sec": 207.82,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D027-01",
+   "unit_id": "C76-D027",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "それなら、B案を暫定的に選ぶことには同意します。",
+   "start_sec": 208.17,
+   "end_sec": 212.398,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D027-02",
+   "unit_id": "C76-D027",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "場所への不安は、留保した点として残してください。",
+   "start_sec": 212.548,
+   "end_sec": 215.83,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D028-01",
+   "unit_id": "C76-D028",
+   "section": "D",
+   "speaker": "森",
+   "text": "私も賛成です。",
+   "start_sec": 216.18,
+   "end_sec": 217.531,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D028-02",
+   "unit_id": "C76-D028",
+   "section": "D",
+   "speaker": "森",
+   "text": "ただし、経路の確認を省く例外は認めたくありません。",
+   "start_sec": 217.681,
+   "end_sec": 221.89,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D028-03",
+   "unit_id": "C76-D028",
+   "section": "D",
+   "speaker": "森",
+   "text": "その条件は変えないでください。",
+   "start_sec": 222.04,
+   "end_sec": 223.959,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D029-01",
+   "unit_id": "C76-D029",
+   "section": "D",
+   "speaker": "青木",
+   "text": "承知しました。",
+   "start_sec": 224.309,
+   "end_sec": 225.718,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D029-02",
+   "unit_id": "C76-D029",
+   "section": "D",
+   "speaker": "青木",
+   "text": "全員が条件なしで賛成した、とは書きません。",
+   "start_sec": 225.868,
+   "end_sec": 229.686,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D029-03",
+   "unit_id": "C76-D029",
+   "section": "D",
+   "speaker": "青木",
+   "text": "選択の根拠と残った条件を示します。",
+   "start_sec": 229.836,
+   "end_sec": 232.977,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D030-01",
+   "unit_id": "C76-D030",
+   "section": "D",
+   "speaker": "小野",
+   "text": "今日の合意を確認しましょう。",
+   "start_sec": 233.327,
+   "end_sec": 235.153,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D030-02",
+   "unit_id": "C76-D030",
+   "section": "D",
+   "speaker": "小野",
+   "text": "経路と毎月の会場の確認を前提とするB案の暫定選択で、実施の決定ではない、という理解で同じですね。",
+   "start_sec": 235.303,
+   "end_sec": 243.874,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D031-01",
+   "unit_id": "C76-D031",
+   "section": "D",
+   "speaker": "青木",
+   "text": "はい、その理解です。",
+   "start_sec": 244.224,
+   "end_sec": 245.961,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D031-02",
+   "unit_id": "C76-D031",
+   "section": "D",
+   "speaker": "青木",
+   "text": "説明文でも「暫定的に選ぶ」と書きます。",
+   "start_sec": 246.111,
+   "end_sec": 250.137,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C76-D031-03",
+   "unit_id": "C76-D031",
+   "section": "D",
+   "speaker": "青木",
+   "text": "経路と会場を確認した結果は、今回の合意と分けて記録します。",
+   "start_sec": 250.287,
+   "end_sec": 255.152,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

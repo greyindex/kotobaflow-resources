@@ -1,0 +1,1555 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow1",
+  "lesson_id": "lesson_06",
+  "entries": [
+    {
+      "textbook_uid": "cfv-9529525593b6e86e",
+      "index": 163,
+      "word": "名前",
+      "reading_hiragana": "なまえ",
+      "context_meaning_zh": "姓名",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "姓名",
+          "meaning_ja": "人を呼ぶときや、ほかの人と区別するときに使う言葉。",
+          "example_ja": "ここに名前を書いてください。",
+          "example_zh": "请在这里写上姓名。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "名前を書く",
+          "zh": "写姓名"
+        },
+        {
+          "ja": "名前を聞く",
+          "zh": "询问姓名"
+        }
+      ],
+      "usage_note_zh": "「名前は何ですか」或「お名前は何ですか」可询问姓名；向表格填写时常说「名前を書く」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "纸上写着名字，名前为指称人物的普通名词。",
+        "dictionary_sequences": [
+          1531710
+        ],
+        "identity": {
+          "word": "名前",
+          "reading_hiragana": "なまえ",
+          "meaning": "姓名"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9bb6b5515fa12ddf",
+      "index": 164,
+      "word": "学生",
+      "reading_hiragana": "がくせい",
+      "context_meaning_zh": "学生",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "学生",
+          "meaning_ja": "学校で勉強している人。",
+          "example_ja": "学生は教室にいます。",
+          "example_zh": "学生在教室里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大学の学生",
+          "zh": "大学的学生"
+        },
+        {
+          "ja": "学生です",
+          "zh": "是学生"
+        }
+      ],
+      "usage_note_zh": "表示在学校学习的人；「大学の学生」指某大学的学生。说明身份时用「学生です」，本课不把它扩展成泛指所有学习者。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "大学就读身份对应词典所列学生名词义，词类判断明确。",
+        "dictionary_sequences": [
+          1206900
+        ],
+        "identity": {
+          "word": "学生",
+          "reading_hiragana": "がくせい",
+          "meaning": "学生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3bc403f16a945be4",
+      "index": 165,
+      "word": "先生",
+      "reading_hiragana": "せんせい",
+      "context_meaning_zh": "教师或对教师的称呼",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・尊敬语",
+      "senses": [
+        {
+          "meaning_zh": "教师或对教师的称呼",
+          "meaning_ja": "学校などで人に教える人。また、その人を呼ぶときに使う言葉。",
+          "example_ja": "森先生は日本語を教えます。",
+          "example_zh": "森老师教日语。"
+        },
+        {
+          "meaning_zh": "对医生等专业人士的敬称",
+          "meaning_ja": "医師など、専門の仕事をする人を敬って呼ぶ言葉。",
+          "example_ja": "山田先生に診てもらいました。",
+          "example_zh": "我请山田医生给我看了病。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本語の先生",
+          "zh": "日语老师"
+        },
+        {
+          "ja": "先生に聞く",
+          "zh": "向老师询问"
+        }
+      ],
+      "usage_note_zh": "可单独称呼教师，也常接在姓或名之后；还可敬称医生等专业人士，如「山田先生」。通常不用于自称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "honorific"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "称呼日语班教师为先生，作为教师称谓带尊称语用；该标签不来自句末礼貌。",
+        "dictionary_sequences": [
+          1387990
+        ],
+        "identity": {
+          "word": "先生",
+          "reading_hiragana": "せんせい",
+          "meaning": "教师或对教师的称呼"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3e18323d4553b7ad",
+      "index": 166,
+      "word": "本",
+      "reading_hiragana": "ほん",
+      "context_meaning_zh": "书",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "书",
+          "meaning_ja": "文字や絵が紙に印刷され、読めるようにまとめられたもの。",
+          "example_ja": "図書館で本を読みます。",
+          "example_zh": "在图书馆读书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "本を読む",
+          "zh": "读书"
+        },
+        {
+          "ja": "本を買う",
+          "zh": "买书"
+        }
+      ],
+      "usage_note_zh": "读作「ほん」时指书；本课的读音和语境都不是计数细长物品的量词用法。表示读书常说「本を読む」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "询问这本书属于谁，取词典所列书籍名词义。",
+        "dictionary_sequences": [
+          1522150
+        ],
+        "identity": {
+          "word": "本",
+          "reading_hiragana": "ほん",
+          "meaning": "书"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-aa04ca780051d148",
+      "index": 167,
+      "word": "鍵",
+      "reading_hiragana": "かぎ",
+      "context_meaning_zh": "钥匙",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "钥匙",
+          "meaning_ja": "錠を開けたり閉めたりするために使う道具。",
+          "example_ja": "鍵をかばんに入れました。",
+          "example_zh": "我把钥匙放进包里了。"
+        },
+        {
+          "meaning_zh": "锁；门锁",
+          "meaning_ja": "ドアなどを閉めたままにするための錠。",
+          "example_ja": "玄関の鍵が壊れました。",
+          "example_zh": "大门的锁坏了。"
+        },
+        {
+          "meaning_zh": "关键；成功的要点",
+          "meaning_ja": "物事をうまく進めるために大切なもの。",
+          "example_ja": "毎日の練習が上達の鍵です。",
+          "example_zh": "每天练习是进步的关键。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鍵を開ける",
+          "zh": "开锁"
+        },
+        {
+          "ja": "鍵をかける",
+          "zh": "锁门／上锁"
+        }
+      ],
+      "usage_note_zh": "可指开锁用的钥匙或门锁；「鍵をかける」表示上锁。也可比喻成促成事情顺利发展的关键，如「上達の鍵」（进步的关键）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "教室的钥匙这一领属关系明确指开锁工具；没有使用抽象“关键”义的迹象。",
+        "dictionary_sequences": [
+          1260490
+        ],
+        "identity": {
+          "word": "鍵",
+          "reading_hiragana": "かぎ",
+          "meaning": "钥匙"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7b216bd07b892a56",
+      "index": 168,
+      "word": "駅",
+      "reading_hiragana": "えき",
+      "context_meaning_zh": "车站",
+      "pos_ja": "名詞・助数詞",
+      "pos_zh": "名词・量词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "车站",
+          "meaning_ja": "電車や列車に乗ったり、降りたりするところ。",
+          "example_ja": "駅で友だちを待ちます。",
+          "example_zh": "我在车站等朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "駅へ行く",
+          "zh": "去车站"
+        },
+        {
+          "ja": "駅で待つ",
+          "zh": "在车站等候"
+        }
+      ],
+      "usage_note_zh": "通常指铁路车站；乘公交车的地点说「バス停」。表示前往车站用「駅へ行く」，表示在站内等人用「駅で待つ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "counter"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本条身份和例句都是铁路车站义名词；辞书另列历史驿站与站点量词义，但不适用于当前身份。",
+        "dictionary_sequences": [
+          1175140
+        ],
+        "identity": {
+          "word": "駅",
+          "reading_hiragana": "えき",
+          "meaning": "车站"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cf8c23726eda012a",
+      "index": 169,
+      "word": "教室",
+      "reading_hiragana": "きょうしつ",
+      "context_meaning_zh": "教室",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "教室",
+          "meaning_ja": "学校などで、授業や勉強をする部屋。",
+          "example_ja": "教室に学生がいます。",
+          "example_zh": "教室里有学生。"
+        },
+        {
+          "meaning_zh": "兴趣或技能课程；培训班",
+          "meaning_ja": "料理や語学などを習うために開かれる集まり。",
+          "example_ja": "英会話教室に通っています。",
+          "example_zh": "我正在上英语会话班。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "教室から出る",
+          "zh": "走出教室"
+        },
+        {
+          "ja": "料理教室",
+          "zh": "烹饪班"
+        }
+      ],
+      "usage_note_zh": "可指上课的房间，也可指为学习技能而开的课程，如「料理教室」「英会話教室」。表示人在教室里用「教室に」，在其中做动作常用「教室で」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "图书馆旁的教室指授课用房间，位置关系支持物理空间义。",
+        "dictionary_sequences": [
+          1237150
+        ],
+        "identity": {
+          "word": "教室",
+          "reading_hiragana": "きょうしつ",
+          "meaning": "教室"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-61b91161bf85cd5a",
+      "index": 170,
+      "word": "図書館",
+      "reading_hiragana": "としょかん",
+      "context_meaning_zh": "图书馆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "图书馆",
+          "meaning_ja": "本を読んだり、借りたりできる施設。",
+          "example_ja": "日曜日に図書館へ行きます。",
+          "example_zh": "星期天去图书馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "図書館で本を読む",
+          "zh": "在图书馆读书"
+        },
+        {
+          "ja": "図書館で本を借りる",
+          "zh": "在图书馆借书"
+        }
+      ],
+      "usage_note_zh": "指可阅览或借阅书籍的设施；说去图书馆可用「図書館へ行く」，说明在馆内做某事用「図書館で」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "询问图书馆开放到几点，指收藏图书并供使用的设施，符合library义。",
+        "dictionary_sequences": [
+          1370420
+        ],
+        "identity": {
+          "word": "図書館",
+          "reading_hiragana": "としょかん",
+          "meaning": "图书馆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b7e064045d127323",
+      "index": 171,
+      "word": "右",
+      "reading_hiragana": "みぎ",
+      "context_meaning_zh": "右边",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "右边",
+          "meaning_ja": "前を向いたとき、左と反対になる側。",
+          "example_ja": "机の右にかばんがあります。",
+          "example_zh": "桌子右边有一个包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "右に曲がる",
+          "zh": "向右转"
+        },
+        {
+          "ja": "右の手",
+          "zh": "右手"
+        }
+      ],
+      "usage_note_zh": "常用「参照物＋の右」表示某物右侧；路线指示可说「右に曲がる」。左右应按说话者或地图约定的视角判断。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「右」在此表示右侧或右方向，作方位名词；「右の手」中的「の」是名词连接形式，不因词典no修饰义标成连体词。",
+        "dictionary_sequences": [
+          1171010
+        ],
+        "identity": {
+          "word": "右",
+          "reading_hiragana": "みぎ",
+          "meaning": "右边"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-724d426740cd9e6c",
+      "index": 172,
+      "word": "左",
+      "reading_hiragana": "ひだり",
+      "context_meaning_zh": "左边",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "左边",
+          "meaning_ja": "前を向いたとき、右と反対の側。",
+          "example_ja": "郵便局は駅の左です。",
+          "example_zh": "邮局在车站左边。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "左に曲がる",
+          "zh": "向左转"
+        },
+        {
+          "ja": "左の手",
+          "zh": "左手"
+        }
+      ],
+      "usage_note_zh": "用「参照物＋の左」说明位置，与「右」相对；路线指示可说「左に曲がる」。判断方位时要先确认观察方向。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「スーパーは」駅「の」左「ですか」中左作方位名词谓语；左「の」～是名词加「の」，不独立列adnominal。",
+        "dictionary_sequences": [
+          1290800
+        ],
+        "identity": {
+          "word": "左",
+          "reading_hiragana": "ひだり",
+          "meaning": "左边"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ff44d4bb51a32c36",
+      "index": 173,
+      "word": "明日",
+      "reading_hiragana": "あした",
+      "context_meaning_zh": "明天",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "明天",
+          "meaning_ja": "今日の次の日。",
+          "example_ja": "明日、友だちと駅へ行きます。",
+          "example_zh": "明天和朋友去车站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "明日の朝",
+          "zh": "明天早上"
+        },
+        {
+          "ja": "明日会う",
+          "zh": "明天见面"
+        }
+      ],
+      "usage_note_zh": "本课读作「明日（あした）」。放在名词前可说「明日のクラス」；作时间状语时一般直接接在句首或动作前，不加「に」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指明天，例中修饰课程的名词；词典亦支持时间副词用法，读音按本课「あした」。",
+        "dictionary_sequences": [
+          1584660
+        ],
+        "identity": {
+          "word": "明日",
+          "reading_hiragana": "あした",
+          "meaning": "明天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-df7e25e9b8972320",
+      "index": 174,
+      "word": "何時",
+      "reading_hiragana": "なんじ",
+      "context_meaning_zh": "询问几点",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "询问几点",
+          "meaning_ja": "時計で示す時刻をたずねる言葉。",
+          "example_ja": "会議は何時に始まりますか。",
+          "example_zh": "会议几点开始？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何時ですか",
+          "zh": "是几点？"
+        },
+        {
+          "ja": "何時に始まる",
+          "zh": "几点开始"
+        }
+      ],
+      "usage_note_zh": "读作「なんじ」，询问钟表上的时刻；「何時まで」问到几点结束，「何時から」问从几点开始。询问持续多久应换用「何時間」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "何時まで询问图书馆开放到几点，是具体钟点疑问名词，不是持续时长。",
+        "dictionary_sequences": [
+          1188770
+        ],
+        "identity": {
+          "word": "何時",
+          "reading_hiragana": "なんじ",
+          "meaning": "询问几点"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-85a94585a7f5949a",
+      "index": 175,
+      "word": "病院",
+      "reading_hiragana": "びょういん",
+      "context_meaning_zh": "医院",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "医院",
+          "meaning_ja": "病気やけがを診てもらい、治療を受ける施設。",
+          "example_ja": "母は病院で働いています。",
+          "example_zh": "妈妈在医院工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "病院へ行く",
+          "zh": "去医院"
+        },
+        {
+          "ja": "病院で診てもらう",
+          "zh": "在医院就诊"
+        }
+      ],
+      "usage_note_zh": "指诊察、治疗疾病或伤病的机构；表示前往用「病院へ行く」，说明在院内就诊可说「病院で診てもらう」。读音与「美容院」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "用超市作为参照说明医院的位置，名词指医疗机构。",
+        "dictionary_sequences": [
+          1490220
+        ],
+        "identity": {
+          "word": "病院",
+          "reading_hiragana": "びょういん",
+          "meaning": "医院"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9b6377538b550f66",
+      "index": 176,
+      "word": "地図",
+      "reading_hiragana": "ちず",
+      "context_meaning_zh": "地图",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "地图",
+          "meaning_ja": "場所や道の位置を絵や記号で表したもの。",
+          "example_ja": "地図を見て駅へ行きます。",
+          "example_zh": "我看地图去车站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "地図を見る",
+          "zh": "看地图"
+        },
+        {
+          "ja": "地図を描く",
+          "zh": "画地图"
+        }
+      ],
+      "usage_note_zh": "用图示表示地点或道路的位置；「地図を見る」是看地图，「地図で調べる」表示借助地图查找位置。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "中心设施位置图称地図，读音为ちず；词典map义明确。",
+        "dictionary_sequences": [
+          1421290
+        ],
+        "identity": {
+          "word": "地図",
+          "reading_hiragana": "ちず",
+          "meaning": "地图"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3d02cccad0581488",
+      "index": 177,
+      "word": "入口",
+      "reading_hiragana": "いりぐち",
+      "context_meaning_zh": "入口",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "入口",
+          "meaning_ja": "建物や場所に入るためのところ。",
+          "example_ja": "入口はあそこです。",
+          "example_zh": "入口在那里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "入口から入る",
+          "zh": "从入口进入"
+        },
+        {
+          "ja": "入口の前",
+          "zh": "入口前面"
+        }
+      ],
+      "usage_note_zh": "指进入建筑或场所的位置；常与「出口」成对。说物品位于入口处可用「入口に」，说明入口前方则说「入口の前」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "桌子位于入口，入口为地点名词；不带动词配价。",
+        "dictionary_sequences": [
+          1582820
+        ],
+        "identity": {
+          "word": "入口",
+          "reading_hiragana": "いりぐち",
+          "meaning": "入口"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6f88ea1572f890d1",
+      "index": 178,
+      "word": "出口",
+      "reading_hiragana": "でぐち",
+      "context_meaning_zh": "出口",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "出口",
+          "meaning_ja": "建物や場所から外へ出るためのところ。",
+          "example_ja": "出口の前で待っています。",
+          "example_zh": "我在出口前等着。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "出口を出る",
+          "zh": "从出口出去"
+        },
+        {
+          "ja": "出口の前",
+          "zh": "出口前面"
+        }
+      ],
+      "usage_note_zh": "指离开建筑或场所的位置，与「入口」相对；表示从某出口出去可说「出口を出る」，位置关系用「出口の前」等表达。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "在港站出口碰面，出口指车站人员通道口，非设备排气口。",
+        "dictionary_sequences": [
+          1338850
+        ],
+        "identity": {
+          "word": "出口",
+          "reading_hiragana": "でぐち",
+          "meaning": "出口"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-59267ddd2b089788",
+      "index": 179,
+      "word": "時計",
+      "reading_hiragana": "とけい",
+      "context_meaning_zh": "钟表",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "钟表",
+          "meaning_ja": "今の時刻を知るために使う道具。",
+          "example_ja": "この時計は新しいです。",
+          "example_zh": "这块钟表是新的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時計を見る",
+          "zh": "看钟表"
+        },
+        {
+          "ja": "時計を買う",
+          "zh": "买钟表"
+        }
+      ],
+      "usage_note_zh": "可指挂钟、闹钟或手表等显示时间的器具；具体是哪一种由语境决定。「時計を見る」表示查看时间。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "時計泛指显示时间的器具，句中桌上有一只，未限定墙钟、腕表或闹钟。",
+        "dictionary_sequences": [
+          1316140
+        ],
+        "identity": {
+          "word": "時計",
+          "reading_hiragana": "とけい",
+          "meaning": "钟表"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2e96eedd341f2a69",
+      "index": 180,
+      "word": "番号",
+      "reading_hiragana": "ばんごう",
+      "context_meaning_zh": "号码",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "号码",
+          "meaning_ja": "人や物を区別するためにつけた数字。",
+          "example_ja": "電話番号を教えてください。",
+          "example_zh": "请告诉我电话号码。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "電話番号",
+          "zh": "电话号码"
+        },
+        {
+          "ja": "番号を書く",
+          "zh": "写号码"
+        }
+      ],
+      "usage_note_zh": "指用于识别或区分对象的号码；「電話番号」是电话号码。它表示标识号码，不等于物品的数量。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "地图上「番号の四」指用数字区分的位置或标记，是数字编号这一名词；例句询问编号含义。",
+        "dictionary_sequences": [
+          1482290
+        ],
+        "identity": {
+          "word": "番号",
+          "reading_hiragana": "ばんごう",
+          "meaning": "号码"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5783b8097dbbacc8",
+      "index": 181,
+      "word": "午前",
+      "reading_hiragana": "ごぜん",
+      "context_meaning_zh": "上午",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "上午",
+          "meaning_ja": "夜中の十二時から昼の十二時までの時間。",
+          "example_ja": "午前九時に学校へ行きます。",
+          "example_zh": "上午九点去学校。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "午前九時",
+          "zh": "上午九点"
+        },
+        {
+          "ja": "午前中",
+          "zh": "上午期间"
+        }
+      ],
+      "usage_note_zh": "置于时刻前标明中午以前，如「午前九時」；「午前中」表示上午这段时间。说明完整时段时可与「から」「まで」连用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "午前十点至十一点半的时刻范围明确取上午时间名词义。",
+        "dictionary_sequences": [
+          1269060
+        ],
+        "identity": {
+          "word": "午前",
+          "reading_hiragana": "ごぜん",
+          "meaning": "上午"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0f6ad335b1fa818b",
+      "index": 182,
+      "word": "午後",
+      "reading_hiragana": "ごご",
+      "context_meaning_zh": "下午",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "下午",
+          "meaning_ja": "昼の十二時から夜中の十二時までの時間。",
+          "example_ja": "午後二時に図書館へ行きます。",
+          "example_zh": "下午两点去图书馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "午後三時",
+          "zh": "下午三点"
+        },
+        {
+          "ja": "午後から",
+          "zh": "从下午开始"
+        }
+      ],
+      "usage_note_zh": "置于时刻前表示中午以后；范围实际延续到午夜前，所以「午後七時」是晚上七点。与「午前」相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示下午的时间名词，例句以午後三時半指具体时间。",
+        "dictionary_sequences": [
+          1268990
+        ],
+        "identity": {
+          "word": "午後",
+          "reading_hiragana": "ごご",
+          "meaning": "下午"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4b68ea2a63fa80ac",
+      "index": 183,
+      "word": "一日",
+      "reading_hiragana": "ついたち",
+      "context_meaning_zh": "一个月的第一天",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个月的第一天",
+          "meaning_ja": "月の初めの日。",
+          "example_ja": "一日は月曜日です。",
+          "example_zh": "一号是星期一。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一日（ついたち）",
+          "zh": "一号（每月第一天）"
+        },
+        {
+          "ja": "一日に会う",
+          "zh": "一号见面"
+        }
+      ],
+      "usage_note_zh": "表示每月一号时读「ついたち」，日期前可加月份；「一日」表示一天的时长时读「いちにち」，读音和意思都不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "十月一日读作ついたち，表示月份首日而非一天时长。",
+        "dictionary_sequences": [
+          2225040
+        ],
+        "identity": {
+          "word": "一日",
+          "reading_hiragana": "ついたち",
+          "meaning": "一个月的第一天"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c258bfd180d471b9",
+      "index": 184,
+      "word": "二日",
+      "reading_hiragana": "ふつか",
+      "context_meaning_zh": "一个月的第二天",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个月的第二天",
+          "meaning_ja": "月の初めから二番目の日。",
+          "example_ja": "二日は火曜日です。",
+          "example_zh": "二号是星期二。"
+        },
+        {
+          "meaning_zh": "两天；两日",
+          "meaning_ja": "二日間続く時間。",
+          "example_ja": "二日休みました。",
+          "example_zh": "休息了两天。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二日（ふつか）",
+          "zh": "二号（每月第二天）"
+        },
+        {
+          "ja": "二日に会う",
+          "zh": "二号见面"
+        }
+      ],
+      "usage_note_zh": "作为日期表示每月二号，读「ふつか」；表示持续两天时也读「ふつか」，可从动词和上下文判断是在说日期还是时长。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "明天是二日的日历语境对应每月第二天义，不是持续两日。",
+        "dictionary_sequences": [
+          1462900
+        ],
+        "identity": {
+          "word": "二日",
+          "reading_hiragana": "ふつか",
+          "meaning": "一个月的第二天"
+        }
+      }
+    }
+  ]
+}

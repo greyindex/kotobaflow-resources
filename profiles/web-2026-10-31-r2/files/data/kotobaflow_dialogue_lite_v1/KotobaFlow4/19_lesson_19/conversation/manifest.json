@@ -1,0 +1,1248 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 229.511,
+ "listening_review": "pending",
+ "source_chapter": 75,
+ "turns": [
+  {
+   "turn_id": "C75-D001",
+   "turn_index": 0,
+   "speaker": "佐野",
+   "source_text": "二人の記録を見ましょう。まず、林さんは誰が道具を借りられると書きましたか。",
+   "sentence_ids": [
+    "C75-D001-S01",
+    "C75-D001-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 6.321,
+   "duration_sec": 6.321
+  },
+  {
+   "turn_id": "C75-D002",
+   "turn_index": 1,
+   "speaker": "林梅",
+   "source_text": "市内に住む人なら誰でも、と書きました。十八歳以上という条件を落としました。",
+   "sentence_ids": [
+    "C75-D002-S01",
+    "C75-D002-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 6.671,
+   "end_sec": 13.112,
+   "duration_sec": 6.441
+  },
+  {
+   "turn_id": "C75-D003",
+   "turn_index": 2,
+   "speaker": "ハサン",
+   "source_text": "無料という説明を、登録の条件にも使ってしまったんですね。私も似た間違いをします。",
+   "sentence_ids": [
+    "C75-D003-S01",
+    "C75-D003-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.462,
+   "end_sec": 20.301,
+   "duration_sec": 6.839
+  },
+  {
+   "turn_id": "C75-D004",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "はい。単語は分かるものの、「市内に住む」と「十八歳以上」の両方が必要だと読めていませんでした。",
+   "sentence_ids": [
+    "C75-D004-S01",
+    "C75-D004-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 20.651,
+   "end_sec": 28.618,
+   "duration_sec": 7.967
+  },
+  {
+   "turn_id": "C75-D005",
+   "turn_index": 4,
+   "speaker": "佐野",
+   "source_text": "その説明で、間違えた理由が分かりました。次は、追加購入の予定です。",
+   "sentence_ids": [
+    "C75-D005-S01",
+    "C75-D005-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.968,
+   "end_sec": 34.343,
+   "duration_sec": 5.375
+  },
+  {
+   "turn_id": "C75-D006",
+   "turn_index": 5,
+   "speaker": "ハサン",
+   "source_text": "七月に十点増えて五十点になる、とメモしました。でも、林さんの記録とは違います。",
+   "sentence_ids": [
+    "C75-D006-S01",
+    "C75-D006-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.693,
+   "end_sec": 41.58,
+   "duration_sec": 6.887
+  },
+  {
+   "turn_id": "C75-D007",
+   "turn_index": 6,
+   "speaker": "林梅",
+   "source_text": "最後は九月でしたよね。あと、購入の決定ではなく、もう一度話し合う予定でした。",
+   "sentence_ids": [
+    "C75-D007-S01",
+    "C75-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 41.93,
+   "end_sec": 48.54,
+   "duration_sec": 6.61
+  },
+  {
+   "turn_id": "C75-D008",
+   "turn_index": 7,
+   "speaker": "佐野",
+   "source_text": "そうです。「七月に、いえ、九月に再び話し合います」と訂正がありました。",
+   "sentence_ids": [
+    "C75-D008-S01",
+    "C75-D008-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 48.89,
+   "end_sec": 55.098,
+   "duration_sec": 6.208
+  },
+  {
+   "turn_id": "C75-D009",
+   "turn_index": 8,
+   "speaker": "ハサン",
+   "source_text": "担当者は七月と言うか言わないかのうちに、九月と言い直しましたね。私は最初の数字だけを書いてしまいました。",
+   "sentence_ids": [
+    "C75-D009-S01",
+    "C75-D009-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 55.448,
+   "end_sec": 63.452,
+   "duration_sec": 8.004
+  },
+  {
+   "turn_id": "C75-D010",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "私も最初の数字を残しましたが、後で線を引いて消しました。二つあると迷うので。",
+   "sentence_ids": [
+    "C75-D010-S01",
+    "C75-D010-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.802,
+   "end_sec": 70.039,
+   "duration_sec": 6.237
+  },
+  {
+   "turn_id": "C75-D011",
+   "turn_index": 10,
+   "speaker": "佐野",
+   "source_text": "では、六月十八日の資料と十九日の説明には、矛盾がありますか。",
+   "sentence_ids": [
+    "C75-D011-S01"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 70.389,
+   "end_sec": 75.869,
+   "duration_sec": 5.48
+  },
+  {
+   "turn_id": "C75-D012",
+   "turn_index": 11,
+   "speaker": "ハサン",
+   "source_text": "いいえ。購入は未定のままで、次の会議の時期が補足されたんですね。",
+   "sentence_ids": [
+    "C75-D012-S01",
+    "C75-D012-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 76.219,
+   "end_sec": 81.422,
+   "duration_sec": 5.203
+  },
+  {
+   "turn_id": "C75-D013",
+   "turn_index": 12,
+   "speaker": "林梅",
+   "source_text": "確認させてください。現在は四十点、追加購入は未定、九月に再び話し合う、ですね。",
+   "sentence_ids": [
+    "C75-D013-S01",
+    "C75-D013-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.772,
+   "end_sec": 89.402,
+   "duration_sec": 7.63
+  },
+  {
+   "turn_id": "C75-D014",
+   "turn_index": 13,
+   "speaker": "佐野",
+   "source_text": "はい。その三つを分ければ、事実と今後の予定の違いが分かりますね。",
+   "sentence_ids": [
+    "C75-D014-S01",
+    "C75-D014-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.752,
+   "end_sec": 94.873,
+   "duration_sec": 5.121
+  },
+  {
+   "turn_id": "C75-D015",
+   "turn_index": 14,
+   "speaker": "ハサン",
+   "source_text": "聞こえなかったというより、最初の情報だけで分かったと思ってしまったんです。次は訂正を最後まで聞きます。",
+   "sentence_ids": [
+    "C75-D015-S01",
+    "C75-D015-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 95.223,
+   "end_sec": 102.957,
+   "duration_sec": 7.734
+  },
+  {
+   "turn_id": "C75-D016",
+   "turn_index": 15,
+   "speaker": "佐野",
+   "source_text": "その判断も、まずは暫定です。別の話題でも同じ間違いをするか検証しましょう。",
+   "sentence_ids": [
+    "C75-D016-S01",
+    "C75-D016-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 103.307,
+   "end_sec": 109.064,
+   "duration_sec": 5.757
+  },
+  {
+   "turn_id": "C75-D017",
+   "turn_index": 16,
+   "speaker": "林梅",
+   "source_text": "もう一つ聞いてもいいですか。「全ての道具を借りるには、何日も待つ必要がある」という説明は、どう直せますか。",
+   "sentence_ids": [
+    "C75-D017-S01",
+    "C75-D017-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.413,
+   "end_sec": 118.444,
+   "duration_sec": 9.031
+  },
+  {
+   "turn_id": "C75-D018",
+   "turn_index": 17,
+   "speaker": "ハサン",
+   "source_text": "その日に借りられた道具もあるので、それが反例になります。ただ、道具ごとの待ち時間までは分かりません。",
+   "sentence_ids": [
+    "C75-D018-S01",
+    "C75-D018-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 118.794,
+   "end_sec": 125.986,
+   "duration_sec": 7.192
+  },
+  {
+   "turn_id": "C75-D019",
+   "turn_index": 18,
+   "speaker": "佐野",
+   "source_text": "ええ。利用者の増加だけに基づいて、全ての道具について結論は出せません。",
+   "sentence_ids": [
+    "C75-D019-S01",
+    "C75-D019-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 126.335,
+   "end_sec": 131.971,
+   "duration_sec": 5.636
+  },
+  {
+   "turn_id": "C75-D020",
+   "turn_index": 19,
+   "speaker": "林梅",
+   "source_text": "運営側は本音では、皆に道具を買わないでほしいと思っているんでしょうか。",
+   "sentence_ids": [
+    "C75-D020-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 132.321,
+   "end_sec": 137.713,
+   "duration_sec": 5.392
+  },
+  {
+   "turn_id": "C75-D021",
+   "turn_index": 20,
+   "speaker": "ハサン",
+   "source_text": "そこは分かりません。資料には、購入をやめてほしいと主張しているわけではない、とあります。",
+   "sentence_ids": [
+    "C75-D021-S01",
+    "C75-D021-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 138.063,
+   "end_sec": 144.855,
+   "duration_sec": 6.792
+  },
+  {
+   "turn_id": "C75-D022",
+   "turn_index": 21,
+   "speaker": "佐野",
+   "source_text": "書いてある説明と、私たちの想像を分けましょう。立場だけから本音は決められません。",
+   "sentence_ids": [
+    "C75-D022-S01",
+    "C75-D022-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 145.205,
+   "end_sec": 151.469,
+   "duration_sec": 6.264
+  },
+  {
+   "turn_id": "C75-D023",
+   "turn_index": 22,
+   "speaker": "林梅",
+   "source_text": "修理と購入を半分ずつ進める妥協が成立した、という理解でいいですか。",
+   "sentence_ids": [
+    "C75-D023-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 151.819,
+   "end_sec": 157.331,
+   "duration_sec": 5.512
+  },
+  {
+   "turn_id": "C75-D024",
+   "turn_index": 23,
+   "speaker": "ハサン",
+   "source_text": "そこは理解の相違がありそうです。今の説明を聞き返してもいいですか。合意した内容をもう一度お願いします。",
+   "sentence_ids": [
+    "C75-D024-S01",
+    "C75-D024-S02",
+    "C75-D024-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 157.681,
+   "end_sec": 165.588,
+   "duration_sec": 7.907
+  },
+  {
+   "turn_id": "C75-D025",
+   "turn_index": 24,
+   "speaker": "佐野",
+   "source_text": "合意したのは、まず修理の費用を確認することです。双方が希望を少しずつ譲る妥協まで成立したわけではありません。話す量が多ければ、内容も正確だというものではないので、今の確認は大切です。",
+   "sentence_ids": [
+    "C75-D025-S01",
+    "C75-D025-S02",
+    "C75-D025-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 165.938,
+   "end_sec": 180.617,
+   "duration_sec": 14.679
+  },
+  {
+   "turn_id": "C75-D026",
+   "turn_index": 25,
+   "speaker": "林梅",
+   "source_text": "国籍や話し方への偏見も入れずに、何を伝えたかを見るんですね。",
+   "sentence_ids": [
+    "C75-D026-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 180.967,
+   "end_sec": 186.632,
+   "duration_sec": 5.665
+  },
+  {
+   "turn_id": "C75-D027",
+   "turn_index": 26,
+   "speaker": "佐野",
+   "source_text": "はい。発音の違いだけで判断せず、相手に意味が伝わったか、確認できたかを見ます。",
+   "sentence_ids": [
+    "C75-D027-S01",
+    "C75-D027-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 186.982,
+   "end_sec": 193.302,
+   "duration_sec": 6.32
+  },
+  {
+   "turn_id": "C75-D028",
+   "turn_index": 27,
+   "speaker": "ハサン",
+   "source_text": "次までの準備は分担しますか。私は訂正がある説明を、林さんは条件がある文章を探すとか。",
+   "sentence_ids": [
+    "C75-D028-S01",
+    "C75-D028-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 193.652,
+   "end_sec": 201.205,
+   "duration_sec": 7.553
+  },
+  {
+   "turn_id": "C75-D029",
+   "turn_index": 28,
+   "speaker": "林梅",
+   "source_text": "いいですね。ただ、練習の資料と、第七十六章で初めて使う資料は分けたいです。",
+   "sentence_ids": [
+    "C75-D029-S01",
+    "C75-D029-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 201.555,
+   "end_sec": 208.437,
+   "duration_sec": 6.882
+  },
+  {
+   "turn_id": "C75-D030",
+   "turn_index": 29,
+   "speaker": "佐野",
+   "source_text": "新しい資料はこちらで用意します。まず必要な部分を補ってから、それぞれ取り組みましょう。",
+   "sentence_ids": [
+    "C75-D030-S01",
+    "C75-D030-S02"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 208.787,
+   "end_sec": 214.994,
+   "duration_sec": 6.207
+  },
+  {
+   "turn_id": "C75-D031",
+   "turn_index": 30,
+   "speaker": "ハサン",
+   "source_text": "講座の後も二週間後と六週間後に、読む・聞く・伝える記録を別々に残すんですね。",
+   "sentence_ids": [
+    "C75-D031-S01"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 215.344,
+   "end_sec": 222.25,
+   "duration_sec": 6.906
+  },
+  {
+   "turn_id": "C75-D032",
+   "turn_index": 31,
+   "speaker": "佐野",
+   "source_text": "ええ。内容は変え、長さや難しさは近くします。同じ答えを覚えたかを見るのではありません。",
+   "sentence_ids": [
+    "C75-D032-S01",
+    "C75-D032-S02",
+    "C75-D032-S03"
+   ],
+   "voice_id": "ja-jp-advisor-12",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 222.6,
+   "end_sec": 229.504,
+   "duration_sec": 6.904
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C75-D001-S01",
+   "unit_id": "C75-D001",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "二人の記録を見ましょう。",
+   "start_sec": 0.0,
+   "end_sec": 1.979,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D001-S02",
+   "unit_id": "C75-D001",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "まず、林さんは誰が道具を借りられると書きましたか。",
+   "start_sec": 2.129,
+   "end_sec": 6.321,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D002-S01",
+   "unit_id": "C75-D002",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "市内に住む人なら誰でも、と書きました。",
+   "start_sec": 6.671,
+   "end_sec": 10.016,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D002-S02",
+   "unit_id": "C75-D002",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "十八歳以上という条件を落としました。",
+   "start_sec": 10.166,
+   "end_sec": 13.112,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D003-S01",
+   "unit_id": "C75-D003",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "無料という説明を、登録の条件にも使ってしまったんですね。",
+   "start_sec": 13.462,
+   "end_sec": 17.994,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D003-S02",
+   "unit_id": "C75-D003",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "私も似た間違いをします。",
+   "start_sec": 18.144,
+   "end_sec": 20.301,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D004-S01",
+   "unit_id": "C75-D004",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "はい。",
+   "start_sec": 20.651,
+   "end_sec": 21.674,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D004-S02",
+   "unit_id": "C75-D004",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "単語は分かるものの、「市内に住む」と「十八歳以上」の両方が必要だと読めていませんでした。",
+   "start_sec": 21.824,
+   "end_sec": 28.618,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D005-S01",
+   "unit_id": "C75-D005",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "その説明で、間違えた理由が分かりました。",
+   "start_sec": 28.968,
+   "end_sec": 31.904,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D005-S02",
+   "unit_id": "C75-D005",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "次は、追加購入の予定です。",
+   "start_sec": 32.054,
+   "end_sec": 34.343,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D006-S01",
+   "unit_id": "C75-D006",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "七月に十点増えて五十点になる、とメモしました。",
+   "start_sec": 34.693,
+   "end_sec": 38.696,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D006-S02",
+   "unit_id": "C75-D006",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "でも、林さんの記録とは違います。",
+   "start_sec": 38.846,
+   "end_sec": 41.58,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D007-S01",
+   "unit_id": "C75-D007",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "最後は九月でしたよね。",
+   "start_sec": 41.93,
+   "end_sec": 44.053,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D007-S02",
+   "unit_id": "C75-D007",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "あと、購入の決定ではなく、もう一度話し合う予定でした。",
+   "start_sec": 44.203,
+   "end_sec": 48.54,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D008-S01",
+   "unit_id": "C75-D008",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "そうです。",
+   "start_sec": 48.89,
+   "end_sec": 49.783,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D008-S02",
+   "unit_id": "C75-D008",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "「七月に、いえ、九月に再び話し合います」と訂正がありました。",
+   "start_sec": 49.933,
+   "end_sec": 55.098,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D009-S01",
+   "unit_id": "C75-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "担当者は七月と言うか言わないかのうちに、九月と言い直しましたね。",
+   "start_sec": 55.448,
+   "end_sec": 60.884,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D009-S02",
+   "unit_id": "C75-D009",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "私は最初の数字だけを書いてしまいました。",
+   "start_sec": 61.034,
+   "end_sec": 63.452,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D010-S01",
+   "unit_id": "C75-D010",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "私も最初の数字を残しましたが、後で線を引いて消しました。",
+   "start_sec": 63.802,
+   "end_sec": 68.209,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D010-S02",
+   "unit_id": "C75-D010",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "二つあると迷うので。",
+   "start_sec": 68.359,
+   "end_sec": 70.039,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D011-S01",
+   "unit_id": "C75-D011",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "では、六月十八日の資料と十九日の説明には、矛盾がありますか。",
+   "start_sec": 70.389,
+   "end_sec": 75.869,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D012-S01",
+   "unit_id": "C75-D012",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "いいえ。",
+   "start_sec": 76.219,
+   "end_sec": 77.041,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D012-S02",
+   "unit_id": "C75-D012",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "購入は未定のままで、次の会議の時期が補足されたんですね。",
+   "start_sec": 77.191,
+   "end_sec": 81.422,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D013-S01",
+   "unit_id": "C75-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "確認させてください。",
+   "start_sec": 81.772,
+   "end_sec": 83.431,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D013-S02",
+   "unit_id": "C75-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "現在は四十点、追加購入は未定、九月に再び話し合う、ですね。",
+   "start_sec": 83.581,
+   "end_sec": 89.402,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D014-S01",
+   "unit_id": "C75-D014",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "はい。",
+   "start_sec": 89.752,
+   "end_sec": 90.393,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D014-S02",
+   "unit_id": "C75-D014",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "その三つを分ければ、事実と今後の予定の違いが分かりますね。",
+   "start_sec": 90.543,
+   "end_sec": 94.873,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D015-S01",
+   "unit_id": "C75-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "聞こえなかったというより、最初の情報だけで分かったと思ってしまったんです。",
+   "start_sec": 95.223,
+   "end_sec": 100.817,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D015-S02",
+   "unit_id": "C75-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "次は訂正を最後まで聞きます。",
+   "start_sec": 100.967,
+   "end_sec": 102.957,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D016-S01",
+   "unit_id": "C75-D016",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "その判断も、まずは暫定です。",
+   "start_sec": 103.307,
+   "end_sec": 105.838,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D016-S02",
+   "unit_id": "C75-D016",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "別の話題でも同じ間違いをするか検証しましょう。",
+   "start_sec": 105.988,
+   "end_sec": 109.064,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D017-S01",
+   "unit_id": "C75-D017",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "もう一つ聞いてもいいですか。",
+   "start_sec": 109.413,
+   "end_sec": 111.465,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D017-S02",
+   "unit_id": "C75-D017",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「全ての道具を借りるには、何日も待つ必要がある」という説明は、どう直せますか。",
+   "start_sec": 111.615,
+   "end_sec": 118.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D018-S01",
+   "unit_id": "C75-D018",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "その日に借りられた道具もあるので、それが反例になります。",
+   "start_sec": 118.794,
+   "end_sec": 122.845,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D018-S02",
+   "unit_id": "C75-D018",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "ただ、道具ごとの待ち時間までは分かりません。",
+   "start_sec": 122.995,
+   "end_sec": 125.986,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D019-S01",
+   "unit_id": "C75-D019",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "ええ。",
+   "start_sec": 126.335,
+   "end_sec": 126.99,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D019-S02",
+   "unit_id": "C75-D019",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "利用者の増加だけに基づいて、全ての道具について結論は出せません。",
+   "start_sec": 127.14,
+   "end_sec": 131.971,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D020-S01",
+   "unit_id": "C75-D020",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "運営側は本音では、皆に道具を買わないでほしいと思っているんでしょうか。",
+   "start_sec": 132.321,
+   "end_sec": 137.713,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D021-S01",
+   "unit_id": "C75-D021",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そこは分かりません。",
+   "start_sec": 138.063,
+   "end_sec": 139.99,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D021-S02",
+   "unit_id": "C75-D021",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "資料には、購入をやめてほしいと主張しているわけではない、とあります。",
+   "start_sec": 140.14,
+   "end_sec": 144.855,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D022-S01",
+   "unit_id": "C75-D022",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "書いてある説明と、私たちの想像を分けましょう。",
+   "start_sec": 145.205,
+   "end_sec": 148.955,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D022-S02",
+   "unit_id": "C75-D022",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "立場だけから本音は決められません。",
+   "start_sec": 149.105,
+   "end_sec": 151.469,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D023-S01",
+   "unit_id": "C75-D023",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "修理と購入を半分ずつ進める妥協が成立した、という理解でいいですか。",
+   "start_sec": 151.819,
+   "end_sec": 157.331,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D024-S01",
+   "unit_id": "C75-D024",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そこは理解の相違がありそうです。",
+   "start_sec": 157.681,
+   "end_sec": 160.401,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D024-S02",
+   "unit_id": "C75-D024",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "今の説明を聞き返してもいいですか。",
+   "start_sec": 160.551,
+   "end_sec": 163.152,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D024-S03",
+   "unit_id": "C75-D024",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "合意した内容をもう一度お願いします。",
+   "start_sec": 163.302,
+   "end_sec": 165.588,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D025-S01",
+   "unit_id": "C75-D025",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "合意したのは、まず修理の費用を確認することです。",
+   "start_sec": 165.938,
+   "end_sec": 169.843,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D025-S02",
+   "unit_id": "C75-D025",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "双方が希望を少しずつ譲る妥協まで成立したわけではありません。",
+   "start_sec": 169.993,
+   "end_sec": 174.635,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D025-S03",
+   "unit_id": "C75-D025",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "話す量が多ければ、内容も正確だというものではないので、今の確認は大切です。",
+   "start_sec": 174.785,
+   "end_sec": 180.617,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D026-S01",
+   "unit_id": "C75-D026",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "国籍や話し方への偏見も入れずに、何を伝えたかを見るんですね。",
+   "start_sec": 180.967,
+   "end_sec": 186.632,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D027-S01",
+   "unit_id": "C75-D027",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "はい。",
+   "start_sec": 186.982,
+   "end_sec": 187.653,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D027-S02",
+   "unit_id": "C75-D027",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "発音の違いだけで判断せず、相手に意味が伝わったか、確認できたかを見ます。",
+   "start_sec": 187.803,
+   "end_sec": 193.302,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D028-S01",
+   "unit_id": "C75-D028",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "次までの準備は分担しますか。",
+   "start_sec": 193.652,
+   "end_sec": 196.149,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D028-S02",
+   "unit_id": "C75-D028",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "私は訂正がある説明を、林さんは条件がある文章を探すとか。",
+   "start_sec": 196.299,
+   "end_sec": 201.205,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D029-S01",
+   "unit_id": "C75-D029",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "いいですね。",
+   "start_sec": 201.555,
+   "end_sec": 202.508,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D029-S02",
+   "unit_id": "C75-D029",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "ただ、練習の資料と、第七十六章で初めて使う資料は分けたいです。",
+   "start_sec": 202.658,
+   "end_sec": 208.437,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D030-S01",
+   "unit_id": "C75-D030",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "新しい資料はこちらで用意します。",
+   "start_sec": 208.787,
+   "end_sec": 211.139,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D030-S02",
+   "unit_id": "C75-D030",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "まず必要な部分を補ってから、それぞれ取り組みましょう。",
+   "start_sec": 211.289,
+   "end_sec": 214.994,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D031-S01",
+   "unit_id": "C75-D031",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "講座の後も二週間後と六週間後に、読む・聞く・伝える記録を別々に残すんですね。",
+   "start_sec": 215.344,
+   "end_sec": 222.25,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D032-S01",
+   "unit_id": "C75-D032",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "ええ。",
+   "start_sec": 222.6,
+   "end_sec": 223.137,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D032-S02",
+   "unit_id": "C75-D032",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "内容は変え、長さや難しさは近くします。",
+   "start_sec": 223.287,
+   "end_sec": 226.776,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C75-D032-S03",
+   "unit_id": "C75-D032",
+   "section": "D",
+   "speaker": "佐野",
+   "text": "同じ答えを覚えたかを見るのではありません。",
+   "start_sec": 226.926,
+   "end_sec": 229.504,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

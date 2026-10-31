@@ -1,0 +1,666 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 120.6,
+ "listening_review": "pending",
+ "source_chapter": 52,
+ "turns": [
+  {
+   "turn_id": "C52-D001",
+   "turn_index": 0,
+   "speaker": "ミン",
+   "source_text": "学習室の報告を確認しました。差は二十ポイント、元の割合と比べると五十パーセントの増加ですね。地域調査では、どんな統計表を使いますか。",
+   "sentence_ids": [
+    "C52-D001-1",
+    "C52-D001-2",
+    "C52-D001-3"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 11.545,
+   "duration_sec": 11.545
+  },
+  {
+   "turn_id": "C52-D002",
+   "turn_index": 1,
+   "speaker": "アナ",
+   "source_text": "まず県内と全国を比べたいです。各地の生産量や貿易額があっても、規模が違うので、そのまま順位をつけられません。",
+   "sentence_ids": [
+    "C52-D002-1",
+    "C52-D002-2"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.895,
+   "end_sec": 20.907,
+   "duration_sec": 9.012
+  },
+  {
+   "turn_id": "C52-D003",
+   "turn_index": 2,
+   "speaker": "ミン",
+   "source_text": "一人当たりの数字も必要ですね。金額が一億円台なのか、一兆円に達するのか、単位にも注意しましょう。",
+   "sentence_ids": [
+    "C52-D003-1",
+    "C52-D003-2"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.257,
+   "end_sec": 28.795,
+   "duration_sec": 7.538
+  },
+  {
+   "turn_id": "C52-D005",
+   "turn_index": 3,
+   "speaker": "アナ",
+   "source_text": "はい。兆は億の一万倍ですね。近年の月間の数字と例年の年間の数字を混ぜないようにします。",
+   "sentence_ids": [
+    "C52-D005-1",
+    "C52-D005-2",
+    "C52-D005-3"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 29.145,
+   "end_sec": 37.468,
+   "duration_sec": 8.323
+  },
+  {
+   "turn_id": "C52-D006",
+   "turn_index": 4,
+   "speaker": "ミン",
+   "source_text": "地価が下がると、人口も比例して減ると書けますか。",
+   "sentence_ids": [
+    "C52-D006-1"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.818,
+   "end_sec": 41.469,
+   "duration_sec": 3.651
+  },
+  {
+   "turn_id": "C52-D007",
+   "turn_index": 5,
+   "speaker": "アナ",
+   "source_text": "それは確認が必要です。緩やかな低下なのか急増の後なのかで、見え方も違います。差がつく理由は、表だけでは分かりません。",
+   "sentence_ids": [
+    "C52-D007-1",
+    "C52-D007-2",
+    "C52-D007-3"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 41.819,
+   "end_sec": 51.094,
+   "duration_sec": 9.275
+  },
+  {
+   "turn_id": "C52-D008",
+   "turn_index": 6,
+   "speaker": "ミン",
+   "source_text": "「ブームで需要が爆発的に拡大し、値段はうなぎ登りだ」という見出しを見ました。大量に売れたという意味ですか。",
+   "sentence_ids": [
+    "C52-D008-1",
+    "C52-D008-2"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 51.444,
+   "end_sec": 59.794,
+   "duration_sec": 8.35
+  },
+  {
+   "turn_id": "C52-D009",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "いいえ。関心が高まっても、売れた数量は別です。価格が落ち着くまでの記録を示してください。",
+   "sentence_ids": [
+    "C52-D009-1",
+    "C52-D009-2",
+    "C52-D009-3"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 60.144,
+   "end_sec": 66.953,
+   "duration_sec": 6.809
+  },
+  {
+   "turn_id": "C52-D010",
+   "turn_index": 8,
+   "speaker": "ミン",
+   "source_text": "教育の分野なら、就学率と識字率ですね。数がほぼ同じでも、量的な比較だけでは学ぶ環境を評価できません。",
+   "sentence_ids": [
+    "C52-D010-1",
+    "C52-D010-2"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 67.303,
+   "end_sec": 76.667,
+   "duration_sec": 9.364
+  },
+  {
+   "turn_id": "C52-D011",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "機器の普及率も同様です。地域の半数弱の家庭にあると言うと、五割未満ですね。多少の差にも意味があるかもしれません。",
+   "sentence_ids": [
+    "C52-D011-1",
+    "C52-D011-2",
+    "C52-D011-3"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 77.017,
+   "end_sec": 85.882,
+   "duration_sec": 8.865
+  },
+  {
+   "turn_id": "C52-D012",
+   "turn_index": 10,
+   "speaker": "ミン",
+   "source_text": "三十人足らずの調査でも、数百人に及ぶ調査でも、参加しなかった人の声は反映できない場合がありますね。",
+   "sentence_ids": [
+    "C52-D012-1"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 86.232,
+   "end_sec": 93.671,
+   "duration_sec": 7.439
+  },
+  {
+   "turn_id": "C52-D013",
+   "turn_index": 11,
+   "speaker": "アナ",
+   "source_text": "そうですね。トップに次ぐ二位への躍進という言い方も、順位だけを強調しています。実際の点の差も必要です。",
+   "sentence_ids": [
+    "C52-D013-1",
+    "C52-D013-2",
+    "C52-D013-3"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 94.021,
+   "end_sec": 102.791,
+   "duration_sec": 8.77
+  },
+  {
+   "turn_id": "C52-D014",
+   "turn_index": 12,
+   "speaker": "ミン",
+   "source_text": "分かりました。説明は初めて読む人にも分かるぐらい丁寧にします。",
+   "sentence_ids": [
+    "C52-D014-1",
+    "C52-D014-2"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 103.141,
+   "end_sec": 107.653,
+   "duration_sec": 4.512
+  },
+  {
+   "turn_id": "C52-D015",
+   "turn_index": 13,
+   "speaker": "アナ",
+   "source_text": "回答者の負担も考えると、質問は少ないほうがいいですね。",
+   "sentence_ids": [
+    "C52-D015-1"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 108.003,
+   "end_sec": 112.026,
+   "duration_sec": 4.023
+  },
+  {
+   "turn_id": "C52-D016",
+   "turn_index": 14,
+   "speaker": "ミン",
+   "source_text": "資料を読めば読むほど、確かめたいことが増えますね。",
+   "sentence_ids": [
+    "C52-D016-1"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 112.376,
+   "end_sec": 116.076,
+   "duration_sec": 3.7
+  },
+  {
+   "turn_id": "C52-D017",
+   "turn_index": 15,
+   "speaker": "アナ",
+   "source_text": "ええ。合計の確認ぐらいは、今ここで一緒にしましょう。",
+   "sentence_ids": [
+    "C52-D017-1",
+    "C52-D017-2"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 116.426,
+   "end_sec": 120.593,
+   "duration_sec": 4.167
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C52-D001-1",
+   "unit_id": "C52-D001",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "学習室の報告を確認しました。",
+   "start_sec": 0.0,
+   "end_sec": 2.322,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D001-2",
+   "unit_id": "C52-D001",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "差は二十ポイント、元の割合と比べると五十パーセントの増加ですね。",
+   "start_sec": 2.472,
+   "end_sec": 8.509,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D001-3",
+   "unit_id": "C52-D001",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "地域調査では、どんな統計表を使いますか。",
+   "start_sec": 8.659,
+   "end_sec": 11.545,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D002-1",
+   "unit_id": "C52-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "まず県内と全国を比べたいです。",
+   "start_sec": 11.895,
+   "end_sec": 14.907,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D002-2",
+   "unit_id": "C52-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "各地の生産量や貿易額があっても、規模が違うので、そのまま順位をつけられません。",
+   "start_sec": 15.057,
+   "end_sec": 20.907,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D003-1",
+   "unit_id": "C52-D003",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "一人当たりの数字も必要ですね。",
+   "start_sec": 21.257,
+   "end_sec": 23.621,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D003-2",
+   "unit_id": "C52-D003",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "金額が一億円台なのか、一兆円に達するのか、単位にも注意しましょう。",
+   "start_sec": 23.771,
+   "end_sec": 28.795,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D005-1",
+   "unit_id": "C52-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "はい。",
+   "start_sec": 29.145,
+   "end_sec": 29.905,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D005-2",
+   "unit_id": "C52-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "兆は億の一万倍ですね。",
+   "start_sec": 30.055,
+   "end_sec": 32.588,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D005-3",
+   "unit_id": "C52-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "近年の月間の数字と例年の年間の数字を混ぜないようにします。",
+   "start_sec": 32.738,
+   "end_sec": 37.468,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D006-1",
+   "unit_id": "C52-D006",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "地価が下がると、人口も比例して減ると書けますか。",
+   "start_sec": 37.818,
+   "end_sec": 41.469,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D007-1",
+   "unit_id": "C52-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "それは確認が必要です。",
+   "start_sec": 41.819,
+   "end_sec": 43.8,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D007-2",
+   "unit_id": "C52-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "緩やかな低下なのか急増の後なのかで、見え方も違います。",
+   "start_sec": 43.95,
+   "end_sec": 48.253,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D007-3",
+   "unit_id": "C52-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "差がつく理由は、表だけでは分かりません。",
+   "start_sec": 48.403,
+   "end_sec": 51.094,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D008-1",
+   "unit_id": "C52-D008",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "「ブームで需要が爆発的に拡大し、値段はうなぎ登りだ」という見出しを見ました。",
+   "start_sec": 51.444,
+   "end_sec": 57.27,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D008-2",
+   "unit_id": "C52-D008",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "大量に売れたという意味ですか。",
+   "start_sec": 57.42,
+   "end_sec": 59.794,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D009-1",
+   "unit_id": "C52-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "いいえ。",
+   "start_sec": 60.144,
+   "end_sec": 60.905,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D009-2",
+   "unit_id": "C52-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "関心が高まっても、売れた数量は別です。",
+   "start_sec": 61.055,
+   "end_sec": 64.098,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D009-3",
+   "unit_id": "C52-D009",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "価格が落ち着くまでの記録を示してください。",
+   "start_sec": 64.248,
+   "end_sec": 66.953,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D010-1",
+   "unit_id": "C52-D010",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "教育の分野なら、就学率と識字率ですね。",
+   "start_sec": 67.303,
+   "end_sec": 71.367,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D010-2",
+   "unit_id": "C52-D010",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "数がほぼ同じでも、量的な比較だけでは学ぶ環境を評価できません。",
+   "start_sec": 71.517,
+   "end_sec": 76.667,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D011-1",
+   "unit_id": "C52-D011",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "機器の普及率も同様です。",
+   "start_sec": 77.017,
+   "end_sec": 79.14,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D011-2",
+   "unit_id": "C52-D011",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "地域の半数弱の家庭にあると言うと、五割未満ですね。",
+   "start_sec": 79.29,
+   "end_sec": 83.485,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D011-3",
+   "unit_id": "C52-D011",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "多少の差にも意味があるかもしれません。",
+   "start_sec": 83.635,
+   "end_sec": 85.882,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D012-1",
+   "unit_id": "C52-D012",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "三十人足らずの調査でも、数百人に及ぶ調査でも、参加しなかった人の声は反映できない場合がありますね。",
+   "start_sec": 86.232,
+   "end_sec": 93.671,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D013-1",
+   "unit_id": "C52-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "そうですね。",
+   "start_sec": 94.021,
+   "end_sec": 95.257,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D013-2",
+   "unit_id": "C52-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "トップに次ぐ二位への躍進という言い方も、順位だけを強調しています。",
+   "start_sec": 95.407,
+   "end_sec": 100.453,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D013-3",
+   "unit_id": "C52-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "実際の点の差も必要です。",
+   "start_sec": 100.603,
+   "end_sec": 102.791,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D014-1",
+   "unit_id": "C52-D014",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "分かりました。",
+   "start_sec": 103.141,
+   "end_sec": 104.069,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D014-2",
+   "unit_id": "C52-D014",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "説明は初めて読む人にも分かるぐらい丁寧にします。",
+   "start_sec": 104.219,
+   "end_sec": 107.653,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D015-1",
+   "unit_id": "C52-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "回答者の負担も考えると、質問は少ないほうがいいですね。",
+   "start_sec": 108.003,
+   "end_sec": 112.026,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D016-1",
+   "unit_id": "C52-D016",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "資料を読めば読むほど、確かめたいことが増えますね。",
+   "start_sec": 112.376,
+   "end_sec": 116.076,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D017-1",
+   "unit_id": "C52-D017",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "ええ。",
+   "start_sec": 116.426,
+   "end_sec": 117.108,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C52-D017-2",
+   "unit_id": "C52-D017",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "合計の確認ぐらいは、今ここで一緒にしましょう。",
+   "start_sec": 117.258,
+   "end_sec": 120.593,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

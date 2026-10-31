@@ -1,0 +1,702 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 69.361,
+ "listening_review": "pending",
+ "source_chapter": 3,
+ "turns": [
+  {
+   "turn_id": "C03-D001",
+   "turn_index": 0,
+   "speaker": "アナンド",
+   "source_text": "こんばんは。あれはスマートフォンですか。",
+   "sentence_ids": [
+    "C03-D001-S01",
+    "C03-D001-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 3.052,
+   "duration_sec": 3.052
+  },
+  {
+   "turn_id": "C03-D002",
+   "turn_index": 1,
+   "speaker": "中村",
+   "source_text": "こんばんは。はい、スマートフォンです。番号は九です。",
+   "sentence_ids": [
+    "C03-D002-S01",
+    "C03-D002-S02",
+    "C03-D002-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 3.402,
+   "end_sec": 7.893,
+   "duration_sec": 4.491
+  },
+  {
+   "turn_id": "C03-D003",
+   "turn_index": 2,
+   "speaker": "パク",
+   "source_text": "あのスマートフォンはアナンドさんのスマートフォンですか。",
+   "sentence_ids": [
+    "C03-D003-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 8.243,
+   "end_sec": 11.569,
+   "duration_sec": 3.326
+  },
+  {
+   "turn_id": "C03-D004",
+   "turn_index": 3,
+   "speaker": "アナンド",
+   "source_text": "はい、そうです。わたしのスマートフォンです。",
+   "sentence_ids": [
+    "C03-D004-S01",
+    "C03-D004-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.919,
+   "end_sec": 14.241,
+   "duration_sec": 2.322
+  },
+  {
+   "turn_id": "C03-D005",
+   "turn_index": 4,
+   "speaker": "中村",
+   "source_text": "これですか。",
+   "sentence_ids": [
+    "C03-D005-S01"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 15.141,
+   "end_sec": 16.221,
+   "duration_sec": 1.08
+  },
+  {
+   "turn_id": "C03-D006",
+   "turn_index": 5,
+   "speaker": "アナンド",
+   "source_text": "はい、それです。画面の写真はわたしの写真です。",
+   "sentence_ids": [
+    "C03-D006-S01",
+    "C03-D006-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.571,
+   "end_sec": 19.835,
+   "duration_sec": 3.264
+  },
+  {
+   "turn_id": "C03-D007",
+   "turn_index": 6,
+   "speaker": "パク",
+   "source_text": "その鍵はだれの鍵ですか。",
+   "sentence_ids": [
+    "C03-D007-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 20.185,
+   "end_sec": 22.422,
+   "duration_sec": 2.237
+  },
+  {
+   "turn_id": "C03-D008",
+   "turn_index": 7,
+   "speaker": "中村",
+   "source_text": "鍵の番号はゼロ、よん、に、きゅうです。",
+   "sentence_ids": [
+    "C03-D008-S01"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 22.772,
+   "end_sec": 27.858,
+   "duration_sec": 5.086
+  },
+  {
+   "turn_id": "C03-D009",
+   "turn_index": 8,
+   "speaker": "パク",
+   "source_text": "もう一度お願いします。",
+   "sentence_ids": [
+    "C03-D009-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.208,
+   "end_sec": 29.516,
+   "duration_sec": 1.308
+  },
+  {
+   "turn_id": "C03-D010",
+   "turn_index": 9,
+   "speaker": "中村",
+   "source_text": "ゼロ、よん、に、きゅうです。",
+   "sentence_ids": [
+    "C03-D010-S01"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 29.866,
+   "end_sec": 33.435,
+   "duration_sec": 3.569
+  },
+  {
+   "turn_id": "C03-D011",
+   "turn_index": 10,
+   "speaker": "パク",
+   "source_text": "わたしの鍵です。ありがとうございます。",
+   "sentence_ids": [
+    "C03-D011-S01",
+    "C03-D011-S02"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 33.785,
+   "end_sec": 36.577,
+   "duration_sec": 2.792
+  },
+  {
+   "turn_id": "C03-D012",
+   "turn_index": 11,
+   "speaker": "中村",
+   "source_text": "はい、パクさんの鍵です。このペンもパクさんのペンですか。",
+   "sentence_ids": [
+    "C03-D012-S01",
+    "C03-D012-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.927,
+   "end_sec": 41.351,
+   "duration_sec": 4.424
+  },
+  {
+   "turn_id": "C03-D013",
+   "turn_index": 12,
+   "speaker": "林梅",
+   "source_text": "いいえ、違います。中村さんのペンです。",
+   "sentence_ids": [
+    "C03-D013-S01",
+    "C03-D013-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 41.701,
+   "end_sec": 44.672,
+   "duration_sec": 2.971
+  },
+  {
+   "turn_id": "C03-D014",
+   "turn_index": 13,
+   "speaker": "中村",
+   "source_text": "はい、わたしのペンです。",
+   "sentence_ids": [
+    "C03-D014-S01"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 45.022,
+   "end_sec": 46.648,
+   "duration_sec": 1.626
+  },
+  {
+   "turn_id": "C03-D015",
+   "turn_index": 14,
+   "speaker": "林梅",
+   "source_text": "あれは何ですか。",
+   "sentence_ids": [
+    "C03-D015-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.548,
+   "end_sec": 49.024,
+   "duration_sec": 1.476
+  },
+  {
+   "turn_id": "C03-D016",
+   "turn_index": 15,
+   "speaker": "中村",
+   "source_text": "充電器です。パソコンの充電器ではありません。スマートフォンの充電器です。",
+   "sentence_ids": [
+    "C03-D016-S01",
+    "C03-D016-S02",
+    "C03-D016-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 49.374,
+   "end_sec": 54.874,
+   "duration_sec": 5.5
+  },
+  {
+   "turn_id": "C03-D017",
+   "turn_index": 16,
+   "speaker": "パク",
+   "source_text": "あの充電器もアナンドさんの充電器ですか。",
+   "sentence_ids": [
+    "C03-D017-S01"
+   ],
+   "voice_id": "ja-jp-assistant-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 55.224,
+   "end_sec": 58.427,
+   "duration_sec": 3.203
+  },
+  {
+   "turn_id": "C03-D018",
+   "turn_index": 17,
+   "speaker": "アナンド",
+   "source_text": "いいえ、わたしの充電器ではありません。わたしの充電器はこれです。",
+   "sentence_ids": [
+    "C03-D018-S01",
+    "C03-D018-S02"
+   ],
+   "voice_id": "ja-jp-concierge-6",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 58.777,
+   "end_sec": 62.651,
+   "duration_sec": 3.874
+  },
+  {
+   "turn_id": "C03-D019",
+   "turn_index": 18,
+   "speaker": "林梅",
+   "source_text": "あの人は田中さんですか。",
+   "sentence_ids": [
+    "C03-D019-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 63.551,
+   "end_sec": 65.513,
+   "duration_sec": 1.962
+  },
+  {
+   "turn_id": "C03-D020",
+   "turn_index": 19,
+   "speaker": "中村",
+   "source_text": "はい、そうです。日本語クラスの田中さんです。",
+   "sentence_ids": [
+    "C03-D020-S01",
+    "C03-D020-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 65.863,
+   "end_sec": 69.355,
+   "duration_sec": 3.492
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C03-D001-S01",
+   "unit_id": "C03-D001",
+   "section": "D",
+   "speaker": "アナンド",
+   "text": "こんばんは。",
+   "start_sec": 0.0,
+   "end_sec": 0.99,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D001-S02",
+   "unit_id": "C03-D001",
+   "section": "D",
+   "speaker": "アナンド",
+   "text": "あれはスマートフォンですか。",
+   "start_sec": 1.14,
+   "end_sec": 3.052,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D002-S01",
+   "unit_id": "C03-D002",
+   "section": "D",
+   "speaker": "中村",
+   "text": "こんばんは。",
+   "start_sec": 3.402,
+   "end_sec": 4.274,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D002-S02",
+   "unit_id": "C03-D002",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、スマートフォンです。",
+   "start_sec": 4.424,
+   "end_sec": 6.304,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D002-S03",
+   "unit_id": "C03-D002",
+   "section": "D",
+   "speaker": "中村",
+   "text": "番号は九です。",
+   "start_sec": 6.454,
+   "end_sec": 7.893,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D003-S01",
+   "unit_id": "C03-D003",
+   "section": "D",
+   "speaker": "パク",
+   "text": "あのスマートフォンはアナンドさんのスマートフォンですか。",
+   "start_sec": 8.243,
+   "end_sec": 11.569,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D004-S01",
+   "unit_id": "C03-D004",
+   "section": "D",
+   "speaker": "アナンド",
+   "text": "はい、そうです。",
+   "start_sec": 11.919,
+   "end_sec": 12.887,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D004-S02",
+   "unit_id": "C03-D004",
+   "section": "D",
+   "speaker": "アナンド",
+   "text": "わたしのスマートフォンです。",
+   "start_sec": 13.037,
+   "end_sec": 14.241,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D005-S01",
+   "unit_id": "C03-D005",
+   "section": "D",
+   "speaker": "中村",
+   "text": "これですか。",
+   "start_sec": 15.141,
+   "end_sec": 16.221,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D006-S01",
+   "unit_id": "C03-D006",
+   "section": "D",
+   "speaker": "アナンド",
+   "text": "はい、それです。",
+   "start_sec": 16.571,
+   "end_sec": 17.54,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D006-S02",
+   "unit_id": "C03-D006",
+   "section": "D",
+   "speaker": "アナンド",
+   "text": "画面の写真はわたしの写真です。",
+   "start_sec": 17.69,
+   "end_sec": 19.835,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D007-S01",
+   "unit_id": "C03-D007",
+   "section": "D",
+   "speaker": "パク",
+   "text": "その鍵はだれの鍵ですか。",
+   "start_sec": 20.185,
+   "end_sec": 22.422,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D008-S01",
+   "unit_id": "C03-D008",
+   "section": "D",
+   "speaker": "中村",
+   "text": "鍵の番号はゼロ、よん、に、きゅうです。",
+   "start_sec": 22.772,
+   "end_sec": 27.858,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D009-S01",
+   "unit_id": "C03-D009",
+   "section": "D",
+   "speaker": "パク",
+   "text": "もう一度お願いします。",
+   "start_sec": 28.208,
+   "end_sec": 29.516,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D010-S01",
+   "unit_id": "C03-D010",
+   "section": "D",
+   "speaker": "中村",
+   "text": "ゼロ、よん、に、きゅうです。",
+   "start_sec": 29.866,
+   "end_sec": 33.435,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D011-S01",
+   "unit_id": "C03-D011",
+   "section": "D",
+   "speaker": "パク",
+   "text": "わたしの鍵です。",
+   "start_sec": 33.785,
+   "end_sec": 34.835,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D011-S02",
+   "unit_id": "C03-D011",
+   "section": "D",
+   "speaker": "パク",
+   "text": "ありがとうございます。",
+   "start_sec": 34.985,
+   "end_sec": 36.577,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D012-S01",
+   "unit_id": "C03-D012",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、パクさんの鍵です。",
+   "start_sec": 36.927,
+   "end_sec": 39.041,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D012-S02",
+   "unit_id": "C03-D012",
+   "section": "D",
+   "speaker": "中村",
+   "text": "このペンもパクさんのペンですか。",
+   "start_sec": 39.191,
+   "end_sec": 41.351,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D013-S01",
+   "unit_id": "C03-D013",
+   "section": "D",
+   "speaker": "リン",
+   "text": "いいえ、違います。",
+   "start_sec": 41.701,
+   "end_sec": 43.07,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D013-S02",
+   "unit_id": "C03-D013",
+   "section": "D",
+   "speaker": "リン",
+   "text": "中村さんのペンです。",
+   "start_sec": 43.22,
+   "end_sec": 44.672,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D014-S01",
+   "unit_id": "C03-D014",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、わたしのペンです。",
+   "start_sec": 45.022,
+   "end_sec": 46.648,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D015-S01",
+   "unit_id": "C03-D015",
+   "section": "D",
+   "speaker": "リン",
+   "text": "あれは何ですか。",
+   "start_sec": 47.548,
+   "end_sec": 49.024,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D016-S01",
+   "unit_id": "C03-D016",
+   "section": "D",
+   "speaker": "中村",
+   "text": "充電器です。",
+   "start_sec": 49.374,
+   "end_sec": 50.482,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D016-S02",
+   "unit_id": "C03-D016",
+   "section": "D",
+   "speaker": "中村",
+   "text": "パソコンの充電器ではありません。",
+   "start_sec": 50.632,
+   "end_sec": 52.902,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D016-S03",
+   "unit_id": "C03-D016",
+   "section": "D",
+   "speaker": "中村",
+   "text": "スマートフォンの充電器です。",
+   "start_sec": 53.052,
+   "end_sec": 54.874,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D017-S01",
+   "unit_id": "C03-D017",
+   "section": "D",
+   "speaker": "パク",
+   "text": "あの充電器もアナンドさんの充電器ですか。",
+   "start_sec": 55.224,
+   "end_sec": 58.427,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D018-S01",
+   "unit_id": "C03-D018",
+   "section": "D",
+   "speaker": "アナンド",
+   "text": "いいえ、わたしの充電器ではありません。",
+   "start_sec": 58.777,
+   "end_sec": 60.795,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D018-S02",
+   "unit_id": "C03-D018",
+   "section": "D",
+   "speaker": "アナンド",
+   "text": "わたしの充電器はこれです。",
+   "start_sec": 60.945,
+   "end_sec": 62.651,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D019-S01",
+   "unit_id": "C03-D019",
+   "section": "D",
+   "speaker": "リン",
+   "text": "あの人は田中さんですか。",
+   "start_sec": 63.551,
+   "end_sec": 65.513,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D020-S01",
+   "unit_id": "C03-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、そうです。",
+   "start_sec": 65.863,
+   "end_sec": 67.165,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C03-D020-S02",
+   "unit_id": "C03-D020",
+   "section": "D",
+   "speaker": "中村",
+   "text": "日本語クラスの田中さんです。",
+   "start_sec": 67.315,
+   "end_sec": 69.355,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

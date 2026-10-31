@@ -1,0 +1,6701 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow4",
+  "lesson_id": "lesson_13",
+  "entries": [
+    {
+      "textbook_uid": "cfv-26ae3655d62a69f4",
+      "index": 5687,
+      "word": "原因",
+      "reading_hiragana": "げんいん",
+      "context_meaning_zh": "造成结果的原因",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "造成结果的原因",
+          "meaning_ja": "ある物事が起こるもとになった事情。",
+          "example_ja": "事故の原因を調べています。",
+          "example_zh": "正在调查事故的原因。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "原因を探る",
+          "zh": "探寻原因"
+        }
+      ],
+      "usage_note_zh": "常用「原因は…だ」「原因になる」等形式，指造成某种结果的事情。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "“用一个原因解释结果”明确使用原因名词；兼有的サ变自动态由词典支持，本例不证明该动词用法。",
+        "dictionary_sequences": [
+          1261190
+        ],
+        "identity": {
+          "word": "原因",
+          "reading_hiragana": "げんいん",
+          "meaning": "造成结果的原因"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f650b9b3fdbcef7b",
+      "index": 5688,
+      "word": "結果",
+      "reading_hiragana": "けっか",
+      "context_meaning_zh": "事情的结果",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "事情的结果",
+          "meaning_ja": "ある出来事のあとに現れた状態。",
+          "example_ja": "結果が出るまで、もう少し待ちましょう。",
+          "example_zh": "在结果出来之前，再稍等一下吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結果を確かめる",
+          "zh": "确认结果"
+        }
+      ],
+      "usage_note_zh": "原因是导致事情发生的条件；结果是随后出现的事情或状态。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "结果既可作结果名词，也见词典列出的サ变用法；该用法表示事情产生结果，属于自发发生，本句仍取名词义。",
+        "dictionary_sequences": [
+          1254690
+        ],
+        "identity": {
+          "word": "結果",
+          "reading_hiragana": "けっか",
+          "meaning": "事情的结果"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-db6ef4574491f3ac",
+      "index": 5689,
+      "word": "選ぶ",
+      "reading_hiragana": "えらぶ",
+      "context_meaning_zh": "选择方案",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "选择方案",
+          "meaning_ja": "いくつかの中から、よいと思うものを決める。",
+          "example_ja": "迷った末に、青い傘を選びました。",
+          "example_zh": "犹豫之后，我选了蓝色的伞。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道を選ぶ",
+          "zh": "选择道路"
+        }
+      ],
+      "usage_note_zh": "「選ぶ」用助词「を」标记被选择的对象；「選ばれる」是被动形式，句子的主语是被选中的一方。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "讨论减少袋子的方法后选择该方案，方法作为直接对象。",
+        "dictionary_sequences": [
+          1588730
+        ],
+        "identity": {
+          "word": "選ぶ",
+          "reading_hiragana": "えらぶ",
+          "meaning": "选择方案"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c9ec3d417884106",
+      "index": 5690,
+      "word": "試す",
+      "reading_hiragana": "ためす",
+      "context_meaning_zh": "试验尝试",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "试验尝试",
+          "meaning_ja": "本当にそうなるか、実際にやって確かめる。",
+          "example_ja": "新しい方法を小さく試してみた。",
+          "example_zh": "先小范围试了试新方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "方法を試す",
+          "zh": "尝试方法"
+        }
+      ],
+      "usage_note_zh": "「試してみる」表示为了确认效果而实际尝试；它与只表示有过某种经历的「経験する」侧重点不同。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "实际测试出租箱方法的对象以を标出，属于五段他动词；侧重亲自验证可行性。",
+        "dictionary_sequences": [
+          1312260
+        ],
+        "identity": {
+          "word": "試す",
+          "reading_hiragana": "ためす",
+          "meaning": "试验尝试"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2eb966b9bce75aa7",
+      "index": 5691,
+      "word": "失敗",
+      "reading_hiragana": "しっぱい",
+      "context_meaning_zh": "失败",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "失败",
+          "meaning_ja": "計画どおりにできず、望んだ結果にならないこと。",
+          "example_ja": "急いだために、最後の確認に失敗した。",
+          "example_zh": "因为太着急，最后的确认没做好。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "失敗を重ねる",
+          "zh": "屡次失败"
+        }
+      ],
+      "usage_note_zh": "「失敗」加「する」也可作动词；与「失敗をする」相比，直接说「失敗する」更简洁，也更常见。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "unknown",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "赶急而失败的句子使用失敗する不及物义，词典却兼标vt/vi；缺少及物搭配证据，保留未知而不套用双向标签。",
+        "dictionary_sequences": [
+          1320140
+        ],
+        "identity": {
+          "word": "失敗",
+          "reading_hiragana": "しっぱい",
+          "meaning": "失败"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5be2c804bddae511",
+      "index": 5692,
+      "word": "成功",
+      "reading_hiragana": "せいこう",
+      "context_meaning_zh": "成功",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "成功",
+          "meaning_ja": "目標に届き、望んだ結果を得ること。",
+          "example_ja": "練習を続けた結果、発表は成功した。",
+          "example_zh": "持续练习之后，发表取得了成功。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "成功を収める",
+          "zh": "取得成功"
+        }
+      ],
+      "usage_note_zh": "「成功する」表示计划或尝试取得了好结果；可用「成功した人」（成功的人）修饰名词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "不能保证改进必然成功，表达尝试取得好结果的可能性；词典列不及物サ变。",
+        "dictionary_sequences": [
+          1375690
+        ],
+        "identity": {
+          "word": "成功",
+          "reading_hiragana": "せいこう",
+          "meaning": "成功"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3616a2227d029e48",
+      "index": 5693,
+      "word": "反省",
+      "reading_hiragana": "はんせい",
+      "context_meaning_zh": "回顾并反思",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "回顾并反思",
+          "meaning_ja": "自分の行動を振り返り、よくなかった点を考えること。",
+          "example_ja": "失敗を反省し、次に同じことが起きないよう対策を考えた。",
+          "example_zh": "我反省了这次失败，并考虑对策以避免重蹈覆辙。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "反省を生かす",
+          "zh": "吸取反省所得"
+        }
+      ],
+      "usage_note_zh": "「反省する」是回顾并检讨自己的言行，不表示责怪别人。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "岸回顾自己因急躁而失败，反省作サ变词表示检讨自身言行；词典列名词和vt。",
+        "dictionary_sequences": [
+          1480540
+        ],
+        "identity": {
+          "word": "反省",
+          "reading_hiragana": "はんせい",
+          "meaning": "回顾并反思"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c992c754d3cfb2bb",
+      "index": 5694,
+      "word": "工夫",
+      "reading_hiragana": "くふう",
+      "context_meaning_zh": "为改进而想办法",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "为改进而想办法",
+          "meaning_ja": "目的に合わせて、よい方法を考えて変えること。",
+          "example_ja": "荷物が減るように、箱の詰め方を工夫した。",
+          "example_zh": "为了减少行李，我在装箱方法上动了脑筋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "工夫を凝らす",
+          "zh": "精心设计"
+        }
+      ],
+      "usage_note_zh": "「工夫する」表示动脑筋改进方法；也可说「工夫が見られる」（看得出经过巧思）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "工夫する表示为改善而想办法，例句把增加用量的方法作为讨论对象；名词义也指所设计的办法。",
+        "dictionary_sequences": [
+          1278220
+        ],
+        "identity": {
+          "word": "工夫",
+          "reading_hiragana": "くふう",
+          "meaning": "为改进而想办法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0760377fbaf70e66",
+      "index": 5695,
+      "word": "相談",
+      "reading_hiragana": "そうだん",
+      "context_meaning_zh": "与他人商量",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "与他人商量",
+          "meaning_ja": "問題や考えについて、相手の意見を聞きながら話すこと。",
+          "example_ja": "進路について先生に相談しました。",
+          "example_zh": "我就升学方向和老师商量了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "専門家に相談する",
+          "zh": "向专家咨询"
+        }
+      ],
+      "usage_note_zh": "表示商量的对象时用「に」，表示商量的内容时用「について」或「を」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "多次商议订单安排，词典支持名词及する他动词；叙述形式不代表词条限定书面语。",
+        "dictionary_sequences": [
+          1401210
+        ],
+        "identity": {
+          "word": "相談",
+          "reading_hiragana": "そうだん",
+          "meaning": "与他人商量"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f0be4a8e102bd40e",
+      "index": 5696,
+      "word": "決心",
+      "reading_hiragana": "けっしん",
+      "context_meaning_zh": "下定决心",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "下定决心",
+          "meaning_ja": "こうしようと心を決めること。",
+          "example_ja": "彼女は一人で留学すると決心した。",
+          "example_zh": "她下定决心独自留学。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "決心が固い",
+          "zh": "决心坚定"
+        }
+      ],
+      "usage_note_zh": "「決心する」表示下定决心；与「決断」（作出具体判断或抉择）相比，更强调坚定意志。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "決心をする表示下定决心，词典列名词及自他サ变，习惯搭配可将决心作为形成的意志对象。",
+        "dictionary_sequences": [
+          1254340
+        ],
+        "identity": {
+          "word": "決心",
+          "reading_hiragana": "けっしん",
+          "meaning": "下定决心"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-03e3f138a90ab826",
+      "index": 5697,
+      "word": "努力",
+      "reading_hiragana": "どりょく",
+      "context_meaning_zh": "努力",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "努力",
+          "meaning_ja": "目標に向けて、力を尽くして続けること。",
+          "example_ja": "毎日少しずつ努力を続けています。",
+          "example_zh": "我每天都在一点点持续努力。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "努力を続ける",
+          "zh": "持续努力"
+        }
+      ],
+      "usage_note_zh": "也可作サ变动词，构成「努力する」（努力）。努力的目标可用「合格のために」（为了通过考试）等表达。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "洗箱这项持续投入称为努力，詞典及惯用构式支持努力する；词类兼名词与不及物サ变。",
+        "dictionary_sequences": [
+          1445130
+        ],
+        "identity": {
+          "word": "努力",
+          "reading_hiragana": "どりょく",
+          "meaning": "努力"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b7b02f7688879913",
+      "index": 5698,
+      "word": "検討",
+      "reading_hiragana": "けんとう",
+      "context_meaning_zh": "研究考虑方案",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "研究考虑方案",
+          "meaning_ja": "複数の案や条件をよく調べ、採用するか考えること。",
+          "example_ja": "費用を比べてから、計画を検討します。",
+          "example_zh": "比较费用之后再研究计划。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "案を検討する",
+          "zh": "研究方案"
+        }
+      ],
+      "usage_note_zh": "「検討する」指执行前仔细研究、权衡方案；不只包含调查，也包括作出判断的阶段。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指认真研究、权衡方法并作选择，词典为サ变他动；本例直接以方法为研究对象。",
+        "dictionary_sequences": [
+          1258000
+        ],
+        "identity": {
+          "word": "検討",
+          "reading_hiragana": "けんとう",
+          "meaning": "研究考虑方案"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-95df021beee17c79",
+      "index": 5699,
+      "word": "実施",
+      "reading_hiragana": "じっし",
+      "context_meaning_zh": "实施",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "正式",
+      "senses": [
+        {
+          "meaning_zh": "实施",
+          "meaning_ja": "決めた計画や制度を実際に行うこと。",
+          "example_ja": "来月から新しい制度を実施します。",
+          "example_zh": "从下个月开始实施新制度。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "計画を実施する",
+          "zh": "实施计划"
+        }
+      ],
+      "usage_note_zh": "常用于正式计划或组织开展的项目；日常的小事通常说「行う」（进行、做）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "formal",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "是否实施计划是待决定事项；词典标名词兼サ变他动，学习说明其用于正式计划或组织项目。",
+        "dictionary_sequences": [
+          1321140
+        ],
+        "identity": {
+          "word": "実施",
+          "reading_hiragana": "じっし",
+          "meaning": "实施"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e0fdfbe20ceea118",
+      "index": 5700,
+      "word": "達成",
+      "reading_hiragana": "たっせい",
+      "context_meaning_zh": "实现目标",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "实现目标",
+          "meaning_ja": "決めた目標を成し遂げること。",
+          "example_ja": "一年かけて、研究の目標を達成した。",
+          "example_zh": "花了一年时间，达成了研究目标。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "目標を達成する",
+          "zh": "达成目标"
+        }
+      ],
+      "usage_note_zh": "说「目標を達成する」（达成目标），不说「目標に達成する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "未能实现的目标是達成する的对象；词典列名词和サ变他动词。",
+        "dictionary_sequences": [
+          1416260
+        ],
+        "identity": {
+          "word": "達成",
+          "reading_hiragana": "たっせい",
+          "meaning": "实现目标"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8ff56464cf4dc023",
+      "index": 5701,
+      "word": "利益",
+      "reading_hiragana": "りえき",
+      "context_meaning_zh": "得到的好处或利润",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "得到的好处或利润",
+          "meaning_ja": "活動によって得られる、役立つものや金銭上のもうけ。",
+          "example_ja": "この変更で利用者にも利益があります。",
+          "example_zh": "这项变更对使用者也有好处。"
+        },
+        {
+          "meaning_zh": "利益；好处",
+          "meaning_ja": "人や組織にとって役に立つこと、またそのよい結果。",
+          "example_ja": "この変更は利用者の利益につながる。",
+          "example_zh": "这项变更会给使用者带来好处。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "利益を得る",
+          "zh": "获得利益"
+        }
+      ],
+      "usage_note_zh": "「利益」既可指金钱上的利润，也可泛指获得的好处；是否特指会计上的收益，要结合语境判断。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "可表示利润，也可指有益之处或相关方利益；例句主题包含经营，但词语本身不专限商业体裁。",
+        "dictionary_sequences": [
+          1549470
+        ],
+        "identity": {
+          "word": "利益",
+          "reading_hiragana": "りえき",
+          "meaning": "得到的好处或利润"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fab2c17be8910fbe",
+      "index": 5702,
+      "word": "契約",
+      "reading_hiragana": "けいやく",
+      "context_meaning_zh": "订立的协议",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "订立的协议",
+          "meaning_ja": "当事者が条件に合意し、権利や義務を定める約束。",
+          "example_ja": "契約の内容を読んでから署名してください。",
+          "example_zh": "请阅读合同内容后再签字。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "契約を結ぶ",
+          "zh": "订立合同"
+        }
+      ],
+      "usage_note_zh": "常说「契約を結ぶ／する」（订立合同）。「契約書」指把双方约定写成书面形式的文件。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": [
+          "business"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "合同可作订立事项的名词，也可构成契約する；此例只是询问应用服务合同尚未订立，句末礼貌形式不属于词项属性。",
+        "dictionary_sequences": [
+          1250190
+        ],
+        "identity": {
+          "word": "契約",
+          "reading_hiragana": "けいやく",
+          "meaning": "订立的协议"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-38ddb7d72819f5ac",
+      "index": 5703,
+      "word": "引き受ける",
+      "reading_hiragana": "ひきうける",
+      "context_meaning_zh": "承担任务或责任",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "承担任务或责任",
+          "meaning_ja": "頼まれた仕事や役目を、自分が担当すると受け入れる。",
+          "example_ja": "急な仕事を彼が引き受けてくれた。",
+          "example_zh": "他接下了这项临时工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "役目を引き受ける",
+          "zh": "承担职责"
+        }
+      ],
+      "usage_note_zh": "「仕事を引き受ける」表示答应承担这项工作；它不表示像「受け取る」那样收下某件物品。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "说话人承担纸张准备工作，宾语为任务内容；「ます」是句尾礼貌语，不改变词项语域。",
+        "dictionary_sequences": [
+          1601520
+        ],
+        "identity": {
+          "word": "引き受ける",
+          "reading_hiragana": "ひきうける",
+          "meaning": "承担任务或责任"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b801c65898bd84ff",
+      "index": 5704,
+      "word": "試行錯誤",
+      "reading_hiragana": "しこうさくご",
+      "context_meaning_zh": "反复尝试并调整",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "反复尝试并调整",
+          "meaning_ja": "うまくいかない試みを何度も行い、方法を直していくこと。",
+          "example_ja": "試行錯誤の末、使いやすい形になった。",
+          "example_zh": "反复尝试调整之后，终于变得好用了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "試行錯誤を繰り返す",
+          "zh": "反复试错"
+        }
+      ],
+      "usage_note_zh": "「試行錯誤」是一个名词，通常用于「試行錯誤する」（反复摸索）或「試行錯誤を重ねる」（不断试错）等表达。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "试行错誤持续进行，词典支持名词及サ变；在此表示反复试验以找办法的过程。",
+        "dictionary_sequences": [
+          1312410
+        ],
+        "identity": {
+          "word": "試行錯誤",
+          "reading_hiragana": "しこうさくご",
+          "meaning": "反复尝试并调整"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-26de3ec16523e28d",
+      "index": 5705,
+      "word": "経緯",
+      "reading_hiragana": "けいい",
+      "context_meaning_zh": "事情的来龙去脉",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "事情的来龙去脉",
+          "meaning_ja": "物事が現在の状態になるまでの事情や順序。",
+          "example_ja": "担当者が変更された経緯を説明します。",
+          "example_zh": "我来说明负责人变更的经过。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "経緯を説明する",
+          "zh": "说明来龙去脉"
+        }
+      ],
+      "usage_note_zh": "「経緯」指事情发生的背景和发展经过，不只是最后的结局或结果。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "描述多次商量后未赶上印刷的経緯，指事情发展的经过和背景，非经纬线义；叙述偏书面。",
+        "dictionary_sequences": [
+          1251120
+        ],
+        "identity": {
+          "word": "経緯",
+          "reading_hiragana": "けいい",
+          "meaning": "事情的来龙去脉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f88515f44547786f",
+      "index": 5706,
+      "word": "結末",
+      "reading_hiragana": "けつまつ",
+      "context_meaning_zh": "最终结局",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "最终结局",
+          "meaning_ja": "物語や出来事が最後にどうなるか。",
+          "example_ja": "予想外の結末に、会場が静かになった。",
+          "example_zh": "出乎意料的结局让会场安静了下来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "結末を迎える",
+          "zh": "迎来结局"
+        }
+      ],
+      "usage_note_zh": "「結末」指故事的结尾或事情最终的发展结果。也可说「結末が付く」，表示事情有了结果、告一段落。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "经历的结局尚未确定，「結末」表示事情最后结果，词典名词义吻合。",
+        "dictionary_sequences": [
+          1255010
+        ],
+        "identity": {
+          "word": "結末",
+          "reading_hiragana": "けつまつ",
+          "meaning": "最终结局"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3b158c2f0aeb2b25",
+      "index": 5707,
+      "word": "悔やむ",
+      "reading_hiragana": "くやむ",
+      "context_meaning_zh": "后悔已发生的事",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "后悔已发生的事",
+          "meaning_ja": "過ぎたことを残念に思い、心にかける。",
+          "example_ja": "言い過ぎたことを、今も悔やんでいる。",
+          "example_zh": "我至今仍在后悔话说得太重。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "過去を悔やむ",
+          "zh": "后悔过去"
+        }
+      ],
+      "usage_note_zh": "常用于「失敗を悔やむ」「言動を悔やむ」等表达，用助词「を」标出感到后悔的事情。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "失敗を悔やむ表示为已发生失败而后悔；词典列五段他动，例句对象由「を」标出。",
+        "dictionary_sequences": [
+          1200450
+        ],
+        "identity": {
+          "word": "悔やむ",
+          "reading_hiragana": "くやむ",
+          "meaning": "后悔已发生的事"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-782dad0e1a80eac8",
+      "index": 5708,
+      "word": "過失",
+      "reading_hiragana": "かしつ",
+      "context_meaning_zh": "疏忽造成的错误",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "疏忽造成的错误",
+          "meaning_ja": "注意が足りず、意図せずに起こした誤り。",
+          "example_ja": "確認不足による過失が見つかった。",
+          "example_zh": "发现了因确认不足造成的过失。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "過失を認める",
+          "zh": "承认过失"
+        }
+      ],
+      "usage_note_zh": "「過失」指因疏忽造成的错误；要与表示有意为之的「故意」区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "過失是因疏忽产生的错误；句中未查砂土便仓促施工被评价为过失，符合过失义。",
+        "dictionary_sequences": [
+          1196120
+        ],
+        "identity": {
+          "word": "過失",
+          "reading_hiragana": "かしつ",
+          "meaning": "疏忽造成的错误"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bc61d554cb1293da",
+      "index": 5709,
+      "word": "誤算",
+      "reading_hiragana": "ごさん",
+      "context_meaning_zh": "错误估计",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "错误估计",
+          "meaning_ja": "予測や計算が実際の状況と合わなかったこと。",
+          "example_ja": "雨で客が減り、売上の予測は誤算だった。",
+          "example_zh": "因为下雨客人减少，销售额预测落空了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "誤算が生じる",
+          "zh": "出现误算"
+        }
+      ],
+      "usage_note_zh": "「誤算」不仅指数字计算出错，也可指预估落空、判断失误；「誤算だった」表示结果出乎原先估计。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "誤算表示预想失准或判断错误；输入仅给出一次计划落空的情境，没有商务体裁依据。",
+        "dictionary_sequences": [
+          1271340
+        ],
+        "identity": {
+          "word": "誤算",
+          "reading_hiragana": "ごさん",
+          "meaning": "错误估计"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a2bc8a3c17574bef",
+      "index": 5710,
+      "word": "遠回り",
+      "reading_hiragana": "とおまわり",
+      "context_meaning_zh": "绕道而行或采取迂回方法",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "绕道而行或采取迂回方法",
+          "meaning_ja": "目的地へまっすぐ行かず、遠い道を通ること。また、目的までに余分な段階を経ること。",
+          "example_ja": "工事中なので、駅まで遠回りしました。",
+          "example_zh": "因为正在施工，我绕远路去了车站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "遠回りをする",
+          "zh": "绕远路"
+        }
+      ],
+      "usage_note_zh": "既可指实际路线绕远，也可比喻实现目标时采取迂回的方法。说实际绕路时可用「遠回りして帰る」（绕远路回去）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "远回り是绕行或迂回方式的名词，当前句作表面看来绕道的比喻；未见动词标记或固定文体限制。",
+        "dictionary_sequences": [
+          1177930
+        ],
+        "identity": {
+          "word": "遠回り",
+          "reading_hiragana": "とおまわり",
+          "meaning": "绕道而行或采取迂回方法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f88bf9440a2beea5",
+      "index": 5711,
+      "word": "決断",
+      "reading_hiragana": "けつだん",
+      "context_meaning_zh": "果断决定",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "果断决定",
+          "meaning_ja": "迷った末に、進む方向や行動をはっきり決めること。",
+          "example_ja": "彼は転職する決断をした。",
+          "example_zh": "他决定换工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "決断を下す",
+          "zh": "作出决断"
+        }
+      ],
+      "usage_note_zh": "「決断」指作出选择的行为或决定；「決心」更侧重下定决心去做某事的意志。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指果断作出决定，例中建议一起决定是否实施；虽词典列他动标记，当前名词搭配为决定。",
+        "dictionary_sequences": [
+          1254370
+        ],
+        "identity": {
+          "word": "決断",
+          "reading_hiragana": "けつだん",
+          "meaning": "果断决定"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bdcb1f65df57c9da",
+      "index": 5712,
+      "word": "再検討",
+      "reading_hiragana": "さいけんとう",
+      "context_meaning_zh": "重新考虑",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "重新考虑",
+          "meaning_ja": "以前の検討をもう一度行い、改めて考えること。",
+          "example_ja": "条件が変わったので、予算を再検討します。",
+          "example_zh": "由于条件变了，我们重新研究预算。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "計画を再検討する",
+          "zh": "重新审议计划"
+        }
+      ],
+      "usage_note_zh": "「再検討する」指因情况变化等原因，把已经考虑过的内容重新审视、讨论。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "再検討しよう表示再次共同审视方案，词典列名词、サ変及他动词，按サ変他动用法记录。",
+        "dictionary_sequences": [
+          1292630
+        ],
+        "identity": {
+          "word": "再検討",
+          "reading_hiragana": "さいけんとう",
+          "meaning": "重新考虑"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d9811794031a20d2",
+      "index": 5713,
+      "word": "犠牲",
+      "reading_hiragana": "ぎせい",
+      "context_meaning_zh": "为其他目的付出的损失",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "为其他目的付出的损失",
+          "meaning_ja": "何かを得たり守ったりするために、失うものや負担。",
+          "example_ja": "その計画は多くの人の犠牲の上に成り立っている。",
+          "example_zh": "那个计划是建立在许多人的牺牲之上的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "犠牲を払う",
+          "zh": "付出牺牲"
+        }
+      ],
+      "usage_note_zh": "「犠牲」既可指失去生命、时间或利益等，也可指承受这种损失的人；用于轻微不便时可能显得言重。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "表示为增加记录而放弃休息，属于付出代价义；不是指事故受害者。",
+        "dictionary_sequences": [
+          1225450
+        ],
+        "identity": {
+          "word": "犠牲",
+          "reading_hiragana": "ぎせい",
+          "meaning": "为其他目的付出的损失"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-78d4fce771659ea0",
+      "index": 5714,
+      "word": "無駄",
+      "reading_hiragana": "むだ",
+      "context_meaning_zh": "没有效果的浪费",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "没有效果的浪费",
+          "meaning_ja": "役に立たず、時間や物を使ってもよい結果がないこと。",
+          "example_ja": "急いで買ったが、結局使わず無駄になった。",
+          "example_zh": "我匆忙买了，结果没用上，白费了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "無駄な出費",
+          "zh": "不必要的开支"
+        }
+      ],
+      "usage_note_zh": "修饰名词时用「無駄な」，作谓语时用「無駄だ」；「時間を無駄にする」表示没有有效利用时间。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号1530510含徒劳、浪费义；「全部無駄だったわけではない」评价工作并非全无意义。",
+        "dictionary_sequences": [
+          1530510
+        ],
+        "identity": {
+          "word": "無駄",
+          "reading_hiragana": "むだ",
+          "meaning": "没有效果的浪费"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-90a045e843569d3e",
+      "index": 5715,
+      "word": "手間",
+      "reading_hiragana": "てま",
+      "context_meaning_zh": "需要耗费的时间劳动",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "需要耗费的时间劳动",
+          "meaning_ja": "何かをするために必要な時間や労力。",
+          "example_ja": "この料理は手間がかかる。",
+          "example_zh": "这道菜很费工夫。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "手間を省く",
+          "zh": "省工夫"
+        }
+      ],
+      "usage_note_zh": "常说「手間がかかる」（费工夫）或「手間のかかる仕事」（费工夫的工作）。「手間を取らせる」表示给对方添额外的麻烦、让对方多费工夫。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "山药收获需要的工时和劳动属于手間的主要义；句中「収穫の」作名词修饰。",
+        "dictionary_sequences": [
+          1327410
+        ],
+        "identity": {
+          "word": "手間",
+          "reading_hiragana": "てま",
+          "meaning": "需要耗费的时间劳动"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c1e1074c701def16",
+      "index": 5716,
+      "word": "苦労",
+      "reading_hiragana": "くろう",
+      "context_meaning_zh": "辛苦经历",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "辛苦经历",
+          "meaning_ja": "大変なことを経験して、苦しい思いをすること。",
+          "example_ja": "引っ越しの準備にはずいぶん苦労した。",
+          "example_zh": "搬家准备让我费了不少劲。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "苦労を重ねる",
+          "zh": "历经辛苦"
+        }
+      ],
+      "usage_note_zh": "也可构成「苦労する」（经历艰辛）。「苦労」侧重辛苦的经历或付出的努力，与只表示费工夫的「手間」不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "即使费力仍未达到目标，辛劳状态由行动主体经历；名词兼自サ动词。",
+        "dictionary_sequences": [
+          1244680
+        ],
+        "identity": {
+          "word": "苦労",
+          "reading_hiragana": "くろう",
+          "meaning": "辛苦经历"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f93fbb9b7d21a046",
+      "index": 5717,
+      "word": "悪化",
+      "reading_hiragana": "あっか",
+      "context_meaning_zh": "变得更坏",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "变得更坏",
+          "meaning_ja": "状態や質が前より悪くなること。",
+          "example_ja": "雨が続き、道の状態が悪化した。",
+          "example_zh": "连续下雨，路况变差了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "症状が悪化する",
+          "zh": "症状恶化"
+        }
+      ],
+      "usage_note_zh": "「悪化する」表示状态变差，作自动词用法；表示某人或某事使对象变差时，用使役形式「悪化させる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "恶化在句中作状况变坏的变化结果，辞书列名词、サ变及自动词；不把状况当作直接宾语。",
+        "dictionary_sequences": [
+          1151470
+        ],
+        "identity": {
+          "word": "悪化",
+          "reading_hiragana": "あっか",
+          "meaning": "变得更坏"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3e476cfa6a311db7",
+      "index": 5718,
+      "word": "好転",
+      "reading_hiragana": "こうてん",
+      "context_meaning_zh": "形势转好",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "形势转好",
+          "meaning_ja": "悪い状態が前よりよくなること。",
+          "example_ja": "話し合いのあと、関係は少し好転した。",
+          "example_zh": "交谈之后，关系稍有好转。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "状況が好転する",
+          "zh": "情况好转"
+        }
+      ],
+      "usage_note_zh": "「好転する」表示状况或病情朝着更好的方向变化；「好転させる」则表示有人促使这种变化发生。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "状况好转由好転する表示，改善作为状态发生而非以对象为宾语；词典列名词及サ变自动词。",
+        "dictionary_sequences": [
+          1277750
+        ],
+        "identity": {
+          "word": "好転",
+          "reading_hiragana": "こうてん",
+          "meaning": "形势转好"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-03eedf80bdb4670b",
+      "index": 5719,
+      "word": "教訓",
+      "reading_hiragana": "きょうくん",
+      "context_meaning_zh": "从经历中得到的启示",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "从经历中得到的启示",
+          "meaning_ja": "経験から学び、次に生かせる考えや知識。",
+          "example_ja": "この失敗を教訓にして、確認方法を変えた。",
+          "example_zh": "我把这次失败当作教训，改变了确认方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "教訓を得る",
+          "zh": "得到教训"
+        }
+      ],
+      "usage_note_zh": "常说「教訓にする／生かす」，表示把经验转化为今后的行动指南。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "教训是经验中可供以后借鉴的启示；词典列名词及vtサ变用法，词条用于本章的名词性总结判断。",
+        "dictionary_sequences": [
+          1237080
+        ],
+        "identity": {
+          "word": "教訓",
+          "reading_hiragana": "きょうくん",
+          "meaning": "从经历中得到的启示"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-79fa91909782ca71",
+      "index": 5720,
+      "word": "花",
+      "reading_hiragana": "はな",
+      "context_meaning_zh": "花",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "花",
+          "meaning_ja": "植物がつける、色や形を楽しむ部分。",
+          "example_ja": "窓辺に花を飾りました。",
+          "example_zh": "我在窗边摆了花。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "花が咲く",
+          "zh": "花开"
+        }
+      ],
+      "usage_note_zh": "「花」指植物的花。「花が咲く」表示植物开花；「花を飾る」表示摆放切花等作装饰。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句中「花が咲く」指植物的花，明确对应辞书首义；没有必要把樱花等其他词典义并入本条。",
+        "dictionary_sequences": [
+          1194500
+        ],
+        "identity": {
+          "word": "花",
+          "reading_hiragana": "はな",
+          "meaning": "花"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b974b460e21af9e1",
+      "index": 5721,
+      "word": "草",
+      "reading_hiragana": "くさ",
+      "context_meaning_zh": "草",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "草",
+          "meaning_ja": "茎が木のように硬くならず、地面近くに育つ植物。",
+          "example_ja": "雨のあと、庭の草が伸びていた。",
+          "example_zh": "雨后院子里的草长高了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "草を刈る",
+          "zh": "割草"
+        }
+      ],
+      "usage_note_zh": "「草」可泛指草本植物，也可特指草坪上的草或杂草。「草木」是「草」和「木」合成的词。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "田里拔除的草对应植物／杂草名词义；词典的忍者、网络笑声及俚语义均不适用。",
+        "dictionary_sequences": [
+          1401910
+        ],
+        "identity": {
+          "word": "草",
+          "reading_hiragana": "くさ",
+          "meaning": "草"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2a4598484c393da5",
+      "index": 5722,
+      "word": "木の葉",
+      "reading_hiragana": "このは",
+      "context_meaning_zh": "树叶",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "树叶",
+          "meaning_ja": "木から生えている葉。",
+          "example_ja": "秋風で木の葉が道に落ちた。",
+          "example_zh": "秋风把树叶吹落在路上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "木の葉が散る",
+          "zh": "树叶飘落"
+        }
+      ],
+      "usage_note_zh": "「木の葉」指树上的叶子，读作「このは」。日常会话中也常单说「葉」（叶子）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「木の葉」指树木叶片的普通名词，可用于描写叶色、飘落或遮路；这些例句没有把词项限定为文学媒介或体裁。",
+        "dictionary_sequences": [
+          1534560
+        ],
+        "identity": {
+          "word": "木の葉",
+          "reading_hiragana": "このは",
+          "meaning": "树叶"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-861a63fbd95e7bc0",
+      "index": 5723,
+      "word": "咲く",
+      "reading_hiragana": "さく",
+      "context_meaning_zh": "开花",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "开花",
+          "meaning_ja": "植物の花が開く。",
+          "example_ja": "庭の梅は二月ごろに咲きます。",
+          "example_zh": "院子里的梅花大约二月开放。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "花が咲く",
+          "zh": "花开"
+        }
+      ],
+      "usage_note_zh": "开花的主体用「が」标记，如「花が咲く」（花开了）。表示让花开放或使花开时用使役形式「咲かせる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "花朵自行开放，花が标示开花主体；咲く是五段不及物动词，非使花开放的他动词。",
+        "dictionary_sequences": [
+          1297210
+        ],
+        "identity": {
+          "word": "咲く",
+          "reading_hiragana": "さく",
+          "meaning": "开花"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b019407440829336",
+      "index": 5724,
+      "word": "快刀乱麻",
+      "reading_hiragana": "かいとうらんま",
+      "context_meaning_zh": "快刀斩乱麻般迅速解决复杂问题",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "快刀斩乱麻般迅速解决复杂问题",
+          "meaning_ja": "もつれた難しい問題を、思い切って手早く解決すること。",
+          "example_ja": "彼は快刀乱麻を断つように、長く続いた議論を一気に整理した。",
+          "example_zh": "他快刀斩乱麻般地迅速理清了长期持续的讨论。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "快刀乱麻を断つ",
+          "zh": "快刀斩乱麻"
+        }
+      ],
+      "usage_note_zh": "惯用表达「快刀乱麻を断つ」指果断而迅速地解决纠缠复杂的问题。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "该成语喻指利落处理复杂问题，例句以其修饰解决方式；作为固定表达使用，但不专属于文学体裁。",
+        "dictionary_sequences": [
+          1200150
+        ],
+        "identity": {
+          "word": "快刀乱麻",
+          "reading_hiragana": "かいとうらんま",
+          "meaning": "快刀斩乱麻般迅速解决复杂问题"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-45e24b4d09dbd91d",
+      "index": 5725,
+      "word": "必然的",
+      "reading_hiragana": "ひつぜんてき",
+      "context_meaning_zh": "必然的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "必然的",
+          "meaning_ja": "そうなることが避けられず、当然だと考えられるさま。",
+          "example_ja": "準備をしなければ、失敗は必然的だ。",
+          "example_zh": "如果不做准备，失败是必然的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "必然的な変化",
+          "zh": "必然的变化"
+        }
+      ],
+      "usage_note_zh": "可说「必然的な＋名词」或「必然的だ」。它表示结果难以避免、几乎必定发生；只表示可能性较高的「たぶん」语气更不确定。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "根据胡萝卜叶片大小推想根也大，必然的修饰推论结论，词典形容动词义吻合。",
+        "dictionary_sequences": [
+          1487590
+        ],
+        "identity": {
+          "word": "必然的",
+          "reading_hiragana": "ひつぜんてき",
+          "meaning": "必然的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f117d564d329f325",
+      "index": 5726,
+      "word": "引き起こす",
+      "reading_hiragana": "ひきおこす",
+      "context_meaning_zh": "引起",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "引起",
+          "meaning_ja": "ある出来事や状態を起こす。",
+          "example_ja": "強い雨が川の増水を引き起こした。",
+          "example_zh": "大雨导致河水上涨。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "問題を引き起こす",
+          "zh": "引发问题"
+        }
+      ],
+      "usage_note_zh": "引发事情的原因常作主语，所引发的结果用「を」标出，如「大雨が洪水を引き起こす」。本词强调某因素造成事件；「起こる」则从事件发生的一侧叙述。这里的首义与第二义都表示造成事件，负面结果只是常见语境，建议复核两义是否需要合并。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "五段す动词他动用法，缺水是引发争执的原因，争执作直接宾语。",
+        "dictionary_sequences": [
+          1168880
+        ],
+        "identity": {
+          "word": "引き起こす",
+          "reading_hiragana": "ひきおこす",
+          "meaning": "引起"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b6578b5f3558ae6f",
+      "index": 5727,
+      "word": "密林",
+      "reading_hiragana": "みつりん",
+      "context_meaning_zh": "密林",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "密林",
+          "meaning_ja": "木が密集して生えている深い森。",
+          "example_ja": "調査隊は密林の中を進んだ。",
+          "example_zh": "调查队在密林中前进。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "密林を抜ける",
+          "zh": "穿过密林"
+        }
+      ],
+      "usage_note_zh": "指树木密集的森林，区别于树木稀疏的林地；常见于地理或探险类文章。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "像密林一样的地方靠近后发现树间有路，指树木密集的森林，不取网络零售商同形词义。",
+        "dictionary_sequences": [
+          1641750
+        ],
+        "identity": {
+          "word": "密林",
+          "reading_hiragana": "みつりん",
+          "meaning": "密林"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1f28104925bf2bc8",
+      "index": 5728,
+      "word": "大自然",
+      "reading_hiragana": "だいしぜん",
+      "context_meaning_zh": "大自然",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大自然",
+          "meaning_ja": "人の手があまり加わっていない、広く豊かな自然。",
+          "example_ja": "大自然の中で鳥の声を聞いた。",
+          "example_zh": "我在大自然中听到了鸟鸣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大自然に触れる",
+          "zh": "亲近大自然"
+        }
+      ],
+      "usage_note_zh": "泛指广阔的自然环境；相比「自然」，有时更带有壮阔的语感，但不一定表示完全未经人类改造。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "仅说“大自然”不足以说明变化，记录观察日期；词典支持自然界整体这一名词义。",
+        "dictionary_sequences": [
+          1785710
+        ],
+        "identity": {
+          "word": "大自然",
+          "reading_hiragana": "だいしぜん",
+          "meaning": "大自然"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a1d1a886272750cc",
+      "index": 5729,
+      "word": "疑問",
+      "reading_hiragana": "ぎもん",
+      "context_meaning_zh": "疑问",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "疑问",
+          "meaning_ja": "はっきり分からず、答えを知りたいと思う点。",
+          "example_ja": "その説明には、まだ一つ疑問が残っている。",
+          "example_zh": "那个说明还有一个疑问没有解开。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "疑問を持つ",
+          "zh": "抱有疑问"
+        }
+      ],
+      "usage_note_zh": "常说「疑問がある／残る」「疑問を持つ」。把问题作为提问向对方询问的行为称为「質問」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1225630列名词及ナ形容词；本例指保留同一疑问后再试，未把疑问词和提问行为混为一谈。",
+        "dictionary_sequences": [
+          1225630
+        ],
+        "identity": {
+          "word": "疑問",
+          "reading_hiragana": "ぎもん",
+          "meaning": "疑问"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2ef496f50a410ac0",
+      "index": 5730,
+      "word": "生む",
+      "reading_hiragana": "うむ",
+      "context_meaning_zh": "生、产生",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "生、产生",
+          "meaning_ja": "子どもや動物をこの世に誕生させる。また、新しいものを作り出す。",
+          "example_ja": "この研究は新しい考え方を生んだ。",
+          "example_zh": "这项研究产生了新的思路。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "子どもを生む",
+          "zh": "生育孩子"
+        }
+      ],
+      "usage_note_zh": "「生む」是他动词，可表示生育，也可表示创造新的想法或结果；「うまれる」表示某物诞生的一侧。当前首义例句「考え方が生まれた」使用的是「生まれる」，与词头「生む」不一致，建议将例句改为「この研究は新しい考え方を生んだ」一类的他动句。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "量增加产生好结果，鸡产卵；被生出的结果或物体作「生む」直接宾语。",
+        "dictionary_sequences": [
+          1588410
+        ],
+        "identity": {
+          "word": "生む",
+          "reading_hiragana": "うむ",
+          "meaning": "生、产生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-941f982a5fa20b9d",
+      "index": 5731,
+      "word": "薇",
+      "reading_hiragana": "ぜんまい",
+      "context_meaning_zh": "(植物)紫萁",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(植物)紫萁",
+          "meaning_ja": "山野に生えるシダ植物の一種で、若い芽を食用にすることがある。",
+          "example_ja": "春に採った薇をゆでて食べた。",
+          "example_zh": "我把春天采来的紫萁煮来吃了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "薇を採る",
+          "zh": "采紫萁"
+        }
+      ],
+      "usage_note_zh": "作为植物名，「薇」读作「ぜんまい」，指可食用嫩芽的紫萁类植物；日文资料中也常见片假名写法「ゼンマイ」。注意不要与其他植物名称混淆。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "薇是日本紫萁，植物名词与词典条目一致；例句只提醒核实是否可食，不代表该词本身有敏感语用倾向。",
+        "dictionary_sequences": [
+          1571790
+        ],
+        "identity": {
+          "word": "薇",
+          "reading_hiragana": "ぜんまい",
+          "meaning": "(植物)紫萁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-32bf36b1af394118",
+      "index": 5732,
+      "word": "パパイヤ",
+      "reading_hiragana": "パパイヤ",
+      "context_meaning_zh": "番木瓜",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "番木瓜",
+          "meaning_ja": "熱帯で育つ果物で、熟すと黄色く柔らかい果肉を食べる。",
+          "example_ja": "朝食にパパイヤを切りました。",
+          "example_zh": "我把木瓜切来当早餐。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "パパイヤを切る",
+          "zh": "切木瓜"
+        }
+      ],
+      "usage_note_zh": "指一种水果，日语中通常用片假名书写。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "序号1102150为番木瓜果实，与课内购买食材的语境吻合；普通食物名词。",
+        "dictionary_sequences": [
+          1102150
+        ],
+        "identity": {
+          "word": "パパイヤ",
+          "reading_hiragana": "パパイヤ",
+          "meaning": "番木瓜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f12296da192559c3",
+      "index": 5733,
+      "word": "強める",
+      "reading_hiragana": "つよめる",
+      "context_meaning_zh": "加强、增强",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "加强、增强",
+          "meaning_ja": "強さや程度を、前より大きくする。",
+          "example_ja": "相手に聞こえるよう、声を少し強めた。",
+          "example_zh": "为了让对方听见，我稍微提高了声音。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "警戒を強める",
+          "zh": "加强警戒"
+        }
+      ],
+      "usage_note_zh": "表示主动增强某种力量或程度时，增强的对象用「を」标记。「強まる」是自动词，表示力量或程度自行变强。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "一段他动词，以「確信を」为增强对象；省略核查的因果语境不改变词义和自他属性。",
+        "dictionary_sequences": [
+          1236150
+        ],
+        "identity": {
+          "word": "強める",
+          "reading_hiragana": "つよめる",
+          "meaning": "加强、增强"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-885dc924ff585635",
+      "index": 5734,
+      "word": "稲",
+      "reading_hiragana": "いね",
+      "context_meaning_zh": "稻",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "稻",
+          "meaning_ja": "田で育て、米を実らせる植物。",
+          "example_ja": "秋になると、稲の穂が重くなる。",
+          "example_zh": "到了秋天，稻穗变得沉甸甸的。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "稲を育てる",
+          "zh": "种植水稻"
+        }
+      ],
+      "usage_note_zh": "指植物时称「稲」（稻）；收割后食用的谷粒称「米」（米）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "把稻与蔬菜田并列，语境指田里种植的水稻作物；匹配词典名词。",
+        "dictionary_sequences": [
+          1167820
+        ],
+        "identity": {
+          "word": "稲",
+          "reading_hiragana": "いね",
+          "meaning": "稻"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cf0c7b7118a11e07",
+      "index": 5735,
+      "word": "桐",
+      "reading_hiragana": "きり",
+      "context_meaning_zh": "泡桐、日本桐树",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "泡桐、日本桐树",
+          "meaning_ja": "大きな葉がつき、材木や家具にも使われる落葉樹。",
+          "example_ja": "公園の桐に紫色の花が咲いていた。",
+          "example_zh": "公园里的桐树开着紫色的花。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "桐のたんす",
+          "zh": "桐木衣柜"
+        }
+      ],
+      "usage_note_zh": "指一种落叶乔木，日语写作「桐」、读作「キリ」，常用于木材和家具。中日植物名称不一定一一对应，理解时以日语词头所指为准。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号1240710对应泡桐树；例句明确描述桐树的大叶遮住道路。",
+        "dictionary_sequences": [
+          1240710
+        ],
+        "identity": {
+          "word": "桐",
+          "reading_hiragana": "きり",
+          "meaning": "泡桐、日本桐树"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ae3128e9823f55ee",
+      "index": 5736,
+      "word": "苔",
+      "reading_hiragana": "こけ",
+      "context_meaning_zh": "苔藓",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "苔藓",
+          "meaning_ja": "湿った場所に生える、小さくて低い植物の仲間。",
+          "example_ja": "石の表面が苔で緑色になっていた。",
+          "example_zh": "石头表面长满苔藓，变成了绿色。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "苔が生える",
+          "zh": "长苔藓"
+        }
+      ],
+      "usage_note_zh": "「苔むす」是书面表达，表示长出苔藓。苔藓会在地面、石头等处生长扩展。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "松针下潮湿岩石上长出的苔藓，指植物类地衣/苔藓覆盖物的名词。",
+        "dictionary_sequences": [
+          1411030
+        ],
+        "identity": {
+          "word": "苔",
+          "reading_hiragana": "こけ",
+          "meaning": "苔藓"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-47362e4c62714ced",
+      "index": 5737,
+      "word": "小石",
+      "reading_hiragana": "こいし",
+      "context_meaning_zh": "小石头、碎石",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "小石头、碎石",
+          "meaning_ja": "小さく丸みのある石。",
+          "example_ja": "道に落ちた小石を拾った。",
+          "example_zh": "我捡起了掉在路上的小石子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "小石を拾う",
+          "zh": "捡小石子"
+        }
+      ],
+      "usage_note_zh": "指较小的石子；“小”没有严格的尺寸界限，需结合语境理解。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "岩石之外需要清除的小石块，作为作业对象出现，普通名词。",
+        "dictionary_sequences": [
+          1348400
+        ],
+        "identity": {
+          "word": "小石",
+          "reading_hiragana": "こいし",
+          "meaning": "小石头、碎石"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cd47e6c7ea63d283",
+      "index": 5738,
+      "word": "岩",
+      "reading_hiragana": "いわ",
+      "context_meaning_zh": "岩石",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "岩石",
+          "meaning_ja": "地面に大きく露出した硬い石。",
+          "example_ja": "山道の脇に大きな岩があった。",
+          "example_zh": "山路旁有一块大岩石。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "岩に登る",
+          "zh": "爬上岩石"
+        }
+      ],
+      "usage_note_zh": "通常指较大的岩石或露出地表的岩块，和「小石」相比体积更大；大小界限取决于语境，不一定固定在地面上。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "岩为坚硬的大块岩石，例句岩を避ける是路径上避开障碍物，不代表该名词具有他动性。",
+        "dictionary_sequences": [
+          1217270
+        ],
+        "identity": {
+          "word": "岩",
+          "reading_hiragana": "いわ",
+          "meaning": "岩石"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b0a7e7ffd17a2a5d",
+      "index": 5739,
+      "word": "農民",
+      "reading_hiragana": "のうみん",
+      "context_meaning_zh": "农民",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "农民",
+          "meaning_ja": "農業を仕事として、田畑を耕す人。",
+          "example_ja": "農民たちは協力して水路を直した。",
+          "example_zh": "农民们一起修好了水渠。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "農民の暮らし",
+          "zh": "农民的生活"
+        }
+      ],
+      "usage_note_zh": "指从事农业的人。该词可中性地说明职业；现代日语中也常说「農家の人」（农家从业者／农民）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处农民山田先生耕田并提供农耕知识，指从事农业的人；词典farmer义对应。",
+        "dictionary_sequences": [
+          1470770
+        ],
+        "identity": {
+          "word": "農民",
+          "reading_hiragana": "のうみん",
+          "meaning": "农民"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ce341f6588585da0",
+      "index": 5740,
+      "word": "松の木",
+      "reading_hiragana": "まつのき",
+      "context_meaning_zh": "松树",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "松树",
+          "meaning_ja": "松という種類の木。",
+          "example_ja": "海辺に松の木が並んでいる。",
+          "example_zh": "海边排列着松树。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "松の木を植える",
+          "zh": "种松树"
+        }
+      ],
+      "usage_note_zh": "单说「松」也可指松树；说「松の木」则明确指出是树木。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "松树下有松针和苔藓，松の木指实际松树，普通名词。",
+        "dictionary_sequences": [
+          1349870
+        ],
+        "identity": {
+          "word": "松の木",
+          "reading_hiragana": "まつのき",
+          "meaning": "松树"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-24ef32ce9eaac985",
+      "index": 5741,
+      "word": "結末が付く",
+      "reading_hiragana": "けつまつがつく",
+      "context_meaning_zh": "有结果、成定局",
+      "pos_ja": "表現・定型表現",
+      "pos_zh": "表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "有结果、成定局",
+          "meaning_ja": "物語や出来事が最後にどのような終わり方になるか。",
+          "example_ja": "長く続いた論争にも、ようやく結末がついた。",
+          "example_zh": "长期持续的争论终于有了结果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "物語の結末",
+          "zh": "故事的结局"
+        }
+      ],
+      "usage_note_zh": "「結末」指故事或事件最后的发展；「結末がつく」表示事情形成最终结果。「決着がつく」更强调争论或纠纷有了定论。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「争いには結末が付いていない」是固定搭配，表示事情尚未有结果；按整句表达而非裸动词判定。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "結末が付く",
+          "reading_hiragana": "けつまつがつく",
+          "meaning": "有结果、成定局"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a88dac7d87b0eaec",
+      "index": 5742,
+      "word": "蛇",
+      "reading_hiragana": "へび",
+      "context_meaning_zh": "蛇",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蛇",
+          "meaning_ja": "細長い体を持ち、足がなく、地面をはって進む爬虫類。",
+          "example_ja": "草むらから蛇が出てきた。",
+          "example_zh": "蛇从草丛里爬了出来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "蛇が出る",
+          "zh": "蛇出现"
+        }
+      ],
+      "usage_note_zh": "作为动物名，「蛇」读作「へび」。其他读法或比喻用法属于不同语境，不与本条动物义混在一起。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "小屋附近有人目击蛇，符合词典普通snake义；无特殊体裁或语用标记。",
+        "dictionary_sequences": [
+          1323350
+        ],
+        "identity": {
+          "word": "蛇",
+          "reading_hiragana": "へび",
+          "meaning": "蛇"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b9630dedec97052e",
+      "index": 5743,
+      "word": "蛙",
+      "reading_hiragana": "かえる",
+      "context_meaning_zh": "青蛙",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "青蛙",
+          "meaning_ja": "水辺にすみ、長い後ろ足で跳ぶ小さな両生類。",
+          "example_ja": "池の近くで蛙の声が聞こえた。",
+          "example_zh": "在池塘附近听到了青蛙的叫声。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "蛙が鳴く",
+          "zh": "青蛙鸣叫"
+        }
+      ],
+      "usage_note_zh": "动物名「蛙」读作「かえる」。它与动词「帰る」（回去）同音，需通过汉字和语境区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "与蚂蚁并列讨论动物数量，明确是蛙；采用词典青蛙名词义。",
+        "dictionary_sequences": [
+          1577460
+        ],
+        "identity": {
+          "word": "蛙",
+          "reading_hiragana": "かえる",
+          "meaning": "青蛙"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-be3d88d7bdc013fd",
+      "index": 5744,
+      "word": "蟻",
+      "reading_hiragana": "あり",
+      "context_meaning_zh": "蚂蚁",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蚂蚁",
+          "meaning_ja": "小さな体で、集団で暮らす昆虫。",
+          "example_ja": "蟻が砂糖の近くに集まっている。",
+          "example_zh": "蚂蚁聚集在糖附近。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "蟻の行列",
+          "zh": "蚂蚁队伍"
+        }
+      ],
+      "usage_note_zh": "「蟻」读作「あり」。蚂蚁成群移动时，可说「蟻の行列」（蚂蚁队伍）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指蚂蚁，例中与青蛙并列讨论数量；词典唯一匹配义为 ant。",
+        "dictionary_sequences": [
+          1225940
+        ],
+        "identity": {
+          "word": "蟻",
+          "reading_hiragana": "あり",
+          "meaning": "蚂蚁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b81a0b29391ec0fd",
+      "index": 5745,
+      "word": "菊菜",
+      "reading_hiragana": "きくな",
+      "context_meaning_zh": "茼蒿、春菊(植物名)",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・方言",
+      "senses": [
+        {
+          "meaning_zh": "茼蒿、春菊(植物名)",
+          "meaning_ja": "春菊の別名で、葉を食べるキク科の野菜。",
+          "example_ja": "鍋に菊菜を入れると、香りが広がる。",
+          "example_zh": "把茼蒿放进火锅后，香气散开了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "菊菜をゆでる",
+          "zh": "焯茼蒿"
+        }
+      ],
+      "usage_note_zh": "「菊菜」是春菊的别称，在关西地区较常用；不同地区的食材名称可能不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "dialect"
+        ]
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "菊菜是可食用春菊；同批词条说明关西地区常这样称呼，故标地域用法，不从汤菜语境推断。",
+        "dictionary_sequences": [
+          2249870
+        ],
+        "identity": {
+          "word": "菊菜",
+          "reading_hiragana": "きくな",
+          "meaning": "茼蒿、春菊(植物名)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-14c225f70d9b966e",
+      "index": 5746,
+      "word": "芋",
+      "reading_hiragana": "いも",
+      "context_meaning_zh": "芋头、马铃薯、红薯、山药等的通称",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "芋头、马铃薯、红薯、山药等的通称",
+          "meaning_ja": "地下にできる、でんぷんを多く含む作物の総称。",
+          "example_ja": "畑で育てた芋を煮て食べた。",
+          "example_zh": "我把田里种的薯类煮来吃了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "芋を掘る",
+          "zh": "挖薯类"
+        }
+      ],
+      "usage_note_zh": "「芋」不只指芋头，也可泛指马铃薯、红薯等薯类。需要明确种类时，应补上具体名称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "芋在本课指薯芋类总称，山芋是其中一种；词典另列贬义人称和无价值物义，与此处无关。",
+        "dictionary_sequences": [
+          1167960
+        ],
+        "identity": {
+          "word": "芋",
+          "reading_hiragana": "いも",
+          "meaning": "芋头、马铃薯、红薯、山药等的通称"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2df45974a6d14e5c",
+      "index": 5747,
+      "word": "人参",
+      "reading_hiragana": "にんじん",
+      "context_meaning_zh": "胡萝卜",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "胡萝卜",
+          "meaning_ja": "赤や橙色の根を食べる野菜。",
+          "example_ja": "人参を細く切って、サラダに入れた。",
+          "example_zh": "我把胡萝卜切成细丝放进沙拉里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人参を刻む",
+          "zh": "切碎胡萝卜"
+        }
+      ],
+      "usage_note_zh": "指蔬菜胡萝卜，汉字写作「人参」；它与高丽参是不同植物。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "菜地与拔出后的根部语境证明此处人参指胡萝卜，不取亚洲人参义。",
+        "dictionary_sequences": [
+          1367800
+        ],
+        "identity": {
+          "word": "人参",
+          "reading_hiragana": "にんじん",
+          "meaning": "胡萝卜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1f74d6a271cc0ec8",
+      "index": 5748,
+      "word": "三つ葉",
+      "reading_hiragana": "みつば",
+      "context_meaning_zh": "三片叶子;鸭儿芹(植物名)",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "三片叶子;鸭儿芹(植物名)",
+          "meaning_ja": "香りのある葉を食べるセリ科の野菜。",
+          "example_ja": "三つ葉を最後にのせて、汁物を仕上げた。",
+          "example_zh": "最后放上鸭儿芹，为汤收尾。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "三つ葉を添える",
+          "zh": "配上鸭儿芹"
+        }
+      ],
+      "usage_note_zh": "作为蔬菜名时读作「みつば」，指鸭儿芹；不要按字面把它理解成数量短语「三つの葉」（三片叶子）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课把三つ葉用于食材鸭儿芹；另一例明确为三片叶子的三叶草，显示同词形兼有植物名与三叶形义。",
+        "dictionary_sequences": [
+          1814290
+        ],
+        "identity": {
+          "word": "三つ葉",
+          "reading_hiragana": "みつば",
+          "meaning": "三片叶子;鸭儿芹(植物名)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fc38edad35fa6b52",
+      "index": 5749,
+      "word": "柚子",
+      "reading_hiragana": "ユズ",
+      "context_meaning_zh": "香橙类的柚子、日式香柚",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "香橙类的柚子、日式香柚",
+          "meaning_ja": "香りの強い柑橘類の果実。",
+          "example_ja": "鍋に柚子の皮を少し入れた。",
+          "example_zh": "我在火锅里加了一点柚子皮。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "柚子の香り",
+          "zh": "柚子香气"
+        }
+      ],
+      "usage_note_zh": "日语「柚子」读作「ユズ」，指日本柚子；它与中文“柚子”（pomelo）不是同一种水果，注意区分植物名称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "柚子皮少量用于料理提香，语境明确为日本香橙类果实的皮，属普通名词。",
+        "dictionary_sequences": [
+          1605750
+        ],
+        "identity": {
+          "word": "柚子",
+          "reading_hiragana": "ユズ",
+          "meaning": "香橙类的柚子、日式香柚"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5fe5188b5e241aa9",
+      "index": 5750,
+      "word": "山芋",
+      "reading_hiragana": "やまいも",
+      "context_meaning_zh": "山药",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "山药",
+          "meaning_ja": "山に自生するヤマノイモ類の芋。",
+          "example_ja": "すりおろした山芋をご飯にかけた。",
+          "example_zh": "我把磨碎的山药浇在米饭上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "山芋をすりおろす",
+          "zh": "磨碎山药"
+        }
+      ],
+      "usage_note_zh": "「山芋」指日本的薯蓣类植物，野生种可生长于山野；它与中文对具体薯类的分类不一定完全对应。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "挖掘收获及薯芋类对比都指日本山药根茎，符合词典名词义。",
+        "dictionary_sequences": [
+          1302720
+        ],
+        "identity": {
+          "word": "山芋",
+          "reading_hiragana": "やまいも",
+          "meaning": "山药"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3b370f79e38d837f",
+      "index": 5751,
+      "word": "甲羅",
+      "reading_hiragana": "こうら",
+      "context_meaning_zh": "甲壳",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "甲壳",
+          "meaning_ja": "カメやカニなどの背中や体を守る硬い外側。",
+          "example_ja": "亀は甲羅の中に頭を引っ込めた。",
+          "example_zh": "乌龟把头缩进了甲壳里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "甲羅が硬い",
+          "zh": "甲壳坚硬"
+        }
+      ],
+      "usage_note_zh": "指覆盖在动物身体外侧的硬壳。螃蟹料理中的「甲羅焼き」是把蟹壳当作容器来烤制的菜。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此例为龟背上的硬壳，词典也列螃蟹壳义；不采用人的背或经验比喻义。",
+        "dictionary_sequences": [
+          1280310
+        ],
+        "identity": {
+          "word": "甲羅",
+          "reading_hiragana": "こうら",
+          "meaning": "甲壳"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cf0038fde3fbb9c7",
+      "index": 5752,
+      "word": "昆布",
+      "reading_hiragana": "こんぶ",
+      "context_meaning_zh": "海带",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "海带",
+          "meaning_ja": "海で育つ褐色の海藻で、だしや料理に使う。",
+          "example_ja": "昆布を水に入れて、だしを取った。",
+          "example_zh": "把海带放进水里提取高汤。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "昆布だし",
+          "zh": "海带高汤"
+        }
+      ],
+      "usage_note_zh": "「昆布」是一种海藻；用于烹饪时可说「昆布だし」（海带高汤）或「昆布を煮る」（煮海带）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句把昆布与香菇并列为购入食材，词典对应可食用海带名词义。",
+        "dictionary_sequences": [
+          1579150
+        ],
+        "identity": {
+          "word": "昆布",
+          "reading_hiragana": "こんぶ",
+          "meaning": "海带"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c8b66be6bd6097e9",
+      "index": 5753,
+      "word": "椎茸",
+      "reading_hiragana": "しいたけ",
+      "context_meaning_zh": "香菇",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "香菇",
+          "meaning_ja": "傘の形をした、食用にするきのこの一種。",
+          "example_ja": "椎茸を焼いて、しょうゆを少しかけた。",
+          "example_zh": "我烤了香菇，淋上少许酱油。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "椎茸を焼く",
+          "zh": "烤香菇"
+        }
+      ],
+      "usage_note_zh": "一种可食用的蘑菇，有鲜香菇和干香菇，烹调方法也有所不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指食用香菇，例句与昆布并列作为购买食材；词典 shiitake mushroom 义吻合。",
+        "dictionary_sequences": [
+          1432250
+        ],
+        "identity": {
+          "word": "椎茸",
+          "reading_hiragana": "しいたけ",
+          "meaning": "香菇"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-69e5c7332f9b7699",
+      "index": 5754,
+      "word": "松葉",
+      "reading_hiragana": "まつば",
+      "context_meaning_zh": "松叶、松针",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "松叶、松针",
+          "meaning_ja": "松の木につく、細長く硬い葉。",
+          "example_ja": "松葉が風に揺れている。",
+          "example_zh": "松针在风中摇曳。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "松葉を集める",
+          "zh": "收集松针"
+        }
+      ],
+      "usage_note_zh": "「松葉」指松树的针状叶，细长的外形与常见的宽叶不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "松葉指松树的针状叶，例句描写树下积叶；词典对应pine needle。",
+        "dictionary_sequences": [
+          1349950
+        ],
+        "identity": {
+          "word": "松葉",
+          "reading_hiragana": "まつば",
+          "meaning": "松叶、松针"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ff88e76304f333cf",
+      "index": 5755,
+      "word": "蕪",
+      "reading_hiragana": "かぶ",
+      "context_meaning_zh": "芜菁",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "芜菁",
+          "meaning_ja": "白く丸い根を食べるアブラナ科の野菜。",
+          "example_ja": "蕪を薄く切って、塩でもんだ。",
+          "example_zh": "我把芜菁切薄，用盐揉了揉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "蕪を煮る",
+          "zh": "炖芜菁"
+        }
+      ],
+      "usage_note_zh": "作为蔬菜名读作「かぶ」，叶子也可以食用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "因延迟收获而变硬的蕪是芜菁根菜，词典对应turnip义。",
+        "dictionary_sequences": [
+          1499280
+        ],
+        "identity": {
+          "word": "蕪",
+          "reading_hiragana": "かぶ",
+          "meaning": "芜菁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4afac49f463ff00e",
+      "index": 5756,
+      "word": "収穫物",
+      "reading_hiragana": "しゅうかくぶつ",
+      "context_meaning_zh": "收获物",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收获物",
+          "meaning_ja": "農地から収穫された作物や生産物。",
+          "example_ja": "今年の収穫物を倉庫に運んだ。",
+          "example_zh": "我把今年的收获物运进仓库。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "収穫物を分ける",
+          "zh": "分配收获物"
+        }
+      ],
+      "usage_note_zh": "「収穫物」指通过收获取得的东西。根据语境，既可指农作物，也可泛指采集所得的物品。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指收获的农作物或产出，例句把收获物作整体用掉的对象。",
+        "dictionary_sequences": [
+          1330560
+        ],
+        "identity": {
+          "word": "収穫物",
+          "reading_hiragana": "しゅうかくぶつ",
+          "meaning": "收获物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7192bb5bf0f572eb",
+      "index": 5757,
+      "word": "触手",
+      "reading_hiragana": "しょくしゅ",
+      "context_meaning_zh": "触手、触器",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "触手、触器",
+          "meaning_ja": "タコやイカなどが持つ、細長く伸びた腕のような器官。",
+          "example_ja": "タコは触手を使って餌をつかむ。",
+          "example_zh": "章鱼用触手抓住食物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "触手を伸ばす",
+          "zh": "伸出触手"
+        }
+      ],
+      "usage_note_zh": "生物学用语，指动物的触手等器官。比喻用法常见于「触手を伸ばす」（扩展势力、染指），日常初级会话中较少使用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "水族馆中鱿鱼伸出的触手属于动物身体突起；辞典zoology领域tentacle义相符。",
+        "dictionary_sequences": [
+          1358050
+        ],
+        "identity": {
+          "word": "触手",
+          "reading_hiragana": "しょくしゅ",
+          "meaning": "触手、触器"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f936f59adde792f1",
+      "index": 5758,
+      "word": "牧畜",
+      "reading_hiragana": "ぼくちく",
+      "context_meaning_zh": "畜牧",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "畜牧",
+          "meaning_ja": "牛や羊などを育て、肉や乳などを得る産業。",
+          "example_ja": "この地域では牧畜が盛んです。",
+          "example_zh": "这个地区畜牧业很发达。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "牧畜を営む",
+          "zh": "经营畜牧业"
+        }
+      ],
+      "usage_note_zh": "常说「牧畜をする／営む」（从事畜牧）。指饲养家畜的活动，也可指以畜牧为主的产业。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典只列牧畜名词，例句为忙于畜牧工作，没有「牧畜する」实例；兼する是否成立仍需补充语言证据。",
+        "dictionary_sequences": [
+          1521820
+        ],
+        "identity": {
+          "word": "牧畜",
+          "reading_hiragana": "ぼくちく",
+          "meaning": "畜牧"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1e0af94ee5d6271c",
+      "index": 5759,
+      "word": "悪循環",
+      "reading_hiragana": "あくじゅんかん",
+      "context_meaning_zh": "恶性循环",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "恶性循环",
+          "meaning_ja": "悪い状態が互いに影響し、ますます悪くなること。",
+          "example_ja": "睡眠不足と疲れが悪循環を生んでいる。",
+          "example_zh": "睡眠不足和疲劳形成了恶性循环。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "悪循環に陥る",
+          "zh": "陷入恶性循环"
+        }
+      ],
+      "usage_note_zh": "指一个问题引发另一个问题，而后者又反过来加重原问题的恶性关系；与「好循環」（良性循环）相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "恶性循环是描述不良因素彼此加剧的名词；例句中加水导致状态更坏并形成该循环，未见する动词用法证据。",
+        "dictionary_sequences": [
+          1151910
+        ],
+        "identity": {
+          "word": "悪循環",
+          "reading_hiragana": "あくじゅんかん",
+          "meaning": "恶性循环"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d5f74297efaf2102",
+      "index": 5760,
+      "word": "こぎつける",
+      "reading_hiragana": "こぎつける",
+      "context_meaning_zh": "划到;经过努力达到",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "划到;经过努力达到",
+          "meaning_ja": "努力や交渉を続けて、望んだ状態にやっと届く。",
+          "example_ja": "何度も交渉し、契約の成立にこぎつけた。",
+          "example_zh": "多次协商后，终于促成了合同成立。"
+        },
+        {
+          "meaning_zh": "把船划到岸边",
+          "meaning_ja": "船をこいで岸などに着ける。",
+          "example_ja": "小舟を岸までこぎつけた。",
+          "example_zh": "把小船划到了岸边。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "完成にこぎつける",
+          "zh": "努力做到完成"
+        }
+      ],
+      "usage_note_zh": "常用于「完成にこぎつける」「実現にこぎつける」等表达，表示终于完成或实现目标。表示划船到达某处时可写作「漕ぎ着ける」，需结合语境区分。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "こぎつける为一段动词，既可把船划到岸边，也可费力终于达到目标；本课达成试运行及船到岸两义均有例证。",
+        "dictionary_sequences": [
+          1400520
+        ],
+        "identity": {
+          "word": "こぎつける",
+          "reading_hiragana": "こぎつける",
+          "meaning": "划到;经过努力达到"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b79962fa0bcd869f",
+      "index": 5761,
+      "word": "減らす",
+      "reading_hiragana": "へらす",
+      "context_meaning_zh": "减少",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "减少",
+          "meaning_ja": "数や量を少なくする。",
+          "example_ja": "買い物の回数を減らして、出費を抑えた。",
+          "example_zh": "减少购物次数，控制了开支。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "量を減らす",
+          "zh": "减少数量"
+        }
+      ],
+      "usage_note_zh": "他动词，表示某人或某事物使数量减少，减少的对象用「を」表示。若只说数量本身变少，则用「減る」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "袋を減らす是人为减少袋子数量的他动用法；与自动词減る区分。",
+        "dictionary_sequences": [
+          1263110
+        ],
+        "identity": {
+          "word": "減らす",
+          "reading_hiragana": "へらす",
+          "meaning": "减少"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1bb9fc9377ef19e5",
+      "index": 5762,
+      "word": "砂",
+      "reading_hiragana": "すな",
+      "context_meaning_zh": "沙",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "沙",
+          "meaning_ja": "岩や土が細かく砕けてできた、小さな粒。",
+          "example_ja": "砂が靴に入ったので、外で払った。",
+          "example_zh": "沙子进了鞋里，所以我在外面抖掉了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "砂浜の砂",
+          "zh": "沙滩上的沙"
+        }
+      ],
+      "usage_note_zh": "指细小颗粒状的沙土。可说「砂をまく」（撒沙）、「砂が入る」（进了沙）；不要与「砂糖」（砂糖）混淆。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "河床内用于筑路工程的细砂对应词典sand／grit名词义。",
+        "dictionary_sequences": [
+          1291500
+        ],
+        "identity": {
+          "word": "砂",
+          "reading_hiragana": "すな",
+          "meaning": "沙"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-882bfa8f0b11dc35",
+      "index": 5763,
+      "word": "湖",
+      "reading_hiragana": "みずうみ",
+      "context_meaning_zh": "湖",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "湖",
+          "meaning_ja": "陸地に囲まれ、海とつながっていない大きな水域。",
+          "example_ja": "湖の向こうに山が見えた。",
+          "example_zh": "湖的对面能看见山。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "湖のほとり",
+          "zh": "湖畔"
+        }
+      ],
+      "usage_note_zh": "表示湖泊的「湖」读作「みずうみ」，指被陆地围绕的内陆水域；不宜简单按面积与海洋区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "农园靠近湖泊的地理名词，森林在其后方，词典lake义吻合。",
+        "dictionary_sequences": [
+          1267280
+        ],
+        "identity": {
+          "word": "湖",
+          "reading_hiragana": "みずうみ",
+          "meaning": "湖"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-79605e6dd4e29e8c",
+      "index": 5764,
+      "word": "農作物",
+      "reading_hiragana": "のうさくぶつ",
+      "context_meaning_zh": "农作物",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "农作物",
+          "meaning_ja": "田畑で育てて収穫する植物。",
+          "example_ja": "この地方では米以外の農作物も作っている。",
+          "example_zh": "这个地区也种植水稻以外的农作物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "農作物を育てる",
+          "zh": "种植农作物"
+        }
+      ],
+      "usage_note_zh": "指由人栽培并收获的农作物，不泛指自然生长的所有植物。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "農作物是栽培并收获的农产品，与家畜并列于种植和畜牧语境；不泛指野生植物。",
+        "dictionary_sequences": [
+          1827050
+        ],
+        "identity": {
+          "word": "農作物",
+          "reading_hiragana": "のうさくぶつ",
+          "meaning": "农作物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c15d4275d424e00",
+      "index": 5765,
+      "word": "家畜",
+      "reading_hiragana": "かちく",
+      "context_meaning_zh": "家畜",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "家畜",
+          "meaning_ja": "人が飼育し、食料や労働などに役立てる動物。",
+          "example_ja": "牧場では家畜を大切に育てている。",
+          "example_zh": "牧场里悉心饲养着家畜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "家畜を飼う",
+          "zh": "饲养家畜"
+        }
+      ],
+      "usage_note_zh": "指人饲养的牛、马、猪、羊等动物，通常用于生产食物、原料或劳动；与以陪伴为目的饲养的宠物有所区别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "家畜与农作物并列为饲养对象，所指为役用或生产用途的家养动物；词典义一致。",
+        "dictionary_sequences": [
+          1192240
+        ],
+        "identity": {
+          "word": "家畜",
+          "reading_hiragana": "かちく",
+          "meaning": "家畜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e878f181d4fbfc0a",
+      "index": 5766,
+      "word": "草木",
+      "reading_hiragana": "くさき",
+      "context_meaning_zh": "(也读「そうもく」)草木",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(也读「そうもく」)草木",
+          "meaning_ja": "草と木をまとめて指す言い方。",
+          "example_ja": "雨のあと、草木の緑が濃くなった。",
+          "example_zh": "雨后，草木的绿色变浓了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "草木が茂る",
+          "zh": "草木繁茂"
+        }
+      ],
+      "usage_note_zh": "通常读作「くさき」，也有音读「そうもく」；本词条采用的读音是「くさき」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "草木指草与树的总称，句中作を格对象；本词条指定读くさき，另有音读但不改变词类。",
+        "dictionary_sequences": [
+          1581300
+        ],
+        "identity": {
+          "word": "草木",
+          "reading_hiragana": "くさき",
+          "meaning": "(也读「そうもく」)草木"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3a8e0de66db5bc77",
+      "index": 5767,
+      "word": "森林",
+      "reading_hiragana": "しんりん",
+      "context_meaning_zh": "森林",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "森林",
+          "meaning_ja": "木が集まって生えている広い場所。",
+          "example_ja": "森林には鳥や動物がいます。",
+          "example_zh": "森林里有鸟类和动物。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "森林を守る",
+          "zh": "保护森林"
+        }
+      ],
+      "usage_note_zh": "指树木成片生长的广阔区域，着眼于整片林地，而不是单棵树。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "湖边农园后方成片树木形成森林，指广阔林地整体而非单棵树。",
+        "dictionary_sequences": [
+          1362530
+        ],
+        "identity": {
+          "word": "森林",
+          "reading_hiragana": "しんりん",
+          "meaning": "森林"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ca6500b5d660d5f7",
+      "index": 5768,
+      "word": "川底",
+      "reading_hiragana": "かわぞこ",
+      "context_meaning_zh": "川底",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "川底",
+          "meaning_ja": "川の流れの下にある地面。",
+          "example_ja": "雨のあと、川底の石が見えなくなった。",
+          "example_zh": "下雨之后，看不见河底的石头了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "川底を調べる",
+          "zh": "调查河床"
+        }
+      ],
+      "usage_note_zh": "指河水下面的河床，不是水面。可说「川底に沈む」（沉到河底）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指河流底部的砂土，河床名词义和词典相符。",
+        "dictionary_sequences": [
+          1636710
+        ],
+        "identity": {
+          "word": "川底",
+          "reading_hiragana": "かわぞこ",
+          "meaning": "川底"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e4e33d10e022d44a",
+      "index": 5769,
+      "word": "生み出す",
+      "reading_hiragana": "うみだす",
+      "context_meaning_zh": "产生",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "产生",
+          "meaning_ja": "新しいものや考えを作り出す。また、ある結果を生じさせる。",
+          "example_ja": "仲間との対話が、新しい案を生み出した。",
+          "example_zh": "与伙伴的对话产生了新方案。"
+        },
+        {
+          "meaning_zh": "创造；开创",
+          "meaning_ja": "これまでになかった物や考えを新しく作る。",
+          "example_ja": "若い研究者が新しい治療法を生み出した。",
+          "example_zh": "年轻的研究者创造了新的治疗方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "価値を生み出す",
+          "zh": "创造价值"
+        }
+      ],
+      "usage_note_zh": "「生む」也可表示产生；「生み出す」更突出创造出某种成果的过程或结果。表示生孩子时通常写作「産む」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "不当解释造成不信任、使合作困难，抽象结果是产生动作的对象；五段す他动词。",
+        "dictionary_sequences": [
+          1378720
+        ],
+        "identity": {
+          "word": "生み出す",
+          "reading_hiragana": "うみだす",
+          "meaning": "产生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bcb42cb500738208",
+      "index": 5770,
+      "word": "木々",
+      "reading_hiragana": "きぎ",
+      "context_meaning_zh": "许多树木",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "许多树木",
+          "meaning_ja": "何本もの木をまとめて指す言い方。",
+          "example_ja": "朝日が木々の間から差し込んだ。",
+          "example_zh": "朝阳从树木之间照射进来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "木々が揺れる",
+          "zh": "树木摇曳"
+        }
+      ],
+      "usage_note_zh": "「木々」表示多棵树，常见于「木々の間」（树木之间）、「木々の緑」（树木的绿色）等表达。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "木々是树木的复数集合表达，例句描写密林中树木之间的道路。",
+        "dictionary_sequences": [
+          1591090
+        ],
+        "identity": {
+          "word": "木々",
+          "reading_hiragana": "きぎ",
+          "meaning": "许多树木"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-946f1e054446ba7d",
+      "index": 5771,
+      "word": "薪",
+      "reading_hiragana": "たきぎ",
+      "context_meaning_zh": "柴、柴火",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "柴、柴火",
+          "meaning_ja": "燃やして火を起こすために集めた木の枝や木片。",
+          "example_ja": "寒くなる前に、暖炉用の薪を用意した。",
+          "example_zh": "天冷之前，我准备好了壁炉用的柴火。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "薪を割る",
+          "zh": "劈柴"
+        }
+      ],
+      "usage_note_zh": "指用作燃料的木柴。「薪をくべる」是往燃烧的火里添柴。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "落下的树枝可作薪柴燃料，符合词典木柴和引火枝义；名词用法。",
+        "dictionary_sequences": [
+          1365010
+        ],
+        "identity": {
+          "word": "薪",
+          "reading_hiragana": "たきぎ",
+          "meaning": "柴、柴火"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-67cab29bb32585c1",
+      "index": 5772,
+      "word": "農夫",
+      "reading_hiragana": "のうふ",
+      "context_meaning_zh": "农夫",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "农夫",
+          "meaning_ja": "農業をする男性。",
+          "example_ja": "農夫は朝早く畑へ出かけた。",
+          "example_zh": "农夫一大早就去了田里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "農夫が畑を耕す",
+          "zh": "农夫耕田"
+        }
+      ],
+      "usage_note_zh": "指从事农业的人。「農夫」带有男性意味，且略显旧式；不强调性别时可说「農家の人」或「農業従事者」（农家的人、农业从业者）。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "旧照片说明写着耕地的农夫，农夫指男性耕作者；取字面职业义。",
+        "dictionary_sequences": [
+          1470760
+        ],
+        "identity": {
+          "word": "農夫",
+          "reading_hiragana": "のうふ",
+          "meaning": "农夫"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9c278572bf0fa141",
+      "index": 5773,
+      "word": "小屋",
+      "reading_hiragana": "こや",
+      "context_meaning_zh": "小屋",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "小屋",
+          "meaning_ja": "人が住んだり、道具を置いたりする小さな建物。",
+          "example_ja": "山道の近くに古い小屋が建っている。",
+          "example_zh": "山路附近有一间旧小屋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "小屋を建てる",
+          "zh": "建小屋"
+        }
+      ],
+      "usage_note_zh": "指小型建筑，具体用途要看语境，可以是储物间、工作间或简易住所等。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指小型建筑，例句中的小屋靠近蛇出没处，具体用途不由词条限定。",
+        "dictionary_sequences": [
+          1347830
+        ],
+        "identity": {
+          "word": "小屋",
+          "reading_hiragana": "こや",
+          "meaning": "小屋"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f728f525047ee5ec",
+      "index": 5774,
+      "word": "柿",
+      "reading_hiragana": "かき",
+      "context_meaning_zh": "柿子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "柿子",
+          "meaning_ja": "秋に実る、橙色で甘い果物。",
+          "example_ja": "熟した柿を朝食に食べた。",
+          "example_zh": "我早餐吃了成熟的柿子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "柿が熟す",
+          "zh": "柿子成熟"
+        }
+      ],
+      "usage_note_zh": "表示水果“柿子”的「柿」读作「かき」。涩柿也可以制成柿饼食用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "秋天变红的“柿”是果实名词，JMdict条目明确对应日本柿，不涉同音义。",
+        "dictionary_sequences": [
+          1204810
+        ],
+        "identity": {
+          "word": "柿",
+          "reading_hiragana": "かき",
+          "meaning": "柿子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4a1decc2ae604ac7",
+      "index": 5775,
+      "word": "案ずるより産むが易し",
+      "reading_hiragana": "あんずるよりうむがやすし",
+      "context_meaning_zh": "百思不如一试;恐想难上难,做做却简单",
+      "pos_ja": "表現・ことわざ",
+      "pos_zh": "表达・谚语",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "百思不如一试;恐想难上难,做做却简单",
+          "meaning_ja": "始める前は難しく思えても、実際にやってみると案外簡単だということ。",
+          "example_ja": "まず一度やってみよう。案ずるより産むが易しと言うからね。",
+          "example_zh": "先试一次吧。俗话说百思不如一试。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "案ずるより産むが易し",
+          "zh": "百思不如一试"
+        }
+      ],
+      "usage_note_zh": "意思是与其一直担心，不如先行动；事情做起来往往没有想象中困难。「案ずる」是担心，「産む」是生孩子。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "proverb"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "谚语意为实际着手往往比事前担忧容易；例句明确把它用作格言判断，词典亦标proverb。",
+        "dictionary_sequences": [
+          2237250
+        ],
+        "identity": {
+          "word": "案ずるより産むが易し",
+          "reading_hiragana": "あんずるよりうむがやすし",
+          "meaning": "百思不如一试;恐想难上难,做做却简单"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4c83c22b829c99cc",
+      "index": 5776,
+      "word": "喉元過ぎれば熱さを忘れる",
+      "reading_hiragana": "のどもとすぎればあつさをわすれる",
+      "context_meaning_zh": "好了伤疤忘了疼",
+      "pos_ja": "表現・ことわざ・定型表現",
+      "pos_zh": "表达・谚语・固定表达",
+      "register_zh": "中性・文学",
+      "senses": [
+        {
+          "meaning_zh": "好了伤疤忘了疼",
+          "meaning_ja": "苦しい状況を抜けると、その苦しさを忘れ、同じ失敗を繰り返しやすいということ。",
+          "example_ja": "困った経験を忘れないようにしよう。喉元過ぎれば熱さを忘れるから。",
+          "example_zh": "要记住这次困境的经验，毕竟好了伤疤容易忘了疼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "喉元過ぎれば熱さを忘れる",
+          "zh": "好了伤疤忘了疼"
+        }
+      ],
+      "usage_note_zh": "比喻艰难痛苦的时期一过去，人就忘了当时的苦；常用来提醒人不要好了伤疤忘了疼。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "proverb",
+          "fixed_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "literary"
+        ]
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "这是固定谚语，借吞咽后忘记烫比喻危险过去便忘记教训；可在日常谈话或文字中引用，非文学作品专用。",
+        "dictionary_sequences": [
+          2417360
+        ],
+        "identity": {
+          "word": "喉元過ぎれば熱さを忘れる",
+          "reading_hiragana": "のどもとすぎればあつさをわすれる",
+          "meaning": "好了伤疤忘了疼"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b97e095d5be5e650",
+      "index": 5777,
+      "word": "どんぐり(団栗)",
+      "reading_hiragana": "どんぐり",
+      "context_meaning_zh": "橡实、橡子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "橡实、橡子",
+          "meaning_ja": "くぬぎなどの木にできる、丸い実。",
+          "example_ja": "子どもたちは公園でどんぐりを拾った。",
+          "example_zh": "孩子们在公园里捡橡子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どんぐりを拾う",
+          "zh": "捡橡子"
+        }
+      ],
+      "usage_note_zh": "指橡树等树木结的坚果，通常写作平假名「どんぐり」或汉字「団栗」；可泛指多种栎树的果实。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句中孩子把捡来的どんぐり画下来，结合学习释义是橡树类坚果；未提供词典编号，保留假名词形。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "どんぐり(団栗)",
+          "reading_hiragana": "どんぐり",
+          "meaning": "橡实、橡子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1e1a8f414544c85b",
+      "index": 5778,
+      "word": "種",
+      "reading_hiragana": "たね",
+      "context_meaning_zh": "种子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "种子",
+          "meaning_ja": "植物から芽が出るもとになるもの。また、物事を起こすきっかけや原因。",
+          "example_ja": "庭にまいた種から、小さな芽が出た。",
+          "example_zh": "院子里播下的种子发出了小芽。"
+        },
+        {
+          "meaning_zh": "原因；根源",
+          "meaning_ja": "物事を起こすもとになる事柄。",
+          "example_ja": "小さな誤解が大きな争いの種になった。",
+          "example_zh": "小小的误会成了大争端的根源。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "種をまく",
+          "zh": "播种"
+        }
+      ],
+      "usage_note_zh": "除了植物的种子，「悩みの種」指烦恼的根源，「手品の種」则指戏法的机关或秘密。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例種をまく明确取植物种子义；词典列多义，但当前不扩展到成因或手法义。",
+        "dictionary_sequences": [
+          1328820
+        ],
+        "identity": {
+          "word": "種",
+          "reading_hiragana": "たね",
+          "meaning": "种子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-909a7aba048b65cb",
+      "index": 5779,
+      "word": "畑",
+      "reading_hiragana": "はたけ",
+      "context_meaning_zh": "旱田",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "旱田",
+          "meaning_ja": "水を張らず、野菜などを育てるために使う土地。",
+          "example_ja": "畑で採れた豆を近所の人に分けた。",
+          "example_zh": "我把田里收获的豆子分给了邻居。"
+        },
+        {
+          "meaning_zh": "专业领域",
+          "meaning_ja": "人が特に経験や知識を持っている専門分野。",
+          "example_ja": "彼女は医療の畑で長く働いてきた。",
+          "example_zh": "她长期在医疗领域工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "畑を耕す",
+          "zh": "耕旱田"
+        }
+      ],
+      "usage_note_zh": "指种植蔬菜等作物的耕地（旱田）。「田」一般指灌水种稻的水田。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "在开花田地拔草以增加收成，明确指种植作物的耕地；课程指出与种稻水田田区分。",
+        "dictionary_sequences": [
+          1476520
+        ],
+        "identity": {
+          "word": "畑",
+          "reading_hiragana": "はたけ",
+          "meaning": "旱田"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d867eecebc6eeeca",
+      "index": 5780,
+      "word": "耕す",
+      "reading_hiragana": "たがやす",
+      "context_meaning_zh": "耕、耕作",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "耕、耕作",
+          "meaning_ja": "田畑の土を掘り返し、作物を育てやすくする。",
+          "example_ja": "農家の人が畑を耕している。",
+          "example_zh": "农户正在耕地。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "土を耕す",
+          "zh": "翻耕土壤"
+        }
+      ],
+      "usage_note_zh": "「耕す」通常以田地或土壤为对象，表示翻土、整地。也可比喻培养心智或能力，但基本义是整理土壤。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段他动词表示耕作土地，句中畑作直接对象；对山田农民请教是情境而非词义。",
+        "dictionary_sequences": [
+          1280950
+        ],
+        "identity": {
+          "word": "耕す",
+          "reading_hiragana": "たがやす",
+          "meaning": "耕、耕作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b65ea7e1daa2b671",
+      "index": 5781,
+      "word": "篠懸の木",
+      "reading_hiragana": "すずかけのき",
+      "context_meaning_zh": "悬铃木",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "悬铃木",
+          "meaning_ja": "街路樹や庭木として植えられる、広い葉を持つ落葉樹。",
+          "example_ja": "篠懸の木の大きな葉が歩道に落ちていた。",
+          "example_zh": "人行道上落着悬铃木的大叶子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "篠懸の木の並木",
+          "zh": "悬铃木林荫道"
+        }
+      ],
+      "usage_note_zh": "读作「すずかけのき」，是一种植物名，指常用作行道树的悬铃木类植物。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "广场上树下休息所指为悬铃木，词典plane tree义相符。",
+        "dictionary_sequences": [
+          2263090
+        ],
+        "identity": {
+          "word": "篠懸の木",
+          "reading_hiragana": "すずかけのき",
+          "meaning": "悬铃木"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d7a81bfa08520af1",
+      "index": 5782,
+      "word": "西瓜",
+      "reading_hiragana": "すいか",
+      "context_meaning_zh": "西瓜",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "西瓜",
+          "meaning_ja": "夏に旬を迎える、水分の多い大きな果実。",
+          "example_ja": "冷蔵庫で冷やした西瓜を切り分けた。",
+          "example_zh": "我把冰过的西瓜切开分了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "西瓜を冷やす",
+          "zh": "冰镇西瓜"
+        }
+      ],
+      "usage_note_zh": "作为水果名读作「すいか」，日常通常写作「すいか」或「スイカ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中与菠菜并列作为农作物，指西瓜；词典标明西瓜果实名词。",
+        "dictionary_sequences": [
+          1380890
+        ],
+        "identity": {
+          "word": "西瓜",
+          "reading_hiragana": "すいか",
+          "meaning": "西瓜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c456a983510086ce",
+      "index": 5783,
+      "word": "ほうれん草",
+      "reading_hiragana": "ほうれんそう",
+      "context_meaning_zh": "菠菜",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "菠菜",
+          "meaning_ja": "緑色の葉を食べる、栄養のある野菜。",
+          "example_ja": "ほうれん草をさっとゆでて、おひたしにした。",
+          "example_zh": "我把菠菜快速焯过，做成了凉拌菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ほうれん草をゆでる",
+          "zh": "焯菠菜"
+        }
+      ],
+      "usage_note_zh": "读作「ほうれんそう」。除了写作「ほうれん草」，也可写作「ホウレンソウ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中菠菜与西瓜并列为蔬菜作物，描述天气影响生长；词典义支持普通植物名词。",
+        "dictionary_sequences": [
+          1603410
+        ],
+        "identity": {
+          "word": "ほうれん草",
+          "reading_hiragana": "ほうれんそう",
+          "meaning": "菠菜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8b536bc6f725a08b",
+      "index": 5784,
+      "word": "用水路",
+      "reading_hiragana": "ようすいろ",
+      "context_meaning_zh": "水渠",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "水渠",
+          "meaning_ja": "田畑へ水を送るために作られた細長い水路。",
+          "example_ja": "用水路の水を田に引いた。",
+          "example_zh": "把水渠里的水引到了田里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "用水路を流れる水",
+          "zh": "水渠里的水"
+        }
+      ],
+      "usage_note_zh": "指输送农业用水的水渠，作用不同于排水渠。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "为灌溉修建的水渠，例句计划挖渠供作物用水。",
+        "dictionary_sequences": [
+          1686790
+        ],
+        "identity": {
+          "word": "用水路",
+          "reading_hiragana": "ようすいろ",
+          "meaning": "水渠"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-242616c7a0ab4274",
+      "index": 5785,
+      "word": "呼び水",
+      "reading_hiragana": "よびみず",
+      "context_meaning_zh": "引水；促成后续发展的契机",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "引水；促成后续发展的契机",
+          "meaning_ja": "水を別の場所へ導くため、先に流す水。",
+          "example_ja": "ポンプを動かす前に、呼び水を入れた。",
+          "example_zh": "启动水泵前，先灌入了引水。"
+        },
+        {
+          "meaning_zh": "（比喻）促成后续发展的契机",
+          "meaning_ja": "ある動きを起こすきっかけとなるもの。",
+          "example_ja": "小さな成功が、次の協力の呼び水になった。",
+          "example_zh": "小小的成功成为促成后续合作的契机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "次の活動の呼び水になる",
+          "zh": "成为后续活动的契机"
+        }
+      ],
+      "usage_note_zh": "「呼び水」原指为启动水泵或引出水流而先注入的水；比喻引出后续行动或反应的契机。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "原指启动水泵而预先注入的水，也比喻成为后续行动契机；例句两义均出现。",
+        "dictionary_sequences": [
+          1266360
+        ],
+        "identity": {
+          "word": "呼び水",
+          "reading_hiragana": "よびみず",
+          "meaning": "引水；促成后续发展的契机"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-798a3dba90f84f67",
+      "index": 5786,
+      "word": "掘る",
+      "reading_hiragana": "ほる",
+      "context_meaning_zh": "掘、挖",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "掘、挖",
+          "meaning_ja": "土などを取り除いて穴を作る。",
+          "example_ja": "花を植えるために、庭の土を掘った。",
+          "example_zh": "为了种花，我挖了院子里的土。"
+        },
+        {
+          "meaning_zh": "挖掘；探究",
+          "meaning_ja": "隠れている事実や理由を詳しく調べる。",
+          "example_ja": "記録を掘り下げて、問題の原因を探った。",
+          "example_zh": "深入查阅记录，探寻问题的原因。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "穴を掘る",
+          "zh": "挖洞"
+        }
+      ],
+      "usage_note_zh": "可以「掘る」挖土，也常说「穴を掘る」（挖洞）、「井戸を掘る」（挖井）。表示深入调查时常用「掘り下げる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "计划挖掘用水渠，水渠是「掘る」的直接对象；词典确认五段他动词。",
+        "dictionary_sequences": [
+          1246690
+        ],
+        "identity": {
+          "word": "掘る",
+          "reading_hiragana": "ほる",
+          "meaning": "掘、挖"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2e22f5f7c4145320",
+      "index": 5787,
+      "word": "農耕",
+      "reading_hiragana": "のうこう",
+      "context_meaning_zh": "农耕",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "农耕",
+          "meaning_ja": "土地を耕し、作物を育てること。",
+          "example_ja": "この村では昔から農耕が行われてきた。",
+          "example_zh": "这个村子自古以来就从事农耕。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "農耕を始める",
+          "zh": "开始耕作"
+        }
+      ],
+      "usage_note_zh": "指为种植作物而耕作土地的活动。与指从事农业的人「農民」以及以饲养牲畜为主的「牧畜」相区别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "农耕知识不足并向农民咨询，词典农业耕作名词义明确。",
+        "dictionary_sequences": [
+          1470680
+        ],
+        "identity": {
+          "word": "農耕",
+          "reading_hiragana": "のうこう",
+          "meaning": "农耕"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cb5dade281e95175",
+      "index": 5788,
+      "word": "解決",
+      "reading_hiragana": "かいけつ",
+      "context_meaning_zh": "解决问题",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "解决问题",
+          "meaning_ja": "困っている問題を解いて、望ましい状態にすること。",
+          "example_ja": "その問題は話し合いで解決しました。",
+          "example_zh": "那个问题通过协商解决了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "問題を解決する",
+          "zh": "解决问题"
+        }
+      ],
+      "usage_note_zh": "常说「問題を解決する」（解决问题），用「を」标出要解决的问题。表示问题得到解决，可说「問題が解決する」或「問題が解決される」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「問題を解決する」为サ变及物用法；词典兼列不及物，语义不限于本句搭配。",
+        "dictionary_sequences": [
+          1198960
+        ],
+        "identity": {
+          "word": "解決",
+          "reading_hiragana": "かいけつ",
+          "meaning": "解决问题"
+        }
+      }
+    }
+  ]
+}

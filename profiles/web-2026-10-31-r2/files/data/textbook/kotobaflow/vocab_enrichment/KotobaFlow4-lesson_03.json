@@ -1,0 +1,6730 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow4",
+  "lesson_id": "lesson_03",
+  "entries": [
+    {
+      "textbook_uid": "cfv-946a41d3b109eff6",
+      "index": 4587,
+      "word": "過程",
+      "reading_hiragana": "かてい",
+      "context_meaning_zh": "发展过程",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发展过程",
+          "meaning_ja": "物事が始まってから終わるまでの道筋。",
+          "example_ja": "計画を立てる過程で、予算の問題に気づいた。",
+          "example_zh": "在制定计划的过程中，发现了预算问题。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "研究の過程",
+          "zh": "研究过程"
+        }
+      ],
+      "usage_note_zh": "「過程」指变化从开始到结束的推进路径，不是最终结果。「〜の過程で」表示事情发生在过程中。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": [
+          "academic"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "把需求产生契机与能力提升过程区分分析，抽象名词用于概念论述，符合词典process义。",
+        "dictionary_sequences": [
+          1196270
+        ],
+        "identity": {
+          "word": "過程",
+          "reading_hiragana": "かてい",
+          "meaning": "发展过程"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-66d236684c6cd4db",
+      "index": 4588,
+      "word": "契機",
+      "reading_hiragana": "けいき",
+      "context_meaning_zh": "转变契机",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "转变契机",
+          "meaning_ja": "ある出来事が次の変化を起こすきっかけ。",
+          "example_ja": "留学が、専門を選び直す契機になった。",
+          "example_zh": "留学成了重新选择专业的契机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "契機となる",
+          "zh": "成为契机"
+        }
+      ],
+      "usage_note_zh": "「契機」指促成变化的机会或事件，语气较正式、偏书面；口语里常说「きっかけ」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "契機指促使必要、能力或事态发生的原因，作为普通名词使用；单条书面分析句不足以证明该词只用于书面媒介。",
+        "dictionary_sequences": [
+          1250180
+        ],
+        "identity": {
+          "word": "契機",
+          "reading_hiragana": "けいき",
+          "meaning": "转变契机"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f7f09ee5d47d165b",
+      "index": 4589,
+      "word": "進歩",
+      "reading_hiragana": "しんぽ",
+      "context_meaning_zh": "进步",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "进步",
+          "meaning_ja": "前よりよい状態へ進むこと。",
+          "example_ja": "医療技術は近年大きく進歩した。",
+          "example_zh": "近年来，医疗技术取得了很大进步。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "技術の進歩",
+          "zh": "技术进步"
+        }
+      ],
+      "usage_note_zh": "「進歩」既可用于人的技能，也可用于社会技术；「上達」主要指个人技能变得更熟练。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "句子区分技术进步与个人熟练度上升，目标词指进展发展；词典列名词兼サ变自动词。",
+        "dictionary_sequences": [
+          1366190
+        ],
+        "identity": {
+          "word": "進歩",
+          "reading_hiragana": "しんぽ",
+          "meaning": "进步"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a8d6a525bf0fadae",
+      "index": 4590,
+      "word": "変化",
+      "reading_hiragana": "へんか",
+      "context_meaning_zh": "变化",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "变化",
+          "meaning_ja": "前と違う状態になること、またはそうすること。",
+          "example_ja": "季節が変わると、店のメニューも変化する。",
+          "example_zh": "季节变化时，店里的菜单也会变化。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大きな変化",
+          "zh": "很大的变化"
+        }
+      ],
+      "usage_note_zh": "「変化する」可作自动词，如「生活が変化する」；也可作他动词，如「考え方を変化させる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「変化する」在此表示工作方式自身发生变化，匹配词典只列vi；不能把该用法扩展为自他两用。",
+        "dictionary_sequences": [
+          1510890
+        ],
+        "identity": {
+          "word": "変化",
+          "reading_hiragana": "へんか",
+          "meaning": "变化"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-11eafc49d84b41db",
+      "index": 4591,
+      "word": "向上",
+      "reading_hiragana": "こうじょう",
+      "context_meaning_zh": "能力或质量提高",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "能力或质量提高",
+          "meaning_ja": "能力や水準が前より高くなること。",
+          "example_ja": "休憩時間を設けた結果、作業の質が向上した。",
+          "example_zh": "设置休息时间后，工作质量提高了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "品質の向上",
+          "zh": "质量提升"
+        }
+      ],
+      "usage_note_zh": "常用「〜が向上する」，表示能力、质量、效率等水平提高。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "能力が向上する是自动变化过程，向上还可作提高这一名词。",
+        "dictionary_sequences": [
+          1277250
+        ],
+        "identity": {
+          "word": "向上",
+          "reading_hiragana": "こうじょう",
+          "meaning": "能力或质量提高"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b8e1ae39a35f32a9",
+      "index": 4592,
+      "word": "減少",
+      "reading_hiragana": "げんしょう",
+      "context_meaning_zh": "数量减少",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数量减少",
+          "meaning_ja": "数や量が前より少なくなること。",
+          "example_ja": "雨が降らない日が続き、川の水量が減少した。",
+          "example_zh": "持续多日未下雨，河流水量减少了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人口が減少する",
+          "zh": "人口减少"
+        }
+      ],
+      "usage_note_zh": "「減少」较正式，适合客观描述数量变化；比起「減る」更常用于报告和说明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "減少可名词化及サ变自他用法；本例数量减少80小时呈自动变化，但词典也收他动用法。",
+        "dictionary_sequences": [
+          1263210
+        ],
+        "identity": {
+          "word": "減少",
+          "reading_hiragana": "げんしょう",
+          "meaning": "数量减少"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-54cd29f03fc6fea4",
+      "index": 4593,
+      "word": "増加",
+      "reading_hiragana": "ぞうか",
+      "context_meaning_zh": "数量增加",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数量增加",
+          "meaning_ja": "数や量が前より多くなること。",
+          "example_ja": "利用者の増加に合わせて、窓口を一つ増やした。",
+          "example_zh": "配合使用者增加，又增设了一个服务窗口。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "利用者の増加",
+          "zh": "使用者增加"
+        }
+      ],
+      "usage_note_zh": "「増加」表示数量变多。「増加に伴って」表示数量增加的同时，另一变化也随之发生。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "订单增加并带来更多核验信息，词可作名词及自他サ变动词；不因例句的订单话题标注商业或书面体裁。",
+        "dictionary_sequences": [
+          1403160
+        ],
+        "identity": {
+          "word": "増加",
+          "reading_hiragana": "ぞうか",
+          "meaning": "数量增加"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-caa6b3602c6dfca6",
+      "index": 4594,
+      "word": "習得",
+      "reading_hiragana": "しゅうとく",
+      "context_meaning_zh": "学会技能",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "学会技能",
+          "meaning_ja": "練習や学習を続けて、知識や技術を自分のものにすること。",
+          "example_ja": "彼女は半年で基本的な操作を習得した。",
+          "example_zh": "她半年就掌握了基本操作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "技術を習得する",
+          "zh": "掌握技术"
+        }
+      ],
+      "usage_note_zh": "「習得」强调通过学习把知识或技能掌握到可使用的程度，不只是一般地“学习”。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "掌握新技术可作名词，也可「習得する」以技术/知识为对象；词典明确标vs,vt。",
+        "dictionary_sequences": [
+          1594750
+        ],
+        "identity": {
+          "word": "習得",
+          "reading_hiragana": "しゅうとく",
+          "meaning": "学会技能"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1172d6c68aca9c2f",
+      "index": 4595,
+      "word": "能力",
+      "reading_hiragana": "のうりょく",
+      "context_meaning_zh": "能力",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "能力",
+          "meaning_ja": "物事をするために必要な力や技。",
+          "example_ja": "この仕事には、相手の話を聞く能力も必要だ。",
+          "example_zh": "这项工作也需要倾听对方的能力。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "判断能力",
+          "zh": "判断能力"
+        }
+      ],
+      "usage_note_zh": "常说「能力がある／能力を身につける」，既可指具体本领，也可概括一个人的能力。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "能力是提升或运用的力量，可指完成任务的本领；を由「伸ばす」支配。",
+        "dictionary_sequences": [
+          1470370
+        ],
+        "identity": {
+          "word": "能力",
+          "reading_hiragana": "のうりょく",
+          "meaning": "能力"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1979bf3d6eb70eb8",
+      "index": 4596,
+      "word": "経験",
+      "reading_hiragana": "けいけん",
+      "context_meaning_zh": "亲身经历",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "亲身经历",
+          "meaning_ja": "自分で実際に見たり行ったりして得たこと。",
+          "example_ja": "海外で暮らした経験から、多様な考え方を学んだ。",
+          "example_zh": "从在海外生活的经历中，学到了多样的思维方式。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "経験を積む",
+          "zh": "积累经验"
+        }
+      ],
+      "usage_note_zh": "「経験」指亲身做过的事及由此获得的知识；「体験」更着重某一次具体经历。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "经验为亲身经历及所得知识；「経験を積む」作名词，词典亦支持「経験する」的及物サ变用法。",
+        "dictionary_sequences": [
+          1251270
+        ],
+        "identity": {
+          "word": "経験",
+          "reading_hiragana": "けいけん",
+          "meaning": "亲身经历"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5fecee47e7ad557a",
+      "index": 4597,
+      "word": "技術",
+      "reading_hiragana": "ぎじゅつ",
+      "context_meaning_zh": "技能或技术",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "技能或技术",
+          "meaning_ja": "目的を達成するための専門的な知識や方法。",
+          "example_ja": "この技術を使えば、細かな部品も正確に作れる。",
+          "example_zh": "使用这项技术，就能准确制作精细零件。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "最新の技術",
+          "zh": "最新技术"
+        }
+      ],
+      "usage_note_zh": "「技術」指专业方法或技能；「技能」更常指个人掌握的实际本领。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本课的技術指可习得的技能，词典也列技术、技巧和技能名词义。",
+        "dictionary_sequences": [
+          1225130
+        ],
+        "identity": {
+          "word": "技術",
+          "reading_hiragana": "ぎじゅつ",
+          "meaning": "技能或技术"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-de6802152fea4535",
+      "index": 4598,
+      "word": "職場",
+      "reading_hiragana": "しょくば",
+      "context_meaning_zh": "工作场所",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "工作场所",
+          "meaning_ja": "仕事をする場所、またはそこで働く人々の環境。",
+          "example_ja": "新しい職場では、最初に安全規則を確認した。",
+          "example_zh": "在新的工作场所，首先确认了安全规定。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "職場の環境",
+          "zh": "工作环境"
+        }
+      ],
+      "usage_note_zh": "「職場」不只指工作的建筑，也可包含在那里工作的环境和人际关系。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "職場指工作场所或任职地点；例句说工作方法在这三年间发生变化，商务背景不等于词项专属商务体裁。",
+        "dictionary_sequences": [
+          1357540
+        ],
+        "identity": {
+          "word": "職場",
+          "reading_hiragana": "しょくば",
+          "meaning": "工作场所"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-88ddffe05bf8dd27",
+      "index": 4599,
+      "word": "作業",
+      "reading_hiragana": "さぎょう",
+      "context_meaning_zh": "具体作业",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "具体作业",
+          "meaning_ja": "一定の目的のために、手順に沿って行う仕事。",
+          "example_ja": "この作業は二人で確認しながら進めてください。",
+          "example_zh": "请两个人一边确认一边进行这项作业。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "作業を進める",
+          "zh": "推进作业"
+        }
+      ],
+      "usage_note_zh": "「作業」常指一项较大工作中的具体部分，重点在具体步骤；「仕事」范围更广。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "传票制作作业自动化，作业是名词；词典自サ变义无直接受事，此处自动化的受事是整个作业过程。",
+        "dictionary_sequences": [
+          1297540
+        ],
+        "identity": {
+          "word": "作業",
+          "reading_hiragana": "さぎょう",
+          "meaning": "具体作业"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d6398c5e6d4c8bbe",
+      "index": 4600,
+      "word": "効率",
+      "reading_hiragana": "こうりつ",
+      "context_meaning_zh": "效率",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "效率",
+          "meaning_ja": "使った時間や力に対して、得られる結果の割合。",
+          "example_ja": "道具を置く場所を決めると、作業の効率が上がる。",
+          "example_zh": "确定工具的摆放位置后，作业效率提高了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "効率が上がる",
+          "zh": "效率提高"
+        }
+      ],
+      "usage_note_zh": "常说「効率がよい／悪い」「効率を上げる」。效率看投入与结果的比例，不只是速度快。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "不熟悉界面导致效率下降；効率が下がる为名词主语结构。",
+        "dictionary_sequences": [
+          1275210
+        ],
+        "identity": {
+          "word": "効率",
+          "reading_hiragana": "こうりつ",
+          "meaning": "效率"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9612f12a1d1f9702",
+      "index": 4601,
+      "word": "慣れる",
+      "reading_hiragana": "なれる",
+      "context_meaning_zh": "适应并熟悉",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "适应并熟悉",
+          "meaning_ja": "何度も経験して、違和感なくできるようになる。",
+          "example_ja": "妹は新しい町の生活にすぐ慣れた。",
+          "example_zh": "妹妹很快适应了新城市的生活。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "環境に慣れる",
+          "zh": "适应环境"
+        }
+      ],
+      "usage_note_zh": "常用「場所・環境・仕事に慣れる」。「慣れる」指逐渐不再感到生疏，不等于养成习惯。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "随熟悉而输入速度稳定，符合逐渐熟练义；词典列一段自动词，状态变化不支配对象宾语。",
+        "dictionary_sequences": [
+          1212670
+        ],
+        "identity": {
+          "word": "慣れる",
+          "reading_hiragana": "なれる",
+          "meaning": "适应并熟悉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8454728fc05acaa1",
+      "index": 4602,
+      "word": "見直す",
+      "reading_hiragana": "みなおす",
+      "context_meaning_zh": "重新审视并修改",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "重新审视并修改",
+          "meaning_ja": "もう一度見て、必要なところを改める。",
+          "example_ja": "説明書を見直して、分かりにくい表現を直した。",
+          "example_zh": "重新检查说明书，修改了难懂的表达。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "計画を見直す",
+          "zh": "重新审视计划"
+        }
+      ],
+      "usage_note_zh": "「見直す」既可指重新审查，也可指再看一次；表示重新检查并修改时，审查对象常用「を」标记。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句以资料为宾语表示重新审阅，词典支持五段他动义；该词另有行情或病情好转的自动义，故整体自他兼有。",
+        "dictionary_sequences": [
+          1259900
+        ],
+        "identity": {
+          "word": "見直す",
+          "reading_hiragana": "みなおす",
+          "meaning": "重新审视并修改"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-832aeaf68fdf9c85",
+      "index": 4603,
+      "word": "積み重ねる",
+      "reading_hiragana": "つみかさねる",
+      "context_meaning_zh": "积累经验",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "积累经验",
+          "meaning_ja": "一つずつ増やして、全体として多くする。",
+          "example_ja": "短い会話の練習を積み重ねて、自信がついた。",
+          "example_zh": "通过不断练习简短对话，我逐渐有了信心。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "練習を積み重ねる",
+          "zh": "不断积累练习"
+        }
+      ],
+      "usage_note_zh": "「積み重ねる」可用于抽象事物逐渐累积；相比「経験を積む」，更强调持续地一层层积累。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「経験を積み重ねる」表示逐渐积累经验，词典标一段及物动词，经验是受事对象。",
+        "dictionary_sequences": [
+          1382910
+        ],
+        "identity": {
+          "word": "積み重ねる",
+          "reading_hiragana": "つみかさねる",
+          "meaning": "积累经验"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5783e064e568069d",
+      "index": 4604,
+      "word": "取り組む",
+      "reading_hiragana": "とりくむ",
+      "context_meaning_zh": "投入处理任务",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "投入处理任务",
+          "meaning_ja": "目標に向けて、問題や仕事に力を注ぐ。",
+          "example_ja": "チーム全員で課題に取り組んでいる。",
+          "example_zh": "全体团队都在着手解决课题。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "課題に取り組む",
+          "zh": "着手解决课题"
+        }
+      ],
+      "usage_note_zh": "常说「課題・問題に取り組む」，用「に」标出着手处理的对象，含有以解决或完成为目标的意思。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "接下来要面对的课题是「取り組む」对象，词典将其列为五段自动词；「に」标示处理目标。",
+        "dictionary_sequences": [
+          1326820
+        ],
+        "identity": {
+          "word": "取り組む",
+          "reading_hiragana": "とりくむ",
+          "meaning": "投入处理任务"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-35415e021c08f24a",
+      "index": 4605,
+      "word": "移行",
+      "reading_hiragana": "いこう",
+      "context_meaning_zh": "转入另一阶段或方式",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "转入另一阶段或方式",
+          "meaning_ja": "今までと違う段階や方法へ移ること。",
+          "example_ja": "来月から新しい予約システムへ移行する。",
+          "example_zh": "从下个月起转用新的预约系统。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新制度へ移行する",
+          "zh": "转入新制度"
+        }
+      ],
+      "usage_note_zh": "「移行」用于制度、方法或阶段的转换；「移動」主要指地点上的移动。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "此词兼名词和サ变，例句用へ表示移入；词典还列转移权力等及物用法，故按两类自他处理。",
+        "dictionary_sequences": [
+          1158240
+        ],
+        "identity": {
+          "word": "移行",
+          "reading_hiragana": "いこう",
+          "meaning": "转入另一阶段或方式"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0a59530e38f8a6a1",
+      "index": 4606,
+      "word": "自動化",
+      "reading_hiragana": "じどうか",
+      "context_meaning_zh": "自动化",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "自动化",
+          "meaning_ja": "人が行っていた仕事を機械や仕組みが行うようにすること。",
+          "example_ja": "入力を自動化して、確認に使う時間を増やした。",
+          "example_zh": "实现输入自动化后，增加了用于核对的时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "作業を自動化する",
+          "zh": "使作业自动化"
+        }
+      ],
+      "usage_note_zh": "常用「〜を自動化する」标明自动化的对象。它强调让流程由系统自动执行，与一般机械化相关但不完全相同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "表示把制作流程改为由系统自动执行；词典列名词及サ变他动词，说明自动化的对象可作受事。",
+        "dictionary_sequences": [
+          1318370
+        ],
+        "identity": {
+          "word": "自動化",
+          "reading_hiragana": "じどうか",
+          "meaning": "自动化"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3ff9eb31d5747642",
+      "index": 4607,
+      "word": "人手",
+      "reading_hiragana": "ひとで",
+      "context_meaning_zh": "可用的人力",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "可用的人力",
+          "meaning_ja": "仕事などに使える人の数や働き手。",
+          "example_ja": "人手が足りず、受付を一時閉めることになった。",
+          "example_zh": "人手不足，接待处只好暂时关闭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人手が足りない",
+          "zh": "人手不足"
+        }
+      ],
+      "usage_note_zh": "「人手」指可投入工作的人员或劳力，可说「人手が足りない」「人手を借りる」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号2825953中的劳动力、人手义与人员数量一直为九人的语境相符；排除同读海星条目。",
+        "dictionary_sequences": [
+          2825953
+        ],
+        "identity": {
+          "word": "人手",
+          "reading_hiragana": "ひとで",
+          "meaning": "可用的人力"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1db98395b03f4584",
+      "index": 4608,
+      "word": "雇用",
+      "reading_hiragana": "こよう",
+      "context_meaning_zh": "雇用关系",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "雇用关系",
+          "meaning_ja": "人を仕事に雇い、働いてもらうこと。",
+          "example_ja": "会社は来春、新しい社員を雇用する予定だ。",
+          "example_zh": "公司计划明年春天雇用新员工。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "雇用を守る",
+          "zh": "保障就业"
+        }
+      ],
+      "usage_note_zh": "「雇用」是从雇主一方说雇人工作的名词；「雇う」则直接表示雇用这一动作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "雇用关系计划谈的是雇佣制度名词；词典同时证实「雇用する」他动サ变，保留兼类。",
+        "dictionary_sequences": [
+          1267860
+        ],
+        "identity": {
+          "word": "雇用",
+          "reading_hiragana": "こよう",
+          "meaning": "雇用关系"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2bdd404f363daf34",
+      "index": 4609,
+      "word": "研修",
+      "reading_hiragana": "けんしゅう",
+      "context_meaning_zh": "业务培训",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "业务培训",
+          "meaning_ja": "仕事に必要な知識や技能を学ぶための指導。",
+          "example_ja": "新人研修で、電話の受け方を練習した。",
+          "example_zh": "在新员工培训中，练习了接电话的方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "研修を受ける",
+          "zh": "参加培训"
+        }
+      ],
+      "usage_note_zh": "「研修」多指职场中学习工作所需知识或技能；场景上不同于学校的一般课程。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "研修可名词化并构成研修する，词典列及物サ变；本句研修を受ける取培训名词义。",
+        "dictionary_sequences": [
+          1258660
+        ],
+        "identity": {
+          "word": "研修",
+          "reading_hiragana": "けんしゅう",
+          "meaning": "业务培训"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-708380876267b4d0",
+      "index": 4610,
+      "word": "定着",
+      "reading_hiragana": "ていちゃく",
+      "context_meaning_zh": "形成稳定习惯或状态",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "形成稳定习惯或状态",
+          "meaning_ja": "新しい場所や集団で、状態が落ち着いて続くようになること。",
+          "example_ja": "この地域では、在宅勤務が定着してきた。",
+          "example_zh": "在这个地区，居家办公逐渐固定下来。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "習慣が定着する",
+          "zh": "习惯固定下来"
+        }
+      ],
+      "usage_note_zh": "「定着」表示习惯、制度、技术等扎根并稳定下来，不只是短暂出现；「定着させる」是使其固定下来。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "分工和新方法逐步稳定并扎根，符合定着名词及する自动词的“成为固定状态”义。",
+        "dictionary_sequences": [
+          1435730
+        ],
+        "identity": {
+          "word": "定着",
+          "reading_hiragana": "ていちゃく",
+          "meaning": "形成稳定习惯或状态"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ba913a0e883c8b2b",
+      "index": 4611,
+      "word": "熟練",
+      "reading_hiragana": "じゅくれん",
+      "context_meaning_zh": "熟练",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "熟练",
+          "meaning_ja": "練習を重ね、その分野の技術に十分慣れていること。",
+          "example_ja": "熟練した職人が、木を丁寧に削った。",
+          "example_zh": "熟练的工匠仔细地削木头。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "熟練した技",
+          "zh": "熟练的技能"
+        }
+      ],
+      "usage_note_zh": "本条按サ变自动词「熟練する」使用，也可说「熟練した人／技」作连体修饰；不按ナ形容词处理。这里描述技能熟练程度，不是工作年限。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "熟練する表示达到熟练程度，词典列サ变自动词；此处「熟練した人」是该状态的过去连体形，不作ナ形容词。",
+        "dictionary_sequences": [
+          1337930
+        ],
+        "identity": {
+          "word": "熟練",
+          "reading_hiragana": "じゅくれん",
+          "meaning": "熟练"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7ef57e09e7033fa3",
+      "index": 4612,
+      "word": "負荷",
+      "reading_hiragana": "ふか",
+      "context_meaning_zh": "工作或系统负荷",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "工作或系统负荷",
+          "meaning_ja": "仕事やシステムにかかる負担の大きさ。",
+          "example_ja": "夜勤が続き、看護師の負荷が大きくなった。",
+          "example_zh": "夜班持续不断，护士的负担加重了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "負荷を減らす",
+          "zh": "减轻负荷"
+        }
+      ],
+      "usage_note_zh": "常说「負荷がかかる／大きい」。既可指人的工作负担，也可指机器或系统承受的处理量。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例负荷指每人的工作量变化，是名词；词典还列负荷する的他动用法，所施加的负担由对象承受。",
+        "dictionary_sequences": [
+          1498060
+        ],
+        "identity": {
+          "word": "負荷",
+          "reading_hiragana": "ふか",
+          "meaning": "工作或系统负荷"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-04bf023d68f4f246",
+      "index": 4613,
+      "word": "分担",
+      "reading_hiragana": "ぶんたん",
+      "context_meaning_zh": "分担任务",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "分担任务",
+          "meaning_ja": "仕事や費用などを、何人かで分けて受け持つこと。",
+          "example_ja": "準備作業を三人で分担した。",
+          "example_zh": "三个人分担了准备工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "役割を分担する",
+          "zh": "分担职责"
+        }
+      ],
+      "usage_note_zh": "「分担」中，被分开的任务用「を」标记；共同承担的人可用「で／間で」表示。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "分担作话题名词，“分担の変化”仍是名词加の；句中没有独立连体词形态。",
+        "dictionary_sequences": [
+          1503950
+        ],
+        "identity": {
+          "word": "分担",
+          "reading_hiragana": "ぶんたん",
+          "meaning": "分担任务"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-59b0ce9fd1c4f2af",
+      "index": 4614,
+      "word": "生産性",
+      "reading_hiragana": "せいさんせい",
+      "context_meaning_zh": "生产效率",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "生产效率",
+          "meaning_ja": "使った人・時間・費用に対して、得られる生産量や成果の程度。",
+          "example_ja": "休みを取りやすくすると、長い目で見て生産性が高まる。",
+          "example_zh": "让员工更容易休假，从长远来看会提高生产效率。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "生産性を高める",
+          "zh": "提高生产效率"
+        }
+      ],
+      "usage_note_zh": "「生産性」不是产量本身，而是相对于投入的人力、时间或费用所取得的产出和成果。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "生産性指工作产出与投入的生产效率，句中和整体工作量及个人负担一起讨论。",
+        "dictionary_sequences": [
+          1379030
+        ],
+        "identity": {
+          "word": "生産性",
+          "reading_hiragana": "せいさんせい",
+          "meaning": "生产效率"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-378b9a164bea0640",
+      "index": 4615,
+      "word": "改善",
+      "reading_hiragana": "かいぜん",
+      "context_meaning_zh": "改善现状",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "改善现状",
+          "meaning_ja": "悪い点を直したり、よりよい状態にしたりすること。",
+          "example_ja": "利用者の声を聞いて、案内の方法を改善した。",
+          "example_zh": "听取用户意见后，改进了引导方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "方法を改善する",
+          "zh": "改进方法"
+        }
+      ],
+      "usage_note_zh": "「改善」既可指修正问题，也可指让现状进一步变好；通常用「を」标明改善的对象。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "资料の改善是名词短语；改善可对对象作他动改良，也可描述状态本身变好。",
+        "dictionary_sequences": [
+          1200960
+        ],
+        "identity": {
+          "word": "改善",
+          "reading_hiragana": "かいぜん",
+          "meaning": "改善现状"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-00d36fc64fe9c627",
+      "index": 4616,
+      "word": "停滞",
+      "reading_hiragana": "ていたい",
+      "context_meaning_zh": "发展停滞",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发展停滞",
+          "meaning_ja": "物事が進まず、同じ状態にとどまること。",
+          "example_ja": "話し合いが長く停滞したため、進行役を交代した。",
+          "example_zh": "讨论长期停滞不前，因此更换了主持人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "交渉が停滞する",
+          "zh": "谈判陷入停滞"
+        }
+      ],
+      "usage_note_zh": "「停滞」用于计划、谈判、经济等进展不下去的状态，通常不直接形容个人活动。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "停滞指进展停下来，也可停滞する；例句用改善が停滞した，主语为改善，辞典vi表明自发停滞。",
+        "dictionary_sequences": [
+          1435010
+        ],
+        "identity": {
+          "word": "停滞",
+          "reading_hiragana": "ていたい",
+          "meaning": "发展停滞"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0522bc36becf321b",
+      "index": 4617,
+      "word": "転職",
+      "reading_hiragana": "てんしょく",
+      "context_meaning_zh": "换工作",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "换工作",
+          "meaning_ja": "今までの仕事を辞めて、別の仕事に就くこと。",
+          "example_ja": "彼は地元に戻るため、春に転職した。",
+          "example_zh": "他为了回老家，在春天换了工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "転職を考える",
+          "zh": "考虑换工作"
+        }
+      ],
+      "usage_note_zh": "「転職」包含离开原工作并转到另一份工作；只辞职、尚未转职时不能称为转职完成。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "大野先生转到现在的公司工作，転職为名词兼不及物サ变动词；句尾ました的礼貌不属于词项。",
+        "dictionary_sequences": [
+          1441210
+        ],
+        "identity": {
+          "word": "転職",
+          "reading_hiragana": "てんしょく",
+          "meaning": "换工作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-233ded40f4503912",
+      "index": 4618,
+      "word": "成果",
+      "reading_hiragana": "せいか",
+      "context_meaning_zh": "取得的成果",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "取得的成果",
+          "meaning_ja": "努力や行動のあとに得られた結果。",
+          "example_ja": "発表会では、半年間の練習の成果を見せた。",
+          "example_zh": "在发表会上展示了半年来的练习成果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "成果を上げる",
+          "zh": "取得成果"
+        }
+      ],
+      "usage_note_zh": "「成果」指努力或行动后得到的结果，而不是投入的努力量；常说「成果が出る」「成果を発表する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "仕事全体の成果指整体工作取得的结果，句中作判断对象；词典类别为名词。",
+        "dictionary_sequences": [
+          1375650
+        ],
+        "identity": {
+          "word": "成果",
+          "reading_hiragana": "せいか",
+          "meaning": "取得的成果"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fae1fac791b1b009",
+      "index": 4619,
+      "word": "意欲",
+      "reading_hiragana": "いよく",
+      "context_meaning_zh": "主动做事的意愿",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "主动做事的意愿",
+          "meaning_ja": "何かをしたい、または達成したいと思う気持ち。",
+          "example_ja": "本人に意欲があれば、会社は資格取得を支援する。",
+          "example_zh": "只要本人有积极性，公司就会支持考取资格证。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意欲がある",
+          "zh": "有积极性"
+        }
+      ],
+      "usage_note_zh": "「意欲がある／高い」「意欲を失う」都很常见。「意欲」是想要行动的心情，不是实际能力。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "学习意欲表示学习的积极愿望，是普通名词；例句说明有求学愿望但疲劳时休息。",
+        "dictionary_sequences": [
+          1587690
+        ],
+        "identity": {
+          "word": "意欲",
+          "reading_hiragana": "いよく",
+          "meaning": "主动做事的意愿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a0a4a51a5648b78e",
+      "index": 4620,
+      "word": "傾向",
+      "reading_hiragana": "けいこう",
+      "context_meaning_zh": "倾向",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "倾向",
+          "meaning_ja": "同じようなことがよく起こる、またはその方向へ進みやすいこと。",
+          "example_ja": "この町では、春に風が強くなる傾向がある。",
+          "example_zh": "这个城市春天容易刮大风。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "増加する傾向",
+          "zh": "增加的趋势"
+        }
+      ],
+      "usage_note_zh": "「〜傾向がある」表示某种情况较容易发生或呈现某方向，不代表每次必然如此。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "订单增加这一整体方向是否持续，句中“傾向”作名词并由が标主语。",
+        "dictionary_sequences": [
+          1249470
+        ],
+        "identity": {
+          "word": "傾向",
+          "reading_hiragana": "けいこう",
+          "meaning": "倾向"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-340ca5f3e0f945df",
+      "index": 4621,
+      "word": "歴史",
+      "reading_hiragana": "れきし",
+      "context_meaning_zh": "历史",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "历史",
+          "meaning_ja": "昔から現在までに起きた出来事や、その記録。",
+          "example_ja": "この橋の歴史を、古い写真で調べた。",
+          "example_zh": "我通过老照片调查了这座桥的历史。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "歴史を学ぶ",
+          "zh": "学习历史"
+        }
+      ],
+      "usage_note_zh": "「歴史」指社会或事物过去的发展脉络；「歴史がある」也可表示某事物由来已久。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "历史课介绍20世纪工作的记录，歴史指过去的发展及其记载；课堂主题不使词项变成学术体裁。",
+        "dictionary_sequences": [
+          1558050
+        ],
+        "identity": {
+          "word": "歴史",
+          "reading_hiragana": "れきし",
+          "meaning": "历史"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2b3d2b1115efb72c",
+      "index": 4622,
+      "word": "ゼミ",
+      "reading_hiragana": "ゼミ",
+      "context_meaning_zh": "小组讨论(研究)",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "小组讨论(研究)",
+          "meaning_ja": "大学などで、少人数で特定のテーマを研究・討論する授業。",
+          "example_ja": "ゼミで調べた結果を、来週みんなに報告する。",
+          "example_zh": "下周要向大家报告在研讨课上调查的结果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ゼミに参加する",
+          "zh": "参加研讨课"
+        }
+      ],
+      "usage_note_zh": "「ゼミ」是大学少人数研讨课的简称；与一般讲授式课程相比，学生发言和讨论更多。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "ゼミ指大学教师指导下的小组研讨；词义是一般名词，学术主题不构成学术或教育体裁标签。",
+        "dictionary_sequences": [
+          1075160
+        ],
+        "identity": {
+          "word": "ゼミ",
+          "reading_hiragana": "ゼミ",
+          "meaning": "小组讨论(研究)"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6e7b4cec8f9dd243",
+      "index": 4623,
+      "word": "日本語科",
+      "reading_hiragana": "にほんごか",
+      "context_meaning_zh": "日语系、日语专业",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日语系、日语专业",
+          "meaning_ja": "大学などで、日本語を専門に学ぶ学科。",
+          "example_ja": "姉は日本語科を卒業して、通訳になった。",
+          "example_zh": "姐姐从日语系毕业后当了口译。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本語科に入る",
+          "zh": "进入日语系"
+        }
+      ],
+      "usage_note_zh": "「日本語科」是日语专业或学科名称，具体组织名称会因学校而异，也可能作为专名使用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "大学的日本语科指院系或专业名称，是机构内的学科名词；本条不把日本语科当专名。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "日本語科",
+          "reading_hiragana": "にほんごか",
+          "meaning": "日语系、日语专业"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3e347cab891943dd",
+      "index": 4624,
+      "word": "現代",
+      "reading_hiragana": "げんだい",
+      "context_meaning_zh": "现代",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "现代",
+          "meaning_ja": "今の時代、または近ごろの社会。",
+          "example_ja": "現代の生活では、情報を選ぶ力も必要だ。",
+          "example_zh": "在现代生活中，筛选信息的能力也很必要。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "現代社会",
+          "zh": "现代社会"
+        }
+      ],
+      "usage_note_zh": "「現代」指当前这个时代，也可直接修饰名词，如「現代の人」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「現代の働き方」指当今时代，词典名词义与现代时期义相符；の连接不构成额外词类。",
+        "dictionary_sequences": [
+          1263810
+        ],
+        "identity": {
+          "word": "現代",
+          "reading_hiragana": "げんだい",
+          "meaning": "现代"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c62dca59938ad0b8",
+      "index": 4625,
+      "word": "朗読",
+      "reading_hiragana": "ろうどく",
+      "context_meaning_zh": "朗读",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "朗读",
+          "meaning_ja": "文章や詩などを、声に出して読むこと。",
+          "example_ja": "式の最後に、学生が詩を朗読した。",
+          "example_zh": "仪式最后，学生朗读了诗歌。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "詩を朗読する",
+          "zh": "朗读诗歌"
+        }
+      ],
+      "usage_note_zh": "「朗読」指把文字出声读出来，通常带有面向听众表达的意味。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "朗読指将文章出声读出，既可作名词也可他动サ变；文本或绘本是朗读对象，语境并不限定为教育体裁。",
+        "dictionary_sequences": [
+          1560730
+        ],
+        "identity": {
+          "word": "朗読",
+          "reading_hiragana": "ろうどく",
+          "meaning": "朗读"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7a3af3ac4ffdaabc",
+      "index": 4626,
+      "word": "時代",
+      "reading_hiragana": "じだい",
+      "context_meaning_zh": "时代",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "时代",
+          "meaning_ja": "ある特徴を持った長い時間の区切り。",
+          "example_ja": "子どものころの遊びは、時代によって違う。",
+          "example_zh": "儿童时代的游戏会因时代而异。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時代が変わる",
+          "zh": "时代变迁"
+        }
+      ],
+      "usage_note_zh": "「時代」可指历史上的大阶段，也可指某种特征明显的时期；「時代に合う」指符合当下情况。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "记录属于某历史时期，词典时代名词义与例句一致。",
+        "dictionary_sequences": [
+          1316300
+        ],
+        "identity": {
+          "word": "時代",
+          "reading_hiragana": "じだい",
+          "meaning": "时代"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7a1e57ab7e6d9b9f",
+      "index": 4627,
+      "word": "発展",
+      "reading_hiragana": "はってん",
+      "context_meaning_zh": "发展",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发展",
+          "meaning_ja": "規模や内容が大きくなり、勢いが増すこと。",
+          "example_ja": "町の交通網は、駅の開業後に発展した。",
+          "example_zh": "车站开通后，城镇的交通网络得到了发展。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "経済が発展する",
+          "zh": "经济发展"
+        }
+      ],
+      "usage_note_zh": "「発展」指社会、技术、地区等规模或内容扩大；「発達」更常用于功能或能力成长完善。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": [
+          "business"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "公司发展与个人学习并列，取企业增长发展义；词典另列情节进展等义不取。",
+        "dictionary_sequences": [
+          1477720
+        ],
+        "identity": {
+          "word": "発展",
+          "reading_hiragana": "はってん",
+          "meaning": "发展"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a2911451459ae076",
+      "index": 4628,
+      "word": "講義",
+      "reading_hiragana": "こうぎ",
+      "context_meaning_zh": "讲授、课程（不等同中文讲义资料）",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "讲授、课程（不等同中文讲义资料）",
+          "meaning_ja": "先生などが、あるテーマについて説明して教えること。",
+          "example_ja": "午後の講義では、環境問題を取り上げる。",
+          "example_zh": "下午的课程将讨论环境问题。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "講義を受ける",
+          "zh": "听课"
+        }
+      ],
+      "usage_note_zh": "「講義」是大学等场合老师讲授主题的课程；它指课程本身，不是“讲义资料”。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "历史课中介绍某主题的「講義」是课程／讲课名词；辞书列名词与他动サ变功能，中文原义特意区分讲课和讲义资料。",
+        "dictionary_sequences": [
+          1282260
+        ],
+        "identity": {
+          "word": "講義",
+          "reading_hiragana": "こうぎ",
+          "meaning": "讲授、课程（不等同中文讲义资料）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-36eff07b05267d27",
+      "index": 4629,
+      "word": "活躍",
+      "reading_hiragana": "かつやく",
+      "context_meaning_zh": "活跃、显身手",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "活跃、显身手",
+          "meaning_ja": "人や団体が力を十分に出して、目立った働きをすること。",
+          "example_ja": "新人選手は初めての大会で活躍した。",
+          "example_zh": "新选手在首次比赛中表现出色。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "各地で活躍する",
+          "zh": "在各地大显身手"
+        }
+      ],
+      "usage_note_zh": "「活躍」指人发挥能力并做出突出的表现，常以人或团队作主语，如「活躍する人」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "活躍表示积极活动或取得成绩，可作自サ动词；例句活躍する说明成功表现义，课堂讨论的语境未使词汇本身教育化。",
+        "dictionary_sequences": [
+          1208450
+        ],
+        "identity": {
+          "word": "活躍",
+          "reading_hiragana": "かつやく",
+          "meaning": "活跃、显身手"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ae2f793f50faba17",
+      "index": 4630,
+      "word": "修士論文",
+      "reading_hiragana": "しゅうしろんぶん",
+      "context_meaning_zh": "硕士论文",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "硕士论文",
+          "meaning_ja": "大学院の修士課程で、研究内容をまとめて書く論文。",
+          "example_ja": "修士論文の提出前に、引用した資料をもう一度確認した。",
+          "example_zh": "提交硕士论文前，我再次核对了引用资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "修士論文を書く",
+          "zh": "撰写硕士论文"
+        }
+      ],
+      "usage_note_zh": "「修士論文」是总结硕士阶段研究成果的论文，与博士阶段的论文不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "written",
+        "genres": [
+          "academic"
+        ]
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "工作期间撰写硕士论文，指硕士阶段研究论文，词典硕士论文义明确，具有学术体裁属性。",
+        "dictionary_sequences": [
+          1937750
+        ],
+        "identity": {
+          "word": "修士論文",
+          "reading_hiragana": "しゅうしろんぶん",
+          "meaning": "硕士论文"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-01b328f24d867cb5",
+      "index": 4631,
+      "word": "身につける",
+      "reading_hiragana": "みにつける",
+      "context_meaning_zh": "掌握；穿戴在身上",
+      "pos_ja": "動詞・表現",
+      "pos_zh": "动词・表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "掌握；穿戴在身上",
+          "meaning_ja": "知識や技術を自分のものにする。また、服や物を身に着ける。",
+          "example_ja": "旅先で使える短い表現を身につけたい。",
+          "example_zh": "我想掌握旅行时能用的简短表达。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "知識を身につける",
+          "zh": "掌握知识"
+        }
+      ],
+      "usage_note_zh": "「知識・技術を身につける」表示掌握；「服を身につける」表示穿戴。具体含义由宾语判断。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "此处表示掌握基础知识，基礎を是获得对象；词典所载穿戴义是另一用法。",
+        "dictionary_sequences": [
+          1980660
+        ],
+        "identity": {
+          "word": "身につける",
+          "reading_hiragana": "みにつける",
+          "meaning": "掌握；穿戴在身上"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-109ffb0277149a46",
+      "index": 4632,
+      "word": "深める",
+      "reading_hiragana": "ふかめる",
+      "context_meaning_zh": "加深、加强",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "加深、加强",
+          "meaning_ja": "程度を深くする。",
+          "example_ja": "質問を重ねて、相手への理解を深めた。",
+          "example_zh": "通过不断提问，加深了对对方的理解。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "理解を深める",
+          "zh": "加深理解"
+        }
+      ],
+      "usage_note_zh": "「深める」用于使理解、关系、知识等变得更深入，是他动词，深化的对象用「を」标记。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与前辈讨论后加深理解，理解是深める的对象；词典列一段他动词。",
+        "dictionary_sequences": [
+          1362680
+        ],
+        "identity": {
+          "word": "深める",
+          "reading_hiragana": "ふかめる",
+          "meaning": "加深、加强"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-baa4b9aaebb5cfe8",
+      "index": 4633,
+      "word": "盛ん",
+      "reading_hiragana": "さかん",
+      "context_meaning_zh": "兴盛、活跃；热烈",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "兴盛、活跃；热烈",
+          "meaning_ja": "活動がよく行われ、勢いがある様子。",
+          "example_ja": "この村では、夏に祭りが盛んに行われる。",
+          "example_zh": "这个村子夏天经常举办热闹的祭典。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "盛んな活動",
+          "zh": "活跃的活动"
+        }
+      ],
+      "usage_note_zh": "可说「盛んな活動」「活動が盛んだ」；作副词时用「盛んに」，如「盛んに研究する」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "相互教授工作技能的活动在当地很活跃，盛んです取active/widespread义；礼貌句尾不改变词项。",
+        "dictionary_sequences": [
+          1379750
+        ],
+        "identity": {
+          "word": "盛ん",
+          "reading_hiragana": "さかん",
+          "meaning": "兴盛、活跃；热烈"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f391ce390113b8dc",
+      "index": 4634,
+      "word": "実力",
+      "reading_hiragana": "じつりょく",
+      "context_meaning_zh": "实力",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "实力",
+          "meaning_ja": "実際に持っている力や能力。",
+          "example_ja": "彼女は実力で選手に選ばれた。",
+          "example_zh": "她凭实力入选了选手。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "実力を発揮する",
+          "zh": "发挥实力"
+        }
+      ],
+      "usage_note_zh": "「実力」指实际具备并能发挥的能力，含有以表现或成果证明本领的意味，不是头衔。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "进入社会后感到实际能力不足，符合词典实力名词义。",
+        "dictionary_sequences": [
+          1321530
+        ],
+        "identity": {
+          "word": "実力",
+          "reading_hiragana": "じつりょく",
+          "meaning": "实力"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4eadf4700915d158",
+      "index": 4635,
+      "word": "翻訳",
+      "reading_hiragana": "ほんやく",
+      "context_meaning_zh": "翻译",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "翻译",
+          "meaning_ja": "ある言語の内容を、別の言語で表すこと。",
+          "example_ja": "この案内は、英語にも翻訳されている。",
+          "example_zh": "这份指南也被翻译成了英语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "文章を翻訳する",
+          "zh": "翻译文章"
+        }
+      ],
+      "usage_note_zh": "「翻訳」指把文章或谈话内容转换成另一种语言；「通訳」主要指现场口译。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "研讨课中从事笔译工作，翻訳可作名词并构成他动サ变，翻译内容在此省略。",
+        "dictionary_sequences": [
+          1523400
+        ],
+        "identity": {
+          "word": "翻訳",
+          "reading_hiragana": "ほんやく",
+          "meaning": "翻译"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-498f1c40aa4df944",
+      "index": 4636,
+      "word": "社会",
+      "reading_hiragana": "しゃかい",
+      "context_meaning_zh": "社会",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "社会",
+          "meaning_ja": "人々が集まって生活する集団や、その仕組み。",
+          "example_ja": "社会の変化に合わせて、働き方も変わっている。",
+          "example_zh": "随着社会的变化，工作方式也在改变。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "社会の一員",
+          "zh": "社会的一员"
+        }
+      ],
+      "usage_note_zh": "「社会」可指人群组成的集体及其运行机制；「社会に出る」也常指毕业后开始工作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "大学毕业进入社会后感到实力不足，「社会に出る」在此指开始参与社会生活和工作。",
+        "dictionary_sequences": [
+          1322700
+        ],
+        "identity": {
+          "word": "社会",
+          "reading_hiragana": "しゃかい",
+          "meaning": "社会"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-92491de13a278c9e",
+      "index": 4637,
+      "word": "安定",
+      "reading_hiragana": "あんてい",
+      "context_meaning_zh": "稳定、安定",
+      "pos_ja": "名詞・動詞・ナ形容詞・サ変名詞",
+      "pos_zh": "名词・动词・な形容词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "稳定、安定",
+          "meaning_ja": "大きな変化がなく、落ち着いた状態にあること。",
+          "example_ja": "収入が安定してから、毎月少し貯金できるようになった。",
+          "example_zh": "收入稳定后，每个月都能存下一点钱了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "収入が安定する",
+          "zh": "收入稳定"
+        }
+      ],
+      "usage_note_zh": "「生活が安定する」表示状态稳定下来；「気持ちを安定させる」表示使心情稳定。修饰名词时常用「安定した生活」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb",
+          "adjective_na"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "输入速度趋于稳定，词义是状态安定；词典列名词、ナ形及自サ，当前语境为不带宾语的自变用法。",
+        "dictionary_sequences": [
+          1154120
+        ],
+        "identity": {
+          "word": "安定",
+          "reading_hiragana": "あんてい",
+          "meaning": "稳定、安定"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1e647808353a6051",
+      "index": 4638,
+      "word": "伸ばす",
+      "reading_hiragana": "のばす",
+      "context_meaning_zh": "伸展；拓展、增加",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "伸展；拓展、增加",
+          "meaning_ja": "長さや範囲を大きくする。また、能力を高める。",
+          "example_ja": "毎日少しずつ練習して、語彙を伸ばしている。",
+          "example_zh": "每天一点点练习，扩大词汇量。"
+        },
+        {
+          "meaning_zh": "延长、拉长",
+          "meaning_ja": "物の長さや時間を、今より長くする。",
+          "example_ja": "話が終わらず、会議を三十分伸ばした。",
+          "example_zh": "讨论迟迟没有结束，把会议延长了三十分钟。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "能力を伸ばす",
+          "zh": "拓展能力"
+        }
+      ],
+      "usage_note_zh": "「伸ばす」可指把物体或长度拉长，也可指扩大能力或范围；「髪を伸ばす」是留长头发。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "提升能力及伸展背部展示抽象发展和身体伸展义，均由伸ばす支配对象。",
+        "dictionary_sequences": [
+          1600290
+        ],
+        "identity": {
+          "word": "伸ばす",
+          "reading_hiragana": "のばす",
+          "meaning": "伸展；拓展、增加"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2c4ef2bef61e9d8e",
+      "index": 4639,
+      "word": "力を入れる",
+      "reading_hiragana": "ちからをいれる",
+      "context_meaning_zh": "致力于、着力",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "致力于、着力",
+          "meaning_ja": "特定のことに力や注意を多く向ける。",
+          "example_ja": "彼は地域の子ども向け活動に力を入れている。",
+          "example_zh": "他很重视面向当地孩子的活动。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "教育に力を入れる",
+          "zh": "重视教育"
+        }
+      ],
+      "usage_note_zh": "惯用表达「〜に力を入れる」表示把精力投入某事，对象用「に」标记；也有字面上施力的用法。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「力を入れる」是含一段动词的固定表达，能作「力を入れている」等活用；内部固定「力を」为宾语，目标事项由「に」标记。",
+        "dictionary_sequences": [
+          1554860
+        ],
+        "identity": {
+          "word": "力を入れる",
+          "reading_hiragana": "ちからをいれる",
+          "meaning": "致力于、着力"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-875ddf31c7105c60",
+      "index": 4640,
+      "word": "きっかけ",
+      "reading_hiragana": "きっかけ",
+      "context_meaning_zh": "契机、促成事情的触发点",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "契机、促成事情的触发点",
+          "meaning_ja": "あることが始まる直接の理由や、変化を起こす出来事。",
+          "example_ja": "友人の一言が、料理を始めるきっかけだった。",
+          "example_zh": "朋友的一句话成了我开始做饭的契机。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "きっかけになる",
+          "zh": "成为契机"
+        }
+      ],
+      "usage_note_zh": "「きっかけ」指直接促使事情开始或发生变化的理由或事件；比「契機」更常用于日常会话。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典名词义与本条“成为自学契机”吻合；「となって」是名词谓语结构，不表示する动词。",
+        "dictionary_sequences": [
+          1591290
+        ],
+        "identity": {
+          "word": "きっかけ",
+          "reading_hiragana": "きっかけ",
+          "meaning": "契机、促成事情的触发点"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-74d1c2db370bb1fc",
+      "index": 4641,
+      "word": "実生活",
+      "reading_hiragana": "じっせいかつ",
+      "context_meaning_zh": "实际生活",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "实际生活",
+          "meaning_ja": "普段の暮らしや、実際に生活している場面。",
+          "example_ja": "実生活で使う言葉を中心に練習した。",
+          "example_zh": "主要练习了实际生活中会用到的词语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "実生活で使う",
+          "zh": "在实际生活中使用"
+        }
+      ],
+      "usage_note_zh": "「実生活」指现实中的日常生活，用来区别理论或想象场景；常接「で／の」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "与头脑中的理念相对，指现实日常生活；语句作实生活中的经验范围。",
+        "dictionary_sequences": [
+          1658730
+        ],
+        "identity": {
+          "word": "実生活",
+          "reading_hiragana": "じっせいかつ",
+          "meaning": "实际生活"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f647727c2d6d506a",
+      "index": 4642,
+      "word": "役立つ",
+      "reading_hiragana": "やくだつ",
+      "context_meaning_zh": "有用、有益；有用、起作用",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "有用、有益；有用、起作用",
+          "meaning_ja": "役に立つ、助けになる。",
+          "example_ja": "地図アプリは、初めての町を歩くときに役立つ。",
+          "example_zh": "地图应用在初次走访一座城市时很有用。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "仕事に役立つ",
+          "zh": "对工作有用"
+        }
+      ],
+      "usage_note_zh": "「〜に役立つ」表示对某用途有帮助，用「に」标出用途；「役立つ」是自动词，「役立てる」是他动词。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "役立つ表示对目的有用，词典标五段自动词；「生活で役立つか」以经验是否有效为判断内容。",
+        "dictionary_sequences": [
+          1538090
+        ],
+        "identity": {
+          "word": "役立つ",
+          "reading_hiragana": "やくだつ",
+          "meaning": "有用、有益；有用、起作用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1f8d001f1017e0b6",
+      "index": 4643,
+      "word": "骨",
+      "reading_hiragana": "こつ",
+      "context_meaning_zh": "窍门、诀窍",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "窍门、诀窍",
+          "meaning_ja": "物事をうまく進めるための方法や要領。",
+          "example_ja": "料理のこつは、火を強くしすぎないことだ。",
+          "example_zh": "做菜的诀窍是不要把火开得太大。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "こつをつかむ",
+          "zh": "掌握诀窍"
+        }
+      ],
+      "usage_note_zh": "此处「骨（こつ）」读作「こつ」，指做好某事的方法或诀窍；为避免与「ほね」（骨头）混淆，通常写作「コツ」或平假名。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「こつ」指简短传达要点的方法诀窍，搭配身につく说明技能逐渐掌握；并非骨骼义。",
+        "dictionary_sequences": [
+          1288540
+        ],
+        "identity": {
+          "word": "骨",
+          "reading_hiragana": "こつ",
+          "meaning": "窍门、诀窍"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-63a0e4ed73caa0d1",
+      "index": 4644,
+      "word": "世紀",
+      "reading_hiragana": "せいき",
+      "context_meaning_zh": "世纪",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "世纪",
+          "meaning_ja": "百年を一つの区切りとした時間の単位。",
+          "example_ja": "この建物は、二十世紀の初めに建てられた。",
+          "example_zh": "这座建筑建于二十世纪初。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二十一世紀",
+          "zh": "二十一世纪"
+        }
+      ],
+      "usage_note_zh": "「世紀」以一百年为单位；第一世纪是公元1年至100年。它不同于大约十年为一组的「年代」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "20世纪工作记录中的世纪指一百年时期，符合JMdict 1373990第一义；讲座来源不自动赋教学体裁。",
+        "dictionary_sequences": [
+          1373990
+        ],
+        "identity": {
+          "word": "世紀",
+          "reading_hiragana": "せいき",
+          "meaning": "世纪"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2936620625717e26",
+      "index": 4645,
+      "word": "年代",
+      "reading_hiragana": "ねんだい",
+      "context_meaning_zh": "年代",
+      "pos_ja": "名詞・時間名詞",
+      "pos_zh": "名词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "年代",
+          "meaning_ja": "ある年を中心にした、幅のある時期。",
+          "example_ja": "この歌は、八十年代に若者の間で流行した。",
+          "example_zh": "这首歌在八十年代曾风靡年轻人。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "八十年代",
+          "zh": "八十年代"
+        }
+      ],
+      "usage_note_zh": "「年代」常将年份按十年左右归为一段；「1980年代」指1980年至1989年。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "1990年代的公司成长阶段是时间年代名词，调查的是员工在该时期如何学习。",
+        "dictionary_sequences": [
+          1468950
+        ],
+        "identity": {
+          "word": "年代",
+          "reading_hiragana": "ねんだい",
+          "meaning": "年代"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-60a8e0125f6ebd6f",
+      "index": 4646,
+      "word": "成長期",
+      "reading_hiragana": "せいちょうき",
+      "context_meaning_zh": "成长期、(经济)发展期",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "成长期、(经济)发展期",
+          "meaning_ja": "人や動物が大きく育つ時期。また、経済などが伸びる時期。",
+          "example_ja": "子どもの成長期には、十分な睡眠が必要だ。",
+          "example_zh": "孩子的成长期需要充足睡眠。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "成長期を迎える",
+          "zh": "迎来成长期"
+        }
+      ],
+      "usage_note_zh": "「成長期」指人或动物身体成长的时期；用于经济时则指经济增长阶段，具体看修饰对象。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指人或动物身体成长较快的时期，也可比喻企业发展阶段；此处特指公司成长阶段。",
+        "dictionary_sequences": [
+          1939990
+        ],
+        "identity": {
+          "word": "成長期",
+          "reading_hiragana": "せいちょうき",
+          "meaning": "成长期、(经济)发展期"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cf46f2f01585152e",
+      "index": 4647,
+      "word": "指導",
+      "reading_hiragana": "しどう",
+      "context_meaning_zh": "领导、指导",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "领导、指导",
+          "meaning_ja": "知識や技能を伝え、相手ができるように助けること。",
+          "example_ja": "先輩が新しい担当者を一週間指導した。",
+          "example_zh": "前辈指导了新负责人一周。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新人を指導する",
+          "zh": "指导新人"
+        }
+      ],
+      "usage_note_zh": "「指導」含有持续、有计划地传授方法并帮助对方做到的意味；可说「人を指導する」「方法を指導する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "在讲师指导下学习确认方法，指教学指导活动；词典兼收名词及他动サ变。",
+        "dictionary_sequences": [
+          1309950
+        ],
+        "identity": {
+          "word": "指導",
+          "reading_hiragana": "しどう",
+          "meaning": "领导、指导"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0d20ed5aee2f3d66",
+      "index": 4648,
+      "word": "もと(下・許)",
+      "reading_hiragana": "もと",
+      "context_meaning_zh": "在……之下、在某人指导下；身边",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "在……之下、在某人指导下；身边",
+          "meaning_ja": "人や物の近く、または影響や保護を受ける範囲。",
+          "example_ja": "彼女は恩師のもとで、研究の基本を学んだ。",
+          "example_zh": "她在恩师的指导下学习了研究基础。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "指導者のもとで",
+          "zh": "在指导者手下"
+        }
+      ],
+      "usage_note_zh": "「先生のもとで」中的「もと」通常写作「下」，表示在某人的指导或影响之下；「許」可表示在某人身边或手边。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "もとの地点或依托名词，例句为在讲师指导下及回到家人身边；当前不能支持动词义。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "もと(下・許)",
+          "reading_hiragana": "もと",
+          "meaning": "在……之下、在某人指导下；身边"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d1f9e7e973093dfa",
+      "index": 4649,
+      "word": "教わる",
+      "reading_hiragana": "おそわる",
+      "context_meaning_zh": "跟...学习、受教",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "跟...学习、受教",
+          "meaning_ja": "人から知識や方法を教えてもらう。",
+          "example_ja": "私は祖母から、魚の焼き方を教わった。",
+          "example_zh": "我从祖母那里学会了烤鱼的方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先生に教わる",
+          "zh": "跟老师学习"
+        }
+      ],
+      "usage_note_zh": "教导者用「に／から」表示。自己传授时说「教える」，接受教导时说「教わる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段る动词，例句说在讲师指导下习得核对方法；词典列他动词，受教对象内容可由を表达，教师通常以に标记。",
+        "dictionary_sequences": [
+          1236940
+        ],
+        "identity": {
+          "word": "教わる",
+          "reading_hiragana": "おそわる",
+          "meaning": "跟...学习、受教"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e913bb6dfb88ba37",
+      "index": 4650,
+      "word": "成績",
+      "reading_hiragana": "せいせき",
+      "context_meaning_zh": "成绩",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "成绩",
+          "meaning_ja": "試験や学習などで、どのくらいできたかを示す結果。",
+          "example_ja": "成績だけでなく、授業への取り組みも評価された。",
+          "example_zh": "不仅成绩，课堂上的投入程度也受到了评价。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "成績が上がる",
+          "zh": "成绩提高"
+        }
+      ],
+      "usage_note_zh": "「成績」指考试分数或学业评价；「成績がよい」表示学习评价较高。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "大学的成績指学业评价及结果，进入社会后的实力对比不改变此名词义。",
+        "dictionary_sequences": [
+          1375760
+        ],
+        "identity": {
+          "word": "成績",
+          "reading_hiragana": "せいせき",
+          "meaning": "成绩"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bd70690b9570bb65",
+      "index": 4651,
+      "word": "繰り返す",
+      "reading_hiragana": "くりかえす",
+      "context_meaning_zh": "反复",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "反复",
+          "meaning_ja": "同じことをもう一度行う。",
+          "example_ja": "大切な予定は、間違えないように声に出して繰り返した。",
+          "example_zh": "为了避免弄错，我把重要安排大声重复了一遍。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "練習を繰り返す",
+          "zh": "反复练习"
+        }
+      ],
+      "usage_note_zh": "「繰り返す」表示多次做同一动作，动作对象用「を」标记，也常与「何度も」连用。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "反复练习的动作以を标对象；词典列自他两用，当前句为带对象的他动用法。",
+        "dictionary_sequences": [
+          1247030
+        ],
+        "identity": {
+          "word": "繰り返す",
+          "reading_hiragana": "くりかえす",
+          "meaning": "反复"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5d3f130b6f8ac5b8",
+      "index": 4652,
+      "word": "真似",
+      "reading_hiragana": "まね",
+      "context_meaning_zh": "仿效、模仿",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "仿效、模仿",
+          "meaning_ja": "他の人の動作や方法と同じようにすること。",
+          "example_ja": "弟は兄の真似をして、同じ帽子を買った。",
+          "example_zh": "弟弟模仿哥哥，也买了同样的帽子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "真似をする",
+          "zh": "模仿"
+        }
+      ],
+      "usage_note_zh": "常说「人の真似をする」「真似をして覚える」；名词「真似」和动词「真似る」表达同一种模仿行为。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“只是模仿还不能制成另一张表”取模仿义；词典对サ变同时标自他，记录两种用法。",
+        "dictionary_sequences": [
+          1363740
+        ],
+        "identity": {
+          "word": "真似",
+          "reading_hiragana": "まね",
+          "meaning": "仿效、模仿"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8aeccdc3ce821f31",
+      "index": 4653,
+      "word": "訳す",
+      "reading_hiragana": "やくす",
+      "context_meaning_zh": "翻译",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "翻译",
+          "meaning_ja": "ある言語で書かれた内容を、別の言語で表す。",
+          "example_ja": "難しい部分だけ、先生に中国語に訳してもらった。",
+          "example_zh": "只有难懂的部分请老师翻译成了中文。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本語に訳す",
+          "zh": "译成日语"
+        }
+      ],
+      "usage_note_zh": "翻译的内容用「を」标记，译成的语言用「に」标记；「訳してもらう」表示请别人翻译。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中「メールも訳す」表示把客户邮件翻译出来，訳す为五段他动词；语言作内容对象。",
+        "dictionary_sequences": [
+          1538350
+        ],
+        "identity": {
+          "word": "訳す",
+          "reading_hiragana": "やくす",
+          "meaning": "翻译"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f6206b7e432f80eb",
+      "index": 4654,
+      "word": "問い",
+      "reading_hiragana": "とい",
+      "context_meaning_zh": "提问;问题",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "提问;问题",
+          "meaning_ja": "答えを求めて尋ねる言葉や内容。",
+          "example_ja": "最後の問いに答える前に、本文を読み直した。",
+          "example_zh": "回答最后一道问题前，我重读了正文。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "問いに答える",
+          "zh": "回答问题"
+        }
+      ],
+      "usage_note_zh": "「問い」是等待回答的问题内容；「質問」更常指向别人提问的行为，常说「問いに答える」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指提出或回答的问题名词；例句主题涉及学习任务，但词项本身没有限定于教育体裁。",
+        "dictionary_sequences": [
+          1535930
+        ],
+        "identity": {
+          "word": "問い",
+          "reading_hiragana": "とい",
+          "meaning": "提问;问题"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b62a803b2811c6f4",
+      "index": 4655,
+      "word": "上達",
+      "reading_hiragana": "じょうたつ",
+      "context_meaning_zh": "进步、长进",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "进步、长进",
+          "meaning_ja": "練習によって、技術や能力が前より高くなること。",
+          "example_ja": "短い文章を毎日書いて、作文が上達した。",
+          "example_zh": "每天写短文，作文水平提高了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "腕が上達する",
+          "zh": "技艺进步"
+        }
+      ],
+      "usage_note_zh": "「上達」指人的技能通过练习变得熟练；「技術が進歩する」则描述技术整体的发展。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "上達指能力进步，可作名词或上達する的自サ动词；比较语句只用名词义。",
+        "dictionary_sequences": [
+          1353850
+        ],
+        "identity": {
+          "word": "上達",
+          "reading_hiragana": "じょうたつ",
+          "meaning": "进步、长进"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3df1d4021c0ce597",
+      "index": 4656,
+      "word": "分野",
+      "reading_hiragana": "ぶんや",
+      "context_meaning_zh": "领域",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "领域",
+          "meaning_ja": "共通する特徴を持つものが集まった範囲。",
+          "example_ja": "この研究分野では、海外の事例も参考になる。",
+          "example_zh": "在这个研究领域，海外案例也有参考价值。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "専門分野",
+          "zh": "专业领域"
+        }
+      ],
+      "usage_note_zh": "「分野」指学问、工作等划分出的领域，表示知识或活动范围，不是“野原”的意思。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "学习不同于以往工作的领域，指知识/活动范围；来源说明也排除自然地野原义。",
+        "dictionary_sequences": [
+          1504330
+        ],
+        "identity": {
+          "word": "分野",
+          "reading_hiragana": "ぶんや",
+          "meaning": "领域"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e398fb63e66b2477",
+      "index": 4657,
+      "word": "フォーム",
+      "reading_hiragana": "フォーム",
+      "context_meaning_zh": "形式、样式；运动等的姿势",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "形式、样式；运动等的姿势",
+          "meaning_ja": "物事を形づくる枠組みや様式。また、運動時の体の姿勢。",
+          "example_ja": "申し込みフォームに、連絡先を入力してください。",
+          "example_zh": "请在报名表中填写联系方式。"
+        },
+        {
+          "meaning_zh": "（运动时的）姿势",
+          "meaning_ja": "スポーツなどをするときの体の動かし方や姿勢。",
+          "example_ja": "コーチは走るフォームを動画で確認した。",
+          "example_zh": "教练通过视频确认了跑步姿势。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "申込フォーム",
+          "zh": "报名表"
+        }
+      ],
+      "usage_note_zh": "「フォーム」既可指表格或页面的格式，也可指运动时的姿势；「ランニングフォーム」指跑步姿势。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「申込書のフォーム」指申请书格式，「走る時のフォーム」指运动姿势；均为form名词，场景不足以限定商务体裁。",
+        "dictionary_sequences": [
+          1110340
+        ],
+        "identity": {
+          "word": "フォーム",
+          "reading_hiragana": "フォーム",
+          "meaning": "形式、样式；运动等的姿势"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-54976cfaa1a70deb",
+      "index": 4658,
+      "word": "大仕事",
+      "reading_hiragana": "おおしごと",
+      "context_meaning_zh": "重要的工作、费事的工作",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "重要的工作、费事的工作",
+          "meaning_ja": "大きな努力や責任が必要な仕事。",
+          "example_ja": "一人で店を開くのは大仕事だ。",
+          "example_zh": "一个人开店是件大工程。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大仕事を終える",
+          "zh": "完成艰巨工作"
+        }
+      ],
+      "usage_note_zh": "「大仕事」指需要较多时间、精力或责任的工作，不单是规模大。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "把公司发展与个人学习结合考虑被描述为大工作，词典big job义及所费心力释义一致。",
+        "dictionary_sequences": [
+          1953510
+        ],
+        "identity": {
+          "word": "大仕事",
+          "reading_hiragana": "おおしごと",
+          "meaning": "重要的工作、费事的工作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-37002f61222259f1",
+      "index": 4659,
+      "word": "卵",
+      "reading_hiragana": "たまご",
+      "context_meaning_zh": "未来的某类人才",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "未来的某类人才",
+          "meaning_ja": "将来、ある仕事や分野で一人前になる見込みの人。",
+          "example_ja": "彼は料理人の卵として、店で修業している。",
+          "example_zh": "他作为未来的厨师，正在店里修业。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "医者の卵",
+          "zh": "未来的医生"
+        }
+      ],
+      "usage_note_zh": "本课读作「たまご」。「料理人の卵」是比喻，指正在成长、将来可能成为料理人的人；单独使用或与「鶏」等搭配时也可指鸟类生下的蛋，具体含义由上下文判断。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「教師の卵」是未来教师或教师新手的比喻，词典收某类人才的卵／萌芽义；非食物义。",
+        "dictionary_sequences": [
+          1549140
+        ],
+        "identity": {
+          "word": "卵",
+          "reading_hiragana": "たまご",
+          "meaning": "未来的某类人才"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f6917d82f956a17f",
+      "index": 4660,
+      "word": "真剣",
+      "reading_hiragana": "しんけん",
+      "context_meaning_zh": "认真地",
+      "pos_ja": "名詞・ナ形容詞",
+      "pos_zh": "名词・な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "认真地",
+          "meaning_ja": "ふざけず、真面目に物事に向き合う様子。",
+          "example_ja": "彼は真剣に進路を考えている。",
+          "example_zh": "他正在认真考虑自己的发展方向。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "真剣に考える",
+          "zh": "认真思考"
+        }
+      ],
+      "usage_note_zh": "作名词时可说「真剣な顔」，修饰动词时用「真剣に考える」；「本気」更直接强调强烈意志。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「真剣に話し合う」取严肃认真义；词典列ナ形容词该义，实剑名词义与当前语境无关。",
+        "dictionary_sequences": [
+          1363650
+        ],
+        "identity": {
+          "word": "真剣",
+          "reading_hiragana": "しんけん",
+          "meaning": "认真地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fb118f1eee60f2c3",
+      "index": 4661,
+      "word": "パワーアップ",
+      "reading_hiragana": "パワーアップ",
+      "context_meaning_zh": "提高能力",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "非正式・口语",
+      "senses": [
+        {
+          "meaning_zh": "提高能力",
+          "meaning_ja": "力や性能を以前より高くすること。",
+          "example_ja": "新しい練習法で、チーム全体の守備力をパワーアップさせた。",
+          "example_zh": "通过新的训练方法，提升了整个团队的防守能力。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "機能をパワーアップする",
+          "zh": "提升功能"
+        }
+      ],
+      "usage_note_zh": "「パワーアップ」是来自英语的口语表达，表示提高性能或能力；正式报告中有时用「強化する」更自然。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "informal",
+        "politeness": [],
+        "usage": [
+          "colloquial"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "词典列名词及サ变，教学通知的标题用法为提升能力；该词既可能力增强也可使能力增强。",
+        "dictionary_sequences": [
+          1103000
+        ],
+        "identity": {
+          "word": "パワーアップ",
+          "reading_hiragana": "パワーアップ",
+          "meaning": "提高能力"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-11942f9ac2518fbe",
+      "index": 4662,
+      "word": "得る",
+      "reading_hiragana": "える",
+      "context_meaning_zh": "得到、到手;获得",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "得到、到手;获得",
+          "meaning_ja": "必要なものを手に入れる。",
+          "example_ja": "駅の窓口で、旅行に必要な情報を得た。",
+          "example_zh": "我在车站服务窗口获得了旅行所需的信息。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "許可を得る",
+          "zh": "获得许可"
+        }
+      ],
+      "usage_note_zh": "此处「得る」读作「える」，表示取得信息、许可、机会等；语气比「もらう」正式。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "从资料中获得信息，符合取得义；信息为获得对象，属一段他动词。",
+        "dictionary_sequences": [
+          1588760
+        ],
+        "identity": {
+          "word": "得る",
+          "reading_hiragana": "える",
+          "meaning": "得到、到手;获得"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9be67170d5d78911",
+      "index": 4663,
+      "word": "写す",
+      "reading_hiragana": "うつす",
+      "context_meaning_zh": "临摹;誊抄",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "临摹;誊抄",
+          "meaning_ja": "見たり聞いたりした内容を、別の場所に書いたり描いたりする。",
+          "example_ja": "住所を間違えないように、紙に写した。",
+          "example_zh": "为了避免弄错地址，我把它抄在纸上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ノートに写す",
+          "zh": "抄到笔记本上"
+        }
+      ],
+      "usage_note_zh": "「写す」可指把文字抄写到别处，也可指拍摄照片；读音都是「うつす」，由宾语和上下文判断。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "为掌握基础而反复誊写书中例子，所写内容是直接宾语；学习活动来自例句，词语本身为通用动词。",
+        "dictionary_sequences": [
+          1588320
+        ],
+        "identity": {
+          "word": "写す",
+          "reading_hiragana": "うつす",
+          "meaning": "临摹;誊抄"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-83f03f79a352ae13",
+      "index": 4664,
+      "word": "めくる",
+      "reading_hiragana": "めくる",
+      "context_meaning_zh": "翻;揭开、掀开",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "翻;揭开、掀开",
+          "meaning_ja": "紙などを一枚ずつ返して、次の面を出す。",
+          "example_ja": "次のページをめくると、地図が載っていた。",
+          "example_zh": "翻到下一页后，上面刊载着地图。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ページをめくる",
+          "zh": "翻页"
+        }
+      ],
+      "usage_note_zh": "「めくる」指翻动纸张或书页；掀起布料或盖子时也可说「めくる／めくり上げる」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段他动词，例句分别翻书页和掀桌布，两个词典义均与当前释义对应。",
+        "dictionary_sequences": [
+          1257810
+        ],
+        "identity": {
+          "word": "めくる",
+          "reading_hiragana": "めくる",
+          "meaning": "翻;揭开、掀开"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d06082b348455bd1",
+      "index": 4665,
+      "word": "活用",
+      "reading_hiragana": "かつよう",
+      "context_meaning_zh": "应用、活用、有效利用",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "应用、活用、有效利用",
+          "meaning_ja": "持っているものを、目的に合わせて役立つように使うこと。",
+          "example_ja": "写真を活用して、町の歴史を紹介した。",
+          "example_zh": "利用照片介绍了城镇的历史。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "経験を活用する",
+          "zh": "运用经验"
+        }
+      ],
+      "usage_note_zh": "常用「〜を活用する」，表示有效利用已有资源；「利用」范围更广，也可只表示使用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本条义为有效利用，例句以熟练者的方法作利用对象；语法上的词形变化是同词另一义，不改变此处する用法的他动配价。",
+        "dictionary_sequences": [
+          1208460
+        ],
+        "identity": {
+          "word": "活用",
+          "reading_hiragana": "かつよう",
+          "meaning": "应用、活用、有效利用"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-db51fd6c9ee0f952",
+      "index": 4666,
+      "word": "充実",
+      "reading_hiragana": "じゅうじつ",
+      "context_meaning_zh": "充实",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "充实",
+          "meaning_ja": "必要なものが十分にそろい、満足できる状態にあること。",
+          "example_ja": "休暇中は、読書と散歩で時間を充実させた。",
+          "example_zh": "休假期间，我通过读书和散步让时间过得充实。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "内容が充実する",
+          "zh": "内容充实"
+        }
+      ],
+      "usage_note_zh": "「生活が充実する」表示生活状态充实；「時間を充実させる」表示通过安排活动让时间更丰富。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句的「させる」是使役形式；基础「充実する」表示内容或状态变得充实，词典列自サ。",
+        "dictionary_sequences": [
+          1334340
+        ],
+        "identity": {
+          "word": "充実",
+          "reading_hiragana": "じゅうじつ",
+          "meaning": "充实"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d86cb3c6e9cf25dc",
+      "index": 4667,
+      "word": "大いに",
+      "reading_hiragana": "おおいに",
+      "context_meaning_zh": "大大地、非常地",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大大地、非常地",
+          "meaning_ja": "程度がとても大きい様子。",
+          "example_ja": "その知らせを聞いて、彼女は大いに安心した。",
+          "example_zh": "听到那个消息后，她大大地松了一口气。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大いに役立つ",
+          "zh": "大有帮助"
+        }
+      ],
+      "usage_note_zh": "「大いに」是加强程度的副词，可修饰「期待する」「役立つ」等动词；不要与形容词「大きい」混淆。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "修饰可供参考这一谓语，表示程度很大；词典副词义吻合。",
+        "dictionary_sequences": [
+          1412880
+        ],
+        "identity": {
+          "word": "大いに",
+          "reading_hiragana": "おおいに",
+          "meaning": "大大地、非常地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9513ef0e02b4b36f",
+      "index": 4668,
+      "word": "吸収",
+      "reading_hiragana": "きゅうしゅう",
+      "context_meaning_zh": "吸收",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "吸收",
+          "meaning_ja": "外から中へ取り入れること。",
+          "example_ja": "この布は汗をよく吸収する。",
+          "example_zh": "这种布很吸汗。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "水分を吸収する",
+          "zh": "吸收水分"
+        }
+      ],
+      "usage_note_zh": "「吸収」可指吸收液体、光或知识，也可指组织吸纳人员；具体意思由对象决定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "吸收新知识并尝试运用表示把外部知识纳入自身；辞典列サ变他动词，例句知识为受事。",
+        "dictionary_sequences": [
+          1228330
+        ],
+        "identity": {
+          "word": "吸収",
+          "reading_hiragana": "きゅうしゅう",
+          "meaning": "吸收"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c4d27666fde05659",
+      "index": 4669,
+      "word": "高める",
+      "reading_hiragana": "たかめる",
+      "context_meaning_zh": "提高",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "提高",
+          "meaning_ja": "高さや程度をより高くする。",
+          "example_ja": "先生の説明は、学生の環境問題への関心を高めた。",
+          "example_zh": "老师的说明提高了学生对环境问题的关注。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "意識を高める",
+          "zh": "提高意识"
+        }
+      ],
+      "usage_note_zh": "「高める」表示提高能力、质量、意识等，宾语用「を」标记；自动词「高まる」表示程度自然上升。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "词典将其标为一段他动词；例句提升文章质量，受事由助词を标出，与对应自动词区分。",
+        "dictionary_sequences": [
+          1283240
+        ],
+        "identity": {
+          "word": "高める",
+          "reading_hiragana": "たかめる",
+          "meaning": "提高"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5454a6c31511a2cd",
+      "index": 4670,
+      "word": "活かす",
+      "reading_hiragana": "いかす",
+      "context_meaning_zh": "搞活、发挥特点",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "搞活、发挥特点",
+          "meaning_ja": "持っているよさを生かし、役に立つように使う。",
+          "example_ja": "古い建物の特徴を活かして、図書館に改装した。",
+          "example_zh": "发挥老建筑的特色，将其改建成了图书馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "経験を活かす",
+          "zh": "发挥经验"
+        }
+      ],
+      "usage_note_zh": "「活かす」表示有效运用能力、经验或特点；此义也常写作「生かす」，两种写法读音相同。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "五段す他动词，句中「自分の失敗も活かす」把失败经验作为发挥利用的对象；所给词典另一校对恢复义不适用于本例。",
+        "dictionary_sequences": [
+          1587070
+        ],
+        "identity": {
+          "word": "活かす",
+          "reading_hiragana": "いかす",
+          "meaning": "搞活、发挥特点"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e486cf8f0a061b78",
+      "index": 4671,
+      "word": "聞き落とす",
+      "reading_hiragana": "ききおとす",
+      "context_meaning_zh": "听漏、忘问",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "听漏、忘问",
+          "meaning_ja": "聞くべき言葉をうっかり聞かずに終わる。",
+          "example_ja": "駅の放送を聞き落として、降りる駅を過ぎた。",
+          "example_zh": "我漏听了车站广播，坐过了下车站。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "説明を聞き落とす",
+          "zh": "漏听说明"
+        }
+      ],
+      "usage_note_zh": "通常指没听到对方已经说出的内容；在采访等场景中也可指漏问了本应询问的事项，之后再补问。后一用法也可说「聞き忘れる」，不能把所有「聞き落とす」都译成“忘问”。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "五段他动复合动词，表示没听到而漏掉；客人的说明是遗漏的信息。",
+        "dictionary_sequences": [
+          1851170
+        ],
+        "identity": {
+          "word": "聞き落とす",
+          "reading_hiragana": "ききおとす",
+          "meaning": "听漏、忘问"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-73ccf726cb343fbe",
+      "index": 4672,
+      "word": "素人",
+      "reading_hiragana": "しろうと",
+      "context_meaning_zh": "外行、业余爱好者",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "外行、业余爱好者",
+          "meaning_ja": "ある分野の知識や経験が十分でない人。",
+          "example_ja": "素人の私にも、先生の説明は分かりやすかった。",
+          "example_zh": "即使是外行的我，也能听懂老师的说明。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "素人考え",
+          "zh": "外行的想法"
+        }
+      ],
+      "usage_note_zh": "「素人」指非专业人士，也可说「素人目には」。而「初心者」指刚开始学习的人，不一定是该领域的外行。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "自述起初是素人，采用业余或非专业者义，不涉及词典旧式特殊义。",
+        "dictionary_sequences": [
+          1397270
+        ],
+        "identity": {
+          "word": "素人",
+          "reading_hiragana": "しろうと",
+          "meaning": "外行、业余爱好者"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-007d5bbc54ef5aa0",
+      "index": 4673,
+      "word": "黙々と",
+      "reading_hiragana": "もくもくと",
+      "context_meaning_zh": "不声不响、默默",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不声不响、默默",
+          "meaning_ja": "話したり目立ったりせず、静かに作業を続ける様子。",
+          "example_ja": "彼は朝から黙々と資料を整理している。",
+          "example_zh": "他从早上起就默默地整理资料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "黙々と働く",
+          "zh": "默默工作"
+        }
+      ],
+      "usage_note_zh": "「黙々と」主要修饰动作，表示专注、安静地持续做事，不一定含有不满或孤独的意思。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "黙々と修饰持续练习，表示不出声而专注做事；此用法是通用副词，不限口语媒介。",
+        "dictionary_sequences": [],
+        "identity": {
+          "word": "黙々と",
+          "reading_hiragana": "もくもくと",
+          "meaning": "不声不响、默默"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4f9a0520df53ea1b",
+      "index": 4674,
+      "word": "追求",
+      "reading_hiragana": "ついきゅう",
+      "context_meaning_zh": "追求",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "追求",
+          "meaning_ja": "大切だと思うものを手に入れようと、強く求め続けること。",
+          "example_ja": "彼女は長年、理想の音を追求している。",
+          "example_zh": "她多年来一直在追求理想的声音。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "真理を追求する",
+          "zh": "追求真理"
+        }
+      ],
+      "usage_note_zh": "「追求」表示持续努力获得理想、真理或利益；「追究」则指深入调查原因或真相，注意汉字区别。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句以速度为追求对象；JMdict列“追求”名词和及物サ变的目标追求义。",
+        "dictionary_sequences": [
+          1432490
+        ],
+        "identity": {
+          "word": "追求",
+          "reading_hiragana": "ついきゅう",
+          "meaning": "追求"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-24f66ac92eea4631",
+      "index": 4675,
+      "word": "伴う",
+      "reading_hiragana": "ともなう",
+      "context_meaning_zh": "随着;偕同",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "随着;偕同",
+          "meaning_ja": "あることと一緒に別のことが起きる。また、人が誰かと一緒に行く。",
+          "example_ja": "新しい制度の導入には、説明会の開催が伴う。",
+          "example_zh": "引入新制度的同时，也会举办说明会。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "変化に伴う負担",
+          "zh": "随变化而来的负担"
+        }
+      ],
+      "usage_note_zh": "「変化に伴う負担」中的「に伴う＋名词」表示随某事发生的关联事项；表示带某人同行时说「友人を伴う／友人を伴って」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "五段动词；变化に伴う及责任が伴う为伴随义，案内係は見学者を伴って是带同行的他动用法，故保留自他。",
+        "dictionary_sequences": [
+          1478370
+        ],
+        "identity": {
+          "word": "伴う",
+          "reading_hiragana": "ともなう",
+          "meaning": "随着;偕同"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-de664f2356e21006",
+      "index": 4676,
+      "word": "訓練",
+      "reading_hiragana": "くんれん",
+      "context_meaning_zh": "训练",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "训练",
+          "meaning_ja": "技術や体力を高めるため、計画的に練習すること。",
+          "example_ja": "災害に備えて、地域で避難訓練を行った。",
+          "example_zh": "为应对灾害，当地开展了避难训练。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "訓練を受ける",
+          "zh": "接受训练"
+        }
+      ],
+      "usage_note_zh": "「訓練」指为提高技能或体力而进行的有计划训练；「練習」也可广泛指反复练习单项技能。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "训练名词兼サ变他动词；本句以训练为阅读练习的手段，词典标vt，结构中未呈现具体被训练者。",
+        "dictionary_sequences": [
+          1247470
+        ],
+        "identity": {
+          "word": "訓練",
+          "reading_hiragana": "くんれん",
+          "meaning": "训练"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f8d41ff844bd3152",
+      "index": 4677,
+      "word": "才能",
+      "reading_hiragana": "さいのう",
+      "context_meaning_zh": "才能",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "才能",
+          "meaning_ja": "物事を上手に成し遂げるための、生まれ持った力。",
+          "example_ja": "彼女には、複雑な話を分かりやすく説明する才能がある。",
+          "example_zh": "她有把复杂内容解释得通俗易懂的才能。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "才能を伸ばす",
+          "zh": "发展才能"
+        }
+      ],
+      "usage_note_zh": "「才能」常指天生具备的能力，也可作为通过努力进一步发展的对象；「実力」指实际能发挥出来的能力。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "才能表示人的天赋或能力，例句以有才能的人作为模仿对象；词典释义对应名词。",
+        "dictionary_sequences": [
+          1294630
+        ],
+        "identity": {
+          "word": "才能",
+          "reading_hiragana": "さいのう",
+          "meaning": "才能"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-87cc5867d1cb254b",
+      "index": 4678,
+      "word": "使い慣れる",
+      "reading_hiragana": "つかいなれる",
+      "context_meaning_zh": "用惯、用熟",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "用惯、用熟",
+          "meaning_ja": "何度も使って、その道具や仕組みに慣れる。",
+          "example_ja": "彼は新しい会計ソフトをすぐに使い慣れた。",
+          "example_zh": "他很快就用惯了新的会计软件。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "道具を使い慣れる",
+          "zh": "用惯工具"
+        }
+      ],
+      "usage_note_zh": "通常说「道具を使い慣れる」，表示反复使用后操作变得熟练。不要与「使いこなす」（熟练运用、充分发挥功能）混淆。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "使い慣れる表示逐渐熟悉某工具的使用；例句描述熟悉程度增加，词典释义为get accustomed to using。",
+        "dictionary_sequences": [
+          1305780
+        ],
+        "identity": {
+          "word": "使い慣れる",
+          "reading_hiragana": "つかいなれる",
+          "meaning": "用惯、用熟"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-62aa9e1297db36d3",
+      "index": 4679,
+      "word": "振るう",
+      "reading_hiragana": "ふるう",
+      "context_meaning_zh": "发挥;振奋",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "发挥;振奋",
+          "meaning_ja": "勢いよく動かす。また、腕前を十分に発揮する。",
+          "example_ja": "経験豊かな料理人が、祭りの屋台で腕を振るった。",
+          "example_zh": "经验丰富的厨师在祭典摊位上大显身手。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "腕を振るう",
+          "zh": "大显身手"
+        }
+      ],
+      "usage_note_zh": "「腕を振るう」是发挥本领的固定表达。「勇気を奮う」表示鼓起勇气，通常写作「奮う」，不要与本词的常用义混为一谈。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本条例句显示「腕を振るう」的他动用法；「勇気を奮って」换用了不同汉字的同音词，不作为本词证据。词典另列繁盛义但标注自他有出入，需核对自动用法。",
+        "dictionary_sequences": [
+          2037010
+        ],
+        "identity": {
+          "word": "振るう",
+          "reading_hiragana": "ふるう",
+          "meaning": "发挥;振奋"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b44bd92f8de6c399",
+      "index": 4680,
+      "word": "真似る",
+      "reading_hiragana": "まねる",
+      "context_meaning_zh": "模仿、仿效",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "模仿、仿效",
+          "meaning_ja": "あるものを手本にして、同じようにする。",
+          "example_ja": "弟は父の話し方を真似るようになった。",
+          "example_zh": "弟弟开始模仿父亲说话的方式。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "動作を真似る",
+          "zh": "模仿动作"
+        }
+      ],
+      "usage_note_zh": "「真似る」是一段他动词，也可说「真似をする」；模仿的对象用「を」标记。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "ichidan"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "真似る是一段他动词，模仿的前辈文章是被学习的对象；课程说明了真似をする的同义表达。",
+        "dictionary_sequences": [
+          1363760
+        ],
+        "identity": {
+          "word": "真似る",
+          "reading_hiragana": "まねる",
+          "meaning": "模仿、仿效"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-334f3b6b732f6b5a",
+      "index": 4681,
+      "word": "賢い",
+      "reading_hiragana": "かしこい",
+      "context_meaning_zh": "聪明",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "聪明",
+          "meaning_ja": "頭の働きがよく、適切に考えたり判断したりできる様子。",
+          "example_ja": "賢い選び方をすれば、無駄な出費を減らせる。",
+          "example_zh": "如果选择明智，就能减少不必要的开支。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "賢い判断",
+          "zh": "明智的判断"
+        }
+      ],
+      "usage_note_zh": "「賢い」既可形容人的头脑聪明，也可形容选择、方法恰当而不浪费；连用形是「賢く」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "賢く活用为い形容词连用形，形容运用方式明智有效，兼有聪明义。",
+        "dictionary_sequences": [
+          1260260
+        ],
+        "identity": {
+          "word": "賢い",
+          "reading_hiragana": "かしこい",
+          "meaning": "聪明"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b4371d8669605d05",
+      "index": 4682,
+      "word": "大活躍",
+      "reading_hiragana": "だいかつやく",
+      "context_meaning_zh": "非常活跃、大显身手",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "非常活跃、大显身手",
+          "meaning_ja": "人や物が、力を十分に出して目立った働きをすること。",
+          "example_ja": "若い研究者が国際会議で大活躍した。",
+          "example_zh": "年轻研究人员在国际会议上大放异彩。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大活躍する",
+          "zh": "大显身手"
+        }
+      ],
+      "usage_note_zh": "「大活躍」是「活躍」的强调说法，可形容人、团队或工具发挥突出作用。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "大活躍指积极行动并表现突出，培训讲师只是本句中的活动场景，不让该表达限定为教育体裁。",
+        "dictionary_sequences": [
+          2747810
+        ],
+        "identity": {
+          "word": "大活躍",
+          "reading_hiragana": "だいかつやく",
+          "meaning": "非常活跃、大显身手"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-89d707e947785c85",
+      "index": 4683,
+      "word": "積極的",
+      "reading_hiragana": "せっきょくてき",
+      "context_meaning_zh": "积极地",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "积极地",
+          "meaning_ja": "自分から進んで物事を行う様子。",
+          "example_ja": "彼女は積極的に質問し、分からない点をその場で確かめた。",
+          "example_zh": "她积极提问，当场确认了不懂的地方。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "積極的に参加する",
+          "zh": "积极参加"
+        }
+      ],
+      "usage_note_zh": "修饰名词时用「積極的な」，修饰动词时用「積極的に」。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "積極的に質問する由な形容词词干加に作副词性修饰；积极主动地提问并非必须另列副词词类。",
+        "dictionary_sequences": [
+          1383030
+        ],
+        "identity": {
+          "word": "積極的",
+          "reading_hiragana": "せっきょくてき",
+          "meaning": "积极地"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4e56573ae6662549",
+      "index": 4684,
+      "word": "話し合う",
+      "reading_hiragana": "はなしあう",
+      "context_meaning_zh": "交谈",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "交谈",
+          "meaning_ja": "二人以上が互いに意見を出して、相談する。",
+          "example_ja": "次の休みの計画を、家族で話し合った。",
+          "example_zh": "一家人商量了下次休假的计划。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "条件を話し合う",
+          "zh": "商谈条件"
+        }
+      ],
+      "usage_note_zh": "相互交换意见时通常由两人以上参与；讨论的主题用「を」标记，如「条件を話し合う」，参与者可用「と／で」表示，如「家族で話し合う」。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "both",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "話し合う为五段う动词；本例「先輩と」标交谈伙伴而非直接宾语，体现互相讨论框架，词典又列vt且该词可带「問題を」作议题，故保留自他两种用法。",
+        "dictionary_sequences": [
+          1562310
+        ],
+        "identity": {
+          "word": "話し合う",
+          "reading_hiragana": "はなしあう",
+          "meaning": "交谈"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-c1d30390ae06df8c",
+      "index": 4685,
+      "word": "独学",
+      "reading_hiragana": "どくがく",
+      "context_meaning_zh": "自学",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "自学",
+          "meaning_ja": "先生などにつかず、自分で本や資料を使って学ぶこと。",
+          "example_ja": "彼は独学で写真の編集を学んだ。",
+          "example_zh": "他自学了照片编辑。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "独学で学ぶ",
+          "zh": "自学"
+        }
+      ],
+      "usage_note_zh": "「独学」指不参加由他人授课的课程、自己学习；常用「独学で身につける」中的「で」表示学习方式。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "独学指自我教育/自学，可作独学する；例句为独自学习表格制作，辞典标vt，课程学习语境支持educational。",
+        "dictionary_sequences": [
+          1455720
+        ],
+        "identity": {
+          "word": "独学",
+          "reading_hiragana": "どくがく",
+          "meaning": "自学"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0961f2dc726492c4",
+      "index": 4686,
+      "word": "身につく",
+      "reading_hiragana": "みにつく",
+      "context_meaning_zh": "(把知识等)掌握、学到",
+      "pos_ja": "動詞・表現・定型表現",
+      "pos_zh": "动词・表达・固定表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "(把知识等)掌握、学到",
+          "meaning_ja": "知識や技術が、学習や経験によって自分のものになる。",
+          "example_ja": "毎日使っているうちに、敬語が自然に身についた。",
+          "example_zh": "每天使用的过程中，自然而然地掌握了敬语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "知識が身につく",
+          "zh": "掌握知识"
+        }
+      ],
+      "usage_note_zh": "「身につく」表示知识或技能经过学习、经验后被掌握，通常用「が」标出掌握的内容。他动词「身につける」可表示主动掌握，也可表示穿戴。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb",
+          "expression"
+        ],
+        "subtypes": [
+          "fixed_expression"
+        ],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "phrase"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "身につく是固定复合表达，表示技能或习惯成为自身掌握的能力；词典标五段用法。",
+        "dictionary_sequences": [
+          2034480
+        ],
+        "identity": {
+          "word": "身につく",
+          "reading_hiragana": "みにつく",
+          "meaning": "(把知识等)掌握、学到"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-d54b47312e53b470",
+      "index": 4687,
+      "word": "基礎",
+      "reading_hiragana": "きそ",
+      "context_meaning_zh": "基础",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "基础",
+          "meaning_ja": "建物を支える土台。また、学問や技術の出発点となる知識。",
+          "example_ja": "数学の基礎を復習してから、応用問題に進んだ。",
+          "example_zh": "复习数学基础后，开始做应用题。"
+        },
+        {
+          "meaning_zh": "（建筑物的）地基",
+          "meaning_ja": "建物を下から支える土台。",
+          "example_ja": "古い家は基礎が深く、地震にも強い。",
+          "example_zh": "老房子的地基很深，也耐地震。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "基礎を身につける",
+          "zh": "掌握基础"
+        }
+      ],
+      "usage_note_zh": "「基礎」可指建筑物底下支撑整体的地基，也可指学问或技能的基础知识；由对象判断具体含义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "基礎を身につける指掌握基础知识，符合basis名词义；学习活动背景不使词本身成为educational体裁。",
+        "dictionary_sequences": [
+          1219060
+        ],
+        "identity": {
+          "word": "基礎",
+          "reading_hiragana": "きそ",
+          "meaning": "基础"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8180cf4c36dc09e9",
+      "index": 4688,
+      "word": "以降",
+      "reading_hiragana": "いこう",
+      "context_meaning_zh": "以后、自那以后",
+      "pos_ja": "名詞・副詞・時間名詞",
+      "pos_zh": "名词・副词・时间名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "以后、自那以后",
+          "meaning_ja": "ある時点を含めて、それより後の期間。",
+          "example_ja": "この規則は来月以降、すべての支店で適用される。",
+          "example_zh": "这项规定从下个月起适用于所有分店。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "来月以降",
+          "zh": "下个月起"
+        }
+      ],
+      "usage_note_zh": "「4月以降」包含4月这个起点，表示从4月开始及之后。「4月後」有时会被理解成4月结束以后；要明确包含起点时用「以降」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "adverb"
+        ],
+        "subtypes": [
+          "temporal_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「2026年4月以降」表示包含起点的此后时段；词典兼列名词与副词，本条为接续时间名词。",
+        "dictionary_sequences": [
+          1155110
+        ],
+        "identity": {
+          "word": "以降",
+          "reading_hiragana": "いこう",
+          "meaning": "以后、自那以后"
+        }
+      }
+    }
+  ]
+}

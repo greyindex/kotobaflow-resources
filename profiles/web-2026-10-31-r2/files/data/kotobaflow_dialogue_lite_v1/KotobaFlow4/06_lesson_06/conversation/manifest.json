@@ -1,0 +1,879 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 195.928,
+ "listening_review": "pending",
+ "source_chapter": 62,
+ "turns": [
+  {
+   "turn_id": "C62-D001",
+   "turn_index": 0,
+   "speaker": "石田",
+   "source_text": "昨日、ハサンさんから話を聞いて、会社の規程を確かめました。今日は、動画の講座の費用についてですね。",
+   "sentence_ids": [
+    "C62-D001-S01",
+    "C62-D001-S02"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 7.625,
+   "duration_sec": 7.625
+  },
+  {
+   "turn_id": "C62-D002",
+   "turn_index": 1,
+   "speaker": "ハサン",
+   "source_text": "はい。月６０００円の利用料を会社が払えるか伺いたいんです。案内には受講料ではなく利用料と書いてあります。",
+   "sentence_ids": [
+    "C62-D002-S01",
+    "C62-D002-S02",
+    "C62-D002-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.975,
+   "end_sec": 17.635,
+   "duration_sec": 9.66
+  },
+  {
+   "turn_id": "C62-D003",
+   "turn_index": 2,
+   "speaker": "石田",
+   "source_text": "根拠は規程の第３条です。対象は受講料と教材費です。案内の名称は利用料ですが、内容が決まった講座への支払いなので、第３条に基づいて、月の利用料も対象だと判断しました。",
+   "sentence_ids": [
+    "C62-D003-S01",
+    "C62-D003-S02",
+    "C62-D003-S03"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 17.985,
+   "end_sec": 31.807,
+   "duration_sec": 13.822
+  },
+  {
+   "turn_id": "C62-D004",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "では、質問料も対象ですか。質問は１回５００円で、月の利用料とは別です。講座を理解するために必要な場合もあります。",
+   "sentence_ids": [
+    "C62-D004-S01",
+    "C62-D004-S02",
+    "C62-D004-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 32.157,
+   "end_sec": 43.11,
+   "duration_sec": 10.953
+  },
+  {
+   "turn_id": "C62-D005",
+   "turn_index": 4,
+   "speaker": "石田",
+   "source_text": "必要性は分かります。ただ、会社では、払う費用は先に決めることにしています。回数で変わる質問料を会社が払うことはできません。",
+   "sentence_ids": [
+    "C62-D005-S01",
+    "C62-D005-S02",
+    "C62-D005-S03"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 43.46,
+   "end_sec": 52.776,
+   "duration_sec": 9.316
+  },
+  {
+   "turn_id": "C62-D006",
+   "turn_index": 5,
+   "speaker": "林梅",
+   "source_text": "分かりました。もう一つ、人数が８人に増えたので、上限の１６０００円を少し上げていただけませんか。",
+   "sentence_ids": [
+    "C62-D006-S01",
+    "C62-D006-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 53.126,
+   "end_sec": 61.578,
+   "duration_sec": 8.452
+  },
+  {
+   "turn_id": "C62-D007",
+   "turn_index": 6,
+   "speaker": "石田",
+   "source_text": "申し訳ありませんが、変更はできません。２０２７年３月までの予算はもう配分してあります。この上限は皆さんに限らず、ほかの部署にも同じように適用します。",
+   "sentence_ids": [
+    "C62-D007-S01",
+    "C62-D007-S02",
+    "C62-D007-S03"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 61.928,
+   "end_sec": 72.947,
+   "duration_sec": 11.019
+  },
+  {
+   "turn_id": "C62-D008",
+   "turn_index": 7,
+   "speaker": "ハサン",
+   "source_text": "人数が増えるにつれて、一人分は少なくなりますね。林さん、最初の月は無料ではありませんか。それなら３か月でも１２０００円ですよね。",
+   "sentence_ids": [
+    "C62-D008-S01",
+    "C62-D008-S02",
+    "C62-D008-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 73.297,
+   "end_sec": 83.294,
+   "duration_sec": 9.997
+  },
+  {
+   "turn_id": "C62-D009",
+   "turn_index": 8,
+   "speaker": "林梅",
+   "source_text": "その条件を確かめました。「初回利用」というのは、同じ会社で一度も使っていないことです。人事部が２０２４年４月から２０２５年３月までの期間に使っていたので、私たちは対象外なんです。",
+   "sentence_ids": [
+    "C62-D009-S01",
+    "C62-D009-S02",
+    "C62-D009-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 83.644,
+   "end_sec": 99.871,
+   "duration_sec": 16.227
+  },
+  {
+   "turn_id": "C62-D010",
+   "turn_index": 9,
+   "speaker": "ハサン",
+   "source_text": "部署が違っても対象外なんですね。では１月からなら１８０００円。２月から３月までの２か月なら１２０００円で、上限を超えません。",
+   "sentence_ids": [
+    "C62-D010-S01",
+    "C62-D010-S02",
+    "C62-D010-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 100.221,
+   "end_sec": 111.853,
+   "duration_sec": 11.632
+  },
+  {
+   "turn_id": "C62-D011",
+   "turn_index": 10,
+   "speaker": "林梅",
+   "source_text": "ええ。この案を選び、会社の予算だけで払うなら、開始を延期せざるを得ません。ただ、全員が同じ方法で勉強できるので便利です。",
+   "sentence_ids": [
+    "C62-D011-S01",
+    "C62-D011-S02",
+    "C62-D011-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 112.203,
+   "end_sec": 122.943,
+   "duration_sec": 10.74
+  },
+  {
+   "turn_id": "C62-D012",
+   "turn_index": 11,
+   "speaker": "石田",
+   "source_text": "会社が払えるのは３月３１日までの利用分です。４月からの分は２０２７年４月からの予算で考えます。会社の名前が書かれた請求書も必要です。",
+   "sentence_ids": [
+    "C62-D012-S01",
+    "C62-D012-S02",
+    "C62-D012-S03"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 123.293,
+   "end_sec": 134.386,
+   "duration_sec": 11.093
+  },
+  {
+   "turn_id": "C62-D013",
+   "turn_index": 12,
+   "speaker": "林梅",
+   "source_text": "分かりました。４月に料金が変わる予定ですが、３月までの利用には影響しません。公民館なら、６人の受講料と２人の教材で１００００円です。これも払えますか。",
+   "sentence_ids": [
+    "C62-D013-S01",
+    "C62-D013-S02",
+    "C62-D013-S03",
+    "C62-D013-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 134.736,
+   "end_sec": 147.856,
+   "duration_sec": 13.12
+  },
+  {
+   "turn_id": "C62-D014",
+   "turn_index": 13,
+   "speaker": "石田",
+   "source_text": "はい、受講料と教材費なので対象です。ただ、方法を選ぶのは皆さんです。総務の責任は、規程に従って払えるか確認することです。",
+   "sentence_ids": [
+    "C62-D014-S01",
+    "C62-D014-S02",
+    "C62-D014-S03"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 148.206,
+   "end_sec": 158.779,
+   "duration_sec": 10.573
+  },
+  {
+   "turn_id": "C62-D015",
+   "turn_index": 14,
+   "speaker": "ハサン",
+   "source_text": "公民館なら直接質問できますね。でも、２人は参加できません。案１のほうが安いですが、費用だけで決めてはいけませんね。全員が続けられるか、二つの案をもう一度比べましょう。",
+   "sentence_ids": [
+    "C62-D015-S01",
+    "C62-D015-S02",
+    "C62-D015-S03",
+    "C62-D015-S04"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 159.129,
+   "end_sec": 173.99,
+   "duration_sec": 14.861
+  },
+  {
+   "turn_id": "C62-D016",
+   "turn_index": 15,
+   "speaker": "林梅",
+   "source_text": "今日の回答をもとに資料を作り、１４日に全員で決めます。公民館を取り消す期限は１５日なので、決まったらすぐ連絡します。",
+   "sentence_ids": [
+    "C62-D016-S01",
+    "C62-D016-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 174.34,
+   "end_sec": 183.734,
+   "duration_sec": 9.394
+  },
+  {
+   "turn_id": "C62-D017",
+   "turn_index": 16,
+   "speaker": "石田",
+   "source_text": "決まったら、費用を申し込む書類を出してください。学習の窓を選ぶ場合は、利用を申し込む前にお願いします。２月から使うなら、１月中に利用を申し込んでください。",
+   "sentence_ids": [
+    "C62-D017-S01",
+    "C62-D017-S02",
+    "C62-D017-S03"
+   ],
+   "voice_id": "ja-jp-advisor-2",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 184.084,
+   "end_sec": 195.922,
+   "duration_sec": 11.838
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C62-D001-S01",
+   "unit_id": "C62-D001",
+   "section": "D",
+   "speaker": "石田",
+   "text": "昨日、ハサンさんから話を聞いて、会社の規程を確かめました。",
+   "start_sec": 0.0,
+   "end_sec": 4.241,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D001-S02",
+   "unit_id": "C62-D001",
+   "section": "D",
+   "speaker": "石田",
+   "text": "今日は、動画の講座の費用についてですね。",
+   "start_sec": 4.391,
+   "end_sec": 7.625,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D002-S01",
+   "unit_id": "C62-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "はい。",
+   "start_sec": 7.975,
+   "end_sec": 8.383,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D002-S02",
+   "unit_id": "C62-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "月６０００円の利用料を会社が払えるか伺いたいんです。",
+   "start_sec": 8.533,
+   "end_sec": 13.383,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D002-S03",
+   "unit_id": "C62-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "案内には受講料ではなく利用料と書いてあります。",
+   "start_sec": 13.533,
+   "end_sec": 17.635,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D003-S01",
+   "unit_id": "C62-D003",
+   "section": "D",
+   "speaker": "石田",
+   "text": "根拠は規程の第３条です。",
+   "start_sec": 17.985,
+   "end_sec": 20.471,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D003-S02",
+   "unit_id": "C62-D003",
+   "section": "D",
+   "speaker": "石田",
+   "text": "対象は受講料と教材費です。",
+   "start_sec": 20.621,
+   "end_sec": 23.13,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D003-S03",
+   "unit_id": "C62-D003",
+   "section": "D",
+   "speaker": "石田",
+   "text": "案内の名称は利用料ですが、内容が決まった講座への支払いなので、第３条に基づいて、月の利用料も対象だと判断しました。",
+   "start_sec": 23.28,
+   "end_sec": 31.807,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D004-S01",
+   "unit_id": "C62-D004",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "では、質問料も対象ですか。",
+   "start_sec": 32.157,
+   "end_sec": 35.272,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D004-S02",
+   "unit_id": "C62-D004",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "質問は１回５００円で、月の利用料とは別です。",
+   "start_sec": 35.422,
+   "end_sec": 39.807,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D004-S03",
+   "unit_id": "C62-D004",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "講座を理解するために必要な場合もあります。",
+   "start_sec": 39.957,
+   "end_sec": 43.11,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D005-S01",
+   "unit_id": "C62-D005",
+   "section": "D",
+   "speaker": "石田",
+   "text": "必要性は分かります。",
+   "start_sec": 43.46,
+   "end_sec": 45.254,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D005-S02",
+   "unit_id": "C62-D005",
+   "section": "D",
+   "speaker": "石田",
+   "text": "ただ、会社では、払う費用は先に決めることにしています。",
+   "start_sec": 45.404,
+   "end_sec": 49.194,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D005-S03",
+   "unit_id": "C62-D005",
+   "section": "D",
+   "speaker": "石田",
+   "text": "回数で変わる質問料を会社が払うことはできません。",
+   "start_sec": 49.344,
+   "end_sec": 52.776,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D006-S01",
+   "unit_id": "C62-D006",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "分かりました。",
+   "start_sec": 53.126,
+   "end_sec": 54.302,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D006-S02",
+   "unit_id": "C62-D006",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "もう一つ、人数が８人に増えたので、上限の１６０００円を少し上げていただけませんか。",
+   "start_sec": 54.452,
+   "end_sec": 61.578,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D007-S01",
+   "unit_id": "C62-D007",
+   "section": "D",
+   "speaker": "石田",
+   "text": "申し訳ありませんが、変更はできません。",
+   "start_sec": 61.928,
+   "end_sec": 64.748,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D007-S02",
+   "unit_id": "C62-D007",
+   "section": "D",
+   "speaker": "石田",
+   "text": "２０２７年３月までの予算はもう配分してあります。",
+   "start_sec": 64.898,
+   "end_sec": 68.658,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D007-S03",
+   "unit_id": "C62-D007",
+   "section": "D",
+   "speaker": "石田",
+   "text": "この上限は皆さんに限らず、ほかの部署にも同じように適用します。",
+   "start_sec": 68.808,
+   "end_sec": 72.947,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D008-S01",
+   "unit_id": "C62-D008",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "人数が増えるにつれて、一人分は少なくなりますね。",
+   "start_sec": 73.297,
+   "end_sec": 76.219,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D008-S02",
+   "unit_id": "C62-D008",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "林さん、最初の月は無料ではありませんか。",
+   "start_sec": 76.369,
+   "end_sec": 79.532,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D008-S03",
+   "unit_id": "C62-D008",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "それなら３か月でも１２０００円ですよね。",
+   "start_sec": 79.682,
+   "end_sec": 83.294,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D009-S01",
+   "unit_id": "C62-D009",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "その条件を確かめました。",
+   "start_sec": 83.644,
+   "end_sec": 85.713,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D009-S02",
+   "unit_id": "C62-D009",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「初回利用」というのは、同じ会社で一度も使っていないことです。",
+   "start_sec": 85.863,
+   "end_sec": 91.106,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D009-S03",
+   "unit_id": "C62-D009",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "人事部が２０２４年４月から２０２５年３月までの期間に使っていたので、私たちは対象外なんです。",
+   "start_sec": 91.256,
+   "end_sec": 99.871,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D010-S01",
+   "unit_id": "C62-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "部署が違っても対象外なんですね。",
+   "start_sec": 100.221,
+   "end_sec": 103.059,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D010-S02",
+   "unit_id": "C62-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "では１月からなら１８０００円。",
+   "start_sec": 103.209,
+   "end_sec": 106.962,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D010-S03",
+   "unit_id": "C62-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "２月から３月までの２か月なら１２０００円で、上限を超えません。",
+   "start_sec": 107.112,
+   "end_sec": 111.853,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D011-S01",
+   "unit_id": "C62-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "ええ。",
+   "start_sec": 112.203,
+   "end_sec": 113.142,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D011-S02",
+   "unit_id": "C62-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "この案を選び、会社の予算だけで払うなら、開始を延期せざるを得ません。",
+   "start_sec": 113.292,
+   "end_sec": 118.993,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D011-S03",
+   "unit_id": "C62-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "ただ、全員が同じ方法で勉強できるので便利です。",
+   "start_sec": 119.143,
+   "end_sec": 122.943,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D012-S01",
+   "unit_id": "C62-D012",
+   "section": "D",
+   "speaker": "石田",
+   "text": "会社が払えるのは３月３１日までの利用分です。",
+   "start_sec": 123.293,
+   "end_sec": 126.99,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D012-S02",
+   "unit_id": "C62-D012",
+   "section": "D",
+   "speaker": "石田",
+   "text": "４月からの分は２０２７年４月からの予算で考えます。",
+   "start_sec": 127.14,
+   "end_sec": 131.532,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D012-S03",
+   "unit_id": "C62-D012",
+   "section": "D",
+   "speaker": "石田",
+   "text": "会社の名前が書かれた請求書も必要です。",
+   "start_sec": 131.682,
+   "end_sec": 134.386,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D013-S01",
+   "unit_id": "C62-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "分かりました。",
+   "start_sec": 134.736,
+   "end_sec": 135.866,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D013-S02",
+   "unit_id": "C62-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "４月に料金が変わる予定ですが、３月までの利用には影響しません。",
+   "start_sec": 136.016,
+   "end_sec": 141.209,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D013-S03",
+   "unit_id": "C62-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "公民館なら、６人の受講料と２人の教材で１００００円です。",
+   "start_sec": 141.359,
+   "end_sec": 146.493,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D013-S04",
+   "unit_id": "C62-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "これも払えますか。",
+   "start_sec": 146.643,
+   "end_sec": 147.856,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D014-S01",
+   "unit_id": "C62-D014",
+   "section": "D",
+   "speaker": "石田",
+   "text": "はい、受講料と教材費なので対象です。",
+   "start_sec": 148.206,
+   "end_sec": 151.602,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D014-S02",
+   "unit_id": "C62-D014",
+   "section": "D",
+   "speaker": "石田",
+   "text": "ただ、方法を選ぶのは皆さんです。",
+   "start_sec": 151.752,
+   "end_sec": 154.465,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D014-S03",
+   "unit_id": "C62-D014",
+   "section": "D",
+   "speaker": "石田",
+   "text": "総務の責任は、規程に従って払えるか確認することです。",
+   "start_sec": 154.615,
+   "end_sec": 158.779,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D015-S01",
+   "unit_id": "C62-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "公民館なら直接質問できますね。",
+   "start_sec": 159.129,
+   "end_sec": 162.335,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D015-S02",
+   "unit_id": "C62-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "でも、２人は参加できません。",
+   "start_sec": 162.485,
+   "end_sec": 165.048,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D015-S03",
+   "unit_id": "C62-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "案１のほうが安いですが、費用だけで決めてはいけませんね。",
+   "start_sec": 165.198,
+   "end_sec": 169.892,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D015-S04",
+   "unit_id": "C62-D015",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "全員が続けられるか、二つの案をもう一度比べましょう。",
+   "start_sec": 170.042,
+   "end_sec": 173.99,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D016-S01",
+   "unit_id": "C62-D016",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "今日の回答をもとに資料を作り、１４日に全員で決めます。",
+   "start_sec": 174.34,
+   "end_sec": 179.038,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D016-S02",
+   "unit_id": "C62-D016",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "公民館を取り消す期限は１５日なので、決まったらすぐ連絡します。",
+   "start_sec": 179.188,
+   "end_sec": 183.734,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D017-S01",
+   "unit_id": "C62-D017",
+   "section": "D",
+   "speaker": "石田",
+   "text": "決まったら、費用を申し込む書類を出してください。",
+   "start_sec": 184.084,
+   "end_sec": 187.435,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D017-S02",
+   "unit_id": "C62-D017",
+   "section": "D",
+   "speaker": "石田",
+   "text": "学習の窓を選ぶ場合は、利用を申し込む前にお願いします。",
+   "start_sec": 187.585,
+   "end_sec": 192.006,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C62-D017-S03",
+   "unit_id": "C62-D017",
+   "section": "D",
+   "speaker": "石田",
+   "text": "２月から使うなら、１月中に利用を申し込んでください。",
+   "start_sec": 192.156,
+   "end_sec": 195.922,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

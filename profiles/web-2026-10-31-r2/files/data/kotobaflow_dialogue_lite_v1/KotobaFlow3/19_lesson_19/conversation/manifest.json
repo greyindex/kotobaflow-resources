@@ -1,0 +1,414 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 77.752,
+ "listening_review": "pending",
+ "source_chapter": 55,
+ "turns": [
+  {
+   "turn_id": "C55-D001",
+   "turn_index": 0,
+   "speaker": "アナ",
+   "source_text": "私は長期の変更に期待しています。三日以上使う人の割合が四〇から六〇になったから、二〇パーセント増ですね。",
+   "sentence_ids": [
+    "C55-D001-1",
+    "C55-D001-2"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 8.381,
+   "duration_sec": 8.381
+  },
+  {
+   "turn_id": "C55-D002",
+   "turn_index": 1,
+   "speaker": "ミン",
+   "source_text": "そこは二〇ポイントです。元の四〇に比べて五〇パーセント増、一・五倍です。全体はどちらも二十人ですよ。",
+   "sentence_ids": [
+    "C55-D002-1",
+    "C55-D002-2",
+    "C55-D002-3"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 8.731,
+   "end_sec": 18.02,
+   "duration_sec": 9.289
+  },
+  {
+   "turn_id": "C55-D003",
+   "turn_index": 2,
+   "speaker": "アナ",
+   "source_text": "分かりました。二〇ポイントに訂正します。一週間の試行にしては変化が大きいと思いますが、原因はまだ分かりませんね。",
+   "sentence_ids": [
+    "C55-D003-1",
+    "C55-D003-2",
+    "C55-D003-3"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.37,
+   "end_sec": 27.525,
+   "duration_sec": 9.155
+  },
+  {
+   "turn_id": "C55-D004",
+   "turn_index": 3,
+   "speaker": "佐藤",
+   "source_text": "はい。また、毎回長く使ったかどうかは判断できません。試行週の平均時間は不明です。担当者の人数も確認するべきです。",
+   "sentence_ids": [
+    "C55-D004-1",
+    "C55-D004-2",
+    "C55-D004-3",
+    "C55-D004-4"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 27.875,
+   "end_sec": 37.923,
+   "duration_sec": 10.048
+  },
+  {
+   "turn_id": "C55-D005",
+   "turn_index": 4,
+   "speaker": "アナ",
+   "source_text": "希望する人さえ多ければ、始められますか。それなら、参加しなかった人にも聞きたいです。",
+   "sentence_ids": [
+    "C55-D005-1",
+    "C55-D005-2"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.273,
+   "end_sec": 44.639,
+   "duration_sec": 6.366
+  },
+  {
+   "turn_id": "C55-D006",
+   "turn_index": 5,
+   "speaker": "佐藤",
+   "source_text": "希望だけでは決められません。たとえ希望が多くても、安全の確認を省くわけにはいきません。",
+   "sentence_ids": [
+    "C55-D006-1",
+    "C55-D006-2"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 44.989,
+   "end_sec": 50.985,
+   "duration_sec": 5.996
+  },
+  {
+   "turn_id": "C55-D007",
+   "turn_index": 6,
+   "speaker": "ミン",
+   "source_text": "では、必要な人数と予算も確認しましょう。「合意」って、今は次の手順への合意ですね。毎日変える方法と曜日を選ぶ方法を、今すぐ一つに決めることはありません。",
+   "sentence_ids": [
+    "C55-D007-1",
+    "C55-D007-2",
+    "C55-D007-3"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 51.335,
+   "end_sec": 64.653,
+   "duration_sec": 13.318
+  },
+  {
+   "turn_id": "C55-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "賛成です。安全を確認できない限り始めないことも書いてください。希望は変わりませんが、今は確認を待ちます。万一担当者が減った場合の方法も、次に相談しましょう。",
+   "sentence_ids": [
+    "C55-D008-1",
+    "C55-D008-2",
+    "C55-D008-3",
+    "C55-D008-4"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 65.003,
+   "end_sec": 77.745,
+   "duration_sec": 12.742
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C55-D001-1",
+   "unit_id": "C55-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "私は長期の変更に期待しています。",
+   "start_sec": 0.0,
+   "end_sec": 2.565,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D001-2",
+   "unit_id": "C55-D001",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "三日以上使う人の割合が四〇から六〇になったから、二〇パーセント増ですね。",
+   "start_sec": 2.715,
+   "end_sec": 8.381,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D002-1",
+   "unit_id": "C55-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "そこは二〇ポイントです。",
+   "start_sec": 8.731,
+   "end_sec": 10.327,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D002-2",
+   "unit_id": "C55-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "元の四〇に比べて五〇パーセント増、一・五倍です。",
+   "start_sec": 10.477,
+   "end_sec": 15.386,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D002-3",
+   "unit_id": "C55-D002",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "全体はどちらも二十人ですよ。",
+   "start_sec": 15.536,
+   "end_sec": 18.02,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D003-1",
+   "unit_id": "C55-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "分かりました。",
+   "start_sec": 18.37,
+   "end_sec": 19.476,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D003-2",
+   "unit_id": "C55-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "二〇ポイントに訂正します。",
+   "start_sec": 19.626,
+   "end_sec": 21.645,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D003-3",
+   "unit_id": "C55-D003",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "一週間の試行にしては変化が大きいと思いますが、原因はまだ分かりませんね。",
+   "start_sec": 21.795,
+   "end_sec": 27.525,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D004-1",
+   "unit_id": "C55-D004",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "はい。",
+   "start_sec": 27.875,
+   "end_sec": 28.534,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D004-2",
+   "unit_id": "C55-D004",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "また、毎回長く使ったかどうかは判断できません。",
+   "start_sec": 28.684,
+   "end_sec": 32.701,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D004-3",
+   "unit_id": "C55-D004",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "試行週の平均時間は不明です。",
+   "start_sec": 32.851,
+   "end_sec": 35.211,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D004-4",
+   "unit_id": "C55-D004",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "担当者の人数も確認するべきです。",
+   "start_sec": 35.361,
+   "end_sec": 37.923,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D005-1",
+   "unit_id": "C55-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "希望する人さえ多ければ、始められますか。",
+   "start_sec": 38.273,
+   "end_sec": 41.631,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D005-2",
+   "unit_id": "C55-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "それなら、参加しなかった人にも聞きたいです。",
+   "start_sec": 41.781,
+   "end_sec": 44.639,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D006-1",
+   "unit_id": "C55-D006",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "希望だけでは決められません。",
+   "start_sec": 44.989,
+   "end_sec": 46.952,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D006-2",
+   "unit_id": "C55-D006",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "たとえ希望が多くても、安全の確認を省くわけにはいきません。",
+   "start_sec": 47.102,
+   "end_sec": 50.985,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D007-1",
+   "unit_id": "C55-D007",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "では、必要な人数と予算も確認しましょう。",
+   "start_sec": 51.335,
+   "end_sec": 54.956,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D007-2",
+   "unit_id": "C55-D007",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "「合意」って、今は次の手順への合意ですね。",
+   "start_sec": 55.106,
+   "end_sec": 59.09,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D007-3",
+   "unit_id": "C55-D007",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "毎日変える方法と曜日を選ぶ方法を、今すぐ一つに決めることはありません。",
+   "start_sec": 59.24,
+   "end_sec": 64.653,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D008-1",
+   "unit_id": "C55-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "賛成です。",
+   "start_sec": 65.003,
+   "end_sec": 66.144,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D008-2",
+   "unit_id": "C55-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "安全を確認できない限り始めないことも書いてください。",
+   "start_sec": 66.294,
+   "end_sec": 70.103,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D008-3",
+   "unit_id": "C55-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "希望は変わりませんが、今は確認を待ちます。",
+   "start_sec": 70.253,
+   "end_sec": 73.655,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C55-D008-4",
+   "unit_id": "C55-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "万一担当者が減った場合の方法も、次に相談しましょう。",
+   "start_sec": 73.805,
+   "end_sec": 77.745,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

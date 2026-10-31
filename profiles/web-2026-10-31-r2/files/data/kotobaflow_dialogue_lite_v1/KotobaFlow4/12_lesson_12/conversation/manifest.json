@@ -1,0 +1,1272 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 236.388,
+ "listening_review": "pending",
+ "source_chapter": 68,
+ "turns": [
+  {
+   "turn_id": "C68-D001",
+   "turn_index": 0,
+   "speaker": "林梅",
+   "source_text": "昨日の記事、訂正されていたね。私は前の見出しだけ読んで、窓口も閉まったと思っていた。",
+   "sentence_ids": [
+    "C68-D001-S01",
+    "C68-D001-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 7.177,
+   "duration_sec": 7.177
+  },
+  {
+   "turn_id": "C68-D002",
+   "turn_index": 1,
+   "speaker": "ハサン",
+   "source_text": "僕も。それで明日の相談が心配になったんだ。でも、止まったのは利用者用の印刷機だった。",
+   "sentence_ids": [
+    "C68-D002-S01",
+    "C68-D002-S02",
+    "C68-D002-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.527,
+   "end_sec": 14.836,
+   "duration_sec": 7.309
+  },
+  {
+   "turn_id": "C68-D003",
+   "turn_index": 2,
+   "speaker": "林梅",
+   "source_text": "午前十時ごろに止まって、午後一時に復旧。その三時間も、窓口で申請できたんだね。",
+   "sentence_ids": [
+    "C68-D003-S01",
+    "C68-D003-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 15.186,
+   "end_sec": 22.619,
+   "duration_sec": 7.433
+  },
+  {
+   "turn_id": "C68-D004",
+   "turn_index": 3,
+   "speaker": "ハサン",
+   "source_text": "そう。十一時の記事には誤りがあった。今読んでいるのは、午後五時に更新された記事だよ。",
+   "sentence_ids": [
+    "C68-D004-S01",
+    "C68-D004-S02",
+    "C68-D004-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 22.969,
+   "end_sec": 29.538,
+   "duration_sec": 6.569
+  },
+  {
+   "turn_id": "C68-D005",
+   "turn_index": 4,
+   "speaker": "林梅",
+   "source_text": "佐藤さんが「印刷を始めたとたん、紙が止まった」と話しているけど、原因は分からないんだ。",
+   "sentence_ids": [
+    "C68-D005-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 29.888,
+   "end_sec": 36.978,
+   "duration_sec": 7.09
+  },
+  {
+   "turn_id": "C68-D006",
+   "turn_index": 5,
+   "speaker": "ハサン",
+   "source_text": "目撃したことと、原因の説明は別だからね。印刷機が古かったせいだ、とはこの記事には書いていない。",
+   "sentence_ids": [
+    "C68-D006-S01",
+    "C68-D006-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.328,
+   "end_sec": 44.782,
+   "duration_sec": 7.454
+  },
+  {
+   "turn_id": "C68-D007",
+   "turn_index": 6,
+   "speaker": "林梅",
+   "source_text": "私、急いでいると見出しだけで判断しがちなんだ。今回は記事を読まないまま、人に話すつもりだった。",
+   "sentence_ids": [
+    "C68-D007-S01",
+    "C68-D007-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 45.132,
+   "end_sec": 52.609,
+   "duration_sec": 7.477
+  },
+  {
+   "turn_id": "C68-D008",
+   "turn_index": 7,
+   "speaker": "ハサン",
+   "source_text": "僕も今週は寝不足気味で、記事の時間を間違えた。前の情報を覚えていると、訂正を見ても間違えることがあるね。",
+   "sentence_ids": [
+    "C68-D008-S01",
+    "C68-D008-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.959,
+   "end_sec": 60.251,
+   "duration_sec": 7.292
+  },
+  {
+   "turn_id": "C68-D009",
+   "turn_index": 8,
+   "speaker": "林梅",
+   "source_text": "西田さんの投稿は、報道とは印象が違うね。窓口が開いていても、西田さんには不十分だったんだね。",
+   "sentence_ids": [
+    "C68-D009-S01",
+    "C68-D009-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 60.601,
+   "end_sec": 68.544,
+   "duration_sec": 7.943
+  },
+  {
+   "turn_id": "C68-D010",
+   "turn_index": 9,
+   "speaker": "ハサン",
+   "source_text": "西田さんは、その日に申請しなかったと書いている。でも、申請を断られたとは書いていないよ。",
+   "sentence_ids": [
+    "C68-D010-S01",
+    "C68-D010-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 68.894,
+   "end_sec": 75.555,
+   "duration_sec": 6.661
+  },
+  {
+   "turn_id": "C68-D011",
+   "turn_index": 10,
+   "speaker": "林梅",
+   "source_text": "なるほど、時間がなかったんだね。「全員が申請できなかった」とまとめたら、事実と違ってしまう。",
+   "sentence_ids": [
+    "C68-D011-S01",
+    "C68-D011-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 75.905,
+   "end_sec": 83.711,
+   "duration_sec": 7.806
+  },
+  {
+   "turn_id": "C68-D012",
+   "turn_index": 11,
+   "speaker": "ハサン",
+   "source_text": "担当者の対応を評価しているものの、申請方法の追加を提案している。それが西田さんの主張だと思う。",
+   "sentence_ids": [
+    "C68-D012-S01",
+    "C68-D012-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 84.061,
+   "end_sec": 91.165,
+   "duration_sec": 7.104
+  },
+  {
+   "turn_id": "C68-D013",
+   "turn_index": 12,
+   "speaker": "林梅",
+   "source_text": "中立な報道というより、利用者の立場からの意見なんだね。だから間違いだ、ということではないけど。",
+   "sentence_ids": [
+    "C68-D013-S01",
+    "C68-D013-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 91.515,
+   "end_sec": 98.641,
+   "duration_sec": 7.126
+  },
+  {
+   "turn_id": "C68-D014",
+   "turn_index": 13,
+   "speaker": "ハサン",
+   "source_text": "そうだね。賛成するかどうかを決める前に、まず提案とその理由を正確に読みたいね。",
+   "sentence_ids": [
+    "C68-D014-S01",
+    "C68-D014-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 98.991,
+   "end_sec": 105.026,
+   "duration_sec": 6.035
+  },
+  {
+   "turn_id": "C68-D015",
+   "turn_index": 14,
+   "speaker": "林梅",
+   "source_text": "窓口なら直接相談できる一方で、仕事があって来られない人もいる。その違いへの配慮が必要なんだね。",
+   "sentence_ids": [
+    "C68-D015-S01",
+    "C68-D015-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 105.376,
+   "end_sec": 112.899,
+   "duration_sec": 7.523
+  },
+  {
+   "turn_id": "C68-D016",
+   "turn_index": 15,
+   "speaker": "ハサン",
+   "source_text": "そうだね。ただ、オンラインで申請できるようにすることで合意した、とは書いていない。",
+   "sentence_ids": [
+    "C68-D016-S01",
+    "C68-D016-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 113.249,
+   "end_sec": 120.59,
+   "duration_sec": 7.341
+  },
+  {
+   "turn_id": "C68-D017",
+   "turn_index": 16,
+   "speaker": "林梅",
+   "source_text": "明日の相談は予定どおり？　委任状は今回の相談にも有効なの？　必要な書類をもう一度見ておこうか。",
+   "sentence_ids": [
+    "C68-D017-S01",
+    "C68-D017-S02",
+    "C68-D017-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 120.94,
+   "end_sec": 129.392,
+   "duration_sec": 8.452
+  },
+  {
+   "turn_id": "C68-D018",
+   "turn_index": 17,
+   "speaker": "ハサン",
+   "source_text": "大川さんから受け取ったよ。今回の相談の代理を認める書類なんだ。会員として行くから、これと費用の記録を持っていく。",
+   "sentence_ids": [
+    "C68-D018-S01",
+    "C68-D018-S02",
+    "C68-D018-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 129.742,
+   "end_sec": 137.523,
+   "duration_sec": 7.781
+  },
+  {
+   "turn_id": "C68-D019",
+   "turn_index": 18,
+   "speaker": "林梅",
+   "source_text": "平均参加人数が十人以上なら上限四万円だね。交流会も四万円を申請する予定なの？",
+   "sentence_ids": [
+    "C68-D019-S01",
+    "C68-D019-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 137.873,
+   "end_sec": 146.069,
+   "duration_sec": 8.196
+  },
+  {
+   "turn_id": "C68-D020",
+   "turn_index": 19,
+   "speaker": "ハサン",
+   "source_text": "いいえ、費用六万円と参加費の収入二万円の差の半分。僕たちの場合は二万円だよ。",
+   "sentence_ids": [
+    "C68-D020-S01",
+    "C68-D020-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 146.419,
+   "end_sec": 154.164,
+   "duration_sec": 7.745
+  },
+  {
+   "turn_id": "C68-D021",
+   "turn_index": 20,
+   "speaker": "林梅",
+   "source_text": "人数に応じて変わるのは上限で、申請する金額は費用や収入も確認して決めるんだね。",
+   "sentence_ids": [
+    "C68-D021-S01"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 154.514,
+   "end_sec": 161.72,
+   "duration_sec": 7.206
+  },
+  {
+   "turn_id": "C68-D022",
+   "turn_index": 21,
+   "speaker": "ハサン",
+   "source_text": "そう。申請した金額を必ずもらえるわけでもない。受け取れるかどうかは審査結果次第だから。",
+   "sentence_ids": [
+    "C68-D022-S01",
+    "C68-D022-S02",
+    "C68-D022-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 162.07,
+   "end_sec": 168.701,
+   "duration_sec": 6.631
+  },
+  {
+   "turn_id": "C68-D023",
+   "turn_index": 22,
+   "speaker": "林梅",
+   "source_text": "料理の食材費は対象になるけど、休憩のお茶は対象外。何に使うかで違うんだね。",
+   "sentence_ids": [
+    "C68-D023-S01",
+    "C68-D023-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 169.051,
+   "end_sec": 176.572,
+   "duration_sec": 7.521
+  },
+  {
+   "turn_id": "C68-D024",
+   "turn_index": 23,
+   "speaker": "ハサン",
+   "source_text": "そう。僕たちの計画には食材費が入っているから、料理の活動と一緒に説明するつもりだよ。",
+   "sentence_ids": [
+    "C68-D024-S01",
+    "C68-D024-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 176.922,
+   "end_sec": 183.254,
+   "duration_sec": 6.332
+  },
+  {
+   "turn_id": "C68-D025",
+   "turn_index": 24,
+   "speaker": "林梅",
+   "source_text": "四月から使う部屋は、まだ決まっていないんだよね。支援金が決まれば部屋も決まるの？",
+   "sentence_ids": [
+    "C68-D025-S01",
+    "C68-D025-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 183.604,
+   "end_sec": 189.417,
+   "duration_sec": 5.813
+  },
+  {
+   "turn_id": "C68-D026",
+   "turn_index": 25,
+   "speaker": "ハサン",
+   "source_text": "それは別だよ。部屋は三月の運営委員会で決める。二つの結果を一つにまとめないほうがいい。",
+   "sentence_ids": [
+    "C68-D026-S01",
+    "C68-D026-S02",
+    "C68-D026-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 189.767,
+   "end_sec": 197.83,
+   "duration_sec": 8.063
+  },
+  {
+   "turn_id": "C68-D027",
+   "turn_index": 26,
+   "speaker": "林梅",
+   "source_text": "分かった。「窓口は開いていた」は事実、「方法を増やしてほしい」は意見だね。案内を読めば読むほど、記事だけでは分からなかった条件が見えてくる。経過と意見を分けてまとめよう。",
+   "sentence_ids": [
+    "C68-D027-S01",
+    "C68-D027-S02",
+    "C68-D027-S03",
+    "C68-D027-S04"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 198.18,
+   "end_sec": 212.087,
+   "duration_sec": 13.907
+  },
+  {
+   "turn_id": "C68-D028",
+   "turn_index": 27,
+   "speaker": "ハサン",
+   "source_text": "それでも分からない点は残るね。印刷機の原因も、申請方法が変わるかどうかも、まだ分からない。",
+   "sentence_ids": [
+    "C68-D028-S01",
+    "C68-D028-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 212.437,
+   "end_sec": 219.716,
+   "duration_sec": 7.279
+  },
+  {
+   "turn_id": "C68-D029",
+   "turn_index": 28,
+   "speaker": "林梅",
+   "source_text": "そうだね。分からないことは推測で補わないで、確認できた事実だけ伝えよう。西田さんの意見は、本人の投稿からの引用だと分かるように。",
+   "sentence_ids": [
+    "C68-D029-S01",
+    "C68-D029-S02",
+    "C68-D029-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 220.066,
+   "end_sec": 230.408,
+   "duration_sec": 10.342
+  },
+  {
+   "turn_id": "C68-D030",
+   "turn_index": 29,
+   "speaker": "ハサン",
+   "source_text": "そうしよう。明日は僕たちの申請条件を確認して、帰ってから会員に伝えるよ。",
+   "sentence_ids": [
+    "C68-D030-S01",
+    "C68-D030-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 230.758,
+   "end_sec": 236.381,
+   "duration_sec": 5.623
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C68-D001-S01",
+   "unit_id": "C68-D001",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "昨日の記事、訂正されていたね。",
+   "start_sec": 0.0,
+   "end_sec": 2.667,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D001-S02",
+   "unit_id": "C68-D001",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "私は前の見出しだけ読んで、窓口も閉まったと思っていた。",
+   "start_sec": 2.817,
+   "end_sec": 7.177,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D002-S01",
+   "unit_id": "C68-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "僕も。",
+   "start_sec": 7.527,
+   "end_sec": 8.495,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D002-S02",
+   "unit_id": "C68-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "それで明日の相談が心配になったんだ。",
+   "start_sec": 8.645,
+   "end_sec": 11.396,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D002-S03",
+   "unit_id": "C68-D002",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "でも、止まったのは利用者用の印刷機だった。",
+   "start_sec": 11.546,
+   "end_sec": 14.836,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D003-S01",
+   "unit_id": "C68-D003",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "午前十時ごろに止まって、午後一時に復旧。",
+   "start_sec": 15.186,
+   "end_sec": 19.009,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D003-S02",
+   "unit_id": "C68-D003",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "その三時間も、窓口で申請できたんだね。",
+   "start_sec": 19.159,
+   "end_sec": 22.619,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D004-S01",
+   "unit_id": "C68-D004",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そう。",
+   "start_sec": 22.969,
+   "end_sec": 23.509,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D004-S02",
+   "unit_id": "C68-D004",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "十一時の記事には誤りがあった。",
+   "start_sec": 23.659,
+   "end_sec": 25.973,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D004-S03",
+   "unit_id": "C68-D004",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "今読んでいるのは、午後五時に更新された記事だよ。",
+   "start_sec": 26.123,
+   "end_sec": 29.538,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D005-S01",
+   "unit_id": "C68-D005",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "佐藤さんが「印刷を始めたとたん、紙が止まった」と話しているけど、原因は分からないんだ。",
+   "start_sec": 29.888,
+   "end_sec": 36.978,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D006-S01",
+   "unit_id": "C68-D006",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "目撃したことと、原因の説明は別だからね。",
+   "start_sec": 37.328,
+   "end_sec": 40.829,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D006-S02",
+   "unit_id": "C68-D006",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "印刷機が古かったせいだ、とはこの記事には書いていない。",
+   "start_sec": 40.979,
+   "end_sec": 44.782,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D007-S01",
+   "unit_id": "C68-D007",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "私、急いでいると見出しだけで判断しがちなんだ。",
+   "start_sec": 45.132,
+   "end_sec": 49.048,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D007-S02",
+   "unit_id": "C68-D007",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "今回は記事を読まないまま、人に話すつもりだった。",
+   "start_sec": 49.198,
+   "end_sec": 52.609,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D008-S01",
+   "unit_id": "C68-D008",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "僕も今週は寝不足気味で、記事の時間を間違えた。",
+   "start_sec": 52.959,
+   "end_sec": 56.286,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D008-S02",
+   "unit_id": "C68-D008",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "前の情報を覚えていると、訂正を見ても間違えることがあるね。",
+   "start_sec": 56.436,
+   "end_sec": 60.251,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D009-S01",
+   "unit_id": "C68-D009",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "西田さんの投稿は、報道とは印象が違うね。",
+   "start_sec": 60.601,
+   "end_sec": 64.44,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D009-S02",
+   "unit_id": "C68-D009",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "窓口が開いていても、西田さんには不十分だったんだね。",
+   "start_sec": 64.59,
+   "end_sec": 68.544,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D010-S01",
+   "unit_id": "C68-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "西田さんは、その日に申請しなかったと書いている。",
+   "start_sec": 68.894,
+   "end_sec": 72.498,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D010-S02",
+   "unit_id": "C68-D010",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "でも、申請を断られたとは書いていないよ。",
+   "start_sec": 72.648,
+   "end_sec": 75.555,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D011-S01",
+   "unit_id": "C68-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "なるほど、時間がなかったんだね。",
+   "start_sec": 75.905,
+   "end_sec": 78.99,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D011-S02",
+   "unit_id": "C68-D011",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「全員が申請できなかった」とまとめたら、事実と違ってしまう。",
+   "start_sec": 79.14,
+   "end_sec": 83.711,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D012-S01",
+   "unit_id": "C68-D012",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "担当者の対応を評価しているものの、申請方法の追加を提案している。",
+   "start_sec": 84.061,
+   "end_sec": 89.057,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D012-S02",
+   "unit_id": "C68-D012",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "それが西田さんの主張だと思う。",
+   "start_sec": 89.207,
+   "end_sec": 91.165,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D013-S01",
+   "unit_id": "C68-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "中立な報道というより、利用者の立場からの意見なんだね。",
+   "start_sec": 91.515,
+   "end_sec": 96.04,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D013-S02",
+   "unit_id": "C68-D013",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "だから間違いだ、ということではないけど。",
+   "start_sec": 96.19,
+   "end_sec": 98.641,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D014-S01",
+   "unit_id": "C68-D014",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そうだね。",
+   "start_sec": 98.991,
+   "end_sec": 99.924,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D014-S02",
+   "unit_id": "C68-D014",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "賛成するかどうかを決める前に、まず提案とその理由を正確に読みたいね。",
+   "start_sec": 100.074,
+   "end_sec": 105.026,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D015-S01",
+   "unit_id": "C68-D015",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "窓口なら直接相談できる一方で、仕事があって来られない人もいる。",
+   "start_sec": 105.376,
+   "end_sec": 110.334,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D015-S02",
+   "unit_id": "C68-D015",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "その違いへの配慮が必要なんだね。",
+   "start_sec": 110.484,
+   "end_sec": 112.899,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D016-S01",
+   "unit_id": "C68-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そうだね。",
+   "start_sec": 113.249,
+   "end_sec": 114.824,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D016-S02",
+   "unit_id": "C68-D016",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "ただ、オンラインで申請できるようにすることで合意した、とは書いていない。",
+   "start_sec": 114.974,
+   "end_sec": 120.59,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D017-S01",
+   "unit_id": "C68-D017",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "明日の相談は予定どおり？　",
+   "start_sec": 120.94,
+   "end_sec": 123.438,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D017-S02",
+   "unit_id": "C68-D017",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "委任状は今回の相談にも有効なの？　",
+   "start_sec": 123.588,
+   "end_sec": 126.709,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D017-S03",
+   "unit_id": "C68-D017",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "必要な書類をもう一度見ておこうか。",
+   "start_sec": 126.859,
+   "end_sec": 129.392,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D018-S01",
+   "unit_id": "C68-D018",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "大川さんから受け取ったよ。",
+   "start_sec": 129.742,
+   "end_sec": 131.395,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D018-S02",
+   "unit_id": "C68-D018",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "今回の相談の代理を認める書類なんだ。",
+   "start_sec": 131.545,
+   "end_sec": 134.139,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D018-S03",
+   "unit_id": "C68-D018",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "会員として行くから、これと費用の記録を持っていく。",
+   "start_sec": 134.289,
+   "end_sec": 137.523,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D019-S01",
+   "unit_id": "C68-D019",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "平均参加人数が十人以上なら上限四万円だね。",
+   "start_sec": 137.873,
+   "end_sec": 142.617,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D019-S02",
+   "unit_id": "C68-D019",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "交流会も四万円を申請する予定なの？",
+   "start_sec": 142.767,
+   "end_sec": 146.069,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D020-S01",
+   "unit_id": "C68-D020",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "いいえ、費用六万円と参加費の収入二万円の差の半分。",
+   "start_sec": 146.419,
+   "end_sec": 151.827,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D020-S02",
+   "unit_id": "C68-D020",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "僕たちの場合は二万円だよ。",
+   "start_sec": 151.977,
+   "end_sec": 154.164,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D021-S01",
+   "unit_id": "C68-D021",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "人数に応じて変わるのは上限で、申請する金額は費用や収入も確認して決めるんだね。",
+   "start_sec": 154.514,
+   "end_sec": 161.72,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D022-S01",
+   "unit_id": "C68-D022",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そう。",
+   "start_sec": 162.07,
+   "end_sec": 162.888,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D022-S02",
+   "unit_id": "C68-D022",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "申請した金額を必ずもらえるわけでもない。",
+   "start_sec": 163.038,
+   "end_sec": 165.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D022-S03",
+   "unit_id": "C68-D022",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "受け取れるかどうかは審査結果次第だから。",
+   "start_sec": 165.965,
+   "end_sec": 168.701,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D023-S01",
+   "unit_id": "C68-D023",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "料理の食材費は対象になるけど、休憩のお茶は対象外。",
+   "start_sec": 169.051,
+   "end_sec": 174.106,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D023-S02",
+   "unit_id": "C68-D023",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "何に使うかで違うんだね。",
+   "start_sec": 174.256,
+   "end_sec": 176.572,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D024-S01",
+   "unit_id": "C68-D024",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そう。",
+   "start_sec": 176.922,
+   "end_sec": 177.75,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D024-S02",
+   "unit_id": "C68-D024",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "僕たちの計画には食材費が入っているから、料理の活動と一緒に説明するつもりだよ。",
+   "start_sec": 177.9,
+   "end_sec": 183.254,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D025-S01",
+   "unit_id": "C68-D025",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "四月から使う部屋は、まだ決まっていないんだよね。",
+   "start_sec": 183.604,
+   "end_sec": 186.937,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D025-S02",
+   "unit_id": "C68-D025",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "支援金が決まれば部屋も決まるの？",
+   "start_sec": 187.087,
+   "end_sec": 189.417,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D026-S01",
+   "unit_id": "C68-D026",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "それは別だよ。",
+   "start_sec": 189.767,
+   "end_sec": 191.509,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D026-S02",
+   "unit_id": "C68-D026",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "部屋は三月の運営委員会で決める。",
+   "start_sec": 191.659,
+   "end_sec": 194.419,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D026-S03",
+   "unit_id": "C68-D026",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "二つの結果を一つにまとめないほうがいい。",
+   "start_sec": 194.569,
+   "end_sec": 197.83,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D027-S01",
+   "unit_id": "C68-D027",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "分かった。",
+   "start_sec": 198.18,
+   "end_sec": 199.237,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D027-S02",
+   "unit_id": "C68-D027",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "「窓口は開いていた」は事実、「方法を増やしてほしい」は意見だね。",
+   "start_sec": 199.387,
+   "end_sec": 205.09,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D027-S03",
+   "unit_id": "C68-D027",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "案内を読めば読むほど、記事だけでは分からなかった条件が見えてくる。",
+   "start_sec": 205.24,
+   "end_sec": 209.843,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D027-S04",
+   "unit_id": "C68-D027",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "経過と意見を分けてまとめよう。",
+   "start_sec": 209.993,
+   "end_sec": 212.087,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D028-S01",
+   "unit_id": "C68-D028",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "それでも分からない点は残るね。",
+   "start_sec": 212.437,
+   "end_sec": 214.904,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D028-S02",
+   "unit_id": "C68-D028",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "印刷機の原因も、申請方法が変わるかどうかも、まだ分からない。",
+   "start_sec": 215.054,
+   "end_sec": 219.716,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D029-S01",
+   "unit_id": "C68-D029",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "そうだね。",
+   "start_sec": 220.066,
+   "end_sec": 220.981,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D029-S02",
+   "unit_id": "C68-D029",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "分からないことは推測で補わないで、確認できた事実だけ伝えよう。",
+   "start_sec": 221.131,
+   "end_sec": 226.057,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D029-S03",
+   "unit_id": "C68-D029",
+   "section": "D",
+   "speaker": "林梅",
+   "text": "西田さんの意見は、本人の投稿からの引用だと分かるように。",
+   "start_sec": 226.207,
+   "end_sec": 230.408,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D030-S01",
+   "unit_id": "C68-D030",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "そうしよう。",
+   "start_sec": 230.758,
+   "end_sec": 231.943,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C68-D030-S02",
+   "unit_id": "C68-D030",
+   "section": "D",
+   "speaker": "ハサン",
+   "text": "明日は僕たちの申請条件を確認して、帰ってから会員に伝えるよ。",
+   "start_sec": 232.093,
+   "end_sec": 236.381,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

@@ -1,0 +1,900 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 141.785,
+ "listening_review": "pending",
+ "source_chapter": 72,
+ "turns": [
+  {
+   "turn_id": "C72-D001",
+   "turn_index": 0,
+   "speaker": "佐藤",
+   "source_text": "こんにちは。返信、読んでくださいましたか。今日は確認画面の説明だけお願いしたいんです。",
+   "sentence_ids": [
+    "C72-D001-S01",
+    "C72-D001-S02",
+    "C72-D001-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 6.852,
+   "duration_sec": 6.852
+  },
+  {
+   "turn_id": "C72-D002",
+   "turn_index": 1,
+   "speaker": "坂井",
+   "source_text": "はい。スマートフォンは持っていてください。どこまで進んだか教えていただけませんか。",
+   "sentence_ids": [
+    "C72-D002-S01",
+    "C72-D002-S02",
+    "C72-D002-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.202,
+   "end_sec": 13.054,
+   "duration_sec": 5.852
+  },
+  {
+   "turn_id": "C72-D003",
+   "turn_index": 2,
+   "speaker": "佐藤",
+   "source_text": "番号まで入力しました。この下のボタンですね。字が小さくて、視力の弱い親友にも見づらそうです。",
+   "sentence_ids": [
+    "C72-D003-S01",
+    "C72-D003-S02",
+    "C72-D003-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.404,
+   "end_sec": 22.19,
+   "duration_sec": 8.786
+  },
+  {
+   "turn_id": "C72-D004",
+   "turn_index": 3,
+   "speaker": "坂井",
+   "source_text": "文字を大きくする方法があります。ご友人にも説明が必要なら、ご本人に希望を聞いてから案内します。",
+   "sentence_ids": [
+    "C72-D004-S01",
+    "C72-D004-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 22.54,
+   "end_sec": 30.255,
+   "duration_sec": 7.715
+  },
+  {
+   "turn_id": "C72-D005",
+   "turn_index": 4,
+   "speaker": "佐藤",
+   "source_text": "私は家族に確認せずにはいられませんでしたが、友人は一人で試したいそうです。性質が違うんですね。",
+   "sentence_ids": [
+    "C72-D005-S01",
+    "C72-D005-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 30.605,
+   "end_sec": 37.39,
+   "duration_sec": 6.785
+  },
+  {
+   "turn_id": "C72-D006",
+   "turn_index": 5,
+   "speaker": "坂井",
+   "source_text": "人によって違いますし、同じ人でもその日の気分は違います。私も先に気を配るべきでした。",
+   "sentence_ids": [
+    "C72-D006-S01",
+    "C72-D006-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.74,
+   "end_sec": 45.137,
+   "duration_sec": 7.397
+  },
+  {
+   "turn_id": "C72-D007",
+   "turn_index": 6,
+   "speaker": "佐藤",
+   "source_text": "ところで、資料の確認を断ると角が立つかと心配でした。遠慮して引き受けるところでした。",
+   "sentence_ids": [
+    "C72-D007-S01",
+    "C72-D007-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 45.487,
+   "end_sec": 51.96,
+   "duration_sec": 6.473
+  },
+  {
+   "turn_id": "C72-D008",
+   "turn_index": 7,
+   "speaker": "坂井",
+   "source_text": "無理に引き受けなくて大丈夫です。今回は辞退したいというお気持ちを聞いて、納得しました。",
+   "sentence_ids": [
+    "C72-D008-S01",
+    "C72-D008-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 52.31,
+   "end_sec": 59.081,
+   "duration_sec": 6.771
+  },
+  {
+   "turn_id": "C72-D009",
+   "turn_index": 8,
+   "speaker": "佐藤",
+   "source_text": "ありがとうございます。助けてくれる人には頭が上がらないと思っていました。でも、希望は言っていいんですね。",
+   "sentence_ids": [
+    "C72-D009-S01",
+    "C72-D009-S02",
+    "C72-D009-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.431,
+   "end_sec": 66.621,
+   "duration_sec": 7.19
+  },
+  {
+   "turn_id": "C72-D010",
+   "turn_index": 9,
+   "speaker": "坂井",
+   "source_text": "もちろんです。ありがたいことに、今回のご意見は案内の改善に一役買いました。",
+   "sentence_ids": [
+    "C72-D010-S01",
+    "C72-D010-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 66.971,
+   "end_sec": 73.393,
+   "duration_sec": 6.422
+  },
+  {
+   "turn_id": "C72-D011",
+   "turn_index": 10,
+   "speaker": "佐藤",
+   "source_text": "では、この画面までの順番を書いてくださいませんか。家で使いたいです。",
+   "sentence_ids": [
+    "C72-D011-S01",
+    "C72-D011-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 73.743,
+   "end_sec": 78.481,
+   "duration_sec": 4.738
+  },
+  {
+   "turn_id": "C72-D012",
+   "turn_index": 11,
+   "speaker": "坂井",
+   "source_text": "はい、そのお願いには応じられます。ここに腰を下ろしてお待ちください。個人の番号は書かず、手順だけにしますね。",
+   "sentence_ids": [
+    "C72-D012-S01",
+    "C72-D012-S02",
+    "C72-D012-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 78.831,
+   "end_sec": 87.216,
+   "duration_sec": 8.385
+  },
+  {
+   "turn_id": "C72-D013",
+   "turn_index": 12,
+   "speaker": "佐藤",
+   "source_text": "ありがとうございます。長く立っていて少し疲れました。荷物を背負ったままでしたし。",
+   "sentence_ids": [
+    "C72-D013-S01",
+    "C72-D013-S02",
+    "C72-D013-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 87.566,
+   "end_sec": 93.628,
+   "duration_sec": 6.062
+  },
+  {
+   "turn_id": "C72-D014",
+   "turn_index": 13,
+   "speaker": "坂井",
+   "source_text": "隣の椅子に置けますよ。ご自分で動かしますか。それとも、手を貸しましょうか。",
+   "sentence_ids": [
+    "C72-D014-S01",
+    "C72-D014-S02",
+    "C72-D014-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.978,
+   "end_sec": 100.513,
+   "duration_sec": 6.535
+  },
+  {
+   "turn_id": "C72-D015",
+   "turn_index": 14,
+   "speaker": "佐藤",
+   "source_text": "自分でできます。そこまで気を使う必要はありません。でも、聞いてくださるのは嬉しいです。",
+   "sentence_ids": [
+    "C72-D015-S01",
+    "C72-D015-S02",
+    "C72-D015-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 100.863,
+   "end_sec": 107.518,
+   "duration_sec": 6.655
+  },
+  {
+   "turn_id": "C72-D016",
+   "turn_index": 15,
+   "speaker": "坂井",
+   "source_text": "では、手順を書きます。待つ間も、分からないところがあったらおっしゃってください。",
+   "sentence_ids": [
+    "C72-D016-S01",
+    "C72-D016-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 107.868,
+   "end_sec": 112.978,
+   "duration_sec": 5.11
+  },
+  {
+   "turn_id": "C72-D017",
+   "turn_index": 16,
+   "speaker": "佐藤",
+   "source_text": "この短い説明なら、私にも読めます。難しい言葉が多いと、質問するだけで迷惑かと思ってしまうんです。",
+   "sentence_ids": [
+    "C72-D017-S01",
+    "C72-D017-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 113.328,
+   "end_sec": 121.197,
+   "duration_sec": 7.869
+  },
+  {
+   "turn_id": "C72-D018",
+   "turn_index": 17,
+   "speaker": "坂井",
+   "source_text": "質問は迷惑ではありません。手順を一つ試して、紙の説明と合っているか確認していただけますか。",
+   "sentence_ids": [
+    "C72-D018-S01",
+    "C72-D018-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 121.547,
+   "end_sec": 129.067,
+   "duration_sec": 7.52
+  },
+  {
+   "turn_id": "C72-D019",
+   "turn_index": 18,
+   "speaker": "佐藤",
+   "source_text": "できました。番号を入力すると、この画面になりますね。今度は安心して家で練習できます。",
+   "sentence_ids": [
+    "C72-D019-S01",
+    "C72-D019-S02",
+    "C72-D019-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 129.417,
+   "end_sec": 135.916,
+   "duration_sec": 6.499
+  },
+  {
+   "turn_id": "C72-D020",
+   "turn_index": 19,
+   "speaker": "坂井",
+   "source_text": "よかったです。ご自分で進めたいというお気持ちを、これからも大切にします。",
+   "sentence_ids": [
+    "C72-D020-S01",
+    "C72-D020-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 136.266,
+   "end_sec": 141.778,
+   "duration_sec": 5.512
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C72-D001-S01",
+   "unit_id": "C72-D001",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "こんにちは。",
+   "start_sec": 0.0,
+   "end_sec": 0.85,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D001-S02",
+   "unit_id": "C72-D001",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "返信、読んでくださいましたか。",
+   "start_sec": 1.0,
+   "end_sec": 3.49,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D001-S03",
+   "unit_id": "C72-D001",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "今日は確認画面の説明だけお願いしたいんです。",
+   "start_sec": 3.64,
+   "end_sec": 6.852,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D002-S01",
+   "unit_id": "C72-D002",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "はい。",
+   "start_sec": 7.202,
+   "end_sec": 7.898,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D002-S02",
+   "unit_id": "C72-D002",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "スマートフォンは持っていてください。",
+   "start_sec": 8.048,
+   "end_sec": 10.253,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D002-S03",
+   "unit_id": "C72-D002",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "どこまで進んだか教えていただけませんか。",
+   "start_sec": 10.403,
+   "end_sec": 13.054,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D003-S01",
+   "unit_id": "C72-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "番号まで入力しました。",
+   "start_sec": 13.404,
+   "end_sec": 15.35,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D003-S02",
+   "unit_id": "C72-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "この下のボタンですね。",
+   "start_sec": 15.5,
+   "end_sec": 17.386,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D003-S03",
+   "unit_id": "C72-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "字が小さくて、視力の弱い親友にも見づらそうです。",
+   "start_sec": 17.536,
+   "end_sec": 22.19,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D004-S01",
+   "unit_id": "C72-D004",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "文字を大きくする方法があります。",
+   "start_sec": 22.54,
+   "end_sec": 25.127,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D004-S02",
+   "unit_id": "C72-D004",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "ご友人にも説明が必要なら、ご本人に希望を聞いてから案内します。",
+   "start_sec": 25.277,
+   "end_sec": 30.255,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D005-S01",
+   "unit_id": "C72-D005",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "私は家族に確認せずにはいられませんでしたが、友人は一人で試したいそうです。",
+   "start_sec": 30.605,
+   "end_sec": 35.742,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D005-S02",
+   "unit_id": "C72-D005",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "性質が違うんですね。",
+   "start_sec": 35.892,
+   "end_sec": 37.39,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D006-S01",
+   "unit_id": "C72-D006",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "人によって違いますし、同じ人でもその日の気分は違います。",
+   "start_sec": 37.74,
+   "end_sec": 42.532,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D006-S02",
+   "unit_id": "C72-D006",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "私も先に気を配るべきでした。",
+   "start_sec": 42.682,
+   "end_sec": 45.137,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D007-S01",
+   "unit_id": "C72-D007",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "ところで、資料の確認を断ると角が立つかと心配でした。",
+   "start_sec": 45.487,
+   "end_sec": 50.027,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D007-S02",
+   "unit_id": "C72-D007",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "遠慮して引き受けるところでした。",
+   "start_sec": 50.177,
+   "end_sec": 51.96,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D008-S01",
+   "unit_id": "C72-D008",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "無理に引き受けなくて大丈夫です。",
+   "start_sec": 52.31,
+   "end_sec": 54.6,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D008-S02",
+   "unit_id": "C72-D008",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "今回は辞退したいというお気持ちを聞いて、納得しました。",
+   "start_sec": 54.75,
+   "end_sec": 59.081,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D009-S01",
+   "unit_id": "C72-D009",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "ありがとうございます。",
+   "start_sec": 59.431,
+   "end_sec": 60.865,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D009-S02",
+   "unit_id": "C72-D009",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "助けてくれる人には頭が上がらないと思っていました。",
+   "start_sec": 61.015,
+   "end_sec": 64.173,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D009-S03",
+   "unit_id": "C72-D009",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "でも、希望は言っていいんですね。",
+   "start_sec": 64.323,
+   "end_sec": 66.621,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D010-S01",
+   "unit_id": "C72-D010",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "もちろんです。",
+   "start_sec": 66.971,
+   "end_sec": 68.176,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D010-S02",
+   "unit_id": "C72-D010",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "ありがたいことに、今回のご意見は案内の改善に一役買いました。",
+   "start_sec": 68.326,
+   "end_sec": 73.393,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D011-S01",
+   "unit_id": "C72-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "では、この画面までの順番を書いてくださいませんか。",
+   "start_sec": 73.743,
+   "end_sec": 77.032,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D011-S02",
+   "unit_id": "C72-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "家で使いたいです。",
+   "start_sec": 77.182,
+   "end_sec": 78.481,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D012-S01",
+   "unit_id": "C72-D012",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "はい、そのお願いには応じられます。",
+   "start_sec": 78.831,
+   "end_sec": 81.813,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D012-S02",
+   "unit_id": "C72-D012",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "ここに腰を下ろしてお待ちください。",
+   "start_sec": 81.963,
+   "end_sec": 83.96,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D012-S03",
+   "unit_id": "C72-D012",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "個人の番号は書かず、手順だけにしますね。",
+   "start_sec": 84.11,
+   "end_sec": 87.216,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D013-S01",
+   "unit_id": "C72-D013",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "ありがとうございます。",
+   "start_sec": 87.566,
+   "end_sec": 88.891,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D013-S02",
+   "unit_id": "C72-D013",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "長く立っていて少し疲れました。",
+   "start_sec": 89.041,
+   "end_sec": 91.173,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D013-S03",
+   "unit_id": "C72-D013",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "荷物を背負ったままでしたし。",
+   "start_sec": 91.323,
+   "end_sec": 93.628,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D014-S01",
+   "unit_id": "C72-D014",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "隣の椅子に置けますよ。",
+   "start_sec": 93.978,
+   "end_sec": 96.128,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D014-S02",
+   "unit_id": "C72-D014",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "ご自分で動かしますか。",
+   "start_sec": 96.278,
+   "end_sec": 98.205,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D014-S03",
+   "unit_id": "C72-D014",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "それとも、手を貸しましょうか。",
+   "start_sec": 98.355,
+   "end_sec": 100.513,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D015-S01",
+   "unit_id": "C72-D015",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "自分でできます。",
+   "start_sec": 100.863,
+   "end_sec": 101.992,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D015-S02",
+   "unit_id": "C72-D015",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "そこまで気を使う必要はありません。",
+   "start_sec": 102.142,
+   "end_sec": 104.71,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D015-S03",
+   "unit_id": "C72-D015",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "でも、聞いてくださるのは嬉しいです。",
+   "start_sec": 104.86,
+   "end_sec": 107.518,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D016-S01",
+   "unit_id": "C72-D016",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "では、手順を書きます。",
+   "start_sec": 107.868,
+   "end_sec": 109.684,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D016-S02",
+   "unit_id": "C72-D016",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "待つ間も、分からないところがあったらおっしゃってください。",
+   "start_sec": 109.834,
+   "end_sec": 112.978,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D017-S01",
+   "unit_id": "C72-D017",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "この短い説明なら、私にも読めます。",
+   "start_sec": 113.328,
+   "end_sec": 116.403,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D017-S02",
+   "unit_id": "C72-D017",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "難しい言葉が多いと、質問するだけで迷惑かと思ってしまうんです。",
+   "start_sec": 116.553,
+   "end_sec": 121.197,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D018-S01",
+   "unit_id": "C72-D018",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "質問は迷惑ではありません。",
+   "start_sec": 121.547,
+   "end_sec": 124.081,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D018-S02",
+   "unit_id": "C72-D018",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "手順を一つ試して、紙の説明と合っているか確認していただけますか。",
+   "start_sec": 124.231,
+   "end_sec": 129.067,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D019-S01",
+   "unit_id": "C72-D019",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "できました。",
+   "start_sec": 129.417,
+   "end_sec": 130.411,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D019-S02",
+   "unit_id": "C72-D019",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "番号を入力すると、この画面になりますね。",
+   "start_sec": 130.561,
+   "end_sec": 133.478,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D019-S03",
+   "unit_id": "C72-D019",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "今度は安心して家で練習できます。",
+   "start_sec": 133.628,
+   "end_sec": 135.916,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D020-S01",
+   "unit_id": "C72-D020",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "よかったです。",
+   "start_sec": 136.266,
+   "end_sec": 137.518,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C72-D020-S02",
+   "unit_id": "C72-D020",
+   "section": "D",
+   "speaker": "坂井",
+   "text": "ご自分で進めたいというお気持ちを、これからも大切にします。",
+   "start_sec": 137.668,
+   "end_sec": 141.778,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

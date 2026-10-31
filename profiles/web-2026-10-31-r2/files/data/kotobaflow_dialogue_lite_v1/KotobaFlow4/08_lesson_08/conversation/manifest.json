@@ -1,0 +1,584 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 121.092,
+ "listening_review": "pending",
+ "source_chapter": 64,
+ "turns": [
+  {
+   "turn_id": "C64-D001",
+   "turn_index": 0,
+   "speaker": "ハサン",
+   "source_text": "この見出しには反論したくなります。でも、利用したこともないのに否定しては、偏見だと思われませんか。",
+   "sentence_ids": [
+    "C64-D001-S01",
+    "C64-D001-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 7.346,
+   "duration_sec": 7.346
+  },
+  {
+   "turn_id": "C64-D002",
+   "turn_index": 1,
+   "speaker": "林梅",
+   "source_text": "サービスではなく説明への意見です。中村さんも同じです。図書館にしてみれば、まず知ってほしいのでしょうね。",
+   "sentence_ids": [
+    "C64-D002-S01",
+    "C64-D002-S02",
+    "C64-D002-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.696,
+   "end_sec": 16.211,
+   "duration_sec": 8.515
+  },
+  {
+   "turn_id": "C64-D003",
+   "turn_index": 2,
+   "speaker": "ハサン",
+   "source_text": "では、元のチラシと林さんの修正案を比べましょう。元のチラシは表の金ピカのエンブレムが目立ちますが、写真にある細長い幟の字は小さいですね。",
+   "sentence_ids": [
+    "C64-D003-S01",
+    "C64-D003-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.561,
+   "end_sec": 28.712,
+   "duration_sec": 12.151
+  },
+  {
+   "turn_id": "C64-D004",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "読みやすさから言えば、修正案の裏は元のチラシよりいいですね。角形の枠で利用条件を囲んでいます。丸形のマークは何ですか。",
+   "sentence_ids": [
+    "C64-D004-S01",
+    "C64-D004-S02",
+    "C64-D004-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 29.062,
+   "end_sec": 38.876,
+   "duration_sec": 9.814
+  },
+  {
+   "turn_id": "C64-D005",
+   "turn_index": 4,
+   "speaker": "ハサン",
+   "source_text": "おすすめの本を示す赤丸です。紅白の色だけでも十分目立ちますね。でも、条件の枠より大きいのは困ります。",
+   "sentence_ids": [
+    "C64-D005-S01",
+    "C64-D005-S02",
+    "C64-D005-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 39.226,
+   "end_sec": 48.066,
+   "duration_sec": 8.84
+  },
+  {
+   "turn_id": "C64-D006",
+   "turn_index": 5,
+   "speaker": "林梅",
+   "source_text": "本当ですね。大型の写真より、小さくても情報が読める写真を選びましょう。人のルックスだけで写真を選ぶのも変です。",
+   "sentence_ids": [
+    "C64-D006-S01",
+    "C64-D006-S02",
+    "C64-D006-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 48.416,
+   "end_sec": 58.377,
+   "duration_sec": 9.961
+  },
+  {
+   "turn_id": "C64-D007",
+   "turn_index": 6,
+   "speaker": "ハサン",
+   "source_text": "修正案に使う写真の候補ですね。このモデルはクールな表情ですね。髪型もかっこいい。でも、隣の後姿の写真では、借り方が分かりません。",
+   "sentence_ids": [
+    "C64-D007-S01",
+    "C64-D007-S02",
+    "C64-D007-S03",
+    "C64-D007-S04"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 58.727,
+   "end_sec": 70.152,
+   "duration_sec": 11.425
+  },
+  {
+   "turn_id": "C64-D008",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "写真にかけては、同僚の森さんが詳しいです。森さんに言わせれば、和風か洋風かより、何を伝えるかが大事だそうです。",
+   "sentence_ids": [
+    "C64-D008-S01",
+    "C64-D008-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 70.502,
+   "end_sec": 81.307,
+   "duration_sec": 10.805
+  },
+  {
+   "turn_id": "C64-D009",
+   "turn_index": 8,
+   "speaker": "ハサン",
+   "source_text": "おしゃれなスタイルもいいですが、もう一枚の候補も、この大柄の布が背景だと、本より布に目が行きますね。図書館の静かな雰囲気を描くほうがよさそうです。",
+   "sentence_ids": [
+    "C64-D009-S01",
+    "C64-D009-S02"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.657,
+   "end_sec": 94.132,
+   "duration_sec": 12.475
+  },
+  {
+   "turn_id": "C64-D010",
+   "turn_index": 9,
+   "speaker": "林梅",
+   "source_text": "ええ。条件の説明を中心に、私がまとめて送ります。私は11月に2冊、待たずに借りられましたが、人気の本は待つことも書きます。",
+   "sentence_ids": [
+    "C64-D010-S01",
+    "C64-D010-S02",
+    "C64-D010-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match",
+    "short_pause"
+   ],
+   "start_sec": 94.482,
+   "end_sec": 104.652,
+   "duration_sec": 10.17
+  },
+  {
+   "turn_id": "C64-D011",
+   "turn_index": 10,
+   "speaker": "ハサン",
+   "source_text": "私の登録は1月にします。年末は忙しくて、読むどころじゃありません。でも、説明を直せば安心して勧められます。",
+   "sentence_ids": [
+    "C64-D011-S01",
+    "C64-D011-S02",
+    "C64-D011-S03"
+   ],
+   "voice_id": "ja-jp-techagent-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 105.002,
+   "end_sec": 114.591,
+   "duration_sec": 9.589
+  },
+  {
+   "turn_id": "C64-D012",
+   "turn_index": 11,
+   "speaker": "林梅",
+   "source_text": "では、期限が2週間であることも忘れずに。送る前に、一緒に内容を確かめましょう。",
+   "sentence_ids": [
+    "C64-D012-S01",
+    "C64-D012-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 114.941,
+   "end_sec": 121.086,
+   "duration_sec": 6.145
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C64-D001-S01",
+   "unit_id": "C64-D001",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "この見出しには反論したくなります。",
+   "start_sec": 0.0,
+   "end_sec": 2.551,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D001-S02",
+   "unit_id": "C64-D001",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "でも、利用したこともないのに否定しては、偏見だと思われませんか。",
+   "start_sec": 2.701,
+   "end_sec": 7.346,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D002-S01",
+   "unit_id": "C64-D002",
+   "section": "D",
+   "speaker": "林",
+   "text": "サービスではなく説明への意見です。",
+   "start_sec": 7.696,
+   "end_sec": 10.776,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D002-S02",
+   "unit_id": "C64-D002",
+   "section": "D",
+   "speaker": "林",
+   "text": "中村さんも同じです。",
+   "start_sec": 10.926,
+   "end_sec": 12.713,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D002-S03",
+   "unit_id": "C64-D002",
+   "section": "D",
+   "speaker": "林",
+   "text": "図書館にしてみれば、まず知ってほしいのでしょうね。",
+   "start_sec": 12.863,
+   "end_sec": 16.211,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D003-S01",
+   "unit_id": "C64-D003",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "では、元のチラシと林さんの修正案を比べましょう。",
+   "start_sec": 16.561,
+   "end_sec": 21.153,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D003-S02",
+   "unit_id": "C64-D003",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "元のチラシは表の金ピカのエンブレムが目立ちますが、写真にある細長い幟の字は小さいですね。",
+   "start_sec": 21.303,
+   "end_sec": 28.712,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D004-S01",
+   "unit_id": "C64-D004",
+   "section": "D",
+   "speaker": "林",
+   "text": "読みやすさから言えば、修正案の裏は元のチラシよりいいですね。",
+   "start_sec": 29.062,
+   "end_sec": 33.406,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D004-S02",
+   "unit_id": "C64-D004",
+   "section": "D",
+   "speaker": "林",
+   "text": "角形の枠で利用条件を囲んでいます。",
+   "start_sec": 33.556,
+   "end_sec": 36.633,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D004-S03",
+   "unit_id": "C64-D004",
+   "section": "D",
+   "speaker": "林",
+   "text": "丸形のマークは何ですか。",
+   "start_sec": 36.783,
+   "end_sec": 38.876,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D005-S01",
+   "unit_id": "C64-D005",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "おすすめの本を示す赤丸です。",
+   "start_sec": 39.226,
+   "end_sec": 42.378,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D005-S02",
+   "unit_id": "C64-D005",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "紅白の色だけでも十分目立ちますね。",
+   "start_sec": 42.528,
+   "end_sec": 45.161,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D005-S03",
+   "unit_id": "C64-D005",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "でも、条件の枠より大きいのは困ります。",
+   "start_sec": 45.311,
+   "end_sec": 48.066,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D006-S01",
+   "unit_id": "C64-D006",
+   "section": "D",
+   "speaker": "林",
+   "text": "本当ですね。",
+   "start_sec": 48.416,
+   "end_sec": 50.3,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D006-S02",
+   "unit_id": "C64-D006",
+   "section": "D",
+   "speaker": "林",
+   "text": "大型の写真より、小さくても情報が読める写真を選びましょう。",
+   "start_sec": 50.45,
+   "end_sec": 55.242,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D006-S03",
+   "unit_id": "C64-D006",
+   "section": "D",
+   "speaker": "林",
+   "text": "人のルックスだけで写真を選ぶのも変です。",
+   "start_sec": 55.392,
+   "end_sec": 58.377,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D007-S01",
+   "unit_id": "C64-D007",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "修正案に使う写真の候補ですね。",
+   "start_sec": 58.727,
+   "end_sec": 61.336,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D007-S02",
+   "unit_id": "C64-D007",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "このモデルはクールな表情ですね。",
+   "start_sec": 61.486,
+   "end_sec": 64.061,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D007-S03",
+   "unit_id": "C64-D007",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "髪型もかっこいい。",
+   "start_sec": 64.211,
+   "end_sec": 65.677,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D007-S04",
+   "unit_id": "C64-D007",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "でも、隣の後姿の写真では、借り方が分かりません。",
+   "start_sec": 65.827,
+   "end_sec": 70.152,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D008-S01",
+   "unit_id": "C64-D008",
+   "section": "D",
+   "speaker": "林",
+   "text": "写真にかけては、同僚の森さんが詳しいです。",
+   "start_sec": 70.502,
+   "end_sec": 73.848,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D008-S02",
+   "unit_id": "C64-D008",
+   "section": "D",
+   "speaker": "林",
+   "text": "森さんに言わせれば、和風か洋風かより、何を伝えるかが大事だそうです。",
+   "start_sec": 73.998,
+   "end_sec": 81.307,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D009-S01",
+   "unit_id": "C64-D009",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "おしゃれなスタイルもいいですが、もう一枚の候補も、この大柄の布が背景だと、本より布に目が行きますね。",
+   "start_sec": 81.657,
+   "end_sec": 90.173,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D009-S02",
+   "unit_id": "C64-D009",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "図書館の静かな雰囲気を描くほうがよさそうです。",
+   "start_sec": 90.323,
+   "end_sec": 94.132,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D010-S01",
+   "unit_id": "C64-D010",
+   "section": "D",
+   "speaker": "林",
+   "text": "ええ。",
+   "start_sec": 94.482,
+   "end_sec": 94.811,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference",
+    "short_pause"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D010-S02",
+   "unit_id": "C64-D010",
+   "section": "D",
+   "speaker": "林",
+   "text": "条件の説明を中心に、私がまとめて送ります。",
+   "start_sec": 94.961,
+   "end_sec": 98.224,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D010-S03",
+   "unit_id": "C64-D010",
+   "section": "D",
+   "speaker": "林",
+   "text": "私は11月に2冊、待たずに借りられましたが、人気の本は待つことも書きます。",
+   "start_sec": 98.374,
+   "end_sec": 104.652,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D011-S01",
+   "unit_id": "C64-D011",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "私の登録は1月にします。",
+   "start_sec": 105.002,
+   "end_sec": 108.016,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D011-S02",
+   "unit_id": "C64-D011",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "年末は忙しくて、読むどころじゃありません。",
+   "start_sec": 108.166,
+   "end_sec": 111.22,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D011-S03",
+   "unit_id": "C64-D011",
+   "section": "D",
+   "speaker": "ハッサン",
+   "text": "でも、説明を直せば安心して勧められます。",
+   "start_sec": 111.37,
+   "end_sec": 114.591,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D012-S01",
+   "unit_id": "C64-D012",
+   "section": "D",
+   "speaker": "林",
+   "text": "では、期限が2週間であることも忘れずに。",
+   "start_sec": 114.941,
+   "end_sec": 118.127,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C64-D012-S02",
+   "unit_id": "C64-D012",
+   "section": "D",
+   "speaker": "林",
+   "text": "送る前に、一緒に内容を確かめましょう。",
+   "start_sec": 118.277,
+   "end_sec": 121.086,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

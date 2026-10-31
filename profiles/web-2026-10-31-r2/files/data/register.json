@@ -1,0 +1,141 @@
+{
+  "taxonomy_name": "register",
+  "taxonomy_kind": "enum",
+  "version": "2.0.0",
+  "unknown_code": "unknown",
+  "description": "register v2 closed vocabulary.",
+  "items": [
+    {
+      "code": "neutral",
+      "label_zh": "中性",
+      "label_ja": "中立",
+      "status": "active"
+    },
+    {
+      "code": "formal",
+      "label_zh": "正式",
+      "label_ja": "フォーマル",
+      "status": "active"
+    },
+    {
+      "code": "informal",
+      "label_zh": "非正式",
+      "label_ja": "インフォーマル",
+      "status": "active"
+    },
+    {
+      "code": "unknown",
+      "label_zh": "未知",
+      "label_ja": "不明",
+      "status": "active"
+    }
+  ],
+  "dimensions": {
+    "politeness": [
+      {
+        "code": "polite",
+        "label_zh": "礼貌语",
+        "label_ja": "丁寧語",
+        "status": "active"
+      },
+      {
+        "code": "honorific",
+        "label_zh": "尊敬语",
+        "label_ja": "尊敬語",
+        "status": "active"
+      },
+      {
+        "code": "humble",
+        "label_zh": "谦让语",
+        "label_ja": "謙譲語",
+        "status": "active"
+      }
+    ],
+    "usage": [
+      {
+        "code": "colloquial",
+        "label_zh": "口语",
+        "label_ja": "口語",
+        "status": "active"
+      },
+      {
+        "code": "slang",
+        "label_zh": "俚语",
+        "label_ja": "俗語",
+        "status": "active"
+      },
+      {
+        "code": "vulgar",
+        "label_zh": "粗俗",
+        "label_ja": "卑語",
+        "status": "active"
+      },
+      {
+        "code": "derogatory",
+        "label_zh": "贬义",
+        "label_ja": "軽蔑",
+        "status": "active"
+      },
+      {
+        "code": "archaic",
+        "label_zh": "古语",
+        "label_ja": "古語",
+        "status": "active"
+      },
+      {
+        "code": "literary",
+        "label_zh": "文学",
+        "label_ja": "文学",
+        "status": "active"
+      },
+      {
+        "code": "dialect",
+        "label_zh": "方言",
+        "label_ja": "方言",
+        "status": "active"
+      },
+      {
+        "code": "children",
+        "label_zh": "儿童用语",
+        "label_ja": "子ども",
+        "status": "active"
+      },
+      {
+        "code": "feminine",
+        "label_zh": "女性用语",
+        "label_ja": "女性語",
+        "status": "active"
+      },
+      {
+        "code": "masculine",
+        "label_zh": "男性用语",
+        "label_ja": "男性語",
+        "status": "active"
+      },
+      {
+        "code": "familiar",
+        "label_zh": "亲昵",
+        "label_ja": "親しい表現",
+        "status": "active"
+      },
+      {
+        "code": "euphemistic",
+        "label_zh": "委婉",
+        "label_ja": "婉曲",
+        "status": "active"
+      },
+      {
+        "code": "joking",
+        "label_zh": "玩笑",
+        "label_ja": "冗談",
+        "status": "active"
+      },
+      {
+        "code": "sensitive",
+        "label_zh": "敏感",
+        "label_ja": "要配慮",
+        "status": "active"
+      }
+    ]
+  }
+}

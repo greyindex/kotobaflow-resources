@@ -30,7 +30,7 @@ def safe_resource_path(value: str) -> PurePosixPath:
 
 
 def load_profile(profile: str) -> dict:
-    if profile not in {'web-2026-10-31', 'android-0.4.2'}:
+    if profile not in {'web-2026-10-31', 'web-2026-10-31-r2', 'android-0.4.2'}:
         raise ValueError('Unknown resource profile')
     manifest = json.loads((ROOT / 'profiles' / profile / 'manifest.json').read_text(encoding='utf-8'))
     if manifest['schema'] != 1 or manifest['profile'] != profile:
@@ -82,7 +82,7 @@ def checked_archive(path: Path, release: dict) -> zipfile.ZipFile:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--profile', required=True, choices=['web-2026-10-31', 'android-0.4.2'])
+    parser.add_argument('--profile', required=True, choices=['web-2026-10-31', 'web-2026-10-31-r2', 'android-0.4.2'])
     parser.add_argument('--target', type=Path)
     parser.add_argument('--media-archive', type=Path)
     parser.add_argument('--metadata-only', action='store_true')

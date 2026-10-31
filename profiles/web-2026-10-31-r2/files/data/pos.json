@@ -1,0 +1,404 @@
+{
+  "taxonomy_name": "pos",
+  "taxonomy_kind": "enum",
+  "version": "2.1.0",
+  "unknown_code": "unknown",
+  "description": "pos v2.1 closed vocabulary, including the taru adjective class.",
+  "items": [
+    {
+      "code": "noun",
+      "label_zh": "名词",
+      "label_ja": "名詞",
+      "status": "active",
+      "aliases": [
+        "名词",
+        "名詞",
+        "名",
+        "n",
+        "体言"
+      ]
+    },
+    {
+      "code": "verb",
+      "label_zh": "动词",
+      "label_ja": "動詞",
+      "status": "active",
+      "aliases": [
+        "动词",
+        "動詞",
+        "动",
+        "動",
+        "v",
+        "用言"
+      ]
+    },
+    {
+      "code": "adjective_i",
+      "label_zh": "い形容词",
+      "label_ja": "イ形容詞",
+      "status": "active",
+      "aliases": [
+        "い形容词",
+        "イ形容词",
+        "い形",
+        "イ形",
+        "形容词i",
+        "i形容词"
+      ]
+    },
+    {
+      "code": "adjective_na",
+      "label_zh": "な形容词",
+      "label_ja": "ナ形容詞",
+      "status": "active",
+      "aliases": [
+        "な形容词",
+        "ナ形容词",
+        "な形",
+        "ナ形",
+        "形容动词",
+        "形容動詞"
+      ]
+    },
+    {
+      "code": "adjective_taru",
+      "label_zh": "タリ形容词",
+      "label_ja": "タリ形容詞",
+      "status": "active"
+    },
+    {
+      "code": "adverb",
+      "label_zh": "副词",
+      "label_ja": "副詞",
+      "status": "active",
+      "aliases": [
+        "副词",
+        "副詞",
+        "副",
+        "adv"
+      ]
+    },
+    {
+      "code": "expression",
+      "label_zh": "表达",
+      "label_ja": "表現",
+      "status": "active",
+      "aliases": [
+        "表达",
+        "固定表达",
+        "固定搭配",
+        "连语",
+        "連語",
+        "expression",
+        "phrase"
+      ]
+    },
+    {
+      "code": "particle",
+      "label_zh": "助词",
+      "label_ja": "助詞",
+      "status": "active",
+      "aliases": [
+        "助词",
+        "助詞",
+        "助",
+        "particle"
+      ]
+    },
+    {
+      "code": "auxiliary",
+      "label_zh": "助动词",
+      "label_ja": "助動詞",
+      "status": "active",
+      "aliases": [
+        "助动词",
+        "助動詞",
+        "辅助词",
+        "辅助动词",
+        "aux",
+        "auxiliary"
+      ]
+    },
+    {
+      "code": "interjection",
+      "label_zh": "感叹词",
+      "label_ja": "感動詞",
+      "status": "active",
+      "aliases": [
+        "感叹词",
+        "感動詞",
+        "叹词",
+        "感",
+        "interjection"
+      ]
+    },
+    {
+      "code": "pronoun",
+      "label_zh": "代词",
+      "label_ja": "代名詞",
+      "status": "active",
+      "aliases": [
+        "代词",
+        "代詞",
+        "代",
+        "pronoun"
+      ]
+    },
+    {
+      "code": "conjunction",
+      "label_zh": "连词",
+      "label_ja": "接続詞",
+      "status": "active",
+      "aliases": [
+        "连词",
+        "連詞",
+        "接续词",
+        "接続詞",
+        "conjunction",
+        "connector"
+      ]
+    },
+    {
+      "code": "adnominal",
+      "label_zh": "连体词",
+      "label_ja": "連体詞",
+      "status": "active"
+    },
+    {
+      "code": "prefix",
+      "label_zh": "接头词",
+      "label_ja": "接頭辞",
+      "status": "active"
+    },
+    {
+      "code": "suffix",
+      "label_zh": "接尾词",
+      "label_ja": "接尾辞",
+      "status": "active"
+    },
+    {
+      "code": "numeral",
+      "label_zh": "数词",
+      "label_ja": "数詞",
+      "status": "active"
+    },
+    {
+      "code": "counter",
+      "label_zh": "量词",
+      "label_ja": "助数詞",
+      "status": "active"
+    },
+    {
+      "code": "unknown",
+      "label_zh": "未知",
+      "label_ja": "不明",
+      "status": "active",
+      "aliases": [
+        "未知",
+        "不明",
+        "未定",
+        "unknown",
+        "other"
+      ]
+    }
+  ],
+  "dimensions": {
+    "subtypes": [
+      {
+        "code": "proper_noun",
+        "label_zh": "专有名词",
+        "label_ja": "固有名詞",
+        "status": "active"
+      },
+      {
+        "code": "temporal_noun",
+        "label_zh": "时间名词",
+        "label_ja": "時間名詞",
+        "status": "active"
+      },
+      {
+        "code": "verbal_noun",
+        "label_zh": "サ变名词",
+        "label_ja": "サ変名詞",
+        "status": "active"
+      },
+      {
+        "code": "adverbial_noun",
+        "label_zh": "副词性名词",
+        "label_ja": "副詞的名詞",
+        "status": "active"
+      },
+      {
+        "code": "onomatopoeia",
+        "label_zh": "拟声拟态词",
+        "label_ja": "オノマトペ",
+        "status": "active"
+      },
+      {
+        "code": "interrogative",
+        "label_zh": "疑问",
+        "label_ja": "疑問",
+        "status": "active"
+      },
+      {
+        "code": "demonstrative",
+        "label_zh": "指示",
+        "label_ja": "指示",
+        "status": "active"
+      },
+      {
+        "code": "personal",
+        "label_zh": "人称",
+        "label_ja": "人称",
+        "status": "active"
+      },
+      {
+        "code": "reflexive",
+        "label_zh": "反身",
+        "label_ja": "再帰",
+        "status": "active"
+      },
+      {
+        "code": "idiom",
+        "label_zh": "惯用语",
+        "label_ja": "慣用句",
+        "status": "active"
+      },
+      {
+        "code": "greeting",
+        "label_zh": "问候语",
+        "label_ja": "挨拶",
+        "status": "active"
+      },
+      {
+        "code": "proverb",
+        "label_zh": "谚语",
+        "label_ja": "ことわざ",
+        "status": "active"
+      },
+      {
+        "code": "fixed_expression",
+        "label_zh": "固定表达",
+        "label_ja": "定型表現",
+        "status": "active"
+      },
+      {
+        "code": "numeral_expression",
+        "label_zh": "数词表达",
+        "label_ja": "数詞表現",
+        "status": "active"
+      },
+      {
+        "code": "counter_expression",
+        "label_zh": "量词表达",
+        "label_ja": "助数詞表現",
+        "status": "active"
+      },
+      {
+        "code": "sentence_expression",
+        "label_zh": "句子表达",
+        "label_ja": "文表現",
+        "status": "active"
+      },
+      {
+        "code": "polite_form",
+        "label_zh": "礼貌形式",
+        "label_ja": "丁寧形",
+        "status": "active"
+      },
+      {
+        "code": "inflected_form",
+        "label_zh": "活用形式",
+        "label_ja": "活用形",
+        "status": "active"
+      },
+      {
+        "code": "auxiliary_verb",
+        "label_zh": "动词型助动词",
+        "label_ja": "動詞型助動詞",
+        "status": "active"
+      },
+      {
+        "code": "auxiliary_adjective",
+        "label_zh": "形容词型助动词",
+        "label_ja": "形容詞型助動詞",
+        "status": "active"
+      },
+      {
+        "code": "copula",
+        "label_zh": "系词",
+        "label_ja": "コピュラ",
+        "status": "active"
+      },
+      {
+        "code": "classical",
+        "label_zh": "古典语",
+        "label_ja": "古典語",
+        "status": "active"
+      },
+      {
+        "code": "prenominal",
+        "label_zh": "前置修饰用法",
+        "label_ja": "連体修飾用法",
+        "status": "active",
+        "description": "名词或动词直接前置修饰名词的用法；不等同独立连体词词类。"
+      }
+    ],
+    "conjugation": [
+      {
+        "code": "godan",
+        "label_zh": "五段",
+        "label_ja": "五段",
+        "status": "active"
+      },
+      {
+        "code": "ichidan",
+        "label_zh": "一段",
+        "label_ja": "一段",
+        "status": "active"
+      },
+      {
+        "code": "suru",
+        "label_zh": "サ变",
+        "label_ja": "サ変",
+        "status": "active"
+      },
+      {
+        "code": "kuru",
+        "label_zh": "カ变",
+        "label_ja": "カ変",
+        "status": "active"
+      },
+      {
+        "code": "zuru",
+        "label_zh": "ザ变",
+        "label_ja": "ザ変",
+        "status": "active"
+      },
+      {
+        "code": "irregular",
+        "label_zh": "不规则",
+        "label_ja": "不規則",
+        "status": "active"
+      },
+      {
+        "code": "classical",
+        "label_zh": "古典活用",
+        "label_ja": "古典活用",
+        "status": "active"
+      },
+      {
+        "code": "not_applicable",
+        "label_zh": "不适用",
+        "label_ja": "該当なし",
+        "status": "active"
+      },
+      {
+        "code": "unknown",
+        "label_zh": "未知",
+        "label_ja": "不明",
+        "status": "active"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4638 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow1",
+  "lesson_id": "lesson_10",
+  "entries": [
+    {
+      "textbook_uid": "cfv-f894265864e43aa5",
+      "index": 388,
+      "word": "ご飯",
+      "reading_hiragana": "ごはん",
+      "context_meaning_zh": "煮好的米饭",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "煮好的米饭",
+          "meaning_ja": "ご飯は、炊いた米を食べる形にしたもの。",
+          "example_ja": "朝はご飯と卵を食べました。",
+          "example_zh": "早饭吃了米饭和鸡蛋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ご飯を炊く",
+          "zh": "煮米饭"
+        },
+        {
+          "ja": "ご飯を食べる",
+          "zh": "吃米饭"
+        }
+      ],
+      "usage_note_zh": "读作「ごはん」时可指熟米饭，也常泛指一餐；本条课内义专指煮好的米饭。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「魚とご飯を食べます」中与鱼并列作食物，原义专指煮熟的米饭，是一般名词。",
+        "dictionary_sequences": [
+          1270590
+        ],
+        "identity": {
+          "word": "ご飯",
+          "reading_hiragana": "ごはん",
+          "meaning": "煮好的米饭"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0016b4221a35e0c0",
+      "index": 389,
+      "word": "肉",
+      "reading_hiragana": "にく",
+      "context_meaning_zh": "肉",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "肉",
+          "meaning_ja": "動物の体から取った、食べるための食品。",
+          "example_ja": "この店では肉を買います。",
+          "example_zh": "我在这家店买肉。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "肉を焼く",
+          "zh": "烤肉"
+        },
+        {
+          "ja": "肉料理",
+          "zh": "肉类菜肴"
+        }
+      ],
+      "usage_note_zh": "泛指可食用的肉；具体肉类可用「牛肉」「豚肉」等说明。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "购物清单中的肉指可食用肉类，词典也列其他身体或果肉义但不适用。",
+        "dictionary_sequences": [
+          1463520
+        ],
+        "identity": {
+          "word": "肉",
+          "reading_hiragana": "にく",
+          "meaning": "肉"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e211f7e6020fc8a7",
+      "index": 390,
+      "word": "魚",
+      "reading_hiragana": "さかな",
+      "context_meaning_zh": "作为食物的鱼",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "作为食物的鱼",
+          "meaning_ja": "水の中にすみ、食べ物にもなる動物。",
+          "example_ja": "魚を三切れください。",
+          "example_zh": "请给我三片鱼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "魚を焼く",
+          "zh": "烤鱼"
+        },
+        {
+          "ja": "魚料理",
+          "zh": "鱼类菜肴"
+        }
+      ],
+      "usage_note_zh": "「さかな」可指活鱼，也可指作为食物的鱼；说鱼肉时常由饮食语境区分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "与米饭同吃的鱼作为食物名词，日常用法；未限定具体鱼种。",
+        "dictionary_sequences": [
+          1578010
+        ],
+        "identity": {
+          "word": "魚",
+          "reading_hiragana": "さかな",
+          "meaning": "作为食物的鱼"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fc319833edb35cfd",
+      "index": 391,
+      "word": "野菜",
+      "reading_hiragana": "やさい",
+      "context_meaning_zh": "蔬菜",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蔬菜",
+          "meaning_ja": "畑などで作られ、食べる植物。",
+          "example_ja": "野菜を毎日食べるようにしています。",
+          "example_zh": "我尽量每天都吃蔬菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "野菜を切る",
+          "zh": "切蔬菜"
+        },
+        {
+          "ja": "野菜サラダ",
+          "zh": "蔬菜沙拉"
+        }
+      ],
+      "usage_note_zh": "蔬菜的总称；与肉、鱼等食材相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "鸡蛋和蔬菜是想购买的食物，取蔬菜名词义；词典另列slang的cannabis义与本句无关。",
+        "dictionary_sequences": [
+          1537370
+        ],
+        "identity": {
+          "word": "野菜",
+          "reading_hiragana": "やさい",
+          "meaning": "蔬菜"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ccd32d751e0940c1",
+      "index": 392,
+      "word": "卵",
+      "reading_hiragana": "たまご",
+      "context_meaning_zh": "蛋",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "蛋",
+          "meaning_ja": "鳥などが産み、料理に使う丸い食べ物。",
+          "example_ja": "卵を二つ使ってオムレツを作ります。",
+          "example_zh": "我用两个鸡蛋做煎蛋卷。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "卵を割る",
+          "zh": "打鸡蛋"
+        },
+        {
+          "ja": "卵焼き",
+          "zh": "煎蛋卷"
+        }
+      ],
+      "usage_note_zh": "通常指鸡蛋等可食用的蛋；「卵」也可指动物尚未孵化的蛋。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本条普通鸡蛋义，数量少作主语；词典收蛋、鱼卵等义，未取人才比喻义。",
+        "dictionary_sequences": [
+          1549140
+        ],
+        "identity": {
+          "word": "卵",
+          "reading_hiragana": "たまご",
+          "meaning": "蛋"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b4b74fff3c950a91",
+      "index": 393,
+      "word": "牛乳",
+      "reading_hiragana": "ぎゅうにゅう",
+      "context_meaning_zh": "牛奶",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "牛奶",
+          "meaning_ja": "牛からしぼった白い飲み物。",
+          "example_ja": "牛乳を冷蔵庫に入れてください。",
+          "example_zh": "请把牛奶放进冰箱。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "牛乳を飲む",
+          "zh": "喝牛奶"
+        },
+        {
+          "ja": "牛乳を温める",
+          "zh": "热牛奶"
+        }
+      ],
+      "usage_note_zh": "专指牛的乳汁作为饮品；其他动物乳液需注明种类。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指牛乳作为食品饮品，肉和牛乳同购例句及词典义吻合。",
+        "dictionary_sequences": [
+          1231590
+        ],
+        "identity": {
+          "word": "牛乳",
+          "reading_hiragana": "ぎゅうにゅう",
+          "meaning": "牛奶"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b951d75b2d5978e3",
+      "index": 394,
+      "word": "コーヒー",
+      "reading_hiragana": "こーひー",
+      "context_meaning_zh": "咖啡",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "咖啡",
+          "meaning_ja": "コーヒー豆から作る、香りのある飲み物。",
+          "example_ja": "食後にコーヒーを一杯飲みました。",
+          "example_zh": "饭后喝了一杯咖啡。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "コーヒーを飲む",
+          "zh": "喝咖啡"
+        },
+        {
+          "ja": "コーヒー一杯",
+          "zh": "一杯咖啡"
+        }
+      ],
+      "usage_note_zh": "可指咖啡饮品，也可指咖啡豆或冲好的咖啡，通常由上下文确定。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "价格表中コーヒー为咖啡饮料，符合词典coffee义；句末です不改变词语的语体属性。",
+        "dictionary_sequences": [
+          1049180
+        ],
+        "identity": {
+          "word": "コーヒー",
+          "reading_hiragana": "こーひー",
+          "meaning": "咖啡"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-27f125b2f129d653",
+      "index": 395,
+      "word": "ジュース",
+      "reading_hiragana": "じゅーす",
+      "context_meaning_zh": "果汁饮料",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "果汁饮料",
+          "meaning_ja": "果物の汁などを使った甘い飲み物。",
+          "example_ja": "子どもにジュースを買いました。",
+          "example_zh": "我给孩子买了果汁饮料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ジュースを飲む",
+          "zh": "喝果汁饮料"
+        },
+        {
+          "ja": "オレンジジュース",
+          "zh": "橙汁"
+        }
+      ],
+      "usage_note_zh": "日常日语常泛指果汁类或软饮；本课义为果汁饮料。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课ジュース指果汁类饮料，例中按瓶购买；非体育deuce义，也没有特殊正式或教材体裁特征。",
+        "dictionary_sequences": [
+          1065950
+        ],
+        "identity": {
+          "word": "ジュース",
+          "reading_hiragana": "じゅーす",
+          "meaning": "果汁饮料"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cf9abac94d8592e0",
+      "index": 396,
+      "word": "円",
+      "reading_hiragana": "えん",
+      "context_meaning_zh": "日元单位",
+      "pos_ja": "名詞・助数詞",
+      "pos_zh": "名词・量词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日元单位",
+          "meaning_ja": "日本でお金の額を数えるときに使う単位。",
+          "example_ja": "このノートは三百円です。",
+          "example_zh": "这个笔记本三百日元。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "百円",
+          "zh": "一百日元"
+        },
+        {
+          "ja": "円で払う",
+          "zh": "用日元支付"
+        }
+      ],
+      "usage_note_zh": "金额数字后接「円」表示日元价格；与表示圆形的「円（まる）」用法不同。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "counter"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "蛋价例句中的円是日元货币单位；词典同时列圆形义，但当前有效释义仅货币单位。",
+        "dictionary_sequences": [
+          1175570
+        ],
+        "identity": {
+          "word": "円",
+          "reading_hiragana": "えん",
+          "meaning": "日元单位"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-34db335210e75bf9",
+      "index": 397,
+      "word": "百",
+      "reading_hiragana": "ひゃく",
+      "context_meaning_zh": "一百",
+      "pos_ja": "名詞・数詞",
+      "pos_zh": "名词・数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一百",
+          "meaning_ja": "十が十個集まった数。",
+          "example_ja": "百円玉を一枚持っています。",
+          "example_zh": "我有一枚百日元硬币。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "百円",
+          "zh": "一百日元"
+        },
+        {
+          "ja": "百人",
+          "zh": "一百人"
+        }
+      ],
+      "usage_note_zh": "「百」表示100；与其他数词组合时部分读音会发生变化，如「三百（さんびゃく）」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "noun",
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "四百円中的百与数词四结合表示金额数值，不是计量助数词本身。",
+        "dictionary_sequences": [
+          1488000
+        ],
+        "identity": {
+          "word": "百",
+          "reading_hiragana": "ひゃく",
+          "meaning": "一百"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f040d27ff8b4008a",
+      "index": 398,
+      "word": "千",
+      "reading_hiragana": "せん",
+      "context_meaning_zh": "一千",
+      "pos_ja": "名詞・数詞",
+      "pos_zh": "名词・数词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一千",
+          "meaning_ja": "百が十個集まった数。",
+          "example_ja": "この本は千円です。",
+          "example_zh": "这本书一千日元。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "千円",
+          "zh": "一千日元"
+        },
+        {
+          "ja": "千人",
+          "zh": "一千人"
+        }
+      ],
+      "usage_note_zh": "「千」表示1000；组合时读音有变化，如「三千（さんぜん）」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "noun",
+          "numeral"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "千円中的千表示数值一千，作数词修饰货币单位。",
+        "dictionary_sequences": [
+          1388740
+        ],
+        "identity": {
+          "word": "千",
+          "reading_hiragana": "せん",
+          "meaning": "一千"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1ad85aceb506965e",
+      "index": 399,
+      "word": "いくら",
+      "reading_hiragana": "いくら",
+      "context_meaning_zh": "询问价钱",
+      "pos_ja": "名詞・副詞・代名詞",
+      "pos_zh": "名词・副词・代词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "询问价钱",
+          "meaning_ja": "物の値段がどれほどかをたずねる言葉。",
+          "example_ja": "このりんごは一ついくらですか。",
+          "example_zh": "这个苹果一个多少钱？"
+        },
+        {
+          "meaning_zh": "无论多少；无论怎样",
+          "meaning_ja": "程度がどれほど大きくても結果が変わらないことを表す。",
+          "example_ja": "いくら説明しても、彼は聞きません。",
+          "example_zh": "无论怎么解释，他都不听。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "いくらですか",
+          "zh": "多少钱？"
+        },
+        {
+          "ja": "いくら払う",
+          "zh": "付多少钱"
+        }
+      ],
+      "usage_note_zh": "询问价格常用「いくらですか」；「いくら〜ても」还可表示无论多么……，属于另一句型用法。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "noun",
+          "adverb",
+          "pronoun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "此条专指询价，既可作疑问代词名词，也可作程度副词；词典列how much及however much。",
+        "dictionary_sequences": [
+          1219980
+        ],
+        "identity": {
+          "word": "いくら",
+          "reading_hiragana": "いくら",
+          "meaning": "询问价钱"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8da6f17dc511ae88",
+      "index": 400,
+      "word": "いくつ",
+      "reading_hiragana": "いくつ",
+      "context_meaning_zh": "询问个数",
+      "pos_ja": "副詞・代名詞・疑問",
+      "pos_zh": "副词・代词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "询问个数",
+          "meaning_ja": "物の数をたずねる言葉。人の年齢を聞くときにも使う。",
+          "example_ja": "この箱にみかんはいくつありますか。",
+          "example_zh": "这个箱子里有几个橘子？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "いくつありますか",
+          "zh": "有几个？"
+        },
+        {
+          "ja": "お子さんはいくつですか",
+          "zh": "您的孩子几岁？"
+        }
+      ],
+      "usage_note_zh": "可询问物品个数，也可问年龄；数量对象不明时用「いくつ」，有专用量词时也可用相应问法。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "adverb",
+          "pronoun"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "本课询问面包数量；词典列疑问副词义，语法上也可独立指代所问数量，不是表示具体数值的数词。",
+        "dictionary_sequences": [
+          1219960
+        ],
+        "identity": {
+          "word": "いくつ",
+          "reading_hiragana": "いくつ",
+          "meaning": "询问个数"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7027be70d79c477f",
+      "index": 401,
+      "word": "一つ",
+      "reading_hiragana": "ひとつ",
+      "context_meaning_zh": "一个",
+      "pos_ja": "名詞・数詞・助数詞",
+      "pos_zh": "名词・数词・量词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "一个",
+          "meaning_ja": "物を一個数えるときの言い方。",
+          "example_ja": "りんごを一つください。",
+          "example_zh": "请给我一个苹果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "一つください",
+          "zh": "请给我一个"
+        },
+        {
+          "ja": "一つずつ",
+          "zh": "一个一个地"
+        }
+      ],
+      "usage_note_zh": "「ひとつ」是通用计数表达，可数多种物品；数人或细长物等通常使用专用量词。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "noun",
+          "numeral",
+          "counter"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「キャベツは一つ百円」以ひとつ计数单个蔬菜，是和语数词兼通用计数词；不取词典中‘首先’等其他副词义。",
+        "dictionary_sequences": [
+          1160820
+        ],
+        "identity": {
+          "word": "一つ",
+          "reading_hiragana": "ひとつ",
+          "meaning": "一个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-69880fbaaee10388",
+      "index": 402,
+      "word": "二つ",
+      "reading_hiragana": "ふたつ",
+      "context_meaning_zh": "两个",
+      "pos_ja": "数詞・助数詞・数詞表現",
+      "pos_zh": "数词・量词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "两个",
+          "meaning_ja": "物を二個数えるときの言い方。",
+          "example_ja": "机の上に箱が二つあります。",
+          "example_zh": "桌上有两个箱子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二つある",
+          "zh": "有两个"
+        },
+        {
+          "ja": "二つに分ける",
+          "zh": "分成两份"
+        }
+      ],
+      "usage_note_zh": "用于物品通用计数，也可说「二つに分ける」表示分成两份；年龄读法通常不是「ふたつ」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral",
+          "counter"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "二つ表示两个物品，例句以它与卵、面包的数量并列；属于日语つ系列通用数词/计数表达。",
+        "dictionary_sequences": [
+          1461160
+        ],
+        "identity": {
+          "word": "二つ",
+          "reading_hiragana": "ふたつ",
+          "meaning": "两个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fa3fc063ad63b32a",
+      "index": 403,
+      "word": "三つ",
+      "reading_hiragana": "みっつ",
+      "context_meaning_zh": "三个",
+      "pos_ja": "名詞・数詞・数詞表現",
+      "pos_zh": "名词・数词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "三个",
+          "meaning_ja": "物を三個数えるときの言い方。",
+          "example_ja": "皿を三つ並べてください。",
+          "example_zh": "请摆好三个盘子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "三つ並べる",
+          "zh": "摆三个"
+        },
+        {
+          "ja": "三つください",
+          "zh": "请给我三个"
+        }
+      ],
+      "usage_note_zh": "「みっつ」可通用计数物品；也可用于幼儿年龄「三つ（みっつ）」即三岁，需由语境区分。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "noun",
+          "numeral"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "面包数量与一张袋子的计数方式对照，「三つ」作和语数词计三件物品。",
+        "dictionary_sequences": [
+          1299740
+        ],
+        "identity": {
+          "word": "三つ",
+          "reading_hiragana": "みっつ",
+          "meaning": "三个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4e61ca756835a0a4",
+      "index": 404,
+      "word": "欲しい",
+      "reading_hiragana": "ほしい",
+      "context_meaning_zh": "想要某物",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "想要某物",
+          "meaning_ja": "自分がある物を手に入れたいと思う気持ちを表す。",
+          "example_ja": "新しい靴が欲しいです。",
+          "example_zh": "我想要一双新鞋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "水が欲しい",
+          "zh": "想要水"
+        },
+        {
+          "ja": "欲しい物",
+          "zh": "想要的东西"
+        }
+      ],
+      "usage_note_zh": "愿望对象用「が」标记，如「時間が欲しい」；表示想做某事时用动词「〜たい」，不直接接在动词连用形后用「欲しい」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本条指说话者想要鸡蛋和蔬菜的い形容词；词典另有接在动词后表示希望对方行动的用法，但当前身份与例句不支持并入。",
+        "dictionary_sequences": [
+          1547330
+        ],
+        "identity": {
+          "word": "欲しい",
+          "reading_hiragana": "ほしい",
+          "meaning": "想要某物"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4b3c920c728df528",
+      "index": 405,
+      "word": "注文",
+      "reading_hiragana": "ちゅうもん",
+      "context_meaning_zh": "点餐或订购",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "点餐或订购",
+          "meaning_ja": "店などに、欲しい物を伝えて用意してもらうこと。",
+          "example_ja": "店員にサンドイッチを注文しました。",
+          "example_zh": "我向店员点了三明治。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "注文する",
+          "zh": "点单／订购"
+        },
+        {
+          "ja": "注文を受ける",
+          "zh": "接受订单"
+        }
+      ],
+      "usage_note_zh": "「注文する」可点餐或订购商品；说明订购内容时用「商品を注文する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "transitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“私の注文”指餐饮点单或订购内容，JMdict两个义项均为名词兼及物サ变。",
+        "dictionary_sequences": [
+          1426650
+        ],
+        "identity": {
+          "word": "注文",
+          "reading_hiragana": "ちゅうもん",
+          "meaning": "点餐或订购"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e2fdb7d55ac53eee",
+      "index": 406,
+      "word": "メニュー",
+      "reading_hiragana": "めにゅー",
+      "context_meaning_zh": "菜单",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "菜单",
+          "meaning_ja": "店で出す料理や飲み物を書いた一覧。",
+          "example_ja": "メニューを見てから飲み物を決めます。",
+          "example_zh": "看过菜单后再决定饮料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "メニューを見る",
+          "zh": "看菜单"
+        },
+        {
+          "ja": "メニューにある",
+          "zh": "菜单上有"
+        }
+      ],
+      "usage_note_zh": "通常指供顾客选择的菜单；也可用于软件中的功能选单。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "菜单价格含税说明这里指餐饮菜品目录，词典menu义适用，不是节目表义。",
+        "dictionary_sequences": [
+          1133790
+        ],
+        "identity": {
+          "word": "メニュー",
+          "reading_hiragana": "めにゅー",
+          "meaning": "菜单"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dfa848f7d47a323d",
+      "index": 407,
+      "word": "値段",
+      "reading_hiragana": "ねだん",
+      "context_meaning_zh": "价格",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "价格",
+          "meaning_ja": "物を買うときに払う金額。",
+          "example_ja": "このかばんの値段を教えてください。",
+          "example_zh": "请告诉我这个包的价格。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "値段が高い",
+          "zh": "价格高"
+        },
+        {
+          "ja": "値段を聞く",
+          "zh": "询问价格"
+        }
+      ],
+      "usage_note_zh": "表示商品的价格，常与「高い／安い」搭配；正式标价也可说「価格」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "菜单标价含税，明确是商品价格名词；词典直接支持。",
+        "dictionary_sequences": [
+          1600160
+        ],
+        "identity": {
+          "word": "値段",
+          "reading_hiragana": "ねだん",
+          "meaning": "价格"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-72d42ebfd85b0d38",
+      "index": 408,
+      "word": "袋",
+      "reading_hiragana": "ふくろ",
+      "context_meaning_zh": "袋子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "袋子",
+          "meaning_ja": "物を入れて持ち運ぶための入れ物。",
+          "example_ja": "買った野菜を袋に入れました。",
+          "example_zh": "我把买的蔬菜装进袋子里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "袋に入れる",
+          "zh": "装进袋子"
+        },
+        {
+          "ja": "紙袋",
+          "zh": "纸袋"
+        }
+      ],
+      "usage_note_zh": "指袋状容器；购物语境中的购物袋也常简称「袋」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "指装东西的袋状容器；购物语境中可简说袋，句中以满了描述袋内空间。",
+        "dictionary_sequences": [
+          1411070
+        ],
+        "identity": {
+          "word": "袋",
+          "reading_hiragana": "ふくろ",
+          "meaning": "袋子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9b43f39d55c71f9e",
+      "index": 409,
+      "word": "レシート",
+      "reading_hiragana": "れしーと",
+      "context_meaning_zh": "收据",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "收据",
+          "meaning_ja": "買った物や金額が書かれた、店から受け取る紙。",
+          "example_ja": "レシートを財布に入れておきます。",
+          "example_zh": "我把收据放进钱包里。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "レシートをもらう",
+          "zh": "拿收据"
+        },
+        {
+          "ja": "レシートを保管する",
+          "zh": "保管收据"
+        }
+      ],
+      "usage_note_zh": "「レシート」通常是购物后得到的小票；报销用正式凭证可能称「領収書」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "购买明细与付款金额相连的收银小票；词典收据义吻合。",
+        "dictionary_sequences": [
+          1145060
+        ],
+        "identity": {
+          "word": "レシート",
+          "reading_hiragana": "れしーと",
+          "meaning": "收据"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-be99933cc0f2ce23",
+      "index": 410,
+      "word": "枚",
+      "reading_hiragana": "まい",
+      "context_meaning_zh": "数薄平物品的量词",
+      "pos_ja": "助数詞・助数詞表現",
+      "pos_zh": "量词・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数薄平物品的量词",
+          "meaning_ja": "紙や皿のように、薄くて平らな物を数える言葉。",
+          "example_ja": "切手を三枚ください。",
+          "example_zh": "请给我三张邮票。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "紙を一枚",
+          "zh": "一张纸"
+        },
+        {
+          "ja": "皿を二枚",
+          "zh": "两个盘子"
+        }
+      ],
+      "usage_note_zh": "数纸、票、盘等薄平物；数字后读音会变化，如「一枚（いちまい）」「三枚（さんまい）」。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "counter"
+        ],
+        "subtypes": [
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「袋は一枚十円」按张数计价，符合枚计数薄平物品的量词义；课程补充数字读法。",
+        "dictionary_sequences": [
+          1524610
+        ],
+        "identity": {
+          "word": "枚",
+          "reading_hiragana": "まい",
+          "meaning": "数薄平物品的量词"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1a374c8b5bd46ab5",
+      "index": 411,
+      "word": "本",
+      "reading_hiragana": "ほん",
+      "context_meaning_zh": "数细长物品的量词",
+      "pos_ja": "接尾辞・助数詞・助数詞表現",
+      "pos_zh": "接尾词・量词・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数细长物品的量词",
+          "meaning_ja": "鉛筆や傘のように、細長い物を数える言葉。",
+          "example_ja": "鉛筆を二本買いました。",
+          "example_zh": "我买了两支铅笔。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "鉛筆一本",
+          "zh": "一支铅笔"
+        },
+        {
+          "ja": "傘を三本",
+          "zh": "三把伞"
+        }
+      ],
+      "usage_note_zh": "作为量词读「ほん」，用于细长物；数字前后会引起音变，如「一本（いっぽん）」「三本（さんぼん）」。与表示书的「本（ほん）」同音，意义由名词和数量结构判断。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "suffix",
+          "counter"
+        ],
+        "subtypes": [
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "context",
+          "usage"
+        ],
+        "note_zh": "「本」是接在数量表达后计算细长物体的助数词，本句「ジュース二本」中计数的是瓶装饮料，并非数词本身。",
+        "dictionary_sequences": [
+          1522150
+        ],
+        "identity": {
+          "word": "本",
+          "reading_hiragana": "ほん",
+          "meaning": "数细长物品的量词"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ffd43da01afb5132",
+      "index": 412,
+      "word": "杯",
+      "reading_hiragana": "はい",
+      "context_meaning_zh": "数杯装饮料的量词",
+      "pos_ja": "名詞・助数詞・助数詞表現",
+      "pos_zh": "名词・量词・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数杯装饮料的量词",
+          "meaning_ja": "コップや茶わんに入れた飲み物を数える言葉。",
+          "example_ja": "水を二杯飲みました。",
+          "example_zh": "我喝了两杯水。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "水を一杯",
+          "zh": "一杯水"
+        },
+        {
+          "ja": "コーヒー三杯",
+          "zh": "三杯咖啡"
+        }
+      ],
+      "usage_note_zh": "数杯装饮料，读音随数字变化：「一杯（いっぱい）」「三杯（さんばい）」。本条「はい」是词条基本读音。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "noun",
+          "counter"
+        ],
+        "subtypes": [
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "一杯汤的价格结构以杯计量液体份数；词典提供杯量词义，虽同形作杯具名词，本例不取该义。",
+        "dictionary_sequences": [
+          2019640
+        ],
+        "identity": {
+          "word": "杯",
+          "reading_hiragana": "はい",
+          "meaning": "数杯装饮料的量词"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f3944d5e6013fe44",
+      "index": 413,
+      "word": "個",
+      "reading_hiragana": "こ",
+      "context_meaning_zh": "数个体物品的量词",
+      "pos_ja": "接尾辞・助数詞",
+      "pos_zh": "接尾词・量词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数个体物品的量词",
+          "meaning_ja": "形のまとまりがある物を数えるときの言葉。",
+          "example_ja": "卵を五個買いました。",
+          "example_zh": "我买了五个鸡蛋。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "りんご一個",
+          "zh": "一个苹果"
+        },
+        {
+          "ja": "卵を二個",
+          "zh": "两个鸡蛋"
+        }
+      ],
+      "usage_note_zh": "可数蛋、苹果等个体物品；细长、薄平等有专门量词的物品通常优先用专用量词。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "suffix",
+          "counter"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "卵は十個中的個是小型物件的计数后缀；词典还收其他计数范围，但当前为物品量词。",
+        "dictionary_sequences": [
+          1264740
+        ],
+        "identity": {
+          "word": "個",
+          "reading_hiragana": "こ",
+          "meaning": "数个体物品的量词"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-bcd043d7b2fdb492",
+      "index": 414,
+      "word": "人",
+      "reading_hiragana": "にん",
+      "context_meaning_zh": "人数单位的读法",
+      "pos_ja": "助数詞・助数詞表現",
+      "pos_zh": "量词・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "人数单位的读法",
+          "meaning_ja": "人の数を表すとき、数字の後につける言葉。",
+          "example_ja": "会場に学生が四人います。",
+          "example_zh": "会场里有四名学生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "学生三人",
+          "zh": "三名学生"
+        },
+        {
+          "ja": "何人いますか",
+          "zh": "有几个人？"
+        }
+      ],
+      "usage_note_zh": "数人时用「人（にん）」，但一人读「ひとり」、二人读「ふたり」；询问人数说「何人（なんにん）」。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "counter"
+        ],
+        "subtypes": [
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "人读にん用于计数人，例句三人います明确是人数计数；一人和二人有特殊读法。",
+        "dictionary_sequences": [
+          2149890
+        ],
+        "identity": {
+          "word": "人",
+          "reading_hiragana": "にん",
+          "meaning": "人数单位的读法"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2bca7e4678a7d7ba",
+      "index": 415,
+      "word": "二人",
+      "reading_hiragana": "ふたり",
+      "context_meaning_zh": "两个人",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "两个人",
+          "meaning_ja": "人が二人いること、または二人であること。",
+          "example_ja": "二人で映画を見に行きました。",
+          "example_zh": "我们两个人一起去看电影了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "二人で行く",
+          "zh": "两个人一起去"
+        },
+        {
+          "ja": "二人分",
+          "zh": "两人份"
+        }
+      ],
+      "usage_note_zh": "「ふたり」是两人的固定读法；说两人一起做事用「二人で」，说人数则可用「二人います」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "与林梅两个人一同吃饭，词典two persons义，长对话中对象关系明确。",
+        "dictionary_sequences": [
+          1582670
+        ],
+        "identity": {
+          "word": "二人",
+          "reading_hiragana": "ふたり",
+          "meaning": "两个人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-77ed20e2488ddf1d",
+      "index": 416,
+      "word": "税込",
+      "reading_hiragana": "ぜいこみ",
+      "context_meaning_zh": "含税",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "含税",
+          "meaning_ja": "表示値段に税金が含まれていること。",
+          "example_ja": "この値段は税込です。",
+          "example_zh": "这个价格含税。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "税込価格",
+          "zh": "含税价格"
+        },
+        {
+          "ja": "税込で千円",
+          "zh": "含税一千日元"
+        }
+      ],
+      "usage_note_zh": "通常放在价格或商品标记之后表示已含消费税；与「税抜」相对。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "税込表示价格已含税，本例将该名词作谓语；词典也收连体修饰构式，但不因此另标连体词。",
+        "dictionary_sequences": [
+          1596250
+        ],
+        "identity": {
+          "word": "税込",
+          "reading_hiragana": "ぜいこみ",
+          "meaning": "含税"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8b212624ed6fad3c",
+      "index": 417,
+      "word": "パン",
+      "reading_hiragana": "ぱん",
+      "context_meaning_zh": "面包",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "面包",
+          "meaning_ja": "小麦粉などをこねて焼いた食品。",
+          "example_ja": "朝食にパンを二枚食べました。",
+          "example_zh": "早餐吃了两片面包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "パンを焼く",
+          "zh": "烤面包"
+        },
+        {
+          "ja": "パン屋",
+          "zh": "面包店"
+        }
+      ],
+      "usage_note_zh": "泛指面包类食品；计数时可按切片用「枚」，按整个面包或包装也可用「個」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "价格对话中计数为一个面包，明确采用食品义；不取同音外来词的其他义项。",
+        "dictionary_sequences": [
+          1103090
+        ],
+        "identity": {
+          "word": "パン",
+          "reading_hiragana": "ぱん",
+          "meaning": "面包"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-73d16a52522a9559",
+      "index": 418,
+      "word": "少し",
+      "reading_hiragana": "すこし",
+      "context_meaning_zh": "少量",
+      "pos_ja": "副詞",
+      "pos_zh": "副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "少量",
+          "meaning_ja": "量や程度が大きくないことを表す言葉。",
+          "example_ja": "砂糖を少し入れてください。",
+          "example_zh": "请放一点糖。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "少し待つ",
+          "zh": "稍等"
+        },
+        {
+          "ja": "少しだけ",
+          "zh": "只有一点"
+        }
+      ],
+      "usage_note_zh": "修饰动作或数量表示“一点、稍微”；可接「だけ」限定少量，也可用「少しの＋名词」。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「少しだけ」限定饭量为少量，词典各义均作副词。",
+        "dictionary_sequences": [
+          1348870
+        ],
+        "identity": {
+          "word": "少し",
+          "reading_hiragana": "すこし",
+          "meaning": "少量"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4369c9c5ec7ff64c",
+      "index": 419,
+      "word": "箸",
+      "reading_hiragana": "はし",
+      "context_meaning_zh": "筷子",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "筷子",
+          "meaning_ja": "食べ物をはさんで口へ運ぶ二本の道具。",
+          "example_ja": "箸を使って魚を食べます。",
+          "example_zh": "我用筷子吃鱼。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "箸を使う",
+          "zh": "用筷子"
+        },
+        {
+          "ja": "箸を置く",
+          "zh": "放下筷子"
+        }
+      ],
+      "usage_note_zh": "读作「はし」时指筷子；与同音的「橋」（桥）不同，书写和语境可辨。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "筷子在桌上，词典词条指夹取食物的一双筷子。",
+        "dictionary_sequences": [
+          1476410
+        ],
+        "identity": {
+          "word": "箸",
+          "reading_hiragana": "はし",
+          "meaning": "筷子"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e1c1d5f93082ea49",
+      "index": 420,
+      "word": "ご飯",
+      "reading_hiragana": "ごはん",
+      "context_meaning_zh": "饭、米饭",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饭、米饭",
+          "meaning_ja": "食事として食べるもの、または炊いた米。",
+          "example_ja": "昼ご飯は家で食べます。",
+          "example_zh": "午饭在家吃。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ご飯を作る",
+          "zh": "做饭"
+        },
+        {
+          "ja": "ご飯の時間",
+          "zh": "吃饭时间"
+        }
+      ],
+      "usage_note_zh": "「ご飯」可泛指一餐，也可专指熟米饭；结合搭配判断，本条原义“饭、米饭”保留。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「カフェでご飯を食べます」指在咖啡馆吃一餐；词典同时支持meal义，不能缩窄为米饭。",
+        "dictionary_sequences": [
+          1270590
+        ],
+        "identity": {
+          "word": "ご飯",
+          "reading_hiragana": "ごはん",
+          "meaning": "饭、米饭"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4a681a30006c29bb",
+      "index": 421,
+      "word": "どれ",
+      "reading_hiragana": "どれ",
+      "context_meaning_zh": "哪一个",
+      "pos_ja": "代名詞・疑問",
+      "pos_zh": "代词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "哪一个",
+          "meaning_ja": "いくつかある物の中から、どの物かをたずねる言葉。",
+          "example_ja": "あなたの傘はどれですか。",
+          "example_zh": "哪一把是你的伞？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どれですか",
+          "zh": "是哪一个？"
+        },
+        {
+          "ja": "どれを選ぶ",
+          "zh": "选哪一个"
+        }
+      ],
+      "usage_note_zh": "独立指代物品；修饰名词时用连体词「どの＋名词」，不能说「どれ本」。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "どれは複数候选中询问哪一个的普通疑问代词；问句中的ですか不使代词带礼貌属性。",
+        "dictionary_sequences": [
+          1009290
+        ],
+        "identity": {
+          "word": "どれ",
+          "reading_hiragana": "どれ",
+          "meaning": "哪一个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-12a0f6a50ca4b90e",
+      "index": 422,
+      "word": "スープ",
+      "reading_hiragana": "スープ",
+      "context_meaning_zh": "汤",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "汤",
+          "meaning_ja": "肉や野菜などを煮て作る汁の料理。",
+          "example_ja": "寒い日はスープを飲みます。",
+          "example_zh": "天冷时喝汤。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "スープを飲む",
+          "zh": "喝汤"
+        },
+        {
+          "ja": "野菜スープ",
+          "zh": "蔬菜汤"
+        }
+      ],
+      "usage_note_zh": "通常指西式或泛称的汤类；日式清汤也常称「汁（しる）」「みそ汁」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "课程例句以价格计量汤；词典标注西式汤义，教学注释也区分日式汁物。",
+        "dictionary_sequences": [
+          1067040
+        ],
+        "identity": {
+          "word": "スープ",
+          "reading_hiragana": "スープ",
+          "meaning": "汤"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-5febf8f12ff8f14c",
+      "index": 423,
+      "word": "テーブル",
+      "reading_hiragana": "テーブル",
+      "context_meaning_zh": "饭桌",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饭桌",
+          "meaning_ja": "食事や作業のために使う平らな家具。",
+          "example_ja": "テーブルの上に皿を置きました。",
+          "example_zh": "我把盘子放在桌上。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "テーブルの上",
+          "zh": "桌子上"
+        },
+        {
+          "ja": "テーブルを囲む",
+          "zh": "围坐在桌旁"
+        }
+      ],
+      "usage_note_zh": "通常指桌子；「食卓」特指用餐的桌子。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「箸はテーブルの上」指用餐和放置物品的桌子名词；句义清楚，辞书 table 义吻合。",
+        "dictionary_sequences": [
+          1078630
+        ],
+        "identity": {
+          "word": "テーブル",
+          "reading_hiragana": "テーブル",
+          "meaning": "饭桌"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-41cb03d7ceea28e7",
+      "index": 424,
+      "word": "いっぱい",
+      "reading_hiragana": "いっぱい",
+      "context_meaning_zh": "满满的",
+      "pos_ja": "名詞・ナ形容詞・副詞・副詞的名詞",
+      "pos_zh": "名词・な形容词・副词・副词性名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "满满的",
+          "meaning_ja": "中に物がたくさん入っている様子。",
+          "example_ja": "買い物袋にパンがいっぱい入っています。",
+          "example_zh": "购物袋里装满了面包。"
+        },
+        {
+          "meaning_zh": "非常；很",
+          "meaning_ja": "程度が大きいことを表す言葉。",
+          "example_ja": "昨日はいっぱい歩きました。",
+          "example_zh": "昨天走了很多路。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "いっぱい入る",
+          "zh": "装得满满的"
+        },
+        {
+          "ja": "水をいっぱい飲む",
+          "zh": "喝很多水"
+        }
+      ],
+      "usage_note_zh": "可表示装满，也可修饰动作表示大量；另有「いっぱいになる」表示达到满的状态。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [
+          "adverbial_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课「袋はいっぱい」表示装满；词典兼有ナ形容词、副词及量词义，按满的义保留副词性。",
+        "dictionary_sequences": [
+          1165670
+        ],
+        "identity": {
+          "word": "いっぱい",
+          "reading_hiragana": "いっぱい",
+          "meaning": "满满的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-72bc5f291c0c23d3",
+      "index": 425,
+      "word": "三つ",
+      "reading_hiragana": "みっつ",
+      "context_meaning_zh": "三个；三岁（幼儿年龄说法）",
+      "pos_ja": "名詞・数詞・数詞表現",
+      "pos_zh": "名词・数词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "三个；三岁（幼儿年龄说法）",
+          "meaning_ja": "物を三個数える言い方。また、幼い子の年齢を表す言い方。",
+          "example_ja": "この箱にはりんごが三つ入っています。",
+          "example_zh": "这个箱子里装着三个苹果。"
+        },
+        {
+          "meaning_zh": "三岁（幼儿年龄说法）",
+          "meaning_ja": "幼い子の年齢を数える言い方。",
+          "example_ja": "妹は三つです。",
+          "example_zh": "妹妹三岁。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "三つある",
+          "zh": "有三个"
+        },
+        {
+          "ja": "三つになる",
+          "zh": "满三岁"
+        }
+      ],
+      "usage_note_zh": "「みっつ」既可通用计数，也可表示幼儿三岁；本条将数量与年龄合并保留为两个紧密相关用法。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "noun",
+          "numeral"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "苹果、愿望等用「三つ」计数，孩子三岁的句式又体现词典所列年龄名词用法。",
+        "dictionary_sequences": [
+          1299740
+        ],
+        "identity": {
+          "word": "三つ",
+          "reading_hiragana": "みっつ",
+          "meaning": "三个；三岁（幼儿年龄说法）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2dadeed3baf92393",
+      "index": 426,
+      "word": "六つ",
+      "reading_hiragana": "むっつ",
+      "context_meaning_zh": "六个;六岁",
+      "pos_ja": "数詞・助数詞・数詞表現",
+      "pos_zh": "数词・量词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "六个;六岁",
+          "meaning_ja": "物を六個数える言い方。また、幼い子の年齢を表すこともある。",
+          "example_ja": "机の上に箱が六つあります。",
+          "example_zh": "桌上有六个箱子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "六つ数える",
+          "zh": "数六个"
+        },
+        {
+          "ja": "六つになる",
+          "zh": "满六岁"
+        }
+      ],
+      "usage_note_zh": "「むっつ」可通用计数，也用于幼儿年龄；成人年龄通常改用「六歳（ろくさい）」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral",
+          "counter"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "和语数词むっつ通用计数六个，也可表达幼儿六岁；词典另列旧时六点义但无关。",
+        "dictionary_sequences": [
+          1585315
+        ],
+        "identity": {
+          "word": "六つ",
+          "reading_hiragana": "むっつ",
+          "meaning": "六个;六岁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-2efad1906b4df732",
+      "index": 427,
+      "word": "四つ",
+      "reading_hiragana": "よっつ",
+      "context_meaning_zh": "四个;四岁",
+      "pos_ja": "名詞・数詞・数詞表現",
+      "pos_zh": "名词・数词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "四个;四岁",
+          "meaning_ja": "物を四個数える言い方。また、幼い子の年齢を表すこともある。",
+          "example_ja": "皿を四つ用意しました。",
+          "example_zh": "我准备了四个盘子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "四つ用意する",
+          "zh": "准备四个"
+        },
+        {
+          "ja": "四つになる",
+          "zh": "满四岁"
+        }
+      ],
+      "usage_note_zh": "「よっつ」可通用计数，也可表示幼儿四岁；一般成人年龄说「四歳（よんさい）」。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "noun",
+          "numeral"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "四つ作数量词计四个，也可表示四岁；词典另收旧时辰及其他义，当前语境不涉及。",
+        "dictionary_sequences": [
+          1307040
+        ],
+        "identity": {
+          "word": "四つ",
+          "reading_hiragana": "よっつ",
+          "meaning": "四个;四岁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0f7c675c39e85e4e",
+      "index": 428,
+      "word": "幾つ",
+      "reading_hiragana": "いくつ",
+      "context_meaning_zh": "多少、几个;几岁",
+      "pos_ja": "副詞・疑問",
+      "pos_zh": "副词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "多少、几个;几岁",
+          "meaning_ja": "数や年齢がどれほどかをたずねる言葉。",
+          "example_ja": "箱の中にりんごはいくつありますか。",
+          "example_zh": "箱子里有几个苹果？"
+        },
+        {
+          "meaning_zh": "询问年龄",
+          "meaning_ja": "人の年齢がどれほどかをたずねる言葉。",
+          "example_ja": "お子さんはいくつですか。",
+          "example_zh": "您的孩子几岁？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "いくつありますか",
+          "zh": "有几个？"
+        },
+        {
+          "ja": "いくつですか",
+          "zh": "几岁？／几个？"
+        }
+      ],
+      "usage_note_zh": "本条读作「いくつ」，可问数量或年龄；语境明确年龄时也可说「おいくつですか」表示礼貌询问。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "「いくつ」询问弟弟年龄及面包数量；词典两项疑问副词义吻合，句尾ですか不使词头成为敬语。",
+        "dictionary_sequences": [
+          1219960
+        ],
+        "identity": {
+          "word": "幾つ",
+          "reading_hiragana": "いくつ",
+          "meaning": "多少、几个;几岁"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-4d5083dc389bb287",
+      "index": 429,
+      "word": "五つ",
+      "reading_hiragana": "いつつ",
+      "context_meaning_zh": "五个",
+      "pos_ja": "数詞・数詞表現",
+      "pos_zh": "数词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "五个",
+          "meaning_ja": "物を五個数えるときの言い方。",
+          "example_ja": "みかんを五つ買いました。",
+          "example_zh": "我买了五个橘子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "五つ買う",
+          "zh": "买五个"
+        },
+        {
+          "ja": "五つに分ける",
+          "zh": "分成五份"
+        }
+      ],
+      "usage_note_zh": "「いつつ」用于多种物品的通用计数；专用量词更自然时可用相应量词。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "五つ以和语数词计数小面包，是数量表达，不能因后接名词而将数词改判为名词。",
+        "dictionary_sequences": [
+          1268070
+        ],
+        "identity": {
+          "word": "五つ",
+          "reading_hiragana": "いつつ",
+          "meaning": "五个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-afe0a32ec944d8c3",
+      "index": 430,
+      "word": "七つ",
+      "reading_hiragana": "ななつ",
+      "context_meaning_zh": "七个",
+      "pos_ja": "数詞・助数詞・数詞表現・助数詞表現",
+      "pos_zh": "数词・量词・数词表达・量词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "七个",
+          "meaning_ja": "物を七個数えるときの言い方。",
+          "example_ja": "教室に机が七つあります。",
+          "example_zh": "教室里有七张桌子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "七つある",
+          "zh": "有七个"
+        },
+        {
+          "ja": "七つ数える",
+          "zh": "数七个"
+        }
+      ],
+      "usage_note_zh": "「ななつ」是通用计数形式；与容易混淆的「七人（ななにん）」等人数表达不同。",
+      "pos": {
+        "primary": "counter",
+        "classes": [
+          "numeral",
+          "counter"
+        ],
+        "subtypes": [
+          "numeral_expression",
+          "counter_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「袋にパンが七つあります」中的七つ以原生数词加つ计数具体物品；词典还列七岁与旧时刻义，本例取七个。",
+        "dictionary_sequences": [
+          1319220
+        ],
+        "identity": {
+          "word": "七つ",
+          "reading_hiragana": "ななつ",
+          "meaning": "七个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ef211486dac21b01",
+      "index": 431,
+      "word": "八つ",
+      "reading_hiragana": "やっつ",
+      "context_meaning_zh": "八个",
+      "pos_ja": "名詞・数詞・助数詞・数詞表現",
+      "pos_zh": "名词・数词・量词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "八个",
+          "meaning_ja": "物を八個数えるときの言い方。",
+          "example_ja": "パンを八つ買いました。",
+          "example_zh": "我买了八个面包。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "八つ買う",
+          "zh": "买八个"
+        },
+        {
+          "ja": "八つに分ける",
+          "zh": "分成八份"
+        }
+      ],
+      "usage_note_zh": "「やっつ」可通用计数物品；细长、薄平物等仍可改用对应量词。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "noun",
+          "numeral",
+          "counter"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "面包八つ以和语数词表示一般物品数量，词典列数词八及八岁名词义，本例取八个。",
+        "dictionary_sequences": [
+          1583095
+        ],
+        "identity": {
+          "word": "八つ",
+          "reading_hiragana": "やっつ",
+          "meaning": "八个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cfb0d2c01abd01e4",
+      "index": 432,
+      "word": "九つ",
+      "reading_hiragana": "ここのつ",
+      "context_meaning_zh": "九个",
+      "pos_ja": "名詞・数詞・数詞表現",
+      "pos_zh": "名词・数词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "九个",
+          "meaning_ja": "物を九個数えるときの言い方。",
+          "example_ja": "皿が九つあります。",
+          "example_zh": "有九个盘子。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "九つある",
+          "zh": "有九个"
+        },
+        {
+          "ja": "九つ目",
+          "zh": "第九个"
+        }
+      ],
+      "usage_note_zh": "「ここのつ」是通用计数说法；本词读音与「九人」等专用数量表达不同。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "noun",
+          "numeral"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「箱に卵が九つ」中的九つ计数九个鸡蛋；词典还列年龄与旧时刻义，但本例不取那些义项。",
+        "dictionary_sequences": [
+          1243600
+        ],
+        "identity": {
+          "word": "九つ",
+          "reading_hiragana": "ここのつ",
+          "meaning": "九个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f14187add4829dd7",
+      "index": 433,
+      "word": "十",
+      "reading_hiragana": "とお",
+      "context_meaning_zh": "十个",
+      "pos_ja": "数詞・数詞表現",
+      "pos_zh": "数词・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "十个",
+          "meaning_ja": "物を十個数えるときの言い方。",
+          "example_ja": "りんごを十個ください。",
+          "example_zh": "请给我十个苹果。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "十（とお）ある",
+          "zh": "有十个"
+        },
+        {
+          "ja": "十まで数える",
+          "zh": "数到十"
+        }
+      ],
+      "usage_note_zh": "「とお」可通用计数，但具体物品点数时常加专用量词，如「十個（じゅっこ）」。超过十通常使用数字加专用量词。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "十读とお，词典确认数词十；句中「パンを十買う」缺少通常量词，词项可判数词但来源例句搭配待核。",
+        "dictionary_sequences": [
+          1579840
+        ],
+        "identity": {
+          "word": "十",
+          "reading_hiragana": "とお",
+          "meaning": "十个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-63d36e6543164ac5",
+      "index": 434,
+      "word": "ちょっと",
+      "reading_hiragana": "ちょっと",
+      "context_meaning_zh": "一点、稍微（另保留现有婉拒用法）",
+      "pos_ja": "副詞・表現",
+      "pos_zh": "副词・表达",
+      "register_zh": "中性・委婉",
+      "senses": [
+        {
+          "meaning_zh": "一点、稍微（另保留现有婉拒用法）",
+          "meaning_ja": "量や程度が少ないことを表す言葉。",
+          "example_ja": "水をちょっとください。",
+          "example_zh": "请给我一点水。"
+        },
+        {
+          "meaning_zh": "委婉表示难以答应",
+          "meaning_ja": "誘いや頼みを直接断らず、困っている気持ちを伝える言い方。",
+          "example_ja": "今日はちょっと…。また今度お願いします。",
+          "example_zh": "今天有点不方便……下次再说吧。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ちょっと待つ",
+          "zh": "稍等一下"
+        },
+        {
+          "ja": "ちょっとだけ",
+          "zh": "稍微一点"
+        }
+      ],
+      "usage_note_zh": "可表示少量、短暂或轻微；请求前的「ちょっと…」也常委婉表达难以答应，但本课新例句采用数量义。",
+      "pos": {
+        "primary": "adverb",
+        "classes": [
+          "adverb",
+          "expression"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": [
+          "euphemistic"
+        ]
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "例句里的「ちょっと苦い」表示程度稍微；该词另有会话婉拒用法，缓和功能属委婉，不是句尾敬体所带来的礼貌标签。",
+        "dictionary_sequences": [
+          1163940
+        ],
+        "identity": {
+          "word": "ちょっと",
+          "reading_hiragana": "ちょっと",
+          "meaning": "一点、稍微（另保留现有婉拒用法）"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9a054e3bb50f3793",
+      "index": 435,
+      "word": "どの",
+      "reading_hiragana": "どの",
+      "context_meaning_zh": "哪个",
+      "pos_ja": "連体詞・疑問",
+      "pos_zh": "连体词・疑问",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "哪个",
+          "meaning_ja": "いくつかある中から一つを選ぶために、後ろの名詞を限定する言葉。",
+          "example_ja": "どの店で昼ご飯を食べますか。",
+          "example_zh": "我们在哪家店吃午饭？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "どの店",
+          "zh": "哪家店"
+        },
+        {
+          "ja": "どの本を読む",
+          "zh": "读哪本书"
+        }
+      ],
+      "usage_note_zh": "必须修饰名词，形式为「どの＋名词」；独立询问时用「どれ」。",
+      "pos": {
+        "primary": "adnominal",
+        "classes": [
+          "adnominal"
+        ],
+        "subtypes": [
+          "interrogative"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「どの」直接修饰パン询问哪一个，属于疑问连体词；句末ですか的礼貌不归给词项。",
+        "dictionary_sequences": [
+          1920240
+        ],
+        "identity": {
+          "word": "どの",
+          "reading_hiragana": "どの",
+          "meaning": "哪个"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a5b15f4a4e6d6453",
+      "index": 436,
+      "word": "何人",
+      "reading_hiragana": "なんにん",
+      "context_meaning_zh": "多少人",
+      "pos_ja": "数詞・疑問・数詞表現",
+      "pos_zh": "数词・疑问・数词表达",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "多少人",
+          "meaning_ja": "人が何人いるかをたずねる言葉。",
+          "example_ja": "教室に学生は何人いますか。",
+          "example_zh": "教室里有几名学生？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "何人ですか",
+          "zh": "几个人？"
+        },
+        {
+          "ja": "何人いる",
+          "zh": "有几个人"
+        }
+      ],
+      "usage_note_zh": "读作「なんにん」，询问人数；「何人前」等结构中用法不同，本条聚焦人数。",
+      "pos": {
+        "primary": "numeral",
+        "classes": [
+          "numeral"
+        ],
+        "subtypes": [
+          "interrogative",
+          "numeral_expression"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "何人（なんにん）是询问人数的数词；句末「ですか」提供礼貌语气，不属于词项polite属性。",
+        "dictionary_sequences": [
+          1189100
+        ],
+        "identity": {
+          "word": "何人",
+          "reading_hiragana": "なんにん",
+          "meaning": "多少人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f323d2b78ce69081",
+      "index": 437,
+      "word": "沢山",
+      "reading_hiragana": "たくさん",
+      "context_meaning_zh": "许多、很多",
+      "pos_ja": "名詞・ナ形容詞・副詞",
+      "pos_zh": "名词・な形容词・副词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "许多、很多",
+          "meaning_ja": "数や量が多いことを表す言葉。",
+          "example_ja": "この店には新しい本がたくさんあります。",
+          "example_zh": "这家店有很多新书。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "たくさんある",
+          "zh": "有很多"
+        },
+        {
+          "ja": "たくさん食べる",
+          "zh": "吃很多"
+        }
+      ],
+      "usage_note_zh": "修饰动词时表示数量多；也可说「たくさんの＋名词」。写作「たくさん」最常见，「沢山」为汉字写法。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "noun",
+          "adjective_na",
+          "adverb"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「たくさんあります」中修饰存在数量，另可见「たくさんの」等限定用法；按词典保留名词、な形容词及副词兼类。",
+        "dictionary_sequences": [
+          1415870
+        ],
+        "identity": {
+          "word": "沢山",
+          "reading_hiragana": "たくさん",
+          "meaning": "许多、很多"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7d7ef2de80009b4e",
+      "index": 438,
+      "word": "食堂",
+      "reading_hiragana": "しょくどう",
+      "context_meaning_zh": "食堂",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "食堂",
+          "meaning_ja": "多くの人が食事をするために使う場所。",
+          "example_ja": "昼休みに食堂で友だちと食べます。",
+          "example_zh": "午休时和朋友在食堂吃饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "食堂で食べる",
+          "zh": "在食堂吃饭"
+        },
+        {
+          "ja": "社員食堂",
+          "zh": "员工食堂"
+        }
+      ],
+      "usage_note_zh": "指供人用餐的场所，如学校或公司食堂；不特指某一种菜。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "本例食堂为中心内用餐的公共餐厅，词典首义dining hall/cafeteria吻合；不是特定饮食体裁用词。",
+        "dictionary_sequences": [
+          1358550
+        ],
+        "identity": {
+          "word": "食堂",
+          "reading_hiragana": "しょくどう",
+          "meaning": "食堂"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9583da28b73a74bd",
+      "index": 439,
+      "word": "食べ物",
+      "reading_hiragana": "たべもの",
+      "context_meaning_zh": "食物、吃的东西",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "食物、吃的东西",
+          "meaning_ja": "人や動物が食べるもの。",
+          "example_ja": "旅行には食べ物を少し持っていきます。",
+          "example_zh": "旅行时带一点吃的东西。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "食べ物を買う",
+          "zh": "买食物"
+        },
+        {
+          "ja": "食べ物の好み",
+          "zh": "食物喜好"
+        }
+      ],
+      "usage_note_zh": "泛指可食用的东西；与「食品」相比，日常会话中更宽泛。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "家中储备充足的可食用物统称，作存在句主语。",
+        "dictionary_sequences": [
+          1358340
+        ],
+        "identity": {
+          "word": "食べ物",
+          "reading_hiragana": "たべもの",
+          "meaning": "食物、吃的东西"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-b90ae9f28b0ef19e",
+      "index": 440,
+      "word": "レストラン",
+      "reading_hiragana": "レストラン",
+      "context_meaning_zh": "餐馆",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "餐馆",
+          "meaning_ja": "客が席で料理を食べる店。",
+          "example_ja": "駅の近くにレストランがあります。",
+          "example_zh": "车站附近有一家餐馆。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "レストランで食べる",
+          "zh": "在餐馆吃饭"
+        },
+        {
+          "ja": "レストランを予約する",
+          "zh": "预订餐馆"
+        }
+      ],
+      "usage_note_zh": "泛指提供餐食的店；本条原义“餐馆”保留，不限定菜系。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "泛称供应餐食的店，句中指车站前餐馆；没有依据限定为西餐厅。",
+        "dictionary_sequences": [
+          1145310
+        ],
+        "identity": {
+          "word": "レストラン",
+          "reading_hiragana": "レストラン",
+          "meaning": "餐馆"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3832c957b2a8d899",
+      "index": 441,
+      "word": "多い",
+      "reading_hiragana": "おおい",
+      "context_meaning_zh": "多",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "多",
+          "meaning_ja": "数や量が多くある状態。",
+          "example_ja": "この店は昼に客が多いです。",
+          "example_zh": "这家店中午客人很多。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "客が多い",
+          "zh": "客人多"
+        },
+        {
+          "ja": "雨の日が多い",
+          "zh": "雨天多"
+        }
+      ],
+      "usage_note_zh": "描述数量、次数等偏多；「多い」直接修饰名词时通常用「多くの＋名词」，而非「多い名词」。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "食堂中的人数较多，作い形容词谓语说明数量；直接修饰名词时另用相应连体结构。",
+        "dictionary_sequences": [
+          1407460
+        ],
+        "identity": {
+          "word": "多い",
+          "reading_hiragana": "おおい",
+          "meaning": "多"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a141fcb7e9e95409",
+      "index": 442,
+      "word": "新鮮",
+      "reading_hiragana": "しんせん",
+      "context_meaning_zh": "新鲜的",
+      "pos_ja": "ナ形容詞",
+      "pos_zh": "な形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "新鲜的",
+          "meaning_ja": "取れたばかりのように新しく、味や状態がよいこと。",
+          "example_ja": "この店では新鮮な野菜を選べます。",
+          "example_zh": "在这家店可以挑选新鲜蔬菜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "新鮮な魚",
+          "zh": "新鲜的鱼"
+        },
+        {
+          "ja": "新鮮さを保つ",
+          "zh": "保持新鲜"
+        }
+      ],
+      "usage_note_zh": "名词前用「新鮮な」，句末用「新鮮です」；也可比喻想法或体验新颖，但本课例句使用食材义。",
+      "pos": {
+        "primary": "adjective_na",
+        "classes": [
+          "adjective_na"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "蔬菜新鲜的例句用新鲜状态修饰名词，词典明确列为ナ形容词。",
+        "dictionary_sequences": [
+          1362100
+        ],
+        "identity": {
+          "word": "新鮮",
+          "reading_hiragana": "しんせん",
+          "meaning": "新鲜的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cd9cced650e38329",
+      "index": 443,
+      "word": "辛い",
+      "reading_hiragana": "からい",
+      "context_meaning_zh": "辣的",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "辣的",
+          "meaning_ja": "唐辛子などの強い刺激を感じる味。",
+          "example_ja": "このカレーは少し辛いです。",
+          "example_zh": "这个咖喱有点辣。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "辛い料理",
+          "zh": "辣味菜肴"
+        },
+        {
+          "ja": "辛くする",
+          "zh": "弄辣"
+        }
+      ],
+      "usage_note_zh": "本条读作「からい」，描述味道辣；另一个同写「辛い（つらい）」表示痛苦，读音不同，不列为本课词义。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "汤不是辣的，取辛い的辣味い形容词义；否定句不改变词类。",
+        "dictionary_sequences": [
+          1365850
+        ],
+        "identity": {
+          "word": "辛い",
+          "reading_hiragana": "からい",
+          "meaning": "辣的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-59fefe7036c079a3",
+      "index": 444,
+      "word": "数",
+      "reading_hiragana": "かず",
+      "context_meaning_zh": "数、数目",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "数、数目",
+          "meaning_ja": "いくつあるかという量、またはその大きさ。",
+          "example_ja": "箱の中のりんごの数を数えます。",
+          "example_zh": "我数箱子里的苹果数量。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "数を数える",
+          "zh": "数数目"
+        },
+        {
+          "ja": "数が多い",
+          "zh": "数量多"
+        }
+      ],
+      "usage_note_zh": "读作「かず」时指数量或数目；表示数值的数字本身可说「数字」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "数が違う后接具体数量，说明数指个数或总量；是普通名词，不是数词或计数单位。",
+        "dictionary_sequences": [
+          1580820
+        ],
+        "identity": {
+          "word": "数",
+          "reading_hiragana": "かず",
+          "meaning": "数、数目"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1e8b670b5c640dbf",
+      "index": 445,
+      "word": "生",
+      "reading_hiragana": "なま",
+      "context_meaning_zh": "生的",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "生的",
+          "meaning_ja": "火を通したり加工したりしていない状態。",
+          "example_ja": "生の魚を買ったので、今日食べます。",
+          "example_zh": "买了生鱼，所以今天吃。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "生の魚",
+          "zh": "生鱼"
+        },
+        {
+          "ja": "生ビール",
+          "zh": "生啤"
+        }
+      ],
+      "usage_note_zh": "读作「なま」时常表示未加热、未加工，如「生の魚」；也用于「生ビール」。现场演出等“现场”义常读「なま」但需特定搭配，此处聚焦生食义。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "生の野菜中生由の连接野菜，含义为未加工；JMdict adj-no指这种名词修饰结构。",
+        "dictionary_sequences": [
+          1378450
+        ],
+        "identity": {
+          "word": "生",
+          "reading_hiragana": "なま",
+          "meaning": "生的"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-394062f3e8b168d0",
+      "index": 446,
+      "word": "少ない",
+      "reading_hiragana": "すくない",
+      "context_meaning_zh": "少、不多",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "少、不多",
+          "meaning_ja": "数や量があまり多くない状態。",
+          "example_ja": "今日は店に人が少ないです。",
+          "example_zh": "今天店里人很少。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人が少ない",
+          "zh": "人少"
+        },
+        {
+          "ja": "少ない時間",
+          "zh": "不多的时间"
+        }
+      ],
+      "usage_note_zh": "常用「人が少ない」「時間が少ない」；直接修饰名词时「少ない＋名词」自然，与「多い」的连体限制不同。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "grammar",
+          "context",
+          "usage"
+        ],
+        "note_zh": "卵的数量少，少ない是い形容词作谓语；有生命／数量对象以が等结构出现。",
+        "dictionary_sequences": [
+          1348910
+        ],
+        "identity": {
+          "word": "少ない",
+          "reading_hiragana": "すくない",
+          "meaning": "少、不多"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-32dac5250969e82f",
+      "index": 447,
+      "word": "食品",
+      "reading_hiragana": "しょくひん",
+      "context_meaning_zh": "食品",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "食品",
+          "meaning_ja": "食べるために作られたり、売られたりする品物。",
+          "example_ja": "この店は冷凍食品が多いです。",
+          "example_zh": "这家店冷冻食品很多。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "食品を買う",
+          "zh": "购买食品"
+        },
+        {
+          "ja": "食品売り場",
+          "zh": "食品卖场"
+        }
+      ],
+      "usage_note_zh": "常指作为商品生产、销售或加工的食物；范围比口语的「食べ物」更偏商品与分类。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "超市购买对象为商品食品，食品指加工或销售的食品类别，符合词典food products义。",
+        "dictionary_sequences": [
+          1358600
+        ],
+        "identity": {
+          "word": "食品",
+          "reading_hiragana": "しょくひん",
+          "meaning": "食品"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0ce7d8c2d923b919",
+      "index": 448,
+      "word": "口に合う",
+      "reading_hiragana": "くちにあう",
+      "context_meaning_zh": "合口味",
+      "pos_ja": "表現・慣用句",
+      "pos_zh": "表达・惯用语",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "合口味",
+          "meaning_ja": "食べ物の味が、その人の好みに合っていること。",
+          "example_ja": "この店のカレーは私の口に合います。",
+          "example_zh": "这家店的咖喱合我的口味。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "口に合う",
+          "zh": "合口味"
+        },
+        {
+          "ja": "口に合わない",
+          "zh": "不合口味"
+        }
+      ],
+      "usage_note_zh": "固定表达「名词＋が／は口に合う」，说明食物适合某人的口味；不能按字面理解成嘴与物品相碰。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "idiom"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "口に合う是食物或饮料合乎个人口味的固定表达；句尾「合いません」表示否定礼貌，不是词项自身敬语。",
+        "dictionary_sequences": [
+          1872140
+        ],
+        "identity": {
+          "word": "口に合う",
+          "reading_hiragana": "くちにあう",
+          "meaning": "合口味"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-cabf0679d1367909",
+      "index": 449,
+      "word": "飲み物",
+      "reading_hiragana": "のみもの",
+      "context_meaning_zh": "饮料",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "饮料",
+          "meaning_ja": "飲むための液体。",
+          "example_ja": "食事の前に飲み物を選びました。",
+          "example_zh": "吃饭前我选了饮料。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "飲み物を頼む",
+          "zh": "点饮料"
+        },
+        {
+          "ja": "冷たい飲み物",
+          "zh": "冷饮"
+        }
+      ],
+      "usage_note_zh": "泛指可饮用的液体；「飲料」较书面，「飲み物」是日常说法。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "饮み物指可饮用的液体，例句将其作购买对象；普通生活名词，餐饮场景不使其成为商务词。",
+        "dictionary_sequences": [
+          1600430
+        ],
+        "identity": {
+          "word": "飲み物",
+          "reading_hiragana": "のみもの",
+          "meaning": "饮料"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-483dbe86f5965684",
+      "index": 450,
+      "word": "まずい",
+      "reading_hiragana": "まずい",
+      "context_meaning_zh": "不好吃",
+      "pos_ja": "イ形容詞",
+      "pos_zh": "い形容词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "不好吃",
+          "meaning_ja": "食べ物の味がよくなく、食べたいと思えない状態。",
+          "example_ja": "このスープは冷めるとまずいです。",
+          "example_zh": "这汤凉了以后就不好喝了。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "料理がまずい",
+          "zh": "菜难吃"
+        },
+        {
+          "ja": "まずい味",
+          "zh": "糟糕的味道"
+        }
+      ],
+      "usage_note_zh": "本课读音「まずい」对应味道不好；也可口语表示情况不妙，如「まずいことになった」，这里不另立近义义项。",
+      "pos": {
+        "primary": "adjective_i",
+        "classes": [
+          "adjective_i"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "い形容词；对应词条味道差义可评价食物，例句礼貌句尾只属于句子，不把词本身标为敬语或口语专用。",
+        "dictionary_sequences": [
+          1495000
+        ],
+        "identity": {
+          "word": "まずい",
+          "reading_hiragana": "まずい",
+          "meaning": "不好吃"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-78f1f7dbd90f46d7",
+      "index": 451,
+      "word": "御馳走様",
+      "reading_hiragana": "ごちそうさま",
+      "context_meaning_zh": "承您款待",
+      "pos_ja": "感動詞・挨拶",
+      "pos_zh": "感叹词・问候语",
+      "register_zh": "中性・礼貌语",
+      "senses": [
+        {
+          "meaning_zh": "承您款待",
+          "meaning_ja": "食事が終わったとき、作ってくれた人などに感謝を伝える言葉。",
+          "example_ja": "ごちそうさま。とてもおいしかったです。",
+          "example_zh": "多谢款待，真好吃。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "ごちそうさまでした",
+          "zh": "多谢款待"
+        },
+        {
+          "ja": "ごちそうさまを言う",
+          "zh": "说多谢款待"
+        }
+      ],
+      "usage_note_zh": "通常在吃完饭后说，感谢准备或招待食物的人；「ごちそうさまでした」更完整礼貌。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [
+          "greeting"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "polite"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "饭后感谢款待的固定寒暄语；完整表达「ごちそうさまでした」带礼貌语气。",
+        "dictionary_sequences": [
+          1270520
+        ],
+        "identity": {
+          "word": "御馳走様",
+          "reading_hiragana": "ごちそうさま",
+          "meaning": "承您款待"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-3bf45e2d13f56a07",
+      "index": 452,
+      "word": "要る",
+      "reading_hiragana": "いる",
+      "context_meaning_zh": "需要",
+      "pos_ja": "動詞",
+      "pos_zh": "动词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "需要",
+          "meaning_ja": "何かが必要である。",
+          "example_ja": "買い物には袋が要りますか。",
+          "example_zh": "购物需要袋子吗？"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "時間が要る",
+          "zh": "需要时间"
+        },
+        {
+          "ja": "要らない",
+          "zh": "不需要"
+        }
+      ],
+      "usage_note_zh": "自动词，所需对象通常用「が」标记，如「お金が要る」；否定为「要らない」。与同音的「いる（在、存在）」区分。",
+      "pos": {
+        "primary": "verb",
+        "classes": [
+          "verb"
+        ],
+        "subtypes": [],
+        "conjugation": "godan"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "lexeme"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "询问是否需要袋子；要る以所需物品作が主语，是五段自动词而非同音存在动词。",
+        "dictionary_sequences": [
+          1546640
+        ],
+        "identity": {
+          "word": "要る",
+          "reading_hiragana": "いる",
+          "meaning": "需要"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f40167069817edfb",
+      "index": 453,
+      "word": "洋ナシ",
+      "reading_hiragana": "ようなし",
+      "context_meaning_zh": "洋梨",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "洋梨",
+          "meaning_ja": "西洋で作られる、甘くて香りのある梨。",
+          "example_ja": "デザートに洋ナシを一つ食べました。",
+          "example_zh": "我吃了一个洋梨当甜点。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "洋ナシを食べる",
+          "zh": "吃洋梨"
+        },
+        {
+          "ja": "洋ナシのタルト",
+          "zh": "洋梨挞"
+        }
+      ],
+      "usage_note_zh": "指西洋梨类水果；汉字也常写「洋梨」，本词保留课内片假名写法。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "采购清单中的洋梨是欧洲梨类水果，与词典European pear对应；片假名拼写不影响词类。",
+        "dictionary_sequences": [
+          1794490
+        ],
+        "identity": {
+          "word": "洋ナシ",
+          "reading_hiragana": "ようなし",
+          "meaning": "洋梨"
+        }
+      }
+    }
+  ]
+}

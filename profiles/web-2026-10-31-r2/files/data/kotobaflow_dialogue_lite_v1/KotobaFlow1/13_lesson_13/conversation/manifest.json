@@ -1,0 +1,1419 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 173.492,
+ "listening_review": "pending",
+ "source_chapter": 13,
+ "turns": [
+  {
+   "turn_id": "C13-D101",
+   "turn_index": 0,
+   "speaker": "マテオ",
+   "source_text": "中村さん、こんにちは。今日の会に参加したいです。この紙に名前と住所を書きますか。",
+   "sentence_ids": [
+    "C13-D101-S01",
+    "C13-D101-S02",
+    "C13-D101-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 6.444,
+   "duration_sec": 6.444
+  },
+  {
+   "turn_id": "C13-D102",
+   "turn_index": 1,
+   "speaker": "中村",
+   "source_text": "こんにちは。今日は一回の会です。参加の紙はこちらです。写真クラブにも入りますか。住所はクラブの申込用です。",
+   "sentence_ids": [
+    "C13-D102-S01",
+    "C13-D102-S02",
+    "C13-D102-S03",
+    "C13-D102-S04",
+    "C13-D102-S05"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 6.794,
+   "end_sec": 16.481,
+   "duration_sec": 9.687
+  },
+  {
+   "turn_id": "C13-D103",
+   "turn_index": 2,
+   "speaker": "マテオ",
+   "source_text": "はい、クラブにも入ります。この紙に書いて、受付に出しますね。",
+   "sentence_ids": [
+    "C13-D103-S01",
+    "C13-D103-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 16.831,
+   "end_sec": 21.358,
+   "duration_sec": 4.527
+  },
+  {
+   "turn_id": "C13-D104",
+   "turn_index": 3,
+   "speaker": "林梅",
+   "source_text": "中村さん、私の住所の字は間違いです。この字を消してもいいですか。",
+   "sentence_ids": [
+    "C13-D104-S01",
+    "C13-D104-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.708,
+   "end_sec": 28.181,
+   "duration_sec": 6.473
+  },
+  {
+   "turn_id": "C13-D105",
+   "turn_index": 4,
+   "speaker": "中村",
+   "source_text": "はい。この消しゴムを使ってください。最後に紙を私に渡してください。",
+   "sentence_ids": [
+    "C13-D105-S01",
+    "C13-D105-S02",
+    "C13-D105-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.531,
+   "end_sec": 34.098,
+   "duration_sec": 5.567
+  },
+  {
+   "turn_id": "C13-D106",
+   "turn_index": 5,
+   "speaker": "マテオ",
+   "source_text": "準備も手伝いましょうか。まず何をしますか。",
+   "sentence_ids": [
+    "C13-D106-S01",
+    "C13-D106-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 34.448,
+   "end_sec": 37.397,
+   "duration_sec": 2.949
+  },
+  {
+   "turn_id": "C13-D107",
+   "turn_index": 6,
+   "speaker": "中村",
+   "source_text": "上着を脱いで、手を洗ってください。食べ物は冷蔵庫にあります。リンさん、パンを出してください。",
+   "sentence_ids": [
+    "C13-D107-S01",
+    "C13-D107-S02",
+    "C13-D107-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 37.747,
+   "end_sec": 44.909,
+   "duration_sec": 7.162
+  },
+  {
+   "turn_id": "C13-D108",
+   "turn_index": 7,
+   "speaker": "林梅",
+   "source_text": "パンですね。袋から全部出しますか。残りはどうしますか。",
+   "sentence_ids": [
+    "C13-D108-S01",
+    "C13-D108-S02",
+    "C13-D108-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 45.259,
+   "end_sec": 50.516,
+   "duration_sec": 5.257
+  },
+  {
+   "turn_id": "C13-D109",
+   "turn_index": 8,
+   "speaker": "中村",
+   "source_text": "三つだけ出してください。袋の口はこのクリップで挟んでください。",
+   "sentence_ids": [
+    "C13-D109-S01",
+    "C13-D109-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 50.866,
+   "end_sec": 55.829,
+   "duration_sec": 4.963
+  },
+  {
+   "turn_id": "C13-D110",
+   "turn_index": 9,
+   "speaker": "マテオ",
+   "source_text": "ナイフはこれですか。持ち方を教えてください。",
+   "sentence_ids": [
+    "C13-D110-S01",
+    "C13-D110-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 56.179,
+   "end_sec": 59.291,
+   "duration_sec": 3.112
+  },
+  {
+   "turn_id": "C13-D111",
+   "turn_index": 10,
+   "speaker": "中村",
+   "source_text": "はい。柄をこう握ってください。ここでパンを切って、皿に載せてください。",
+   "sentence_ids": [
+    "C13-D111-S01",
+    "C13-D111-S02",
+    "C13-D111-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.641,
+   "end_sec": 66.242,
+   "duration_sec": 6.601
+  },
+  {
+   "turn_id": "C13-D112",
+   "turn_index": 11,
+   "speaker": "林梅",
+   "source_text": "パンの準備は終わりました。スープは冷たいです。電子レンジを使ってもいいですか。",
+   "sentence_ids": [
+    "C13-D112-S01",
+    "C13-D112-S02",
+    "C13-D112-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 66.592,
+   "end_sec": 72.897,
+   "duration_sec": 6.305
+  },
+  {
+   "turn_id": "C13-D113",
+   "turn_index": 12,
+   "speaker": "中村",
+   "source_text": "はい。私と使いましょう。まず三十秒です。このボタンで止めます。",
+   "sentence_ids": [
+    "C13-D113-S01",
+    "C13-D113-S02",
+    "C13-D113-S03",
+    "C13-D113-S04"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 73.247,
+   "end_sec": 79.129,
+   "duration_sec": 5.882
+  },
+  {
+   "turn_id": "C13-D114",
+   "turn_index": 13,
+   "speaker": "マテオ",
+   "source_text": "三十秒ですね。リンさん、スプーンを取ってください。一緒に味見をしましょう。",
+   "sentence_ids": [
+    "C13-D114-S01",
+    "C13-D114-S02",
+    "C13-D114-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 79.479,
+   "end_sec": 83.964,
+   "duration_sec": 4.485
+  },
+  {
+   "turn_id": "C13-D115",
+   "turn_index": 14,
+   "speaker": "林梅",
+   "source_text": "このスプーンですね。スープはいい味です。お茶も入れましょうか。",
+   "sentence_ids": [
+    "C13-D115-S01",
+    "C13-D115-S02",
+    "C13-D115-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 84.314,
+   "end_sec": 89.512,
+   "duration_sec": 5.198
+  },
+  {
+   "turn_id": "C13-D116",
+   "turn_index": 15,
+   "speaker": "中村",
+   "source_text": "お願いします。ポットのお湯を使ってください。茶碗はこちらです。コップには水を入れます。",
+   "sentence_ids": [
+    "C13-D116-S01",
+    "C13-D116-S02",
+    "C13-D116-S03",
+    "C13-D116-S04"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 89.862,
+   "end_sec": 97.209,
+   "duration_sec": 7.347
+  },
+  {
+   "turn_id": "C13-D117",
+   "turn_index": 16,
+   "speaker": "マテオ",
+   "source_text": "準備は全部終わりました。写真の本はこの机ですね。ここに座ってもいいですか。",
+   "sentence_ids": [
+    "C13-D117-S01",
+    "C13-D117-S02",
+    "C13-D117-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.559,
+   "end_sec": 102.99,
+   "duration_sec": 5.431
+  },
+  {
+   "turn_id": "C13-D118",
+   "turn_index": 17,
+   "speaker": "中村",
+   "source_text": "はい、どうぞ。私の合図で始めます。まず写真を見て、それから食事をしましょう。",
+   "sentence_ids": [
+    "C13-D118-S01",
+    "C13-D118-S02",
+    "C13-D118-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 103.34,
+   "end_sec": 109.854,
+   "duration_sec": 6.514
+  },
+  {
+   "turn_id": "C13-D119",
+   "turn_index": 18,
+   "speaker": "林梅",
+   "source_text": "私は公園の写真が好きです。マテオさんはどの写真が好きですか。",
+   "sentence_ids": [
+    "C13-D119-S01",
+    "C13-D119-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 110.204,
+   "end_sec": 114.99,
+   "duration_sec": 4.786
+  },
+  {
+   "turn_id": "C13-D120",
+   "turn_index": 19,
+   "speaker": "マテオ",
+   "source_text": "私もこの写真が好きです。リンさんはこの公園によく行きますか。",
+   "sentence_ids": [
+    "C13-D120-S01",
+    "C13-D120-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 115.34,
+   "end_sec": 119.319,
+   "duration_sec": 3.979
+  },
+  {
+   "turn_id": "C13-D121",
+   "turn_index": 20,
+   "speaker": "林梅",
+   "source_text": "はい。日曜日の午前中に行きます。来週の日曜日、一緒に行きませんか。",
+   "sentence_ids": [
+    "C13-D121-S01",
+    "C13-D121-S02",
+    "C13-D121-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 119.669,
+   "end_sec": 125.872,
+   "duration_sec": 6.203
+  },
+  {
+   "turn_id": "C13-D122",
+   "turn_index": 21,
+   "speaker": "マテオ",
+   "source_text": "すみません。もう一度、ゆっくり話してください。",
+   "sentence_ids": [
+    "C13-D122-S01",
+    "C13-D122-S02"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 126.222,
+   "end_sec": 129.026,
+   "duration_sec": 2.804
+  },
+  {
+   "turn_id": "C13-D123",
+   "turn_index": 22,
+   "speaker": "林梅",
+   "source_text": "はい、聞いてください。日曜日の十時に公園の入口で会いましょう。",
+   "sentence_ids": [
+    "C13-D123-S01",
+    "C13-D123-S02"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 129.376,
+   "end_sec": 134.779,
+   "duration_sec": 5.403
+  },
+  {
+   "turn_id": "C13-D124",
+   "turn_index": 23,
+   "speaker": "マテオ",
+   "source_text": "十時ですね。大丈夫です。中村さん、次の会の希望も出してもいいですか。",
+   "sentence_ids": [
+    "C13-D124-S01",
+    "C13-D124-S02",
+    "C13-D124-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 135.129,
+   "end_sec": 140.287,
+   "duration_sec": 5.158
+  },
+  {
+   "turn_id": "C13-D125",
+   "turn_index": 24,
+   "speaker": "中村",
+   "source_text": "もちろんです。希望を紙に順に並べてください。次の会は皆さんと決めます。",
+   "sentence_ids": [
+    "C13-D125-S01",
+    "C13-D125-S02",
+    "C13-D125-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 140.637,
+   "end_sec": 147.04,
+   "duration_sec": 6.403
+  },
+  {
+   "turn_id": "C13-D126",
+   "turn_index": 25,
+   "speaker": "林梅",
+   "source_text": "私は公園の会がいいです。写真も食事も楽しかったです。最後に窓を閉めましょうか。",
+   "sentence_ids": [
+    "C13-D126-S01",
+    "C13-D126-S02",
+    "C13-D126-S03"
+   ],
+   "voice_id": "ja-jp-concierge-7",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 147.39,
+   "end_sec": 154.518,
+   "duration_sec": 7.128
+  },
+  {
+   "turn_id": "C13-D127",
+   "turn_index": 26,
+   "speaker": "中村",
+   "source_text": "お願いします。私は本をチェックして、最後に教室を出ます。",
+   "sentence_ids": [
+    "C13-D127-S01",
+    "C13-D127-S02"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 154.868,
+   "end_sec": 159.673,
+   "duration_sec": 4.805
+  },
+  {
+   "turn_id": "C13-D128",
+   "turn_index": 27,
+   "speaker": "マテオ",
+   "source_text": "公園で会を開いてもいいですか。公園の規則は分かりません。だれに聞きますか。",
+   "sentence_ids": [
+    "C13-D128-S01",
+    "C13-D128-S02",
+    "C13-D128-S03"
+   ],
+   "voice_id": "ja-jp-commercial-4",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 160.023,
+   "end_sec": 166.418,
+   "duration_sec": 6.395
+  },
+  {
+   "turn_id": "C13-D129",
+   "turn_index": 28,
+   "speaker": "中村",
+   "source_text": "私が市に聞きます。公園の会は市の許可を取ります。まず場所を確認しましょう。",
+   "sentence_ids": [
+    "C13-D129-S01",
+    "C13-D129-S02",
+    "C13-D129-S03"
+   ],
+   "voice_id": "ja-jp-tutor-1",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 166.768,
+   "end_sec": 173.486,
+   "duration_sec": 6.718
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C13-D101-S01",
+   "unit_id": "C13-D101",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "中村さん、こんにちは。",
+   "start_sec": 0.0,
+   "end_sec": 1.57,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D101-S02",
+   "unit_id": "C13-D101",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "今日の会に参加したいです。",
+   "start_sec": 1.72,
+   "end_sec": 3.72,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D101-S03",
+   "unit_id": "C13-D101",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "この紙に名前と住所を書きますか。",
+   "start_sec": 3.87,
+   "end_sec": 6.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D102-S01",
+   "unit_id": "C13-D102",
+   "section": "D",
+   "speaker": "中村",
+   "text": "こんにちは。",
+   "start_sec": 6.794,
+   "end_sec": 7.829,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D102-S02",
+   "unit_id": "C13-D102",
+   "section": "D",
+   "speaker": "中村",
+   "text": "今日は一回の会です。",
+   "start_sec": 7.979,
+   "end_sec": 9.659,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D102-S03",
+   "unit_id": "C13-D102",
+   "section": "D",
+   "speaker": "中村",
+   "text": "参加の紙はこちらです。",
+   "start_sec": 9.809,
+   "end_sec": 11.761,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D102-S04",
+   "unit_id": "C13-D102",
+   "section": "D",
+   "speaker": "中村",
+   "text": "写真クラブにも入りますか。",
+   "start_sec": 11.911,
+   "end_sec": 14.082,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D102-S05",
+   "unit_id": "C13-D102",
+   "section": "D",
+   "speaker": "中村",
+   "text": "住所はクラブの申込用です。",
+   "start_sec": 14.232,
+   "end_sec": 16.481,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D103-S01",
+   "unit_id": "C13-D103",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "はい、クラブにも入ります。",
+   "start_sec": 16.831,
+   "end_sec": 18.798,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D103-S02",
+   "unit_id": "C13-D103",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "この紙に書いて、受付に出しますね。",
+   "start_sec": 18.948,
+   "end_sec": 21.358,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D104-S01",
+   "unit_id": "C13-D104",
+   "section": "D",
+   "speaker": "リン",
+   "text": "中村さん、私の住所の字は間違いです。",
+   "start_sec": 21.708,
+   "end_sec": 25.923,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D104-S02",
+   "unit_id": "C13-D104",
+   "section": "D",
+   "speaker": "リン",
+   "text": "この字を消してもいいですか。",
+   "start_sec": 26.073,
+   "end_sec": 28.181,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D105-S01",
+   "unit_id": "C13-D105",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい。",
+   "start_sec": 28.531,
+   "end_sec": 29.207,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D105-S02",
+   "unit_id": "C13-D105",
+   "section": "D",
+   "speaker": "中村",
+   "text": "この消しゴムを使ってください。",
+   "start_sec": 29.357,
+   "end_sec": 31.362,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D105-S03",
+   "unit_id": "C13-D105",
+   "section": "D",
+   "speaker": "中村",
+   "text": "最後に紙を私に渡してください。",
+   "start_sec": 31.512,
+   "end_sec": 34.098,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D106-S01",
+   "unit_id": "C13-D106",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "準備も手伝いましょうか。",
+   "start_sec": 34.448,
+   "end_sec": 35.901,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D106-S02",
+   "unit_id": "C13-D106",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "まず何をしますか。",
+   "start_sec": 36.05,
+   "end_sec": 37.397,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D107-S01",
+   "unit_id": "C13-D107",
+   "section": "D",
+   "speaker": "中村",
+   "text": "上着を脱いで、手を洗ってください。",
+   "start_sec": 37.747,
+   "end_sec": 40.442,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D107-S02",
+   "unit_id": "C13-D107",
+   "section": "D",
+   "speaker": "中村",
+   "text": "食べ物は冷蔵庫にあります。",
+   "start_sec": 40.592,
+   "end_sec": 42.689,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D107-S03",
+   "unit_id": "C13-D107",
+   "section": "D",
+   "speaker": "中村",
+   "text": "リンさん、パンを出してください。",
+   "start_sec": 42.839,
+   "end_sec": 44.909,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D108-S01",
+   "unit_id": "C13-D108",
+   "section": "D",
+   "speaker": "リン",
+   "text": "パンですね。",
+   "start_sec": 45.259,
+   "end_sec": 46.444,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D108-S02",
+   "unit_id": "C13-D108",
+   "section": "D",
+   "speaker": "リン",
+   "text": "袋から全部出しますか。",
+   "start_sec": 46.594,
+   "end_sec": 48.627,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D108-S03",
+   "unit_id": "C13-D108",
+   "section": "D",
+   "speaker": "リン",
+   "text": "残りはどうしますか。",
+   "start_sec": 48.777,
+   "end_sec": 50.516,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D109-S01",
+   "unit_id": "C13-D109",
+   "section": "D",
+   "speaker": "中村",
+   "text": "三つだけ出してください。",
+   "start_sec": 50.866,
+   "end_sec": 52.52,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D109-S02",
+   "unit_id": "C13-D109",
+   "section": "D",
+   "speaker": "中村",
+   "text": "袋の口はこのクリップで挟んでください。",
+   "start_sec": 52.67,
+   "end_sec": 55.829,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D110-S01",
+   "unit_id": "C13-D110",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ナイフはこれですか。",
+   "start_sec": 56.179,
+   "end_sec": 57.625,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D110-S02",
+   "unit_id": "C13-D110",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "持ち方を教えてください。",
+   "start_sec": 57.775,
+   "end_sec": 59.291,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D111-S01",
+   "unit_id": "C13-D111",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい。",
+   "start_sec": 59.641,
+   "end_sec": 60.39,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D111-S02",
+   "unit_id": "C13-D111",
+   "section": "D",
+   "speaker": "中村",
+   "text": "柄をこう握ってください。",
+   "start_sec": 60.54,
+   "end_sec": 62.852,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D111-S03",
+   "unit_id": "C13-D111",
+   "section": "D",
+   "speaker": "中村",
+   "text": "ここでパンを切って、皿に載せてください。",
+   "start_sec": 63.002,
+   "end_sec": 66.242,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D112-S01",
+   "unit_id": "C13-D112",
+   "section": "D",
+   "speaker": "リン",
+   "text": "パンの準備は終わりました。",
+   "start_sec": 66.592,
+   "end_sec": 68.815,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D112-S02",
+   "unit_id": "C13-D112",
+   "section": "D",
+   "speaker": "リン",
+   "text": "スープは冷たいです。",
+   "start_sec": 68.965,
+   "end_sec": 70.737,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D112-S03",
+   "unit_id": "C13-D112",
+   "section": "D",
+   "speaker": "リン",
+   "text": "電子レンジを使ってもいいですか。",
+   "start_sec": 70.887,
+   "end_sec": 72.897,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D113-S01",
+   "unit_id": "C13-D113",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい。",
+   "start_sec": 73.247,
+   "end_sec": 73.856,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D113-S02",
+   "unit_id": "C13-D113",
+   "section": "D",
+   "speaker": "中村",
+   "text": "私と使いましょう。",
+   "start_sec": 74.006,
+   "end_sec": 75.626,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D113-S03",
+   "unit_id": "C13-D113",
+   "section": "D",
+   "speaker": "中村",
+   "text": "まず三十秒です。",
+   "start_sec": 75.776,
+   "end_sec": 77.486,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D113-S04",
+   "unit_id": "C13-D113",
+   "section": "D",
+   "speaker": "中村",
+   "text": "このボタンで止めます。",
+   "start_sec": 77.636,
+   "end_sec": 79.129,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D114-S01",
+   "unit_id": "C13-D114",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "三十秒ですね。",
+   "start_sec": 79.479,
+   "end_sec": 80.633,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D114-S02",
+   "unit_id": "C13-D114",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさん、スプーンを取ってください。",
+   "start_sec": 80.783,
+   "end_sec": 82.403,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D114-S03",
+   "unit_id": "C13-D114",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "一緒に味見をしましょう。",
+   "start_sec": 82.553,
+   "end_sec": 83.964,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D115-S01",
+   "unit_id": "C13-D115",
+   "section": "D",
+   "speaker": "リン",
+   "text": "このスプーンですね。",
+   "start_sec": 84.314,
+   "end_sec": 86.029,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D115-S02",
+   "unit_id": "C13-D115",
+   "section": "D",
+   "speaker": "リン",
+   "text": "スープはいい味です。",
+   "start_sec": 86.179,
+   "end_sec": 87.787,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D115-S03",
+   "unit_id": "C13-D115",
+   "section": "D",
+   "speaker": "リン",
+   "text": "お茶も入れましょうか。",
+   "start_sec": 87.937,
+   "end_sec": 89.512,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D116-S01",
+   "unit_id": "C13-D116",
+   "section": "D",
+   "speaker": "中村",
+   "text": "お願いします。",
+   "start_sec": 89.862,
+   "end_sec": 91.04,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D116-S02",
+   "unit_id": "C13-D116",
+   "section": "D",
+   "speaker": "中村",
+   "text": "ポットのお湯を使ってください。",
+   "start_sec": 91.19,
+   "end_sec": 93.461,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D116-S03",
+   "unit_id": "C13-D116",
+   "section": "D",
+   "speaker": "中村",
+   "text": "茶碗はこちらです。",
+   "start_sec": 93.611,
+   "end_sec": 95.297,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D116-S04",
+   "unit_id": "C13-D116",
+   "section": "D",
+   "speaker": "中村",
+   "text": "コップには水を入れます。",
+   "start_sec": 95.447,
+   "end_sec": 97.209,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D117-S01",
+   "unit_id": "C13-D117",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "準備は全部終わりました。",
+   "start_sec": 97.559,
+   "end_sec": 99.098,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D117-S02",
+   "unit_id": "C13-D117",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "写真の本はこの机ですね。",
+   "start_sec": 99.248,
+   "end_sec": 101.368,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D117-S03",
+   "unit_id": "C13-D117",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "ここに座ってもいいですか。",
+   "start_sec": 101.518,
+   "end_sec": 102.99,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D118-S01",
+   "unit_id": "C13-D118",
+   "section": "D",
+   "speaker": "中村",
+   "text": "はい、どうぞ。",
+   "start_sec": 103.34,
+   "end_sec": 104.481,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D118-S02",
+   "unit_id": "C13-D118",
+   "section": "D",
+   "speaker": "中村",
+   "text": "私の合図で始めます。",
+   "start_sec": 104.631,
+   "end_sec": 106.513,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D118-S03",
+   "unit_id": "C13-D118",
+   "section": "D",
+   "speaker": "中村",
+   "text": "まず写真を見て、それから食事をしましょう。",
+   "start_sec": 106.663,
+   "end_sec": 109.854,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D119-S01",
+   "unit_id": "C13-D119",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私は公園の写真が好きです。",
+   "start_sec": 110.204,
+   "end_sec": 112.537,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D119-S02",
+   "unit_id": "C13-D119",
+   "section": "D",
+   "speaker": "リン",
+   "text": "マテオさんはどの写真が好きですか。",
+   "start_sec": 112.687,
+   "end_sec": 114.99,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D120-S01",
+   "unit_id": "C13-D120",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "私もこの写真が好きです。",
+   "start_sec": 115.34,
+   "end_sec": 117.101,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D120-S02",
+   "unit_id": "C13-D120",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "リンさんはこの公園によく行きますか。",
+   "start_sec": 117.251,
+   "end_sec": 119.319,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D121-S01",
+   "unit_id": "C13-D121",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい。",
+   "start_sec": 119.669,
+   "end_sec": 120.566,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D121-S02",
+   "unit_id": "C13-D121",
+   "section": "D",
+   "speaker": "リン",
+   "text": "日曜日の午前中に行きます。",
+   "start_sec": 120.716,
+   "end_sec": 122.885,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D121-S03",
+   "unit_id": "C13-D121",
+   "section": "D",
+   "speaker": "リン",
+   "text": "来週の日曜日、一緒に行きませんか。",
+   "start_sec": 123.035,
+   "end_sec": 125.872,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D122-S01",
+   "unit_id": "C13-D122",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "すみません。",
+   "start_sec": 126.222,
+   "end_sec": 127.021,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D122-S02",
+   "unit_id": "C13-D122",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "もう一度、ゆっくり話してください。",
+   "start_sec": 127.171,
+   "end_sec": 129.026,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D123-S01",
+   "unit_id": "C13-D123",
+   "section": "D",
+   "speaker": "リン",
+   "text": "はい、聞いてください。",
+   "start_sec": 129.376,
+   "end_sec": 131.134,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D123-S02",
+   "unit_id": "C13-D123",
+   "section": "D",
+   "speaker": "リン",
+   "text": "日曜日の十時に公園の入口で会いましょう。",
+   "start_sec": 131.284,
+   "end_sec": 134.779,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D124-S01",
+   "unit_id": "C13-D124",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "十時ですね。",
+   "start_sec": 135.129,
+   "end_sec": 135.969,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D124-S02",
+   "unit_id": "C13-D124",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "大丈夫です。",
+   "start_sec": 136.119,
+   "end_sec": 136.989,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D124-S03",
+   "unit_id": "C13-D124",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "中村さん、次の会の希望も出してもいいですか。",
+   "start_sec": 137.139,
+   "end_sec": 140.287,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D125-S01",
+   "unit_id": "C13-D125",
+   "section": "D",
+   "speaker": "中村",
+   "text": "もちろんです。",
+   "start_sec": 140.637,
+   "end_sec": 141.673,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D125-S02",
+   "unit_id": "C13-D125",
+   "section": "D",
+   "speaker": "中村",
+   "text": "希望を紙に順に並べてください。",
+   "start_sec": 141.823,
+   "end_sec": 144.733,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D125-S03",
+   "unit_id": "C13-D125",
+   "section": "D",
+   "speaker": "中村",
+   "text": "次の会は皆さんと決めます。",
+   "start_sec": 144.883,
+   "end_sec": 147.04,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D126-S01",
+   "unit_id": "C13-D126",
+   "section": "D",
+   "speaker": "リン",
+   "text": "私は公園の会がいいです。",
+   "start_sec": 147.39,
+   "end_sec": 149.724,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D126-S02",
+   "unit_id": "C13-D126",
+   "section": "D",
+   "speaker": "リン",
+   "text": "写真も食事も楽しかったです。",
+   "start_sec": 149.874,
+   "end_sec": 152.273,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D126-S03",
+   "unit_id": "C13-D126",
+   "section": "D",
+   "speaker": "リン",
+   "text": "最後に窓を閉めましょうか。",
+   "start_sec": 152.423,
+   "end_sec": 154.518,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D127-S01",
+   "unit_id": "C13-D127",
+   "section": "D",
+   "speaker": "中村",
+   "text": "お願いします。",
+   "start_sec": 154.868,
+   "end_sec": 155.937,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D127-S02",
+   "unit_id": "C13-D127",
+   "section": "D",
+   "speaker": "中村",
+   "text": "私は本をチェックして、最後に教室を出ます。",
+   "start_sec": 156.087,
+   "end_sec": 159.673,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D128-S01",
+   "unit_id": "C13-D128",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "公園で会を開いてもいいですか。",
+   "start_sec": 160.023,
+   "end_sec": 162.502,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D128-S02",
+   "unit_id": "C13-D128",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "公園の規則は分かりません。",
+   "start_sec": 162.652,
+   "end_sec": 164.957,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D128-S03",
+   "unit_id": "C13-D128",
+   "section": "D",
+   "speaker": "マテオ",
+   "text": "だれに聞きますか。",
+   "start_sec": 165.107,
+   "end_sec": 166.418,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D129-S01",
+   "unit_id": "C13-D129",
+   "section": "D",
+   "speaker": "中村",
+   "text": "私が市に聞きます。",
+   "start_sec": 166.768,
+   "end_sec": 168.534,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D129-S02",
+   "unit_id": "C13-D129",
+   "section": "D",
+   "speaker": "中村",
+   "text": "公園の会は市の許可を取ります。",
+   "start_sec": 168.684,
+   "end_sec": 171.53,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C13-D129-S03",
+   "unit_id": "C13-D129",
+   "section": "D",
+   "speaker": "中村",
+   "text": "まず場所を確認しましょう。",
+   "start_sec": 171.68,
+   "end_sec": 173.486,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

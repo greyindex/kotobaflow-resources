@@ -1,0 +1,1762 @@
+{
+  "schemaVersion": 2,
+  "book_id": "KotobaFlow1",
+  "lesson_id": "lesson_02",
+  "entries": [
+    {
+      "textbook_uid": "cfv-a504f0ec09ca22bd",
+      "index": 23,
+      "word": "私",
+      "reading_hiragana": "わたし",
+      "context_meaning_zh": "自己这一说话人",
+      "pos_ja": "代名詞・人称",
+      "pos_zh": "代词・人称",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "自己这一说话人",
+          "meaning_ja": "話し手が自分を指す言葉。",
+          "example_ja": "私は学生です。",
+          "example_zh": "我是学生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "私の名前",
+          "zh": "我的名字"
+        },
+        {
+          "ja": "私も学生です",
+          "zh": "我也是学生"
+        }
+      ],
+      "usage_note_zh": "说话人自称，通常不加「さん」；需要突出对比时可用「私が」等形式，具体助词随句子变化。",
+      "pos": {
+        "primary": "pronoun",
+        "classes": [
+          "pronoun"
+        ],
+        "subtypes": [
+          "personal"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "自我介绍中的私指说话者本人，为第一人称代词。",
+        "dictionary_sequences": [
+          1311110
+        ],
+        "identity": {
+          "word": "私",
+          "reading_hiragana": "わたし",
+          "meaning": "自己这一说话人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9bcfcc9d12239068",
+      "index": 24,
+      "word": "名前",
+      "reading_hiragana": "なまえ",
+      "context_meaning_zh": "姓名",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "姓名",
+          "meaning_ja": "人や物を呼ぶときに使う言葉。",
+          "example_ja": "名前を書いてください。",
+          "example_zh": "请写下姓名。"
+        },
+        {
+          "meaning_zh": "事物的名称",
+          "meaning_ja": "人や物をほかのものと区別するために付けた呼び名。",
+          "example_ja": "この店の名前は「さくら」です。",
+          "example_zh": "这家店的名字叫“樱”。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "名前を書く",
+          "zh": "写名字"
+        },
+        {
+          "ja": "名前を聞く",
+          "zh": "询问姓名"
+        }
+      ],
+      "usage_note_zh": "表示姓名、名称；询问姓名可说「お名前は何ですか」，礼貌场合常在「名前」前加「お」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "自我介绍中名前指姓名，词典name及given name义均适用。",
+        "dictionary_sequences": [
+          1531710
+        ],
+        "identity": {
+          "word": "名前",
+          "reading_hiragana": "なまえ",
+          "meaning": "姓名"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-a9720937e09c03d1",
+      "index": 25,
+      "word": "学生",
+      "reading_hiragana": "がくせい",
+      "context_meaning_zh": "学生",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "学生",
+          "meaning_ja": "学校で勉強している人。",
+          "example_ja": "妹は学生です。",
+          "example_zh": "妹妹是学生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "学生です",
+          "zh": "是学生"
+        },
+        {
+          "ja": "学生の友達",
+          "zh": "学生朋友"
+        }
+      ],
+      "usage_note_zh": "泛指在学校学习的人；本课不细分学段。自我介绍职业或身份时可直接用「学生です」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "述语位置说明说话者的学生身份，符合词典名词义。",
+        "dictionary_sequences": [
+          1206900
+        ],
+        "identity": {
+          "word": "学生",
+          "reading_hiragana": "がくせい",
+          "meaning": "学生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-368e4cfa3e08f4e5",
+      "index": 26,
+      "word": "先生",
+      "reading_hiragana": "せんせい",
+      "context_meaning_zh": "教师或对教师的称呼",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性・尊敬语",
+      "senses": [
+        {
+          "meaning_zh": "教师或对教师的称呼",
+          "meaning_ja": "学校で教える人。また、教師や医師などを呼ぶときにも使う言葉。",
+          "example_ja": "田中先生は日本語の先生です。",
+          "example_zh": "田中老师是日语老师。"
+        },
+        {
+          "meaning_zh": "对医生等专业人士的敬称",
+          "meaning_ja": "医師など、専門の仕事をする人を敬って呼ぶ言葉。",
+          "example_ja": "佐藤先生に診てもらいます。",
+          "example_zh": "我请佐藤医生给我看病。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "先生に聞く",
+          "zh": "问老师"
+        },
+        {
+          "ja": "田中先生",
+          "zh": "田中老师"
+        }
+      ],
+      "usage_note_zh": "可指教师，也用于称呼教师、医生等专业人士；自报职业通常说「教師」，不把「先生」当作对自己的职业自称。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "honorific"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "单独回答「先生です」时，先生指教师并作为尊称；spoken描述简短口头回答的媒介。",
+        "dictionary_sequences": [
+          1387990
+        ],
+        "identity": {
+          "word": "先生",
+          "reading_hiragana": "せんせい",
+          "meaning": "教师或对教师的称呼"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-91e137a6d5d8ab38",
+      "index": 27,
+      "word": "会社員",
+      "reading_hiragana": "かいしゃいん",
+      "context_meaning_zh": "公司职员",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "公司职员",
+          "meaning_ja": "会社で働く人。",
+          "example_ja": "父は会社員です。",
+          "example_zh": "父亲是公司职员。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会社員です",
+          "zh": "是公司职员"
+        },
+        {
+          "ja": "会社員として働く",
+          "zh": "作为公司职员工作"
+        }
+      ],
+      "usage_note_zh": "指在公司任职的人，不是「会社」（公司组织）本身。介绍职业时可说「会社員です」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「会社員です」在自我介绍职业，指公司雇员而非公司组织。",
+        "dictionary_sequences": [
+          1198560
+        ],
+        "identity": {
+          "word": "会社員",
+          "reading_hiragana": "かいしゃいん",
+          "meaning": "公司职员"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e1418d9a81f53105",
+      "index": 28,
+      "word": "留学生",
+      "reading_hiragana": "りゅうがくせい",
+      "context_meaning_zh": "留学生",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "留学生",
+          "meaning_ja": "自分の国以外の国で勉強している学生。",
+          "example_ja": "エマさんは留学生です。",
+          "example_zh": "埃玛是留学生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "留学生です",
+          "zh": "是留学生"
+        },
+        {
+          "ja": "留学生の友達",
+          "zh": "留学生朋友"
+        }
+      ],
+      "usage_note_zh": "指到别的国家学习的学生；并不说明其国籍或母语。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "留学生是从国外来学习的学生名词；本句以此身份作自我说明。",
+        "dictionary_sequences": [
+          1552750
+        ],
+        "identity": {
+          "word": "留学生",
+          "reading_hiragana": "りゅうがくせい",
+          "meaning": "留学生"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-9746859c9740c32c",
+      "index": 29,
+      "word": "人",
+      "reading_hiragana": "ひと",
+      "context_meaning_zh": "人",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "人",
+          "meaning_ja": "人間。",
+          "example_ja": "あの人は先生です。",
+          "example_zh": "那个人是老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "人が多い",
+          "zh": "人很多"
+        },
+        {
+          "ja": "知らない人",
+          "zh": "不认识的人"
+        }
+      ],
+      "usage_note_zh": "指人或人类；「知らない人」指不认识的人，「人が多い」说明某处人数多。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "否定判断“不是人”中指人类/人，普通名词；ません是句末礼貌形，不属于词项礼貌标签。",
+        "dictionary_sequences": [
+          1580640
+        ],
+        "identity": {
+          "word": "人",
+          "reading_hiragana": "ひと",
+          "meaning": "人"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7d283a9abfd9ec13",
+      "index": 30,
+      "word": "日本",
+      "reading_hiragana": "にほん",
+      "context_meaning_zh": "日本",
+      "pos_ja": "名詞・固有名詞",
+      "pos_zh": "名词・专有名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日本",
+          "meaning_ja": "東アジアにある国の名前。",
+          "example_ja": "日本は島国です。",
+          "example_zh": "日本是岛国。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本の大学",
+          "zh": "日本的大学"
+        },
+        {
+          "ja": "日本に住む",
+          "zh": "住在日本"
+        }
+      ],
+      "usage_note_zh": "本课采用「にほん」读法。「日本に住む」用「に」标居住地点；「日本で勉強する」用「で」标动作发生地点。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "proper_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "日本在句中作为国家名称的表语，属于国家专名名词。",
+        "dictionary_sequences": [
+          1582710
+        ],
+        "identity": {
+          "word": "日本",
+          "reading_hiragana": "にほん",
+          "meaning": "日本"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-1285ad3c61f8937b",
+      "index": 31,
+      "word": "国",
+      "reading_hiragana": "くに",
+      "context_meaning_zh": "国家",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "国家",
+          "meaning_ja": "人々が住み、政府などを持つ地域。",
+          "example_ja": "私の国は中国です。",
+          "example_zh": "我的国家是中国。"
+        },
+        {
+          "meaning_zh": "故乡；祖国",
+          "meaning_ja": "自分が生まれ育った国、または自分の国だと思う国。",
+          "example_ja": "夏休みに国へ帰ります。",
+          "example_zh": "暑假回国。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "国の名前",
+          "zh": "国家名称"
+        },
+        {
+          "ja": "国はどこですか",
+          "zh": "国家是哪里？"
+        }
+      ],
+      "usage_note_zh": "表示国家；「国は中国です」是在自我介绍中说明所属国家，单独表示“来自”时需使用相应句型。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "needs_review",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "词典序号1592250含国家、地区、中央政府及故乡等义；本句「国は中国」意义略不自然，需核上下文。",
+        "dictionary_sequences": [
+          1592250
+        ],
+        "identity": {
+          "word": "国",
+          "reading_hiragana": "くに",
+          "meaning": "国家"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-7ab2469105a7e1f1",
+      "index": 32,
+      "word": "友達",
+      "reading_hiragana": "ともだち",
+      "context_meaning_zh": "朋友",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "朋友",
+          "meaning_ja": "親しく付き合っている人。",
+          "example_ja": "大学に友達がいます。",
+          "example_zh": "我在大学有朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "友達と話す",
+          "zh": "和朋友说话"
+        },
+        {
+          "ja": "友達になる",
+          "zh": "成为朋友"
+        }
+      ],
+      "usage_note_zh": "表示朋友关系；可用「友達の～」表示朋友的某物，也常用「友達と」表示共同进行动作。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "友達指朋友或同伴，例句介绍朴先生是朋友。",
+        "dictionary_sequences": [
+          1540170
+        ],
+        "identity": {
+          "word": "友達",
+          "reading_hiragana": "ともだち",
+          "meaning": "朋友"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-80344df2cd55d9c4",
+      "index": 33,
+      "word": "大学",
+      "reading_hiragana": "だいがく",
+      "context_meaning_zh": "大学",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "大学",
+          "meaning_ja": "高校を卒業したあとに進学する学校。",
+          "example_ja": "兄は大学で勉強しています。",
+          "example_zh": "哥哥在大学学习。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "大学に行く",
+          "zh": "上大学/去大学"
+        },
+        {
+          "ja": "大学の先生",
+          "zh": "大学老师"
+        }
+      ],
+      "usage_note_zh": "指大学这一教育机构；「大学はみなと大学です」中后一个大学属于虚构校名的一部分。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "句中大学为机构名称，词典首义university／college；不取古代官学或经典书名义。",
+        "dictionary_sequences": [
+          1413240
+        ],
+        "identity": {
+          "word": "大学",
+          "reading_hiragana": "だいがく",
+          "meaning": "大学"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-82943b1a42c8fa01",
+      "index": 34,
+      "word": "仕事",
+      "reading_hiragana": "しごと",
+      "context_meaning_zh": "工作",
+      "pos_ja": "名詞・動詞・サ変名詞",
+      "pos_zh": "名词・动词・サ变名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "工作",
+          "meaning_ja": "お金をもらうためにすること。また、するべき作業。",
+          "example_ja": "今日は仕事があります。",
+          "example_zh": "今天有工作。"
+        },
+        {
+          "meaning_zh": "具体要做的工作；任务",
+          "meaning_ja": "しなければならない作業。",
+          "example_ja": "この仕事を今日します。",
+          "example_zh": "今天做这项工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "仕事をする",
+          "zh": "工作"
+        },
+        {
+          "ja": "仕事が終わる",
+          "zh": "工作结束"
+        }
+      ],
+      "usage_note_zh": "可指职业，也可指具体工作或任务；本课「仕事は教師です」用来说明职业。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun",
+          "verb"
+        ],
+        "subtypes": [
+          "verbal_noun"
+        ],
+        "conjugation": "suru"
+      },
+      "transitivity": {
+        "value": "intransitive",
+        "scope": "suru"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "medium",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「仕事は教師です」以职业工作为名词表语；「仕事をする」亦为常见サ变式用法，本句不涉及敬语属性。",
+        "dictionary_sequences": [
+          1304970
+        ],
+        "identity": {
+          "word": "仕事",
+          "reading_hiragana": "しごと",
+          "meaning": "工作"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-8c92cd1bd6631c9f",
+      "index": 35,
+      "word": "はい",
+      "reading_hiragana": "はい",
+      "context_meaning_zh": "肯定或已听见的回应",
+      "pos_ja": "感動詞",
+      "pos_zh": "感叹词",
+      "register_zh": "中性・礼貌语",
+      "senses": [
+        {
+          "meaning_zh": "肯定或已听见的回应",
+          "meaning_ja": "相手の質問に肯定して答えたり、話を聞いたことを伝えたりする言葉。",
+          "example_ja": "はい、そうです。",
+          "example_zh": "是的，是这样。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "はい、そうです",
+          "zh": "是的，是这样"
+        },
+        {
+          "ja": "はい、分かりました",
+          "zh": "好的，我明白了"
+        }
+      ],
+      "usage_note_zh": "可表示肯定，也可表示“听到了/知道了”；不能在所有语境中都机械译成“是”。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "polite"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“はい”在例句中是肯定应答，词典相关感叹词义标注礼貌；其他同音汉字词条与当前词头无关。",
+        "dictionary_sequences": [
+          1010080
+        ],
+        "identity": {
+          "word": "はい",
+          "reading_hiragana": "はい",
+          "meaning": "肯定或已听见的回应"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e4f523da8b823b00",
+      "index": 36,
+      "word": "いいえ",
+      "reading_hiragana": "いいえ",
+      "context_meaning_zh": "否定回应",
+      "pos_ja": "感動詞",
+      "pos_zh": "感叹词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "否定回应",
+          "meaning_ja": "相手の質問や考えに賛成しないことを伝える言葉。",
+          "example_ja": "いいえ、学生ではありません。",
+          "example_zh": "不，我不是学生。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "いいえ、違います",
+          "zh": "不，不是"
+        },
+        {
+          "ja": "いいえ、そうではありません",
+          "zh": "不，不是那样"
+        }
+      ],
+      "usage_note_zh": "用于否定回答；有时会先用「いいえ」否定对方猜测，再补充正确情况。",
+      "pos": {
+        "primary": "interjection",
+        "classes": [
+          "interjection"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本章「いいえ、教師です」以いいえ否定身份判断；词典另列答谢回应义但非此处义。",
+        "dictionary_sequences": [
+          1583250
+        ],
+        "identity": {
+          "word": "いいえ",
+          "reading_hiragana": "いいえ",
+          "meaning": "否定回应"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-88e34e9a76014fd7",
+      "index": 37,
+      "word": "韓国",
+      "reading_hiragana": "かんこく",
+      "context_meaning_zh": "韩国",
+      "pos_ja": "名詞・固有名詞",
+      "pos_zh": "名词・专有名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "韩国",
+          "meaning_ja": "東アジアにある国の名前。",
+          "example_ja": "韓国の友達がいます。",
+          "example_zh": "我有韩国朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "韓国の人",
+          "zh": "韩国人"
+        },
+        {
+          "ja": "韓国に行く",
+          "zh": "去韩国"
+        }
+      ],
+      "usage_note_zh": "国家名读「かんこく」；「韓国に行く」用「に」标目的地，「韓国で働く」用「で」标工作发生地点。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "proper_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "国名专有名词；例句作身份说明中的国家名称，词典名词义匹配。",
+        "dictionary_sequences": [
+          1216170
+        ],
+        "identity": {
+          "word": "韓国",
+          "reading_hiragana": "かんこく",
+          "meaning": "韩国"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e3a56a0e4d4d2083",
+      "index": 38,
+      "word": "中国",
+      "reading_hiragana": "ちゅうごく",
+      "context_meaning_zh": "中国",
+      "pos_ja": "名詞・固有名詞",
+      "pos_zh": "名词・专有名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "中国",
+          "meaning_ja": "東アジアにある国の名前。",
+          "example_ja": "中国の大学で勉強します。",
+          "example_zh": "在中国的大学学习。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "中国の人",
+          "zh": "中国人"
+        },
+        {
+          "ja": "中国に住む",
+          "zh": "住在中国"
+        }
+      ],
+      "usage_note_zh": "「中国」是国家名，「中国語」是中文；表示去中国可说「中国に行く」，在中国学习可说「中国で勉強する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "proper_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "“国は中国です”中指国家中国而非日本的中国地方，属国名专称。",
+        "dictionary_sequences": [
+          1424270
+        ],
+        "identity": {
+          "word": "中国",
+          "reading_hiragana": "ちゅうごく",
+          "meaning": "中国"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-fd909b6200fa2abc",
+      "index": 39,
+      "word": "アメリカ",
+      "reading_hiragana": "あめりか",
+      "context_meaning_zh": "美国",
+      "pos_ja": "名詞・固有名詞",
+      "pos_zh": "名词・专有名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "美国",
+          "meaning_ja": "北アメリカにある国の名前。",
+          "example_ja": "アメリカの大学に行きます。",
+          "example_zh": "去美国的大学。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "アメリカの人",
+          "zh": "美国人"
+        },
+        {
+          "ja": "アメリカに住む",
+          "zh": "住在美国"
+        }
+      ],
+      "usage_note_zh": "正文通常写片假名「アメリカ」；「アメリカに住む」表示居住地，「アメリカで働く」表示动作发生地。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "proper_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context",
+          "usage"
+        ],
+        "note_zh": "本课和身份义均指美国这一国家专名；JMdict亦列美洲大陆义，但不合本词条中文义。",
+        "dictionary_sequences": [
+          1149830
+        ],
+        "identity": {
+          "word": "アメリカ",
+          "reading_hiragana": "あめりか",
+          "meaning": "美国"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-dac2349b1466a3be",
+      "index": 40,
+      "word": "インド",
+      "reading_hiragana": "いんど",
+      "context_meaning_zh": "印度",
+      "pos_ja": "名詞・固有名詞",
+      "pos_zh": "名词・专有名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "印度",
+          "meaning_ja": "南アジアにある国の名前。",
+          "example_ja": "インドの友達がいます。",
+          "example_zh": "我有印度朋友。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "インドの人",
+          "zh": "印度人"
+        },
+        {
+          "ja": "インドに行く",
+          "zh": "去印度"
+        }
+      ],
+      "usage_note_zh": "正文写作片假名「インド」；目的地可说「インドに行く」，动作发生地可说「インドで勉強する」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [
+          "proper_noun"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "国名印度作专有名词；例句「国はインドです」中的礼貌来自句末判断句。",
+        "dictionary_sequences": [
+          1023840
+        ],
+        "identity": {
+          "word": "インド",
+          "reading_hiragana": "いんど",
+          "meaning": "印度"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-207a305cf58839f4",
+      "index": 41,
+      "word": "日本語",
+      "reading_hiragana": "にほんご",
+      "context_meaning_zh": "日语",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "日语",
+          "meaning_ja": "日本で使われている言葉。",
+          "example_ja": "日本語を勉強します。",
+          "example_zh": "学习日语。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "日本語を話す",
+          "zh": "说日语"
+        },
+        {
+          "ja": "日本語の本",
+          "zh": "日语书"
+        }
+      ],
+      "usage_note_zh": "「日本語」指日语，「日本人」指日本人；语言名称常与「話す」「勉強する」连用，如「日本語を話す」。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「母語は日本語」将日语作为母语，属于语言名称名词。",
+        "dictionary_sequences": [
+          1464530
+        ],
+        "identity": {
+          "word": "日本語",
+          "reading_hiragana": "にほんご",
+          "meaning": "日语"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-0f857d53144ab863",
+      "index": 42,
+      "word": "英語",
+      "reading_hiragana": "えいご",
+      "context_meaning_zh": "英语",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "英语",
+          "meaning_ja": "イギリスやアメリカなどで使われている言葉。",
+          "example_ja": "英語の先生です。",
+          "example_zh": "是英语老师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "英語を話す",
+          "zh": "说英语"
+        },
+        {
+          "ja": "英語の本",
+          "zh": "英语书"
+        }
+      ],
+      "usage_note_zh": "语言名「英語」常与「話す」「勉強する」连用；「英語の先生」表示教英语的老师。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "例句「母語は英語」指语言而非英语科目，词典给出的English language名词义吻合。",
+        "dictionary_sequences": [
+          1174420
+        ],
+        "identity": {
+          "word": "英語",
+          "reading_hiragana": "えいご",
+          "meaning": "英语"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-ca3822f6238f291f",
+      "index": 43,
+      "word": "母語",
+      "reading_hiragana": "ぼご",
+      "context_meaning_zh": "母语",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "母语",
+          "meaning_ja": "子どものころから身につけた、その人にとって最初の言葉。",
+          "example_ja": "母語は中国語です。",
+          "example_zh": "我的母语是中文。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "母語を話す",
+          "zh": "说母语"
+        },
+        {
+          "ja": "母語が同じ",
+          "zh": "母语相同"
+        }
+      ],
+      "usage_note_zh": "指一个人从小习得的语言；有人从小同时习得多种语言，因此母语不一定只有一种。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "母语是英语，指个人最初习得的语言；本语境为母语义而非语言祖语。",
+        "dictionary_sequences": [
+          1515030
+        ],
+        "identity": {
+          "word": "母語",
+          "reading_hiragana": "ぼご",
+          "meaning": "母语"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-6106d20ab2153368",
+      "index": 44,
+      "word": "同僚",
+      "reading_hiragana": "どうりょう",
+      "context_meaning_zh": "同事",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "同事",
+          "meaning_ja": "同じ職場で働く人。",
+          "example_ja": "同僚と昼ご飯を食べます。",
+          "example_zh": "和同事吃午饭。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "同僚と働く",
+          "zh": "和同事一起工作"
+        },
+        {
+          "ja": "会社の同僚",
+          "zh": "公司的同事"
+        }
+      ],
+      "usage_note_zh": "指同一工作单位的人，语气较「会社の人」明确，也比「友達」更强调工作关系。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指在同一工作场所共事的人，词典义为同事或同僚；会议和下班活动是常见语境，不将工作话题误标business体裁。",
+        "dictionary_sequences": [
+          1453580
+        ],
+        "identity": {
+          "word": "同僚",
+          "reading_hiragana": "どうりょう",
+          "meaning": "同事"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-03a538fb20469cd4",
+      "index": 45,
+      "word": "教師",
+      "reading_hiragana": "きょうし",
+      "context_meaning_zh": "教师这一职业",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "教师这一职业",
+          "meaning_ja": "学校などで人に勉強を教えることを仕事にする人。",
+          "example_ja": "姉は教師です。",
+          "example_zh": "姐姐是教师。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "教師として働く",
+          "zh": "作为教师工作"
+        },
+        {
+          "ja": "教師になる",
+          "zh": "成为教师"
+        }
+      ],
+      "usage_note_zh": "是职业名称；对老师本人称呼时通常使用「先生」，不直接用「教師」作称呼。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "「仕事は教師です」说明教师职业身份，不是对老师的直接称呼；词典列teacher名词义。",
+        "dictionary_sequences": [
+          1237130
+        ],
+        "identity": {
+          "word": "教師",
+          "reading_hiragana": "きょうし",
+          "meaning": "教师这一职业"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-e8576388c2c3b17b",
+      "index": 46,
+      "word": "会社",
+      "reading_hiragana": "かいしゃ",
+      "context_meaning_zh": "公司",
+      "pos_ja": "名詞",
+      "pos_zh": "名词",
+      "register_zh": "中性",
+      "senses": [
+        {
+          "meaning_zh": "公司",
+          "meaning_ja": "商品を作ったり、サービスをしたりする組織。",
+          "example_ja": "父は会社で働いています。",
+          "example_zh": "父亲在公司工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "会社で働く",
+          "zh": "在公司工作"
+        },
+        {
+          "ja": "会社の名前",
+          "zh": "公司名称"
+        }
+      ],
+      "usage_note_zh": "指公司这一组织；「会社員」指在公司工作的人，两者不要混为一谈。",
+      "pos": {
+        "primary": "noun",
+        "classes": [
+          "noun"
+        ],
+        "subtypes": [],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [],
+        "usage": []
+      },
+      "style": {
+        "medium": "general",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "context"
+        ],
+        "note_zh": "指作为组织的公司，例中用作身份判断；词典的 workplace 义不取，日常普通名词。",
+        "dictionary_sequences": [
+          1198550
+        ],
+        "identity": {
+          "word": "会社",
+          "reading_hiragana": "かいしゃ",
+          "meaning": "公司"
+        }
+      }
+    },
+    {
+      "textbook_uid": "cfv-f74b8acb50783fcd",
+      "index": 47,
+      "word": "初めまして",
+      "reading_hiragana": "はじめまして",
+      "context_meaning_zh": "初次见面",
+      "pos_ja": "表現・挨拶",
+      "pos_zh": "表达・问候语",
+      "register_zh": "中性・礼貌语",
+      "senses": [
+        {
+          "meaning_zh": "初次见面",
+          "meaning_ja": "初めて会った人に言うあいさつ。",
+          "example_ja": "初めまして。私はアンナです。",
+          "example_zh": "初次见面。我是安娜。"
+        }
+      ],
+      "collocations": [
+        {
+          "ja": "初めまして、〇〇です",
+          "zh": "初次见面，我是〇〇"
+        },
+        {
+          "ja": "初めまして。よろしくお願いします",
+          "zh": "初次见面，请多关照"
+        }
+      ],
+      "usage_note_zh": "初次见面时使用的固定问候，常接自我介绍；本课作为整句学习，不在这里拆解活用。",
+      "pos": {
+        "primary": "expression",
+        "classes": [
+          "expression"
+        ],
+        "subtypes": [
+          "greeting"
+        ],
+        "conjugation": "not_applicable"
+      },
+      "transitivity": {
+        "value": "not_applicable",
+        "scope": "not_applicable"
+      },
+      "register": {
+        "formality": "neutral",
+        "politeness": [
+          "polite"
+        ],
+        "usage": []
+      },
+      "style": {
+        "medium": "spoken",
+        "genres": []
+      },
+      "lexical_review": {
+        "schemaVersion": 2,
+        "status": "reviewed",
+        "confidence": "high",
+        "basis": [
+          "dictionary",
+          "grammar",
+          "context"
+        ],
+        "note_zh": "「初めまして」是初次见面时使用的固定寒暄语；形式礼貌，但本身不表达敬语尊敬或谦让对象。",
+        "dictionary_sequences": [
+          1625780
+        ],
+        "identity": {
+          "word": "初めまして",
+          "reading_hiragana": "はじめまして",
+          "meaning": "初次见面"
+        }
+      }
+    }
+  ]
+}

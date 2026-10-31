@@ -1,0 +1,962 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 154.552,
+ "listening_review": "pending",
+ "source_chapter": 53,
+ "turns": [
+  {
+   "turn_id": "C53-D001",
+   "turn_index": 0,
+   "speaker": "ミン",
+   "source_text": "六人から、受け取りを確認できていないと連絡がありました。一体どうしたんでしょう。",
+   "sentence_ids": [
+    "C53-D001-S01",
+    "C53-D001-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 5.598,
+   "duration_sec": 5.598
+  },
+  {
+   "turn_id": "C53-D002",
+   "turn_index": 1,
+   "speaker": "アナ",
+   "source_text": "申し込んだ人は二十四人で、送信リストにも二十四人の名前があります。送ったはずなんですが。",
+   "sentence_ids": [
+    "C53-D002-S01",
+    "C53-D002-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 5.948,
+   "end_sec": 13.01,
+   "duration_sec": 7.062
+  },
+  {
+   "turn_id": "C53-D003",
+   "turn_index": 2,
+   "speaker": "佐藤",
+   "source_text": "送信操作の記録もありますね。ただ、相手に届いたかどうかは、この記録では確認できません。",
+   "sentence_ids": [
+    "C53-D003-S01",
+    "C53-D003-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 13.36,
+   "end_sec": 20.165,
+   "duration_sec": 6.805
+  },
+  {
+   "turn_id": "C53-D004",
+   "turn_index": 3,
+   "speaker": "ミン",
+   "source_text": "六人から連絡があったものだから、送るのを忘れたと思ったんです。気が咎めます。",
+   "sentence_ids": [
+    "C53-D004-S01",
+    "C53-D004-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 20.515,
+   "end_sec": 26.778,
+   "duration_sec": 6.263
+  },
+  {
+   "turn_id": "C53-D005",
+   "turn_index": 4,
+   "speaker": "アナ",
+   "source_text": "私も「届いていないわけがない」と考えました。でも、根拠が足りませんね。",
+   "sentence_ids": [
+    "C53-D005-S01",
+    "C53-D005-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 27.128,
+   "end_sec": 32.231,
+   "duration_sec": 5.103
+  },
+  {
+   "turn_id": "C53-D006",
+   "turn_index": 5,
+   "speaker": "佐藤",
+   "source_text": "ええ。送信操作がなかったという意味でも、全員が受け取ったという意味でもありません。",
+   "sentence_ids": [
+    "C53-D006-S01",
+    "C53-D006-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 32.581,
+   "end_sec": 38.442,
+   "duration_sec": 5.861
+  },
+  {
+   "turn_id": "C53-D007",
+   "turn_index": 6,
+   "speaker": "ミン",
+   "source_text": "道理で、この記録だけでは受け取りが分からないわけですね。六人は参加したんですか。",
+   "sentence_ids": [
+    "C53-D007-S01",
+    "C53-D007-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 38.792,
+   "end_sec": 44.399,
+   "duration_sec": 5.607
+  },
+  {
+   "turn_id": "C53-D008",
+   "turn_index": 7,
+   "speaker": "アナ",
+   "source_text": "まだ分かりません。メールと欠席の関係は不明です。メールのせいだとは判断できません。",
+   "sentence_ids": [
+    "C53-D008-S01",
+    "C53-D008-S02",
+    "C53-D008-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 44.749,
+   "end_sec": 51.162,
+   "duration_sec": 6.413
+  },
+  {
+   "turn_id": "C53-D009",
+   "turn_index": 8,
+   "speaker": "ミン",
+   "source_text": "では、記入の手違いや受信設定、遅延を確認しましょう。",
+   "sentence_ids": [
+    "C53-D009-S01"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 51.512,
+   "end_sec": 56.284,
+   "duration_sec": 4.772
+  },
+  {
+   "turn_id": "C53-D010",
+   "turn_index": 9,
+   "speaker": "佐藤",
+   "source_text": "故障もまだ可能性です。原因が分からないのは、情報が足りないためです。",
+   "sentence_ids": [
+    "C53-D010-S01",
+    "C53-D010-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 56.634,
+   "end_sec": 61.959,
+   "duration_sec": 5.325
+  },
+  {
+   "turn_id": "C53-D011",
+   "turn_index": 10,
+   "speaker": "アナ",
+   "source_text": "金曜日までに調べます。先に謝ってもいいですか。",
+   "sentence_ids": [
+    "C53-D011-S01",
+    "C53-D011-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 62.309,
+   "end_sec": 67.034,
+   "duration_sec": 4.725
+  },
+  {
+   "turn_id": "C53-D012",
+   "turn_index": 11,
+   "speaker": "佐藤",
+   "source_text": "不便について謝るんです。自分の間違いだと決めることとは別です。",
+   "sentence_ids": [
+    "C53-D012-S01",
+    "C53-D012-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 67.384,
+   "end_sec": 72.184,
+   "duration_sec": 4.8
+  },
+  {
+   "turn_id": "C53-D013",
+   "turn_index": 12,
+   "speaker": "ミン",
+   "source_text": "納得しました。実は、前の職場でも説明の態度でもめたんです。",
+   "sentence_ids": [
+    "C53-D013-S01",
+    "C53-D013-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 72.534,
+   "end_sec": 77.932,
+   "duration_sec": 5.398
+  },
+  {
+   "turn_id": "C53-D014",
+   "turn_index": 13,
+   "speaker": "佐藤",
+   "source_text": "言葉の内容も口調も大切ですね。理屈が正しくても、乱暴な言い方では伝わりにくいです。どんな行き違いでしたか。",
+   "sentence_ids": [
+    "C53-D014-S01",
+    "C53-D014-S02",
+    "C53-D014-S03"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 78.282,
+   "end_sec": 88.603,
+   "duration_sec": 10.321
+  },
+  {
+   "turn_id": "C53-D015",
+   "turn_index": 14,
+   "speaker": "アナ",
+   "source_text": "相談会の件とは別の話ですね。返信の参考にしたいので、聞かせてください。",
+   "sentence_ids": [
+    "C53-D015-S01",
+    "C53-D015-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 88.953,
+   "end_sec": 94.843,
+   "duration_sec": 5.89
+  },
+  {
+   "turn_id": "C53-D016",
+   "turn_index": 15,
+   "speaker": "ミン",
+   "source_text": "はい。私はひそひそと相談していたら、「悪者にするのか」となじられました。本心では助けたかったんです。",
+   "sentence_ids": [
+    "C53-D016-S01",
+    "C53-D016-S02",
+    "C53-D016-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 95.193,
+   "end_sec": 104.292,
+   "duration_sec": 9.099
+  },
+  {
+   "turn_id": "C53-D017",
+   "turn_index": 16,
+   "speaker": "アナ",
+   "source_text": "助けたい気持ちと、責められたくない気持ちの葛藤があったんですね。",
+   "sentence_ids": [
+    "C53-D017-S01"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 104.642,
+   "end_sec": 109.213,
+   "duration_sec": 4.571
+  },
+  {
+   "turn_id": "C53-D018",
+   "turn_index": 17,
+   "speaker": "ミン",
+   "source_text": "ええ。「俺たちを振り回すな」「お前は生意気だ」と怒る相手に、私も頭に来ました。「何を」と言い返して、口げんかになりました。",
+   "sentence_ids": [
+    "C53-D018-S01",
+    "C53-D018-S02",
+    "C53-D018-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 109.563,
+   "end_sec": 118.898,
+   "duration_sec": 9.335
+  },
+  {
+   "turn_id": "C53-D019",
+   "turn_index": 18,
+   "speaker": "佐藤",
+   "source_text": "双方が乱暴な言葉を使うと、話が擦れ違いますね。",
+   "sentence_ids": [
+    "C53-D019-S01"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 119.248,
+   "end_sec": 123.571,
+   "duration_sec": 4.323
+  },
+  {
+   "turn_id": "C53-D020",
+   "turn_index": 19,
+   "speaker": "ミン",
+   "source_text": "あの剣幕は怖かったです。私も「狡い」とぶつぶつ言いました。それなのに、自分だけ正しいと思っていました。",
+   "sentence_ids": [
+    "C53-D020-S01",
+    "C53-D020-S02",
+    "C53-D020-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 123.921,
+   "end_sec": 132.61,
+   "duration_sec": 8.689
+  },
+  {
+   "turn_id": "C53-D021",
+   "turn_index": 20,
+   "speaker": "アナ",
+   "source_text": "憎まれ口は恨みの元になりますね。でも、説明だけで喧嘩は収まったんですか。",
+   "sentence_ids": [
+    "C53-D021-S01",
+    "C53-D021-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 132.96,
+   "end_sec": 139.274,
+   "duration_sec": 6.314
+  },
+  {
+   "turn_id": "C53-D022",
+   "turn_index": 21,
+   "speaker": "ミン",
+   "source_text": "いいえ。「だって、知らなかったんだもん」と弁解したら、「屁理屈だ」と言われました。後で謝りましたが、恥をかきました。",
+   "sentence_ids": [
+    "C53-D022-S01",
+    "C53-D022-S02",
+    "C53-D022-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 139.624,
+   "end_sec": 148.266,
+   "duration_sec": 8.642
+  },
+  {
+   "turn_id": "C53-D023",
+   "turn_index": 22,
+   "speaker": "佐藤",
+   "source_text": "「口は災いの門」ですね。とにかく、今回も相手の不安を聞きましょう。",
+   "sentence_ids": [
+    "C53-D023-S01",
+    "C53-D023-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 148.616,
+   "end_sec": 154.545,
+   "duration_sec": 5.929
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C53-D001-S01",
+   "unit_id": "C53-D001",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "六人から、受け取りを確認できていないと連絡がありました。",
+   "start_sec": 0.0,
+   "end_sec": 4.038,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D001-S02",
+   "unit_id": "C53-D001",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "一体どうしたんでしょう。",
+   "start_sec": 4.188,
+   "end_sec": 5.598,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D002-S01",
+   "unit_id": "C53-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "申し込んだ人は二十四人で、送信リストにも二十四人の名前があります。",
+   "start_sec": 5.948,
+   "end_sec": 11.331,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D002-S02",
+   "unit_id": "C53-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "送ったはずなんですが。",
+   "start_sec": 11.481,
+   "end_sec": 13.01,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D003-S01",
+   "unit_id": "C53-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "送信操作の記録もありますね。",
+   "start_sec": 13.36,
+   "end_sec": 15.605,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D003-S02",
+   "unit_id": "C53-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "ただ、相手に届いたかどうかは、この記録では確認できません。",
+   "start_sec": 15.755,
+   "end_sec": 20.165,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D004-S01",
+   "unit_id": "C53-D004",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "六人から連絡があったものだから、送るのを忘れたと思ったんです。",
+   "start_sec": 20.515,
+   "end_sec": 25.242,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D004-S02",
+   "unit_id": "C53-D004",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "気が咎めます。",
+   "start_sec": 25.392,
+   "end_sec": 26.778,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D005-S01",
+   "unit_id": "C53-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "私も「届いていないわけがない」と考えました。",
+   "start_sec": 27.128,
+   "end_sec": 30.119,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D005-S02",
+   "unit_id": "C53-D005",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "でも、根拠が足りませんね。",
+   "start_sec": 30.269,
+   "end_sec": 32.231,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D006-S01",
+   "unit_id": "C53-D006",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "ええ。",
+   "start_sec": 32.581,
+   "end_sec": 33.304,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D006-S02",
+   "unit_id": "C53-D006",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "送信操作がなかったという意味でも、全員が受け取ったという意味でもありません。",
+   "start_sec": 33.454,
+   "end_sec": 38.442,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D007-S01",
+   "unit_id": "C53-D007",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "道理で、この記録だけでは受け取りが分からないわけですね。",
+   "start_sec": 38.792,
+   "end_sec": 42.549,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D007-S02",
+   "unit_id": "C53-D007",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "六人は参加したんですか。",
+   "start_sec": 42.699,
+   "end_sec": 44.399,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D008-S01",
+   "unit_id": "C53-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "まだ分かりません。",
+   "start_sec": 44.749,
+   "end_sec": 46.204,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D008-S02",
+   "unit_id": "C53-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "メールと欠席の関係は不明です。",
+   "start_sec": 46.354,
+   "end_sec": 48.936,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D008-S03",
+   "unit_id": "C53-D008",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "メールのせいだとは判断できません。",
+   "start_sec": 49.086,
+   "end_sec": 51.162,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D009-S01",
+   "unit_id": "C53-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "では、記入の手違いや受信設定、遅延を確認しましょう。",
+   "start_sec": 51.512,
+   "end_sec": 56.284,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D010-S01",
+   "unit_id": "C53-D010",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "故障もまだ可能性です。",
+   "start_sec": 56.634,
+   "end_sec": 58.621,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D010-S02",
+   "unit_id": "C53-D010",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "原因が分からないのは、情報が足りないためです。",
+   "start_sec": 58.771,
+   "end_sec": 61.959,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D011-S01",
+   "unit_id": "C53-D011",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "金曜日までに調べます。",
+   "start_sec": 62.309,
+   "end_sec": 64.616,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D011-S02",
+   "unit_id": "C53-D011",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "先に謝ってもいいですか。",
+   "start_sec": 64.766,
+   "end_sec": 67.034,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D012-S01",
+   "unit_id": "C53-D012",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "不便について謝るんです。",
+   "start_sec": 67.384,
+   "end_sec": 69.364,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D012-S02",
+   "unit_id": "C53-D012",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "自分の間違いだと決めることとは別です。",
+   "start_sec": 69.514,
+   "end_sec": 72.184,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D013-S01",
+   "unit_id": "C53-D013",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "納得しました。",
+   "start_sec": 72.534,
+   "end_sec": 73.968,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D013-S02",
+   "unit_id": "C53-D013",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "実は、前の職場でも説明の態度でもめたんです。",
+   "start_sec": 74.118,
+   "end_sec": 77.932,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D014-S01",
+   "unit_id": "C53-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "言葉の内容も口調も大切ですね。",
+   "start_sec": 78.282,
+   "end_sec": 81.887,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D014-S02",
+   "unit_id": "C53-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "理屈が正しくても、乱暴な言い方では伝わりにくいです。",
+   "start_sec": 82.037,
+   "end_sec": 86.626,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D014-S03",
+   "unit_id": "C53-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "どんな行き違いでしたか。",
+   "start_sec": 86.776,
+   "end_sec": 88.603,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D015-S01",
+   "unit_id": "C53-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "相談会の件とは別の話ですね。",
+   "start_sec": 88.953,
+   "end_sec": 91.73,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D015-S02",
+   "unit_id": "C53-D015",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "返信の参考にしたいので、聞かせてください。",
+   "start_sec": 91.88,
+   "end_sec": 94.843,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D016-S01",
+   "unit_id": "C53-D016",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "はい。",
+   "start_sec": 95.193,
+   "end_sec": 96.141,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D016-S02",
+   "unit_id": "C53-D016",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "私はひそひそと相談していたら、「悪者にするのか」となじられました。",
+   "start_sec": 96.291,
+   "end_sec": 100.944,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D016-S03",
+   "unit_id": "C53-D016",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "本心では助けたかったんです。",
+   "start_sec": 101.094,
+   "end_sec": 104.292,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D017-S01",
+   "unit_id": "C53-D017",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "助けたい気持ちと、責められたくない気持ちの葛藤があったんですね。",
+   "start_sec": 104.642,
+   "end_sec": 109.213,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D018-S01",
+   "unit_id": "C53-D018",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "ええ。",
+   "start_sec": 109.563,
+   "end_sec": 110.115,
+   "review_flags": [],
+   "replacement": {
+    "text": "ええ。",
+    "voice": "ja-jp-podcaster-11",
+    "audio_file": "repairs\\C53-D018-S01.wav",
+    "origin": "bounded_same_voice_Lite_repair",
+    "repair": "M05-ack",
+    "repair_interval": [
+     0,
+     0.96
+    ],
+    "sha256": "f524d532afe492318ed33ae1884c0a9ef5b6a771243b687792e87d63bfbcd275"
+   }
+  },
+  {
+   "sentence_id": "C53-D018-S02",
+   "unit_id": "C53-D018",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "「俺たちを振り回すな」「お前は生意気だ」と怒る相手に、私も頭に来ました。",
+   "start_sec": 110.266,
+   "end_sec": 115.76,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D018-S03",
+   "unit_id": "C53-D018",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "「何を」と言い返して、口げんかになりました。",
+   "start_sec": 115.91,
+   "end_sec": 118.898,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D019-S01",
+   "unit_id": "C53-D019",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "双方が乱暴な言葉を使うと、話が擦れ違いますね。",
+   "start_sec": 119.248,
+   "end_sec": 123.571,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D020-S01",
+   "unit_id": "C53-D020",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "あの剣幕は怖かったです。",
+   "start_sec": 123.921,
+   "end_sec": 126.152,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D020-S02",
+   "unit_id": "C53-D020",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "私も「狡い」とぶつぶつ言いました。",
+   "start_sec": 126.302,
+   "end_sec": 128.786,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D020-S03",
+   "unit_id": "C53-D020",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "それなのに、自分だけ正しいと思っていました。",
+   "start_sec": 128.936,
+   "end_sec": 132.61,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D021-S01",
+   "unit_id": "C53-D021",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "憎まれ口は恨みの元になりますね。",
+   "start_sec": 132.96,
+   "end_sec": 135.726,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D021-S02",
+   "unit_id": "C53-D021",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "でも、説明だけで喧嘩は収まったんですか。",
+   "start_sec": 135.876,
+   "end_sec": 139.274,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D022-S01",
+   "unit_id": "C53-D022",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "いいえ。",
+   "start_sec": 139.624,
+   "end_sec": 140.584,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D022-S02",
+   "unit_id": "C53-D022",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "「だって、知らなかったんだもん」と弁解したら、「屁理屈だ」と言われました。",
+   "start_sec": 140.734,
+   "end_sec": 145.469,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D022-S03",
+   "unit_id": "C53-D022",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "後で謝りましたが、恥をかきました。",
+   "start_sec": 145.619,
+   "end_sec": 148.266,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D023-S01",
+   "unit_id": "C53-D023",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "「口は災いの門」ですね。",
+   "start_sec": 148.616,
+   "end_sec": 151.074,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C53-D023-S02",
+   "unit_id": "C53-D023",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "とにかく、今回も相手の不安を聞きましょう。",
+   "start_sec": 151.224,
+   "end_sec": 154.545,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

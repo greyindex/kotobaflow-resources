@@ -1,0 +1,1587 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 241.892,
+ "listening_review": "pending",
+ "source_chapter": 32,
+ "turns": [
+  {
+   "turn_id": "C32-D001",
+   "turn_index": 0,
+   "speaker": "ソフィア",
+   "source_text": "この写真講座に申し込もうと思う。何といっても、スマートフォンで始められるのがいいね。",
+   "sentence_ids": [
+    "C32-D001-S01",
+    "C32-D001-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 6.792,
+   "duration_sec": 6.792
+  },
+  {
+   "turn_id": "C32-D003",
+   "turn_index": 1,
+   "speaker": "ソフィア",
+   "source_text": "うん。仕事もあるから、まず短期の講座にするつもり。",
+   "sentence_ids": [
+    "C32-D003-S01",
+    "C32-D003-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.142,
+   "end_sec": 11.302,
+   "duration_sec": 4.16
+  },
+  {
+   "turn_id": "C32-D006",
+   "turn_index": 2,
+   "speaker": "田辺",
+   "source_text": "いいね。私も写真が好きだよ。まず、三回とも参加できるか確認しよう。",
+   "sentence_ids": [
+    "C32-D006-S01",
+    "C32-D006-S02",
+    "C32-D006-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 11.652,
+   "end_sec": 18.238,
+   "duration_sec": 6.586
+  },
+  {
+   "turn_id": "C32-D008",
+   "turn_index": 3,
+   "speaker": "田辺",
+   "source_text": "六日は仕事が休みだよ。十三日と二十日は、まだ仕事の予定を確認していない。",
+   "sentence_ids": [
+    "C32-D008-S01",
+    "C32-D008-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 18.588,
+   "end_sec": 24.59,
+   "duration_sec": 6.002
+  },
+  {
+   "turn_id": "C32-D009",
+   "turn_index": 4,
+   "speaker": "ソフィア",
+   "source_text": "私は三回とも大丈夫。二十日の夜は、友達と晩ご飯の予定があるよ。",
+   "sentence_ids": [
+    "C32-D009-S01",
+    "C32-D009-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 24.94,
+   "end_sec": 30.869,
+   "duration_sec": 5.929
+  },
+  {
+   "turn_id": "C32-D011",
+   "turn_index": 5,
+   "speaker": "ソフィア",
+   "source_text": "うん。新しいカメラは買わないつもり。このスマートフォンを使うよ。",
+   "sentence_ids": [
+    "C32-D011-S01",
+    "C32-D011-S02",
+    "C32-D011-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 31.219,
+   "end_sec": 35.979,
+   "duration_sec": 4.76
+  },
+  {
+   "turn_id": "C32-D015",
+   "turn_index": 6,
+   "speaker": "ソフィア",
+   "source_text": "すみません。二月の写真講座には、まだ申し込めますか。",
+   "sentence_ids": [
+    "C32-D015-S01",
+    "C32-D015-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.879,
+   "end_sec": 41.653,
+   "duration_sec": 4.774
+  },
+  {
+   "turn_id": "C32-D016",
+   "turn_index": 7,
+   "speaker": "森",
+   "source_text": "はい。今、五人の申込みがあります。あと三人、参加できます。",
+   "sentence_ids": [
+    "C32-D016-S01",
+    "C32-D016-S02",
+    "C32-D016-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 42.003,
+   "end_sec": 46.957,
+   "duration_sec": 4.954
+  },
+  {
+   "turn_id": "C32-D018",
+   "turn_index": 8,
+   "speaker": "森",
+   "source_text": "スマートフォンとペンとノートが必要です。毎回十四時からです。新しいカメラは買わなくてもいいですよ。",
+   "sentence_ids": [
+    "C32-D018-S01",
+    "C32-D018-S02",
+    "C32-D018-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 47.307,
+   "end_sec": 54.779,
+   "duration_sec": 7.472
+  },
+  {
+   "turn_id": "C32-D020",
+   "turn_index": 9,
+   "speaker": "森",
+   "source_text": "先生と相談して、雨の日は教室を使うことになりました。雨でも講座はありますよ。",
+   "sentence_ids": [
+    "C32-D020-S01",
+    "C32-D020-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 55.129,
+   "end_sec": 61.358,
+   "duration_sec": 6.229
+  },
+  {
+   "turn_id": "C32-D023",
+   "turn_index": 10,
+   "speaker": "田辺",
+   "source_text": "私も参加したいです。でも、十三日と二十日の仕事の予定は、まだ確認していません。",
+   "sentence_ids": [
+    "C32-D023-S01",
+    "C32-D023-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 61.708,
+   "end_sec": 69.744,
+   "duration_sec": 8.036
+  },
+  {
+   "turn_id": "C32-D024",
+   "turn_index": 11,
+   "speaker": "森",
+   "source_text": "申込みの締切は一月二十八日です。仕事の日程を確認してくださいね。",
+   "sentence_ids": [
+    "C32-D024-S01",
+    "C32-D024-S02"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 70.094,
+   "end_sec": 76.219,
+   "duration_sec": 6.125
+  },
+  {
+   "turn_id": "C32-D026",
+   "turn_index": 12,
+   "speaker": "森",
+   "source_text": "すみません。電話で予約はできません。こちらの受付でお願いします。",
+   "sentence_ids": [
+    "C32-D026-S01",
+    "C32-D026-S02",
+    "C32-D026-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 76.569,
+   "end_sec": 81.481,
+   "duration_sec": 4.912
+  },
+  {
+   "turn_id": "C32-D027",
+   "turn_index": 13,
+   "speaker": "田辺",
+   "source_text": "では、今日は申し込まないことにします。まず仕事の予定を確認します。",
+   "sentence_ids": [
+    "C32-D027-S01",
+    "C32-D027-S02"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 81.831,
+   "end_sec": 86.69,
+   "duration_sec": 4.859
+  },
+  {
+   "turn_id": "C32-D028",
+   "turn_index": 14,
+   "speaker": "ソフィア",
+   "source_text": "私は今日、申し込みます。さっそくですが、料金も今、払えますか。",
+   "sentence_ids": [
+    "C32-D028-S01",
+    "C32-D028-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 87.04,
+   "end_sec": 91.814,
+   "duration_sec": 4.774
+  },
+  {
+   "turn_id": "C32-D029",
+   "turn_index": 15,
+   "speaker": "森",
+   "source_text": "はい。払えますよ。この紙に名前と電話番号を書いてください。",
+   "sentence_ids": [
+    "C32-D029-S01",
+    "C32-D029-S02",
+    "C32-D029-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 92.164,
+   "end_sec": 97.18,
+   "duration_sec": 5.016
+  },
+  {
+   "turn_id": "C32-D030",
+   "turn_index": 16,
+   "speaker": "ソフィア",
+   "source_text": "はい、書きました。三回で千五百円ですね。お願いします。",
+   "sentence_ids": [
+    "C32-D030-S01",
+    "C32-D030-S02",
+    "C32-D030-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 97.53,
+   "end_sec": 102.251,
+   "duration_sec": 4.721
+  },
+  {
+   "turn_id": "C32-D031",
+   "turn_index": 17,
+   "speaker": "森",
+   "source_text": "ありがとうございます。これで申込みは終わりです。二月六日に来てください。",
+   "sentence_ids": [
+    "C32-D031-S01",
+    "C32-D031-S02",
+    "C32-D031-S03"
+   ],
+   "voice_id": "ja-jp-tutor-9",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 102.601,
+   "end_sec": 107.532,
+   "duration_sec": 4.931
+  },
+  {
+   "turn_id": "C32-D032",
+   "turn_index": 18,
+   "speaker": "ソフィア",
+   "source_text": "はい。二階の第二教室ですね。ありがとうございました。",
+   "sentence_ids": [
+    "C32-D032-S01",
+    "C32-D032-S02",
+    "C32-D032-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 107.882,
+   "end_sec": 112.062,
+   "duration_sec": 4.18
+  },
+  {
+   "turn_id": "C32-D036",
+   "turn_index": 19,
+   "speaker": "ソフィア",
+   "source_text": "続けるつもり。でも、写真の仕事をするつもりはないよ。仕事を辞める気もない。",
+   "sentence_ids": [
+    "C32-D036-S01",
+    "C32-D036-S02",
+    "C32-D036-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 112.962,
+   "end_sec": 119.396,
+   "duration_sec": 6.434
+  },
+  {
+   "turn_id": "C32-D038",
+   "turn_index": 20,
+   "speaker": "ソフィア",
+   "source_text": "今は日曜日に一枚撮ることにしているよ。いずれ本を作りたい。でも、次の講座はまだ決めていない。",
+   "sentence_ids": [
+    "C32-D038-S01",
+    "C32-D038-S02",
+    "C32-D038-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 119.746,
+   "end_sec": 127.633,
+   "duration_sec": 7.887
+  },
+  {
+   "turn_id": "C32-D045",
+   "turn_index": 21,
+   "speaker": "田辺",
+   "source_text": "私は隣で弟の資料をもらおう。中学を卒業して、今は高校二年生なんだ。来学期は受験の準備を始めると言っていたよ。",
+   "sentence_ids": [
+    "C32-D045-S01",
+    "C32-D045-S02",
+    "C32-D045-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 128.533,
+   "end_sec": 139.171,
+   "duration_sec": 10.638
+  },
+  {
+   "turn_id": "C32-D046",
+   "turn_index": 22,
+   "speaker": "ソフィア",
+   "source_text": "どんな学科を志望しているの？　このポスターの女子学生は、前にここで会った人だね。",
+   "sentence_ids": [
+    "C32-D046-S01",
+    "C32-D046-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 139.521,
+   "end_sec": 145.916,
+   "duration_sec": 6.395
+  },
+  {
+   "turn_id": "C32-D047",
+   "turn_index": 23,
+   "speaker": "田辺",
+   "source_text": "うん、今は医学生だよ。弟の志望は歴史。高校の地理の授業で古い地図を見て、研究に興味を持ったんだ。",
+   "sentence_ids": [
+    "C32-D047-S01",
+    "C32-D047-S02",
+    "C32-D047-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 146.266,
+   "end_sec": 155.219,
+   "duration_sec": 8.953
+  },
+  {
+   "turn_id": "C32-D048",
+   "turn_index": 24,
+   "speaker": "ソフィア",
+   "source_text": "それが動機なんだね。私の中学校の同級生にも、中国史が専門の大学院生がいるよ。大学で歴史を専攻して、今も勉強を続けている。",
+   "sentence_ids": [
+    "C32-D048-S01",
+    "C32-D048-S02",
+    "C32-D048-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 155.569,
+   "end_sec": 166.87,
+   "duration_sec": 11.301
+  },
+  {
+   "turn_id": "C32-D049",
+   "turn_index": 25,
+   "speaker": "田辺",
+   "source_text": "弟も研究者に憧れている。でも、大学院の話はまだ先だね。まず入試の合格を目指して、向こう一年のプランを考えることにしたんだ。",
+   "sentence_ids": [
+    "C32-D049-S01",
+    "C32-D049-S02",
+    "C32-D049-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 167.22,
+   "end_sec": 177.625,
+   "duration_sec": 10.405
+  },
+  {
+   "turn_id": "C32-D050",
+   "turn_index": 26,
+   "speaker": "ソフィア",
+   "source_text": "大学に入学したら、上京する予定？　一人で引っ越すのは大変だね。",
+   "sentence_ids": [
+    "C32-D050-S01",
+    "C32-D050-S02"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 177.975,
+   "end_sec": 183.327,
+   "duration_sec": 5.352
+  },
+  {
+   "turn_id": "C32-D051",
+   "turn_index": 27,
+   "speaker": "田辺",
+   "source_text": "まだ決まっていないよ。独立した生活への憧れはある。でも、貯金も少ない。新学期には、近所の店のアルバイトに応募するつもりだと言っていたよ。",
+   "sentence_ids": [
+    "C32-D051-S01",
+    "C32-D051-S02",
+    "C32-D051-S03",
+    "C32-D051-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 183.677,
+   "end_sec": 194.709,
+   "duration_sec": 11.032
+  },
+  {
+   "turn_id": "C32-D052",
+   "turn_index": 28,
+   "speaker": "ソフィア",
+   "source_text": "時給だけで選ばないでね。試験期は休めるか、聞いたほうがいいよ。私もパートの仕事と講座の時間を比べて選んだから。",
+   "sentence_ids": [
+    "C32-D052-S01",
+    "C32-D052-S02",
+    "C32-D052-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 195.059,
+   "end_sec": 205.102,
+   "duration_sec": 10.043
+  },
+  {
+   "turn_id": "C32-D053",
+   "turn_index": 29,
+   "speaker": "田辺",
+   "source_text": "そうだね。弟は今、向上心に燃えて張り切っている。でも、前の旅行の計画は立ち消えになったんだ。今回は実現できるかな。",
+   "sentence_ids": [
+    "C32-D053-S01",
+    "C32-D053-S02",
+    "C32-D053-S03",
+    "C32-D053-S04"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 205.452,
+   "end_sec": 216.713,
+   "duration_sec": 11.261
+  },
+  {
+   "turn_id": "C32-D054",
+   "turn_index": 30,
+   "speaker": "ソフィア",
+   "source_text": "今から前途を心配しすぎないで。未来はまだ分からないよ。まず今日できることに目を向けよう。夢を諦めるのは早いと思う。",
+   "sentence_ids": [
+    "C32-D054-S01",
+    "C32-D054-S02",
+    "C32-D054-S03",
+    "C32-D054-S04"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 217.063,
+   "end_sec": 226.926,
+   "duration_sec": 9.863
+  },
+  {
+   "turn_id": "C32-D055",
+   "turn_index": 31,
+   "speaker": "田辺",
+   "source_text": "そうだね。前向きに考えよう。夢が叶うまでの道は長いけど、今日の相談も有意義な一歩だね。",
+   "sentence_ids": [
+    "C32-D055-S01",
+    "C32-D055-S02",
+    "C32-D055-S03"
+   ],
+   "voice_id": "ja-jp-storyteller-12",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 227.276,
+   "end_sec": 235.011,
+   "duration_sec": 7.735
+  },
+  {
+   "turn_id": "C32-D056",
+   "turn_index": 32,
+   "speaker": "ソフィア",
+   "source_text": "受付はすぐそこだよ。私はさっそく家で写真を選ぼうと思う。講座が終わったら見てね。",
+   "sentence_ids": [
+    "C32-D056-S01",
+    "C32-D056-S02",
+    "C32-D056-S03"
+   ],
+   "voice_id": "ja-jp-csagent-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 235.361,
+   "end_sec": 241.886,
+   "duration_sec": 6.525
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C32-D001-S01",
+   "unit_id": "C32-D001",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "この写真講座に申し込もうと思う。",
+   "start_sec": 0.0,
+   "end_sec": 2.953,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D001-S02",
+   "unit_id": "C32-D001",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "何といっても、スマートフォンで始められるのがいいね。",
+   "start_sec": 3.103,
+   "end_sec": 6.792,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D003-S01",
+   "unit_id": "C32-D003",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "うん。",
+   "start_sec": 7.142,
+   "end_sec": 7.637,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D003-S02",
+   "unit_id": "C32-D003",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "仕事もあるから、まず短期の講座にするつもり。",
+   "start_sec": 7.787,
+   "end_sec": 11.302,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D006-S01",
+   "unit_id": "C32-D006",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "いいね。",
+   "start_sec": 11.652,
+   "end_sec": 12.706,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D006-S02",
+   "unit_id": "C32-D006",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "私も写真が好きだよ。",
+   "start_sec": 12.856,
+   "end_sec": 14.674,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D006-S03",
+   "unit_id": "C32-D006",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "まず、三回とも参加できるか確認しよう。",
+   "start_sec": 14.824,
+   "end_sec": 18.238,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D008-S01",
+   "unit_id": "C32-D008",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "六日は仕事が休みだよ。",
+   "start_sec": 18.588,
+   "end_sec": 20.559,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D008-S02",
+   "unit_id": "C32-D008",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "十三日と二十日は、まだ仕事の予定を確認していない。",
+   "start_sec": 20.709,
+   "end_sec": 24.59,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D009-S01",
+   "unit_id": "C32-D009",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "私は三回とも大丈夫。",
+   "start_sec": 24.94,
+   "end_sec": 27.162,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D009-S02",
+   "unit_id": "C32-D009",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "二十日の夜は、友達と晩ご飯の予定があるよ。",
+   "start_sec": 27.312,
+   "end_sec": 30.869,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D011-S01",
+   "unit_id": "C32-D011",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "うん。",
+   "start_sec": 31.219,
+   "end_sec": 31.681,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D011-S02",
+   "unit_id": "C32-D011",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "新しいカメラは買わないつもり。",
+   "start_sec": 31.831,
+   "end_sec": 34.128,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D011-S03",
+   "unit_id": "C32-D011",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "このスマートフォンを使うよ。",
+   "start_sec": 34.278,
+   "end_sec": 35.979,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D015-S01",
+   "unit_id": "C32-D015",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "すみません。",
+   "start_sec": 36.879,
+   "end_sec": 37.89,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D015-S02",
+   "unit_id": "C32-D015",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "二月の写真講座には、まだ申し込めますか。",
+   "start_sec": 38.04,
+   "end_sec": 41.653,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D016-S01",
+   "unit_id": "C32-D016",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい。",
+   "start_sec": 42.003,
+   "end_sec": 42.693,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D016-S02",
+   "unit_id": "C32-D016",
+   "section": "D",
+   "speaker": "森",
+   "text": "今、五人の申込みがあります。",
+   "start_sec": 42.843,
+   "end_sec": 45.159,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D016-S03",
+   "unit_id": "C32-D016",
+   "section": "D",
+   "speaker": "森",
+   "text": "あと三人、参加できます。",
+   "start_sec": 45.309,
+   "end_sec": 46.957,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D018-S01",
+   "unit_id": "C32-D018",
+   "section": "D",
+   "speaker": "森",
+   "text": "スマートフォンとペンとノートが必要です。",
+   "start_sec": 47.307,
+   "end_sec": 50.299,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D018-S02",
+   "unit_id": "C32-D018",
+   "section": "D",
+   "speaker": "森",
+   "text": "毎回十四時からです。",
+   "start_sec": 50.449,
+   "end_sec": 52.242,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D018-S03",
+   "unit_id": "C32-D018",
+   "section": "D",
+   "speaker": "森",
+   "text": "新しいカメラは買わなくてもいいですよ。",
+   "start_sec": 52.392,
+   "end_sec": 54.779,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D020-S01",
+   "unit_id": "C32-D020",
+   "section": "D",
+   "speaker": "森",
+   "text": "先生と相談して、雨の日は教室を使うことになりました。",
+   "start_sec": 55.129,
+   "end_sec": 59.413,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D020-S02",
+   "unit_id": "C32-D020",
+   "section": "D",
+   "speaker": "森",
+   "text": "雨でも講座はありますよ。",
+   "start_sec": 59.563,
+   "end_sec": 61.358,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D023-S01",
+   "unit_id": "C32-D023",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "私も参加したいです。",
+   "start_sec": 61.708,
+   "end_sec": 63.533,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D023-S02",
+   "unit_id": "C32-D023",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "でも、十三日と二十日の仕事の予定は、まだ確認していません。",
+   "start_sec": 63.683,
+   "end_sec": 69.744,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D024-S01",
+   "unit_id": "C32-D024",
+   "section": "D",
+   "speaker": "森",
+   "text": "申込みの締切は一月二十八日です。",
+   "start_sec": 70.094,
+   "end_sec": 73.673,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D024-S02",
+   "unit_id": "C32-D024",
+   "section": "D",
+   "speaker": "森",
+   "text": "仕事の日程を確認してくださいね。",
+   "start_sec": 73.823,
+   "end_sec": 76.219,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D026-S01",
+   "unit_id": "C32-D026",
+   "section": "D",
+   "speaker": "森",
+   "text": "すみません。",
+   "start_sec": 76.569,
+   "end_sec": 77.371,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D026-S02",
+   "unit_id": "C32-D026",
+   "section": "D",
+   "speaker": "森",
+   "text": "電話で予約はできません。",
+   "start_sec": 77.521,
+   "end_sec": 79.404,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D026-S03",
+   "unit_id": "C32-D026",
+   "section": "D",
+   "speaker": "森",
+   "text": "こちらの受付でお願いします。",
+   "start_sec": 79.555,
+   "end_sec": 81.481,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D027-S01",
+   "unit_id": "C32-D027",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "では、今日は申し込まないことにします。",
+   "start_sec": 81.831,
+   "end_sec": 84.2,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D027-S02",
+   "unit_id": "C32-D027",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "まず仕事の予定を確認します。",
+   "start_sec": 84.35,
+   "end_sec": 86.69,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D028-S01",
+   "unit_id": "C32-D028",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "私は今日、申し込みます。",
+   "start_sec": 87.04,
+   "end_sec": 88.961,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D028-S02",
+   "unit_id": "C32-D028",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "さっそくですが、料金も今、払えますか。",
+   "start_sec": 89.111,
+   "end_sec": 91.814,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D029-S01",
+   "unit_id": "C32-D029",
+   "section": "D",
+   "speaker": "森",
+   "text": "はい。",
+   "start_sec": 92.164,
+   "end_sec": 92.632,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D029-S02",
+   "unit_id": "C32-D029",
+   "section": "D",
+   "speaker": "森",
+   "text": "払えますよ。",
+   "start_sec": 92.782,
+   "end_sec": 93.912,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D029-S03",
+   "unit_id": "C32-D029",
+   "section": "D",
+   "speaker": "森",
+   "text": "この紙に名前と電話番号を書いてください。",
+   "start_sec": 94.062,
+   "end_sec": 97.18,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D030-S01",
+   "unit_id": "C32-D030",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "はい、書きました。",
+   "start_sec": 97.53,
+   "end_sec": 98.858,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D030-S02",
+   "unit_id": "C32-D030",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "三回で千五百円ですね。",
+   "start_sec": 99.008,
+   "end_sec": 101.074,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D030-S03",
+   "unit_id": "C32-D030",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "お願いします。",
+   "start_sec": 101.224,
+   "end_sec": 102.251,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D031-S01",
+   "unit_id": "C32-D031",
+   "section": "D",
+   "speaker": "森",
+   "text": "ありがとうございます。",
+   "start_sec": 102.601,
+   "end_sec": 103.756,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D031-S02",
+   "unit_id": "C32-D031",
+   "section": "D",
+   "speaker": "森",
+   "text": "これで申込みは終わりです。",
+   "start_sec": 103.906,
+   "end_sec": 105.616,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D031-S03",
+   "unit_id": "C32-D031",
+   "section": "D",
+   "speaker": "森",
+   "text": "二月六日に来てください。",
+   "start_sec": 105.766,
+   "end_sec": 107.532,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D032-S01",
+   "unit_id": "C32-D032",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "はい。",
+   "start_sec": 107.882,
+   "end_sec": 108.472,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D032-S02",
+   "unit_id": "C32-D032",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "二階の第二教室ですね。",
+   "start_sec": 108.622,
+   "end_sec": 110.536,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D032-S03",
+   "unit_id": "C32-D032",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "ありがとうございました。",
+   "start_sec": 110.686,
+   "end_sec": 112.062,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D036-S01",
+   "unit_id": "C32-D036",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "続けるつもり。",
+   "start_sec": 112.962,
+   "end_sec": 114.407,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D036-S02",
+   "unit_id": "C32-D036",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "でも、写真の仕事をするつもりはないよ。",
+   "start_sec": 114.557,
+   "end_sec": 117.46,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D036-S03",
+   "unit_id": "C32-D036",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "仕事を辞める気もない。",
+   "start_sec": 117.61,
+   "end_sec": 119.396,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D038-S01",
+   "unit_id": "C32-D038",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "今は日曜日に一枚撮ることにしているよ。",
+   "start_sec": 119.746,
+   "end_sec": 122.897,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D038-S02",
+   "unit_id": "C32-D038",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "いずれ本を作りたい。",
+   "start_sec": 123.047,
+   "end_sec": 124.968,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D038-S03",
+   "unit_id": "C32-D038",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "でも、次の講座はまだ決めていない。",
+   "start_sec": 125.118,
+   "end_sec": 127.633,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D045-S01",
+   "unit_id": "C32-D045",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "私は隣で弟の資料をもらおう。",
+   "start_sec": 128.533,
+   "end_sec": 131.46,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D045-S02",
+   "unit_id": "C32-D045",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "中学を卒業して、今は高校二年生なんだ。",
+   "start_sec": 131.61,
+   "end_sec": 135.912,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D045-S03",
+   "unit_id": "C32-D045",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "来学期は受験の準備を始めると言っていたよ。",
+   "start_sec": 136.062,
+   "end_sec": 139.171,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D046-S01",
+   "unit_id": "C32-D046",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "どんな学科を志望しているの？",
+   "start_sec": 139.521,
+   "end_sec": 141.894,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D046-S02",
+   "unit_id": "C32-D046",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "　このポスターの女子学生は、前にここで会った人だね。",
+   "start_sec": 142.044,
+   "end_sec": 145.916,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D047-S01",
+   "unit_id": "C32-D047",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "うん、今は医学生だよ。",
+   "start_sec": 146.266,
+   "end_sec": 148.552,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D047-S02",
+   "unit_id": "C32-D047",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "弟の志望は歴史。",
+   "start_sec": 148.702,
+   "end_sec": 150.48,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D047-S03",
+   "unit_id": "C32-D047",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "高校の地理の授業で古い地図を見て、研究に興味を持ったんだ。",
+   "start_sec": 150.63,
+   "end_sec": 155.219,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D048-S01",
+   "unit_id": "C32-D048",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "それが動機なんだね。",
+   "start_sec": 155.569,
+   "end_sec": 157.532,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D048-S02",
+   "unit_id": "C32-D048",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "私の中学校の同級生にも、中国史が専門の大学院生がいるよ。",
+   "start_sec": 157.682,
+   "end_sec": 163.138,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D048-S03",
+   "unit_id": "C32-D048",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "大学で歴史を専攻して、今も勉強を続けている。",
+   "start_sec": 163.288,
+   "end_sec": 166.87,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D049-S01",
+   "unit_id": "C32-D049",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "弟も研究者に憧れている。",
+   "start_sec": 167.22,
+   "end_sec": 169.55,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D049-S02",
+   "unit_id": "C32-D049",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "でも、大学院の話はまだ先だね。",
+   "start_sec": 169.7,
+   "end_sec": 172.763,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D049-S03",
+   "unit_id": "C32-D049",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "まず入試の合格を目指して、向こう一年のプランを考えることにしたんだ。",
+   "start_sec": 172.913,
+   "end_sec": 177.625,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D050-S01",
+   "unit_id": "C32-D050",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "大学に入学したら、上京する予定？",
+   "start_sec": 177.975,
+   "end_sec": 181.052,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D050-S02",
+   "unit_id": "C32-D050",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "　一人で引っ越すのは大変だね。",
+   "start_sec": 181.202,
+   "end_sec": 183.327,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D051-S01",
+   "unit_id": "C32-D051",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "まだ決まっていないよ。",
+   "start_sec": 183.677,
+   "end_sec": 185.35,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D051-S02",
+   "unit_id": "C32-D051",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "独立した生活への憧れはある。",
+   "start_sec": 185.5,
+   "end_sec": 188.145,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D051-S03",
+   "unit_id": "C32-D051",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "でも、貯金も少ない。",
+   "start_sec": 188.295,
+   "end_sec": 190.358,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D051-S04",
+   "unit_id": "C32-D051",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "新学期には、近所の店のアルバイトに応募するつもりだと言っていたよ。",
+   "start_sec": 190.508,
+   "end_sec": 194.709,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D052-S01",
+   "unit_id": "C32-D052",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "時給だけで選ばないでね。",
+   "start_sec": 195.059,
+   "end_sec": 197.287,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D052-S02",
+   "unit_id": "C32-D052",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "試験期は休めるか、聞いたほうがいいよ。",
+   "start_sec": 197.437,
+   "end_sec": 200.565,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D052-S03",
+   "unit_id": "C32-D052",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "私もパートの仕事と講座の時間を比べて選んだから。",
+   "start_sec": 200.715,
+   "end_sec": 205.102,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D053-S01",
+   "unit_id": "C32-D053",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "そうだね。",
+   "start_sec": 205.452,
+   "end_sec": 206.405,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D053-S02",
+   "unit_id": "C32-D053",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "弟は今、向上心に燃えて張り切っている。",
+   "start_sec": 206.555,
+   "end_sec": 210.713,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D053-S03",
+   "unit_id": "C32-D053",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "でも、前の旅行の計画は立ち消えになったんだ。",
+   "start_sec": 210.863,
+   "end_sec": 214.685,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D053-S04",
+   "unit_id": "C32-D053",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "今回は実現できるかな。",
+   "start_sec": 214.835,
+   "end_sec": 216.713,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D054-S01",
+   "unit_id": "C32-D054",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "今から前途を心配しすぎないで。",
+   "start_sec": 217.063,
+   "end_sec": 219.713,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D054-S02",
+   "unit_id": "C32-D054",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "未来はまだ分からないよ。",
+   "start_sec": 219.863,
+   "end_sec": 221.85,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D054-S03",
+   "unit_id": "C32-D054",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "まず今日できることに目を向けよう。",
+   "start_sec": 222.0,
+   "end_sec": 224.629,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D054-S04",
+   "unit_id": "C32-D054",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "夢を諦めるのは早いと思う。",
+   "start_sec": 224.779,
+   "end_sec": 226.926,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D055-S01",
+   "unit_id": "C32-D055",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "そうだね。",
+   "start_sec": 227.276,
+   "end_sec": 228.171,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D055-S02",
+   "unit_id": "C32-D055",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "前向きに考えよう。",
+   "start_sec": 228.321,
+   "end_sec": 230.003,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D055-S03",
+   "unit_id": "C32-D055",
+   "section": "D",
+   "speaker": "田辺",
+   "text": "夢が叶うまでの道は長いけど、今日の相談も有意義な一歩だね。",
+   "start_sec": 230.153,
+   "end_sec": 235.011,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D056-S01",
+   "unit_id": "C32-D056",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "受付はすぐそこだよ。",
+   "start_sec": 235.361,
+   "end_sec": 237.153,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D056-S02",
+   "unit_id": "C32-D056",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "私はさっそく家で写真を選ぼうと思う。",
+   "start_sec": 237.303,
+   "end_sec": 240.188,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C32-D056-S03",
+   "unit_id": "C32-D056",
+   "section": "D",
+   "speaker": "ソフィア",
+   "text": "講座が終わったら見てね。",
+   "start_sec": 240.338,
+   "end_sec": 241.886,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}

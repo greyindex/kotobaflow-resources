@@ -1,0 +1,729 @@
+{
+ "schema": 2,
+ "mode": "absolute",
+ "model": "gemini-3.8-flash-lite-tts",
+ "duration_sec": 125.327,
+ "listening_review": "pending",
+ "source_chapter": 56,
+ "turns": [
+  {
+   "turn_id": "C56-D001",
+   "turn_index": 0,
+   "speaker": "ミン",
+   "source_text": "提案の目的を確かめましょう。学習室を使いやすくするために、何を変えるか考えるんですよね。",
+   "sentence_ids": [
+    "C56-D001-S01",
+    "C56-D001-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 0.0,
+   "end_sec": 6.793,
+   "duration_sec": 6.793
+  },
+  {
+   "turn_id": "C56-D002",
+   "turn_index": 1,
+   "speaker": "アナ",
+   "source_text": "はい。資料の結果を報告します。週に三日以上使った人は、八人から十二人になりました。",
+   "sentence_ids": [
+    "C56-D002-S01",
+    "C56-D002-S02",
+    "C56-D002-S03"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 7.143,
+   "end_sec": 14.966,
+   "duration_sec": 7.823
+  },
+  {
+   "turn_id": "C56-D003",
+   "turn_index": 2,
+   "speaker": "佐藤",
+   "source_text": "割合は四十パーセントから六十パーセントですね。「二十パーセント増えた」と書いてもいいですか。",
+   "sentence_ids": [
+    "C56-D003-S01",
+    "C56-D003-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": true,
+   "review_flags": [
+    "clip_asr_difference",
+    "low_ASR_text_match"
+   ],
+   "start_sec": 15.316,
+   "end_sec": 20.934,
+   "duration_sec": 5.618
+  },
+  {
+   "turn_id": "C56-D004",
+   "turn_index": 3,
+   "speaker": "アナ",
+   "source_text": "差は二十ポイントです。増えた二十は元の四十の半分なので、五十パーセント増えたと言えます。",
+   "sentence_ids": [
+    "C56-D004-S01",
+    "C56-D004-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 21.284,
+   "end_sec": 28.416,
+   "duration_sec": 7.132
+  },
+  {
+   "turn_id": "C56-D005",
+   "turn_index": 4,
+   "speaker": "佐藤",
+   "source_text": "つまり、割合は元の一・五倍ですね。対象が同じ二十人だということも、説明に入れましょう。",
+   "sentence_ids": [
+    "C56-D005-S01",
+    "C56-D005-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 28.766,
+   "end_sec": 35.684,
+   "duration_sec": 6.918
+  },
+  {
+   "turn_id": "C56-D006",
+   "turn_index": 5,
+   "speaker": "ミン",
+   "source_text": "そうですね。一回の利用時間も長くなったんでしょうか。通常の週の平均は六十分と書いてありますが。",
+   "sentence_ids": [
+    "C56-D006-S01",
+    "C56-D006-S02",
+    "C56-D006-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 36.034,
+   "end_sec": 43.852,
+   "duration_sec": 7.818
+  },
+  {
+   "turn_id": "C56-D007",
+   "turn_index": 6,
+   "speaker": "アナ",
+   "source_text": "それは実際に使った十五人の一回の平均です。試行の週の平均はないので、比べられません。",
+   "sentence_ids": [
+    "C56-D007-S01",
+    "C56-D007-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 44.202,
+   "end_sec": 51.277,
+   "duration_sec": 7.075
+  },
+  {
+   "turn_id": "C56-D008",
+   "turn_index": 7,
+   "speaker": "佐藤",
+   "source_text": "では、今の情報だけで長く続けると決めるのは早いですね。でも、この資料には意味があるんですよね。",
+   "sentence_ids": [
+    "C56-D008-S01",
+    "C56-D008-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 51.627,
+   "end_sec": 59.116,
+   "duration_sec": 7.489
+  },
+  {
+   "turn_id": "C56-D009",
+   "turn_index": 8,
+   "speaker": "ミン",
+   "source_text": "もちろんです。この二十人の変化は分かります。ただ、原因や全体の希望までは分かりません。",
+   "sentence_ids": [
+    "C56-D009-S01",
+    "C56-D009-S02",
+    "C56-D009-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 59.466,
+   "end_sec": 66.295,
+   "duration_sec": 6.829
+  },
+  {
+   "turn_id": "C56-D010",
+   "turn_index": 9,
+   "speaker": "アナ",
+   "source_text": "参加しなかった人にも意見を聞きましょう。担当者に問い合わせて、伺う日程を相談するのは私が担当します。",
+   "sentence_ids": [
+    "C56-D010-S01",
+    "C56-D010-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 66.645,
+   "end_sec": 74.473,
+   "duration_sec": 7.828
+  },
+  {
+   "turn_id": "C56-D011",
+   "turn_index": 10,
+   "speaker": "佐藤",
+   "source_text": "頼まれた人が断りにくいと思わないように、参加は自由だと説明しておくべきですね。",
+   "sentence_ids": [
+    "C56-D011-S01"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 74.823,
+   "end_sec": 80.181,
+   "duration_sec": 5.358
+  },
+  {
+   "turn_id": "C56-D012",
+   "turn_index": 11,
+   "speaker": "ミン",
+   "source_text": "はい。「ご意見を教えていただけませんか」と頼みます。記録してもいいかも別に確認します。",
+   "sentence_ids": [
+    "C56-D012-S01",
+    "C56-D012-S02",
+    "C56-D012-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 80.531,
+   "end_sec": 87.529,
+   "duration_sec": 6.998
+  },
+  {
+   "turn_id": "C56-D013",
+   "turn_index": 12,
+   "speaker": "アナ",
+   "source_text": "同意した後で使わないでくださいと言われた場合は、使いません。その条件も伝えましょう。",
+   "sentence_ids": [
+    "C56-D013-S01",
+    "C56-D013-S02"
+   ],
+   "voice_id": "ja-jp-advisor-5",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 87.879,
+   "end_sec": 93.644,
+   "duration_sec": 5.765
+  },
+  {
+   "turn_id": "C56-D014",
+   "turn_index": 13,
+   "speaker": "佐藤",
+   "source_text": "予算も必要な人数も確認しますね。足りなかったら、誰か一人に無理をさせるわけにはいきません。",
+   "sentence_ids": [
+    "C56-D014-S01",
+    "C56-D014-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 93.994,
+   "end_sec": 100.683,
+   "duration_sec": 6.689
+  },
+  {
+   "turn_id": "C56-D015",
+   "turn_index": 14,
+   "speaker": "ミン",
+   "source_text": "その場合は、今の時間を変えない代案を出します。全部をすぐに解決するために無理をすることはありません。",
+   "sentence_ids": [
+    "C56-D015-S01",
+    "C56-D015-S02"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 101.033,
+   "end_sec": 108.486,
+   "duration_sec": 7.453
+  },
+  {
+   "turn_id": "C56-D016",
+   "turn_index": 15,
+   "speaker": "佐藤",
+   "source_text": "では、私は数値と出典を確認します。ミンさんは、事実と今後の計画を分けて、提案を書き直してくれませんか。",
+   "sentence_ids": [
+    "C56-D016-S01",
+    "C56-D016-S02"
+   ],
+   "voice_id": "ja-jp-advisor-10",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 108.836,
+   "end_sec": 116.408,
+   "duration_sec": 7.572
+  },
+  {
+   "turn_id": "C56-D017",
+   "turn_index": 16,
+   "speaker": "ミン",
+   "source_text": "はい。書き直したら、読んでいただけませんか。分からない点が残っていても、分かったふりはしないで、その点も書いて発表しましょう。",
+   "sentence_ids": [
+    "C56-D017-S01",
+    "C56-D017-S02",
+    "C56-D017-S03"
+   ],
+   "voice_id": "ja-jp-podcaster-11",
+   "status": "candidate",
+   "review_needed": false,
+   "review_flags": [],
+   "start_sec": 116.758,
+   "end_sec": 125.32,
+   "duration_sec": 8.562
+  }
+ ],
+ "sentence_intervals": [
+  {
+   "sentence_id": "C56-D001-S01",
+   "unit_id": "C56-D001",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "提案の目的を確かめましょう。",
+   "start_sec": 0.0,
+   "end_sec": 2.014,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D001-S02",
+   "unit_id": "C56-D001",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "学習室を使いやすくするために、何を変えるか考えるんですよね。",
+   "start_sec": 2.164,
+   "end_sec": 6.793,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D002-S01",
+   "unit_id": "C56-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "はい。",
+   "start_sec": 7.143,
+   "end_sec": 7.909,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D002-S02",
+   "unit_id": "C56-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "資料の結果を報告します。",
+   "start_sec": 8.059,
+   "end_sec": 10.071,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D002-S03",
+   "unit_id": "C56-D002",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "週に三日以上使った人は、八人から十二人になりました。",
+   "start_sec": 10.221,
+   "end_sec": 14.966,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D003-S01",
+   "unit_id": "C56-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "割合は四十パーセントから六十パーセントですね。",
+   "start_sec": 15.316,
+   "end_sec": 18.521,
+   "review_flags": [
+    "low_ASR_text_match",
+    "clip_asr_difference"
+   ],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D003-S02",
+   "unit_id": "C56-D003",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "「二十パーセント増えた」と書いてもいいですか。",
+   "start_sec": 18.671,
+   "end_sec": 20.934,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D004-S01",
+   "unit_id": "C56-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "差は二十ポイントです。",
+   "start_sec": 21.284,
+   "end_sec": 23.036,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D004-S02",
+   "unit_id": "C56-D004",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "増えた二十は元の四十の半分なので、五十パーセント増えたと言えます。",
+   "start_sec": 23.186,
+   "end_sec": 28.416,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D005-S01",
+   "unit_id": "C56-D005",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "つまり、割合は元の一・五倍ですね。",
+   "start_sec": 28.766,
+   "end_sec": 31.867,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D005-S02",
+   "unit_id": "C56-D005",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "対象が同じ二十人だということも、説明に入れましょう。",
+   "start_sec": 32.017,
+   "end_sec": 35.684,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D006-S01",
+   "unit_id": "C56-D006",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "そうですね。",
+   "start_sec": 36.034,
+   "end_sec": 37.382,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D006-S02",
+   "unit_id": "C56-D006",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "一回の利用時間も長くなったんでしょうか。",
+   "start_sec": 37.532,
+   "end_sec": 40.366,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D006-S03",
+   "unit_id": "C56-D006",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "通常の週の平均は六十分と書いてありますが。",
+   "start_sec": 40.516,
+   "end_sec": 43.852,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D007-S01",
+   "unit_id": "C56-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "それは実際に使った十五人の一回の平均です。",
+   "start_sec": 44.202,
+   "end_sec": 48.141,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D007-S02",
+   "unit_id": "C56-D007",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "試行の週の平均はないので、比べられません。",
+   "start_sec": 48.291,
+   "end_sec": 51.277,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D008-S01",
+   "unit_id": "C56-D008",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "では、今の情報だけで長く続けると決めるのは早いですね。",
+   "start_sec": 51.627,
+   "end_sec": 56.329,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D008-S02",
+   "unit_id": "C56-D008",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "でも、この資料には意味があるんですよね。",
+   "start_sec": 56.479,
+   "end_sec": 59.116,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D009-S01",
+   "unit_id": "C56-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "もちろんです。",
+   "start_sec": 59.466,
+   "end_sec": 60.796,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D009-S02",
+   "unit_id": "C56-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "この二十人の変化は分かります。",
+   "start_sec": 60.946,
+   "end_sec": 63.019,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D009-S03",
+   "unit_id": "C56-D009",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "ただ、原因や全体の希望までは分かりません。",
+   "start_sec": 63.169,
+   "end_sec": 66.295,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D010-S01",
+   "unit_id": "C56-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "参加しなかった人にも意見を聞きましょう。",
+   "start_sec": 66.645,
+   "end_sec": 69.516,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D010-S02",
+   "unit_id": "C56-D010",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "担当者に問い合わせて、伺う日程を相談するのは私が担当します。",
+   "start_sec": 69.666,
+   "end_sec": 74.473,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D011-S01",
+   "unit_id": "C56-D011",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "頼まれた人が断りにくいと思わないように、参加は自由だと説明しておくべきですね。",
+   "start_sec": 74.823,
+   "end_sec": 80.181,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D012-S01",
+   "unit_id": "C56-D012",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "はい。",
+   "start_sec": 80.531,
+   "end_sec": 81.316,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D012-S02",
+   "unit_id": "C56-D012",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "「ご意見を教えていただけませんか」と頼みます。",
+   "start_sec": 81.466,
+   "end_sec": 84.864,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D012-S03",
+   "unit_id": "C56-D012",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "記録してもいいかも別に確認します。",
+   "start_sec": 85.014,
+   "end_sec": 87.529,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D013-S01",
+   "unit_id": "C56-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "同意した後で使わないでくださいと言われた場合は、使いません。",
+   "start_sec": 87.879,
+   "end_sec": 91.991,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D013-S02",
+   "unit_id": "C56-D013",
+   "section": "D",
+   "speaker": "アナ",
+   "text": "その条件も伝えましょう。",
+   "start_sec": 92.141,
+   "end_sec": 93.644,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D014-S01",
+   "unit_id": "C56-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "予算も必要な人数も確認しますね。",
+   "start_sec": 93.994,
+   "end_sec": 96.834,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D014-S02",
+   "unit_id": "C56-D014",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "足りなかったら、誰か一人に無理をさせるわけにはいきません。",
+   "start_sec": 96.984,
+   "end_sec": 100.683,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D015-S01",
+   "unit_id": "C56-D015",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "その場合は、今の時間を変えない代案を出します。",
+   "start_sec": 101.033,
+   "end_sec": 104.729,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D015-S02",
+   "unit_id": "C56-D015",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "全部をすぐに解決するために無理をすることはありません。",
+   "start_sec": 104.879,
+   "end_sec": 108.486,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D016-S01",
+   "unit_id": "C56-D016",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "では、私は数値と出典を確認します。",
+   "start_sec": 108.836,
+   "end_sec": 111.571,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D016-S02",
+   "unit_id": "C56-D016",
+   "section": "D",
+   "speaker": "佐藤",
+   "text": "ミンさんは、事実と今後の計画を分けて、提案を書き直してくれませんか。",
+   "start_sec": 111.721,
+   "end_sec": 116.408,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D017-S01",
+   "unit_id": "C56-D017",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "はい。",
+   "start_sec": 116.758,
+   "end_sec": 117.229,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D017-S02",
+   "unit_id": "C56-D017",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "書き直したら、読んでいただけませんか。",
+   "start_sec": 117.379,
+   "end_sec": 119.905,
+   "review_flags": [],
+   "replacement": null
+  },
+  {
+   "sentence_id": "C56-D017-S03",
+   "unit_id": "C56-D017",
+   "section": "D",
+   "speaker": "ミン",
+   "text": "分からない点が残っていても、分かったふりはしないで、その点も書いて発表しましょう。",
+   "start_sec": 120.055,
+   "end_sec": 125.32,
+   "review_flags": [],
+   "replacement": null
+  }
+ ]
+}
